@@ -28,7 +28,7 @@
 
 ## 🌐 在 AtlasCloud 查看
 
-- 提示词库: [查看](https://www.atlascloud.ai/zh/seedance-2.5-prompt?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts)
+- 提示词库: [查看](https://www.atlascloud.ai/prompts-hub/seedance-2-5-prompt?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts&locale=zh-CN)
 - 模型页: [查看](https://www.atlascloud.ai/zh/models/bytedance/seedance-2.5/text-to-video?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts)
 
 ## 🧩 Supported Models
@@ -71,7 +71,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 | 提示词总数 | **94** |
 | 分类数 | **11** |
 | 预览视频数 | **88** |
-| 最后更新 | **2026-06-23T16:37:21.422Z** |
+| 最后更新 | **2026-07-08T14:08:12.393Z** |
 
 ## 🏷️ 按分类浏览
 
@@ -2280,4 +2280,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> 此 README 为自动生成。 2026-06-23T16:37:21.422Z
+> 此 README 为自动生成。 2026-07-08T14:08:12.393Z

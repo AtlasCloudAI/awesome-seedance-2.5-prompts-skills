@@ -28,7 +28,7 @@
 
 ## 🌐 View in AtlasCloud
 
-- Prompt Library: [View](https://www.atlascloud.ai/tr/seedance-2.5-prompt?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts)
+- Prompt Library: [View](https://www.atlascloud.ai/prompts-hub/seedance-2-5-prompt?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts)
 - Model Page: [View](https://www.atlascloud.ai/tr/models/bytedance/seedance-2.5/text-to-video?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts)
 
 ## 🧩 Supported Models
@@ -71,7 +71,7 @@ Seedance 2.5 is a major upgrade to Seedance 2.0 with three big gains: 30-second 
 | Total Prompts | **94** |
 | Categories | **11** |
 | Preview Videos | **88** |
-| Last Updated | **2026-06-23T16:37:21.456Z** |
+| Last Updated | **2026-07-08T14:08:12.405Z** |
 
 ## 🏷️ Browse by Category
 
@@ -2280,4 +2280,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-06-23T16:37:21.456Z
+> This README is auto-generated. 2026-07-08T14:08:12.405Z
