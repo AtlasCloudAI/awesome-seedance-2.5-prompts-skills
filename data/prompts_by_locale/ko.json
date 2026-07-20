@@ -1,5 +1,239 @@
 [
   {
+    "id": "sd25off_01",
+    "sort_order": -100,
+    "title": "해변 달리기 — 3샷 스토리",
+    "description": "3샷 해변 시퀀스 — 트래킹 클로즈업, 카메라를 향한 돌아섬, 프리즈 프레임 와이드 — 일관된 피사체로 응집력 있는 멀티샷 내러티브를 보여준다.",
+    "prompt": "[샷 1] 클로즈업, 소녀가 해변을 달리고 카메라가 그녀의 발걸음을 따라간다. [샷 2] 미디엄 샷, 그녀가 멈춰 서서 카메라를 향해 돌아보며 미소 짓는다. [샷 3] 와이드 샷, 그녀가 바다를 향해 두 팔을 벌리는 순간 화면이 정지한다.",
+    "category": "멀티샷 내러티브",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "ko",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_01",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_02",
+    "sort_order": -99,
+    "title": "바리스타의 라테 — 원컨티뉴어스 테이크",
+    "description": "원두를 갈아내는 것부터 마지막 라테아트까지 바리스타를 따라가는 끊김 없는 원테이크. 30초 원테이크 촬영을 선보인다.",
+    "prompt": "바리스타가 카페에서 라테를 만든다 — 원두를 갈고, 에스프레소를 추출하고, 우유를 스티밍하고, 마지막으로 라테아트를 부어내기까지 모두 원컨티뉴어스 테이크로.",
+    "category": "원테이크 촬영",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "ko",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_02",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_03",
+    "sort_order": -98,
+    "title": "정상 등반가를 360° 오비트",
+    "description": "정상에 선 산악인을 중심으로 360도 오비트 이동을 하며 설산 파노라마를 드러낸다 — 정밀한 카메라 무빙 제어.",
+    "prompt": "카메라가 정상에 선 산악인 주위를 360도 회전하며 눈 덮인 봉우리들의 장엄한 파노라마를 드러낸다.",
+    "category": "고급 카메라 무빙",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "ko",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_03",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_04",
+    "sort_order": -97,
+    "title": "빠른 풀백 — 한 송이에서 꽃바다로",
+    "description": "한 송이 꽃에서 광활한 꽃밭으로 빠르게 달리아웃한 뒤 먼 봉우리에 멈춘다 — 역동적인 카메라 무빙 제어.",
+    "prompt": "카메라가 한 송이 꽃의 클로즈업에서 빠르게 뒤로 물러나며 온통 펼쳐진 꽃바다를 드러내고, 마지막으로 멀리 있는 설산에 멈춘다.",
+    "category": "고급 카메라 무빙",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "ko",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_04",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_05",
+    "sort_order": -96,
+    "title": "지브리풍 벚꽃 길",
+    "description": "영상을 스튜디오 지브리 애니메이션 풍으로 변환해 소녀가 꽃잎 흩날리는 길을 걷는다 — 스타일 변환.",
+    "prompt": "장면을 스튜디오 지브리 애니메이션 스타일로 변환한다 — 소녀가 길을 걷고 그 주위로 벚꽃 잎이 흩날려 내린다.",
+    "category": "스타일 변환",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "ko",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_05",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_06",
+    "sort_order": -95,
+    "title": "산수 속 수묵화 배",
+    "description": "영상을 전통 중국 수묵화 풍으로 변환해 한 척의 배가 산수 사이를 떠간다 — 스타일 변환.",
+    "prompt": "장면을 중국 수묵화 스타일로 변환한다 — 작은 배 한 척이 산과 강 사이를 천천히 떠간다.",
+    "category": "스타일 변환",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "ko",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_06",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_07",
+    "sort_order": -94,
+    "title": "빗속의 네온 \"SEEDANCE\" 간판",
+    "description": "정확한 화면 텍스트 렌더링 — 비 내리는 밤 도시 거리에서 깜빡이는 네온 \"SEEDANCE\" 간판.",
+    "prompt": "비 내리는 밤 도시 거리에서 \"SEEDANCE\"라고 적힌 네온 간판이 깜빡이고, 그 빛이 젖은 노면에 반사된다.",
+    "category": "텍스트 렌더링",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "ko",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_07",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_08",
+    "sort_order": -93,
+    "title": "금박 글씨 책 표지가 열린다",
+    "description": "표지에 또렷하게 렌더링된 텍스트 — 금색의 \"인공지능의 미래\" — 책이 천천히 열린다.",
+    "prompt": "책 표지에 금색 글씨로 \"인공지능의 미래\"라고 적혀 있고, 책이 천천히 열린다.",
+    "category": "텍스트 렌더링",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "ko",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_08",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_09",
+    "sort_order": -92,
+    "title": "달 위의 우주비행사 — 3샷",
+    "description": "3샷 달 표면 시퀀스 — 지구를 바라보고, 착륙선으로 걸어가고, 이륙한다 — 일관된 피사체의 멀티샷 내러티브.",
+    "prompt": "[샷 1] 우주비행사가 달 표면에 서서 지구를 바라본다. [샷 2] 우주비행사가 돌아서 달 착륙선으로 걸어간다. [샷 3] 착륙선이 이륙하며 달 먼지를 일으킨다.",
+    "category": "멀티샷 내러티브",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "ko",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_09",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_10",
+    "sort_order": -91,
+    "title": "레퍼런스 캐릭터가 숲을 달린다",
+    "description": "레퍼런스 이미지로 움직임을 구동한다 — 참조된 캐릭터가 숲을 달리고 카메라가 트래킹한다. 레퍼런스는 @image1로 제공한다.",
+    "prompt": "@image1의 캐릭터를 참조해 그가 숲속을 달리고 카메라가 나란히 따라가게 한다.",
+    "category": "이미지 레퍼런스",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "ko",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_10",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_11",
+    "sort_order": -90,
+    "title": "레퍼런스 장면에 새 추가",
+    "description": "참조된 장면을 유지하며 움직임을 더한다 — 새 떼가 화면을 가로지른다. 레퍼런스는 @image1로 제공한다.",
+    "prompt": "@image1의 장면을 참조해 새 떼가 화면을 가로질러 날아가는 모습을 더한다.",
+    "category": "이미지 레퍼런스",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "ko",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_11",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_12",
+    "sort_order": -89,
+    "title": "레퍼런스로 360° 제품 회전",
+    "description": "제품 레퍼런스를 회전 쇼케이스로 바꾼다 — 디스플레이 받침대 위에서 360° 회전한다. 레퍼런스는 @image1로 제공한다.",
+    "prompt": "@image1의 제품을 참조해 회전하는 디스플레이 받침대 위에서 360도 회전하게 한다.",
+    "category": "이미지 레퍼런스",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "ko",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_12",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_13",
+    "sort_order": -88,
+    "title": "레퍼런스 인물이 자연스럽게 손을 흔든다",
+    "description": "참조된 인물을 애니메이션한다 — 생생한 표정과 함께 자연스럽게 손을 흔드는 동작. 레퍼런스는 @image1로 제공한다.",
+    "prompt": "@image1의 인물을 참조해 자연스럽고 생생한 표정으로 손을 흔들게 한다.",
+    "category": "이미지 레퍼런스",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "ko",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_13",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
     "id": "ur_001",
     "sort_order": 80,
     "title": "우아한 빨래 장면",

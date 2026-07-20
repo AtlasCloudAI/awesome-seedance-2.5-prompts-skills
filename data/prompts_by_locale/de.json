@@ -1,5 +1,239 @@
 [
   {
+    "id": "sd25off_01",
+    "sort_order": -100,
+    "title": "Lauf am Meer — Geschichte in drei Einstellungen",
+    "description": "Eine Küstensequenz aus drei Einstellungen — eine mitziehende Nahaufnahme, eine Drehung zur Kamera und eine Weite als Freeze-Frame — die eine schlüssige Multi-Shot-Erzählung mit einem konsistenten Motiv zeigt.",
+    "prompt": "[Einstellung 1] Nahaufnahme, ein Mädchen läuft am Meeresufer entlang, die Kamera verfolgt ihre Schritte. [Einstellung 2] Halbtotale, sie hält an, dreht sich zur Kamera und lächelt. [Einstellung 3] Totale, sie breitet die Arme zum Meer aus, während das Bild einfriert.",
+    "category": "Multi-Shot-Erzählung",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "de",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_01",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_02",
+    "sort_order": -99,
+    "title": "Barista-Latte — Eine durchgehende Einstellung",
+    "description": "Eine einzige ununterbrochene Einstellung, die einen Barista vom Mahlen der Bohnen bis zur finalen Latte Art begleitet und 30 s One-Take-Kameraführung zeigt.",
+    "prompt": "Ein Barista macht in einem Café einen Latte — vom Mahlen der Bohnen über das Ziehen des Espressos und das Aufschäumen der Milch bis zum finalen Gießen der Latte Art — alles in einer durchgehenden Einstellung.",
+    "category": "One-Take-Kameraführung",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "de",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_02",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_03",
+    "sort_order": -98,
+    "title": "360°-Orbit um einen Gipfelbezwinger",
+    "description": "Eine vollständige 360-Grad-Orbitbewegung um einen Bergsteiger auf einem Gipfel, die ein Schneeberg-Panorama enthüllt — präzise Steuerung der Kamerabewegung.",
+    "prompt": "Die Kamera umkreist einen auf einem Gipfel stehenden Bergsteiger um 360 Grad und enthüllt ein prächtiges Panorama schneebedeckter Gipfel.",
+    "category": "Fortgeschrittene Kamerabewegungen",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "de",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_03",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_04",
+    "sort_order": -97,
+    "title": "Schnelles Zurückfahren — Von der Blüte zum Blütenmeer",
+    "description": "Ein schnelles Herausfahren von einer einzelnen Blüte zu einem weiten Blumenfeld, das auf fernen Gipfeln zur Ruhe kommt — dynamische Steuerung der Kamerabewegung.",
+    "prompt": "Die Kamera fährt schnell aus der Nahaufnahme einer einzelnen Blume zurück und enthüllt ein ganzes Blütenmeer, um schließlich bei den fernen Schneebergen zu verharren.",
+    "category": "Fortgeschrittene Kamerabewegungen",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "de",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_04",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_05",
+    "sort_order": -96,
+    "title": "Kirschblütenpfad im Ghibli-Stil",
+    "description": "Stilisiere das Material zur Studio-Ghibli-Animation um, während ein Mädchen einen mit Blütenblättern übersäten Pfad entlanggeht — Stilübertragung.",
+    "prompt": "Verwandle die Szene in den Animationsstil von Studio Ghibli — ein Mädchen geht einen Pfad entlang, während um sie herum Kirschblüten herabrieseln.",
+    "category": "Stilübertragung",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "de",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_05",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_06",
+    "sort_order": -95,
+    "title": "Tuschemalerei-Boot zwischen Bergen",
+    "description": "Stilisiere das Material zur traditionellen chinesischen Tuschemalerei um, während ein einsames Boot durch die Landschaft treibt — Stilübertragung.",
+    "prompt": "Verwandle die Szene in den Stil chinesischer Tuschemalerei — ein kleines Boot treibt langsam zwischen Bergen und Flüssen dahin.",
+    "category": "Stilübertragung",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "de",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_06",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_07",
+    "sort_order": -94,
+    "title": "Neon-Schild \"SEEDANCE\" im Regen",
+    "description": "Präzise Bildschirm-Textdarstellung — ein flackerndes Neon-Schild \"SEEDANCE\" auf einer Stadtstraße in einer Regennacht.",
+    "prompt": "Ein Neon-Schild mit der Aufschrift \"SEEDANCE\" flackert in einer Regennacht auf einer Stadtstraße, sein Schein spiegelt sich auf dem nassen Asphalt.",
+    "category": "Textdarstellung",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "de",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_07",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_08",
+    "sort_order": -93,
+    "title": "Buchcover mit goldenen Lettern öffnet sich",
+    "description": "Gut lesbar dargestellter Text auf einem Buchcover — \"Die Zukunft der Künstlichen Intelligenz\" in Gold — während sich das Buch langsam öffnet.",
+    "prompt": "Auf einem Buchcover steht in goldenen Lettern \"Die Zukunft der Künstlichen Intelligenz\", während sich das Buch langsam öffnet.",
+    "category": "Textdarstellung",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "de",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_08",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_09",
+    "sort_order": -92,
+    "title": "Astronaut auf dem Mond — Drei Einstellungen",
+    "description": "Eine Mondsequenz aus drei Einstellungen — der Blick auf die Erde, der Gang zur Landefähre und der Start — Multi-Shot-Erzählung mit einem konsistenten Motiv.",
+    "prompt": "[Einstellung 1] Ein Astronaut steht auf der Mondoberfläche und blickt zur Erde. [Einstellung 2] Der Astronaut dreht sich um und geht zur Mondlandefähre. [Einstellung 3] Die Landefähre hebt ab und wirbelt Mondstaub auf.",
+    "category": "Multi-Shot-Erzählung",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "de",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_09",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_10",
+    "sort_order": -91,
+    "title": "Referenzfigur rennt durch den Wald",
+    "description": "Treibe die Bewegung aus einem Referenzbild an — die referenzierte Figur rennt mit mitziehender Kamera durch einen Wald. Gib die Referenz als @image1 an.",
+    "prompt": "Nimm die Figur in @image1 als Referenz und lass ihn durch einen Wald rennen, während die Kamera nebenher mitzieht.",
+    "category": "Bildreferenz",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "de",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_10",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_11",
+    "sort_order": -90,
+    "title": "Vögel zu einer Referenzszene hinzufügen",
+    "description": "Behalte eine referenzierte Szene bei und füge Bewegung hinzu — ein Vogelschwarm zieht durchs Bild. Gib die Referenz als @image1 an.",
+    "prompt": "Nimm die Szene in @image1 als Referenz und füge einen Vogelschwarm hinzu, der durchs Bild fliegt.",
+    "category": "Bildreferenz",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "de",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_11",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_12",
+    "sort_order": -89,
+    "title": "360°-Produktdrehung aus Referenz",
+    "description": "Verwandle eine Produktreferenz in eine drehende Präsentation — eine volle 360°-Drehung auf einem Ausstellungsständer. Gib die Referenz als @image1 an.",
+    "prompt": "Nimm das Produkt in @image1 als Referenz und lass es sich auf einem drehenden Ausstellungsständer um 360 Grad drehen.",
+    "category": "Bildreferenz",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "de",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_12",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_13",
+    "sort_order": -88,
+    "title": "Referenzperson winkt natürlich",
+    "description": "Animiere eine referenzierte Person — eine natürliche Winkgeste mit lebensechtem Ausdruck. Gib die Referenz als @image1 an.",
+    "prompt": "Nimm die Person in @image1 als Referenz und lass sie mit einem natürlichen, lebensechten Ausdruck winken.",
+    "category": "Bildreferenz",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "de",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_13",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
     "id": "ur_001",
     "sort_order": 80,
     "title": "Elegante Wäscheszene",

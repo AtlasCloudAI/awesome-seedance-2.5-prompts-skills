@@ -1,5 +1,239 @@
 [
   {
+    "id": "sd25off_01",
+    "sort_order": -100,
+    "title": "海边奔跑 —— 三镜头故事",
+    "description": "三镜头的海边序列——跟拍近景、转身面向镜头、定格远景——用一致的主体呈现连贯的多镜头叙事。",
+    "prompt": "【镜头1】近景，一个女孩在海边奔跑，镜头跟随她的脚步移动。【镜头2】中景，女孩停下来，转身面向镜头，微笑。【镜头3】远景，女孩张开双臂，面向大海，画面定格。",
+    "category": "多镜头叙事",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "zh",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_01",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_02",
+    "sort_order": -99,
+    "title": "咖啡师拿铁 —— 一镜到底",
+    "description": "一镜到底跟随咖啡师，从研磨咖啡豆到最终拉花，展示 30 秒单镜头长视频。",
+    "prompt": "一个咖啡师在咖啡馆里制作一杯拿铁，从研磨咖啡豆开始，到萃取浓缩咖啡，再到打发牛奶，最后拉花，一镜到底。",
+    "category": "单镜头长视频",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "zh",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_02",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_03",
+    "sort_order": -98,
+    "title": "环绕登顶者 360° 运镜",
+    "description": "围绕山顶登山者完成 360 度环绕运镜，展现雪山全景——精准的运镜控制。",
+    "prompt": "镜头环绕一个站在山顶的登山者旋转360度，展现壮丽的雪山全景。",
+    "category": "运镜控制",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "zh",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_03",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_04",
+    "sort_order": -97,
+    "title": "快速拉远 —— 从一朵花到花海",
+    "description": "从一朵花快速拉远到广袤花海，最终定格远山——动态运镜控制。",
+    "prompt": "镜头从一朵花的特写快速拉远，展现整片花海，最后定格在远处的雪山。",
+    "category": "运镜控制",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "zh",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_04",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_05",
+    "sort_order": -96,
+    "title": "吉卜力风格樱花小径",
+    "description": "将画面转换为吉卜力动画风格，女孩走在洒满花瓣的小路上——风格转换。",
+    "prompt": "将画面转换为吉卜力动画风格，一个女孩走在樱花飘落的小路上。",
+    "category": "风格转换",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "zh",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_05",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_06",
+    "sort_order": -95,
+    "title": "水墨扁舟山水间",
+    "description": "将画面转换为中国传统水墨画风格，一叶扁舟在山水间漂流——风格转换。",
+    "prompt": "将画面转换为水墨画风格，一叶扁舟在山水之间缓缓移动。",
+    "category": "风格转换",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "zh",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_06",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_07",
+    "sort_order": -94,
+    "title": "雨中霓虹\"SEEDANCE\"灯牌",
+    "description": "精准的屏幕文字生成——雨夜城市街头闪烁的霓虹\"SEEDANCE\"灯牌。",
+    "prompt": "霓虹灯牌上显示\"SEEDANCE\"字样，在雨夜的城市街道上闪烁。",
+    "category": "文字生成",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "zh",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_07",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_08",
+    "sort_order": -93,
+    "title": "金字书封缓缓翻开",
+    "description": "书封上清晰可读的文字——金色的\"人工智能的未来\"——书本缓缓打开。",
+    "prompt": "一本书的封面上用金色字体写着\"人工智能的未来\"，书本缓缓打开。",
+    "category": "文字生成",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "zh",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_08",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_09",
+    "sort_order": -92,
+    "title": "月球上的宇航员 —— 三镜头",
+    "description": "三镜头的月球序列——凝望地球、走向登月舱、起飞升空——主体一致的多镜头叙事。",
+    "prompt": "【镜头1】一个宇航员站在月球表面，望向地球。【镜头2】宇航员转身走向登月舱。【镜头3】登月舱起飞，扬起月尘。",
+    "category": "多镜头叙事",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "zh",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_09",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_10",
+    "sort_order": -91,
+    "title": "参考角色森林奔跑",
+    "description": "用参考图驱动动作——被参考的角色在森林中奔跑，镜头跟拍。参考图以 @image1 提供。",
+    "prompt": "参考图中的角色，让他在森林中奔跑，镜头跟随。",
+    "category": "图像参考",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "zh",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_10",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_11",
+    "sort_order": -90,
+    "title": "为参考场景添加飞鸟",
+    "description": "保留参考场景并添加动态——一群飞鸟掠过画面。参考图以 @image1 提供。",
+    "prompt": "参考图中的场景，添加一群飞鸟从画面中飞过。",
+    "category": "图像参考",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "zh",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_11",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_12",
+    "sort_order": -89,
+    "title": "参考产品 360° 旋转展示",
+    "description": "将产品参考图转化为旋转展示——在展示台上完成 360° 旋转。参考图以 @image1 提供。",
+    "prompt": "参考图中的产品，让它在旋转展示台上360度旋转。",
+    "category": "图像参考",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "zh",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_12",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_13",
+    "sort_order": -88,
+    "title": "参考人物自然挥手",
+    "description": "让参考人物动起来——自然的挥手动作与逼真的表情。参考图以 @image1 提供。",
+    "prompt": "参考图中的人物，让他做出挥手的动作，表情自然。",
+    "category": "图像参考",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "zh",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_13",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
     "id": "ur_001",
     "sort_order": 80,
     "title": "优雅的洗衣场景",

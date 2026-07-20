@@ -4,7 +4,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedance-2.5-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-94%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-107%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 > A curated collection of Seedance 2.5 video prompts — each with real previews via Atlas Cloud. 30s native clips · 50 multimodal references · flexible region editing. Cinematic, anime, UGC, ads, meme & more.
 
@@ -68,70 +68,553 @@ Seedance 2.5 is a major upgrade to Seedance 2.0 with three big gains: 30-second 
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **94** |
-| Categories | **11** |
+| Total Prompts | **107** |
+| Categories | **15** |
 | Preview Videos | **88** |
-| Last Updated | **2026-07-08T14:08:12.399Z** |
+| Last Updated | **2026-07-20T17:21:54.958Z** |
 
 ## 🏷️ Browse by Category
 
-- [`Twitter Community`](#category-1): **24**
-- [`ऑडियो और वॉइस सिंथेसिस`](#category-2): **10**
-- [`उन्नत कैमरा मूवमेंट`](#category-3): **13**
-- [`वीडियो एडिटिंग और रीमिक्स`](#category-4): **5**
-- [`पात्र और दृश्य सुसंगतता`](#category-5): **6**
-- [`रचनात्मक विजुअल इफेक्ट्स`](#category-6): **11**
-- [`अत्यंत यथार्थवादी वीडियो जनरेशन`](#category-7): **5**
-- [`भावनात्मक प्रदर्शन`](#category-8): **3**
-- [`कहानी विकास और विस्तार`](#category-9): **8**
-- [`म्यूजिक सिंक्रोनाइजेशन`](#category-10): **4**
-- [`वन-टेक सिनेमैटोग्राफी`](#category-11): **5**
+- [`मल्टी-शॉट कथा`](#category-1): **2**
+- [`वन-टेक सिनेमैटोग्राफी`](#category-2): **6**
+- [`उन्नत कैमरा मूवमेंट`](#category-3): **15**
+- [`शैली अंतरण`](#category-4): **2**
+- [`टेक्स्ट रेंडरिंग`](#category-5): **2**
+- [`छवि संदर्भ`](#category-6): **4**
+- [`Twitter Community`](#category-7): **24**
+- [`ऑडियो और वॉइस सिंथेसिस`](#category-8): **10**
+- [`वीडियो एडिटिंग और रीमिक्स`](#category-9): **5**
+- [`पात्र और दृश्य सुसंगतता`](#category-10): **6**
+- [`रचनात्मक विजुअल इफेक्ट्स`](#category-11): **11**
+- [`अत्यंत यथार्थवादी वीडियो जनरेशन`](#category-12): **5**
+- [`भावनात्मक प्रदर्शन`](#category-13): **3**
+- [`कहानी विकास और विस्तार`](#category-14): **8**
+- [`म्यूजिक सिंक्रोनाइजेशन`](#category-15): **4**
 
 ## 🔥 Featured Prompts
 
-### No. 1: फिशआई घोड़ा कॉमेडी
+### No. 1: समुद्र किनारे दौड़ — तीन-शॉट कहानी
 
-- **Category:** `ऑडियो और वॉइस सिंथेसिस`
+- **Category:** `मल्टी-शॉट कथा`
 - **Source:** `official`
-- **Author:** AtlasCloud
+- **Author:** Volcengine Ark
 - **Language:** `hi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/26d450cd-23c4-499e-9fd6-1752dabbc8bd.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/26d450cd-23c4-499e-9fd6-1752dabbc8bd.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/hi/seedance-2-prompt/33)
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-फिशआई घोड़ा कॉमेडी पर आधारित एक वीडियो दृश्य।
+तीन-शॉट का समुद्र-तट अनुक्रम — ट्रैकिंग क्लोज़-अप, कैमरे की ओर मुड़ना, और फ़्रीज़-फ़्रेम वाइड — एक सुसंगत विषय के साथ सुसंगत मल्टी-शॉट कथा दिखाता है।
 
 #### Prompt
 
 ```text
-वीडियो दृश्य बनाएं: फिशआई घोड़ा कॉमेडी पर आधारित एक वीडियो दृश्य।
+[शॉट 1] क्लोज़-अप, एक लड़की समुद्र किनारे दौड़ती है, कैमरा उसके कदमों को ट्रैक करता है। [शॉट 2] मीडियम शॉट, वह रुकती है, कैमरे की ओर मुड़ती है और मुस्कुराती है। [शॉट 3] वाइड शॉट, वह समुद्र की ओर अपनी बाँहें फैलाती है और फ़्रेम फ़्रीज़ हो जाता है।
 ```
 
-### No. 2: VR चश्मा ब्रह्मांड यात्रा
+### No. 2: बरिस्ता की लाटे — एक सतत टेक
 
-- **Category:** `रचनात्मक विजुअल इफेक्ट्स`
+- **Category:** `वन-टेक सिनेमैटोग्राफी`
 - **Source:** `official`
-- **Author:** AtlasCloud
+- **Author:** Volcengine Ark
 - **Language:** `hi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/dddb1fb2-d73a-4b6a-a2bf-bf416be652c6.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/dddb1fb2-d73a-4b6a-a2bf-bf416be652c6.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/hi/seedance-2-prompt/18)
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-VR चश्मा ब्रह्मांड यात्रा पर आधारित एक वीडियो दृश्य।
+बीन्स पीसने से लेकर अंतिम लाटे आर्ट तक बरिस्ता का पीछा करता एक अखंड टेक, 30 सेकंड की वन-टेक सिनेमैटोग्राफी प्रस्तुत करता है।
 
 #### Prompt
 
 ```text
-वीडियो दृश्य बनाएं: VR चश्मा ब्रह्मांड यात्रा पर आधारित एक वीडियो दृश्य।
+एक बरिस्ता कैफ़े में लाटे बनाता है — बीन्स पीसने से, एस्प्रेसो निकालने, दूध को स्टीम करने, और अंत में लाटे आर्ट उड़ेलने तक — सब कुछ एक ही सतत टेक में।
 ```
 
-### No. 3: हिचकॉक ज़ूम in लिफ्ट
+### No. 3: शिखर पर पर्वतारोही के चारों ओर 360° ऑर्बिट
+
+- **Category:** `उन्नत कैमरा मूवमेंट`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `hi`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+शिखर पर खड़े पर्वतारोही के चारों ओर पूरा 360 डिग्री ऑर्बिट मूव, जो बर्फ़ीले पहाड़ों का पैनोरमा दिखाता है — सटीक कैमरा-मूवमेंट नियंत्रण।
+
+#### Prompt
+
+```text
+कैमरा शिखर पर खड़े एक पर्वतारोही के चारों ओर 360 डिग्री घूमता है, बर्फ़ से ढकी चोटियों का भव्य पैनोरमा प्रकट करता है।
+```
+
+### No. 4: तेज़ पुल-बैक — एक फूल से फूलों के सागर तक
+
+- **Category:** `उन्नत कैमरा मूवमेंट`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `hi`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+एक फूल से लेकर फूलों के विशाल मैदान तक तेज़ डॉली-आउट, जो दूर की चोटियों पर आकर ठहरता है — गतिशील कैमरा-मूवमेंट नियंत्रण।
+
+#### Prompt
+
+```text
+कैमरा एक फूल के क्लोज़-अप से तेज़ी से पीछे हटता है और फूलों के पूरे सागर को प्रकट करता है, अंत में दूर के बर्फ़ीले पहाड़ों पर ठहर जाता है।
+```
+
+### No. 5: घिबली-शैली का चेरी ब्लॉसम रास्ता
+
+- **Category:** `शैली अंतरण`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `hi`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+फ़ुटेज को स्टूडियो घिबली एनीमेशन में बदलें, जबकि एक लड़की पंखुड़ियों से भरे रास्ते पर चलती है — शैली अंतरण।
+
+#### Prompt
+
+```text
+दृश्य को स्टूडियो घिबली एनीमेशन शैली में बदलें — एक लड़की रास्ते पर चलती है और उसके चारों ओर चेरी ब्लॉसम की पंखुड़ियाँ गिरती हैं।
+```
+
+### No. 6: पहाड़ों के बीच स्याही-चित्र की नाव
+
+- **Category:** `शैली अंतरण`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `hi`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+फ़ुटेज को पारंपरिक चीनी स्याही-चित्रकला में बदलें, जबकि एक अकेली नाव परिदृश्य से होकर बहती है — शैली अंतरण।
+
+#### Prompt
+
+```text
+दृश्य को चीनी स्याही-चित्रकला शैली में बदलें — एक छोटी नाव पहाड़ों और नदियों के बीच धीरे-धीरे बहती है।
+```
+
+### No. 7: बारिश में नियॉन "SEEDANCE" साइन
+
+- **Category:** `टेक्स्ट रेंडरिंग`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `hi`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+सटीक ऑन-स्क्रीन टेक्स्ट रेंडरिंग — बरसाती रात की शहर की सड़क पर टिमटिमाता नियॉन "SEEDANCE" साइन।
+
+#### Prompt
+
+```text
+बरसाती रात में शहर की एक सड़क पर "SEEDANCE" लिखा नियॉन साइन टिमटिमाता है, इसकी चमक गीली सड़क पर प्रतिबिंबित होती है।
+```
+
+### No. 8: सुनहरे अक्षरों वाला किताब का कवर खुलता है
+
+- **Category:** `टेक्स्ट रेंडरिंग`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `hi`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+किताब के कवर पर सुपाठ्य रेंडर किया गया टेक्स्ट — सुनहरे रंग में "कृत्रिम बुद्धिमत्ता का भविष्य" — जबकि किताब धीरे-धीरे खुलती है।
+
+#### Prompt
+
+```text
+एक किताब के कवर पर सुनहरे अक्षरों में "कृत्रिम बुद्धिमत्ता का भविष्य" लिखा है, जबकि किताब धीरे-धीरे खुलती है।
+```
+
+## 📋 All Prompts
+
+<a id="category-1"></a>
+
+### मल्टी-शॉट कथा (2)
+
+### No. 1: समुद्र किनारे दौड़ — तीन-शॉट कहानी
+
+- **Category:** `मल्टी-शॉट कथा`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `hi`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+तीन-शॉट का समुद्र-तट अनुक्रम — ट्रैकिंग क्लोज़-अप, कैमरे की ओर मुड़ना, और फ़्रीज़-फ़्रेम वाइड — एक सुसंगत विषय के साथ सुसंगत मल्टी-शॉट कथा दिखाता है।
+
+#### Prompt
+
+```text
+[शॉट 1] क्लोज़-अप, एक लड़की समुद्र किनारे दौड़ती है, कैमरा उसके कदमों को ट्रैक करता है। [शॉट 2] मीडियम शॉट, वह रुकती है, कैमरे की ओर मुड़ती है और मुस्कुराती है। [शॉट 3] वाइड शॉट, वह समुद्र की ओर अपनी बाँहें फैलाती है और फ़्रेम फ़्रीज़ हो जाता है।
+```
+
+### No. 2: चंद्रमा पर अंतरिक्ष यात्री — तीन शॉट
+
+- **Category:** `मल्टी-शॉट कथा`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `hi`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+तीन-शॉट का चंद्र अनुक्रम — पृथ्वी को निहारना, मॉड्यूल की ओर चलना, और उड़ान भरना — एक सुसंगत विषय के साथ मल्टी-शॉट कथा।
+
+#### Prompt
+
+```text
+[शॉट 1] एक अंतरिक्ष यात्री चंद्रमा की सतह पर खड़ा है, पृथ्वी को निहार रहा है। [शॉट 2] अंतरिक्ष यात्री मुड़कर चंद्र मॉड्यूल की ओर चलता है। [शॉट 3] मॉड्यूल उड़ान भरता है, चंद्र-धूल उड़ाता है।
+```
+
+<a id="category-2"></a>
+
+### वन-टेक सिनेमैटोग्राफी (6)
+
+### No. 1: बरिस्ता की लाटे — एक सतत टेक
+
+- **Category:** `वन-टेक सिनेमैटोग्राफी`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `hi`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+बीन्स पीसने से लेकर अंतिम लाटे आर्ट तक बरिस्ता का पीछा करता एक अखंड टेक, 30 सेकंड की वन-टेक सिनेमैटोग्राफी प्रस्तुत करता है।
+
+#### Prompt
+
+```text
+एक बरिस्ता कैफ़े में लाटे बनाता है — बीन्स पीसने से, एस्प्रेसो निकालने, दूध को स्टीम करने, और अंत में लाटे आर्ट उड़ेलने तक — सब कुछ एक ही सतत टेक में।
+```
+
+### No. 2: रोलर कोस्टर POV
+
+- **Category:** `वन-टेक सिनेमैटोग्राफी`
+- **Source:** `official`
+- **Author:** AtlasCloud
+- **Language:** `hi`
+- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/fabf98a8-432c-479a-bcd3-3736677190b2.mp4)
+
+<video src="https://static.atlascloud.ai/uploads/seedance-2.0/fabf98a8-432c-479a-bcd3-3736677190b2.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://www.atlascloud.ai/hi/seedance-2-prompt/47)
+
+#### Description
+
+रोलर कोस्टर POV पर आधारित एक वीडियो दृश्य।
+
+#### Prompt
+
+```text
+वीडियो दृश्य बनाएं: रोलर कोस्टर POV पर आधारित एक वीडियो दृश्य।
+```
+
+### No. 3: सुकूनभरा केबिन चाय समय
+
+- **Category:** `वन-टेक सिनेमैटोग्राफी`
+- **Source:** `official`
+- **Author:** AtlasCloud
+- **Language:** `hi`
+- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d1d1c955-c271-44ba-bd3e-1537e33a2e29.mp4)
+
+<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d1d1c955-c271-44ba-bd3e-1537e33a2e29.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://www.atlascloud.ai/hi/seedance-2-prompt/46)
+
+#### Description
+
+सुकूनभरा केबिन चाय समय पर आधारित एक वीडियो दृश्य।
+
+#### Prompt
+
+```text
+वीडियो दृश्य बनाएं: सुकूनभरा केबिन चाय समय पर आधारित एक वीडियो दृश्य।
+```
+
+### No. 4: जासूसी थ्रिलर ट्रैक
+
+- **Category:** `वन-टेक सिनेमैटोग्राफी`
+- **Source:** `official`
+- **Author:** AtlasCloud
+- **Language:** `hi`
+- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/873ead10-156a-4f5f-aafc-1a0a743c3ef7.mp4)
+
+<video src="https://static.atlascloud.ai/uploads/seedance-2.0/873ead10-156a-4f5f-aafc-1a0a743c3ef7.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://www.atlascloud.ai/hi/seedance-2-prompt/45)
+
+#### Description
+
+जासूसी थ्रिलर ट्रैक पर आधारित एक वीडियो दृश्य।
+
+#### Prompt
+
+```text
+वीडियो दृश्य बनाएं: जासूसी थ्रिलर ट्रैक पर आधारित एक वीडियो दृश्य।
+```
+
+### No. 5: हवाई जहाज़ खिड़की आइसक्रीम सपना
+
+- **Category:** `वन-टेक सिनेमैटोग्राफी`
+- **Source:** `official`
+- **Author:** AtlasCloud
+- **Language:** `hi`
+- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/3421ca69-533f-4ef7-aef2-2aabad3d53fe.mp4)
+
+<video src="https://static.atlascloud.ai/uploads/seedance-2.0/3421ca69-533f-4ef7-aef2-2aabad3d53fe.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://www.atlascloud.ai/hi/seedance-2-prompt/44)
+
+#### Description
+
+हवाई जहाज़ खिड़की आइसक्रीम सपना पर आधारित एक वीडियो दृश्य।
+
+#### Prompt
+
+```text
+वीडियो दृश्य बनाएं: हवाई जहाज़ खिड़की आइसक्रीम सपना पर आधारित एक वीडियो दृश्य।
+```
+
+### No. 6: पारकौर पीछा अनुक्रम
+
+- **Category:** `वन-टेक सिनेमैटोग्राफी`
+- **Source:** `official`
+- **Author:** AtlasCloud
+- **Language:** `hi`
+- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c8b0a7bb-eae5-417f-bf63-e3a114a1364f.mp4)
+
+<video src="https://static.atlascloud.ai/uploads/seedance-2.0/c8b0a7bb-eae5-417f-bf63-e3a114a1364f.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://www.atlascloud.ai/hi/seedance-2-prompt/43)
+
+#### Description
+
+पारकौर पीछा अनुक्रम पर आधारित एक वीडियो दृश्य।
+
+#### Prompt
+
+```text
+वीडियो दृश्य बनाएं: पारकौर पीछा अनुक्रम पर आधारित एक वीडियो दृश्य।
+```
+
+<a id="category-3"></a>
+
+### उन्नत कैमरा मूवमेंट (15)
+
+### No. 1: शिखर पर पर्वतारोही के चारों ओर 360° ऑर्बिट
+
+- **Category:** `उन्नत कैमरा मूवमेंट`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `hi`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+शिखर पर खड़े पर्वतारोही के चारों ओर पूरा 360 डिग्री ऑर्बिट मूव, जो बर्फ़ीले पहाड़ों का पैनोरमा दिखाता है — सटीक कैमरा-मूवमेंट नियंत्रण।
+
+#### Prompt
+
+```text
+कैमरा शिखर पर खड़े एक पर्वतारोही के चारों ओर 360 डिग्री घूमता है, बर्फ़ से ढकी चोटियों का भव्य पैनोरमा प्रकट करता है।
+```
+
+### No. 2: तेज़ पुल-बैक — एक फूल से फूलों के सागर तक
+
+- **Category:** `उन्नत कैमरा मूवमेंट`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `hi`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+एक फूल से लेकर फूलों के विशाल मैदान तक तेज़ डॉली-आउट, जो दूर की चोटियों पर आकर ठहरता है — गतिशील कैमरा-मूवमेंट नियंत्रण।
+
+#### Prompt
+
+```text
+कैमरा एक फूल के क्लोज़-अप से तेज़ी से पीछे हटता है और फूलों के पूरे सागर को प्रकट करता है, अंत में दूर के बर्फ़ीले पहाड़ों पर ठहर जाता है।
+```
+
+### No. 3: IMAX-Style Desert Sandstorm Scene with Denis Villeneuve Aesthetic
+
+- **Category:** `उन्नत कैमरा मूवमेंट`
+- **Source:** `twitter`
+- **Author:** John (@johnAGI168)
+- **Language:** `hi`
+- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/c3e4c06f-da7d-4127-ad68-7ed1656e2472.mp4)
+
+<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/c3e4c06f-da7d-4127-ad68-7ed1656e2472.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/johnAGI168/status/2020989515939148146)
+
+#### Description
+
+IMAX-style desert sandstorm scene with Denis Villeneuve aesthetic. Features timestamped multi-shot structure.
+
+#### Prompt
+
+```text
+Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low saturation. Multi-shot structure. Extreme wide shot: a colossal sand wall consumes the horizon while an armored convoy races across open desert. Emphasize terrifying scale and human fragility. Cockpit POV: violent vibration inside the lead vehicle, sand blasting the windshield, red warning lights pulsing, urgent shouted commands. Climax in slow motion: lead rover launches off a dune, silhouetted against a dark storm front; lightning flickers inside the dust cloud; debris streaks past lens; hard cut to black on impact. Keep transitions clean and escalation continuous.
+```
+
+### No. 4: South Indian Cinema Alien Scene Generated from Single Prompt
+
+- **Category:** `उन्नत कैमरा मूवमेंट`
+- **Source:** `twitter`
+- **Author:** rohan anil (@_arohan_)
+- **Language:** `hi`
+- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/068af607-5e54-4331-9c25-3afc190d1a53.mp4)
+
+<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/068af607-5e54-4331-9c25-3afc190d1a53.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/_arohan_/status/2021369768004161783)
+
+#### Description
+
+South Indian cinema alien scene generated from a single prompt. Demonstrates cross-cultural filmmaking capabilities.
+
+#### Prompt
+
+```text
+Create a South Indian commercial-cinema style alien invasion action scene. Visuals should feature saturated colors, dramatic backlight, stylized slow motion, and heroic framing. Open with a large-scale city plaza reveal as alien craft descend, then cut to low-angle hero entrance with wind-swept costume details. Move into multi-angle confrontation: wides for scale, mediums for combo choreography, close-ups for emotional intensity and impact peaks. Blend dust, sparks, smoke, and lens flares for high-energy theatrical presentation while keeping motion readable.
+```
+
+### No. 5: Aerial Shot of Burning Military Vehicle in Urban Warfare
+
+- **Category:** `उन्नत कैमरा मूवमेंट`
+- **Source:** `twitter`
+- **Author:** Carlos Santana (@DotCSV)
+- **Language:** `hi`
+- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/81bd1286-8024-4a62-a77a-0873d8137ae6.mp4)
+
+<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/81bd1286-8024-4a62-a77a-0873d8137ae6.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/DotCSV/status/2020519499082969142)
+
+#### Description
+
+Cinematic drone footage capturing the aftermath of urban battle. Showcases Seedance 2.0's ability to generate realistic war scenes with detailed destruction effects and atmospheric rendering.
+
+#### Prompt
+
+```text
+A cinematic drone sequence over a war-torn city intersection. At the center, a destroyed armored vehicle burns continuously, emitting thick black smoke that climbs into an overcast sky. Streets are littered with rubble, twisted metal, and shattered concrete; nearby buildings show blown-out windows, scorched facades, and structural damage. Start with a high establishing aerial shot, then descend slowly into a medium-high orbit while preserving spatial scale and destruction detail. Keep color grading desaturated with documentary realism, add subtle film grain, and ensure physically believable fire, smoke turbulence, heat distortion, and airborne dust.
+```
+
+### No. 6: महाकाव्य फैंटेसी लड़ाई
+
+- **Category:** `उन्नत कैमरा मूवमेंट`
+- **Source:** `official`
+- **Author:** AtlasCloud
+- **Language:** `hi`
+- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/a15ec27b-9b38-407d-aa7a-460c9ed17e7f.mp4)
+
+<video src="https://static.atlascloud.ai/uploads/seedance-2.0/a15ec27b-9b38-407d-aa7a-460c9ed17e7f.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://www.atlascloud.ai/hi/seedance-2-prompt/16)
+
+#### Description
+
+महाकाव्य फैंटेसी लड़ाई पर आधारित एक वीडियो दृश्य।
+
+#### Prompt
+
+```text
+वीडियो दृश्य बनाएं: महाकाव्य फैंटेसी लड़ाई पर आधारित एक वीडियो दृश्य।
+```
+
+### No. 7: कार विज्ञापन सिनेमैटोग्राफी
+
+- **Category:** `उन्नत कैमरा मूवमेंट`
+- **Source:** `official`
+- **Author:** AtlasCloud
+- **Language:** `hi`
+- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d1fe2d82-6f01-4e04-a732-a949028a09d3.mp4)
+
+<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d1fe2d82-6f01-4e04-a732-a949028a09d3.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://www.atlascloud.ai/hi/seedance-2-prompt/17)
+
+#### Description
+
+कार विज्ञापन सिनेमैटोग्राफी पर आधारित एक वीडियो दृश्य।
+
+#### Prompt
+
+```text
+वीडियो दृश्य बनाएं: कार विज्ञापन सिनेमैटोग्राफी पर आधारित एक वीडियो दृश्य।
+```
+
+### No. 8: घूमता हुआ टैबलेट प्रदर्शन
+
+- **Category:** `उन्नत कैमरा मूवमेंट`
+- **Source:** `official`
+- **Author:** AtlasCloud
+- **Language:** `hi`
+- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/2f9e5701-3cbe-4855-84a8-3ba0cd72b329.mp4)
+
+<video src="https://static.atlascloud.ai/uploads/seedance-2.0/2f9e5701-3cbe-4855-84a8-3ba0cd72b329.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://www.atlascloud.ai/hi/seedance-2-prompt/13)
+
+#### Description
+
+घूमता हुआ टैबलेट प्रदर्शन पर आधारित एक वीडियो दृश्य।
+
+#### Prompt
+
+```text
+वीडियो दृश्य बनाएं: घूमता हुआ टैबलेट प्रदर्शन पर आधारित एक वीडियो दृश्य।
+```
+
+### No. 9: जटिल कॉरिडोर पीछा
+
+- **Category:** `उन्नत कैमरा मूवमेंट`
+- **Source:** `official`
+- **Author:** AtlasCloud
+- **Language:** `hi`
+- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c1288035-fc08-4465-bee0-a1857f94c7c1.mp4)
+
+<video src="https://static.atlascloud.ai/uploads/seedance-2.0/c1288035-fc08-4465-bee0-a1857f94c7c1.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://www.atlascloud.ai/hi/seedance-2-prompt/12)
+
+#### Description
+
+जटिल कॉरिडोर पीछा पर आधारित एक वीडियो दृश्य।
+
+#### Prompt
+
+```text
+वीडियो दृश्य बनाएं: जटिल कॉरिडोर पीछा पर आधारित एक वीडियो दृश्य।
+```
+
+### No. 10: मार्शल आर्ट युद्ध दृश्य
+
+- **Category:** `उन्नत कैमरा मूवमेंट`
+- **Source:** `official`
+- **Author:** AtlasCloud
+- **Language:** `hi`
+- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/e62ddd7b-da6a-4b26-be8a-aba6e74dd854.mp4)
+
+<video src="https://static.atlascloud.ai/uploads/seedance-2.0/e62ddd7b-da6a-4b26-be8a-aba6e74dd854.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://www.atlascloud.ai/hi/seedance-2-prompt/15)
+
+#### Description
+
+मार्शल आर्ट युद्ध दृश्य पर आधारित एक वीडियो दृश्य।
+
+#### Prompt
+
+```text
+वीडियो दृश्य बनाएं: मार्शल आर्ट युद्ध दृश्य पर आधारित एक वीडियो दृश्य।
+```
+
+### No. 11: हिचकॉक ज़ूम in लिफ्ट
 
 - **Category:** `उन्नत कैमरा मूवमेंट`
 - **Source:** `official`
@@ -152,114 +635,247 @@ VR चश्मा ब्रह्मांड यात्रा पर आध�
 वीडियो दृश्य बनाएं: हिचकॉक ज़ूम in लिफ्ट पर आधारित एक वीडियो दृश्य।
 ```
 
-### No. 4: कॉमिक पैनल एनीमेशन
+### No. 12: लयात्मक नृत्य पुश-पुल
 
-- **Category:** `कहानी विकास और विस्तार`
+- **Category:** `उन्नत कैमरा मूवमेंट`
 - **Source:** `official`
 - **Author:** AtlasCloud
 - **Language:** `hi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c939610e-a182-40ad-89a5-254c1515ac24.mp4)
+- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/33ffc8e5-255c-46b2-8877-ad8a9100f6d4.mp4)
 
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/c939610e-a182-40ad-89a5-254c1515ac24.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/hi/seedance-2-prompt/26)
+<video src="https://static.atlascloud.ai/uploads/seedance-2.0/33ffc8e5-255c-46b2-8877-ad8a9100f6d4.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://www.atlascloud.ai/hi/seedance-2-prompt/14)
 
 #### Description
 
-कॉमिक पैनल एनीमेशन पर आधारित एक वीडियो दृश्य।
+लयात्मक नृत्य पुश-पुल पर आधारित एक वीडियो दृश्य।
 
 #### Prompt
 
 ```text
-वीडियो दृश्य बनाएं: कॉमिक पैनल एनीमेशन पर आधारित एक वीडियो दृश्य।
+वीडियो दृश्य बनाएं: लयात्मक नृत्य पुश-पुल पर आधारित एक वीडियो दृश्य।
 ```
 
-### No. 5: टाइटैनिक डार्क ट्विस्ट
+### No. 13: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure
 
-- **Category:** `वीडियो एडिटिंग और रीमिक्स`
-- **Source:** `official`
-- **Author:** AtlasCloud
+- **Category:** `उन्नत कैमरा मूवमेंट`
+- **Source:** `twitter`
+- **Author:** Min Choi (@minchoi)
 - **Language:** `hi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/19cb9c31-9a1e-4c2e-ae17-b03f6a88c20b.mp4)
+- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/52680ae8-705d-4b26-9d49-1b573ab4f56f.mp4)
 
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/19cb9c31-9a1e-4c2e-ae17-b03f6a88c20b.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/hi/seedance-2-prompt/48)
+<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/52680ae8-705d-4b26-9d49-1b573ab4f56f.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/minchoi/status/2020878278475518152)
 
 #### Description
 
-टाइटैनिक डार्क ट्विस्ट पर आधारित एक वीडियो दृश्य।
+Generate a 1-minute cinematic war video in 5 minutes with a multi-shot structure. Realistic Middle Eastern desert village infantry combat scene.
 
 #### Prompt
 
 ```text
-वीडियो दृश्य बनाएं: टाइटैनिक डार्क ट्विस्ट पर आधारित एक वीडियो दृश्य।
+Consistent style guideline for all shots: realistic cinematic war footage in a modern Middle Eastern desert village; dominant sandy yellow and gray-brown palette; harsh noon sunlight with hard shadows; drifting dust and gunpowder smoke; subtle handheld vibration; low-angle and ground-level framing to maximize tension and realism; modern light infantry gear without visible national identifiers; restrained, tense, and brutal atmosphere. Shot 1 : A modern infantry squad advances through narrow alleys between low adobe houses and damaged concrete walls. The camera tracks from behind at knee level, pushing forward as soldiers hug the walls and aim toward an unseen corner. Wind, distant metal clinks, and suspended dust establish dread. Shot 2 : A sudden close-quarters firefight erupts at the alley corner. Soldiers drop and press against the wall as rounds impact masonry, kicking up debris. Fast lateral camera pan with controlled shake, intermittent muzzle flashes, and silhouettes in broken windows increase claustrophobia and urgency. Shot 3 : The squad regains formation and enters a half-collapsed building. Over-shoulder follow shot into dim interior where shafts of sunlight cut through breached walls. Dust particles float in the beams; hand signals replace speech; distant gunfire echoes. Tone shifts from chaos to hyper-alert silence. Shot 4 : From a damaged rooftop, the squad secures a high vantage point over the village grid. Slow pullback in backlight, soldiers in silhouette with rifles still trained on unknown threats. Dust swirls in warm light; no clear victory or defeat. End on unresolved tension.
 ```
 
-### No. 6: फैशन बीट ड्रॉप
+### No. 14: Ground Combat Shot of Soldiers Traversing Desert Terrain
 
-- **Category:** `म्यूजिक सिंक्रोनाइजेशन`
-- **Source:** `official`
-- **Author:** AtlasCloud
+- **Category:** `उन्नत कैमरा मूवमेंट`
+- **Source:** `twitter`
+- **Author:** Chetaslua (@chetaslua)
 - **Language:** `hi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/5ae0578e-e6c8-4ff1-a03a-e19b5ac2f5c1.mp4)
+- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/0d332613-93bc-4d5e-b4f8-6cacc05871ef.mp4)
 
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/5ae0578e-e6c8-4ff1-a03a-e19b5ac2f5c1.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/hi/seedance-2-prompt/53)
+<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/0d332613-93bc-4d5e-b4f8-6cacc05871ef.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/chetaslua)
 
 #### Description
 
-फैशन बीट ड्रॉप पर आधारित एक वीडियो दृश्य।
+Tense first-person perspective of military squad advancing. Showcases realistic tactical movement and environmental details.
 
 #### Prompt
 
 ```text
-वीडियो दृश्य बनाएं: फैशन बीट ड्रॉप पर आधारित एक वीडियो दृश्य।
+Ground-level war footage with documentary realism: a soldier squad advances through a desert combat zone. Keep camera low and close to boots, gear sway, weapon details, and formation changes while moving over loose sand and debris. Harsh sunlight, visible heat haze, suspended dust, and distant intermittent gunfire should shape the atmosphere. Use controlled handheld movement with shallow depth of field, foreground clarity, and slight background softening. Color palette stays sandy beige and muted brown, emphasizing tactical discipline and persistent tension.
 ```
 
-### No. 7: काम के बाद घर वापसी
+### No. 15: Multi-Shot Fight Scene Generated with Only 3 Reference Images and Simple Prompt
 
-- **Category:** `पात्र और दृश्य सुसंगतता`
-- **Source:** `official`
-- **Author:** AtlasCloud
+- **Category:** `उन्नत कैमरा मूवमेंट`
+- **Source:** `twitter`
+- **Author:** el.cine (@EHuanglu)
 - **Language:** `hi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d66a205c-4470-4d71-9122-2d0bf0694c9c.mp4)
+- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e287a176-2ba0-4f64-ad86-ed779cd3d8d3.mp4)
 
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d66a205c-4470-4d71-9122-2d0bf0694c9c.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/hi/seedance-2-prompt/5)
+<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e287a176-2ba0-4f64-ad86-ed779cd3d8d3.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/EHuanglu/status/2020828503810445785)
 
 #### Description
 
-काम के बाद घर वापसी पर आधारित एक वीडियो दृश्य।
+Intense martial arts fight between two women in modern urban environment.
 
 #### Prompt
 
 ```text
-वीडियो दृश्य बनाएं: काम के बाद घर वापसी पर आधारित एक वीडियो दृश्य।
+A grounded martial arts duel between two women in a modern urban night setting. Build with clear shot variation: wide shot to establish spacing and intent, medium tracking shots for exchange tempo, close-up inserts for impact, breathing, and footwork. Include low-angle circling moves, over-shoulder counters, and quick lateral camera motions to preserve directional clarity. Movements must follow realistic weight transfer, momentum, and recovery. Use practical street lighting, neon reflections, slight wet pavement sheen, and gritty cinematic texture.
 ```
 
-### No. 8: सुरुचिपूर्ण धुलाई दृश्य
+<a id="category-4"></a>
 
-- **Category:** `अत्यंत यथार्थवादी वीडियो जनरेशन`
+### शैली अंतरण (2)
+
+### No. 1: घिबली-शैली का चेरी ब्लॉसम रास्ता
+
+- **Category:** `शैली अंतरण`
 - **Source:** `official`
-- **Author:** AtlasCloud
+- **Author:** Volcengine Ark
 - **Language:** `hi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/b6b7f78a-f9a7-4c09-a3ac-6f0f694b1263.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/b6b7f78a-f9a7-4c09-a3ac-6f0f694b1263.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/hi/seedance-2-prompt/1)
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-सुरुचिपूर्ण धुलाई दृश्य पर आधारित एक वीडियो दृश्य।
+फ़ुटेज को स्टूडियो घिबली एनीमेशन में बदलें, जबकि एक लड़की पंखुड़ियों से भरे रास्ते पर चलती है — शैली अंतरण।
 
 #### Prompt
 
 ```text
-वीडियो दृश्य बनाएं: सुरुचिपूर्ण धुलाई दृश्य पर आधारित एक वीडियो दृश्य।
+दृश्य को स्टूडियो घिबली एनीमेशन शैली में बदलें — एक लड़की रास्ते पर चलती है और उसके चारों ओर चेरी ब्लॉसम की पंखुड़ियाँ गिरती हैं।
 ```
 
-## 📋 All Prompts
+### No. 2: पहाड़ों के बीच स्याही-चित्र की नाव
 
-<a id="category-1"></a>
+- **Category:** `शैली अंतरण`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `hi`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+फ़ुटेज को पारंपरिक चीनी स्याही-चित्रकला में बदलें, जबकि एक अकेली नाव परिदृश्य से होकर बहती है — शैली अंतरण।
+
+#### Prompt
+
+```text
+दृश्य को चीनी स्याही-चित्रकला शैली में बदलें — एक छोटी नाव पहाड़ों और नदियों के बीच धीरे-धीरे बहती है।
+```
+
+<a id="category-5"></a>
+
+### टेक्स्ट रेंडरिंग (2)
+
+### No. 1: बारिश में नियॉन "SEEDANCE" साइन
+
+- **Category:** `टेक्स्ट रेंडरिंग`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `hi`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+सटीक ऑन-स्क्रीन टेक्स्ट रेंडरिंग — बरसाती रात की शहर की सड़क पर टिमटिमाता नियॉन "SEEDANCE" साइन।
+
+#### Prompt
+
+```text
+बरसाती रात में शहर की एक सड़क पर "SEEDANCE" लिखा नियॉन साइन टिमटिमाता है, इसकी चमक गीली सड़क पर प्रतिबिंबित होती है।
+```
+
+### No. 2: सुनहरे अक्षरों वाला किताब का कवर खुलता है
+
+- **Category:** `टेक्स्ट रेंडरिंग`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `hi`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+किताब के कवर पर सुपाठ्य रेंडर किया गया टेक्स्ट — सुनहरे रंग में "कृत्रिम बुद्धिमत्ता का भविष्य" — जबकि किताब धीरे-धीरे खुलती है।
+
+#### Prompt
+
+```text
+एक किताब के कवर पर सुनहरे अक्षरों में "कृत्रिम बुद्धिमत्ता का भविष्य" लिखा है, जबकि किताब धीरे-धीरे खुलती है।
+```
+
+<a id="category-6"></a>
+
+### छवि संदर्भ (4)
+
+### No. 1: संदर्भ पात्र जंगल से दौड़ता है
+
+- **Category:** `छवि संदर्भ`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `hi`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+एक संदर्भ छवि से गति संचालित करें — संदर्भित पात्र ट्रैकिंग कैमरे के साथ जंगल से दौड़ता है। संदर्भ को @image1 के रूप में दें।
+
+#### Prompt
+
+```text
+@image1 में मौजूद पात्र को संदर्भित करते हुए, उसे जंगल से दौड़ाएँ और कैमरा साथ-साथ ट्रैक करे।
+```
+
+### No. 2: संदर्भ दृश्य में पक्षी जोड़ें
+
+- **Category:** `छवि संदर्भ`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `hi`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+संदर्भित दृश्य को बनाए रखें और गति जोड़ें — पक्षियों का एक झुंड फ़्रेम को पार करता है। संदर्भ को @image1 के रूप में दें।
+
+#### Prompt
+
+```text
+@image1 में मौजूद दृश्य को संदर्भित करते हुए, फ़्रेम के आर-पार उड़ते पक्षियों का एक झुंड जोड़ें।
+```
+
+### No. 3: संदर्भ से 360° उत्पाद घुमाव
+
+- **Category:** `छवि संदर्भ`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `hi`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+किसी उत्पाद संदर्भ को घूमते शोकेस में बदलें — एक डिस्प्ले स्टैंड पर पूरा 360° घुमाव। संदर्भ को @image1 के रूप में दें।
+
+#### Prompt
+
+```text
+@image1 में मौजूद उत्पाद को संदर्भित करते हुए, उसे घूमते डिस्प्ले स्टैंड पर 360 डिग्री घुमाएँ।
+```
+
+### No. 4: संदर्भ व्यक्ति स्वाभाविक रूप से हाथ हिलाता है
+
+- **Category:** `छवि संदर्भ`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `hi`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+एक संदर्भित व्यक्ति को एनिमेट करें — जीवंत भाव के साथ स्वाभाविक रूप से हाथ हिलाने का हावभाव। संदर्भ को @image1 के रूप में दें।
+
+#### Prompt
+
+```text
+@image1 में मौजूद व्यक्ति को संदर्भित करते हुए, उससे स्वाभाविक, जीवंत भाव के साथ हाथ हिलवाएँ।
+```
+
+<a id="category-7"></a>
 
 ### Twitter Community (24)
 
@@ -749,7 +1365,7 @@ first person view of a diver on a boat, high five with another diver, clear blue
 a man giving a presentation in front of an audience, holding a microphone, with a large screen displaying two reflective spheres on a dark surface, natural light from windows, indoor setting with plants and audio equipment
 ```
 
-<a id="category-2"></a>
+<a id="category-8"></a>
 
 ### ऑडियो और वॉइस सिंथेसिस (10)
 
@@ -963,284 +1579,7 @@ Cinematic रोड ट्रिप MV पर आधारित एक वी�
 वीडियो दृश्य बनाएं: Cinematic रोड ट्रिप MV पर आधारित एक वीडियो दृश्य।
 ```
 
-<a id="category-3"></a>
-
-### उन्नत कैमरा मूवमेंट (13)
-
-### No. 1: IMAX-Style Desert Sandstorm Scene with Denis Villeneuve Aesthetic
-
-- **Category:** `उन्नत कैमरा मूवमेंट`
-- **Source:** `twitter`
-- **Author:** John (@johnAGI168)
-- **Language:** `hi`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/c3e4c06f-da7d-4127-ad68-7ed1656e2472.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/c3e4c06f-da7d-4127-ad68-7ed1656e2472.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/johnAGI168/status/2020989515939148146)
-
-#### Description
-
-IMAX-style desert sandstorm scene with Denis Villeneuve aesthetic. Features timestamped multi-shot structure.
-
-#### Prompt
-
-```text
-Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low saturation. Multi-shot structure. Extreme wide shot: a colossal sand wall consumes the horizon while an armored convoy races across open desert. Emphasize terrifying scale and human fragility. Cockpit POV: violent vibration inside the lead vehicle, sand blasting the windshield, red warning lights pulsing, urgent shouted commands. Climax in slow motion: lead rover launches off a dune, silhouetted against a dark storm front; lightning flickers inside the dust cloud; debris streaks past lens; hard cut to black on impact. Keep transitions clean and escalation continuous.
-```
-
-### No. 2: South Indian Cinema Alien Scene Generated from Single Prompt
-
-- **Category:** `उन्नत कैमरा मूवमेंट`
-- **Source:** `twitter`
-- **Author:** rohan anil (@_arohan_)
-- **Language:** `hi`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/068af607-5e54-4331-9c25-3afc190d1a53.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/068af607-5e54-4331-9c25-3afc190d1a53.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/_arohan_/status/2021369768004161783)
-
-#### Description
-
-South Indian cinema alien scene generated from a single prompt. Demonstrates cross-cultural filmmaking capabilities.
-
-#### Prompt
-
-```text
-Create a South Indian commercial-cinema style alien invasion action scene. Visuals should feature saturated colors, dramatic backlight, stylized slow motion, and heroic framing. Open with a large-scale city plaza reveal as alien craft descend, then cut to low-angle hero entrance with wind-swept costume details. Move into multi-angle confrontation: wides for scale, mediums for combo choreography, close-ups for emotional intensity and impact peaks. Blend dust, sparks, smoke, and lens flares for high-energy theatrical presentation while keeping motion readable.
-```
-
-### No. 3: Aerial Shot of Burning Military Vehicle in Urban Warfare
-
-- **Category:** `उन्नत कैमरा मूवमेंट`
-- **Source:** `twitter`
-- **Author:** Carlos Santana (@DotCSV)
-- **Language:** `hi`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/81bd1286-8024-4a62-a77a-0873d8137ae6.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/81bd1286-8024-4a62-a77a-0873d8137ae6.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/DotCSV/status/2020519499082969142)
-
-#### Description
-
-Cinematic drone footage capturing the aftermath of urban battle. Showcases Seedance 2.0's ability to generate realistic war scenes with detailed destruction effects and atmospheric rendering.
-
-#### Prompt
-
-```text
-A cinematic drone sequence over a war-torn city intersection. At the center, a destroyed armored vehicle burns continuously, emitting thick black smoke that climbs into an overcast sky. Streets are littered with rubble, twisted metal, and shattered concrete; nearby buildings show blown-out windows, scorched facades, and structural damage. Start with a high establishing aerial shot, then descend slowly into a medium-high orbit while preserving spatial scale and destruction detail. Keep color grading desaturated with documentary realism, add subtle film grain, and ensure physically believable fire, smoke turbulence, heat distortion, and airborne dust.
-```
-
-### No. 4: महाकाव्य फैंटेसी लड़ाई
-
-- **Category:** `उन्नत कैमरा मूवमेंट`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `hi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/a15ec27b-9b38-407d-aa7a-460c9ed17e7f.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/a15ec27b-9b38-407d-aa7a-460c9ed17e7f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/hi/seedance-2-prompt/16)
-
-#### Description
-
-महाकाव्य फैंटेसी लड़ाई पर आधारित एक वीडियो दृश्य।
-
-#### Prompt
-
-```text
-वीडियो दृश्य बनाएं: महाकाव्य फैंटेसी लड़ाई पर आधारित एक वीडियो दृश्य।
-```
-
-### No. 5: कार विज्ञापन सिनेमैटोग्राफी
-
-- **Category:** `उन्नत कैमरा मूवमेंट`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `hi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d1fe2d82-6f01-4e04-a732-a949028a09d3.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d1fe2d82-6f01-4e04-a732-a949028a09d3.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/hi/seedance-2-prompt/17)
-
-#### Description
-
-कार विज्ञापन सिनेमैटोग्राफी पर आधारित एक वीडियो दृश्य।
-
-#### Prompt
-
-```text
-वीडियो दृश्य बनाएं: कार विज्ञापन सिनेमैटोग्राफी पर आधारित एक वीडियो दृश्य।
-```
-
-### No. 6: घूमता हुआ टैबलेट प्रदर्शन
-
-- **Category:** `उन्नत कैमरा मूवमेंट`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `hi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/2f9e5701-3cbe-4855-84a8-3ba0cd72b329.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/2f9e5701-3cbe-4855-84a8-3ba0cd72b329.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/hi/seedance-2-prompt/13)
-
-#### Description
-
-घूमता हुआ टैबलेट प्रदर्शन पर आधारित एक वीडियो दृश्य।
-
-#### Prompt
-
-```text
-वीडियो दृश्य बनाएं: घूमता हुआ टैबलेट प्रदर्शन पर आधारित एक वीडियो दृश्य।
-```
-
-### No. 7: जटिल कॉरिडोर पीछा
-
-- **Category:** `उन्नत कैमरा मूवमेंट`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `hi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c1288035-fc08-4465-bee0-a1857f94c7c1.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/c1288035-fc08-4465-bee0-a1857f94c7c1.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/hi/seedance-2-prompt/12)
-
-#### Description
-
-जटिल कॉरिडोर पीछा पर आधारित एक वीडियो दृश्य।
-
-#### Prompt
-
-```text
-वीडियो दृश्य बनाएं: जटिल कॉरिडोर पीछा पर आधारित एक वीडियो दृश्य।
-```
-
-### No. 8: मार्शल आर्ट युद्ध दृश्य
-
-- **Category:** `उन्नत कैमरा मूवमेंट`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `hi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/e62ddd7b-da6a-4b26-be8a-aba6e74dd854.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/e62ddd7b-da6a-4b26-be8a-aba6e74dd854.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/hi/seedance-2-prompt/15)
-
-#### Description
-
-मार्शल आर्ट युद्ध दृश्य पर आधारित एक वीडियो दृश्य।
-
-#### Prompt
-
-```text
-वीडियो दृश्य बनाएं: मार्शल आर्ट युद्ध दृश्य पर आधारित एक वीडियो दृश्य।
-```
-
-### No. 9: हिचकॉक ज़ूम in लिफ्ट
-
-- **Category:** `उन्नत कैमरा मूवमेंट`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `hi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/4be02035-a101-4c2c-bb20-c2fe59771de9.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/4be02035-a101-4c2c-bb20-c2fe59771de9.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/hi/seedance-2-prompt/11)
-
-#### Description
-
-हिचकॉक ज़ूम in लिफ्ट पर आधारित एक वीडियो दृश्य।
-
-#### Prompt
-
-```text
-वीडियो दृश्य बनाएं: हिचकॉक ज़ूम in लिफ्ट पर आधारित एक वीडियो दृश्य।
-```
-
-### No. 10: लयात्मक नृत्य पुश-पुल
-
-- **Category:** `उन्नत कैमरा मूवमेंट`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `hi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/33ffc8e5-255c-46b2-8877-ad8a9100f6d4.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/33ffc8e5-255c-46b2-8877-ad8a9100f6d4.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/hi/seedance-2-prompt/14)
-
-#### Description
-
-लयात्मक नृत्य पुश-पुल पर आधारित एक वीडियो दृश्य।
-
-#### Prompt
-
-```text
-वीडियो दृश्य बनाएं: लयात्मक नृत्य पुश-पुल पर आधारित एक वीडियो दृश्य।
-```
-
-### No. 11: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure
-
-- **Category:** `उन्नत कैमरा मूवमेंट`
-- **Source:** `twitter`
-- **Author:** Min Choi (@minchoi)
-- **Language:** `hi`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/52680ae8-705d-4b26-9d49-1b573ab4f56f.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/52680ae8-705d-4b26-9d49-1b573ab4f56f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/minchoi/status/2020878278475518152)
-
-#### Description
-
-Generate a 1-minute cinematic war video in 5 minutes with a multi-shot structure. Realistic Middle Eastern desert village infantry combat scene.
-
-#### Prompt
-
-```text
-Consistent style guideline for all shots: realistic cinematic war footage in a modern Middle Eastern desert village; dominant sandy yellow and gray-brown palette; harsh noon sunlight with hard shadows; drifting dust and gunpowder smoke; subtle handheld vibration; low-angle and ground-level framing to maximize tension and realism; modern light infantry gear without visible national identifiers; restrained, tense, and brutal atmosphere. Shot 1 : A modern infantry squad advances through narrow alleys between low adobe houses and damaged concrete walls. The camera tracks from behind at knee level, pushing forward as soldiers hug the walls and aim toward an unseen corner. Wind, distant metal clinks, and suspended dust establish dread. Shot 2 : A sudden close-quarters firefight erupts at the alley corner. Soldiers drop and press against the wall as rounds impact masonry, kicking up debris. Fast lateral camera pan with controlled shake, intermittent muzzle flashes, and silhouettes in broken windows increase claustrophobia and urgency. Shot 3 : The squad regains formation and enters a half-collapsed building. Over-shoulder follow shot into dim interior where shafts of sunlight cut through breached walls. Dust particles float in the beams; hand signals replace speech; distant gunfire echoes. Tone shifts from chaos to hyper-alert silence. Shot 4 : From a damaged rooftop, the squad secures a high vantage point over the village grid. Slow pullback in backlight, soldiers in silhouette with rifles still trained on unknown threats. Dust swirls in warm light; no clear victory or defeat. End on unresolved tension.
-```
-
-### No. 12: Ground Combat Shot of Soldiers Traversing Desert Terrain
-
-- **Category:** `उन्नत कैमरा मूवमेंट`
-- **Source:** `twitter`
-- **Author:** Chetaslua (@chetaslua)
-- **Language:** `hi`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/0d332613-93bc-4d5e-b4f8-6cacc05871ef.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/0d332613-93bc-4d5e-b4f8-6cacc05871ef.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/chetaslua)
-
-#### Description
-
-Tense first-person perspective of military squad advancing. Showcases realistic tactical movement and environmental details.
-
-#### Prompt
-
-```text
-Ground-level war footage with documentary realism: a soldier squad advances through a desert combat zone. Keep camera low and close to boots, gear sway, weapon details, and formation changes while moving over loose sand and debris. Harsh sunlight, visible heat haze, suspended dust, and distant intermittent gunfire should shape the atmosphere. Use controlled handheld movement with shallow depth of field, foreground clarity, and slight background softening. Color palette stays sandy beige and muted brown, emphasizing tactical discipline and persistent tension.
-```
-
-### No. 13: Multi-Shot Fight Scene Generated with Only 3 Reference Images and Simple Prompt
-
-- **Category:** `उन्नत कैमरा मूवमेंट`
-- **Source:** `twitter`
-- **Author:** el.cine (@EHuanglu)
-- **Language:** `hi`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e287a176-2ba0-4f64-ad86-ed779cd3d8d3.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e287a176-2ba0-4f64-ad86-ed779cd3d8d3.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/EHuanglu/status/2020828503810445785)
-
-#### Description
-
-Intense martial arts fight between two women in modern urban environment.
-
-#### Prompt
-
-```text
-A grounded martial arts duel between two women in a modern urban night setting. Build with clear shot variation: wide shot to establish spacing and intent, medium tracking shots for exchange tempo, close-up inserts for impact, breathing, and footwork. Include low-angle circling moves, over-shoulder counters, and quick lateral camera motions to preserve directional clarity. Movements must follow realistic weight transfer, momentum, and recovery. Use practical street lighting, neon reflections, slight wet pavement sheen, and gritty cinematic texture.
-```
-
-<a id="category-4"></a>
+<a id="category-9"></a>
 
 ### वीडियो एडिटिंग और रीमिक्स (5)
 
@@ -1349,7 +1688,7 @@ A grounded martial arts duel between two women in a modern urban night setting. 
 वीडियो दृश्य बनाएं: शार्क फोटोबॉम्ब पर आधारित एक वीडियो दृश्य।
 ```
 
-<a id="category-5"></a>
+<a id="category-10"></a>
 
 ### पात्र और दृश्य सुसंगतता (6)
 
@@ -1479,7 +1818,7 @@ A grounded martial arts duel between two women in a modern urban night setting. 
 वीडियो दृश्य बनाएं: मैग्नेटिक Bow उत्पाद प्रदर्शन पर आधारित एक वीडियो दृश्य।
 ```
 
-<a id="category-6"></a>
+<a id="category-11"></a>
 
 ### रचनात्मक विजुअल इफेक्ट्स (11)
 
@@ -1714,7 +2053,7 @@ VR चश्मा ब्रह्मांड यात्रा पर आध�
 वीडियो दृश्य बनाएं: स्याही शैली ताई ची पर आधारित एक वीडियो दृश्य।
 ```
 
-<a id="category-7"></a>
+<a id="category-12"></a>
 
 ### अत्यंत यथार्थवादी वीडियो जनरेशन (5)
 
@@ -1823,7 +2162,7 @@ Photorealistic medium close shot of Will Smith eating spaghetti at a white kitch
 वीडियो दृश्य बनाएं: सुरुचिपूर्ण धुलाई दृश्य पर आधारित एक वीडियो दृश्य।
 ```
 
-<a id="category-8"></a>
+<a id="category-13"></a>
 
 ### भावनात्मक प्रदर्शन (3)
 
@@ -1890,7 +2229,7 @@ Photorealistic medium close shot of Will Smith eating spaghetti at a white kitch
 वीडियो दृश्य बनाएं: आईना टूटन पर आधारित एक वीडियो दृश्य।
 ```
 
-<a id="category-9"></a>
+<a id="category-14"></a>
 
 ### कहानी विकास और विस्तार (8)
 
@@ -2062,7 +2401,7 @@ Create a high-pressure disaster-action sequence: during turbulent flight, a woma
 वीडियो दृश्य बनाएं: बचपन मौसम डॉक्यूमेंट्री पर आधारित एक वीडियो दृश्य।
 ```
 
-<a id="category-10"></a>
+<a id="category-15"></a>
 
 ### म्यूजिक सिंक्रोनाइजेशन (4)
 
@@ -2150,115 +2489,6 @@ Create a high-pressure disaster-action sequence: during turbulent flight, a woma
 वीडियो दृश्य बनाएं: लैंडस्केप ट्रांज़िशन संगीत वीडियो पर आधारित एक वीडियो दृश्य।
 ```
 
-<a id="category-11"></a>
-
-### वन-टेक सिनेमैटोग्राफी (5)
-
-### No. 1: रोलर कोस्टर POV
-
-- **Category:** `वन-टेक सिनेमैटोग्राफी`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `hi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/fabf98a8-432c-479a-bcd3-3736677190b2.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/fabf98a8-432c-479a-bcd3-3736677190b2.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/hi/seedance-2-prompt/47)
-
-#### Description
-
-रोलर कोस्टर POV पर आधारित एक वीडियो दृश्य।
-
-#### Prompt
-
-```text
-वीडियो दृश्य बनाएं: रोलर कोस्टर POV पर आधारित एक वीडियो दृश्य।
-```
-
-### No. 2: सुकूनभरा केबिन चाय समय
-
-- **Category:** `वन-टेक सिनेमैटोग्राफी`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `hi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d1d1c955-c271-44ba-bd3e-1537e33a2e29.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d1d1c955-c271-44ba-bd3e-1537e33a2e29.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/hi/seedance-2-prompt/46)
-
-#### Description
-
-सुकूनभरा केबिन चाय समय पर आधारित एक वीडियो दृश्य।
-
-#### Prompt
-
-```text
-वीडियो दृश्य बनाएं: सुकूनभरा केबिन चाय समय पर आधारित एक वीडियो दृश्य।
-```
-
-### No. 3: जासूसी थ्रिलर ट्रैक
-
-- **Category:** `वन-टेक सिनेमैटोग्राफी`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `hi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/873ead10-156a-4f5f-aafc-1a0a743c3ef7.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/873ead10-156a-4f5f-aafc-1a0a743c3ef7.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/hi/seedance-2-prompt/45)
-
-#### Description
-
-जासूसी थ्रिलर ट्रैक पर आधारित एक वीडियो दृश्य।
-
-#### Prompt
-
-```text
-वीडियो दृश्य बनाएं: जासूसी थ्रिलर ट्रैक पर आधारित एक वीडियो दृश्य।
-```
-
-### No. 4: हवाई जहाज़ खिड़की आइसक्रीम सपना
-
-- **Category:** `वन-टेक सिनेमैटोग्राफी`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `hi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/3421ca69-533f-4ef7-aef2-2aabad3d53fe.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/3421ca69-533f-4ef7-aef2-2aabad3d53fe.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/hi/seedance-2-prompt/44)
-
-#### Description
-
-हवाई जहाज़ खिड़की आइसक्रीम सपना पर आधारित एक वीडियो दृश्य।
-
-#### Prompt
-
-```text
-वीडियो दृश्य बनाएं: हवाई जहाज़ खिड़की आइसक्रीम सपना पर आधारित एक वीडियो दृश्य।
-```
-
-### No. 5: पारकौर पीछा अनुक्रम
-
-- **Category:** `वन-टेक सिनेमैटोग्राफी`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `hi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c8b0a7bb-eae5-417f-bf63-e3a114a1364f.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/c8b0a7bb-eae5-417f-bf63-e3a114a1364f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/hi/seedance-2-prompt/43)
-
-#### Description
-
-पारकौर पीछा अनुक्रम पर आधारित एक वीडियो दृश्य।
-
-#### Prompt
-
-```text
-वीडियो दृश्य बनाएं: पारकौर पीछा अनुक्रम पर आधारित एक वीडियो दृश्य।
-```
-
 ## Local Usage
 
 ```bash
@@ -2280,4 +2510,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-07-08T14:08:12.399Z
+> This README is auto-generated. 2026-07-20T17:21:54.958Z

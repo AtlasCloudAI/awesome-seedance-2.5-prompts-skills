@@ -4,7 +4,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedance-2.5-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-94%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-107%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 > A curated collection of Seedance 2.5 video prompts — each with real previews via Atlas Cloud. 30s native clips · 50 multimodal references · flexible region editing. Cinematic, anime, UGC, ads, meme & more.
 
@@ -68,198 +68,438 @@ Seedance 2.5 is a major upgrade to Seedance 2.0 with three big gains: 30-second 
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **94** |
-| Categories | **11** |
+| Total Prompts | **107** |
+| Categories | **17** |
 | Preview Videos | **88** |
-| Last Updated | **2026-07-08T14:08:12.406Z** |
+| Last Updated | **2026-07-20T17:21:54.967Z** |
 
 ## 🏷️ Browse by Category
 
-- [`Twitter Community`](#category-1): **24**
-- [`Sintesis Audio & Suara`](#category-2): **10**
-- [`Gerak Kamera Lanjutan`](#category-3): **13**
-- [`Editing & Remix Video`](#category-4): **5**
-- [`Konsistensi Karakter & Adegan`](#category-5): **6**
-- [`Efek Visual Kreatif`](#category-6): **11**
-- [`Generasi Video Ultra-Realistis`](#category-7): **5**
-- [`Performa Emosional`](#category-8): **3**
-- [`Pengembangan & Ekstensi Cerita`](#category-9): **8**
-- [`Sinkronisasi Musik`](#category-10): **4**
-- [`Sinematografi One-Take`](#category-11): **5**
+- [`Narasi Multi-Bidik`](#category-1): **2**
+- [`Sinematografi Satu Pengambilan`](#category-2): **1**
+- [`Gerakan Kamera Tingkat Lanjut`](#category-3): **2**
+- [`Transfer Gaya`](#category-4): **2**
+- [`Perenderan Teks`](#category-5): **2**
+- [`Referensi Gambar`](#category-6): **4**
+- [`Twitter Community`](#category-7): **24**
+- [`Sintesis Audio & Suara`](#category-8): **10**
+- [`Gerak Kamera Lanjutan`](#category-9): **13**
+- [`Editing & Remix Video`](#category-10): **5**
+- [`Konsistensi Karakter & Adegan`](#category-11): **6**
+- [`Efek Visual Kreatif`](#category-12): **11**
+- [`Generasi Video Ultra-Realistis`](#category-13): **5**
+- [`Performa Emosional`](#category-14): **3**
+- [`Pengembangan & Ekstensi Cerita`](#category-15): **8**
+- [`Sinkronisasi Musik`](#category-16): **4**
+- [`Sinematografi One-Take`](#category-17): **5**
 
 ## 🔥 Featured Prompts
 
-### No. 1: Komedi Kuda Fisheye
+### No. 1: Lari di Tepi Laut — Cerita Tiga Bidikan
 
-- **Category:** `Sintesis Audio & Suara`
+- **Category:** `Narasi Multi-Bidik`
 - **Source:** `official`
-- **Author:** AtlasCloud
+- **Author:** Volcengine Ark
 - **Language:** `id`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/26d450cd-23c4-499e-9fd6-1752dabbc8bd.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/26d450cd-23c4-499e-9fd6-1752dabbc8bd.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/33)
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-Karakter hewan dengan dialog dan efek suara tersinkron lewat lensa fisheye.
+Rangkaian tepi laut tiga bidikan — close-up mengikuti, berbalik ke kamera, dan bidikan lebar freeze-frame — menampilkan narasi multi-bidik yang koheren dengan subjek yang konsisten.
 
 #### Prompt
 
 ```text
-Buat adegan video: Karakter hewan dengan dialog dan efek suara tersinkron lewat lensa fisheye.
+[Bidikan 1] Close-up, seorang gadis berlari di sepanjang tepi laut, kamera mengikuti langkah kakinya. [Bidikan 2] Bidikan medium, ia berhenti, berbalik menghadap kamera, dan tersenyum. [Bidikan 3] Bidikan lebar, ia merentangkan tangan ke arah laut saat gambar membeku.
 ```
 
-### No. 2: Perjalanan Semesta Kacamata VR
+### No. 2: Latte Barista — Satu Pengambilan Berkelanjutan
 
-- **Category:** `Efek Visual Kreatif`
+- **Category:** `Sinematografi Satu Pengambilan`
 - **Source:** `official`
-- **Author:** AtlasCloud
+- **Author:** Volcengine Ark
 - **Language:** `id`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/dddb1fb2-d73a-4b6a-a2bf-bf416be652c6.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/dddb1fb2-d73a-4b6a-a2bf-bf416be652c6.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/18)
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-Transisi POV imersif dari dunia nyata melalui antarmuka VR ke berbagai ranah digital.
+Satu pengambilan tanpa putus yang mengikuti seorang barista dari menggiling biji hingga latte art terakhir, memamerkan sinematografi satu pengambilan 30 detik.
 
 #### Prompt
 
 ```text
-Buat adegan video: Transisi POV imersif dari dunia nyata melalui antarmuka VR ke berbagai ranah digital.
+Seorang barista membuat latte di kafe — dari menggiling biji, menarik shot espresso, mengukus susu, hingga menuang latte art terakhir — semuanya dalam satu pengambilan berkelanjutan.
 ```
 
-### No. 3: Zoom Hitchcock di Lift
+### No. 3: Orbit 360° Mengelilingi Pendaki Puncak
 
-- **Category:** `Gerak Kamera Lanjutan`
+- **Category:** `Gerakan Kamera Tingkat Lanjut`
 - **Source:** `official`
-- **Author:** AtlasCloud
+- **Author:** Volcengine Ark
 - **Language:** `id`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/4be02035-a101-4c2c-bb20-c2fe59771de9.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/4be02035-a101-4c2c-bb20-c2fe59771de9.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/11)
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-Efek vertigo klasik Hitchcock dipadukan dengan gerak kamera kompleks di ruang sempit.
+Gerakan orbit 360 derajat penuh mengelilingi seorang pendaki gunung di puncak, menyingkapkan panorama gunung bersalju — kontrol gerakan kamera yang presisi.
 
 #### Prompt
 
 ```text
-Buat adegan video: Efek vertigo klasik Hitchcock dipadukan dengan gerak kamera kompleks di ruang sempit.
+Kamera mengorbit 360 derajat mengelilingi seorang pendaki gunung yang berdiri di puncak, menyingkapkan panorama megah puncak-puncak bersalju.
 ```
 
-### No. 4: Animasi Panel Komik
+### No. 4: Tarik Mundur Cepat — Dari Bunga ke Lautan Bunga
 
-- **Category:** `Pengembangan & Ekstensi Cerita`
+- **Category:** `Gerakan Kamera Tingkat Lanjut`
 - **Source:** `official`
-- **Author:** AtlasCloud
+- **Author:** Volcengine Ark
 - **Language:** `id`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c939610e-a182-40ad-89a5-254c1515ac24.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/c939610e-a182-40ad-89a5-254c1515ac24.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/26)
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-Ubah panel komik statis menjadi urutan animasi dengan efek suara.
+Dolly mundur cepat dari satu kuntum bunga ke padang bunga yang luas, lalu berhenti di puncak-puncak jauh — kontrol gerakan kamera yang dinamis.
 
 #### Prompt
 
 ```text
-Buat adegan video: Ubah panel komik statis menjadi urutan animasi dengan efek suara.
+Kamera menarik mundur dengan cepat dari close-up satu kuntum bunga untuk menyingkapkan seluruh lautan bunga, dan akhirnya berhenti di gunung-gunung bersalju di kejauhan.
 ```
 
-### No. 5: Titanic dengan Twist Gelap
+### No. 5: Jalan Setapak Sakura Gaya Ghibli
 
-- **Category:** `Editing & Remix Video`
+- **Category:** `Transfer Gaya`
 - **Source:** `official`
-- **Author:** AtlasCloud
+- **Author:** Volcengine Ark
 - **Language:** `id`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/19cb9c31-9a1e-4c2e-ae17-b03f6a88c20b.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/19cb9c31-9a1e-4c2e-ae17-b03f6a88c20b.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/48)
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-Balikkan adegan romantis menjadi thriller pengkhianatan.
+Ubah gaya rekaman menjadi animasi Studio Ghibli saat seorang gadis berjalan di jalan setapak yang bertabur kelopak — transfer gaya.
 
 #### Prompt
 
 ```text
-Buat adegan video: Balikkan adegan romantis menjadi thriller pengkhianatan.
+Ubah adegan menjadi gaya animasi Studio Ghibli — seorang gadis berjalan menyusuri jalan setapak sementara kelopak bunga sakura berguguran di sekelilingnya.
 ```
 
-### No. 6: Drop Beat Fashion
+### No. 6: Perahu Lukisan Tinta di Antara Gunung
 
-- **Category:** `Sinkronisasi Musik`
+- **Category:** `Transfer Gaya`
 - **Source:** `official`
-- **Author:** AtlasCloud
+- **Author:** Volcengine Ark
 - **Language:** `id`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/5ae0578e-e6c8-4ff1-a03a-e19b5ac2f5c1.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/5ae0578e-e6c8-4ff1-a03a-e19b5ac2f5c1.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/53)
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-Transformasi fashion yang sinkron dengan beat musik.
+Ubah gaya rekaman menjadi lukisan tinta tradisional Tiongkok saat sebuah perahu tunggal hanyut melintasi lanskap — transfer gaya.
 
 #### Prompt
 
 ```text
-Buat adegan video: Transformasi fashion yang sinkron dengan beat musik.
+Ubah adegan menjadi gaya lukisan tinta Tiongkok — sebuah perahu kecil hanyut perlahan di antara gunung dan sungai.
 ```
 
-### No. 7: Pulang ke Rumah Setelah Kerja
+### No. 7: Papan Neon "SEEDANCE" dalam Hujan
 
-- **Category:** `Konsistensi Karakter & Adegan`
+- **Category:** `Perenderan Teks`
 - **Source:** `official`
-- **Author:** AtlasCloud
+- **Author:** Volcengine Ark
 - **Language:** `id`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d66a205c-4470-4d71-9122-2d0bf0694c9c.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d66a205c-4470-4d71-9122-2d0bf0694c9c.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/5)
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-Narasi berkelanjutan yang menjaga konsistensi karakter dari koridor kantor ke rumah, dengan transisi emosi dan interaksi keluarga.
+Perenderan teks di layar yang akurat — papan neon "SEEDANCE" yang berkedip di jalan kota pada malam hujan.
 
 #### Prompt
 
 ```text
-Buat adegan video: Narasi berkelanjutan yang menjaga konsistensi karakter dari koridor kantor ke rumah, dengan transisi emosi dan interaksi keluarga.
+Sebuah papan neon bertuliskan "SEEDANCE" berkedip di jalan kota pada malam yang hujan, cahayanya memantul di trotoar yang basah.
 ```
 
-### No. 8: Adegan Menjemur Pakaian yang Elegan
+### No. 8: Sampul Buku Berhuruf Emas Terbuka
 
-- **Category:** `Generasi Video Ultra-Realistis`
+- **Category:** `Perenderan Teks`
 - **Source:** `official`
-- **Author:** AtlasCloud
+- **Author:** Volcengine Ark
 - **Language:** `id`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/b6b7f78a-f9a7-4c09-a3ac-6f0f694b1263.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/b6b7f78a-f9a7-4c09-a3ac-6f0f694b1263.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/1)
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-Seorang wanita menjemur pakaian dengan anggun, mengambil satu pakaian lagi dari keranjang, lalu mengibaskannya dengan gerak alami.
+Teks yang dirender terbaca jelas pada sampul buku — "Masa Depan Kecerdasan Buatan" dengan warna emas — saat buku perlahan terbuka.
 
 #### Prompt
 
 ```text
-Buat adegan video: Seorang wanita menjemur pakaian dengan anggun, mengambil satu pakaian lagi dari keranjang, lalu mengibaskannya dengan gerak alami.
+Sampul sebuah buku bertuliskan "Masa Depan Kecerdasan Buatan" dengan huruf emas saat buku perlahan terbuka.
 ```
 
 ## 📋 All Prompts
 
 <a id="category-1"></a>
+
+### Narasi Multi-Bidik (2)
+
+### No. 1: Lari di Tepi Laut — Cerita Tiga Bidikan
+
+- **Category:** `Narasi Multi-Bidik`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `id`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Rangkaian tepi laut tiga bidikan — close-up mengikuti, berbalik ke kamera, dan bidikan lebar freeze-frame — menampilkan narasi multi-bidik yang koheren dengan subjek yang konsisten.
+
+#### Prompt
+
+```text
+[Bidikan 1] Close-up, seorang gadis berlari di sepanjang tepi laut, kamera mengikuti langkah kakinya. [Bidikan 2] Bidikan medium, ia berhenti, berbalik menghadap kamera, dan tersenyum. [Bidikan 3] Bidikan lebar, ia merentangkan tangan ke arah laut saat gambar membeku.
+```
+
+### No. 2: Astronaut di Bulan — Tiga Bidikan
+
+- **Category:** `Narasi Multi-Bidik`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `id`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Rangkaian bulan tiga bidikan — menatap Bumi, berjalan ke modul, dan lepas landas — narasi multi-bidik dengan subjek yang konsisten.
+
+#### Prompt
+
+```text
+[Bidikan 1] Seorang astronaut berdiri di permukaan bulan, menatap Bumi. [Bidikan 2] Astronaut itu berbalik dan berjalan menuju modul bulan. [Bidikan 3] Modul lepas landas, menerbangkan debu bulan.
+```
+
+<a id="category-2"></a>
+
+### Sinematografi Satu Pengambilan (1)
+
+### No. 1: Latte Barista — Satu Pengambilan Berkelanjutan
+
+- **Category:** `Sinematografi Satu Pengambilan`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `id`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Satu pengambilan tanpa putus yang mengikuti seorang barista dari menggiling biji hingga latte art terakhir, memamerkan sinematografi satu pengambilan 30 detik.
+
+#### Prompt
+
+```text
+Seorang barista membuat latte di kafe — dari menggiling biji, menarik shot espresso, mengukus susu, hingga menuang latte art terakhir — semuanya dalam satu pengambilan berkelanjutan.
+```
+
+<a id="category-3"></a>
+
+### Gerakan Kamera Tingkat Lanjut (2)
+
+### No. 1: Orbit 360° Mengelilingi Pendaki Puncak
+
+- **Category:** `Gerakan Kamera Tingkat Lanjut`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `id`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Gerakan orbit 360 derajat penuh mengelilingi seorang pendaki gunung di puncak, menyingkapkan panorama gunung bersalju — kontrol gerakan kamera yang presisi.
+
+#### Prompt
+
+```text
+Kamera mengorbit 360 derajat mengelilingi seorang pendaki gunung yang berdiri di puncak, menyingkapkan panorama megah puncak-puncak bersalju.
+```
+
+### No. 2: Tarik Mundur Cepat — Dari Bunga ke Lautan Bunga
+
+- **Category:** `Gerakan Kamera Tingkat Lanjut`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `id`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Dolly mundur cepat dari satu kuntum bunga ke padang bunga yang luas, lalu berhenti di puncak-puncak jauh — kontrol gerakan kamera yang dinamis.
+
+#### Prompt
+
+```text
+Kamera menarik mundur dengan cepat dari close-up satu kuntum bunga untuk menyingkapkan seluruh lautan bunga, dan akhirnya berhenti di gunung-gunung bersalju di kejauhan.
+```
+
+<a id="category-4"></a>
+
+### Transfer Gaya (2)
+
+### No. 1: Jalan Setapak Sakura Gaya Ghibli
+
+- **Category:** `Transfer Gaya`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `id`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Ubah gaya rekaman menjadi animasi Studio Ghibli saat seorang gadis berjalan di jalan setapak yang bertabur kelopak — transfer gaya.
+
+#### Prompt
+
+```text
+Ubah adegan menjadi gaya animasi Studio Ghibli — seorang gadis berjalan menyusuri jalan setapak sementara kelopak bunga sakura berguguran di sekelilingnya.
+```
+
+### No. 2: Perahu Lukisan Tinta di Antara Gunung
+
+- **Category:** `Transfer Gaya`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `id`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Ubah gaya rekaman menjadi lukisan tinta tradisional Tiongkok saat sebuah perahu tunggal hanyut melintasi lanskap — transfer gaya.
+
+#### Prompt
+
+```text
+Ubah adegan menjadi gaya lukisan tinta Tiongkok — sebuah perahu kecil hanyut perlahan di antara gunung dan sungai.
+```
+
+<a id="category-5"></a>
+
+### Perenderan Teks (2)
+
+### No. 1: Papan Neon "SEEDANCE" dalam Hujan
+
+- **Category:** `Perenderan Teks`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `id`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Perenderan teks di layar yang akurat — papan neon "SEEDANCE" yang berkedip di jalan kota pada malam hujan.
+
+#### Prompt
+
+```text
+Sebuah papan neon bertuliskan "SEEDANCE" berkedip di jalan kota pada malam yang hujan, cahayanya memantul di trotoar yang basah.
+```
+
+### No. 2: Sampul Buku Berhuruf Emas Terbuka
+
+- **Category:** `Perenderan Teks`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `id`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Teks yang dirender terbaca jelas pada sampul buku — "Masa Depan Kecerdasan Buatan" dengan warna emas — saat buku perlahan terbuka.
+
+#### Prompt
+
+```text
+Sampul sebuah buku bertuliskan "Masa Depan Kecerdasan Buatan" dengan huruf emas saat buku perlahan terbuka.
+```
+
+<a id="category-6"></a>
+
+### Referensi Gambar (4)
+
+### No. 1: Karakter Referensi Berlari Melintasi Hutan
+
+- **Category:** `Referensi Gambar`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `id`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Gerakkan dari gambar referensi — karakter yang dirujuk berlari melintasi hutan dengan kamera mengikuti. Sediakan referensi sebagai @image1.
+
+#### Prompt
+
+```text
+Merujuk karakter pada @image1, buat dia berlari melintasi hutan dengan kamera mengikuti di sampingnya.
+```
+
+### No. 2: Menambahkan Burung ke Adegan Referensi
+
+- **Category:** `Referensi Gambar`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `id`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Pertahankan adegan yang dirujuk dan tambahkan gerakan — sekawanan burung melintasi bingkai. Sediakan referensi sebagai @image1.
+
+#### Prompt
+
+```text
+Merujuk adegan pada @image1, tambahkan sekawanan burung yang terbang melintasi bingkai.
+```
+
+### No. 3: Putaran Produk 360° dari Referensi
+
+- **Category:** `Referensi Gambar`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `id`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Ubah referensi produk menjadi etalase berputar — putaran penuh 360° di atas dudukan pajangan. Sediakan referensi sebagai @image1.
+
+#### Prompt
+
+```text
+Merujuk produk pada @image1, buat ia berputar 360 derajat di atas dudukan pajangan yang berputar.
+```
+
+### No. 4: Orang Referensi Melambai dengan Alami
+
+- **Category:** `Referensi Gambar`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `id`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Animasikan orang yang dirujuk — gestur melambai yang alami dengan ekspresi yang hidup. Sediakan referensi sebagai @image1.
+
+#### Prompt
+
+```text
+Merujuk orang pada @image1, buat dia melambai dengan ekspresi yang alami dan hidup.
+```
+
+<a id="category-7"></a>
 
 ### Twitter Community (24)
 
@@ -749,7 +989,7 @@ Seorang presenter berbicara kepada audiens sambil menampilkan animasi digital bo
 a man giving a presentation in front of an audience, holding a microphone, with a large screen displaying two reflective spheres on a dark surface, natural light from windows, indoor setting with plants and audio equipment
 ```
 
-<a id="category-2"></a>
+<a id="category-8"></a>
 
 ### Sintesis Audio & Suara (10)
 
@@ -963,7 +1203,7 @@ Video musik dengan keyword sinematografi spesifik dan audio atmosferik.
 Buat adegan video: Video musik dengan keyword sinematografi spesifik dan audio atmosferik.
 ```
 
-<a id="category-3"></a>
+<a id="category-9"></a>
 
 ### Gerak Kamera Lanjutan (13)
 
@@ -1240,7 +1480,7 @@ Intense martial arts fight between two women in modern urban environment.
 A grounded martial arts duel between two women in a modern urban night setting. Build with clear shot variation: wide shot to establish spacing and intent, medium tracking shots for exchange tempo, close-up inserts for impact, breathing, and footwork. Include low-angle circling moves, over-shoulder counters, and quick lateral camera motions to preserve directional clarity. Movements must follow realistic weight transfer, momentum, and recovery. Use practical street lighting, neon reflections, slight wet pavement sheen, and gritty cinematic texture.
 ```
 
-<a id="category-4"></a>
+<a id="category-10"></a>
 
 ### Editing & Remix Video (5)
 
@@ -1349,7 +1589,7 @@ Tambahkan elemen mengancam ke adegan damai.
 Buat adegan video: Tambahkan elemen mengancam ke adegan damai.
 ```
 
-<a id="category-5"></a>
+<a id="category-11"></a>
 
 ### Konsistensi Karakter & Adegan (6)
 
@@ -1479,7 +1719,7 @@ Iklan produk Korea dengan konsistensi merek dan demonstrasi multi-adegan.
 Buat adegan video: Iklan produk Korea dengan konsistensi merek dan demonstrasi multi-adegan.
 ```
 
-<a id="category-6"></a>
+<a id="category-12"></a>
 
 ### Efek Visual Kreatif (11)
 
@@ -1714,7 +1954,7 @@ Pertunjukan seni bela diri bergaya lukisan tinta tradisional Tiongkok.
 Buat adegan video: Pertunjukan seni bela diri bergaya lukisan tinta tradisional Tiongkok.
 ```
 
-<a id="category-7"></a>
+<a id="category-13"></a>
 
 ### Generasi Video Ultra-Realistis (5)
 
@@ -1823,7 +2063,7 @@ Seorang wanita menjemur pakaian dengan anggun, mengambil satu pakaian lagi dari 
 Buat adegan video: Seorang wanita menjemur pakaian dengan anggun, mengambil satu pakaian lagi dari keranjang, lalu mengibaskannya dengan gerak alami.
 ```
 
-<a id="category-8"></a>
+<a id="category-14"></a>
 
 ### Performa Emosional (3)
 
@@ -1890,7 +2130,7 @@ Adegan keruntuhan psikologis dengan emosi yang terus meningkat.
 Buat adegan video: Adegan keruntuhan psikologis dengan emosi yang terus meningkat.
 ```
 
-<a id="category-9"></a>
+<a id="category-15"></a>
 
 ### Pengembangan & Ekstensi Cerita (8)
 
@@ -2062,7 +2302,7 @@ Buat pembuka dokumenter yang menyembuhkan berdasarkan storyboard.
 Buat adegan video: Buat pembuka dokumenter yang menyembuhkan berdasarkan storyboard.
 ```
 
-<a id="category-10"></a>
+<a id="category-16"></a>
 
 ### Sinkronisasi Musik (4)
 
@@ -2150,7 +2390,7 @@ Transisi pemandangan yang sinkron sempurna dengan ritme musik.
 Buat adegan video: Transisi pemandangan yang sinkron sempurna dengan ritme musik.
 ```
 
-<a id="category-11"></a>
+<a id="category-17"></a>
 
 ### Sinematografi One-Take (5)
 
@@ -2280,4 +2520,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-07-08T14:08:12.406Z
+> This README is auto-generated. 2026-07-20T17:21:54.967Z

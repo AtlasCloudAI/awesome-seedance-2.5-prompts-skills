@@ -1,5 +1,239 @@
 [
   {
+    "id": "sd25off_01",
+    "sort_order": -100,
+    "title": "Löprunda vid havet — Berättelse i tre tagningar",
+    "description": "En kustsekvens i tre tagningar — en följande närbild, en vändning mot kameran och en vidbild som frusen bild — som visar ett sammanhängande berättande i flera tagningar med ett konsekvent motiv.",
+    "prompt": "[Tagning 1] Närbild, en flicka springer längs havsstranden medan kameran följer hennes steg. [Tagning 2] Halvbild, hon stannar, vänder sig mot kameran och ler. [Tagning 3] Vidbild, hon sträcker ut armarna mot havet medan bilden fryser.",
+    "category": "Berättande i flera tagningar",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "sv",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_01",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_02",
+    "sort_order": -99,
+    "title": "Baristans latte — En enda oavbruten tagning",
+    "description": "En enda oavbruten tagning som följer en barista från malning av bönorna till den slutliga latte art-en, och visar upp 30 s enda tagning-filmning.",
+    "prompt": "En barista gör en latte på ett kafé — från att mala bönorna, dra espresson, skumma mjölken, till att slutligen hälla latte art-en — allt i en enda oavbruten tagning.",
+    "category": "Enda tagning-filmning",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "sv",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_02",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_03",
+    "sort_order": -98,
+    "title": "360°-omloppsbana runt en toppbestigare",
+    "description": "En fullständig 360-graders omloppsrörelse runt en bergsbestigare på en topp, som avslöjar en snöbergspanorama — precis kontroll av kamerarörelse.",
+    "prompt": "Kameran kretsar 360 grader runt en bergsbestigare som står på en topp och avslöjar en magnifik panorama av snöklädda toppar.",
+    "category": "Avancerade kamerarörelser",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "sv",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_03",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_04",
+    "sort_order": -97,
+    "title": "Snabb utåkning — Från blomma till blomsterhav",
+    "description": "En snabb dolly bakåt från en enda blomma till ett vidsträckt blomsterfält, som stannar vid avlägsna toppar — dynamisk kontroll av kamerarörelse.",
+    "prompt": "Kameran åker snabbt bakåt från närbilden av en enda blomma för att avslöja ett helt blomsterhav, och stannar till slut vid de snöklädda bergen i fjärran.",
+    "category": "Avancerade kamerarörelser",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "sv",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_04",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_05",
+    "sort_order": -96,
+    "title": "Körsbärsblomstig i Ghibli-stil",
+    "description": "Stila om materialet till Studio Ghibli-animation medan en flicka går längs en stig beströdd med kronblad — stilöverföring.",
+    "prompt": "Förvandla scenen till Studio Ghiblis animationsstil — en flicka går längs en stig medan körsbärsblommor singlar ner runt henne.",
+    "category": "Stilöverföring",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "sv",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_05",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_06",
+    "sort_order": -95,
+    "title": "Tuschmålningsbåt bland bergen",
+    "description": "Stila om materialet till traditionell kinesisk tuschmålning medan en ensam båt driver genom landskapet — stilöverföring.",
+    "prompt": "Förvandla scenen till kinesisk tuschmålningsstil — en liten båt driver långsamt fram mellan berg och floder.",
+    "category": "Stilöverföring",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "sv",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_06",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_07",
+    "sort_order": -94,
+    "title": "Neonskylt \"SEEDANCE\" i regnet",
+    "description": "Precis textrendering på skärmen — en flimrande neonskylt \"SEEDANCE\" på en stadsgata en regnig natt.",
+    "prompt": "En neonskylt med texten \"SEEDANCE\" flimrar på en stadsgata en regnig natt, och dess sken speglas i den våta gatan.",
+    "category": "Textrendering",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "sv",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_07",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_08",
+    "sort_order": -93,
+    "title": "Bokomslag med guldbokstäver öppnas",
+    "description": "Läsbart renderad text på ett bokomslag — \"Den Artificiella Intelligensens Framtid\" i guld — medan boken långsamt öppnas.",
+    "prompt": "Ett bokomslag har texten \"Den Artificiella Intelligensens Framtid\" i guldbokstäver medan boken långsamt öppnas.",
+    "category": "Textrendering",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "sv",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_08",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_09",
+    "sort_order": -92,
+    "title": "Astronaut på månen — Tre tagningar",
+    "description": "En månsekvens i tre tagningar — blickar mot jorden, går mot modulen och lyfter — berättande i flera tagningar med ett konsekvent motiv.",
+    "prompt": "[Tagning 1] En astronaut står på månytan och blickar mot jorden. [Tagning 2] Astronauten vänder sig om och går mot månmodulen. [Tagning 3] Modulen lyfter och virvlar upp måndamm.",
+    "category": "Berättande i flera tagningar",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "sv",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_09",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_10",
+    "sort_order": -91,
+    "title": "Referenskaraktär springer genom skogen",
+    "description": "Driv rörelsen från en referensbild — den refererade karaktären springer genom en skog med en följande kamera. Ange referensen som @image1.",
+    "prompt": "Med referens till karaktären i @image1, låt honom springa genom en skog medan kameran följer med vid sidan.",
+    "category": "Bildreferens",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "sv",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_10",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_11",
+    "sort_order": -90,
+    "title": "Lägg till fåglar i en referensscen",
+    "description": "Behåll en refererad scen och lägg till rörelse — en flock fåglar korsar bildrutan. Ange referensen som @image1.",
+    "prompt": "Med referens till scenen i @image1, lägg till en flock fåglar som flyger tvärs över bildrutan.",
+    "category": "Bildreferens",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "sv",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_11",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_12",
+    "sort_order": -89,
+    "title": "360°-produktsnurr från referens",
+    "description": "Förvandla en produktreferens till en roterande skyltning — ett fullt varv på 360° på ett displayställ. Ange referensen som @image1.",
+    "prompt": "Med referens till produkten i @image1, låt den rotera 360 grader på ett roterande displayställ.",
+    "category": "Bildreferens",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "sv",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_12",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_13",
+    "sort_order": -88,
+    "title": "Referensperson vinkar naturligt",
+    "description": "Animera en refererad person — en naturlig vinkgest med ett verklighetstroget uttryck. Ange referensen som @image1.",
+    "prompt": "Med referens till personen i @image1, låt dem vinka med ett naturligt, verklighetstroget uttryck.",
+    "category": "Bildreferens",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "sv",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_13",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
     "id": "ur_001",
     "sort_order": 80,
     "title": "Elegant tvätt scen",

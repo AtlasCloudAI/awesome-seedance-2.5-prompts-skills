@@ -4,7 +4,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedance-2.5-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-94%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-107%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 > A curated collection of Seedance 2.5 video prompts — each with real previews via Atlas Cloud. 30s native clips · 50 multimodal references · flexible region editing. Cinematic, anime, UGC, ads, meme & more.
 
@@ -68,198 +68,438 @@ Seedance 2.5 is a major upgrade to Seedance 2.0 with three big gains: 30-second 
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **94** |
-| Categories | **11** |
+| Total Prompts | **107** |
+| Categories | **17** |
 | Preview Videos | **88** |
-| Last Updated | **2026-07-08T14:08:12.409Z** |
+| Last Updated | **2026-07-20T17:21:54.970Z** |
 
 ## 🏷️ Browse by Category
 
-- [`Twitter Community`](#category-1): **24**
-- [`Audio & Voice Synthesis`](#category-2): **10**
-- [`Advanced Camera Movements`](#category-3): **13**
-- [`Video Editing & Remixing`](#category-4): **5**
-- [`Character & Scene Consistency`](#category-5): **6**
-- [`Creative Visual Effects`](#category-6): **11**
-- [`Ultra-Realistic Video Generation`](#category-7): **5**
-- [`Emotional Performance`](#category-8): **3**
-- [`Story Development & Extension`](#category-9): **8**
-- [`Music Synchronization`](#category-10): **4**
-- [`One-Take Cinematography`](#category-11): **5**
+- [`Многокадровое повествование`](#category-1): **2**
+- [`Съёмка одним дублем`](#category-2): **1**
+- [`Продвинутые движения камеры`](#category-3): **2**
+- [`Перенос стиля`](#category-4): **2**
+- [`Отрисовка текста`](#category-5): **2**
+- [`Ссылка на изображение`](#category-6): **4**
+- [`Twitter Community`](#category-7): **24**
+- [`Audio & Voice Synthesis`](#category-8): **10**
+- [`Advanced Camera Movements`](#category-9): **13**
+- [`Video Editing & Remixing`](#category-10): **5**
+- [`Character & Scene Consistency`](#category-11): **6**
+- [`Creative Visual Effects`](#category-12): **11**
+- [`Ultra-Realistic Video Generation`](#category-13): **5**
+- [`Emotional Performance`](#category-14): **3**
+- [`Story Development & Extension`](#category-15): **8**
+- [`Music Synchronization`](#category-16): **4**
+- [`One-Take Cinematography`](#category-17): **5**
 
 ## 🔥 Featured Prompts
 
-### No. 1: Комедийная сцена с лошадью и fisheye
+### No. 1: Пробежка у моря — История в трёх кадрах
 
-- **Category:** `Audio & Voice Synthesis`
+- **Category:** `Многокадровое повествование`
 - **Source:** `official`
-- **Author:** AtlasCloud
+- **Author:** Volcengine Ark
 - **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/26d450cd-23c4-499e-9fd6-1752dabbc8bd.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/26d450cd-23c4-499e-9fd6-1752dabbc8bd.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/33)
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-Комедийный эпизод с синхронизацией реплик и SFX в fisheye-подаче.
+Приморская последовательность из трёх кадров — крупный план со слежением, поворот к камере и широкий план со стоп-кадром — демонстрирует связное многокадровое повествование с постоянным героем.
 
 #### Prompt
 
 ```text
-Сгенерируй сцену: Комедийный эпизод с синхронизацией реплик и SFX в fisheye-подаче.
+[Кадр 1] Крупный план, девушка бежит вдоль берега моря, камера следует за её шагами. [Кадр 2] Средний план, она останавливается, поворачивается к камере и улыбается. [Кадр 3] Общий план, она раскидывает руки навстречу морю, и кадр застывает.
 ```
 
-### No. 2: Путешествие через VR-вселенную
+### No. 2: Латте бариста — Один непрерывный дубль
 
-- **Category:** `Creative Visual Effects`
+- **Category:** `Съёмка одним дублем`
 - **Source:** `official`
-- **Author:** AtlasCloud
+- **Author:** Volcengine Ark
 - **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/dddb1fb2-d73a-4b6a-a2bf-bf416be652c6.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/dddb1fb2-d73a-4b6a-a2bf-bf416be652c6.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/18)
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-Иммерсивный POV-переход из реальности в цифровые пространства через VR-интерфейс.
+Единый непрерывный дубль, следующий за бариста от помола зёрен до финального латте-арта, демонстрирует 30-секундную съёмку одним дублем.
 
 #### Prompt
 
 ```text
-Сгенерируй сцену: Иммерсивный POV-переход из реальности в цифровые пространства через VR-интерфейс.
+Бариста готовит латте в кофейне — от помола зёрен, через приготовление эспрессо и взбивание молока, до финального рисунка латте-арт — всё одним непрерывным дублем.
 ```
 
-### No. 3: Зум Хичкока в лифте
+### No. 3: Облёт 360° вокруг покорителя вершины
 
-- **Category:** `Advanced Camera Movements`
+- **Category:** `Продвинутые движения камеры`
 - **Source:** `official`
-- **Author:** AtlasCloud
+- **Author:** Volcengine Ark
 - **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/4be02035-a101-4c2c-bb20-c2fe59771de9.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/4be02035-a101-4c2c-bb20-c2fe59771de9.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/11)
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-Классический эффект «долли-зум» в замкнутом пространстве с многослойной съёмкой.
+Полный облёт на 360 градусов вокруг альпиниста на вершине, раскрывающий панораму снежных гор — точное управление движением камеры.
 
 #### Prompt
 
 ```text
-Сгенерируй сцену: Классический эффект «долли-зум» в замкнутом пространстве с многослойной съёмкой.
+Камера облетает на 360 градусов вокруг альпиниста, стоящего на вершине, раскрывая великолепную панораму заснеженных пиков.
 ```
 
-### No. 4: Анимация комикс-панелей
+### No. 4: Быстрый отъезд — От цветка к морю цветов
 
-- **Category:** `Story Development & Extension`
+- **Category:** `Продвинутые движения камеры`
 - **Source:** `official`
-- **Author:** AtlasCloud
+- **Author:** Volcengine Ark
 - **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c939610e-a182-40ad-89a5-254c1515ac24.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/c939610e-a182-40ad-89a5-254c1515ac24.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/26)
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-Преобразование статичных комикс-кадров в анимированную сцену со звуком.
+Быстрый отъезд камеры от одного цветка к бескрайнему полю цветов, замирающий на далёких вершинах — динамичное управление движением камеры.
 
 #### Prompt
 
 ```text
-Сгенерируй сцену: Преобразование статичных комикс-кадров в анимированную сцену со звуком.
+Камера быстро отъезжает от крупного плана одного цветка, раскрывая целое море цветов, и наконец замирает на заснеженных горах вдали.
 ```
 
-### No. 5: Мрачный твист в духе «Титаника»
+### No. 5: Дорожка сакуры в стиле Гибли
 
-- **Category:** `Video Editing & Remixing`
+- **Category:** `Перенос стиля`
 - **Source:** `official`
-- **Author:** AtlasCloud
+- **Author:** Volcengine Ark
 - **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/19cb9c31-9a1e-4c2e-ae17-b03f6a88c20b.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/19cb9c31-9a1e-4c2e-ae17-b03f6a88c20b.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/48)
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-Романтическая сцена переосмысляется как мрачный предательский разворот.
+Перестилизуйте кадры под анимацию Studio Ghibli, пока девушка идёт по усыпанной лепестками дорожке — перенос стиля.
 
 #### Prompt
 
 ```text
-Сгенерируй сцену: Романтическая сцена переосмысляется как мрачный предательский разворот.
+Преобразуйте сцену в стиль анимации Studio Ghibli — девушка идёт по дорожке, а вокруг неё падают лепестки сакуры.
 ```
 
-### No. 6: Fashion beat drop
+### No. 6: Лодка среди гор в стиле туши
 
-- **Category:** `Music Synchronization`
+- **Category:** `Перенос стиля`
 - **Source:** `official`
-- **Author:** AtlasCloud
+- **Author:** Volcengine Ark
 - **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/5ae0578e-e6c8-4ff1-a03a-e19b5ac2f5c1.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/5ae0578e-e6c8-4ff1-a03a-e19b5ac2f5c1.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/53)
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-Модная трансформация, синхронизированная с музыкальным beat drop.
+Перестилизуйте кадры под традиционную китайскую живопись тушью, пока одинокая лодка скользит по пейзажу — перенос стиля.
 
 #### Prompt
 
 ```text
-Сгенерируй сцену: Модная трансформация, синхронизированная с музыкальным beat drop.
+Преобразуйте сцену в стиль китайской живописи тушью — маленькая лодка медленно скользит среди гор и рек.
 ```
 
-### No. 7: Возвращение домой после работы
+### No. 7: Неоновая вывеска "SEEDANCE" под дождём
 
-- **Category:** `Character & Scene Consistency`
+- **Category:** `Отрисовка текста`
 - **Source:** `official`
-- **Author:** AtlasCloud
+- **Author:** Volcengine Ark
 - **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d66a205c-4470-4d71-9122-2d0bf0694c9c.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d66a205c-4470-4d71-9122-2d0bf0694c9c.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/5)
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-Непрерывный эмоциональный эпизод от офисного коридора до тёплой домашней сцены.
+Точная отрисовка экранного текста — мерцающая неоновая вывеска "SEEDANCE" на городской улице дождливой ночью.
 
 #### Prompt
 
 ```text
-Сгенерируй сцену: Непрерывный эмоциональный эпизод от офисного коридора до тёплой домашней сцены.
+Неоновая вывеска с надписью "SEEDANCE" мерцает на городской улице дождливой ночью, её свет отражается на мокром асфальте.
 ```
 
-### No. 8: Элегантная сцена стирки
+### No. 8: Открывается обложка книги с золотыми буквами
 
-- **Category:** `Ultra-Realistic Video Generation`
+- **Category:** `Отрисовка текста`
 - **Source:** `official`
-- **Author:** AtlasCloud
+- **Author:** Volcengine Ark
 - **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/b6b7f78a-f9a7-4c09-a3ac-6f0f694b1263.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/b6b7f78a-f9a7-4c09-a3ac-6f0f694b1263.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/1)
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-Реалистичная бытовая сцена с естественной пластикой движения и аккуратной камерой.
+Разборчиво отрисованный текст на обложке книги — "Будущее искусственного интеллекта" золотом — пока книга медленно раскрывается.
 
 #### Prompt
 
 ```text
-Сгенерируй сцену: Реалистичная бытовая сцена с естественной пластикой движения и аккуратной камерой.
+На обложке книги золотыми буквами написано "Будущее искусственного интеллекта", пока книга медленно раскрывается.
 ```
 
 ## 📋 All Prompts
 
 <a id="category-1"></a>
+
+### Многокадровое повествование (2)
+
+### No. 1: Пробежка у моря — История в трёх кадрах
+
+- **Category:** `Многокадровое повествование`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `ru`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Приморская последовательность из трёх кадров — крупный план со слежением, поворот к камере и широкий план со стоп-кадром — демонстрирует связное многокадровое повествование с постоянным героем.
+
+#### Prompt
+
+```text
+[Кадр 1] Крупный план, девушка бежит вдоль берега моря, камера следует за её шагами. [Кадр 2] Средний план, она останавливается, поворачивается к камере и улыбается. [Кадр 3] Общий план, она раскидывает руки навстречу морю, и кадр застывает.
+```
+
+### No. 2: Космонавт на Луне — Три кадра
+
+- **Category:** `Многокадровое повествование`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `ru`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Лунная последовательность из трёх кадров — взгляд на Землю, путь к модулю и старт — многокадровое повествование с постоянным героем.
+
+#### Prompt
+
+```text
+[Кадр 1] Космонавт стоит на поверхности Луны, глядя на Землю. [Кадр 2] Космонавт разворачивается и идёт к лунному модулю. [Кадр 3] Модуль стартует, поднимая лунную пыль.
+```
+
+<a id="category-2"></a>
+
+### Съёмка одним дублем (1)
+
+### No. 1: Латте бариста — Один непрерывный дубль
+
+- **Category:** `Съёмка одним дублем`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `ru`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Единый непрерывный дубль, следующий за бариста от помола зёрен до финального латте-арта, демонстрирует 30-секундную съёмку одним дублем.
+
+#### Prompt
+
+```text
+Бариста готовит латте в кофейне — от помола зёрен, через приготовление эспрессо и взбивание молока, до финального рисунка латте-арт — всё одним непрерывным дублем.
+```
+
+<a id="category-3"></a>
+
+### Продвинутые движения камеры (2)
+
+### No. 1: Облёт 360° вокруг покорителя вершины
+
+- **Category:** `Продвинутые движения камеры`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `ru`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Полный облёт на 360 градусов вокруг альпиниста на вершине, раскрывающий панораму снежных гор — точное управление движением камеры.
+
+#### Prompt
+
+```text
+Камера облетает на 360 градусов вокруг альпиниста, стоящего на вершине, раскрывая великолепную панораму заснеженных пиков.
+```
+
+### No. 2: Быстрый отъезд — От цветка к морю цветов
+
+- **Category:** `Продвинутые движения камеры`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `ru`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Быстрый отъезд камеры от одного цветка к бескрайнему полю цветов, замирающий на далёких вершинах — динамичное управление движением камеры.
+
+#### Prompt
+
+```text
+Камера быстро отъезжает от крупного плана одного цветка, раскрывая целое море цветов, и наконец замирает на заснеженных горах вдали.
+```
+
+<a id="category-4"></a>
+
+### Перенос стиля (2)
+
+### No. 1: Дорожка сакуры в стиле Гибли
+
+- **Category:** `Перенос стиля`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `ru`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Перестилизуйте кадры под анимацию Studio Ghibli, пока девушка идёт по усыпанной лепестками дорожке — перенос стиля.
+
+#### Prompt
+
+```text
+Преобразуйте сцену в стиль анимации Studio Ghibli — девушка идёт по дорожке, а вокруг неё падают лепестки сакуры.
+```
+
+### No. 2: Лодка среди гор в стиле туши
+
+- **Category:** `Перенос стиля`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `ru`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Перестилизуйте кадры под традиционную китайскую живопись тушью, пока одинокая лодка скользит по пейзажу — перенос стиля.
+
+#### Prompt
+
+```text
+Преобразуйте сцену в стиль китайской живописи тушью — маленькая лодка медленно скользит среди гор и рек.
+```
+
+<a id="category-5"></a>
+
+### Отрисовка текста (2)
+
+### No. 1: Неоновая вывеска "SEEDANCE" под дождём
+
+- **Category:** `Отрисовка текста`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `ru`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Точная отрисовка экранного текста — мерцающая неоновая вывеска "SEEDANCE" на городской улице дождливой ночью.
+
+#### Prompt
+
+```text
+Неоновая вывеска с надписью "SEEDANCE" мерцает на городской улице дождливой ночью, её свет отражается на мокром асфальте.
+```
+
+### No. 2: Открывается обложка книги с золотыми буквами
+
+- **Category:** `Отрисовка текста`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `ru`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Разборчиво отрисованный текст на обложке книги — "Будущее искусственного интеллекта" золотом — пока книга медленно раскрывается.
+
+#### Prompt
+
+```text
+На обложке книги золотыми буквами написано "Будущее искусственного интеллекта", пока книга медленно раскрывается.
+```
+
+<a id="category-6"></a>
+
+### Ссылка на изображение (4)
+
+### No. 1: Референсный персонаж бежит через лес
+
+- **Category:** `Ссылка на изображение`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `ru`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Задайте движение по референсному изображению — референсный персонаж бежит через лес со следящей камерой. Передайте референс как @image1.
+
+#### Prompt
+
+```text
+Ссылаясь на персонажа из @image1, заставьте его бежать через лес, а камеру — двигаться рядом, отслеживая его.
+```
+
+### No. 2: Добавить птиц в референсную сцену
+
+- **Category:** `Ссылка на изображение`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `ru`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Сохраните референсную сцену и добавьте движение — стая птиц пересекает кадр. Передайте референс как @image1.
+
+#### Prompt
+
+```text
+Ссылаясь на сцену из @image1, добавьте стаю птиц, пролетающую через кадр.
+```
+
+### No. 3: Вращение товара на 360° по референсу
+
+- **Category:** `Ссылка на изображение`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `ru`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Превратите референс товара во вращающуюся витрину — полный оборот на 360° на демонстрационной подставке. Передайте референс как @image1.
+
+#### Prompt
+
+```text
+Ссылаясь на товар из @image1, заставьте его вращаться на 360 градусов на вращающейся демонстрационной подставке.
+```
+
+### No. 4: Референсный человек естественно машет рукой
+
+- **Category:** `Ссылка на изображение`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `ru`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Оживите референсного человека — естественный жест приветствия рукой с живой мимикой. Передайте референс как @image1.
+
+#### Prompt
+
+```text
+Ссылаясь на человека из @image1, заставьте его помахать рукой с естественным, живым выражением лица.
+```
+
+<a id="category-7"></a>
 
 ### Twitter Community (24)
 
@@ -749,7 +989,7 @@ first person view of a diver on a boat, high five with another diver, clear blue
 a man giving a presentation in front of an audience, holding a microphone, with a large screen displaying two reflective spheres on a dark surface, natural light from windows, indoor setting with plants and audio equipment
 ```
 
-<a id="category-2"></a>
+<a id="category-8"></a>
 
 ### Audio & Voice Synthesis (10)
 
@@ -963,7 +1203,7 @@ a man giving a presentation in front of an audience, holding a microphone, with 
 Сгенерируй сцену: Музыкальный клип с заданными визуальными и ритмическими параметрами.
 ```
 
-<a id="category-3"></a>
+<a id="category-9"></a>
 
 ### Advanced Camera Movements (13)
 
@@ -1240,7 +1480,7 @@ Intense martial arts fight between two women in modern urban environment.
 A grounded martial arts duel between two women in a modern urban night setting. Build with clear shot variation: wide shot to establish spacing and intent, medium tracking shots for exchange tempo, close-up inserts for impact, breathing, and footwork. Include low-angle circling moves, over-shoulder counters, and quick lateral camera motions to preserve directional clarity. Movements must follow realistic weight transfer, momentum, and recovery. Use practical street lighting, neon reflections, slight wet pavement sheen, and gritty cinematic texture.
 ```
 
-<a id="category-4"></a>
+<a id="category-10"></a>
 
 ### Video Editing & Remixing (5)
 
@@ -1349,7 +1589,7 @@ A grounded martial arts duel between two women in a modern urban night setting. 
 Сгенерируй сцену: Добавление угрожающего элемента в исходно спокойную сцену.
 ```
 
-<a id="category-5"></a>
+<a id="category-11"></a>
 
 ### Character & Scene Consistency (6)
 
@@ -1479,7 +1719,7 @@ A grounded martial arts duel between two women in a modern urban night setting. 
 Сгенерируй сцену: Рекламная постановка товара с акцентом на консистентность бренда между сценами.
 ```
 
-<a id="category-6"></a>
+<a id="category-12"></a>
 
 ### Creative Visual Effects (11)
 
@@ -1714,7 +1954,7 @@ Produce a premium anime battle sequence inspired by One Punch Man energy and sta
 Сгенерируй сцену: Боевой перформанс в эстетике чёрно-белой тушевой живописи.
 ```
 
-<a id="category-7"></a>
+<a id="category-13"></a>
 
 ### Ultra-Realistic Video Generation (5)
 
@@ -1823,7 +2063,7 @@ Photorealistic medium close shot of Will Smith eating spaghetti at a white kitch
 Сгенерируй сцену: Реалистичная бытовая сцена с естественной пластикой движения и аккуратной камерой.
 ```
 
-<a id="category-8"></a>
+<a id="category-14"></a>
 
 ### Emotional Performance (3)
 
@@ -1890,7 +2130,7 @@ Photorealistic medium close shot of Will Smith eating spaghetti at a white kitch
 Сгенерируй сцену: Психологическая сцена с постепенным нарастанием внутреннего надлома.
 ```
 
-<a id="category-9"></a>
+<a id="category-15"></a>
 
 ### Story Development & Extension (8)
 
@@ -2062,7 +2302,7 @@ Create a high-pressure disaster-action sequence: during turbulent flight, a woma
 Сгенерируй сцену: Тёплый документальный опенер, построенный по сториборду.
 ```
 
-<a id="category-10"></a>
+<a id="category-16"></a>
 
 ### Music Synchronization (4)
 
@@ -2150,7 +2390,7 @@ Create a high-pressure disaster-action sequence: during turbulent flight, a woma
 Сгенерируй сцену: Пейзажные переходы с точной музыкальной синхронизацией.
 ```
 
-<a id="category-11"></a>
+<a id="category-17"></a>
 
 ### One-Take Cinematography (5)
 
@@ -2280,4 +2520,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-07-08T14:08:12.409Z
+> This README is auto-generated. 2026-07-20T17:21:54.970Z

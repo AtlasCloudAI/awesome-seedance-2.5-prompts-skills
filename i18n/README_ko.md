@@ -4,7 +4,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedance-2.5-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-94%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-107%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 > A curated collection of Seedance 2.5 video prompts — each with real previews via Atlas Cloud. 30s native clips · 50 multimodal references · flexible region editing. Cinematic, anime, UGC, ads, meme & more.
 
@@ -68,201 +68,542 @@ Seedance 2.5 is a major upgrade to Seedance 2.0 with three big gains: 30-second 
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **94** |
-| Categories | **11** |
+| Total Prompts | **107** |
+| Categories | **16** |
 | Preview Videos | **88** |
-| Last Updated | **2026-07-08T14:08:12.396Z** |
+| Last Updated | **2026-07-20T17:21:54.955Z** |
 
 ## 🏷️ Browse by Category
 
-- [`Twitter Community`](#category-1): **24**
-- [`오디오 & 음성 합성`](#category-2): **10**
-- [`고급 카메라워크`](#category-3): **13**
-- [`영상 편집 & 리믹스`](#category-4): **5**
-- [`캐릭터 & 장면 일관성`](#category-5): **6**
-- [`크리에이티브 시각효과`](#category-6): **11**
-- [`초현실적 영상 생성`](#category-7): **5**
-- [`감정 연기`](#category-8): **3**
-- [`스토리 전개 & 확장`](#category-9): **8**
-- [`음악 싱크`](#category-10): **4**
-- [`원테이크 촬영`](#category-11): **5**
+- [`멀티샷 내러티브`](#category-1): **2**
+- [`원테이크 촬영`](#category-2): **6**
+- [`고급 카메라 무빙`](#category-3): **2**
+- [`스타일 변환`](#category-4): **2**
+- [`텍스트 렌더링`](#category-5): **2**
+- [`이미지 레퍼런스`](#category-6): **4**
+- [`Twitter Community`](#category-7): **24**
+- [`오디오 & 음성 합성`](#category-8): **10**
+- [`고급 카메라워크`](#category-9): **13**
+- [`영상 편집 & 리믹스`](#category-10): **5**
+- [`캐릭터 & 장면 일관성`](#category-11): **6**
+- [`크리에이티브 시각효과`](#category-12): **11**
+- [`초현실적 영상 생성`](#category-13): **5**
+- [`감정 연기`](#category-14): **3**
+- [`스토리 전개 & 확장`](#category-15): **8**
+- [`음악 싱크`](#category-16): **4**
 
 ## 🔥 Featured Prompts
 
-### No. 1: 어안 렌즈 말 코미디
+### No. 1: 해변 달리기 — 3샷 스토리
 
-- **Category:** `오디오 & 음성 합성`
+- **Category:** `멀티샷 내러티브`
 - **Source:** `official`
-- **Author:** AtlasCloud
+- **Author:** Volcengine Ark
 - **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/26d450cd-23c4-499e-9fd6-1752dabbc8bd.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/26d450cd-23c4-499e-9fd6-1752dabbc8bd.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/33)
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-어안 렌즈를 통해 동물 캐릭터의 대사와 음향을 동기화한 코미디 장면입니다.
+3샷 해변 시퀀스 — 트래킹 클로즈업, 카메라를 향한 돌아섬, 프리즈 프레임 와이드 — 일관된 피사체로 응집력 있는 멀티샷 내러티브를 보여준다.
 
 #### Prompt
 
 ```text
-고정 카메라, 중앙 어안렌즈가 원형 구멍 너머 아래를 내려다본다. video1의 어안 느낌을 참고하고 @video2 말이 렌즈를 바라보게 한다. @video1의 말하기 동작, @video3 음향을 참고한다.
+[샷 1] 클로즈업, 소녀가 해변을 달리고 카메라가 그녀의 발걸음을 따라간다. [샷 2] 미디엄 샷, 그녀가 멈춰 서서 카메라를 향해 돌아보며 미소 짓는다. [샷 3] 와이드 샷, 그녀가 바다를 향해 두 팔을 벌리는 순간 화면이 정지한다.
 ```
 
-### No. 2: VR 글래스 유니버스 저니
+### No. 2: 바리스타의 라테 — 원컨티뉴어스 테이크
 
-- **Category:** `크리에이티브 시각효과`
+- **Category:** `원테이크 촬영`
 - **Source:** `official`
-- **Author:** AtlasCloud
+- **Author:** Volcengine Ark
 - **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/dddb1fb2-d73a-4b6a-a2bf-bf416be652c6.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/dddb1fb2-d73a-4b6a-a2bf-bf416be652c6.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/18)
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-현실에서 VR 인터페이스를 거쳐 다중 디지털 공간으로 이동하는 몰입형 주관 시점 전환입니다.
+원두를 갈아내는 것부터 마지막 라테아트까지 바리스타를 따라가는 끊김 없는 원테이크. 30초 원테이크 촬영을 선보인다.
 
 #### Prompt
 
 ```text
-@video1 인물을 @image1로 교체하고 @image1을 첫 프레임으로 사용. 근접 오비탈 쇼트와 3인칭→주관 시점 전환으로 AI 고글 공간을 통과해 @image2의 깊은 푸른 우주로 이동, 여러 우주선이 멀리 비행한다.
+바리스타가 카페에서 라테를 만든다 — 원두를 갈고, 에스프레소를 추출하고, 우유를 스티밍하고, 마지막으로 라테아트를 부어내기까지 모두 원컨티뉴어스 테이크로.
 ```
 
-### No. 3: 엘리베이터 히치콕 줌
+### No. 3: 정상 등반가를 360° 오비트
 
-- **Category:** `고급 카메라워크`
+- **Category:** `고급 카메라 무빙`
 - **Source:** `official`
-- **Author:** AtlasCloud
+- **Author:** Volcengine Ark
 - **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/4be02035-a101-4c2c-bb20-c2fe59771de9.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/4be02035-a101-4c2c-bb20-c2fe59771de9.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/11)
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-밀폐 공간에서 히치콕 효과와 복합 카메라 무빙을 결합한 서스펜스 연출입니다.
+정상에 선 산악인을 중심으로 360도 오비트 이동을 하며 설산 파노라마를 드러낸다 — 정밀한 카메라 무빙 제어.
 
 #### Prompt
 
 ```text
-@image1 남성을 @image2 엘리베이터에 배치하고 @video1의 카메라워크/표정을 참고한다. 공포 순간에는 히치콕 줌을 사용하고, 내부 원형 쇼트 후 문이 열리면 따라 나간다. @image3 외부 장면에서 다각도 추적으로 시선을 따라간다.
+카메라가 정상에 선 산악인 주위를 360도 회전하며 눈 덮인 봉우리들의 장엄한 파노라마를 드러낸다.
 ```
 
-### No. 4: 코믹 패널 애니메이션
+### No. 4: 빠른 풀백 — 한 송이에서 꽃바다로
 
-- **Category:** `스토리 전개 & 확장`
+- **Category:** `고급 카메라 무빙`
 - **Source:** `official`
-- **Author:** AtlasCloud
+- **Author:** Volcengine Ark
 - **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c939610e-a182-40ad-89a5-254c1515ac24.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/c939610e-a182-40ad-89a5-254c1515ac24.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/26)
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-정적인 코믹 패널을 사운드와 함께 살아있는 애니메이션으로 확장합니다.
+한 송이 꽃에서 광활한 꽃밭으로 빠르게 달리아웃한 뒤 먼 봉우리에 멈춘다 — 역동적인 카메라 무빙 제어.
 
 #### Prompt
 
 ```text
-15초 연장. @image1, @image2의 당나귀 오토바이 이미지를 참고해 기발한 광고 장면을 추가.
-장면1: 측면 고정, 당나귀가 우리를 박차고 나오고 닭이 놀란다.
-장면2: 모래 지면에서 선회, 타이어 클로즈업 후 공중 탑샷.
-장면3: 설산 배경 점프, 카피 "Inspire Creativity, Enrich Life" 노출.
+카메라가 한 송이 꽃의 클로즈업에서 빠르게 뒤로 물러나며 온통 펼쳐진 꽃바다를 드러내고, 마지막으로 멀리 있는 설산에 멈춘다.
 ```
 
-### No. 5: 타이타닉 다크 트위스트
+### No. 5: 지브리풍 벚꽃 길
 
-- **Category:** `영상 편집 & 리믹스`
+- **Category:** `스타일 변환`
 - **Source:** `official`
-- **Author:** AtlasCloud
+- **Author:** Volcengine Ark
 - **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/19cb9c31-9a1e-4c2e-ae17-b03f6a88c20b.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/19cb9c31-9a1e-4c2e-ae17-b03f6a88c20b.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/48)
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-로맨틱 장면을 배신 스릴러로 뒤집는 극적 편집 변주입니다.
+영상을 스튜디오 지브리 애니메이션 풍으로 변환해 소녀가 꽃잎 흩날리는 길을 걷는다 — 스타일 변환.
 
 #### Prompt
 
 ```text
-@video1의 줄거리를 반전. 남자의 눈빛이 다정함에서 냉혹함으로 바뀌고, 무방비한 여주를 다리 밖으로 밀어 물에 빠뜨린다. 망설임 없는 행동으로 원래 캐릭터 설정을 뒤집는다.
+장면을 스튜디오 지브리 애니메이션 스타일로 변환한다 — 소녀가 길을 걷고 그 주위로 벚꽃 잎이 흩날려 내린다.
 ```
 
-### No. 6: 패션 비트 드롭
+### No. 6: 산수 속 수묵화 배
 
-- **Category:** `음악 싱크`
+- **Category:** `스타일 변환`
 - **Source:** `official`
-- **Author:** AtlasCloud
+- **Author:** Volcengine Ark
 - **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/5ae0578e-e6c8-4ff1-a03a-e19b5ac2f5c1.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/5ae0578e-e6c8-4ff1-a03a-e19b5ac2f5c1.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/53)
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-패션 변신을 음악 비트에 정확히 싱크한 클립입니다.
+영상을 전통 중국 수묵화 풍으로 변환해 한 척의 배가 산수 사이를 떠간다 — 스타일 변환.
 
 #### Prompt
 
 ```text
-포스터 속 소녀가 계속 의상을 교체한다. @image1-6 의상을 참고하고 음악 비트에 맞춰 빠르게 전환해 강한 패션 무드를 만든다.
+장면을 중국 수묵화 스타일로 변환한다 — 작은 배 한 척이 산과 강 사이를 천천히 떠간다.
 ```
 
-### No. 7: 퇴근 후 귀가 서사
+### No. 7: 빗속의 네온 "SEEDANCE" 간판
 
-- **Category:** `캐릭터 & 장면 일관성`
+- **Category:** `텍스트 렌더링`
 - **Source:** `official`
-- **Author:** AtlasCloud
+- **Author:** Volcengine Ark
 - **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d66a205c-4470-4d71-9122-2d0bf0694c9c.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d66a205c-4470-4d71-9122-2d0bf0694c9c.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/5)
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-사무실 복도부터 집까지 캐릭터 일관성을 유지하며 감정 변화와 가족 교감을 이어가는 연속 서사입니다.
+정확한 화면 텍스트 렌더링 — 비 내리는 밤 도시 거리에서 깜빡이는 네온 "SEEDANCE" 간판.
 
 #### Prompt
 
 ```text
-@image1의 남성이 퇴근 후 지친 걸음으로 복도를 걷다가 집 문 앞에서 멈춘다. 얼굴 클로즈업에서 깊게 숨 쉬며 감정을 정리한다. 열쇠를 찾아 문을 열고 들어가면 딸과 반려견이 달려와 안긴다. 따뜻한 실내 분위기와 자연스러운 대사를 유지한다.
+비 내리는 밤 도시 거리에서 "SEEDANCE"라고 적힌 네온 간판이 깜빡이고, 그 빛이 젖은 노면에 반사된다.
 ```
 
-### No. 8: 우아한 빨래 장면
+### No. 8: 금박 글씨 책 표지가 열린다
 
-- **Category:** `초현실적 영상 생성`
+- **Category:** `텍스트 렌더링`
 - **Source:** `official`
-- **Author:** AtlasCloud
+- **Author:** Volcengine Ark
 - **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/b6b7f78a-f9a7-4c09-a3ac-6f0f694b1263.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/b6b7f78a-f9a7-4c09-a3ac-6f0f694b1263.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/1)
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-여성이 빨래를 우아하게 널고, 바구니에서 다른 옷을 꺼내 자연스럽게 털어내는 장면입니다.
+표지에 또렷하게 렌더링된 텍스트 — 금색의 "인공지능의 미래" — 책이 천천히 열린다.
 
 #### Prompt
 
 ```text
-고정 카메라. 소녀가 우아하게 빨래를 널고, 끝나면 바구니에서 다른 옷을 꺼내 힘 있게 턴다.
+책 표지에 금색 글씨로 "인공지능의 미래"라고 적혀 있고, 책이 천천히 열린다.
 ```
 
 ## 📋 All Prompts
 
 <a id="category-1"></a>
+
+### 멀티샷 내러티브 (2)
+
+### No. 1: 해변 달리기 — 3샷 스토리
+
+- **Category:** `멀티샷 내러티브`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `ko`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+3샷 해변 시퀀스 — 트래킹 클로즈업, 카메라를 향한 돌아섬, 프리즈 프레임 와이드 — 일관된 피사체로 응집력 있는 멀티샷 내러티브를 보여준다.
+
+#### Prompt
+
+```text
+[샷 1] 클로즈업, 소녀가 해변을 달리고 카메라가 그녀의 발걸음을 따라간다. [샷 2] 미디엄 샷, 그녀가 멈춰 서서 카메라를 향해 돌아보며 미소 짓는다. [샷 3] 와이드 샷, 그녀가 바다를 향해 두 팔을 벌리는 순간 화면이 정지한다.
+```
+
+### No. 2: 달 위의 우주비행사 — 3샷
+
+- **Category:** `멀티샷 내러티브`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `ko`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+3샷 달 표면 시퀀스 — 지구를 바라보고, 착륙선으로 걸어가고, 이륙한다 — 일관된 피사체의 멀티샷 내러티브.
+
+#### Prompt
+
+```text
+[샷 1] 우주비행사가 달 표면에 서서 지구를 바라본다. [샷 2] 우주비행사가 돌아서 달 착륙선으로 걸어간다. [샷 3] 착륙선이 이륙하며 달 먼지를 일으킨다.
+```
+
+<a id="category-2"></a>
+
+### 원테이크 촬영 (6)
+
+### No. 1: 바리스타의 라테 — 원컨티뉴어스 테이크
+
+- **Category:** `원테이크 촬영`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `ko`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+원두를 갈아내는 것부터 마지막 라테아트까지 바리스타를 따라가는 끊김 없는 원테이크. 30초 원테이크 촬영을 선보인다.
+
+#### Prompt
+
+```text
+바리스타가 카페에서 라테를 만든다 — 원두를 갈고, 에스프레소를 추출하고, 우유를 스티밍하고, 마지막으로 라테아트를 부어내기까지 모두 원컨티뉴어스 테이크로.
+```
+
+### No. 2: 롤러코스터 POV
+
+- **Category:** `원테이크 촬영`
+- **Source:** `official`
+- **Author:** AtlasCloud
+- **Language:** `ko`
+- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/fabf98a8-432c-479a-bcd3-3736677190b2.mp4)
+
+<video src="https://static.atlascloud.ai/uploads/seedance-2.0/fabf98a8-432c-479a-bcd3-3736677190b2.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/47)
+
+#### Description
+
+점점 속도가 높아지는 롤러코스터 1인칭 체험 연출입니다.
+
+#### Prompt
+
+```text
+@image1 @image2 @image3 @image4 @image5, 주관 시점 롤러코스터 체험. 급강하, 회전, 상승을 빠르게 반복해 강한 몰입감을 준다.
+```
+
+### No. 3: 아늑한 오두막 티타임
+
+- **Category:** `원테이크 촬영`
+- **Source:** `official`
+- **Author:** AtlasCloud
+- **Language:** `ko`
+- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d1d1c955-c271-44ba-bd3e-1537e33a2e29.mp4)
+
+<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d1d1c955-c271-44ba-bd3e-1537e33a2e29.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/46)
+
+#### Description
+
+따뜻한 실내로 진입하는 1인칭 원테이크 장면입니다.
+
+#### Prompt
+
+```text
+@image1 외관 기반 1인칭 시점으로 실내에 들어가 주변을 둘러본다. 아늑한 집 분위기와 공간 배치를 원테이크로 보여준다.
+```
+
+### No. 4: 스파이 스릴러 추적
+
+- **Category:** `원테이크 촬영`
+- **Source:** `official`
+- **Author:** AtlasCloud
+- **Language:** `ko`
+- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/873ead10-156a-4f5f-aafc-1a0a743c3ef7.mp4)
+
+<video src="https://static.atlascloud.ai/uploads/seedance-2.0/873ead10-156a-4f5f-aafc-1a0a743c3ef7.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/45)
+
+#### Description
+
+도시 공간을 가로지르는 비밀요원을 긴장감 있게 추적하는 원테이크입니다.
+
+#### Prompt
+
+```text
+스파이 스릴러 스타일. @image1을 시작 프레임으로, 정면 추적으로 거리·계단·옥상을 빠르게 통과하는 긴장감 있는 원테이크 추격 장면을 만든다.
+```
+
+### No. 5: 비행기 창문 아이스크림 드림
+
+- **Category:** `원테이크 촬영`
+- **Source:** `official`
+- **Author:** AtlasCloud
+- **Language:** `ko`
+- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/3421ca69-533f-4ef7-aef2-2aabad3d53fe.mp4)
+
+<video src="https://static.atlascloud.ai/uploads/seedance-2.0/3421ca69-533f-4ef7-aef2-2aabad3d53fe.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/44)
+
+#### Description
+
+비행기 창문에서 시작해 초현실적 상호작용으로 이어지는 원테이크입니다.
+
+#### Prompt
+
+```text
+@image1을 첫 프레임으로 시작해 비행기 창밖으로 확대. 구름이 천천히 들어오고, 중앙의 컬러 캔디 구름이 @image2 아이스크림으로 변형된다.
+```
+
+### No. 6: 파쿠르 추격 시퀀스
+
+- **Category:** `원테이크 촬영`
+- **Source:** `official`
+- **Author:** AtlasCloud
+- **Language:** `ko`
+- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c8b0a7bb-eae5-417f-bf63-e3a114a1364f.mp4)
+
+<video src="https://static.atlascloud.ai/uploads/seedance-2.0/c8b0a7bb-eae5-417f-bf63-e3a114a1364f.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/43)
+
+#### Description
+
+여러 환경을 통과하는 러너를 한 번에 따라가는 역동적 원테이크입니다.
+
+#### Prompt
+
+```text
+@image1@image2@image3@image4@image5, 원테이크 추적. 거리에서 계단, 복도, 옥상까지 러너를 따라가고 마지막에 도시를 내려다본다.
+```
+
+<a id="category-3"></a>
+
+### 고급 카메라 무빙 (2)
+
+### No. 1: 정상 등반가를 360° 오비트
+
+- **Category:** `고급 카메라 무빙`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `ko`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+정상에 선 산악인을 중심으로 360도 오비트 이동을 하며 설산 파노라마를 드러낸다 — 정밀한 카메라 무빙 제어.
+
+#### Prompt
+
+```text
+카메라가 정상에 선 산악인 주위를 360도 회전하며 눈 덮인 봉우리들의 장엄한 파노라마를 드러낸다.
+```
+
+### No. 2: 빠른 풀백 — 한 송이에서 꽃바다로
+
+- **Category:** `고급 카메라 무빙`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `ko`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+한 송이 꽃에서 광활한 꽃밭으로 빠르게 달리아웃한 뒤 먼 봉우리에 멈춘다 — 역동적인 카메라 무빙 제어.
+
+#### Prompt
+
+```text
+카메라가 한 송이 꽃의 클로즈업에서 빠르게 뒤로 물러나며 온통 펼쳐진 꽃바다를 드러내고, 마지막으로 멀리 있는 설산에 멈춘다.
+```
+
+<a id="category-4"></a>
+
+### 스타일 변환 (2)
+
+### No. 1: 지브리풍 벚꽃 길
+
+- **Category:** `스타일 변환`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `ko`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+영상을 스튜디오 지브리 애니메이션 풍으로 변환해 소녀가 꽃잎 흩날리는 길을 걷는다 — 스타일 변환.
+
+#### Prompt
+
+```text
+장면을 스튜디오 지브리 애니메이션 스타일로 변환한다 — 소녀가 길을 걷고 그 주위로 벚꽃 잎이 흩날려 내린다.
+```
+
+### No. 2: 산수 속 수묵화 배
+
+- **Category:** `스타일 변환`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `ko`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+영상을 전통 중국 수묵화 풍으로 변환해 한 척의 배가 산수 사이를 떠간다 — 스타일 변환.
+
+#### Prompt
+
+```text
+장면을 중국 수묵화 스타일로 변환한다 — 작은 배 한 척이 산과 강 사이를 천천히 떠간다.
+```
+
+<a id="category-5"></a>
+
+### 텍스트 렌더링 (2)
+
+### No. 1: 빗속의 네온 "SEEDANCE" 간판
+
+- **Category:** `텍스트 렌더링`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `ko`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+정확한 화면 텍스트 렌더링 — 비 내리는 밤 도시 거리에서 깜빡이는 네온 "SEEDANCE" 간판.
+
+#### Prompt
+
+```text
+비 내리는 밤 도시 거리에서 "SEEDANCE"라고 적힌 네온 간판이 깜빡이고, 그 빛이 젖은 노면에 반사된다.
+```
+
+### No. 2: 금박 글씨 책 표지가 열린다
+
+- **Category:** `텍스트 렌더링`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `ko`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+표지에 또렷하게 렌더링된 텍스트 — 금색의 "인공지능의 미래" — 책이 천천히 열린다.
+
+#### Prompt
+
+```text
+책 표지에 금색 글씨로 "인공지능의 미래"라고 적혀 있고, 책이 천천히 열린다.
+```
+
+<a id="category-6"></a>
+
+### 이미지 레퍼런스 (4)
+
+### No. 1: 레퍼런스 캐릭터가 숲을 달린다
+
+- **Category:** `이미지 레퍼런스`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `ko`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+레퍼런스 이미지로 움직임을 구동한다 — 참조된 캐릭터가 숲을 달리고 카메라가 트래킹한다. 레퍼런스는 @image1로 제공한다.
+
+#### Prompt
+
+```text
+@image1의 캐릭터를 참조해 그가 숲속을 달리고 카메라가 나란히 따라가게 한다.
+```
+
+### No. 2: 레퍼런스 장면에 새 추가
+
+- **Category:** `이미지 레퍼런스`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `ko`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+참조된 장면을 유지하며 움직임을 더한다 — 새 떼가 화면을 가로지른다. 레퍼런스는 @image1로 제공한다.
+
+#### Prompt
+
+```text
+@image1의 장면을 참조해 새 떼가 화면을 가로질러 날아가는 모습을 더한다.
+```
+
+### No. 3: 레퍼런스로 360° 제품 회전
+
+- **Category:** `이미지 레퍼런스`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `ko`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+제품 레퍼런스를 회전 쇼케이스로 바꾼다 — 디스플레이 받침대 위에서 360° 회전한다. 레퍼런스는 @image1로 제공한다.
+
+#### Prompt
+
+```text
+@image1의 제품을 참조해 회전하는 디스플레이 받침대 위에서 360도 회전하게 한다.
+```
+
+### No. 4: 레퍼런스 인물이 자연스럽게 손을 흔든다
+
+- **Category:** `이미지 레퍼런스`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `ko`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+참조된 인물을 애니메이션한다 — 생생한 표정과 함께 자연스럽게 손을 흔드는 동작. 레퍼런스는 @image1로 제공한다.
+
+#### Prompt
+
+```text
+@image1의 인물을 참조해 자연스럽고 생생한 표정으로 손을 흔들게 한다.
+```
+
+<a id="category-7"></a>
 
 ### Twitter Community (24)
 
@@ -752,7 +1093,7 @@ first person view of a diver on a boat, high five with another diver, clear blue
 a man giving a presentation in front of an audience, holding a microphone, with a large screen displaying two reflective spheres on a dark surface, natural light from windows, indoor setting with plants and audio equipment
 ```
 
-<a id="category-2"></a>
+<a id="category-8"></a>
 
 ### 오디오 & 음성 합성 (10)
 
@@ -969,7 +1310,7 @@ a man giving a presentation in front of an audience, holding a microphone, with 
 15초 MV 생성. 키워드: 안정적 구도, 영화감, 여행, 풍경. 장엄한 자연을 보여주고 서정 음악으로 자유와 탐험의 주제를 전달한다.
 ```
 
-<a id="category-3"></a>
+<a id="category-9"></a>
 
 ### 고급 카메라워크 (13)
 
@@ -1246,7 +1587,7 @@ video1의 캐릭터 동작과 @image1/@image2 환경을 참고해 판타지 전�
 현대 도심 야간 배경의 여성 2인 무술 대결. 와이드로 거리와 동선을 보여주고, 미디엄 추적으로 공방 리듬을 살리며, 타격 순간은 클로즈업으로 호흡·근육·충격을 강조한다. 로우 앵글 회전, 숄더 샷, 빠른 측면 이동을 섞되 방향성은 명확하게 유지한다. 동작은 물리적으로 자연스럽고 무게감 있게 표현한다.
 ```
 
-<a id="category-4"></a>
+<a id="category-10"></a>
 
 ### 영상 편집 & 리믹스 (5)
 
@@ -1359,7 +1700,7 @@ video1의 여자 보컬을 @image1 남자 보컬로 교체. 기존 무대 퍼포
 video1 여성의 헤어를 빨간 긴 머리로 변경하고 클로즈업으로 새 헤어스타일을 강조한다. 다른 요소는 유지한다.
 ```
 
-<a id="category-5"></a>
+<a id="category-11"></a>
 
 ### 캐릭터 & 장면 일관성 (6)
 
@@ -1489,7 +1830,7 @@ video1 여성의 헤어를 빨간 긴 머리로 변경하고 클로즈업으로 
 0-2초: 4분할 플래시 컷(빨강/핑크/보라/파랑), @image1 제품이 중앙에서 회전. 2-4초: 제품 360도 클로즈업으로 디테일 강조. 4-6초: 로고 클로즈업과 브랜드명 페이드 인. 전체는 강한 전자음악 리듬에 맞춘다.
 ```
 
-<a id="category-6"></a>
+<a id="category-12"></a>
 
 ### 크리에이티브 시각효과 (11)
 
@@ -1724,7 +2065,7 @@ video1 여성의 헤어를 빨간 긴 머리로 변경하고 클로즈업으로 
 흑백 수묵화 스타일. @image1 캐릭터가 @video1 동작을 참고해 수묵 산수 배경에서 무술을 펼친다. 먹물 튐 효과로 전통과 현대를 결합한다.
 ```
 
-<a id="category-7"></a>
+<a id="category-13"></a>
 
 ### 초현실적 영상 생성 (5)
 
@@ -1833,7 +2174,7 @@ video1 여성의 헤어를 빨간 긴 머리로 변경하고 클로즈업으로 
 고정 카메라. 소녀가 우아하게 빨래를 널고, 끝나면 바구니에서 다른 옷을 꺼내 힘 있게 턴다.
 ```
 
-<a id="category-8"></a>
+<a id="category-14"></a>
 
 ### 감정 연기 (3)
 
@@ -1900,7 +2241,7 @@ video1 여성의 헤어를 빨간 긴 머리로 변경하고 클로즈업으로 
 @image1의 여성이 거울 앞으로 가서 자신을 바라본다. 표정이 평온에서 슬픔으로 변하고 눈물이 흐르며 감정이 무너지는 심리극을 연출한다.
 ```
 
-<a id="category-9"></a>
+<a id="category-15"></a>
 
 ### 스토리 전개 & 확장 (8)
 
@@ -2075,7 +2416,7 @@ video1의 오디오를 참고해 이미지 1~5 기반 15초 감성 단편을 생
 영상을 6초 연장. 강한 일렉 기타가 나오고 중앙에 "JUST DO IT" 텍스트가 나타났다 사라진다. 카메라가 천장으로 올라가고, 건장한 남성이 링 운동을 한다. 상의는 @image1, 등에는 @image2의 "Fitness" 로고.
 ```
 
-<a id="category-10"></a>
+<a id="category-16"></a>
 
 ### 음악 싱크 (4)
 
@@ -2163,115 +2504,6 @@ video1의 오디오를 참고해 이미지 1~5 기반 15초 감성 단편을 생
 @image1 @image2 @image3 @image4 @image5 @image6 풍경 이미지를 음악 전환에 맞춰 일출에서 일몰까지 이어지는 MV 스타일로 구성한다.
 ```
 
-<a id="category-11"></a>
-
-### 원테이크 촬영 (5)
-
-### No. 1: 롤러코스터 POV
-
-- **Category:** `원테이크 촬영`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/fabf98a8-432c-479a-bcd3-3736677190b2.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/fabf98a8-432c-479a-bcd3-3736677190b2.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/47)
-
-#### Description
-
-점점 속도가 높아지는 롤러코스터 1인칭 체험 연출입니다.
-
-#### Prompt
-
-```text
-@image1 @image2 @image3 @image4 @image5, 주관 시점 롤러코스터 체험. 급강하, 회전, 상승을 빠르게 반복해 강한 몰입감을 준다.
-```
-
-### No. 2: 아늑한 오두막 티타임
-
-- **Category:** `원테이크 촬영`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d1d1c955-c271-44ba-bd3e-1537e33a2e29.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d1d1c955-c271-44ba-bd3e-1537e33a2e29.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/46)
-
-#### Description
-
-따뜻한 실내로 진입하는 1인칭 원테이크 장면입니다.
-
-#### Prompt
-
-```text
-@image1 외관 기반 1인칭 시점으로 실내에 들어가 주변을 둘러본다. 아늑한 집 분위기와 공간 배치를 원테이크로 보여준다.
-```
-
-### No. 3: 스파이 스릴러 추적
-
-- **Category:** `원테이크 촬영`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/873ead10-156a-4f5f-aafc-1a0a743c3ef7.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/873ead10-156a-4f5f-aafc-1a0a743c3ef7.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/45)
-
-#### Description
-
-도시 공간을 가로지르는 비밀요원을 긴장감 있게 추적하는 원테이크입니다.
-
-#### Prompt
-
-```text
-스파이 스릴러 스타일. @image1을 시작 프레임으로, 정면 추적으로 거리·계단·옥상을 빠르게 통과하는 긴장감 있는 원테이크 추격 장면을 만든다.
-```
-
-### No. 4: 비행기 창문 아이스크림 드림
-
-- **Category:** `원테이크 촬영`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/3421ca69-533f-4ef7-aef2-2aabad3d53fe.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/3421ca69-533f-4ef7-aef2-2aabad3d53fe.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/44)
-
-#### Description
-
-비행기 창문에서 시작해 초현실적 상호작용으로 이어지는 원테이크입니다.
-
-#### Prompt
-
-```text
-@image1을 첫 프레임으로 시작해 비행기 창밖으로 확대. 구름이 천천히 들어오고, 중앙의 컬러 캔디 구름이 @image2 아이스크림으로 변형된다.
-```
-
-### No. 5: 파쿠르 추격 시퀀스
-
-- **Category:** `원테이크 촬영`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c8b0a7bb-eae5-417f-bf63-e3a114a1364f.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/c8b0a7bb-eae5-417f-bf63-e3a114a1364f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/43)
-
-#### Description
-
-여러 환경을 통과하는 러너를 한 번에 따라가는 역동적 원테이크입니다.
-
-#### Prompt
-
-```text
-@image1@image2@image3@image4@image5, 원테이크 추적. 거리에서 계단, 복도, 옥상까지 러너를 따라가고 마지막에 도시를 내려다본다.
-```
-
 ## Local Usage
 
 ```bash
@@ -2293,4 +2525,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-07-08T14:08:12.396Z
+> This README is auto-generated. 2026-07-20T17:21:54.955Z

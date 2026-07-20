@@ -1,5 +1,239 @@
 [
   {
+    "id": "sd25off_01",
+    "sort_order": -100,
+    "title": "Rennen aan zee — Verhaal in drie shots",
+    "description": "Een kustsequentie in drie shots — een meebewegende close-up, een draai naar de camera en een wijd shot als freeze-frame — die een samenhangend multi-shot-verhaal met een consistent onderwerp toont.",
+    "prompt": "[Shot 1] Close-up, een meisje rent langs de kustlijn terwijl de camera haar voetstappen volgt. [Shot 2] Medium shot, ze stopt, draait zich naar de camera en glimlacht. [Shot 3] Wijd shot, ze spreidt haar armen naar de zee terwijl het beeld bevriest.",
+    "category": "Multi-shot-verhaal",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "nl",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_01",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_02",
+    "sort_order": -99,
+    "title": "Latte van de barista — Eén doorlopende opname",
+    "description": "Eén ononderbroken opname die een barista volgt van het malen van de bonen tot de uiteindelijke latte art, als demonstratie van 30 s one-take-cinematografie.",
+    "prompt": "Een barista maakt een latte in een café — van het malen van de bonen, het trekken van de espresso, het opschuimen van de melk, tot het uiteindelijk gieten van de latte art — allemaal in één doorlopende opname.",
+    "category": "One-take-cinematografie",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "nl",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_02",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_03",
+    "sort_order": -98,
+    "title": "360°-orbit rond een bergbeklimmer op de top",
+    "description": "Een volledige orbitbeweging van 360 graden rond een bergbeklimmer op een top, die een panorama van besneeuwde bergen onthult — precieze controle over camerabeweging.",
+    "prompt": "De camera draait 360 graden rond een bergbeklimmer die op een top staat en onthult een prachtig panorama van besneeuwde toppen.",
+    "category": "Geavanceerde camerabewegingen",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "nl",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_03",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_04",
+    "sort_order": -97,
+    "title": "Snelle terugtrekking — Van bloem naar bloemenzee",
+    "description": "Een snelle dolly-out van één enkele bloem naar een uitgestrekt bloemenveld, eindigend op verre toppen — dynamische controle over camerabeweging.",
+    "prompt": "De camera trekt snel terug vanuit de close-up van één enkele bloem om een hele bloemenzee te onthullen en komt uiteindelijk tot rust bij de besneeuwde bergen in de verte.",
+    "category": "Geavanceerde camerabewegingen",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "nl",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_04",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_05",
+    "sort_order": -96,
+    "title": "Kersenbloesempad in Ghibli-stijl",
+    "description": "Herstyle het beeldmateriaal naar Studio Ghibli-animatie terwijl een meisje over een met bloesemblaadjes bezaaid pad loopt — stijloverdracht.",
+    "prompt": "Transformeer de scène naar de animatiestijl van Studio Ghibli — een meisje loopt over een pad terwijl er kersenbloesems om haar heen neerdwarrelen.",
+    "category": "Stijloverdracht",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "nl",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_05",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_06",
+    "sort_order": -95,
+    "title": "Inkttekening-bootje tussen de bergen",
+    "description": "Herstyle het beeldmateriaal naar traditionele Chinese inktschilderkunst terwijl een eenzaam bootje door het landschap drijft — stijloverdracht.",
+    "prompt": "Transformeer de scène naar de stijl van Chinese inktschilderkunst — een klein bootje drijft langzaam tussen bergen en rivieren door.",
+    "category": "Stijloverdracht",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "nl",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_06",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_07",
+    "sort_order": -94,
+    "title": "Neonbord \"SEEDANCE\" in de regen",
+    "description": "Nauwkeurige tekstweergave op het scherm — een flikkerend neonbord \"SEEDANCE\" in een stadsstraat op een regenachtige nacht.",
+    "prompt": "Een neonbord met de tekst \"SEEDANCE\" flikkert in een stadsstraat op een regenachtige nacht, de gloed weerspiegelt op het natte wegdek.",
+    "category": "Tekstweergave",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "nl",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_07",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_08",
+    "sort_order": -93,
+    "title": "Boekomslag met gouden letters gaat open",
+    "description": "Leesbaar weergegeven tekst op een boekomslag — \"De Toekomst van Kunstmatige Intelligentie\" in goud — terwijl het boek langzaam opengaat.",
+    "prompt": "Op de omslag van een boek staat in gouden letters \"De Toekomst van Kunstmatige Intelligentie\" terwijl het boek langzaam opengaat.",
+    "category": "Tekstweergave",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "nl",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_08",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_09",
+    "sort_order": -92,
+    "title": "Astronaut op de maan — Drie shots",
+    "description": "Een maansequentie in drie shots — starend naar de aarde, lopend naar de module en de lancering — multi-shot-verhaal met een consistent onderwerp.",
+    "prompt": "[Shot 1] Een astronaut staat op het maanoppervlak en staart naar de aarde. [Shot 2] De astronaut draait zich om en loopt naar de maanlander. [Shot 3] De lander stijgt op en werpt maanstof op.",
+    "category": "Multi-shot-verhaal",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "nl",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_09",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_10",
+    "sort_order": -91,
+    "title": "Referentiepersonage rent door het bos",
+    "description": "Stuur de beweging aan vanuit een referentiebeeld — het gerefereerde personage rent met een meebewegende camera door een bos. Lever de referentie als @image1 aan.",
+    "prompt": "Verwijzend naar het personage in @image1, laat hem door een bos rennen terwijl de camera naast hem meebeweegt.",
+    "category": "Beeldreferentie",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "nl",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_10",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_11",
+    "sort_order": -90,
+    "title": "Vogels toevoegen aan een referentiescène",
+    "description": "Behoud een gerefereerde scène en voeg beweging toe — een zwerm vogels steekt het beeld over. Lever de referentie als @image1 aan.",
+    "prompt": "Verwijzend naar de scène in @image1, voeg een zwerm vogels toe die door het beeld vliegt.",
+    "category": "Beeldreferentie",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "nl",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_11",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_12",
+    "sort_order": -89,
+    "title": "360°-productdraai vanuit referentie",
+    "description": "Verander een productreferentie in een draaiende showcase — een volledige draai van 360° op een presentatiestandaard. Lever de referentie als @image1 aan.",
+    "prompt": "Verwijzend naar het product in @image1, laat het 360 graden draaien op een draaiende presentatiestandaard.",
+    "category": "Beeldreferentie",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "nl",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_12",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_13",
+    "sort_order": -88,
+    "title": "Referentiepersoon zwaait natuurlijk",
+    "description": "Animeer een gerefereerde persoon — een natuurlijk zwaaigebaar met een levensechte uitdrukking. Lever de referentie als @image1 aan.",
+    "prompt": "Verwijzend naar de persoon in @image1, laat hen zwaaien met een natuurlijke, levensechte uitdrukking.",
+    "category": "Beeldreferentie",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "nl",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_13",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
     "id": "ur_001",
     "sort_order": 80,
     "title": "Elegante wasscène",

@@ -1,5 +1,239 @@
 [
   {
+    "id": "sd25off_01",
+    "sort_order": -100,
+    "title": "Lari di Tepi Laut — Cerita Tiga Bidikan",
+    "description": "Rangkaian tepi laut tiga bidikan — close-up mengikuti, berbalik ke kamera, dan bidikan lebar freeze-frame — menampilkan narasi multi-bidik yang koheren dengan subjek yang konsisten.",
+    "prompt": "[Bidikan 1] Close-up, seorang gadis berlari di sepanjang tepi laut, kamera mengikuti langkah kakinya. [Bidikan 2] Bidikan medium, ia berhenti, berbalik menghadap kamera, dan tersenyum. [Bidikan 3] Bidikan lebar, ia merentangkan tangan ke arah laut saat gambar membeku.",
+    "category": "Narasi Multi-Bidik",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "id",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_01",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_02",
+    "sort_order": -99,
+    "title": "Latte Barista — Satu Pengambilan Berkelanjutan",
+    "description": "Satu pengambilan tanpa putus yang mengikuti seorang barista dari menggiling biji hingga latte art terakhir, memamerkan sinematografi satu pengambilan 30 detik.",
+    "prompt": "Seorang barista membuat latte di kafe — dari menggiling biji, menarik shot espresso, mengukus susu, hingga menuang latte art terakhir — semuanya dalam satu pengambilan berkelanjutan.",
+    "category": "Sinematografi Satu Pengambilan",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "id",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_02",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_03",
+    "sort_order": -98,
+    "title": "Orbit 360° Mengelilingi Pendaki Puncak",
+    "description": "Gerakan orbit 360 derajat penuh mengelilingi seorang pendaki gunung di puncak, menyingkapkan panorama gunung bersalju — kontrol gerakan kamera yang presisi.",
+    "prompt": "Kamera mengorbit 360 derajat mengelilingi seorang pendaki gunung yang berdiri di puncak, menyingkapkan panorama megah puncak-puncak bersalju.",
+    "category": "Gerakan Kamera Tingkat Lanjut",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "id",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_03",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_04",
+    "sort_order": -97,
+    "title": "Tarik Mundur Cepat — Dari Bunga ke Lautan Bunga",
+    "description": "Dolly mundur cepat dari satu kuntum bunga ke padang bunga yang luas, lalu berhenti di puncak-puncak jauh — kontrol gerakan kamera yang dinamis.",
+    "prompt": "Kamera menarik mundur dengan cepat dari close-up satu kuntum bunga untuk menyingkapkan seluruh lautan bunga, dan akhirnya berhenti di gunung-gunung bersalju di kejauhan.",
+    "category": "Gerakan Kamera Tingkat Lanjut",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "id",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_04",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_05",
+    "sort_order": -96,
+    "title": "Jalan Setapak Sakura Gaya Ghibli",
+    "description": "Ubah gaya rekaman menjadi animasi Studio Ghibli saat seorang gadis berjalan di jalan setapak yang bertabur kelopak — transfer gaya.",
+    "prompt": "Ubah adegan menjadi gaya animasi Studio Ghibli — seorang gadis berjalan menyusuri jalan setapak sementara kelopak bunga sakura berguguran di sekelilingnya.",
+    "category": "Transfer Gaya",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "id",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_05",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_06",
+    "sort_order": -95,
+    "title": "Perahu Lukisan Tinta di Antara Gunung",
+    "description": "Ubah gaya rekaman menjadi lukisan tinta tradisional Tiongkok saat sebuah perahu tunggal hanyut melintasi lanskap — transfer gaya.",
+    "prompt": "Ubah adegan menjadi gaya lukisan tinta Tiongkok — sebuah perahu kecil hanyut perlahan di antara gunung dan sungai.",
+    "category": "Transfer Gaya",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "id",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_06",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_07",
+    "sort_order": -94,
+    "title": "Papan Neon \"SEEDANCE\" dalam Hujan",
+    "description": "Perenderan teks di layar yang akurat — papan neon \"SEEDANCE\" yang berkedip di jalan kota pada malam hujan.",
+    "prompt": "Sebuah papan neon bertuliskan \"SEEDANCE\" berkedip di jalan kota pada malam yang hujan, cahayanya memantul di trotoar yang basah.",
+    "category": "Perenderan Teks",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "id",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_07",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_08",
+    "sort_order": -93,
+    "title": "Sampul Buku Berhuruf Emas Terbuka",
+    "description": "Teks yang dirender terbaca jelas pada sampul buku — \"Masa Depan Kecerdasan Buatan\" dengan warna emas — saat buku perlahan terbuka.",
+    "prompt": "Sampul sebuah buku bertuliskan \"Masa Depan Kecerdasan Buatan\" dengan huruf emas saat buku perlahan terbuka.",
+    "category": "Perenderan Teks",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "id",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_08",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_09",
+    "sort_order": -92,
+    "title": "Astronaut di Bulan — Tiga Bidikan",
+    "description": "Rangkaian bulan tiga bidikan — menatap Bumi, berjalan ke modul, dan lepas landas — narasi multi-bidik dengan subjek yang konsisten.",
+    "prompt": "[Bidikan 1] Seorang astronaut berdiri di permukaan bulan, menatap Bumi. [Bidikan 2] Astronaut itu berbalik dan berjalan menuju modul bulan. [Bidikan 3] Modul lepas landas, menerbangkan debu bulan.",
+    "category": "Narasi Multi-Bidik",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "id",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_09",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_10",
+    "sort_order": -91,
+    "title": "Karakter Referensi Berlari Melintasi Hutan",
+    "description": "Gerakkan dari gambar referensi — karakter yang dirujuk berlari melintasi hutan dengan kamera mengikuti. Sediakan referensi sebagai @image1.",
+    "prompt": "Merujuk karakter pada @image1, buat dia berlari melintasi hutan dengan kamera mengikuti di sampingnya.",
+    "category": "Referensi Gambar",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "id",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_10",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_11",
+    "sort_order": -90,
+    "title": "Menambahkan Burung ke Adegan Referensi",
+    "description": "Pertahankan adegan yang dirujuk dan tambahkan gerakan — sekawanan burung melintasi bingkai. Sediakan referensi sebagai @image1.",
+    "prompt": "Merujuk adegan pada @image1, tambahkan sekawanan burung yang terbang melintasi bingkai.",
+    "category": "Referensi Gambar",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "id",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_11",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_12",
+    "sort_order": -89,
+    "title": "Putaran Produk 360° dari Referensi",
+    "description": "Ubah referensi produk menjadi etalase berputar — putaran penuh 360° di atas dudukan pajangan. Sediakan referensi sebagai @image1.",
+    "prompt": "Merujuk produk pada @image1, buat ia berputar 360 derajat di atas dudukan pajangan yang berputar.",
+    "category": "Referensi Gambar",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "id",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_12",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_13",
+    "sort_order": -88,
+    "title": "Orang Referensi Melambai dengan Alami",
+    "description": "Animasikan orang yang dirujuk — gestur melambai yang alami dengan ekspresi yang hidup. Sediakan referensi sebagai @image1.",
+    "prompt": "Merujuk orang pada @image1, buat dia melambai dengan ekspresi yang alami dan hidup.",
+    "category": "Referensi Gambar",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "id",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_13",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
     "id": "ur_001",
     "sort_order": 80,
     "title": "Adegan Menjemur Pakaian yang Elegan",

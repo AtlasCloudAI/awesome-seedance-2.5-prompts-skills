@@ -4,7 +4,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedance-2.5-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-94%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-107%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 > A curated collection of Seedance 2.5 video prompts — each with real previews via Atlas Cloud. 30s native clips · 50 multimodal references · flexible region editing. Cinematic, anime, UGC, ads, meme & more.
 
@@ -68,70 +68,553 @@ Seedance 2.5 is a major upgrade to Seedance 2.0 with three big gains: 30-second 
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **94** |
-| Categories | **11** |
+| Total Prompts | **107** |
+| Categories | **15** |
 | Preview Videos | **88** |
-| Last Updated | **2026-07-08T14:08:12.391Z** |
+| Last Updated | **2026-07-20T17:21:54.948Z** |
 
 ## 🏷️ Browse by Category
 
-- [`Twitter Community`](#category-1): **24**
-- [`Audio & Voice Synthesis`](#category-2): **10**
-- [`Advanced Camera Movements`](#category-3): **13**
-- [`Video Editing & Remixing`](#category-4): **5**
-- [`Character & Scene Consistency`](#category-5): **6**
-- [`Creative Visual Effects`](#category-6): **11**
-- [`Ultra-Realistic Video Generation`](#category-7): **5**
-- [`Emotional Performance`](#category-8): **3**
-- [`Story Development & Extension`](#category-9): **8**
-- [`Music Synchronization`](#category-10): **4**
-- [`One-Take Cinematography`](#category-11): **5**
+- [`Multi-Shot Narrative`](#category-1): **2**
+- [`One-Take Cinematography`](#category-2): **6**
+- [`Advanced Camera Movements`](#category-3): **15**
+- [`Style Transfer`](#category-4): **2**
+- [`Text Rendering`](#category-5): **2**
+- [`Image Reference`](#category-6): **4**
+- [`Twitter Community`](#category-7): **24**
+- [`Audio & Voice Synthesis`](#category-8): **10**
+- [`Video Editing & Remixing`](#category-9): **5**
+- [`Character & Scene Consistency`](#category-10): **6**
+- [`Creative Visual Effects`](#category-11): **11**
+- [`Ultra-Realistic Video Generation`](#category-12): **5**
+- [`Emotional Performance`](#category-13): **3**
+- [`Story Development & Extension`](#category-14): **8**
+- [`Music Synchronization`](#category-15): **4**
 
 ## 🔥 Featured Prompts
 
-### No. 1: Fisheye Horse Comedy
+### No. 1: Seaside Run — Three-Shot Story
 
-- **Category:** `Audio & Voice Synthesis`
+- **Category:** `Multi-Shot Narrative`
 - **Source:** `official`
-- **Author:** AtlasCloud
+- **Author:** Volcengine Ark
 - **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/26d450cd-23c4-499e-9fd6-1752dabbc8bd.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/26d450cd-23c4-499e-9fd6-1752dabbc8bd.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/seedance-2-prompt/33)
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-Animal character with synchronized dialogue and sound effects through fisheye lens.
+A three-shot seaside sequence — a tracking close-up, a turn to camera, and a freeze-frame wide — showing coherent multi-shot narrative with a consistent subject.
 
 #### Prompt
 
 ```text
-Fixed camera, central fisheye lens looking down through circular hole, reference the fisheye lens of video 1, make the horse in @video2 look toward the fisheye lens, reference the speaking movements in @video1, background BGM references the sound effects in @video3.
+[Shot 1] Close-up, a girl runs along the seashore, the camera tracking her footsteps. [Shot 2] Medium shot, she stops, turns to face the camera, and smiles. [Shot 3] Wide shot, she spreads her arms toward the sea as the frame freezes.
 ```
 
-### No. 2: VR Glasses Universe Journey
+### No. 2: Barista Latte — One Continuous Take
 
-- **Category:** `Creative Visual Effects`
+- **Category:** `One-Take Cinematography`
 - **Source:** `official`
-- **Author:** AtlasCloud
+- **Author:** Volcengine Ark
 - **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/dddb1fb2-d73a-4b6a-a2bf-bf416be652c6.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/dddb1fb2-d73a-4b6a-a2bf-bf416be652c6.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/seedance-2-prompt/18)
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-Immersive POV transition from real world through VR interface to multiple digital realms.
+A single unbroken take following a barista from grinding the beans to the final latte art, showcasing 30s one-take cinematography.
 
 #### Prompt
 
 ```text
-Replace the character in @video1 with @image1, @image1 as the first frame. The character puts on virtual sci-fi glasses, reference the camera movement of @video1, close orbital shot, from third-person perspective to the character's subjective perspective, shuttling through AI virtual glasses, arriving at the deep blue universe of @image2. Several spaceships appear shuttling into the distance, camera follows the spaceships shuttling to the pixel world of @image3. Camera flies low over the pixel mountain and forest world, where trees grow in formation. Then the perspective tilts up, rapidly shuttling to the light green textured planet of @image4, camera shuttles and sweeps past the planet's surface.
+A barista makes a latte in a cafe — from grinding the beans, to pulling the espresso shot, to steaming the milk, and finally pouring the latte art — all in one continuous take.
 ```
 
-### No. 3: Hitchcock Zoom in Elevator
+### No. 3: 360° Orbit Around a Summit Climber
+
+- **Category:** `Advanced Camera Movements`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `en`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+A full 360-degree orbital move around a mountaineer on a summit, revealing a snow-mountain panorama — precise camera-movement control.
+
+#### Prompt
+
+```text
+The camera orbits 360 degrees around a mountaineer standing on a summit, revealing a magnificent panorama of snow-capped peaks.
+```
+
+### No. 4: Rapid Pull-Back — Flower to Flower Sea
+
+- **Category:** `Advanced Camera Movements`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `en`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+A fast dolly-out from a single blossom to a vast field of flowers, settling on distant peaks — dynamic camera-movement control.
+
+#### Prompt
+
+```text
+The camera pulls back rapidly from a close-up of a single flower to reveal an entire sea of flowers, finally settling on distant snow mountains.
+```
+
+### No. 5: Ghibli-Style Cherry Blossom Path
+
+- **Category:** `Style Transfer`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `en`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Restyle the footage into Studio Ghibli animation as a girl walks a petal-strewn path — style transfer.
+
+#### Prompt
+
+```text
+Transform the scene into Studio Ghibli animation style — a girl walks along a path as cherry blossoms drift down around her.
+```
+
+### No. 6: Ink-Wash Boat Among Mountains
+
+- **Category:** `Style Transfer`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `en`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Restyle the footage into traditional Chinese ink-wash painting as a lone boat drifts through a landscape — style transfer.
+
+#### Prompt
+
+```text
+Transform the scene into Chinese ink-wash painting style — a small boat drifts slowly through mountains and rivers.
+```
+
+### No. 7: Neon "SEEDANCE" Sign in the Rain
+
+- **Category:** `Text Rendering`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `en`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Accurate on-screen text rendering — a flickering neon "SEEDANCE" sign on a rainy-night city street.
+
+#### Prompt
+
+```text
+A neon sign reading "SEEDANCE" flickers on a city street on a rainy night, its glow reflecting on the wet pavement.
+```
+
+### No. 8: Gold-Lettered Book Cover Opens
+
+- **Category:** `Text Rendering`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `en`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Legible rendered text on a book cover — "The Future of Artificial Intelligence" in gold — as the book slowly opens.
+
+#### Prompt
+
+```text
+A book cover reads "The Future of Artificial Intelligence" in gold lettering as the book slowly opens.
+```
+
+## 📋 All Prompts
+
+<a id="category-1"></a>
+
+### Multi-Shot Narrative (2)
+
+### No. 1: Seaside Run — Three-Shot Story
+
+- **Category:** `Multi-Shot Narrative`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `en`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+A three-shot seaside sequence — a tracking close-up, a turn to camera, and a freeze-frame wide — showing coherent multi-shot narrative with a consistent subject.
+
+#### Prompt
+
+```text
+[Shot 1] Close-up, a girl runs along the seashore, the camera tracking her footsteps. [Shot 2] Medium shot, she stops, turns to face the camera, and smiles. [Shot 3] Wide shot, she spreads her arms toward the sea as the frame freezes.
+```
+
+### No. 2: Astronaut on the Moon — Three Shots
+
+- **Category:** `Multi-Shot Narrative`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `en`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+A three-shot lunar sequence — gazing at Earth, walking to the module, and lift-off — multi-shot narrative with a consistent subject.
+
+#### Prompt
+
+```text
+[Shot 1] An astronaut stands on the lunar surface, gazing at Earth. [Shot 2] The astronaut turns and walks toward the lunar module. [Shot 3] The module lifts off, kicking up moon dust.
+```
+
+<a id="category-2"></a>
+
+### One-Take Cinematography (6)
+
+### No. 1: Barista Latte — One Continuous Take
+
+- **Category:** `One-Take Cinematography`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `en`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+A single unbroken take following a barista from grinding the beans to the final latte art, showcasing 30s one-take cinematography.
+
+#### Prompt
+
+```text
+A barista makes a latte in a cafe — from grinding the beans, to pulling the espresso shot, to steaming the milk, and finally pouring the latte art — all in one continuous take.
+```
+
+### No. 2: Roller Coaster POV
+
+- **Category:** `One-Take Cinematography`
+- **Source:** `official`
+- **Author:** AtlasCloud
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/fabf98a8-432c-479a-bcd3-3736677190b2.mp4)
+
+<video src="https://static.atlascloud.ai/uploads/seedance-2.0/fabf98a8-432c-479a-bcd3-3736677190b2.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://www.atlascloud.ai/seedance-2-prompt/47)
+
+#### Description
+
+Thrilling first-person roller coaster experience with increasing speed.
+
+#### Prompt
+
+```text
+@image1 @image2 @image3 @image4 @image5, subjective perspective one continuous take of thrilling roller coaster shot, the roller coaster speed gets faster and faster.
+```
+
+### No. 3: Cozy Cabin Tea Time
+
+- **Category:** `One-Take Cinematography`
+- **Source:** `official`
+- **Author:** AtlasCloud
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d1d1c955-c271-44ba-bd3e-1537e33a2e29.mp4)
+
+<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d1d1c955-c271-44ba-bd3e-1537e33a2e29.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://www.atlascloud.ai/seedance-2-prompt/46)
+
+#### Description
+
+First-person one-take entering warm interior scene.
+
+#### Prompt
+
+```text
+Based on the exterior shot of @image1, first-person subjective perspective quick push camera to the interior environment close-up of the wooden cabin. A small deer @image2 and a sheep @image3 are drinking tea and chatting by the fireplace. Camera pushes in for close-up, teacup style references @image4.
+```
+
+### No. 4: Spy Thriller Tail
+
+- **Category:** `One-Take Cinematography`
+- **Source:** `official`
+- **Author:** AtlasCloud
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/873ead10-156a-4f5f-aafc-1a0a743c3ef7.mp4)
+
+<video src="https://static.atlascloud.ai/uploads/seedance-2.0/873ead10-156a-4f5f-aafc-1a0a743c3ef7.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://www.atlascloud.ai/seedance-2-prompt/45)
+
+#### Description
+
+Suspenseful one-take following secret agent through urban environment.
+
+#### Prompt
+
+```text
+Spy thriller style, @image1 as the first frame, camera front tracking shot of female agent in red trench coat walking forward, camera full shot following, constantly with pedestrians blocking the woman in red. Walking to a corner, reference the corner architecture of @image2, fixed camera as the woman in red leaves the frame, disappearing at the corner. A masked girl hides at the corner viciously staring at her, masked girl image references @image3, only reference the image, girl stands at the corner. Camera pans forward toward the female agent in red, she walks into a mansion and disappears, mansion references @image4. No camera cuts throughout, one continuous take.
+```
+
+### No. 5: Airplane Window Ice Cream Dream
+
+- **Category:** `One-Take Cinematography`
+- **Source:** `official`
+- **Author:** AtlasCloud
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/3421ca69-533f-4ef7-aef2-2aabad3d53fe.mp4)
+
+<video src="https://static.atlascloud.ai/uploads/seedance-2.0/3421ca69-533f-4ef7-aef2-2aabad3d53fe.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://www.atlascloud.ai/seedance-2-prompt/44)
+
+#### Description
+
+Surreal one-take transitioning from airplane window to magical interaction.
+
+#### Prompt
+
+```text
+Using @image1 as the first frame, screen zooms into airplane window exterior, clouds slowly drift into the frame, one cloud decorated with colorful candy beans stays centered in the frame, then slowly transforms into the ice cream from @image2. Camera pulls back to cabin interior, @image3 sitting by the window reaches out from outside the window to bring in the ice cream, takes a bite, mouth covered with cream, face beaming with sweet smile. At this moment the video audio is @video1.
+```
+
+### No. 6: Parkour Chase Sequence
+
+- **Category:** `One-Take Cinematography`
+- **Source:** `official`
+- **Author:** AtlasCloud
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c8b0a7bb-eae5-417f-bf63-e3a114a1364f.mp4)
+
+<video src="https://static.atlascloud.ai/uploads/seedance-2.0/c8b0a7bb-eae5-417f-bf63-e3a114a1364f.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://www.atlascloud.ai/seedance-2-prompt/43)
+
+#### Description
+
+Dynamic one-take following runner through multiple environments.
+
+#### Prompt
+
+```text
+@image1 @image2 @image3 @image4 @image5, one continuous take tracking shot, following the runner from the street up stairs, through corridors, entering rooftop, finally overlooking the city.
+```
+
+<a id="category-3"></a>
+
+### Advanced Camera Movements (15)
+
+### No. 1: 360° Orbit Around a Summit Climber
+
+- **Category:** `Advanced Camera Movements`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `en`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+A full 360-degree orbital move around a mountaineer on a summit, revealing a snow-mountain panorama — precise camera-movement control.
+
+#### Prompt
+
+```text
+The camera orbits 360 degrees around a mountaineer standing on a summit, revealing a magnificent panorama of snow-capped peaks.
+```
+
+### No. 2: Rapid Pull-Back — Flower to Flower Sea
+
+- **Category:** `Advanced Camera Movements`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `en`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+A fast dolly-out from a single blossom to a vast field of flowers, settling on distant peaks — dynamic camera-movement control.
+
+#### Prompt
+
+```text
+The camera pulls back rapidly from a close-up of a single flower to reveal an entire sea of flowers, finally settling on distant snow mountains.
+```
+
+### No. 3: IMAX-Style Desert Sandstorm Scene with Denis Villeneuve Aesthetic
+
+- **Category:** `Advanced Camera Movements`
+- **Source:** `twitter`
+- **Author:** John (@johnAGI168)
+- **Language:** `en`
+- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/c3e4c06f-da7d-4127-ad68-7ed1656e2472.mp4)
+
+<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/c3e4c06f-da7d-4127-ad68-7ed1656e2472.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/johnAGI168/status/2020989515939148146)
+
+#### Description
+
+IMAX-style desert sandstorm scene with Denis Villeneuve aesthetic. Features timestamped multi-shot structure.
+
+#### Prompt
+
+```text
+Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low saturation. Multi-shot structure. Extreme wide shot: a colossal sand wall consumes the horizon while an armored convoy races across open desert. Emphasize terrifying scale and human fragility. Cockpit POV: violent vibration inside the lead vehicle, sand blasting the windshield, red warning lights pulsing, urgent shouted commands. Climax in slow motion: lead rover launches off a dune, silhouetted against a dark storm front; lightning flickers inside the dust cloud; debris streaks past lens; hard cut to black on impact. Keep transitions clean and escalation continuous.
+```
+
+### No. 4: South Indian Cinema Alien Scene Generated from Single Prompt
+
+- **Category:** `Advanced Camera Movements`
+- **Source:** `twitter`
+- **Author:** rohan anil (@_arohan_)
+- **Language:** `en`
+- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/068af607-5e54-4331-9c25-3afc190d1a53.mp4)
+
+<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/068af607-5e54-4331-9c25-3afc190d1a53.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/_arohan_/status/2021369768004161783)
+
+#### Description
+
+South Indian cinema alien scene generated from a single prompt. Demonstrates cross-cultural filmmaking capabilities.
+
+#### Prompt
+
+```text
+Create a South Indian commercial-cinema style alien invasion action scene. Visuals should feature saturated colors, dramatic backlight, stylized slow motion, and heroic framing. Open with a large-scale city plaza reveal as alien craft descend, then cut to low-angle hero entrance with wind-swept costume details. Move into multi-angle confrontation: wides for scale, mediums for combo choreography, close-ups for emotional intensity and impact peaks. Blend dust, sparks, smoke, and lens flares for high-energy theatrical presentation while keeping motion readable.
+```
+
+### No. 5: Aerial Shot of Burning Military Vehicle in Urban Warfare
+
+- **Category:** `Advanced Camera Movements`
+- **Source:** `twitter`
+- **Author:** Carlos Santana (@DotCSV)
+- **Language:** `en`
+- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/81bd1286-8024-4a62-a77a-0873d8137ae6.mp4)
+
+<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/81bd1286-8024-4a62-a77a-0873d8137ae6.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/DotCSV/status/2020519499082969142)
+
+#### Description
+
+Cinematic drone footage capturing the aftermath of urban battle. Showcases Seedance 2.0's ability to generate realistic war scenes with detailed destruction effects and atmospheric rendering.
+
+#### Prompt
+
+```text
+A cinematic drone sequence over a war-torn city intersection. At the center, a destroyed armored vehicle burns continuously, emitting thick black smoke that climbs into an overcast sky. Streets are littered with rubble, twisted metal, and shattered concrete; nearby buildings show blown-out windows, scorched facades, and structural damage. Start with a high establishing aerial shot, then descend slowly into a medium-high orbit while preserving spatial scale and destruction detail. Keep color grading desaturated with documentary realism, add subtle film grain, and ensure physically believable fire, smoke turbulence, heat distortion, and airborne dust.
+```
+
+### No. 6: Epic Fantasy Battle
+
+- **Category:** `Advanced Camera Movements`
+- **Source:** `official`
+- **Author:** AtlasCloud
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/a15ec27b-9b38-407d-aa7a-460c9ed17e7f.mp4)
+
+<video src="https://static.atlascloud.ai/uploads/seedance-2.0/a15ec27b-9b38-407d-aa7a-460c9ed17e7f.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://www.atlascloud.ai/seedance-2-prompt/16)
+
+#### Description
+
+Cinematic combat scene with orbital camera and particle effects.
+
+#### Prompt
+
+```text
+Reference the character movements from video 1, reference the orbital camera cinematography from video 2, generate a fight scene between character 1 and character 2. The fight takes place in a starry night, with white dust rising during the fight. The fight scene is very spectacular, and the atmosphere is very tense.
+```
+
+### No. 7: Car Commercial Cinematography
+
+- **Category:** `Advanced Camera Movements`
+- **Source:** `official`
+- **Author:** AtlasCloud
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d1fe2d82-6f01-4e04-a732-a949028a09d3.mp4)
+
+<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d1fe2d82-6f01-4e04-a732-a949028a09d3.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://www.atlascloud.ai/seedance-2-prompt/17)
+
+#### Description
+
+Professional automotive videography with dynamic camera movements and scene transitions.
+
+#### Prompt
+
+```text
+Reference the camera movements and scene transition rhythm of video 1, replicate using the red supercar from image 1.
+```
+
+### No. 8: Rotating Tablet Showcase
+
+- **Category:** `Advanced Camera Movements`
+- **Source:** `official`
+- **Author:** AtlasCloud
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/2f9e5701-3cbe-4855-84a8-3ba0cd72b329.mp4)
+
+<video src="https://static.atlascloud.ai/uploads/seedance-2.0/2f9e5701-3cbe-4855-84a8-3ba0cd72b329.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://www.atlascloud.ai/seedance-2-prompt/13)
+
+#### Description
+
+Product showcase with rotating camera and environment transformation.
+
+#### Prompt
+
+```text
+@image1's tablet as the main subject, camera movement references @video1, push in to screen close-up, camera rotates then the tablet flips to show full view, data streams keep changing on the screen, surrounding environment gradually transforms into sci-fi style data space.
+```
+
+### No. 9: Complex Corridor Chase
+
+- **Category:** `Advanced Camera Movements`
+- **Source:** `official`
+- **Author:** AtlasCloud
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c1288035-fc08-4465-bee0-a1857f94c7c1.mp4)
+
+<video src="https://static.atlascloud.ai/uploads/seedance-2.0/c1288035-fc08-4465-bee0-a1857f94c7c1.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://www.atlascloud.ai/seedance-2-prompt/12)
+
+#### Description
+
+Multi-angle tracking shot with rapid camera movements and perspective changes.
+
+#### Prompt
+
+```text
+Reference the man's image from @image1, he is in the corridor of @image2, completely reference all camera movement effects and the protagonist's facial expressions from @video1. Camera follows the protagonist running at the corner of @image2, then in the long corridor of @image3, camera follows from behind, through low angle orbiting to the protagonist's front. Camera then pans right 90 degrees to shoot the fork in the road of @image4, stops abruptly then pans right 180 degrees, close-up shot of the protagonist's face: protagonist gasping for breath. Camera follows the protagonist's perspective looking around, reference the rapid left-right orbital camera movement in @video1 to show the scene, then pull back to the scene of @image5, continue tracking shot of the protagonist running from side view.
+```
+
+### No. 10: Martial Arts Combat Scene
+
+- **Category:** `Advanced Camera Movements`
+- **Source:** `official`
+- **Author:** AtlasCloud
+- **Language:** `en`
+- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/e62ddd7b-da6a-4b26-be8a-aba6e74dd854.mp4)
+
+<video src="https://static.atlascloud.ai/uploads/seedance-2.0/e62ddd7b-da6a-4b26-be8a-aba6e74dd854.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://www.atlascloud.ai/seedance-2-prompt/15)
+
+#### Description
+
+Action choreography with multiple characters and weapons in dynamic environment.
+
+#### Prompt
+
+```text
+Reference @image1 @image2 long spear character, @image3 @image4 dual sword character, imitate the movements of @video1, fighting in the maple forest of @image5.
+```
+
+### No. 11: Hitchcock Zoom in Elevator
 
 - **Category:** `Advanced Camera Movements`
 - **Source:** `official`
@@ -152,114 +635,247 @@ Classic Hitchcock vertigo effect combined with complex camera movements in confi
 Reference the man's image from @image1, he is in the elevator of @image2, completely reference all camera movement effects and the protagonist's facial expressions from @video1. When the protagonist is terrified, use Hitchcock zoom, then several orbital shots showing the elevator interior perspective. The elevator door opens, follow shot walking out of the elevator. The scene outside the elevator references @image3. The man looks around, reference @video1 using robotic arm to follow the character's line of sight from multiple angles.
 ```
 
-### No. 4: Comic Panel Animation
+### No. 12: Rhythmic Dance Push-Pull
 
-- **Category:** `Story Development & Extension`
+- **Category:** `Advanced Camera Movements`
 - **Source:** `official`
 - **Author:** AtlasCloud
 - **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c939610e-a182-40ad-89a5-254c1515ac24.mp4)
+- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/33ffc8e5-255c-46b2-8877-ad8a9100f6d4.mp4)
 
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/c939610e-a182-40ad-89a5-254c1515ac24.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/seedance-2-prompt/26)
+<video src="https://static.atlascloud.ai/uploads/seedance-2.0/33ffc8e5-255c-46b2-8877-ad8a9100f6d4.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://www.atlascloud.ai/seedance-2-prompt/14)
 
 #### Description
 
-Transform static comic panels into animated sequence with sound effects.
+Synchronized camera push-pull movements matching dance choreography.
 
 #### Prompt
 
 ```text
-Animate @image1 from left to right, top to bottom in comic演绎 style. Keep the dialogue consistent with what's on the images. Add special sound effects for scene transitions and key plot演绎. Overall style is humorous and witty. Animation method references @video1.
+@image1's female star as the main subject, reference the camera movement method of @video1 for rhythmic push-pull-pan-tilt movements. The female star's movements also reference the dance movements of the woman in @video1, performing energetically on stage.
 ```
 
-### No. 5: Titanic Dark Twist
+### No. 13: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure
 
-- **Category:** `Video Editing & Remixing`
-- **Source:** `official`
-- **Author:** AtlasCloud
+- **Category:** `Advanced Camera Movements`
+- **Source:** `twitter`
+- **Author:** Min Choi (@minchoi)
 - **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/19cb9c31-9a1e-4c2e-ae17-b03f6a88c20b.mp4)
+- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/52680ae8-705d-4b26-9d49-1b573ab4f56f.mp4)
 
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/19cb9c31-9a1e-4c2e-ae17-b03f6a88c20b.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/seedance-2-prompt/48)
+<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/52680ae8-705d-4b26-9d49-1b573ab4f56f.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/minchoi/status/2020878278475518152)
 
 #### Description
 
-Reverse romantic scene into betrayal thriller.
+Generate a 1-minute cinematic war video in 5 minutes with a multi-shot structure. Realistic Middle Eastern desert village infantry combat scene.
 
 #### Prompt
 
 ```text
-Subvert the plot in @video1. The man's eyes instantly change from gentle to cold and ruthless. In the moment when Rose has no defense, he violently pushes the female protagonist off the bridge, pushing her into the water. The action is decisive and resolute, with long-premeditated determination, without any hesitation, completely subverting the original affectionate character setting. The moment the female protagonist falls into the water, there is no scream, only disbelieving eyes. She looks up and roars at the male protagonist: 'You've been lying to me from the beginning!' The male protagonist stands on the bridge, a cold smile on his face, saying in a low voice to the water: 'This is what you owe my family.'
+Consistent style guideline for all shots: realistic cinematic war footage in a modern Middle Eastern desert village; dominant sandy yellow and gray-brown palette; harsh noon sunlight with hard shadows; drifting dust and gunpowder smoke; subtle handheld vibration; low-angle and ground-level framing to maximize tension and realism; modern light infantry gear without visible national identifiers; restrained, tense, and brutal atmosphere. Shot 1 : A modern infantry squad advances through narrow alleys between low adobe houses and damaged concrete walls. The camera tracks from behind at knee level, pushing forward as soldiers hug the walls and aim toward an unseen corner. Wind, distant metal clinks, and suspended dust establish dread. Shot 2 : A sudden close-quarters firefight erupts at the alley corner. Soldiers drop and press against the wall as rounds impact masonry, kicking up debris. Fast lateral camera pan with controlled shake, intermittent muzzle flashes, and silhouettes in broken windows increase claustrophobia and urgency. Shot 3 : The squad regains formation and enters a half-collapsed building. Over-shoulder follow shot into dim interior where shafts of sunlight cut through breached walls. Dust particles float in the beams; hand signals replace speech; distant gunfire echoes. Tone shifts from chaos to hyper-alert silence. Shot 4 : From a damaged rooftop, the squad secures a high vantage point over the village grid. Slow pullback in backlight, soldiers in silhouette with rifles still trained on unknown threats. Dust swirls in warm light; no clear victory or defeat. End on unresolved tension.
 ```
 
-### No. 6: Fashion Beat Drop
+### No. 14: Ground Combat Shot of Soldiers Traversing Desert Terrain
 
-- **Category:** `Music Synchronization`
-- **Source:** `official`
-- **Author:** AtlasCloud
+- **Category:** `Advanced Camera Movements`
+- **Source:** `twitter`
+- **Author:** Chetaslua (@chetaslua)
 - **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/5ae0578e-e6c8-4ff1-a03a-e19b5ac2f5c1.mp4)
+- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/0d332613-93bc-4d5e-b4f8-6cacc05871ef.mp4)
 
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/5ae0578e-e6c8-4ff1-a03a-e19b5ac2f5c1.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/seedance-2-prompt/53)
+<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/0d332613-93bc-4d5e-b4f8-6cacc05871ef.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/chetaslua)
 
 #### Description
 
-Fashion transformation synced to music beats.
+Tense first-person perspective of military squad advancing. Showcases realistic tactical movement and environmental details.
 
 #### Prompt
 
 ```text
-The girl in the poster keeps changing outfits, clothing references the styles of @image1 @image2, holding the bag from @image3 in her hand, video rhythm references @video.
+Ground-level war footage with documentary realism: a soldier squad advances through a desert combat zone. Keep camera low and close to boots, gear sway, weapon details, and formation changes while moving over loose sand and debris. Harsh sunlight, visible heat haze, suspended dust, and distant intermittent gunfire should shape the atmosphere. Use controlled handheld movement with shallow depth of field, foreground clarity, and slight background softening. Color palette stays sandy beige and muted brown, emphasizing tactical discipline and persistent tension.
 ```
 
-### No. 7: After-Work Homecoming
+### No. 15: Multi-Shot Fight Scene Generated with Only 3 Reference Images and Simple Prompt
 
-- **Category:** `Character & Scene Consistency`
-- **Source:** `official`
-- **Author:** AtlasCloud
+- **Category:** `Advanced Camera Movements`
+- **Source:** `twitter`
+- **Author:** el.cine (@EHuanglu)
 - **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d66a205c-4470-4d71-9122-2d0bf0694c9c.mp4)
+- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e287a176-2ba0-4f64-ad86-ed779cd3d8d3.mp4)
 
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d66a205c-4470-4d71-9122-2d0bf0694c9c.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/seedance-2-prompt/5)
+<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e287a176-2ba0-4f64-ad86-ed779cd3d8d3.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/EHuanglu/status/2020828503810445785)
 
 #### Description
 
-A continuous narrative maintaining character consistency from office corridor to home, with emotional transitions and family interaction.
+Intense martial arts fight between two women in modern urban environment.
 
 #### Prompt
 
 ```text
-Man @image1 walks wearily in the corridor after work, his steps slow down, finally stopping at the front door. Facial close-up shot, the man takes a deep breath, adjusts his emotions, puts away negative feelings, becomes relaxed, then close-up of finding keys, inserting them into the door lock. After entering the house, his little daughter and a pet dog happily run over to greet and embrace him. The interior is very warm, with natural dialogue throughout.
+A grounded martial arts duel between two women in a modern urban night setting. Build with clear shot variation: wide shot to establish spacing and intent, medium tracking shots for exchange tempo, close-up inserts for impact, breathing, and footwork. Include low-angle circling moves, over-shoulder counters, and quick lateral camera motions to preserve directional clarity. Movements must follow realistic weight transfer, momentum, and recovery. Use practical street lighting, neon reflections, slight wet pavement sheen, and gritty cinematic texture.
 ```
 
-### No. 8: Elegant Laundry Scene
+<a id="category-4"></a>
 
-- **Category:** `Ultra-Realistic Video Generation`
+### Style Transfer (2)
+
+### No. 1: Ghibli-Style Cherry Blossom Path
+
+- **Category:** `Style Transfer`
 - **Source:** `official`
-- **Author:** AtlasCloud
+- **Author:** Volcengine Ark
 - **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/b6b7f78a-f9a7-4c09-a3ac-6f0f694b1263.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/b6b7f78a-f9a7-4c09-a3ac-6f0f694b1263.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/seedance-2-prompt/1)
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-A woman gracefully hanging laundry, taking out another piece from the basket, and shaking it with natural motion.
+Restyle the footage into Studio Ghibli animation as a girl walks a petal-strewn path — style transfer.
 
 #### Prompt
 
 ```text
-Fixed camera shot, a girl elegantly hanging clothes to dry, after finishing she takes out another piece from the basket and shakes the clothes vigorously.
+Transform the scene into Studio Ghibli animation style — a girl walks along a path as cherry blossoms drift down around her.
 ```
 
-## 📋 All Prompts
+### No. 2: Ink-Wash Boat Among Mountains
 
-<a id="category-1"></a>
+- **Category:** `Style Transfer`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `en`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Restyle the footage into traditional Chinese ink-wash painting as a lone boat drifts through a landscape — style transfer.
+
+#### Prompt
+
+```text
+Transform the scene into Chinese ink-wash painting style — a small boat drifts slowly through mountains and rivers.
+```
+
+<a id="category-5"></a>
+
+### Text Rendering (2)
+
+### No. 1: Neon "SEEDANCE" Sign in the Rain
+
+- **Category:** `Text Rendering`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `en`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Accurate on-screen text rendering — a flickering neon "SEEDANCE" sign on a rainy-night city street.
+
+#### Prompt
+
+```text
+A neon sign reading "SEEDANCE" flickers on a city street on a rainy night, its glow reflecting on the wet pavement.
+```
+
+### No. 2: Gold-Lettered Book Cover Opens
+
+- **Category:** `Text Rendering`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `en`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Legible rendered text on a book cover — "The Future of Artificial Intelligence" in gold — as the book slowly opens.
+
+#### Prompt
+
+```text
+A book cover reads "The Future of Artificial Intelligence" in gold lettering as the book slowly opens.
+```
+
+<a id="category-6"></a>
+
+### Image Reference (4)
+
+### No. 1: Reference Character Runs Through Forest
+
+- **Category:** `Image Reference`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `en`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Drive motion from a reference image — the referenced character runs through a forest with a tracking camera. Supply the reference as @image1.
+
+#### Prompt
+
+```text
+Referencing the character in @image1, have him run through a forest with the camera tracking alongside.
+```
+
+### No. 2: Add Birds to a Reference Scene
+
+- **Category:** `Image Reference`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `en`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Keep a referenced scene and add motion — a flock of birds crosses the frame. Supply the reference as @image1.
+
+#### Prompt
+
+```text
+Referencing the scene in @image1, add a flock of birds flying across the frame.
+```
+
+### No. 3: 360° Product Spin from Reference
+
+- **Category:** `Image Reference`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `en`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Turn a product reference into a rotating showcase — a full 360° spin on a display stand. Supply the reference as @image1.
+
+#### Prompt
+
+```text
+Referencing the product in @image1, make it rotate 360 degrees on a spinning display stand.
+```
+
+### No. 4: Reference Person Waves Naturally
+
+- **Category:** `Image Reference`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `en`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Animate a referenced person — a natural waving gesture with a lifelike expression. Supply the reference as @image1.
+
+#### Prompt
+
+```text
+Referencing the person in @image1, have them wave with a natural, lifelike expression.
+```
+
+<a id="category-7"></a>
 
 ### Twitter Community (24)
 
@@ -749,7 +1365,7 @@ A presenter speaks to an audience while showcasing a digital animation of reflec
 a man giving a presentation in front of an audience, holding a microphone, with a large screen displaying two reflective spheres on a dark surface, natural light from windows, indoor setting with plants and audio equipment
 ```
 
-<a id="category-2"></a>
+<a id="category-8"></a>
 
 ### Audio & Voice Synthesis (10)
 
@@ -963,284 +1579,7 @@ Music video with specific cinematography keywords and atmospheric audio.
 Generate a 15-second MV video. Keywords: stable composition / light push-pull / low angle heroic feel / documentary but premium. Ultra-wide establishing shot, low camera position slight upward angle, cliff dirt road and vintage travel car occupy lower third of frame, distant sea and horizon open up space, sunset side backlight volumetric light passing through dust particles, cinematic composition, real film grain, breeze blowing clothes.
 ```
 
-<a id="category-3"></a>
-
-### Advanced Camera Movements (13)
-
-### No. 1: IMAX-Style Desert Sandstorm Scene with Denis Villeneuve Aesthetic
-
-- **Category:** `Advanced Camera Movements`
-- **Source:** `twitter`
-- **Author:** John (@johnAGI168)
-- **Language:** `en`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/c3e4c06f-da7d-4127-ad68-7ed1656e2472.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/c3e4c06f-da7d-4127-ad68-7ed1656e2472.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/johnAGI168/status/2020989515939148146)
-
-#### Description
-
-IMAX-style desert sandstorm scene with Denis Villeneuve aesthetic. Features timestamped multi-shot structure.
-
-#### Prompt
-
-```text
-Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low saturation. Multi-shot structure. Extreme wide shot: a colossal sand wall consumes the horizon while an armored convoy races across open desert. Emphasize terrifying scale and human fragility. Cockpit POV: violent vibration inside the lead vehicle, sand blasting the windshield, red warning lights pulsing, urgent shouted commands. Climax in slow motion: lead rover launches off a dune, silhouetted against a dark storm front; lightning flickers inside the dust cloud; debris streaks past lens; hard cut to black on impact. Keep transitions clean and escalation continuous.
-```
-
-### No. 2: South Indian Cinema Alien Scene Generated from Single Prompt
-
-- **Category:** `Advanced Camera Movements`
-- **Source:** `twitter`
-- **Author:** rohan anil (@_arohan_)
-- **Language:** `en`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/068af607-5e54-4331-9c25-3afc190d1a53.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/068af607-5e54-4331-9c25-3afc190d1a53.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/_arohan_/status/2021369768004161783)
-
-#### Description
-
-South Indian cinema alien scene generated from a single prompt. Demonstrates cross-cultural filmmaking capabilities.
-
-#### Prompt
-
-```text
-Create a South Indian commercial-cinema style alien invasion action scene. Visuals should feature saturated colors, dramatic backlight, stylized slow motion, and heroic framing. Open with a large-scale city plaza reveal as alien craft descend, then cut to low-angle hero entrance with wind-swept costume details. Move into multi-angle confrontation: wides for scale, mediums for combo choreography, close-ups for emotional intensity and impact peaks. Blend dust, sparks, smoke, and lens flares for high-energy theatrical presentation while keeping motion readable.
-```
-
-### No. 3: Aerial Shot of Burning Military Vehicle in Urban Warfare
-
-- **Category:** `Advanced Camera Movements`
-- **Source:** `twitter`
-- **Author:** Carlos Santana (@DotCSV)
-- **Language:** `en`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/81bd1286-8024-4a62-a77a-0873d8137ae6.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/81bd1286-8024-4a62-a77a-0873d8137ae6.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/DotCSV/status/2020519499082969142)
-
-#### Description
-
-Cinematic drone footage capturing the aftermath of urban battle. Showcases Seedance 2.0's ability to generate realistic war scenes with detailed destruction effects and atmospheric rendering.
-
-#### Prompt
-
-```text
-A cinematic drone sequence over a war-torn city intersection. At the center, a destroyed armored vehicle burns continuously, emitting thick black smoke that climbs into an overcast sky. Streets are littered with rubble, twisted metal, and shattered concrete; nearby buildings show blown-out windows, scorched facades, and structural damage. Start with a high establishing aerial shot, then descend slowly into a medium-high orbit while preserving spatial scale and destruction detail. Keep color grading desaturated with documentary realism, add subtle film grain, and ensure physically believable fire, smoke turbulence, heat distortion, and airborne dust.
-```
-
-### No. 4: Epic Fantasy Battle
-
-- **Category:** `Advanced Camera Movements`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/a15ec27b-9b38-407d-aa7a-460c9ed17e7f.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/a15ec27b-9b38-407d-aa7a-460c9ed17e7f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/seedance-2-prompt/16)
-
-#### Description
-
-Cinematic combat scene with orbital camera and particle effects.
-
-#### Prompt
-
-```text
-Reference the character movements from video 1, reference the orbital camera cinematography from video 2, generate a fight scene between character 1 and character 2. The fight takes place in a starry night, with white dust rising during the fight. The fight scene is very spectacular, and the atmosphere is very tense.
-```
-
-### No. 5: Car Commercial Cinematography
-
-- **Category:** `Advanced Camera Movements`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d1fe2d82-6f01-4e04-a732-a949028a09d3.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d1fe2d82-6f01-4e04-a732-a949028a09d3.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/seedance-2-prompt/17)
-
-#### Description
-
-Professional automotive videography with dynamic camera movements and scene transitions.
-
-#### Prompt
-
-```text
-Reference the camera movements and scene transition rhythm of video 1, replicate using the red supercar from image 1.
-```
-
-### No. 6: Rotating Tablet Showcase
-
-- **Category:** `Advanced Camera Movements`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/2f9e5701-3cbe-4855-84a8-3ba0cd72b329.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/2f9e5701-3cbe-4855-84a8-3ba0cd72b329.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/seedance-2-prompt/13)
-
-#### Description
-
-Product showcase with rotating camera and environment transformation.
-
-#### Prompt
-
-```text
-@image1's tablet as the main subject, camera movement references @video1, push in to screen close-up, camera rotates then the tablet flips to show full view, data streams keep changing on the screen, surrounding environment gradually transforms into sci-fi style data space.
-```
-
-### No. 7: Complex Corridor Chase
-
-- **Category:** `Advanced Camera Movements`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c1288035-fc08-4465-bee0-a1857f94c7c1.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/c1288035-fc08-4465-bee0-a1857f94c7c1.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/seedance-2-prompt/12)
-
-#### Description
-
-Multi-angle tracking shot with rapid camera movements and perspective changes.
-
-#### Prompt
-
-```text
-Reference the man's image from @image1, he is in the corridor of @image2, completely reference all camera movement effects and the protagonist's facial expressions from @video1. Camera follows the protagonist running at the corner of @image2, then in the long corridor of @image3, camera follows from behind, through low angle orbiting to the protagonist's front. Camera then pans right 90 degrees to shoot the fork in the road of @image4, stops abruptly then pans right 180 degrees, close-up shot of the protagonist's face: protagonist gasping for breath. Camera follows the protagonist's perspective looking around, reference the rapid left-right orbital camera movement in @video1 to show the scene, then pull back to the scene of @image5, continue tracking shot of the protagonist running from side view.
-```
-
-### No. 8: Martial Arts Combat Scene
-
-- **Category:** `Advanced Camera Movements`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/e62ddd7b-da6a-4b26-be8a-aba6e74dd854.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/e62ddd7b-da6a-4b26-be8a-aba6e74dd854.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/seedance-2-prompt/15)
-
-#### Description
-
-Action choreography with multiple characters and weapons in dynamic environment.
-
-#### Prompt
-
-```text
-Reference @image1 @image2 long spear character, @image3 @image4 dual sword character, imitate the movements of @video1, fighting in the maple forest of @image5.
-```
-
-### No. 9: Hitchcock Zoom in Elevator
-
-- **Category:** `Advanced Camera Movements`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/4be02035-a101-4c2c-bb20-c2fe59771de9.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/4be02035-a101-4c2c-bb20-c2fe59771de9.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/seedance-2-prompt/11)
-
-#### Description
-
-Classic Hitchcock vertigo effect combined with complex camera movements in confined space.
-
-#### Prompt
-
-```text
-Reference the man's image from @image1, he is in the elevator of @image2, completely reference all camera movement effects and the protagonist's facial expressions from @video1. When the protagonist is terrified, use Hitchcock zoom, then several orbital shots showing the elevator interior perspective. The elevator door opens, follow shot walking out of the elevator. The scene outside the elevator references @image3. The man looks around, reference @video1 using robotic arm to follow the character's line of sight from multiple angles.
-```
-
-### No. 10: Rhythmic Dance Push-Pull
-
-- **Category:** `Advanced Camera Movements`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/33ffc8e5-255c-46b2-8877-ad8a9100f6d4.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/33ffc8e5-255c-46b2-8877-ad8a9100f6d4.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/seedance-2-prompt/14)
-
-#### Description
-
-Synchronized camera push-pull movements matching dance choreography.
-
-#### Prompt
-
-```text
-@image1's female star as the main subject, reference the camera movement method of @video1 for rhythmic push-pull-pan-tilt movements. The female star's movements also reference the dance movements of the woman in @video1, performing energetically on stage.
-```
-
-### No. 11: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure
-
-- **Category:** `Advanced Camera Movements`
-- **Source:** `twitter`
-- **Author:** Min Choi (@minchoi)
-- **Language:** `en`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/52680ae8-705d-4b26-9d49-1b573ab4f56f.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/52680ae8-705d-4b26-9d49-1b573ab4f56f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/minchoi/status/2020878278475518152)
-
-#### Description
-
-Generate a 1-minute cinematic war video in 5 minutes with a multi-shot structure. Realistic Middle Eastern desert village infantry combat scene.
-
-#### Prompt
-
-```text
-Consistent style guideline for all shots: realistic cinematic war footage in a modern Middle Eastern desert village; dominant sandy yellow and gray-brown palette; harsh noon sunlight with hard shadows; drifting dust and gunpowder smoke; subtle handheld vibration; low-angle and ground-level framing to maximize tension and realism; modern light infantry gear without visible national identifiers; restrained, tense, and brutal atmosphere. Shot 1 : A modern infantry squad advances through narrow alleys between low adobe houses and damaged concrete walls. The camera tracks from behind at knee level, pushing forward as soldiers hug the walls and aim toward an unseen corner. Wind, distant metal clinks, and suspended dust establish dread. Shot 2 : A sudden close-quarters firefight erupts at the alley corner. Soldiers drop and press against the wall as rounds impact masonry, kicking up debris. Fast lateral camera pan with controlled shake, intermittent muzzle flashes, and silhouettes in broken windows increase claustrophobia and urgency. Shot 3 : The squad regains formation and enters a half-collapsed building. Over-shoulder follow shot into dim interior where shafts of sunlight cut through breached walls. Dust particles float in the beams; hand signals replace speech; distant gunfire echoes. Tone shifts from chaos to hyper-alert silence. Shot 4 : From a damaged rooftop, the squad secures a high vantage point over the village grid. Slow pullback in backlight, soldiers in silhouette with rifles still trained on unknown threats. Dust swirls in warm light; no clear victory or defeat. End on unresolved tension.
-```
-
-### No. 12: Ground Combat Shot of Soldiers Traversing Desert Terrain
-
-- **Category:** `Advanced Camera Movements`
-- **Source:** `twitter`
-- **Author:** Chetaslua (@chetaslua)
-- **Language:** `en`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/0d332613-93bc-4d5e-b4f8-6cacc05871ef.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/0d332613-93bc-4d5e-b4f8-6cacc05871ef.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/chetaslua)
-
-#### Description
-
-Tense first-person perspective of military squad advancing. Showcases realistic tactical movement and environmental details.
-
-#### Prompt
-
-```text
-Ground-level war footage with documentary realism: a soldier squad advances through a desert combat zone. Keep camera low and close to boots, gear sway, weapon details, and formation changes while moving over loose sand and debris. Harsh sunlight, visible heat haze, suspended dust, and distant intermittent gunfire should shape the atmosphere. Use controlled handheld movement with shallow depth of field, foreground clarity, and slight background softening. Color palette stays sandy beige and muted brown, emphasizing tactical discipline and persistent tension.
-```
-
-### No. 13: Multi-Shot Fight Scene Generated with Only 3 Reference Images and Simple Prompt
-
-- **Category:** `Advanced Camera Movements`
-- **Source:** `twitter`
-- **Author:** el.cine (@EHuanglu)
-- **Language:** `en`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e287a176-2ba0-4f64-ad86-ed779cd3d8d3.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e287a176-2ba0-4f64-ad86-ed779cd3d8d3.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/EHuanglu/status/2020828503810445785)
-
-#### Description
-
-Intense martial arts fight between two women in modern urban environment.
-
-#### Prompt
-
-```text
-A grounded martial arts duel between two women in a modern urban night setting. Build with clear shot variation: wide shot to establish spacing and intent, medium tracking shots for exchange tempo, close-up inserts for impact, breathing, and footwork. Include low-angle circling moves, over-shoulder counters, and quick lateral camera motions to preserve directional clarity. Movements must follow realistic weight transfer, momentum, and recovery. Use practical street lighting, neon reflections, slight wet pavement sheen, and gritty cinematic texture.
-```
-
-<a id="category-4"></a>
+<a id="category-9"></a>
 
 ### Video Editing & Remixing (5)
 
@@ -1349,7 +1688,7 @@ Add threatening element to peaceful scene.
 Change the woman's hairstyle in video 1 to red long hair, the great white shark from image 1 slowly surfaces with half its head behind her.
 ```
 
-<a id="category-5"></a>
+<a id="category-10"></a>
 
 ### Character & Scene Consistency (6)
 
@@ -1479,7 +1818,7 @@ Korean product advertisement with brand consistency and multi-scene demonstratio
 0-2 seconds: Quick four-panel flash cut, red, pink, purple, leopard print four butterfly bows freeze in sequence, close-up of satin luster and 'chéri' brand lettering. Voiceover 'Chéri 자석 리본으로 무궁무진한 아름다움을 연출해 보세요!' 3-6 seconds: Close-up of silver magnetic clasp 'click' snapping together, then gently pulling apart, showing silky texture and convenience. Voiceover '단 1초 만에 잠그고, 최고의 스타일을 완성하세요!' 7-12 seconds: Quick scene switching: burgundy style pinned on coat collar, commuter vibe maxed out; pink style tied in ponytail, sweet girl going out; purple style tied on bag strap, niche and sophisticated; leopard print style hung on suit collar, spicy girl aura fully open. Voiceover '코트, 가방, 헤어 액세서리까지, 다재다능하고 개성 넘치는 스타일을 완성하세요!' 13-15 seconds: Four butterfly bows displayed side by side, brand name 'chéri, 당신에게 즉각적인 아름다움을 선사합니다!'
 ```
 
-<a id="category-6"></a>
+<a id="category-11"></a>
 
 ### Creative Visual Effects (11)
 
@@ -1714,7 +2053,7 @@ Traditional Chinese ink painting style martial arts performance.
 Black and white ink wash style, the character from @image1 references the effects and movements of @video1, performing a segment of ink wash Tai Chi kung fu.
 ```
 
-<a id="category-7"></a>
+<a id="category-12"></a>
 
 ### Ultra-Realistic Video Generation (5)
 
@@ -1823,7 +2162,7 @@ A woman gracefully hanging laundry, taking out another piece from the basket, an
 Fixed camera shot, a girl elegantly hanging clothes to dry, after finishing she takes out another piece from the basket and shakes the clothes vigorously.
 ```
 
-<a id="category-8"></a>
+<a id="category-13"></a>
 
 ### Emotional Performance (3)
 
@@ -1890,7 +2229,7 @@ Psychological breakdown scene with escalating emotion.
 The woman from @image1 walks to the mirror, looking at herself in the mirror, pose references @image2. After contemplating for a while, suddenly starts to collapse and scream, the action of grabbing the mirror, the emotion and expression of collapsing and screaming completely reference @video1.
 ```
 
-<a id="category-9"></a>
+<a id="category-14"></a>
 
 ### Story Development & Extension (8)
 
@@ -2062,7 +2401,7 @@ Create healing documentary opening based on storyboard.
 Reference the storyboard script of the documentary from @image1, reference the shot divisions, shot types, camera movements, visuals and copy from @image1, create a 15-second healing opening about 'Childhood Four Seasons'.
 ```
 
-<a id="category-10"></a>
+<a id="category-15"></a>
 
 ### Music Synchronization (4)
 
@@ -2150,115 +2489,6 @@ Scenic transitions perfectly timed to music rhythm.
 @image1 @image2 @image3 @image4 @image5 @image6 landscape scene images, reference the screen rhythm, transition visual style and music rhythm of @video for beat synchronization.
 ```
 
-<a id="category-11"></a>
-
-### One-Take Cinematography (5)
-
-### No. 1: Roller Coaster POV
-
-- **Category:** `One-Take Cinematography`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/fabf98a8-432c-479a-bcd3-3736677190b2.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/fabf98a8-432c-479a-bcd3-3736677190b2.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/seedance-2-prompt/47)
-
-#### Description
-
-Thrilling first-person roller coaster experience with increasing speed.
-
-#### Prompt
-
-```text
-@image1 @image2 @image3 @image4 @image5, subjective perspective one continuous take of thrilling roller coaster shot, the roller coaster speed gets faster and faster.
-```
-
-### No. 2: Cozy Cabin Tea Time
-
-- **Category:** `One-Take Cinematography`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d1d1c955-c271-44ba-bd3e-1537e33a2e29.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d1d1c955-c271-44ba-bd3e-1537e33a2e29.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/seedance-2-prompt/46)
-
-#### Description
-
-First-person one-take entering warm interior scene.
-
-#### Prompt
-
-```text
-Based on the exterior shot of @image1, first-person subjective perspective quick push camera to the interior environment close-up of the wooden cabin. A small deer @image2 and a sheep @image3 are drinking tea and chatting by the fireplace. Camera pushes in for close-up, teacup style references @image4.
-```
-
-### No. 3: Spy Thriller Tail
-
-- **Category:** `One-Take Cinematography`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/873ead10-156a-4f5f-aafc-1a0a743c3ef7.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/873ead10-156a-4f5f-aafc-1a0a743c3ef7.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/seedance-2-prompt/45)
-
-#### Description
-
-Suspenseful one-take following secret agent through urban environment.
-
-#### Prompt
-
-```text
-Spy thriller style, @image1 as the first frame, camera front tracking shot of female agent in red trench coat walking forward, camera full shot following, constantly with pedestrians blocking the woman in red. Walking to a corner, reference the corner architecture of @image2, fixed camera as the woman in red leaves the frame, disappearing at the corner. A masked girl hides at the corner viciously staring at her, masked girl image references @image3, only reference the image, girl stands at the corner. Camera pans forward toward the female agent in red, she walks into a mansion and disappears, mansion references @image4. No camera cuts throughout, one continuous take.
-```
-
-### No. 4: Airplane Window Ice Cream Dream
-
-- **Category:** `One-Take Cinematography`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/3421ca69-533f-4ef7-aef2-2aabad3d53fe.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/3421ca69-533f-4ef7-aef2-2aabad3d53fe.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/seedance-2-prompt/44)
-
-#### Description
-
-Surreal one-take transitioning from airplane window to magical interaction.
-
-#### Prompt
-
-```text
-Using @image1 as the first frame, screen zooms into airplane window exterior, clouds slowly drift into the frame, one cloud decorated with colorful candy beans stays centered in the frame, then slowly transforms into the ice cream from @image2. Camera pulls back to cabin interior, @image3 sitting by the window reaches out from outside the window to bring in the ice cream, takes a bite, mouth covered with cream, face beaming with sweet smile. At this moment the video audio is @video1.
-```
-
-### No. 5: Parkour Chase Sequence
-
-- **Category:** `One-Take Cinematography`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `en`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c8b0a7bb-eae5-417f-bf63-e3a114a1364f.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/c8b0a7bb-eae5-417f-bf63-e3a114a1364f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/seedance-2-prompt/43)
-
-#### Description
-
-Dynamic one-take following runner through multiple environments.
-
-#### Prompt
-
-```text
-@image1 @image2 @image3 @image4 @image5, one continuous take tracking shot, following the runner from the street up stairs, through corridors, entering rooftop, finally overlooking the city.
-```
-
 ## Local Usage
 
 ```bash
@@ -2280,4 +2510,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-07-08T14:08:12.391Z
+> This README is auto-generated. 2026-07-20T17:21:54.948Z

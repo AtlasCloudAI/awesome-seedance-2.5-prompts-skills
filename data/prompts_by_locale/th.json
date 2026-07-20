@@ -1,5 +1,239 @@
 [
   {
+    "id": "sd25off_01",
+    "sort_order": -100,
+    "title": "วิ่งริมทะเล — เรื่องราวสามช็อต",
+    "description": "ลำดับภาพริมทะเลสามช็อต — โคลสอัพแบบแทร็ก การหันเข้าหากล้อง และภาพกว้างแบบฟรีซเฟรม — แสดงการเล่าเรื่องแบบหลายช็อตที่ต่อเนื่องด้วยตัวแบบเดียวกัน",
+    "prompt": "[ช็อต 1] โคลสอัพ เด็กสาววิ่งไปตามชายหาด กล้องแทร็กตามจังหวะก้าวเท้าของเธอ [ช็อต 2] มีเดียมช็อต เธอหยุด หันหน้าเข้าหากล้องและยิ้ม [ช็อต 3] ภาพกว้าง เธอกางแขนออกสู่ท้องทะเลขณะที่ภาพหยุดนิ่ง",
+    "category": "การเล่าเรื่องแบบหลายช็อต",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "th",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_01",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_02",
+    "sort_order": -99,
+    "title": "ลาเต้ของบาริสต้า — เทกเดียวต่อเนื่อง",
+    "description": "เทกเดียวไม่ตัดต่อ ติดตามบาริสต้าตั้งแต่บดเมล็ดกาแฟจนถึงลาเต้อาร์ตขั้นสุดท้าย นำเสนอการถ่ายภาพแบบเทกเดียว 30 วินาที",
+    "prompt": "บาริสต้าชงลาเต้ในร้านกาแฟ — ตั้งแต่บดเมล็ดกาแฟ สกัดเอสเพรสโซ สตีมนม จนถึงเทลาเต้อาร์ตขั้นสุดท้าย ทั้งหมดในเทกเดียวต่อเนื่อง",
+    "category": "การถ่ายภาพแบบเทกเดียว",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "th",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_02",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_03",
+    "sort_order": -98,
+    "title": "ออร์บิต 360° รอบนักปีนยอดเขา",
+    "description": "การเคลื่อนกล้องออร์บิตรอบ 360 องศารอบนักปีนเขาบนยอดเขา เผยให้เห็นภาพพาโนรามาของภูเขาหิมะ — การควบคุมการเคลื่อนกล้องอย่างแม่นยำ",
+    "prompt": "กล้องโคจรรอบ 360 องศารอบนักปีนเขาที่ยืนอยู่บนยอดเขา เผยให้เห็นภาพพาโนรามาอันงดงามของยอดเขาที่ปกคลุมด้วยหิมะ",
+    "category": "การเคลื่อนกล้องขั้นสูง",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "th",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_03",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_04",
+    "sort_order": -97,
+    "title": "ดึงกล้องถอยเร็ว — จากดอกไม้สู่ทะเลดอกไม้",
+    "description": "ดอลลี่ถอยอย่างรวดเร็วจากดอกไม้ดอกเดียวสู่ทุ่งดอกไม้กว้างใหญ่ แล้วหยุดที่ยอดเขาไกล — การควบคุมการเคลื่อนกล้องแบบไดนามิก",
+    "prompt": "กล้องดึงถอยอย่างรวดเร็วจากภาพโคลสอัพของดอกไม้ดอกเดียว เผยให้เห็นทะเลดอกไม้ทั้งผืน แล้วหยุดนิ่งที่ภูเขาหิมะไกลลิบ",
+    "category": "การเคลื่อนกล้องขั้นสูง",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "th",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_04",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_05",
+    "sort_order": -96,
+    "title": "เส้นทางซากุระสไตล์จิบลิ",
+    "description": "เปลี่ยนสไตล์ภาพให้เป็นแอนิเมชันสตูดิโอจิบลิ ขณะเด็กสาวเดินไปตามทางที่ปูด้วยกลีบดอกไม้ — การถ่ายโอนสไตล์",
+    "prompt": "แปลงฉากให้เป็นสไตล์แอนิเมชันสตูดิโอจิบลิ — เด็กสาวเดินไปตามทางขณะที่กลีบซากุระร่วงโปรยลงมารอบตัวเธอ",
+    "category": "การถ่ายโอนสไตล์",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "th",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_05",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_06",
+    "sort_order": -95,
+    "title": "เรือน้อยในภาพหมึกจีนกลางขุนเขา",
+    "description": "เปลี่ยนสไตล์ภาพให้เป็นภาพวาดหมึกจีนดั้งเดิม ขณะเรือลำเดียวล่องผ่านภูมิทัศน์ — การถ่ายโอนสไตล์",
+    "prompt": "แปลงฉากให้เป็นสไตล์ภาพวาดหมึกจีน — เรือลำเล็กล่องช้าๆ ผ่านขุนเขาและสายน้ำ",
+    "category": "การถ่ายโอนสไตล์",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "th",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_06",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_07",
+    "sort_order": -94,
+    "title": "ป้ายนีออน \"SEEDANCE\" ในสายฝน",
+    "description": "การเรนเดอร์ข้อความบนจออย่างแม่นยำ — ป้ายนีออน \"SEEDANCE\" กะพริบบนถนนในเมืองยามค่ำคืนที่ฝนตก",
+    "prompt": "ป้ายนีออนที่เขียนว่า \"SEEDANCE\" กะพริบอยู่บนถนนในเมืองในคืนฝนตก แสงของมันสะท้อนบนพื้นถนนเปียก",
+    "category": "การเรนเดอร์ข้อความ",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "th",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_07",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_08",
+    "sort_order": -93,
+    "title": "ปกหนังสือตัวอักษรทองค่อยๆ เปิดออก",
+    "description": "ข้อความที่เรนเดอร์อ่านออกได้ชัดเจนบนปกหนังสือ — \"อนาคตของปัญญาประดิษฐ์\" เป็นสีทอง — ขณะที่หนังสือค่อยๆ เปิดออก",
+    "prompt": "ปกหนังสือเขียนว่า \"อนาคตของปัญญาประดิษฐ์\" ด้วยตัวอักษรสีทอง ขณะที่หนังสือค่อยๆ เปิดออก",
+    "category": "การเรนเดอร์ข้อความ",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "th",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_08",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_09",
+    "sort_order": -92,
+    "title": "นักบินอวกาศบนดวงจันทร์ — สามช็อต",
+    "description": "ลำดับภาพบนดวงจันทร์สามช็อต — จ้องมองโลก เดินไปยังยานลงจอด และทะยานขึ้น — การเล่าเรื่องแบบหลายช็อตด้วยตัวแบบเดียวกัน",
+    "prompt": "[ช็อต 1] นักบินอวกาศยืนอยู่บนพื้นผิวดวงจันทร์ จ้องมองโลก [ช็อต 2] นักบินอวกาศหันตัวและเดินไปยังยานลงจอดบนดวงจันทร์ [ช็อต 3] ยานลงจอดทะยานขึ้น พัดฝุ่นดวงจันทร์ฟุ้งกระจาย",
+    "category": "การเล่าเรื่องแบบหลายช็อต",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "th",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_09",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_10",
+    "sort_order": -91,
+    "title": "ตัวละครอ้างอิงวิ่งผ่านป่า",
+    "description": "ขับเคลื่อนการเคลื่อนไหวจากภาพอ้างอิง — ตัวละครที่อ้างอิงวิ่งผ่านป่าโดยมีกล้องแทร็กตาม ระบุภาพอ้างอิงเป็น @image1",
+    "prompt": "อ้างอิงตัวละครใน @image1 ให้เขาวิ่งผ่านป่าโดยมีกล้องแทร็กตามไปข้างๆ",
+    "category": "การอ้างอิงภาพ",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "th",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_10",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_11",
+    "sort_order": -90,
+    "title": "เพิ่มฝูงนกลงในฉากอ้างอิง",
+    "description": "คงฉากที่อ้างอิงไว้และเพิ่มการเคลื่อนไหว — ฝูงนกบินตัดผ่านเฟรม ระบุภาพอ้างอิงเป็น @image1",
+    "prompt": "อ้างอิงฉากใน @image1 เพิ่มฝูงนกบินตัดผ่านเฟรม",
+    "category": "การอ้างอิงภาพ",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "th",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_11",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_12",
+    "sort_order": -89,
+    "title": "หมุนสินค้า 360° จากภาพอ้างอิง",
+    "description": "เปลี่ยนภาพอ้างอิงสินค้าให้เป็นการโชว์แบบหมุน — หมุน 360° เต็มรอบบนแท่นแสดง ระบุภาพอ้างอิงเป็น @image1",
+    "prompt": "อ้างอิงสินค้าใน @image1 ทำให้มันหมุน 360 องศาบนแท่นแสดงที่หมุนได้",
+    "category": "การอ้างอิงภาพ",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "th",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_12",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_13",
+    "sort_order": -88,
+    "title": "บุคคลอ้างอิงโบกมืออย่างเป็นธรรมชาติ",
+    "description": "ทำให้บุคคลที่อ้างอิงเคลื่อนไหว — ท่าโบกมืออย่างเป็นธรรมชาติพร้อมสีหน้าที่สมจริง ระบุภาพอ้างอิงเป็น @image1",
+    "prompt": "อ้างอิงบุคคลใน @image1 ให้เขาโบกมือด้วยสีหน้าที่เป็นธรรมชาติและสมจริง",
+    "category": "การอ้างอิงภาพ",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "th",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_13",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
     "id": "ur_001",
     "sort_order": 80,
     "title": "สง่างาม ซักผ้า ฉาก",

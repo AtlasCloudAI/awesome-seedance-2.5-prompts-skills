@@ -4,7 +4,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedance-2.5-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-94%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-107%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 > 基于 AtlasCloud `homepage-v2` 数据源整理的 Seedance 2.5 提示词与预览视频仓库。30 秒原生 · 50 个全模态参考 · 灵活局部编辑。
 
@@ -68,198 +68,438 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 
 | 指标 | 数量 |
 |--------|-------|
-| 提示词总数 | **94** |
-| 分类数 | **11** |
+| 提示词总数 | **107** |
+| 分类数 | **17** |
 | 预览视频数 | **88** |
-| 最后更新 | **2026-07-08T14:08:12.393Z** |
+| 最后更新 | **2026-07-20T17:21:54.952Z** |
 
 ## 🏷️ 按分类浏览
 
-- [`Twitter Community`](#category-1): **24**
-- [`音频与语音合成`](#category-2): **10**
-- [`高级运镜动作`](#category-3): **13**
-- [`视频编辑与混剪`](#category-4): **5**
-- [`角色与场景一致性`](#category-5): **6**
-- [`创意视觉特效`](#category-6): **11**
-- [`超逼真视频生成`](#category-7): **5**
-- [`情绪演绎`](#category-8): **3**
-- [`剧情发展与延伸`](#category-9): **8**
-- [`音乐卡点同步`](#category-10): **4**
-- [`一镜到底`](#category-11): **5**
+- [`多镜头叙事`](#category-1): **2**
+- [`单镜头长视频`](#category-2): **1**
+- [`运镜控制`](#category-3): **2**
+- [`风格转换`](#category-4): **2**
+- [`文字生成`](#category-5): **2**
+- [`图像参考`](#category-6): **4**
+- [`Twitter Community`](#category-7): **24**
+- [`音频与语音合成`](#category-8): **10**
+- [`高级运镜动作`](#category-9): **13**
+- [`视频编辑与混剪`](#category-10): **5**
+- [`角色与场景一致性`](#category-11): **6**
+- [`创意视觉特效`](#category-12): **11**
+- [`超逼真视频生成`](#category-13): **5**
+- [`情绪演绎`](#category-14): **3**
+- [`剧情发展与延伸`](#category-15): **8**
+- [`音乐卡点同步`](#category-16): **4**
+- [`一镜到底`](#category-17): **5**
 
 ## 🔥 精选提示词
 
-### No. 1: 鱼眼镜头搞笑马
+### No. 1: 海边奔跑 —— 三镜头故事
 
-- **分类:** `音频与语音合成`
+- **分类:** `多镜头叙事`
 - **来源:** `official`
-- **作者:** AtlasCloud
+- **作者:** Volcengine Ark
 - **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/26d450cd-23c4-499e-9fd6-1752dabbc8bd.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/26d450cd-23c4-499e-9fd6-1752dabbc8bd.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/33)
+- **原始链接:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### 描述
 
-用鱼眼镜头拍摄搞笑的马匹场景，配合夸张的音效。
+三镜头的海边序列——跟拍近景、转身面向镜头、定格远景——用一致的主体呈现连贯的多镜头叙事。
 
 #### 提示词
 
 ```text
-固定镜头,中央鱼眼镜头透过圆形孔洞向下窥视,参考视频1的鱼眼镜头,让@视频2中的马看向鱼眼镜头,参考@视频1中的说话动作,背景BGM参考@视频3中的音效
+【镜头1】近景，一个女孩在海边奔跑，镜头跟随她的脚步移动。【镜头2】中景，女孩停下来，转身面向镜头，微笑。【镜头3】远景，女孩张开双臂，面向大海，画面定格。
 ```
 
-### No. 2: VR 眼镜宇宙穿越
+### No. 2: 咖啡师拿铁 —— 一镜到底
 
-- **分类:** `创意视觉特效`
+- **分类:** `单镜头长视频`
 - **来源:** `official`
-- **作者:** AtlasCloud
+- **作者:** Volcengine Ark
 - **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/dddb1fb2-d73a-4b6a-a2bf-bf416be652c6.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/dddb1fb2-d73a-4b6a-a2bf-bf416be652c6.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/18)
+- **原始链接:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### 描述
 
-通过 VR 眼镜进入不同的数字世界，展示奇幻的宇宙穿越特效。
+一镜到底跟随咖啡师，从研磨咖啡豆到最终拉花，展示 30 秒单镜头长视频。
 
 #### 提示词
 
 ```text
-将@视频1的人物换成@图片1,@图片1为首帧,人物带上虚拟科幻眼镜,参考@视频1的运镜,及近的环绕镜头,从第三人称视角变成人物的主观视角,在AI虚拟眼镜中穿梭,来到@图片2的深邃的蓝色宇宙,出现几架飞船穿梭向远方
+一个咖啡师在咖啡馆里制作一杯拿铁，从研磨咖啡豆开始，到萃取浓缩咖啡，再到打发牛奶，最后拉花，一镜到底。
 ```
 
-### No. 3: 电梯中的希区柯克变焦
+### No. 3: 环绕登顶者 360° 运镜
 
-- **分类:** `高级运镜动作`
+- **分类:** `运镜控制`
 - **来源:** `official`
-- **作者:** AtlasCloud
+- **作者:** Volcengine Ark
 - **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/4be02035-a101-4c2c-bb20-c2fe59771de9.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/4be02035-a101-4c2c-bb20-c2fe59771de9.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/11)
+- **原始链接:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### 描述
 
-在电梯场景中运用经典的希区柯克变焦技法，营造紧张悬疑的视觉效果。
+围绕山顶登山者完成 360 度环绕运镜，展现雪山全景——精准的运镜控制。
 
 #### 提示词
 
 ```text
-参考@图1的男人形象,他在@图2的电梯中,完全参考@视频1的所有运镜效果还有主角的面部表情,主角在惊恐时希区柯克变焦,然后几个环绕镜头展示电梯内视角,电梯门打开,跟随镜头走出电梯,电梯外场景参考@图片3,男人环顾四周,参考@视频1用机械臂多角度跟随人物的视线
+镜头环绕一个站在山顶的登山者旋转360度，展现壮丽的雪山全景。
 ```
 
-### No. 4: 漫画分格动画化
+### No. 4: 快速拉远 —— 从一朵花到花海
 
-- **分类:** `剧情发展与延伸`
+- **分类:** `运镜控制`
 - **来源:** `official`
-- **作者:** AtlasCloud
+- **作者:** Volcengine Ark
 - **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/c939610e-a182-40ad-89a5-254c1515ac24.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/c939610e-a182-40ad-89a5-254c1515ac24.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/26)
+- **原始链接:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### 描述
 
-将静态漫画分格转化为动态动画，赋予漫画生命力。
+从一朵花快速拉远到广袤花海，最终定格远山——动态运镜控制。
 
 #### 提示词
 
 ```text
-延长15s视频,参考@图片1、@图片2的驴骑摩托车的形象,补充一段脑洞广告\n画面1: 侧面固定镜头,驴骑着摩托车冲出棚栏,旁边的鸡受到惊吓\n画面2: 驴骑着摩托在沙地盘旋,先特写摩托轮胎,然后切到半空中俯拍\n画面3: 背景是雪山镜头,驴骑着车从山坡飞越过,广告语出现"Inspire Creativity, Enrich Life"
+镜头从一朵花的特写快速拉远，展现整片花海，最后定格在远处的雪山。
 ```
 
-### No. 5: 泰坦尼克号暗黑反转
+### No. 5: 吉卜力风格樱花小径
 
-- **分类:** `视频编辑与混剪`
+- **分类:** `风格转换`
 - **来源:** `official`
-- **作者:** AtlasCloud
+- **作者:** Volcengine Ark
 - **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/19cb9c31-9a1e-4c2e-ae17-b03f6a88c20b.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/19cb9c31-9a1e-4c2e-ae17-b03f6a88c20b.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/48)
+- **原始链接:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### 描述
 
-将泰坦尼克号经典浪漫场景进行暗黑风格反转。
+将画面转换为吉卜力动画风格，女孩走在洒满花瓣的小路上——风格转换。
 
 #### 提示词
 
 ```text
-颠覆@视频1里的剧情,男人眼神从温柔瞬间转为冰冷狠厉,在露丝毫无防备的瞬间,猛地将女主从桥上往外推,把女主推进水里。动作干脆利落,带着蓄谋已久的决绝
+将画面转换为吉卜力动画风格，一个女孩走在樱花飘落的小路上。
 ```
 
-### No. 6: 时尚节拍卡点
+### No. 6: 水墨扁舟山水间
 
-- **分类:** `音乐卡点同步`
+- **分类:** `风格转换`
 - **来源:** `official`
-- **作者:** AtlasCloud
+- **作者:** Volcengine Ark
 - **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/5ae0578e-e6c8-4ff1-a03a-e19b5ac2f5c1.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/5ae0578e-e6c8-4ff1-a03a-e19b5ac2f5c1.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/53)
+- **原始链接:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### 描述
 
-配合音乐节拍展示时尚穿搭的卡点视频。
+将画面转换为中国传统水墨画风格，一叶扁舟在山水间漂流——风格转换。
 
 #### 提示词
 
 ```text
-海报中的女孩不断更换服装，服装参考@图片1-6，每次换装配合音乐节拍，快速切换，时尚感十足。
+将画面转换为水墨画风格，一叶扁舟在山水之间缓缓移动。
 ```
 
-### No. 7: 下班回家路上
+### No. 7: 雨中霓虹"SEEDANCE"灯牌
 
-- **分类:** `角色与场景一致性`
+- **分类:** `文字生成`
 - **来源:** `official`
-- **作者:** AtlasCloud
+- **作者:** Volcengine Ark
 - **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/d66a205c-4470-4d71-9122-2d0bf0694c9c.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d66a205c-4470-4d71-9122-2d0bf0694c9c.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/5)
+- **原始链接:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### 描述
 
-一个连贯的叙述，从办公室走廊到家中，保持角色的一致性，包含情感的转换和家庭互动。
+精准的屏幕文字生成——雨夜城市街头闪烁的霓虹"SEEDANCE"灯牌。
 
 #### 提示词
 
 ```text
-男人@图片1下班后疲惫的走在走廊,脚步变缓,最后停在家门口,脸部特写镜头,男人深呼吸,调整情绪,收起了负面情绪,变得轻松,然后特写翻找出钥匙,插入门锁,进入家里后,他的小女儿和一只宠物狗,欢快的跑过来迎接拥抱,室内非常的温馨,全程自然对话
+霓虹灯牌上显示"SEEDANCE"字样，在雨夜的城市街道上闪烁。
 ```
 
-### No. 8: 优雅的洗衣场景
+### No. 8: 金字书封缓缓翻开
 
-- **分类:** `超逼真视频生成`
+- **分类:** `文字生成`
 - **来源:** `official`
-- **作者:** AtlasCloud
+- **作者:** Volcengine Ark
 - **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/b6b7f78a-f9a7-4c09-a3ac-6f0f694b1263.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/b6b7f78a-f9a7-4c09-a3ac-6f0f694b1263.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/1)
+- **原始链接:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### 描述
 
-一位女士优雅地晾晒衣物，从篮子里取出另一件衣服，自然地抖动着。
+书封上清晰可读的文字——金色的"人工智能的未来"——书本缓缓打开。
 
 #### 提示词
 
 ```text
-固定镜头,女孩在优雅的晒衣服,晒完接着在桶里拿出另一件,用力抖一抖衣服
+一本书的封面上用金色字体写着"人工智能的未来"，书本缓缓打开。
 ```
 
 ## 📋 全部提示词
 
 <a id="category-1"></a>
+
+### 多镜头叙事 (2)
+
+### No. 1: 海边奔跑 —— 三镜头故事
+
+- **分类:** `多镜头叙事`
+- **来源:** `official`
+- **作者:** Volcengine Ark
+- **语言:** `zh`
+- **原始链接:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### 描述
+
+三镜头的海边序列——跟拍近景、转身面向镜头、定格远景——用一致的主体呈现连贯的多镜头叙事。
+
+#### 提示词
+
+```text
+【镜头1】近景，一个女孩在海边奔跑，镜头跟随她的脚步移动。【镜头2】中景，女孩停下来，转身面向镜头，微笑。【镜头3】远景，女孩张开双臂，面向大海，画面定格。
+```
+
+### No. 2: 月球上的宇航员 —— 三镜头
+
+- **分类:** `多镜头叙事`
+- **来源:** `official`
+- **作者:** Volcengine Ark
+- **语言:** `zh`
+- **原始链接:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### 描述
+
+三镜头的月球序列——凝望地球、走向登月舱、起飞升空——主体一致的多镜头叙事。
+
+#### 提示词
+
+```text
+【镜头1】一个宇航员站在月球表面，望向地球。【镜头2】宇航员转身走向登月舱。【镜头3】登月舱起飞，扬起月尘。
+```
+
+<a id="category-2"></a>
+
+### 单镜头长视频 (1)
+
+### No. 1: 咖啡师拿铁 —— 一镜到底
+
+- **分类:** `单镜头长视频`
+- **来源:** `official`
+- **作者:** Volcengine Ark
+- **语言:** `zh`
+- **原始链接:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### 描述
+
+一镜到底跟随咖啡师，从研磨咖啡豆到最终拉花，展示 30 秒单镜头长视频。
+
+#### 提示词
+
+```text
+一个咖啡师在咖啡馆里制作一杯拿铁，从研磨咖啡豆开始，到萃取浓缩咖啡，再到打发牛奶，最后拉花，一镜到底。
+```
+
+<a id="category-3"></a>
+
+### 运镜控制 (2)
+
+### No. 1: 环绕登顶者 360° 运镜
+
+- **分类:** `运镜控制`
+- **来源:** `official`
+- **作者:** Volcengine Ark
+- **语言:** `zh`
+- **原始链接:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### 描述
+
+围绕山顶登山者完成 360 度环绕运镜，展现雪山全景——精准的运镜控制。
+
+#### 提示词
+
+```text
+镜头环绕一个站在山顶的登山者旋转360度，展现壮丽的雪山全景。
+```
+
+### No. 2: 快速拉远 —— 从一朵花到花海
+
+- **分类:** `运镜控制`
+- **来源:** `official`
+- **作者:** Volcengine Ark
+- **语言:** `zh`
+- **原始链接:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### 描述
+
+从一朵花快速拉远到广袤花海，最终定格远山——动态运镜控制。
+
+#### 提示词
+
+```text
+镜头从一朵花的特写快速拉远，展现整片花海，最后定格在远处的雪山。
+```
+
+<a id="category-4"></a>
+
+### 风格转换 (2)
+
+### No. 1: 吉卜力风格樱花小径
+
+- **分类:** `风格转换`
+- **来源:** `official`
+- **作者:** Volcengine Ark
+- **语言:** `zh`
+- **原始链接:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### 描述
+
+将画面转换为吉卜力动画风格，女孩走在洒满花瓣的小路上——风格转换。
+
+#### 提示词
+
+```text
+将画面转换为吉卜力动画风格，一个女孩走在樱花飘落的小路上。
+```
+
+### No. 2: 水墨扁舟山水间
+
+- **分类:** `风格转换`
+- **来源:** `official`
+- **作者:** Volcengine Ark
+- **语言:** `zh`
+- **原始链接:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### 描述
+
+将画面转换为中国传统水墨画风格，一叶扁舟在山水间漂流——风格转换。
+
+#### 提示词
+
+```text
+将画面转换为水墨画风格，一叶扁舟在山水之间缓缓移动。
+```
+
+<a id="category-5"></a>
+
+### 文字生成 (2)
+
+### No. 1: 雨中霓虹"SEEDANCE"灯牌
+
+- **分类:** `文字生成`
+- **来源:** `official`
+- **作者:** Volcengine Ark
+- **语言:** `zh`
+- **原始链接:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### 描述
+
+精准的屏幕文字生成——雨夜城市街头闪烁的霓虹"SEEDANCE"灯牌。
+
+#### 提示词
+
+```text
+霓虹灯牌上显示"SEEDANCE"字样，在雨夜的城市街道上闪烁。
+```
+
+### No. 2: 金字书封缓缓翻开
+
+- **分类:** `文字生成`
+- **来源:** `official`
+- **作者:** Volcengine Ark
+- **语言:** `zh`
+- **原始链接:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### 描述
+
+书封上清晰可读的文字——金色的"人工智能的未来"——书本缓缓打开。
+
+#### 提示词
+
+```text
+一本书的封面上用金色字体写着"人工智能的未来"，书本缓缓打开。
+```
+
+<a id="category-6"></a>
+
+### 图像参考 (4)
+
+### No. 1: 参考角色森林奔跑
+
+- **分类:** `图像参考`
+- **来源:** `official`
+- **作者:** Volcengine Ark
+- **语言:** `zh`
+- **原始链接:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### 描述
+
+用参考图驱动动作——被参考的角色在森林中奔跑，镜头跟拍。参考图以 @image1 提供。
+
+#### 提示词
+
+```text
+参考图中的角色，让他在森林中奔跑，镜头跟随。
+```
+
+### No. 2: 为参考场景添加飞鸟
+
+- **分类:** `图像参考`
+- **来源:** `official`
+- **作者:** Volcengine Ark
+- **语言:** `zh`
+- **原始链接:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### 描述
+
+保留参考场景并添加动态——一群飞鸟掠过画面。参考图以 @image1 提供。
+
+#### 提示词
+
+```text
+参考图中的场景，添加一群飞鸟从画面中飞过。
+```
+
+### No. 3: 参考产品 360° 旋转展示
+
+- **分类:** `图像参考`
+- **来源:** `official`
+- **作者:** Volcengine Ark
+- **语言:** `zh`
+- **原始链接:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### 描述
+
+将产品参考图转化为旋转展示——在展示台上完成 360° 旋转。参考图以 @image1 提供。
+
+#### 提示词
+
+```text
+参考图中的产品，让它在旋转展示台上360度旋转。
+```
+
+### No. 4: 参考人物自然挥手
+
+- **分类:** `图像参考`
+- **来源:** `official`
+- **作者:** Volcengine Ark
+- **语言:** `zh`
+- **原始链接:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### 描述
+
+让参考人物动起来——自然的挥手动作与逼真的表情。参考图以 @image1 提供。
+
+#### 提示词
+
+```text
+参考图中的人物，让他做出挥手的动作，表情自然。
+```
+
+<a id="category-7"></a>
 
 ### Twitter Community (24)
 
@@ -749,7 +989,7 @@ first person view of a diver on a boat, high five with another diver, clear blue
 a man giving a presentation in front of an audience, holding a microphone, with a large screen displaying two reflective spheres on a dark surface, natural light from windows, indoor setting with plants and audio equipment
 ```
 
-<a id="category-2"></a>
+<a id="category-8"></a>
 
 ### 音频与语音合成 (10)
 
@@ -963,7 +1203,7 @@ a man giving a presentation in front of an audience, holding a microphone, with 
 生成15秒MV视频。关键词：稳定构图、电影感、旅行、风景。镜头展现壮丽的自然风光，配合抒情音乐，传达自由与探索的主题。
 ```
 
-<a id="category-3"></a>
+<a id="category-9"></a>
 
 ### 高级运镜动作 (13)
 
@@ -1240,7 +1480,7 @@ IMAX风格沙漠沙尘暴场景，Denis Villeneuve美学。包含时间戳多镜
 现代都市夜景中的双人武术对决。镜头结构：先用广角展示空旷街巷与两人对峙，再用中景跟拍攻防节奏，关键打击点使用近景特写（拳脚命中、呼吸、肌肉发力）。加入低机位环绕、越肩镜头与快速平移，突出招式路线和空间关系。动作要符合真实重心与反作用力，避免漂浮感。灯光采用路灯+霓虹反射，地面有轻微积水与反光，整体风格写实、紧张、有电影感。
 ```
 
-<a id="category-4"></a>
+<a id="category-10"></a>
 
 ### 视频编辑与混剪 (5)
 
@@ -1349,7 +1589,7 @@ IMAX风格沙漠沙尘暴场景，Denis Villeneuve美学。包含时间戳多镜
 将视频1中女人的发型改为红色长发，然后镜头特写展示新发型，其他元素保持不变，突出发型变化。
 ```
 
-<a id="category-5"></a>
+<a id="category-11"></a>
 
 ### 角色与场景一致性 (6)
 
@@ -1479,7 +1719,7 @@ IMAX风格沙漠沙尘暴场景，Denis Villeneuve美学。包含时间戳多镜
 0-2秒：快速四格闪切，红色、粉色、紫色、蓝色背景，@图片1的产品在画面中央旋转展示，每格0.5秒。2-4秒：@图片1产品特写，镜头环绕360度，展示细节。4-6秒：产品logo特写，品牌名称淡入。全程配合节奏感强的电子音乐。
 ```
 
-<a id="category-6"></a>
+<a id="category-12"></a>
 
 ### 创意视觉特效 (11)
 
@@ -1714,7 +1954,7 @@ Will Smith 在现代家庭厨房里吃意大利面。
 黑白水墨风格，@图片1的角色参考@视频1的动作，在水墨山水背景中施展武术，墨迹飞溅效果，传统与现代结合的视觉风格。
 ```
 
-<a id="category-7"></a>
+<a id="category-13"></a>
 
 ### 超逼真视频生成 (5)
 
@@ -1823,7 +2063,7 @@ Will Smith 在现代家庭厨房里吃意大利面。
 固定镜头,女孩在优雅的晒衣服,晒完接着在桶里拿出另一件,用力抖一抖衣服
 ```
 
-<a id="category-8"></a>
+<a id="category-14"></a>
 
 ### 情绪演绎 (3)
 
@@ -1890,7 +2130,7 @@ Will Smith 在现代家庭厨房里吃意大利面。
 @图片1的女人走到镜子前，看着镜中的自己，表情从平静到悲伤，眼泪滑落，情绪崩溃的心理戏，镜子场景的象征意义。
 ```
 
-<a id="category-9"></a>
+<a id="category-15"></a>
 
 ### 剧情发展与延伸 (8)
 
@@ -2062,7 +2302,7 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 将视频延长6s,出现电吉他的激昂音乐,视频中间出现"JUST DO IT"的广告字体后逐渐淡化,镜头上移到天花板,一个健硕的男人拉着吊环,上半身穿着@图1的紧身健身服,背面印有@图2的"Fitness"logo
 ```
 
-<a id="category-10"></a>
+<a id="category-16"></a>
 
 ### 音乐卡点同步 (4)
 
@@ -2150,7 +2390,7 @@ Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advert
 @图片1 @图片2 @图片3 @图片4 @图片5 @图片6风景场景，配合音乐转场，从日出到日落，展现自然之美，音乐MV风格。
 ```
 
-<a id="category-11"></a>
+<a id="category-17"></a>
 
 ### 一镜到底 (5)
 
@@ -2280,4 +2520,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> 此 README 为自动生成。 2026-07-08T14:08:12.393Z
+> 此 README 为自动生成。 2026-07-20T17:21:54.952Z

@@ -4,7 +4,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedance-2.5-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-94%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-107%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 > A curated collection of Seedance 2.5 video prompts — each with real previews via Atlas Cloud. 30s native clips · 50 multimodal references · flexible region editing. Cinematic, anime, UGC, ads, meme & more.
 
@@ -68,70 +68,553 @@ Seedance 2.5 is a major upgrade to Seedance 2.0 with three big gains: 30-second 
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **94** |
-| Categories | **11** |
+| Total Prompts | **107** |
+| Categories | **15** |
 | Preview Videos | **88** |
-| Last Updated | **2026-07-08T14:08:12.396Z** |
+| Last Updated | **2026-07-20T17:21:54.955Z** |
 
 ## 🏷️ Browse by Category
 
-- [`Twitter Community`](#category-1): **24**
-- [`音声＆ボイス合成`](#category-2): **10**
-- [`高度なカメラワーク`](#category-3): **13**
-- [`映像編集＆リミックス`](#category-4): **5**
-- [`キャラクター＆シーン一貫性`](#category-5): **6**
-- [`クリエイティブ視覚効果`](#category-6): **11**
-- [`超リアル映像生成`](#category-7): **5**
-- [`感情表現`](#category-8): **3**
-- [`ストーリー展開＆延長`](#category-9): **8**
-- [`音楽シンク`](#category-10): **4**
-- [`ワンテイク撮影`](#category-11): **5**
+- [`マルチショット・ナラティブ`](#category-1): **2**
+- [`ワンテイク撮影`](#category-2): **6**
+- [`高度なカメラワーク`](#category-3): **15**
+- [`スタイル変換`](#category-4): **2**
+- [`テキスト描画`](#category-5): **2**
+- [`画像参照`](#category-6): **4**
+- [`Twitter Community`](#category-7): **24**
+- [`音声＆ボイス合成`](#category-8): **10**
+- [`映像編集＆リミックス`](#category-9): **5**
+- [`キャラクター＆シーン一貫性`](#category-10): **6**
+- [`クリエイティブ視覚効果`](#category-11): **11**
+- [`超リアル映像生成`](#category-12): **5**
+- [`感情表現`](#category-13): **3**
+- [`ストーリー展開＆延長`](#category-14): **8**
+- [`音楽シンク`](#category-15): **4**
 
 ## 🔥 Featured Prompts
 
-### No. 1: 魚眼レンズおもしろ馬
+### No. 1: 海辺のラン — 3ショットの物語
 
-- **Category:** `音声＆ボイス合成`
+- **Category:** `マルチショット・ナラティブ`
 - **Source:** `official`
-- **Author:** AtlasCloud
+- **Author:** Volcengine Ark
 - **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/26d450cd-23c4-499e-9fd6-1752dabbc8bd.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/26d450cd-23c4-499e-9fd6-1752dabbc8bd.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/33)
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-魚眼レンズで撮影したユーモラスな馬のシーン、誇張された効果音付き。
+3ショットの海辺シーケンス——追尾のクローズアップ、カメラへの振り向き、フリーズフレームのワイド——一貫した被写体で首尾一貫したマルチショットの物語を見せる。
 
 #### Prompt
 
 ```text
-固定カメラ。中央の魚眼で円形の穴越しに下を見る。video1の魚眼表現を参照し、@video2の馬に魚眼を見させる。@video1の口の動きを参照し、BGMは@video3の音響を参照。
+「ショット1」クローズアップ、少女が海辺を走り、カメラが彼女の足取りを追う。「ショット2」ミディアムショット、彼女は立ち止まり、カメラの方を向いて微笑む。「ショット3」ワイドショット、彼女が海に向かって両腕を広げると画面がフリーズする。
 ```
 
-### No. 2: VRゴーグル宇宙横断
+### No. 2: バリスタのラテ — ワンカット撮影
 
-- **Category:** `クリエイティブ視覚効果`
+- **Category:** `ワンテイク撮影`
 - **Source:** `official`
-- **Author:** AtlasCloud
+- **Author:** Volcengine Ark
 - **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/dddb1fb2-d73a-4b6a-a2bf-bf416be652c6.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/dddb1fb2-d73a-4b6a-a2bf-bf416be652c6.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/18)
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-VRゴーグルを通じて異なるデジタル世界に入り、幻想的な宇宙横断エフェクトを展示。
+豆を挽くところから最後のラテアートまでバリスタを追う一続きのワンテイク。30秒のワンテイク撮影を披露する。
 
 #### Prompt
 
 ```text
-@video1の人物を@image1に置換し、@image1を冒頭フレームにする。近接周回ショットと三人称→主観視点の切替で、AIゴーグル空間を移動して@image2の深い青の宇宙へ。複数の宇宙船が遠方へ飛ぶ。
+バリスタがカフェでラテを作る——豆を挽き、エスプレッソを抽出し、ミルクをスチームし、最後にラテアートを注ぐまで、すべてワンカットで。
 ```
 
-### No. 3: エレベーターでのヒッチコックズーム
+### No. 3: 登頂者を360°オービット
+
+- **Category:** `高度なカメラワーク`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `ja`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+山頂の登山者を中心に360度のオービット移動を行い、雪山のパノラマを見せる——精密なカメラワーク制御。
+
+#### Prompt
+
+```text
+カメラが山頂に立つ登山者の周りを360度旋回し、雪をかぶった峰々の壮大なパノラマを見せる。
+```
+
+### No. 4: 高速プルバック — 一輪から花の海へ
+
+- **Category:** `高度なカメラワーク`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `ja`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+一輪の花から広大な花畑へと素早くドリーアウトし、遠くの峰々で止まる——ダイナミックなカメラワーク制御。
+
+#### Prompt
+
+```text
+カメラが一輪の花のクローズアップから一気に引いて花の海全体を映し出し、最後に遠くの雪山で止まる。
+```
+
+### No. 5: ジブリ風の桜並木
+
+- **Category:** `スタイル変換`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `ja`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+映像をスタジオジブリのアニメ風に変換し、少女が花びらの舞う小道を歩く——スタイル変換。
+
+#### Prompt
+
+```text
+シーンをスタジオジブリのアニメ風に変換する——少女が小道を歩き、その周りに桜の花びらが舞い落ちる。
+```
+
+### No. 6: 山水に浮かぶ水墨画の小舟
+
+- **Category:** `スタイル変換`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `ja`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+映像を伝統的な中国の水墨画風に変換し、一艘の小舟が山水を漂う——スタイル変換。
+
+#### Prompt
+
+```text
+シーンを中国の水墨画風に変換する——小さな舟が山と川の間をゆっくりと漂う。
+```
+
+### No. 7: 雨の中のネオン"SEEDANCE"サイン
+
+- **Category:** `テキスト描画`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `ja`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+正確な画面テキスト描画——雨の夜の街角で明滅するネオンの"SEEDANCE"サイン。
+
+#### Prompt
+
+```text
+雨の夜の街角で"SEEDANCE"と表示されたネオンサインが明滅し、その光が濡れた路面に反射する。
+```
+
+### No. 8: 金文字の表紙が開く本
+
+- **Category:** `テキスト描画`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `ja`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+表紙に読みやすく描画されたテキスト——金色の"人工知能の未来"——本がゆっくりと開く。
+
+#### Prompt
+
+```text
+本の表紙に金色の文字で"人工知能の未来"と書かれ、本がゆっくりと開く。
+```
+
+## 📋 All Prompts
+
+<a id="category-1"></a>
+
+### マルチショット・ナラティブ (2)
+
+### No. 1: 海辺のラン — 3ショットの物語
+
+- **Category:** `マルチショット・ナラティブ`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `ja`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+3ショットの海辺シーケンス——追尾のクローズアップ、カメラへの振り向き、フリーズフレームのワイド——一貫した被写体で首尾一貫したマルチショットの物語を見せる。
+
+#### Prompt
+
+```text
+「ショット1」クローズアップ、少女が海辺を走り、カメラが彼女の足取りを追う。「ショット2」ミディアムショット、彼女は立ち止まり、カメラの方を向いて微笑む。「ショット3」ワイドショット、彼女が海に向かって両腕を広げると画面がフリーズする。
+```
+
+### No. 2: 月面の宇宙飛行士 — 3ショット
+
+- **Category:** `マルチショット・ナラティブ`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `ja`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+3ショットの月面シーケンス——地球を見つめ、着陸船へ歩き、離陸する——一貫した被写体のマルチショットの物語。
+
+#### Prompt
+
+```text
+「ショット1」宇宙飛行士が月面に立ち、地球を見つめる。「ショット2」宇宙飛行士が振り返り、月着陸船へと歩いていく。「ショット3」着陸船が離陸し、月の砂塵を巻き上げる。
+```
+
+<a id="category-2"></a>
+
+### ワンテイク撮影 (6)
+
+### No. 1: バリスタのラテ — ワンカット撮影
+
+- **Category:** `ワンテイク撮影`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `ja`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+豆を挽くところから最後のラテアートまでバリスタを追う一続きのワンテイク。30秒のワンテイク撮影を披露する。
+
+#### Prompt
+
+```text
+バリスタがカフェでラテを作る——豆を挽き、エスプレッソを抽出し、ミルクをスチームし、最後にラテアートを注ぐまで、すべてワンカットで。
+```
+
+### No. 2: ジェットコースターPOV
+
+- **Category:** `ワンテイク撮影`
+- **Source:** `official`
+- **Author:** AtlasCloud
+- **Language:** `ja`
+- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/fabf98a8-432c-479a-bcd3-3736677190b2.mp4)
+
+<video src="https://static.atlascloud.ai/uploads/seedance-2.0/fabf98a8-432c-479a-bcd3-3736677190b2.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/47)
+
+#### Description
+
+一人称視点でジェットコースターのスリリングな旅を体験。
+
+#### Prompt
+
+```text
+@image1 @image2 @image3 @image4 @image5。主観視点でジェットコースター体験を再現し、急降下・旋回・上昇を高速で連続させる。
+```
+
+### No. 3: 居心地の良いコテージお茶タイム
+
+- **Category:** `ワンテイク撮影`
+- **Source:** `official`
+- **Author:** AtlasCloud
+- **Language:** `ja`
+- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d1d1c955-c271-44ba-bd3e-1537e33a2e29.mp4)
+
+<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d1d1c955-c271-44ba-bd3e-1537e33a2e29.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/46)
+
+#### Description
+
+居心地の良いコテージでのお茶タイムをワンテイクで展示。
+
+#### Prompt
+
+```text
+@image1の外観を基に一人称視点で室内へ入り、周囲を見渡す。温かみのある住空間をワンカットで見せ、レイアウトを自然に提示。
+```
+
+### No. 4: スパイサスペンス追跡
+
+- **Category:** `ワンテイク撮影`
+- **Source:** `official`
+- **Author:** AtlasCloud
+- **Language:** `ja`
+- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/873ead10-156a-4f5f-aafc-1a0a743c3ef7.mp4)
+
+<video src="https://static.atlascloud.ai/uploads/seedance-2.0/873ead10-156a-4f5f-aafc-1a0a743c3ef7.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/45)
+
+#### Description
+
+緊張感に満ちたワンテイクスパイサスペンス追跡シーン。
+
+#### Prompt
+
+```text
+スパイスリラー風。@image1を冒頭に、正面追従で街路・階段・屋上を高速で駆け抜ける。ワンカットで緊張感あるチェイスを作る。
+```
+
+### No. 5: 飛行機の窓からアイスクリームの夢
+
+- **Category:** `ワンテイク撮影`
+- **Source:** `official`
+- **Author:** AtlasCloud
+- **Language:** `ja`
+- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/3421ca69-533f-4ef7-aef2-2aabad3d53fe.mp4)
+
+<video src="https://static.atlascloud.ai/uploads/seedance-2.0/3421ca69-533f-4ef7-aef2-2aabad3d53fe.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/44)
+
+#### Description
+
+飛行機の窓から始まる夢幻的なアイスクリームシーン、ワンテイク。
+
+#### Prompt
+
+```text
+@image1を冒頭フレームにして機内窓外へズーム。雲が流れ込み、中央のカラフルな雲が@image2のアイスに変形する。
+```
+
+### No. 6: パルクールチェイス長回し
+
+- **Category:** `ワンテイク撮影`
+- **Source:** `official`
+- **Author:** AtlasCloud
+- **Language:** `ja`
+- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c8b0a7bb-eae5-417f-bf63-e3a114a1364f.mp4)
+
+<video src="https://static.atlascloud.ai/uploads/seedance-2.0/c8b0a7bb-eae5-417f-bf63-e3a114a1364f.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/43)
+
+#### Description
+
+複数のシーンを横断するワンテイクパルクールチェイスシーン。
+
+#### Prompt
+
+```text
+@image1@image2@image3@image4@image5、ワンカット追跡。街から階段、廊下、屋上へ走者を追い、最後に都市全景を俯瞰する。
+```
+
+<a id="category-3"></a>
+
+### 高度なカメラワーク (15)
+
+### No. 1: 登頂者を360°オービット
+
+- **Category:** `高度なカメラワーク`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `ja`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+山頂の登山者を中心に360度のオービット移動を行い、雪山のパノラマを見せる——精密なカメラワーク制御。
+
+#### Prompt
+
+```text
+カメラが山頂に立つ登山者の周りを360度旋回し、雪をかぶった峰々の壮大なパノラマを見せる。
+```
+
+### No. 2: 高速プルバック — 一輪から花の海へ
+
+- **Category:** `高度なカメラワーク`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `ja`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+一輪の花から広大な花畑へと素早くドリーアウトし、遠くの峰々で止まる——ダイナミックなカメラワーク制御。
+
+#### Prompt
+
+```text
+カメラが一輪の花のクローズアップから一気に引いて花の海全体を映し出し、最後に遠くの雪山で止まる。
+```
+
+### No. 3: IMAX風砂漠砂嵐シーン、ドゥニ・ヴィルヌーヴ美学
+
+- **Category:** `高度なカメラワーク`
+- **Source:** `twitter`
+- **Author:** John (@johnAGI168)
+- **Language:** `ja`
+- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/c3e4c06f-da7d-4127-ad68-7ed1656e2472.mp4)
+
+<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/c3e4c06f-da7d-4127-ad68-7ed1656e2472.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/johnAGI168/status/2020989515939148146)
+
+#### Description
+
+IMAX風砂漠砂嵐シーン、ドゥニ・ヴィルヌーヴ美学。タイムスタンプ付きマルチショット構成。
+
+#### Prompt
+
+```text
+スタイル: IMAX 70mm、重厚で冷たいスケール感、低彩度高コントラスト。 超ワイド: 地平線を覆う巨大砂嵐、前景を装甲車列が全速で退避。 車内POV: 激しい振動、砂がフロントガラスを叩き、警告灯が点滅、緊急コール。 クライマックス: 先頭車が砂丘から跳躍しスローモーション、暗い砂壁内に稲妻、破片がレンズ前を横切り、着地でブラックアウト。各ショットの接続は滑らかに、緊張を段階的に上げる。
+```
+
+### No. 4: 単一プロンプトで生成した南インド映画エイリアンシーン
+
+- **Category:** `高度なカメラワーク`
+- **Source:** `twitter`
+- **Author:** rohan anil (@_arohan_)
+- **Language:** `ja`
+- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/068af607-5e54-4331-9c25-3afc190d1a53.mp4)
+
+<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/068af607-5e54-4331-9c25-3afc190d1a53.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/_arohan_/status/2021369768004161783)
+
+#### Description
+
+単一プロンプトで生成した南インド映画エイリアンシーン。異文化映画制作能力を展示。
+
+#### Prompt
+
+```text
+南インド商業映画テイストのエイリアン侵略アクション。高彩度カラー、強い逆光、誇張スローモーション、英雄的ローアングルを採用。宇宙船降下で都市広場の規模を示し、次に主人公登場を風と衣装の動きで印象付ける。以降はワイドで群像規模、中景で連撃、寄りで感情と衝撃を強調。煙、粉塵、火花、レンズフレアを重ね、祝祭的な熱量を保つ。
+```
+
+### No. 5: 燃える軍用車両の都市戦争空撮ショット
+
+- **Category:** `高度なカメラワーク`
+- **Source:** `twitter`
+- **Author:** Carlos Santana (@DotCSV)
+- **Language:** `ja`
+- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/81bd1286-8024-4a62-a77a-0873d8137ae6.mp4)
+
+<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/81bd1286-8024-4a62-a77a-0873d8137ae6.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/DotCSV/status/2020519499082969142)
+
+#### Description
+
+映画級ドローン映像が都市戦闘の余波を捉える。Seedance 2.0のリアルな戦争シーン生成能力を展示。
+
+#### Prompt
+
+```text
+戦闘後の都市交差点をドローンで空撮する映画的シーン。中央には炎上する装甲車、上空へ伸びる黒煙柱。道路には瓦礫、金属片、破損した障害物が散乱し、周囲の建物は焦げ跡と破砕窓が残る。高高度の俯瞰から始め、ゆっくり高度を下げながら破壊規模と空間関係を見せる。彩度は抑え、ドキュメンタリー寄りの写実感を維持。火炎、煙流、熱揺らぎ、浮遊粉塵を物理的に自然に表現する。
+```
+
+### No. 6: エピックファンタジーバトル
+
+- **Category:** `高度なカメラワーク`
+- **Source:** `official`
+- **Author:** AtlasCloud
+- **Language:** `ja`
+- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/a15ec27b-9b38-407d-aa7a-460c9ed17e7f.mp4)
+
+<video src="https://static.atlascloud.ai/uploads/seedance-2.0/a15ec27b-9b38-407d-aa7a-460c9ed17e7f.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/16)
+
+#### Description
+
+壮大なファンタジーバトルシーン、特殊効果と映画級カメラワークを組み合わせ。
+
+#### Prompt
+
+```text
+video1の動きを参照し、@image1・@image2の環境で幻想バトルを生成。魔法スキルと粒子エフェクトを加え、ダイナミックな追従カメラで撮る。
+```
+
+### No. 7: 自動車広告カメラワーク
+
+- **Category:** `高度なカメラワーク`
+- **Source:** `official`
+- **Author:** AtlasCloud
+- **Language:** `ja`
+- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d1fe2d82-6f01-4e04-a732-a949028a09d3.mp4)
+
+<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d1fe2d82-6f01-4e04-a732-a949028a09d3.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/17)
+
+#### Description
+
+プロフェッショナルな自動車広告カメラワーク、車両のダイナミクスと環境の融合を展示。
+
+#### Prompt
+
+```text
+@video1の運鏡と場面転換テンポを参照し、@image1を起点に複数シーンを滑らかに接続。都市・山道・海辺を走る車の映像を見せる。
+```
+
+### No. 8: 回転タブレット展示
+
+- **Category:** `高度なカメラワーク`
+- **Source:** `official`
+- **Author:** AtlasCloud
+- **Language:** `ja`
+- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/2f9e5701-3cbe-4855-84a8-3ba0cd72b329.mp4)
+
+<video src="https://static.atlascloud.ai/uploads/seedance-2.0/2f9e5701-3cbe-4855-84a8-3ba0cd72b329.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/13)
+
+#### Description
+
+回転カメラワークでタブレット製品を展示、フォーカスと周回撮影技術を組み合わせ。
+
+#### Prompt
+
+```text
+@image1のタブレットを主役に、@video1を参考に俯瞰からゆっくり降下。画面が点灯してUIを表示し、周回ショットで筐体ディテールを見せる。
+```
+
+### No. 9: 複雑な廊下チェイス
+
+- **Category:** `高度なカメラワーク`
+- **Source:** `official`
+- **Author:** AtlasCloud
+- **Language:** `ja`
+- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c1288035-fc08-4465-bee0-a1857f94c7c1.mp4)
+
+<video src="https://static.atlascloud.ai/uploads/seedance-2.0/c1288035-fc08-4465-bee0-a1857f94c7c1.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/12)
+
+#### Description
+
+廊下での複雑なチェイスシーン撮影、マルチアングルショット切替とダイナミックトラッキングを展示。
+
+#### Prompt
+
+```text
+@image1の男性を@image2の廊下に配置し、@video1の運鏡を参照。曲がり角を走り抜け、@image3の長廊下で背後追従から低角度で正面へ回り込む。
+```
+
+### No. 10: 武術格闘シーン
+
+- **Category:** `高度なカメラワーク`
+- **Source:** `official`
+- **Author:** AtlasCloud
+- **Language:** `ja`
+- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/e62ddd7b-da6a-4b26-be8a-aba6e74dd854.mp4)
+
+<video src="https://static.atlascloud.ai/uploads/seedance-2.0/e62ddd7b-da6a-4b26-be8a-aba6e74dd854.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/15)
+
+#### Description
+
+激しい武術格闘シーンの撮影、モーションキャプチャーとマルチキャラクターインタラクションを展示。
+
+#### Prompt
+
+```text
+@image1・@image2の長槍キャラと@image3・@image4のシーンを参照し、武術アクションを生成。多角度追従で連続した槍術の力強さと美を表現。
+```
+
+### No. 11: エレベーターでのヒッチコックズーム
 
 - **Category:** `高度なカメラワーク`
 - **Source:** `official`
@@ -152,117 +635,247 @@ VRゴーグルを通じて異なるデジタル世界に入り、幻想的な宇
 @image1の男性を@image2のエレベーターに配置。@video1の運鏡と表情演技を参照し、恐怖の瞬間にヒッチコックズームを使用。室内の周回ショット後、扉が開いて外へ追従。@image3の外景へ出た後、ロボットアーム風の多角度追従で視線移動を捉える。
 ```
 
-### No. 4: コマ漫画アニメーション化
+### No. 12: リズミカルなプッシュプルダンスカメラ
 
-- **Category:** `ストーリー展開＆延長`
+- **Category:** `高度なカメラワーク`
 - **Source:** `official`
 - **Author:** AtlasCloud
 - **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c939610e-a182-40ad-89a5-254c1515ac24.mp4)
+- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/33ffc8e5-255c-46b2-8877-ad8a9100f6d4.mp4)
 
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/c939610e-a182-40ad-89a5-254c1515ac24.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/26)
+<video src="https://static.atlascloud.ai/uploads/seedance-2.0/33ffc8e5-255c-46b2-8877-ad8a9100f6d4.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/14)
 
 #### Description
 
-静的な漫画コマをダイナミックなアニメーションに変換、漫画に命を吹き込む。
+ダンスのリズムに合わせたプッシュプルカメラワーク、ダイナミックな視覚効果を演出。
 
 #### Prompt
 
 ```text
-15秒延長。@image1・@image2のロバがバイクに乗る要素で発想系CMを追加。
-カット1: 横固定でロバが小屋を飛び出し、隣の鶏が驚く。
-カット2: 砂地で旋回。タイヤ接写から空撮へ。
-カット3: 雪山背景でジャンプし、コピー「Inspire Creativity, Enrich Life」を表示。
+@image1の女性スターを主役に、@video1を参考に遠景からクローズアップへ。優雅なダンスを見せ、回り込みショットで動きの美しさを捉える。
 ```
 
-### No. 5: タイタニックダークツイスト
+### No. 13: 5分で1分の映画級戦争動画を生成、4ショット構成
 
-- **Category:** `映像編集＆リミックス`
-- **Source:** `official`
-- **Author:** AtlasCloud
+- **Category:** `高度なカメラワーク`
+- **Source:** `twitter`
+- **Author:** Min Choi (@minchoi)
 - **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/19cb9c31-9a1e-4c2e-ae17-b03f6a88c20b.mp4)
+- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/52680ae8-705d-4b26-9d49-1b573ab4f56f.mp4)
 
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/19cb9c31-9a1e-4c2e-ae17-b03f6a88c20b.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/48)
+<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/52680ae8-705d-4b26-9d49-1b573ab4f56f.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/minchoi/status/2020878278475518152)
 
 #### Description
 
-タイタニックの古典的なロマンチックシーンをダークスタイルで反転。
+5分で1分の映画級戦争動画を生成、4ショット構成。リアルな中東砂漠の村の歩兵戦闘シーン。
 
 #### Prompt
 
 ```text
-@video1の物語を反転。男性の目が優しさから冷酷へ変わり、無防備な女性主人公を橋から水中へ突き落とす。ためらいのない決断と不穏な空気で、原作の人物像を覆す。
+全ショット共通スタイル: 現代中東の砂漠村を舞台にした写実的な戦争シネマ。砂色と灰褐色を基調に、強い日差しと硬い影、漂う粉塵と火薬煙、わずかな手持ち揺れを維持する。兵士は現代軽歩兵装備で、識別可能な国章や旗は表示しない。空気感は緊張・抑制・残酷。 ショット1: 狭い路地を分隊が壁沿いに前進。低い土壁と損壊建物の間を、膝下レベルの追従カメラで後方から押し込む。 ショット2: 角で至近距離の交戦が突発。着弾で粉塵と破片が舞い、短い銃口炎が影を照らす。横移動と軽いブレで緊迫感を強調。 ショット3: 半壊建物へ突入。肩越しフォローで暗い内部に入り、破口からの光芒に埃が浮遊。手信号で連携し、遠方銃声が反響。 ショット4: 破損屋上から村全体を俯瞰。逆光シルエットの兵士、ゆっくり引きカメラ、砂塵が渦巻く。勝敗は示さず、未解決の緊張で終える。
 ```
 
-### No. 6: ファッションビートシンク
+### No. 14: 砂漠地形を横断する兵士の地上戦闘ショット
 
-- **Category:** `音楽シンク`
-- **Source:** `official`
-- **Author:** AtlasCloud
+- **Category:** `高度なカメラワーク`
+- **Source:** `twitter`
+- **Author:** Chetaslua (@chetaslua)
 - **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/5ae0578e-e6c8-4ff1-a03a-e19b5ac2f5c1.mp4)
+- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/0d332613-93bc-4d5e-b4f8-6cacc05871ef.mp4)
 
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/5ae0578e-e6c8-4ff1-a03a-e19b5ac2f5c1.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/53)
+<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/0d332613-93bc-4d5e-b4f8-6cacc05871ef.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/chetaslua)
 
 #### Description
 
-音楽のリズムに合わせてファッションコーデを展示するビートシンク動画。
+軍事小隊が前進する緊迫した一人称視点。リアルな戦術移動と環境ディテールを展示。
 
 #### Prompt
 
 ```text
-ポスターの少女が何度も衣装替え。衣装は@image1-6を参照し、音楽ビートに合わせて高速切替。強いファッション感を出す。
+地面近接の戦場ドキュメンタリーショット。砂漠地帯を進む分隊を、低い視点で軍靴、装備の揺れ、武器ディテール、隊形変化中心に追う。強い日差し、熱気の揺らぎ、浮遊砂塵、遠方の断続銃声で緊張を構築。手持ちの微ブレは制御し、浅い被写界深度で前景を明瞭化。砂色と灰褐色の低彩度パレットで、実戦的な圧迫感を持続させる。
 ```
 
-### No. 7: 仕事帰りの道
+### No. 15: 参照画像3枚と簡単なプロンプトだけでマルチショット格闘シーンを生成
 
-- **Category:** `キャラクター＆シーン一貫性`
-- **Source:** `official`
-- **Author:** AtlasCloud
+- **Category:** `高度なカメラワーク`
+- **Source:** `twitter`
+- **Author:** el.cine (@EHuanglu)
 - **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d66a205c-4470-4d71-9122-2d0bf0694c9c.mp4)
+- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e287a176-2ba0-4f64-ad86-ed779cd3d8d3.mp4)
 
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d66a205c-4470-4d71-9122-2d0bf0694c9c.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/5)
+<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e287a176-2ba0-4f64-ad86-ed779cd3d8d3.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/EHuanglu/status/2020828503810445785)
 
 #### Description
 
-オフィスの廊下から自宅まで、キャラクターの一貫性を保ちながら感情の変化と家族の交流を含む連続的な物語。
+現代都市環境での二人の女性による激しい武術格闘シーン。
 
 #### Prompt
 
 ```text
-男性@image1が仕事帰りに廊下を疲れて歩き、足取りが遅くなって玄関前で止まる。顔のクローズアップで深呼吸し感情を整える。鍵を探して解錠し入室すると、娘と犬が駆け寄って抱きつく。温かな室内で自然な会話を続ける。
+現代都市の夜を舞台にした女性同士の武術対決。ワイドで間合いを見せ、中景で攻防テンポを追い、打撃瞬間はクローズアップで筋肉の収縮・呼吸・重心移動を捉える。低位置の回り込み、越肩、素早い横移動を織り交ぜ、方向性を失わない編集にする。動きは物理的整合性を重視し、浮遊感を排除。街灯とネオン反射、わずかな濡れ床でシネマティックな実在感を出す。
 ```
 
-### No. 8: エレガントな洗濯シーン
+<a id="category-4"></a>
 
-- **Category:** `超リアル映像生成`
+### スタイル変換 (2)
+
+### No. 1: ジブリ風の桜並木
+
+- **Category:** `スタイル変換`
 - **Source:** `official`
-- **Author:** AtlasCloud
+- **Author:** Volcengine Ark
 - **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/b6b7f78a-f9a7-4c09-a3ac-6f0f694b1263.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/b6b7f78a-f9a7-4c09-a3ac-6f0f694b1263.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/1)
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-女性が優雅に洗濯物を干し、かごからもう一枚取り出して自然に振る。
+映像をスタジオジブリのアニメ風に変換し、少女が花びらの舞う小道を歩く——スタイル変換。
 
 #### Prompt
 
 ```text
-固定カメラ。少女が優雅に洗濯物を干し、終えると籠から別の服を取り出して勢いよく振る。
+シーンをスタジオジブリのアニメ風に変換する——少女が小道を歩き、その周りに桜の花びらが舞い落ちる。
 ```
 
-## 📋 All Prompts
+### No. 2: 山水に浮かぶ水墨画の小舟
 
-<a id="category-1"></a>
+- **Category:** `スタイル変換`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `ja`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+映像を伝統的な中国の水墨画風に変換し、一艘の小舟が山水を漂う——スタイル変換。
+
+#### Prompt
+
+```text
+シーンを中国の水墨画風に変換する——小さな舟が山と川の間をゆっくりと漂う。
+```
+
+<a id="category-5"></a>
+
+### テキスト描画 (2)
+
+### No. 1: 雨の中のネオン"SEEDANCE"サイン
+
+- **Category:** `テキスト描画`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `ja`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+正確な画面テキスト描画——雨の夜の街角で明滅するネオンの"SEEDANCE"サイン。
+
+#### Prompt
+
+```text
+雨の夜の街角で"SEEDANCE"と表示されたネオンサインが明滅し、その光が濡れた路面に反射する。
+```
+
+### No. 2: 金文字の表紙が開く本
+
+- **Category:** `テキスト描画`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `ja`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+表紙に読みやすく描画されたテキスト——金色の"人工知能の未来"——本がゆっくりと開く。
+
+#### Prompt
+
+```text
+本の表紙に金色の文字で"人工知能の未来"と書かれ、本がゆっくりと開く。
+```
+
+<a id="category-6"></a>
+
+### 画像参照 (4)
+
+### No. 1: 参照キャラクターが森を駆ける
+
+- **Category:** `画像参照`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `ja`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+参照画像から動きを駆動する——参照したキャラクターが森を走り、カメラが追尾する。参照は @image1 として与える。
+
+#### Prompt
+
+```text
+@image1 のキャラクターを参照し、彼が森の中を走り、カメラが並走して追尾する。
+```
+
+### No. 2: 参照シーンに鳥を追加
+
+- **Category:** `画像参照`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `ja`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+参照シーンを保ちつつ動きを加える——鳥の群れが画面を横切る。参照は @image1 として与える。
+
+#### Prompt
+
+```text
+@image1 のシーンを参照し、鳥の群れが画面を横切って飛ぶ様子を加える。
+```
+
+### No. 3: 参照からの360°製品回転
+
+- **Category:** `画像参照`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `ja`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+製品の参照を回転ショーケースに変える——ディスプレイ台の上で360°回転する。参照は @image1 として与える。
+
+#### Prompt
+
+```text
+@image1 の製品を参照し、回転するディスプレイ台の上で360度回転させる。
+```
+
+### No. 4: 参照人物が自然に手を振る
+
+- **Category:** `画像参照`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `ja`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+参照した人物をアニメート——自然な手振りと生き生きとした表情。参照は @image1 として与える。
+
+#### Prompt
+
+```text
+@image1 の人物を参照し、自然で生き生きとした表情で手を振らせる。
+```
+
+<a id="category-7"></a>
 
 ### Twitter Community (24)
 
@@ -752,7 +1365,7 @@ first person view of a diver on a boat, high five with another diver, clear blue
 a man giving a presentation in front of an audience, holding a microphone, with a large screen displaying two reflective spheres on a dark surface, natural light from windows, indoor setting with plants and audio equipment
 ```
 
-<a id="category-2"></a>
+<a id="category-8"></a>
 
 ### 音声＆ボイス合成 (10)
 
@@ -969,284 +1582,7 @@ a man giving a presentation in front of an audience, holding a microphone, with 
 15秒のMVを生成。キーワード：安定構図・映画感・旅行・風景。壮大な自然景観を見せ、抒情的な音楽で自由と探求を伝える。
 ```
 
-<a id="category-3"></a>
-
-### 高度なカメラワーク (13)
-
-### No. 1: IMAX風砂漠砂嵐シーン、ドゥニ・ヴィルヌーヴ美学
-
-- **Category:** `高度なカメラワーク`
-- **Source:** `twitter`
-- **Author:** John (@johnAGI168)
-- **Language:** `ja`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/c3e4c06f-da7d-4127-ad68-7ed1656e2472.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/c3e4c06f-da7d-4127-ad68-7ed1656e2472.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/johnAGI168/status/2020989515939148146)
-
-#### Description
-
-IMAX風砂漠砂嵐シーン、ドゥニ・ヴィルヌーヴ美学。タイムスタンプ付きマルチショット構成。
-
-#### Prompt
-
-```text
-スタイル: IMAX 70mm、重厚で冷たいスケール感、低彩度高コントラスト。 超ワイド: 地平線を覆う巨大砂嵐、前景を装甲車列が全速で退避。 車内POV: 激しい振動、砂がフロントガラスを叩き、警告灯が点滅、緊急コール。 クライマックス: 先頭車が砂丘から跳躍しスローモーション、暗い砂壁内に稲妻、破片がレンズ前を横切り、着地でブラックアウト。各ショットの接続は滑らかに、緊張を段階的に上げる。
-```
-
-### No. 2: 単一プロンプトで生成した南インド映画エイリアンシーン
-
-- **Category:** `高度なカメラワーク`
-- **Source:** `twitter`
-- **Author:** rohan anil (@_arohan_)
-- **Language:** `ja`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/068af607-5e54-4331-9c25-3afc190d1a53.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/068af607-5e54-4331-9c25-3afc190d1a53.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/_arohan_/status/2021369768004161783)
-
-#### Description
-
-単一プロンプトで生成した南インド映画エイリアンシーン。異文化映画制作能力を展示。
-
-#### Prompt
-
-```text
-南インド商業映画テイストのエイリアン侵略アクション。高彩度カラー、強い逆光、誇張スローモーション、英雄的ローアングルを採用。宇宙船降下で都市広場の規模を示し、次に主人公登場を風と衣装の動きで印象付ける。以降はワイドで群像規模、中景で連撃、寄りで感情と衝撃を強調。煙、粉塵、火花、レンズフレアを重ね、祝祭的な熱量を保つ。
-```
-
-### No. 3: 燃える軍用車両の都市戦争空撮ショット
-
-- **Category:** `高度なカメラワーク`
-- **Source:** `twitter`
-- **Author:** Carlos Santana (@DotCSV)
-- **Language:** `ja`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/81bd1286-8024-4a62-a77a-0873d8137ae6.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/81bd1286-8024-4a62-a77a-0873d8137ae6.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/DotCSV/status/2020519499082969142)
-
-#### Description
-
-映画級ドローン映像が都市戦闘の余波を捉える。Seedance 2.0のリアルな戦争シーン生成能力を展示。
-
-#### Prompt
-
-```text
-戦闘後の都市交差点をドローンで空撮する映画的シーン。中央には炎上する装甲車、上空へ伸びる黒煙柱。道路には瓦礫、金属片、破損した障害物が散乱し、周囲の建物は焦げ跡と破砕窓が残る。高高度の俯瞰から始め、ゆっくり高度を下げながら破壊規模と空間関係を見せる。彩度は抑え、ドキュメンタリー寄りの写実感を維持。火炎、煙流、熱揺らぎ、浮遊粉塵を物理的に自然に表現する。
-```
-
-### No. 4: エピックファンタジーバトル
-
-- **Category:** `高度なカメラワーク`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/a15ec27b-9b38-407d-aa7a-460c9ed17e7f.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/a15ec27b-9b38-407d-aa7a-460c9ed17e7f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/16)
-
-#### Description
-
-壮大なファンタジーバトルシーン、特殊効果と映画級カメラワークを組み合わせ。
-
-#### Prompt
-
-```text
-video1の動きを参照し、@image1・@image2の環境で幻想バトルを生成。魔法スキルと粒子エフェクトを加え、ダイナミックな追従カメラで撮る。
-```
-
-### No. 5: 自動車広告カメラワーク
-
-- **Category:** `高度なカメラワーク`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d1fe2d82-6f01-4e04-a732-a949028a09d3.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d1fe2d82-6f01-4e04-a732-a949028a09d3.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/17)
-
-#### Description
-
-プロフェッショナルな自動車広告カメラワーク、車両のダイナミクスと環境の融合を展示。
-
-#### Prompt
-
-```text
-@video1の運鏡と場面転換テンポを参照し、@image1を起点に複数シーンを滑らかに接続。都市・山道・海辺を走る車の映像を見せる。
-```
-
-### No. 6: 回転タブレット展示
-
-- **Category:** `高度なカメラワーク`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/2f9e5701-3cbe-4855-84a8-3ba0cd72b329.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/2f9e5701-3cbe-4855-84a8-3ba0cd72b329.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/13)
-
-#### Description
-
-回転カメラワークでタブレット製品を展示、フォーカスと周回撮影技術を組み合わせ。
-
-#### Prompt
-
-```text
-@image1のタブレットを主役に、@video1を参考に俯瞰からゆっくり降下。画面が点灯してUIを表示し、周回ショットで筐体ディテールを見せる。
-```
-
-### No. 7: 複雑な廊下チェイス
-
-- **Category:** `高度なカメラワーク`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c1288035-fc08-4465-bee0-a1857f94c7c1.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/c1288035-fc08-4465-bee0-a1857f94c7c1.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/12)
-
-#### Description
-
-廊下での複雑なチェイスシーン撮影、マルチアングルショット切替とダイナミックトラッキングを展示。
-
-#### Prompt
-
-```text
-@image1の男性を@image2の廊下に配置し、@video1の運鏡を参照。曲がり角を走り抜け、@image3の長廊下で背後追従から低角度で正面へ回り込む。
-```
-
-### No. 8: 武術格闘シーン
-
-- **Category:** `高度なカメラワーク`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/e62ddd7b-da6a-4b26-be8a-aba6e74dd854.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/e62ddd7b-da6a-4b26-be8a-aba6e74dd854.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/15)
-
-#### Description
-
-激しい武術格闘シーンの撮影、モーションキャプチャーとマルチキャラクターインタラクションを展示。
-
-#### Prompt
-
-```text
-@image1・@image2の長槍キャラと@image3・@image4のシーンを参照し、武術アクションを生成。多角度追従で連続した槍術の力強さと美を表現。
-```
-
-### No. 9: エレベーターでのヒッチコックズーム
-
-- **Category:** `高度なカメラワーク`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/4be02035-a101-4c2c-bb20-c2fe59771de9.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/4be02035-a101-4c2c-bb20-c2fe59771de9.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/11)
-
-#### Description
-
-エレベーターシーンで古典的なヒッチコックズーム技法を使い、サスペンスフルな視覚効果を演出。
-
-#### Prompt
-
-```text
-@image1の男性を@image2のエレベーターに配置。@video1の運鏡と表情演技を参照し、恐怖の瞬間にヒッチコックズームを使用。室内の周回ショット後、扉が開いて外へ追従。@image3の外景へ出た後、ロボットアーム風の多角度追従で視線移動を捉える。
-```
-
-### No. 10: リズミカルなプッシュプルダンスカメラ
-
-- **Category:** `高度なカメラワーク`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/33ffc8e5-255c-46b2-8877-ad8a9100f6d4.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/33ffc8e5-255c-46b2-8877-ad8a9100f6d4.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/14)
-
-#### Description
-
-ダンスのリズムに合わせたプッシュプルカメラワーク、ダイナミックな視覚効果を演出。
-
-#### Prompt
-
-```text
-@image1の女性スターを主役に、@video1を参考に遠景からクローズアップへ。優雅なダンスを見せ、回り込みショットで動きの美しさを捉える。
-```
-
-### No. 11: 5分で1分の映画級戦争動画を生成、4ショット構成
-
-- **Category:** `高度なカメラワーク`
-- **Source:** `twitter`
-- **Author:** Min Choi (@minchoi)
-- **Language:** `ja`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/52680ae8-705d-4b26-9d49-1b573ab4f56f.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/52680ae8-705d-4b26-9d49-1b573ab4f56f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/minchoi/status/2020878278475518152)
-
-#### Description
-
-5分で1分の映画級戦争動画を生成、4ショット構成。リアルな中東砂漠の村の歩兵戦闘シーン。
-
-#### Prompt
-
-```text
-全ショット共通スタイル: 現代中東の砂漠村を舞台にした写実的な戦争シネマ。砂色と灰褐色を基調に、強い日差しと硬い影、漂う粉塵と火薬煙、わずかな手持ち揺れを維持する。兵士は現代軽歩兵装備で、識別可能な国章や旗は表示しない。空気感は緊張・抑制・残酷。 ショット1: 狭い路地を分隊が壁沿いに前進。低い土壁と損壊建物の間を、膝下レベルの追従カメラで後方から押し込む。 ショット2: 角で至近距離の交戦が突発。着弾で粉塵と破片が舞い、短い銃口炎が影を照らす。横移動と軽いブレで緊迫感を強調。 ショット3: 半壊建物へ突入。肩越しフォローで暗い内部に入り、破口からの光芒に埃が浮遊。手信号で連携し、遠方銃声が反響。 ショット4: 破損屋上から村全体を俯瞰。逆光シルエットの兵士、ゆっくり引きカメラ、砂塵が渦巻く。勝敗は示さず、未解決の緊張で終える。
-```
-
-### No. 12: 砂漠地形を横断する兵士の地上戦闘ショット
-
-- **Category:** `高度なカメラワーク`
-- **Source:** `twitter`
-- **Author:** Chetaslua (@chetaslua)
-- **Language:** `ja`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/0d332613-93bc-4d5e-b4f8-6cacc05871ef.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/0d332613-93bc-4d5e-b4f8-6cacc05871ef.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/chetaslua)
-
-#### Description
-
-軍事小隊が前進する緊迫した一人称視点。リアルな戦術移動と環境ディテールを展示。
-
-#### Prompt
-
-```text
-地面近接の戦場ドキュメンタリーショット。砂漠地帯を進む分隊を、低い視点で軍靴、装備の揺れ、武器ディテール、隊形変化中心に追う。強い日差し、熱気の揺らぎ、浮遊砂塵、遠方の断続銃声で緊張を構築。手持ちの微ブレは制御し、浅い被写界深度で前景を明瞭化。砂色と灰褐色の低彩度パレットで、実戦的な圧迫感を持続させる。
-```
-
-### No. 13: 参照画像3枚と簡単なプロンプトだけでマルチショット格闘シーンを生成
-
-- **Category:** `高度なカメラワーク`
-- **Source:** `twitter`
-- **Author:** el.cine (@EHuanglu)
-- **Language:** `ja`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e287a176-2ba0-4f64-ad86-ed779cd3d8d3.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e287a176-2ba0-4f64-ad86-ed779cd3d8d3.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/EHuanglu/status/2020828503810445785)
-
-#### Description
-
-現代都市環境での二人の女性による激しい武術格闘シーン。
-
-#### Prompt
-
-```text
-現代都市の夜を舞台にした女性同士の武術対決。ワイドで間合いを見せ、中景で攻防テンポを追い、打撃瞬間はクローズアップで筋肉の収縮・呼吸・重心移動を捉える。低位置の回り込み、越肩、素早い横移動を織り交ぜ、方向性を失わない編集にする。動きは物理的整合性を重視し、浮遊感を排除。街灯とネオン反射、わずかな濡れ床でシネマティックな実在感を出す。
-```
-
-<a id="category-4"></a>
+<a id="category-9"></a>
 
 ### 映像編集＆リミックス (5)
 
@@ -1359,7 +1695,7 @@ video1の女性ボーカルを@image1の男性ボーカルに置換。既存の�
 video1の女性の髪型を赤いロングヘアに変更。クローズアップで新しい髪型を強調し、他要素は維持。
 ```
 
-<a id="category-5"></a>
+<a id="category-10"></a>
 
 ### キャラクター＆シーン一貫性 (6)
 
@@ -1489,7 +1825,7 @@ video1の女性の髪型を赤いロングヘアに変更。クローズアッ�
 0-2秒：4分割の高速フラッシュカット（赤・ピンク・紫・青背景）。@image1の商品を中央で回転表示。2-4秒：商品の360度クローズアップで質感を強調。4-6秒：ロゴをクローズアップしブランド名をフェードイン。全編は強い電子音楽に同期。
 ```
 
-<a id="category-6"></a>
+<a id="category-11"></a>
 
 ### クリエイティブ視覚効果 (11)
 
@@ -1724,7 +2060,7 @@ VRゴーグルを通じて異なるデジタル世界に入り、幻想的な宇
 白黒の水墨画スタイル。@image1のキャラクターが@video1の動きを参照し、水墨山水の背景で武術を披露。飛び散る墨表現で伝統と現代を融合。
 ```
 
-<a id="category-7"></a>
+<a id="category-12"></a>
 
 ### 超リアル映像生成 (5)
 
@@ -1833,7 +2169,7 @@ VRゴーグルを通じて異なるデジタル世界に入り、幻想的な宇
 固定カメラ。少女が優雅に洗濯物を干し、終えると籠から別の服を取り出して勢いよく振る。
 ```
 
-<a id="category-8"></a>
+<a id="category-13"></a>
 
 ### 感情表現 (3)
 
@@ -1900,7 +2236,7 @@ VRゴーグルを通じて異なるデジタル世界に入り、幻想的な宇
 @image1の女性が鏡の前に立ち、鏡の自分を見る。表情が平静から悲しみに変わり、涙が落ちる。感情崩壊の心理劇として鏡の象徴性を強調。
 ```
 
-<a id="category-9"></a>
+<a id="category-14"></a>
 
 ### ストーリー展開＆延長 (8)
 
@@ -2075,7 +2411,7 @@ video1の音声を参照し、画像1〜5を基に15秒の感情短編を作成�
 動画を6秒延長。熱いエレキギターが入り、中央に「JUST DO IT」が現れてフェード。カメラが天井へ上がり、屈強な男性が吊り輪を引く。上半身は@image1のウェア、背面に@image2の「Fitness」ロゴ。
 ```
 
-<a id="category-10"></a>
+<a id="category-15"></a>
 
 ### 音楽シンク (4)
 
@@ -2163,115 +2499,6 @@ video1の音声を参照し、画像1〜5を基に15秒の感情短編を作成�
 @image1 @image2 @image3 @image4 @image5 @image6の風景を使い、音楽の転調に合わせて日の出から日没へ遷移するMV風映像を作る。
 ```
 
-<a id="category-11"></a>
-
-### ワンテイク撮影 (5)
-
-### No. 1: ジェットコースターPOV
-
-- **Category:** `ワンテイク撮影`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/fabf98a8-432c-479a-bcd3-3736677190b2.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/fabf98a8-432c-479a-bcd3-3736677190b2.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/47)
-
-#### Description
-
-一人称視点でジェットコースターのスリリングな旅を体験。
-
-#### Prompt
-
-```text
-@image1 @image2 @image3 @image4 @image5。主観視点でジェットコースター体験を再現し、急降下・旋回・上昇を高速で連続させる。
-```
-
-### No. 2: 居心地の良いコテージお茶タイム
-
-- **Category:** `ワンテイク撮影`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d1d1c955-c271-44ba-bd3e-1537e33a2e29.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d1d1c955-c271-44ba-bd3e-1537e33a2e29.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/46)
-
-#### Description
-
-居心地の良いコテージでのお茶タイムをワンテイクで展示。
-
-#### Prompt
-
-```text
-@image1の外観を基に一人称視点で室内へ入り、周囲を見渡す。温かみのある住空間をワンカットで見せ、レイアウトを自然に提示。
-```
-
-### No. 3: スパイサスペンス追跡
-
-- **Category:** `ワンテイク撮影`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/873ead10-156a-4f5f-aafc-1a0a743c3ef7.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/873ead10-156a-4f5f-aafc-1a0a743c3ef7.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/45)
-
-#### Description
-
-緊張感に満ちたワンテイクスパイサスペンス追跡シーン。
-
-#### Prompt
-
-```text
-スパイスリラー風。@image1を冒頭に、正面追従で街路・階段・屋上を高速で駆け抜ける。ワンカットで緊張感あるチェイスを作る。
-```
-
-### No. 4: 飛行機の窓からアイスクリームの夢
-
-- **Category:** `ワンテイク撮影`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/3421ca69-533f-4ef7-aef2-2aabad3d53fe.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/3421ca69-533f-4ef7-aef2-2aabad3d53fe.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/44)
-
-#### Description
-
-飛行機の窓から始まる夢幻的なアイスクリームシーン、ワンテイク。
-
-#### Prompt
-
-```text
-@image1を冒頭フレームにして機内窓外へズーム。雲が流れ込み、中央のカラフルな雲が@image2のアイスに変形する。
-```
-
-### No. 5: パルクールチェイス長回し
-
-- **Category:** `ワンテイク撮影`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c8b0a7bb-eae5-417f-bf63-e3a114a1364f.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/c8b0a7bb-eae5-417f-bf63-e3a114a1364f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/43)
-
-#### Description
-
-複数のシーンを横断するワンテイクパルクールチェイスシーン。
-
-#### Prompt
-
-```text
-@image1@image2@image3@image4@image5、ワンカット追跡。街から階段、廊下、屋上へ走者を追い、最後に都市全景を俯瞰する。
-```
-
 ## Local Usage
 
 ```bash
@@ -2293,4 +2520,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-07-08T14:08:12.396Z
+> This README is auto-generated. 2026-07-20T17:21:54.955Z

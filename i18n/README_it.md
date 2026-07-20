@@ -4,7 +4,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedance-2.5-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-94%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-107%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 > A curated collection of Seedance 2.5 video prompts — each with real previews via Atlas Cloud. 30s native clips · 50 multimodal references · flexible region editing. Cinematic, anime, UGC, ads, meme & more.
 
@@ -68,201 +68,438 @@ Seedance 2.5 is a major upgrade to Seedance 2.0 with three big gains: 30-second 
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **94** |
-| Categories | **11** |
+| Total Prompts | **107** |
+| Categories | **17** |
 | Preview Videos | **88** |
-| Last Updated | **2026-07-08T14:08:12.403Z** |
+| Last Updated | **2026-07-20T17:21:54.962Z** |
 
 ## 🏷️ Browse by Category
 
-- [`Twitter Community`](#category-1): **24**
-- [`Audio & Voice Synthesis`](#category-2): **10**
-- [`Advanced Camera Movements`](#category-3): **13**
-- [`Video Editing & Remixing`](#category-4): **5**
-- [`Character & Scene Consistency`](#category-5): **6**
-- [`Creative Visual Effects`](#category-6): **11**
-- [`Ultra-Realistic Video Generation`](#category-7): **5**
-- [`Emotional Performance`](#category-8): **3**
-- [`Story Development & Extension`](#category-9): **8**
-- [`Music Synchronization`](#category-10): **4**
-- [`One-Take Cinematography`](#category-11): **5**
+- [`Narrazione multi-inquadratura`](#category-1): **2**
+- [`Cinematografia in un'unica ripresa`](#category-2): **1**
+- [`Movimenti di camera avanzati`](#category-3): **2**
+- [`Trasferimento di stile`](#category-4): **2**
+- [`Rendering del testo`](#category-5): **2**
+- [`Riferimento immagine`](#category-6): **4**
+- [`Twitter Community`](#category-7): **24**
+- [`Audio & Voice Synthesis`](#category-8): **10**
+- [`Advanced Camera Movements`](#category-9): **13**
+- [`Video Editing & Remixing`](#category-10): **5**
+- [`Character & Scene Consistency`](#category-11): **6**
+- [`Creative Visual Effects`](#category-12): **11**
+- [`Ultra-Realistic Video Generation`](#category-13): **5**
+- [`Emotional Performance`](#category-14): **3**
+- [`Story Development & Extension`](#category-15): **8**
+- [`Music Synchronization`](#category-16): **4**
+- [`One-Take Cinematography`](#category-17): **5**
 
 ## 🔥 Featured Prompts
 
-### No. 1: Commedia del cavallo con fisheye
+### No. 1: Corsa in riva al mare — Storia in tre inquadrature
 
-- **Category:** `Audio & Voice Synthesis`
+- **Category:** `Narrazione multi-inquadratura`
 - **Source:** `official`
-- **Author:** AtlasCloud
+- **Author:** Volcengine Ark
 - **Language:** `it`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/26d450cd-23c4-499e-9fd6-1752dabbc8bd.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/26d450cd-23c4-499e-9fd6-1752dabbc8bd.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/33)
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-Personaggio animale con dialogo sincronizzato ed effetti sonori tramite lente fisheye.
+Una sequenza balneare in tre inquadrature — un primo piano in carrellata, una giravolta verso la camera e un campo lungo in fermo immagine — che mostra una narrazione multi-inquadratura coerente con un soggetto costante.
 
 #### Prompt
 
 ```text
-Camera fissa, fisheye centrale che guarda in basso attraverso un foro circolare. Riferisciti al fisheye di video1, fai guardare il cavallo di @video2 verso la lente, riprendi i movimenti del parlato da @video1 e usa BGM ispirato a @video3.
+[Inquadratura 1] Primo piano, una ragazza corre lungo la riva del mare mentre la camera ne segue i passi. [Inquadratura 2] Piano medio, si ferma, si volta verso la camera e sorride. [Inquadratura 3] Campo lungo, allarga le braccia verso il mare mentre l'immagine si ferma.
 ```
 
-### No. 2: Viaggio cosmico con occhiali VR
+### No. 2: Latte del barista — Un'unica ripresa continua
 
-- **Category:** `Creative Visual Effects`
+- **Category:** `Cinematografia in un'unica ripresa`
 - **Source:** `official`
-- **Author:** AtlasCloud
+- **Author:** Volcengine Ark
 - **Language:** `it`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/dddb1fb2-d73a-4b6a-a2bf-bf416be652c6.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/dddb1fb2-d73a-4b6a-a2bf-bf416be652c6.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/18)
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-Transizione POV immersiva dal mondo reale, attraverso interfaccia VR, verso più domini digitali.
+Un'unica ripresa ininterrotta che segue un barista dalla macinatura dei chicchi fino alla latte art finale, mostrando una cinematografia in un'unica ripresa di 30 s.
 
 #### Prompt
 
 ```text
-Sostituisci il personaggio di @video1 con @image1 e usa @image1 come primo frame. Il personaggio indossa occhiali sci-fi; con camera ispirata a @video1 passa dalla terza persona alla POV e attraversa un mondo AI fino all’universo blu profondo di @image2, dove compaiono astronavi che volano in lontananza.
+Un barista prepara un latte in un bar — dalla macinatura dei chicchi, all'estrazione dell'espresso, alla montatura del latte, fino al versamento finale della latte art — tutto in un'unica ripresa continua.
 ```
 
-### No. 3: Zoom Hitchcock in ascensore
+### No. 3: Orbita a 360° attorno a uno scalatore in vetta
 
-- **Category:** `Advanced Camera Movements`
+- **Category:** `Movimenti di camera avanzati`
 - **Source:** `official`
-- **Author:** AtlasCloud
+- **Author:** Volcengine Ark
 - **Language:** `it`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/4be02035-a101-4c2c-bb20-c2fe59771de9.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/4be02035-a101-4c2c-bb20-c2fe59771de9.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/11)
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-Classico effetto vertigine in stile Hitchcock combinato con movimenti di camera complessi in spazio ristretto.
+Un movimento orbitale completo di 360 gradi attorno a un alpinista in vetta, che rivela un panorama di montagne innevate — controllo preciso del movimento di camera.
 
 #### Prompt
 
 ```text
-Prendi l’uomo di @image1 nell’ascensore di @image2, replicando camera e mimica da @video1. Nel momento di paura usa lo zoom Hitchcock; poi vari piani orbitali dell’interno. Quando si apre la porta, segui l’uscita verso la scena esterna @image3 con tracking multi-angolo sulla sua linea di sguardo.
+La camera orbita di 360 gradi attorno a un alpinista in piedi sulla vetta, rivelando un magnifico panorama di cime innevate.
 ```
 
-### No. 4: Animazione di vignette fumetto
+### No. 4: Rapido arretramento — Dal fiore al mare di fiori
 
-- **Category:** `Story Development & Extension`
+- **Category:** `Movimenti di camera avanzati`
 - **Source:** `official`
-- **Author:** AtlasCloud
+- **Author:** Volcengine Ark
 - **Language:** `it`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c939610e-a182-40ad-89a5-254c1515ac24.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/c939610e-a182-40ad-89a5-254c1515ac24.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/26)
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-Trasforma vignette statiche in una sequenza animata con effetti sonori.
+Un carrello indietro rapido da un singolo fiore a un vasto campo fiorito, che si ferma su vette lontane — controllo dinamico del movimento di camera.
 
 #### Prompt
 
 ```text
-Estendi il video di 15 s usando come riferimento l’asino in moto di @image1 e @image2, aggiungendo una sequenza pubblicitaria creativa.
-Scena 1: camera fissa laterale, l’asino esce dal recinto e spaventa le galline.
-Scena 2: l’asino gira sulla sabbia, prima close-up pneumatico poi ripresa aerea.
-Scena 3: sfondo montagna innevata, salto in moto e slogan “Inspire Creativity, Enrich Life”.
+La camera arretra rapidamente dal primo piano di un singolo fiore per rivelare un intero mare di fiori, fermandosi infine sulle montagne innevate in lontananza.
 ```
 
-### No. 5: Twist oscuro in stile Titanic
+### No. 5: Sentiero di ciliegi in stile Ghibli
 
-- **Category:** `Video Editing & Remixing`
+- **Category:** `Trasferimento di stile`
 - **Source:** `official`
-- **Author:** AtlasCloud
+- **Author:** Volcengine Ark
 - **Language:** `it`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/19cb9c31-9a1e-4c2e-ae17-b03f6a88c20b.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/19cb9c31-9a1e-4c2e-ae17-b03f6a88c20b.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/48)
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-Ribalta una scena romantica in thriller di tradimento.
+Ristilizza il filmato nell'animazione dello Studio Ghibli mentre una ragazza cammina su un sentiero cosparso di petali — trasferimento di stile.
 
 #### Prompt
 
 ```text
-Ribalta la trama di @video1: lo sguardo dell’uomo passa da dolce a gelido e crudele; nel momento in cui la protagonista è indifesa, la spinge giù dal ponte nell’acqua. Azione netta e determinata, dal tono premeditato.
+Trasforma la scena nello stile di animazione dello Studio Ghibli — una ragazza cammina lungo un sentiero mentre i petali di ciliegio scendono tutt'intorno a lei.
 ```
 
-### No. 6: Fashion beat drop
+### No. 6: Barca a inchiostro tra le montagne
 
-- **Category:** `Music Synchronization`
+- **Category:** `Trasferimento di stile`
 - **Source:** `official`
-- **Author:** AtlasCloud
+- **Author:** Volcengine Ark
 - **Language:** `it`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/5ae0578e-e6c8-4ff1-a03a-e19b5ac2f5c1.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/5ae0578e-e6c8-4ff1-a03a-e19b5ac2f5c1.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/53)
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-Trasformazione fashion sincronizzata al beat musicale.
+Ristilizza il filmato nella tradizionale pittura cinese a inchiostro mentre una barca solitaria scivola attraverso il paesaggio — trasferimento di stile.
 
 #### Prompt
 
 ```text
-La ragazza del poster cambia outfit di continuo, con riferimenti agli abiti @image1-6. Ogni cambio è sincronizzato al beat musicale con tagli rapidi e forte mood fashion.
+Trasforma la scena nello stile della pittura cinese a inchiostro — una piccola barca scivola lentamente tra monti e fiumi.
 ```
 
-### No. 7: Rientro a casa dopo il lavoro
+### No. 7: Insegna al neon "SEEDANCE" sotto la pioggia
 
-- **Category:** `Character & Scene Consistency`
+- **Category:** `Rendering del testo`
 - **Source:** `official`
-- **Author:** AtlasCloud
+- **Author:** Volcengine Ark
 - **Language:** `it`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d66a205c-4470-4d71-9122-2d0bf0694c9c.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d66a205c-4470-4d71-9122-2d0bf0694c9c.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/5)
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-Narrazione continua che mantiene la coerenza del personaggio dal corridoio dell’ufficio fino a casa, con transizione emotiva e interazione familiare.
+Rendering del testo su schermo preciso — un'insegna al neon "SEEDANCE" che lampeggia in una via cittadina in una notte piovosa.
 
 #### Prompt
 
 ```text
-L’uomo @image1 torna dal lavoro e cammina stanco nel corridoio; rallenta e si ferma davanti alla porta di casa. Primo piano sul volto: fa un respiro profondo, regola le emozioni e si rilassa. Cerca le chiavi, apre la porta, entra in casa; la figlia piccola e il cane corrono ad abbracciarlo. Atmosfera calda con dialoghi naturali.
+Un'insegna al neon con la scritta "SEEDANCE" lampeggia in una via cittadina in una notte piovosa, il suo bagliore si riflette sull'asfalto bagnato.
 ```
 
-### No. 8: Scena elegante di bucato
+### No. 8: Copertina con lettere dorate che si apre
 
-- **Category:** `Ultra-Realistic Video Generation`
+- **Category:** `Rendering del testo`
 - **Source:** `official`
-- **Author:** AtlasCloud
+- **Author:** Volcengine Ark
 - **Language:** `it`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/b6b7f78a-f9a7-4c09-a3ac-6f0f694b1263.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/b6b7f78a-f9a7-4c09-a3ac-6f0f694b1263.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/1)
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-Una donna stende il bucato con eleganza, prende un altro capo dal cesto e lo scuote con movimento naturale.
+Testo reso leggibile sulla copertina di un libro — "Il Futuro dell'Intelligenza Artificiale" in oro — mentre il libro si apre lentamente.
 
 #### Prompt
 
 ```text
-Inquadratura fissa: una ragazza stende i panni con eleganza; finito il gesto, prende un altro capo dal cesto e lo scuote con energia.
+La copertina di un libro riporta "Il Futuro dell'Intelligenza Artificiale" a lettere dorate mentre il libro si apre lentamente.
 ```
 
 ## 📋 All Prompts
 
 <a id="category-1"></a>
+
+### Narrazione multi-inquadratura (2)
+
+### No. 1: Corsa in riva al mare — Storia in tre inquadrature
+
+- **Category:** `Narrazione multi-inquadratura`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `it`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Una sequenza balneare in tre inquadrature — un primo piano in carrellata, una giravolta verso la camera e un campo lungo in fermo immagine — che mostra una narrazione multi-inquadratura coerente con un soggetto costante.
+
+#### Prompt
+
+```text
+[Inquadratura 1] Primo piano, una ragazza corre lungo la riva del mare mentre la camera ne segue i passi. [Inquadratura 2] Piano medio, si ferma, si volta verso la camera e sorride. [Inquadratura 3] Campo lungo, allarga le braccia verso il mare mentre l'immagine si ferma.
+```
+
+### No. 2: Astronauta sulla Luna — Tre inquadrature
+
+- **Category:** `Narrazione multi-inquadratura`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `it`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Una sequenza lunare in tre inquadrature — contemplare la Terra, camminare verso il modulo e il decollo — narrazione multi-inquadratura con un soggetto costante.
+
+#### Prompt
+
+```text
+[Inquadratura 1] Un astronauta è in piedi sulla superficie lunare e contempla la Terra. [Inquadratura 2] L'astronauta si volta e cammina verso il modulo lunare. [Inquadratura 3] Il modulo decolla, sollevando polvere lunare.
+```
+
+<a id="category-2"></a>
+
+### Cinematografia in un'unica ripresa (1)
+
+### No. 1: Latte del barista — Un'unica ripresa continua
+
+- **Category:** `Cinematografia in un'unica ripresa`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `it`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Un'unica ripresa ininterrotta che segue un barista dalla macinatura dei chicchi fino alla latte art finale, mostrando una cinematografia in un'unica ripresa di 30 s.
+
+#### Prompt
+
+```text
+Un barista prepara un latte in un bar — dalla macinatura dei chicchi, all'estrazione dell'espresso, alla montatura del latte, fino al versamento finale della latte art — tutto in un'unica ripresa continua.
+```
+
+<a id="category-3"></a>
+
+### Movimenti di camera avanzati (2)
+
+### No. 1: Orbita a 360° attorno a uno scalatore in vetta
+
+- **Category:** `Movimenti di camera avanzati`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `it`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Un movimento orbitale completo di 360 gradi attorno a un alpinista in vetta, che rivela un panorama di montagne innevate — controllo preciso del movimento di camera.
+
+#### Prompt
+
+```text
+La camera orbita di 360 gradi attorno a un alpinista in piedi sulla vetta, rivelando un magnifico panorama di cime innevate.
+```
+
+### No. 2: Rapido arretramento — Dal fiore al mare di fiori
+
+- **Category:** `Movimenti di camera avanzati`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `it`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Un carrello indietro rapido da un singolo fiore a un vasto campo fiorito, che si ferma su vette lontane — controllo dinamico del movimento di camera.
+
+#### Prompt
+
+```text
+La camera arretra rapidamente dal primo piano di un singolo fiore per rivelare un intero mare di fiori, fermandosi infine sulle montagne innevate in lontananza.
+```
+
+<a id="category-4"></a>
+
+### Trasferimento di stile (2)
+
+### No. 1: Sentiero di ciliegi in stile Ghibli
+
+- **Category:** `Trasferimento di stile`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `it`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Ristilizza il filmato nell'animazione dello Studio Ghibli mentre una ragazza cammina su un sentiero cosparso di petali — trasferimento di stile.
+
+#### Prompt
+
+```text
+Trasforma la scena nello stile di animazione dello Studio Ghibli — una ragazza cammina lungo un sentiero mentre i petali di ciliegio scendono tutt'intorno a lei.
+```
+
+### No. 2: Barca a inchiostro tra le montagne
+
+- **Category:** `Trasferimento di stile`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `it`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Ristilizza il filmato nella tradizionale pittura cinese a inchiostro mentre una barca solitaria scivola attraverso il paesaggio — trasferimento di stile.
+
+#### Prompt
+
+```text
+Trasforma la scena nello stile della pittura cinese a inchiostro — una piccola barca scivola lentamente tra monti e fiumi.
+```
+
+<a id="category-5"></a>
+
+### Rendering del testo (2)
+
+### No. 1: Insegna al neon "SEEDANCE" sotto la pioggia
+
+- **Category:** `Rendering del testo`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `it`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Rendering del testo su schermo preciso — un'insegna al neon "SEEDANCE" che lampeggia in una via cittadina in una notte piovosa.
+
+#### Prompt
+
+```text
+Un'insegna al neon con la scritta "SEEDANCE" lampeggia in una via cittadina in una notte piovosa, il suo bagliore si riflette sull'asfalto bagnato.
+```
+
+### No. 2: Copertina con lettere dorate che si apre
+
+- **Category:** `Rendering del testo`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `it`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Testo reso leggibile sulla copertina di un libro — "Il Futuro dell'Intelligenza Artificiale" in oro — mentre il libro si apre lentamente.
+
+#### Prompt
+
+```text
+La copertina di un libro riporta "Il Futuro dell'Intelligenza Artificiale" a lettere dorate mentre il libro si apre lentamente.
+```
+
+<a id="category-6"></a>
+
+### Riferimento immagine (4)
+
+### No. 1: Il personaggio di riferimento corre nel bosco
+
+- **Category:** `Riferimento immagine`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `it`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Guida il movimento a partire da un'immagine di riferimento — il personaggio riferito corre in un bosco con la camera in carrellata. Fornisci il riferimento come @image1.
+
+#### Prompt
+
+```text
+Facendo riferimento al personaggio di @image1, fallo correre attraverso un bosco con la camera che lo segue di fianco.
+```
+
+### No. 2: Aggiungere uccelli a una scena di riferimento
+
+- **Category:** `Riferimento immagine`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `it`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Mantieni una scena riferita e aggiungi movimento — uno stormo di uccelli attraversa l'inquadratura. Fornisci il riferimento come @image1.
+
+#### Prompt
+
+```text
+Facendo riferimento alla scena di @image1, aggiungi uno stormo di uccelli che attraversa l'inquadratura in volo.
+```
+
+### No. 3: Rotazione prodotto a 360° dal riferimento
+
+- **Category:** `Riferimento immagine`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `it`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Trasforma un riferimento di prodotto in una vetrina rotante — una rotazione completa di 360° su un espositore. Fornisci il riferimento come @image1.
+
+#### Prompt
+
+```text
+Facendo riferimento al prodotto di @image1, fallo ruotare di 360 gradi su un espositore girevole.
+```
+
+### No. 4: La persona di riferimento saluta con naturalezza
+
+- **Category:** `Riferimento immagine`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `it`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Anima una persona riferita — un gesto di saluto naturale con un'espressione realistica. Fornisci il riferimento come @image1.
+
+#### Prompt
+
+```text
+Facendo riferimento alla persona di @image1, falle salutare con la mano con un'espressione naturale e realistica.
+```
+
+<a id="category-7"></a>
 
 ### Twitter Community (24)
 
@@ -752,7 +989,7 @@ Un presentatore parla a un pubblico mostrando un'animazione digitale di sfere ri
 a man giving a presentation in front of an audience, holding a microphone, with a large screen displaying two reflective spheres on a dark surface, natural light from windows, indoor setting with plants and audio equipment
 ```
 
-<a id="category-2"></a>
+<a id="category-8"></a>
 
 ### Audio & Voice Synthesis (10)
 
@@ -966,7 +1203,7 @@ Video musicale con keyword di ripresa specifiche e audio atmosferico.
 Genera un MV di 15 s. Parole chiave: composizione stabile, look cinematografico, viaggio, paesaggio. Mostra scenari naturali grandiosi con musica lirica per comunicare libertà ed esplorazione.
 ```
 
-<a id="category-3"></a>
+<a id="category-9"></a>
 
 ### Advanced Camera Movements (13)
 
@@ -1243,7 +1480,7 @@ Intense martial arts fight between two women in modern urban environment.
 A grounded martial arts duel between two women in a modern urban night setting. Build with clear shot variation: wide shot to establish spacing and intent, medium tracking shots for exchange tempo, close-up inserts for impact, breathing, and footwork. Include low-angle circling moves, over-shoulder counters, and quick lateral camera motions to preserve directional clarity. Movements must follow realistic weight transfer, momentum, and recovery. Use practical street lighting, neon reflections, slight wet pavement sheen, and gritty cinematic texture.
 ```
 
-<a id="category-4"></a>
+<a id="category-10"></a>
 
 ### Video Editing & Remixing (5)
 
@@ -1356,7 +1593,7 @@ Aggiunge un elemento minaccioso a una scena pacifica.
 Modifica l’acconciatura della donna in video1 in capelli lunghi rossi, con un close-up che evidenzia il nuovo look; il resto resta invariato.
 ```
 
-<a id="category-5"></a>
+<a id="category-11"></a>
 
 ### Character & Scene Consistency (6)
 
@@ -1486,7 +1723,7 @@ Pubblicità prodotto coreano con coerenza di brand e dimostrazione multi-scena.
 0-2 s: flash cut in quattro riquadri (rosso, rosa, viola, blu), prodotto @image1 al centro in rotazione, 0,5 s ciascuno. 2-4 s: primo piano prodotto con orbita 360° per i dettagli. 4-6 s: primo piano logo con comparsa del brand. Musica elettronica ritmica per tutta la clip.
 ```
 
-<a id="category-6"></a>
+<a id="category-12"></a>
 
 ### Creative Visual Effects (11)
 
@@ -1721,7 +1958,7 @@ Performance marziale in stile tradizionale di pittura a inchiostro.
 Stile inchiostro bianco e nero: il personaggio di @image1 segue i movimenti di @video1 ed esegue arti marziali in un paesaggio a inchiostro con schizzi dinamici, fondendo tradizione e modernità.
 ```
 
-<a id="category-7"></a>
+<a id="category-13"></a>
 
 ### Ultra-Realistic Video Generation (5)
 
@@ -1830,7 +2067,7 @@ Una donna stende il bucato con eleganza, prende un altro capo dal cesto e lo scu
 Inquadratura fissa: una ragazza stende i panni con eleganza; finito il gesto, prende un altro capo dal cesto e lo scuote con energia.
 ```
 
-<a id="category-8"></a>
+<a id="category-14"></a>
 
 ### Emotional Performance (3)
 
@@ -1897,7 +2134,7 @@ Scena di crollo psicologico con crescendo emotivo.
 La donna di @image1 va davanti allo specchio e si osserva: l’espressione passa dalla calma alla tristezza, scendono lacrime e arriva un crollo emotivo. Dramma psicologico con simbolismo dello specchio.
 ```
 
-<a id="category-9"></a>
+<a id="category-15"></a>
 
 ### Story Development & Extension (8)
 
@@ -2072,7 +2309,7 @@ Crea un’apertura documentaristica evocativa basata su storyboard.
 Estendi il video di 6 s: entra una chitarra elettrica energica, al centro appare “JUST DO IT” e poi svanisce. La camera sale al soffitto, un uomo muscoloso fa anelli; indossa il completo fitness di @image1 con logo “Fitness” di @image2 sulla schiena.
 ```
 
-<a id="category-10"></a>
+<a id="category-16"></a>
 
 ### Music Synchronization (4)
 
@@ -2160,7 +2397,7 @@ Transizioni paesaggistiche allineate con precisione al ritmo musicale.
 Scene paesaggistiche @image1 @image2 @image3 @image4 @image5 @image6 con transizioni musicali dal sorgere al tramonto, in stile MV.
 ```
 
-<a id="category-11"></a>
+<a id="category-17"></a>
 
 ### One-Take Cinematography (5)
 
@@ -2290,4 +2527,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-07-08T14:08:12.403Z
+> This README is auto-generated. 2026-07-20T17:21:54.962Z

@@ -1,5 +1,239 @@
 [
   {
+    "id": "sd25off_01",
+    "sort_order": -100,
+    "title": "Chạy bên bờ biển — Câu chuyện ba cảnh",
+    "description": "Chuỗi ba cảnh bên bờ biển — cận cảnh bám theo, quay mặt vào máy quay, và toàn cảnh đóng băng khung hình — thể hiện lối tường thuật đa cảnh mạch lạc với một chủ thể nhất quán.",
+    "prompt": "[Cảnh 1] Cận cảnh, một cô gái chạy dọc bờ biển, máy quay bám theo từng bước chân cô. [Cảnh 2] Trung cảnh, cô dừng lại, quay mặt vào máy quay và mỉm cười. [Cảnh 3] Toàn cảnh, cô dang rộng hai tay hướng ra biển khi khung hình đóng băng.",
+    "category": "Tường thuật đa cảnh quay",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "vi",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_01",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_02",
+    "sort_order": -99,
+    "title": "Ly latte của barista — Một cú máy liền mạch",
+    "description": "Một cú máy liền mạch không ngắt, dõi theo barista từ lúc xay hạt đến nghệ thuật latte cuối cùng, phô diễn lối quay một cú máy 30 giây.",
+    "prompt": "Một barista pha latte trong quán cà phê — từ xay hạt cà phê, chiết xuất espresso, đánh sữa, đến rót tạo hình latte cuối cùng — tất cả trong một cú máy liền mạch.",
+    "category": "Quay một cú máy liền mạch",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "vi",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_02",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_03",
+    "sort_order": -98,
+    "title": "Vòng quanh 360° người leo đỉnh núi",
+    "description": "Một cú máy xoay quỹ đạo trọn 360 độ quanh người leo núi trên đỉnh, hé lộ toàn cảnh núi tuyết — kiểm soát chuyển động máy quay chính xác.",
+    "prompt": "Máy quay xoay 360 độ quanh người leo núi đứng trên đỉnh, hé lộ toàn cảnh hùng vĩ của những đỉnh núi phủ tuyết.",
+    "category": "Chuyển động máy quay nâng cao",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "vi",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_03",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_04",
+    "sort_order": -97,
+    "title": "Lùi máy nhanh — Từ một đóa hoa đến biển hoa",
+    "description": "Một cú dolly lùi nhanh từ một đóa hoa đến cả cánh đồng hoa bao la, rồi dừng ở những đỉnh núi xa — kiểm soát chuyển động máy quay linh hoạt.",
+    "prompt": "Máy quay lùi nhanh từ cận cảnh một đóa hoa để lộ ra cả một biển hoa, cuối cùng dừng lại ở những ngọn núi tuyết xa xa.",
+    "category": "Chuyển động máy quay nâng cao",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "vi",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_04",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_05",
+    "sort_order": -96,
+    "title": "Con đường hoa anh đào phong cách Ghibli",
+    "description": "Chuyển phong cách đoạn phim thành hoạt hình Studio Ghibli khi một cô gái đi trên con đường rải đầy cánh hoa — chuyển đổi phong cách.",
+    "prompt": "Biến khung cảnh thành phong cách hoạt hình Studio Ghibli — một cô gái bước đi trên con đường trong khi những cánh hoa anh đào rơi lả tả quanh cô.",
+    "category": "Chuyển đổi phong cách",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "vi",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_05",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_06",
+    "sort_order": -95,
+    "title": "Con thuyền thủy mặc giữa núi non",
+    "description": "Chuyển phong cách đoạn phim thành tranh thủy mặc Trung Hoa truyền thống khi một con thuyền lẻ loi trôi qua phong cảnh — chuyển đổi phong cách.",
+    "prompt": "Biến khung cảnh thành phong cách tranh thủy mặc Trung Hoa — một con thuyền nhỏ trôi chầm chậm giữa núi và sông.",
+    "category": "Chuyển đổi phong cách",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "vi",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_06",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_07",
+    "sort_order": -94,
+    "title": "Biển hiệu neon \"SEEDANCE\" trong mưa",
+    "description": "Kết xuất văn bản trên màn hình chính xác — một biển hiệu neon \"SEEDANCE\" nhấp nháy trên phố đêm mưa.",
+    "prompt": "Một biển hiệu neon ghi \"SEEDANCE\" nhấp nháy trên con phố thành phố trong một đêm mưa, ánh sáng của nó phản chiếu trên mặt đường ướt.",
+    "category": "Kết xuất văn bản",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "vi",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_07",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_08",
+    "sort_order": -93,
+    "title": "Bìa sách chữ vàng mở ra",
+    "description": "Văn bản kết xuất rõ nét trên bìa sách — \"Tương lai của Trí tuệ Nhân tạo\" bằng chữ vàng — khi cuốn sách từ từ mở ra.",
+    "prompt": "Bìa một cuốn sách ghi \"Tương lai của Trí tuệ Nhân tạo\" bằng chữ vàng khi cuốn sách từ từ mở ra.",
+    "category": "Kết xuất văn bản",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "vi",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_08",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_09",
+    "sort_order": -92,
+    "title": "Phi hành gia trên Mặt Trăng — Ba cảnh",
+    "description": "Chuỗi ba cảnh trên Mặt Trăng — ngắm Trái Đất, đi đến khoang đổ bộ, và cất cánh — tường thuật đa cảnh với một chủ thể nhất quán.",
+    "prompt": "[Cảnh 1] Một phi hành gia đứng trên bề mặt Mặt Trăng, ngắm nhìn Trái Đất. [Cảnh 2] Phi hành gia quay người và bước về phía khoang đổ bộ. [Cảnh 3] Khoang đổ bộ cất cánh, làm tung lên bụi Mặt Trăng.",
+    "category": "Tường thuật đa cảnh quay",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "vi",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_09",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_10",
+    "sort_order": -91,
+    "title": "Nhân vật tham chiếu chạy qua rừng",
+    "description": "Điều khiển chuyển động từ ảnh tham chiếu — nhân vật được tham chiếu chạy qua rừng với máy quay bám theo. Cung cấp ảnh tham chiếu dưới dạng @image1.",
+    "prompt": "Tham chiếu nhân vật trong @image1, cho anh ấy chạy qua rừng với máy quay bám theo bên cạnh.",
+    "category": "Tham chiếu hình ảnh",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "vi",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_10",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_11",
+    "sort_order": -90,
+    "title": "Thêm đàn chim vào cảnh tham chiếu",
+    "description": "Giữ nguyên cảnh được tham chiếu và thêm chuyển động — một đàn chim bay ngang khung hình. Cung cấp ảnh tham chiếu dưới dạng @image1.",
+    "prompt": "Tham chiếu khung cảnh trong @image1, thêm một đàn chim bay ngang qua khung hình.",
+    "category": "Tham chiếu hình ảnh",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "vi",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_11",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_12",
+    "sort_order": -89,
+    "title": "Xoay sản phẩm 360° từ ảnh tham chiếu",
+    "description": "Biến ảnh tham chiếu sản phẩm thành màn trình diễn xoay tròn — xoay trọn 360° trên bệ trưng bày. Cung cấp ảnh tham chiếu dưới dạng @image1.",
+    "prompt": "Tham chiếu sản phẩm trong @image1, cho nó xoay 360 độ trên bệ trưng bày xoay tròn.",
+    "category": "Tham chiếu hình ảnh",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "vi",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_12",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_13",
+    "sort_order": -88,
+    "title": "Người tham chiếu vẫy tay tự nhiên",
+    "description": "Làm chuyển động một người được tham chiếu — động tác vẫy tay tự nhiên với biểu cảm sống động. Cung cấp ảnh tham chiếu dưới dạng @image1.",
+    "prompt": "Tham chiếu người trong @image1, cho họ vẫy tay với biểu cảm tự nhiên, sống động.",
+    "category": "Tham chiếu hình ảnh",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "vi",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_13",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
     "id": "ur_001",
     "sort_order": 80,
     "title": "Cảnh phơi đồ thanh lịch",

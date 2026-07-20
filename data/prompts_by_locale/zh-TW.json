@@ -1,5 +1,239 @@
 [
   {
+    "id": "sd25off_01",
+    "sort_order": -100,
+    "title": "海邊奔跑 —— 三鏡頭故事",
+    "description": "三鏡頭的海邊序列——跟拍近景、轉身面向鏡頭、定格遠景——以一致的主體呈現連貫的多鏡頭敘事。",
+    "prompt": "【鏡頭1】近景，一個女孩在海邊奔跑，鏡頭跟隨她的腳步移動。【鏡頭2】中景，女孩停下來，轉身面向鏡頭，微笑。【鏡頭3】遠景，女孩張開雙臂，面向大海，畫面定格。",
+    "category": "多鏡頭敘事",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "zh-TW",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_01",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_02",
+    "sort_order": -99,
+    "title": "咖啡師拿鐵 —— 一鏡到底",
+    "description": "一鏡到底跟隨咖啡師，從研磨咖啡豆到最終拉花，展示 30 秒單鏡頭長影片。",
+    "prompt": "一個咖啡師在咖啡館裡製作一杯拿鐵，從研磨咖啡豆開始，到萃取濃縮咖啡，再到打發牛奶，最後拉花，一鏡到底。",
+    "category": "單鏡頭長影片",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "zh-TW",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_02",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_03",
+    "sort_order": -98,
+    "title": "環繞登頂者 360° 運鏡",
+    "description": "圍繞山頂登山者完成 360 度環繞運鏡，展現雪山全景——精準的運鏡控制。",
+    "prompt": "鏡頭環繞一個站在山頂的登山者旋轉360度，展現壯麗的雪山全景。",
+    "category": "運鏡控制",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "zh-TW",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_03",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_04",
+    "sort_order": -97,
+    "title": "快速拉遠 —— 從一朵花到花海",
+    "description": "從一朵花快速拉遠到廣袤花海，最終定格遠山——動態運鏡控制。",
+    "prompt": "鏡頭從一朵花的特寫快速拉遠，展現整片花海，最後定格在遠處的雪山。",
+    "category": "運鏡控制",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "zh-TW",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_04",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_05",
+    "sort_order": -96,
+    "title": "吉卜力風格櫻花小徑",
+    "description": "將畫面轉換為吉卜力動畫風格，女孩走在灑滿花瓣的小路上——風格轉換。",
+    "prompt": "將畫面轉換為吉卜力動畫風格，一個女孩走在櫻花飄落的小路上。",
+    "category": "風格轉換",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "zh-TW",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_05",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_06",
+    "sort_order": -95,
+    "title": "水墨扁舟山水間",
+    "description": "將畫面轉換為中國傳統水墨畫風格，一葉扁舟在山水間漂流——風格轉換。",
+    "prompt": "將畫面轉換為水墨畫風格，一葉扁舟在山水之間緩緩移動。",
+    "category": "風格轉換",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "zh-TW",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_06",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_07",
+    "sort_order": -94,
+    "title": "雨中霓虹\"SEEDANCE\"燈牌",
+    "description": "精準的螢幕文字生成——雨夜城市街頭閃爍的霓虹\"SEEDANCE\"燈牌。",
+    "prompt": "霓虹燈牌上顯示\"SEEDANCE\"字樣，在雨夜的城市街道上閃爍。",
+    "category": "文字生成",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "zh-TW",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_07",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_08",
+    "sort_order": -93,
+    "title": "金字書封緩緩翻開",
+    "description": "書封上清晰可讀的文字——金色的\"人工智慧的未來\"——書本緩緩打開。",
+    "prompt": "一本書的封面上用金色字體寫著\"人工智慧的未來\"，書本緩緩打開。",
+    "category": "文字生成",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "zh-TW",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_08",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_09",
+    "sort_order": -92,
+    "title": "月球上的太空人 —— 三鏡頭",
+    "description": "三鏡頭的月球序列——凝望地球、走向登月艙、起飛升空——主體一致的多鏡頭敘事。",
+    "prompt": "【鏡頭1】一個太空人站在月球表面，望向地球。【鏡頭2】太空人轉身走向登月艙。【鏡頭3】登月艙起飛，揚起月塵。",
+    "category": "多鏡頭敘事",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "zh-TW",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_09",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_10",
+    "sort_order": -91,
+    "title": "參考角色森林奔跑",
+    "description": "以參考圖驅動動作——被參考的角色在森林中奔跑，鏡頭跟拍。參考圖以 @image1 提供。",
+    "prompt": "參考圖中的角色，讓他在森林中奔跑，鏡頭跟隨。",
+    "category": "圖像參考",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "zh-TW",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_10",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_11",
+    "sort_order": -90,
+    "title": "為參考場景加入飛鳥",
+    "description": "保留參考場景並加入動態——一群飛鳥掠過畫面。參考圖以 @image1 提供。",
+    "prompt": "參考圖中的場景，加入一群飛鳥從畫面中飛過。",
+    "category": "圖像參考",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "zh-TW",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_11",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_12",
+    "sort_order": -89,
+    "title": "參考產品 360° 旋轉展示",
+    "description": "將產品參考圖轉化為旋轉展示——在展示台上完成 360° 旋轉。參考圖以 @image1 提供。",
+    "prompt": "參考圖中的產品，讓它在旋轉展示台上360度旋轉。",
+    "category": "圖像參考",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "zh-TW",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_12",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_13",
+    "sort_order": -88,
+    "title": "參考人物自然揮手",
+    "description": "讓參考人物動起來——自然的揮手動作與逼真的表情。參考圖以 @image1 提供。",
+    "prompt": "參考圖中的人物，讓他做出揮手的動作，表情自然。",
+    "category": "圖像參考",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "zh-TW",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_13",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
     "id": "ur_001",
     "sort_order": 80,
     "title": "優雅的洗衣場景",

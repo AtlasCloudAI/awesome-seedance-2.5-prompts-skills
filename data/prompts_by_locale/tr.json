@@ -1,5 +1,239 @@
 [
   {
+    "id": "sd25off_01",
+    "sort_order": -100,
+    "title": "Deniz Kenarında Koşu — Üç Çekimlik Hikâye",
+    "description": "Üç çekimlik bir sahil dizisi — takip eden bir yakın çekim, kameraya dönüş ve donmuş kareyle geniş açı — tutarlı bir özneyle uyumlu çok çekimli anlatı sergiler.",
+    "prompt": "[Çekim 1] Yakın çekim, bir kız deniz kıyısında koşarken kamera adımlarını takip eder. [Çekim 2] Orta çekim, durur, kameraya döner ve gülümser. [Çekim 3] Geniş açı, denize doğru kollarını açarken kare donar.",
+    "category": "Çok Çekimli Anlatı",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "tr",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_01",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_02",
+    "sort_order": -99,
+    "title": "Baristanın Latte'si — Tek Kesintisiz Çekim",
+    "description": "Bir baristayı çekirdekleri öğütmekten son latte sanatına kadar takip eden tek ve kesintisiz bir çekim; 30 sn'lik tek çekimlik sinematografiyi sergiler.",
+    "prompt": "Bir barista kafede latte hazırlıyor — çekirdekleri öğütmekten espressoyu çekmeye, sütü buharlamaya ve son latte sanatını dökmeye kadar — hepsi tek kesintisiz çekimde.",
+    "category": "Tek Çekimlik Sinematografi",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "tr",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_02",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_03",
+    "sort_order": -98,
+    "title": "Zirvedeki Dağcının Etrafında 360° Yörünge",
+    "description": "Zirvedeki bir dağcının etrafında tam 360 derecelik yörünge hareketi, karlı dağ panoramasını ortaya çıkarır — hassas kamera hareketi kontrolü.",
+    "prompt": "Kamera, zirvede duran bir dağcının etrafında 360 derece döner ve karla kaplı zirvelerin muhteşem panoramasını ortaya çıkarır.",
+    "category": "Gelişmiş Kamera Hareketleri",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "tr",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_03",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_04",
+    "sort_order": -97,
+    "title": "Hızlı Geri Çekiliş — Çiçekten Çiçek Denizine",
+    "description": "Tek bir çiçekten uçsuz bucaksız bir çiçek tarlasına hızlı bir geri kaydırma, uzak zirvelerde sabitlenir — dinamik kamera hareketi kontrolü.",
+    "prompt": "Kamera, tek bir çiçeğin yakın çekiminden hızla geri çekilerek koca bir çiçek denizini ortaya çıkarır ve sonunda uzaktaki karlı dağlarda sabitlenir.",
+    "category": "Gelişmiş Kamera Hareketleri",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "tr",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_04",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_05",
+    "sort_order": -96,
+    "title": "Ghibli Tarzı Kiraz Çiçeği Yolu",
+    "description": "Bir kız yaprak dökülü bir yolda yürürken görüntüyü Studio Ghibli animasyonuna dönüştürün — stil aktarımı.",
+    "prompt": "Sahneyi Studio Ghibli animasyon tarzına dönüştürün — bir kız yolda yürürken çevresine kiraz çiçekleri süzülerek düşer.",
+    "category": "Stil Aktarımı",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "tr",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_05",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_06",
+    "sort_order": -95,
+    "title": "Dağlar Arasında Mürekkep Resmi Teknesi",
+    "description": "Yalnız bir tekne manzarada süzülürken görüntüyü geleneksel Çin mürekkep resmine dönüştürün — stil aktarımı.",
+    "prompt": "Sahneyi Çin mürekkep resmi tarzına dönüştürün — küçük bir tekne dağlar ve nehirler arasında yavaşça süzülür.",
+    "category": "Stil Aktarımı",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "tr",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_06",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_07",
+    "sort_order": -94,
+    "title": "Yağmurda Neon \"SEEDANCE\" Tabelası",
+    "description": "Hassas ekran metni işleme — yağmurlu bir gece şehir sokağında yanıp sönen neon bir \"SEEDANCE\" tabelası.",
+    "prompt": "Yağmurlu bir gecede şehir sokağında \"SEEDANCE\" yazan bir neon tabela yanıp söner, ışıltısı ıslak kaldırıma yansır.",
+    "category": "Metin İşleme",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "tr",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_07",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_08",
+    "sort_order": -93,
+    "title": "Altın Harfli Kitap Kapağı Açılıyor",
+    "description": "Bir kitap kapağında okunaklı işlenmiş metin — altın renginde \"Yapay Zekânın Geleceği\" — kitap yavaşça açılırken.",
+    "prompt": "Bir kitabın kapağında altın harflerle \"Yapay Zekânın Geleceği\" yazar ve kitap yavaşça açılır.",
+    "category": "Metin İşleme",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "tr",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_08",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_09",
+    "sort_order": -92,
+    "title": "Ay'da Astronot — Üç Çekim",
+    "description": "Üç çekimlik bir ay dizisi — Dünya'yı seyretme, modüle yürüme ve kalkış — tutarlı bir özneyle çok çekimli anlatı.",
+    "prompt": "[Çekim 1] Bir astronot ay yüzeyinde durup Dünya'yı seyreder. [Çekim 2] Astronot döner ve ay modülüne doğru yürür. [Çekim 3] Modül kalkış yaparak ay tozunu havalandırır.",
+    "category": "Çok Çekimli Anlatı",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "tr",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_09",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_10",
+    "sort_order": -91,
+    "title": "Referans Karakter Ormanda Koşuyor",
+    "description": "Hareketi bir referans görselden yönlendirin — referans alınan karakter, takip eden bir kamerayla ormanda koşar. Referansı @image1 olarak verin.",
+    "prompt": "@image1'deki karakteri referans alarak onu ormanda koştur ve kamera yanında takip etsin.",
+    "category": "Görsel Referans",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "tr",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_10",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_11",
+    "sort_order": -90,
+    "title": "Referans Sahneye Kuşlar Ekle",
+    "description": "Referans alınan sahneyi koruyun ve hareket ekleyin — bir kuş sürüsü kareyi geçer. Referansı @image1 olarak verin.",
+    "prompt": "@image1'deki sahneyi referans alarak kareyi boydan boya geçen bir kuş sürüsü ekle.",
+    "category": "Görsel Referans",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "tr",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_11",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_12",
+    "sort_order": -89,
+    "title": "Referanstan 360° Ürün Dönüşü",
+    "description": "Bir ürün referansını dönen bir vitrine dönüştürün — bir sergi standında tam 360° dönüş. Referansı @image1 olarak verin.",
+    "prompt": "@image1'deki ürünü referans alarak onu dönen bir sergi standında 360 derece döndür.",
+    "category": "Görsel Referans",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "tr",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_12",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_13",
+    "sort_order": -88,
+    "title": "Referans Kişi Doğal Şekilde El Sallıyor",
+    "description": "Referans alınan bir kişiyi canlandırın — gerçekçi bir ifadeyle doğal bir el sallama jesti. Referansı @image1 olarak verin.",
+    "prompt": "@image1'deki kişiyi referans alarak ona doğal, gerçekçi bir ifadeyle el sallatın.",
+    "category": "Görsel Referans",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "tr",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_13",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
     "id": "ur_001",
     "sort_order": 80,
     "title": "Zarif Çamaşır Asma Sahnesi",

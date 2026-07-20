@@ -1,5 +1,239 @@
 [
   {
+    "id": "sd25off_01",
+    "sort_order": -100,
+    "title": "الركض على شاطئ البحر — قصة من ثلاث لقطات",
+    "description": "تسلسل ساحلي من ثلاث لقطات — لقطة مقربة تتبعية، والتفاتة نحو الكاميرا، ولقطة واسعة بتجميد الإطار — يعرض سرداً متعدد اللقطات متماسكاً بموضوع ثابت.",
+    "prompt": "[اللقطة 1] لقطة مقربة، فتاة تركض على شاطئ البحر والكاميرا تتتبع خطواتها. [اللقطة 2] لقطة متوسطة، تتوقف وتلتفت نحو الكاميرا وتبتسم. [اللقطة 3] لقطة واسعة، تفرد ذراعيها نحو البحر بينما يتجمد الإطار.",
+    "category": "سرد متعدد اللقطات",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "ar",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_01",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_02",
+    "sort_order": -99,
+    "title": "لاتيه الباريستا — لقطة واحدة متواصلة",
+    "description": "لقطة واحدة متواصلة دون انقطاع تتابع الباريستا من طحن الحبوب حتى فن اللاتيه النهائي، تعرض تصويراً بلقطة واحدة مدته 30 ثانية.",
+    "prompt": "يُعِدّ باريستا مشروب لاتيه في مقهى — من طحن الحبوب، إلى استخلاص الإسبريسو، إلى تبخير الحليب، وأخيراً سكب فن اللاتيه — كل ذلك في لقطة واحدة متواصلة.",
+    "category": "تصوير بلقطة واحدة",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "ar",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_02",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_03",
+    "sort_order": -98,
+    "title": "دوران 360° حول متسلق على القمة",
+    "description": "حركة مدارية كاملة بزاوية 360 درجة حول متسلق جبال على قمة، تكشف بانوراما للجبال الثلجية — تحكم دقيق في حركة الكاميرا.",
+    "prompt": "تدور الكاميرا 360 درجة حول متسلق جبال يقف على القمة، كاشفةً بانوراما رائعة للقمم المكسوة بالثلوج.",
+    "category": "حركات كاميرا متقدمة",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "ar",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_03",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_04",
+    "sort_order": -97,
+    "title": "تراجع سريع — من زهرة إلى بحر من الزهور",
+    "description": "تراجع سريع للكاميرا من زهرة واحدة إلى حقل شاسع من الزهور، ليستقر على قمم بعيدة — تحكم ديناميكي في حركة الكاميرا.",
+    "prompt": "تتراجع الكاميرا بسرعة من لقطة مقربة لزهرة واحدة لتكشف بحراً كاملاً من الزهور، ثم تستقر أخيراً على الجبال الثلجية البعيدة.",
+    "category": "حركات كاميرا متقدمة",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "ar",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_04",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_05",
+    "sort_order": -96,
+    "title": "درب أزهار الكرز بأسلوب غيبلي",
+    "description": "أعِد تنسيق اللقطات إلى رسوم استوديو غيبلي المتحركة بينما تسير فتاة على درب مفروش بالبتلات — نقل الأسلوب.",
+    "prompt": "حوِّل المشهد إلى أسلوب رسوم استوديو غيبلي المتحركة — تسير فتاة على درب بينما تتساقط أزهار الكرز من حولها.",
+    "category": "نقل الأسلوب",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "ar",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_05",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_06",
+    "sort_order": -95,
+    "title": "قارب الحبر بين الجبال",
+    "description": "أعِد تنسيق اللقطات إلى الرسم الصيني التقليدي بالحبر بينما ينساب قارب وحيد عبر المشهد الطبيعي — نقل الأسلوب.",
+    "prompt": "حوِّل المشهد إلى أسلوب الرسم الصيني بالحبر — ينساب قارب صغير ببطء بين الجبال والأنهار.",
+    "category": "نقل الأسلوب",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "ar",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_06",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_07",
+    "sort_order": -94,
+    "title": "لافتة نيون \"SEEDANCE\" في المطر",
+    "description": "عرض نص دقيق على الشاشة — لافتة نيون \"SEEDANCE\" تومض في شارع مدينة في ليلة ماطرة.",
+    "prompt": "تومض لافتة نيون مكتوب عليها \"SEEDANCE\" في شارع مدينة في ليلة ماطرة، وينعكس وهجها على الرصيف المبلل.",
+    "category": "عرض النص",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "ar",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_07",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_08",
+    "sort_order": -93,
+    "title": "غلاف كتاب بأحرف ذهبية ينفتح",
+    "description": "نص معروض واضح على غلاف كتاب — \"مستقبل الذكاء الاصطناعي\" باللون الذهبي — بينما يُفتح الكتاب ببطء.",
+    "prompt": "يحمل غلاف كتاب عبارة \"مستقبل الذكاء الاصطناعي\" بأحرف ذهبية بينما يُفتح الكتاب ببطء.",
+    "category": "عرض النص",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "ar",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_08",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_09",
+    "sort_order": -92,
+    "title": "رائد فضاء على القمر — ثلاث لقطات",
+    "description": "تسلسل قمري من ثلاث لقطات — التحديق في الأرض، والسير نحو المركبة، والإقلاع — سرد متعدد اللقطات بموضوع ثابت.",
+    "prompt": "[اللقطة 1] يقف رائد فضاء على سطح القمر محدقاً في الأرض. [اللقطة 2] يستدير رائد الفضاء ويسير نحو مركبة الهبوط القمرية. [اللقطة 3] تقلع المركبة رافعةً غبار القمر.",
+    "category": "سرد متعدد اللقطات",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "ar",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_09",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_10",
+    "sort_order": -91,
+    "title": "الشخصية المرجعية تركض عبر الغابة",
+    "description": "حرِّك المشهد انطلاقاً من صورة مرجعية — تركض الشخصية المرجعية عبر غابة مع كاميرا تتبعية. قدِّم المرجع بصيغة @image1.",
+    "prompt": "بالرجوع إلى الشخصية في @image1، اجعله يركض عبر غابة مع تتبع الكاميرا له جنباً إلى جنب.",
+    "category": "مرجع الصورة",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "ar",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_10",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_11",
+    "sort_order": -90,
+    "title": "إضافة طيور إلى مشهد مرجعي",
+    "description": "احتفظ بمشهد مرجعي وأضف حركة — سرب من الطيور يعبر الإطار. قدِّم المرجع بصيغة @image1.",
+    "prompt": "بالرجوع إلى المشهد في @image1، أضِف سرباً من الطيور يعبر الإطار طائراً.",
+    "category": "مرجع الصورة",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "ar",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_11",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_12",
+    "sort_order": -89,
+    "title": "دوران منتج 360° من مرجع",
+    "description": "حوِّل مرجع منتج إلى عرض دوّار — دوران كامل 360° على حامل عرض. قدِّم المرجع بصيغة @image1.",
+    "prompt": "بالرجوع إلى المنتج في @image1، اجعله يدور 360 درجة على حامل عرض دوّار.",
+    "category": "مرجع الصورة",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "ar",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_12",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_13",
+    "sort_order": -88,
+    "title": "الشخص المرجعي يلوّح بشكل طبيعي",
+    "description": "حرِّك شخصاً مرجعياً — إيماءة تلويح طبيعية بتعبير واقعي. قدِّم المرجع بصيغة @image1.",
+    "prompt": "بالرجوع إلى الشخص في @image1، اجعله يلوّح بيده بتعبير طبيعي وواقعي.",
+    "category": "مرجع الصورة",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "ar",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_13",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
     "id": "ur_001",
     "sort_order": 80,
     "title": "مشهد غسيل أنيق",

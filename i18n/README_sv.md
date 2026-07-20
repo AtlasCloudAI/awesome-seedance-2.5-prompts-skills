@@ -4,7 +4,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedance-2.5-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-94%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-107%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 > A curated collection of Seedance 2.5 video prompts — each with real previews via Atlas Cloud. 30s native clips · 50 multimodal references · flexible region editing. Cinematic, anime, UGC, ads, meme & more.
 
@@ -68,70 +68,449 @@ Seedance 2.5 is a major upgrade to Seedance 2.0 with three big gains: 30-second 
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **94** |
-| Categories | **11** |
+| Total Prompts | **107** |
+| Categories | **16** |
 | Preview Videos | **88** |
-| Last Updated | **2026-07-08T14:08:12.409Z** |
+| Last Updated | **2026-07-20T17:21:54.971Z** |
 
 ## 🏷️ Browse by Category
 
-- [`Twitter Community`](#category-1): **24**
-- [`Ljud och röstsyntes`](#category-2): **10**
-- [`Avancerade kamerarörelser`](#category-3): **13**
-- [`Videoredigering och remix`](#category-4): **5**
-- [`Karaktärs- och scenkonsekvens`](#category-5): **6**
-- [`Kreativa visuella effekter`](#category-6): **11**
-- [`Ultrarealistisk videogenerering`](#category-7): **5**
-- [`Emotionell gestaltning`](#category-8): **3**
-- [`Berättelseutveckling och förlängning`](#category-9): **8**
-- [`Musiksynkronisering`](#category-10): **4**
-- [`One-take-kinematografi`](#category-11): **5**
+- [`Berättande i flera tagningar`](#category-1): **2**
+- [`Enda tagning-filmning`](#category-2): **1**
+- [`Avancerade kamerarörelser`](#category-3): **15**
+- [`Stilöverföring`](#category-4): **2**
+- [`Textrendering`](#category-5): **2**
+- [`Bildreferens`](#category-6): **4**
+- [`Twitter Community`](#category-7): **24**
+- [`Ljud och röstsyntes`](#category-8): **10**
+- [`Videoredigering och remix`](#category-9): **5**
+- [`Karaktärs- och scenkonsekvens`](#category-10): **6**
+- [`Kreativa visuella effekter`](#category-11): **11**
+- [`Ultrarealistisk videogenerering`](#category-12): **5**
+- [`Emotionell gestaltning`](#category-13): **3**
+- [`Berättelseutveckling och förlängning`](#category-14): **8**
+- [`Musiksynkronisering`](#category-15): **4**
+- [`One-take-kinematografi`](#category-16): **5**
 
 ## 🔥 Featured Prompts
 
-### No. 1: fisheye häst komedi
+### No. 1: Löprunda vid havet — Berättelse i tre tagningar
 
-- **Category:** `Ljud och röstsyntes`
+- **Category:** `Berättande i flera tagningar`
 - **Source:** `official`
-- **Author:** AtlasCloud
+- **Author:** Volcengine Ark
 - **Language:** `sv`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/26d450cd-23c4-499e-9fd6-1752dabbc8bd.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/26d450cd-23c4-499e-9fd6-1752dabbc8bd.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/sv/seedance-2-prompt/33)
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-En videoscen med temat: fisheye häst komedi.
+En kustsekvens i tre tagningar — en följande närbild, en vändning mot kameran och en vidbild som frusen bild — som visar ett sammanhängande berättande i flera tagningar med ett konsekvent motiv.
 
 #### Prompt
 
 ```text
-Generera en videoscen: En videoscen med temat: fisheye häst komedi.
+[Tagning 1] Närbild, en flicka springer längs havsstranden medan kameran följer hennes steg. [Tagning 2] Halvbild, hon stannar, vänder sig mot kameran och ler. [Tagning 3] Vidbild, hon sträcker ut armarna mot havet medan bilden fryser.
 ```
 
-### No. 2: VR glasögon universum resa
+### No. 2: Baristans latte — En enda oavbruten tagning
 
-- **Category:** `Kreativa visuella effekter`
+- **Category:** `Enda tagning-filmning`
 - **Source:** `official`
-- **Author:** AtlasCloud
+- **Author:** Volcengine Ark
 - **Language:** `sv`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/dddb1fb2-d73a-4b6a-a2bf-bf416be652c6.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/dddb1fb2-d73a-4b6a-a2bf-bf416be652c6.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/sv/seedance-2-prompt/18)
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-En videoscen med temat: VR glasögon universum resa.
+En enda oavbruten tagning som följer en barista från malning av bönorna till den slutliga latte art-en, och visar upp 30 s enda tagning-filmning.
 
 #### Prompt
 
 ```text
-Generera en videoscen: En videoscen med temat: VR glasögon universum resa.
+En barista gör en latte på ett kafé — från att mala bönorna, dra espresson, skumma mjölken, till att slutligen hälla latte art-en — allt i en enda oavbruten tagning.
 ```
 
-### No. 3: Hitchcock zoom in hiss
+### No. 3: 360°-omloppsbana runt en toppbestigare
+
+- **Category:** `Avancerade kamerarörelser`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `sv`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+En fullständig 360-graders omloppsrörelse runt en bergsbestigare på en topp, som avslöjar en snöbergspanorama — precis kontroll av kamerarörelse.
+
+#### Prompt
+
+```text
+Kameran kretsar 360 grader runt en bergsbestigare som står på en topp och avslöjar en magnifik panorama av snöklädda toppar.
+```
+
+### No. 4: Snabb utåkning — Från blomma till blomsterhav
+
+- **Category:** `Avancerade kamerarörelser`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `sv`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+En snabb dolly bakåt från en enda blomma till ett vidsträckt blomsterfält, som stannar vid avlägsna toppar — dynamisk kontroll av kamerarörelse.
+
+#### Prompt
+
+```text
+Kameran åker snabbt bakåt från närbilden av en enda blomma för att avslöja ett helt blomsterhav, och stannar till slut vid de snöklädda bergen i fjärran.
+```
+
+### No. 5: Körsbärsblomstig i Ghibli-stil
+
+- **Category:** `Stilöverföring`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `sv`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Stila om materialet till Studio Ghibli-animation medan en flicka går längs en stig beströdd med kronblad — stilöverföring.
+
+#### Prompt
+
+```text
+Förvandla scenen till Studio Ghiblis animationsstil — en flicka går längs en stig medan körsbärsblommor singlar ner runt henne.
+```
+
+### No. 6: Tuschmålningsbåt bland bergen
+
+- **Category:** `Stilöverföring`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `sv`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Stila om materialet till traditionell kinesisk tuschmålning medan en ensam båt driver genom landskapet — stilöverföring.
+
+#### Prompt
+
+```text
+Förvandla scenen till kinesisk tuschmålningsstil — en liten båt driver långsamt fram mellan berg och floder.
+```
+
+### No. 7: Neonskylt "SEEDANCE" i regnet
+
+- **Category:** `Textrendering`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `sv`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Precis textrendering på skärmen — en flimrande neonskylt "SEEDANCE" på en stadsgata en regnig natt.
+
+#### Prompt
+
+```text
+En neonskylt med texten "SEEDANCE" flimrar på en stadsgata en regnig natt, och dess sken speglas i den våta gatan.
+```
+
+### No. 8: Bokomslag med guldbokstäver öppnas
+
+- **Category:** `Textrendering`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `sv`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Läsbart renderad text på ett bokomslag — "Den Artificiella Intelligensens Framtid" i guld — medan boken långsamt öppnas.
+
+#### Prompt
+
+```text
+Ett bokomslag har texten "Den Artificiella Intelligensens Framtid" i guldbokstäver medan boken långsamt öppnas.
+```
+
+## 📋 All Prompts
+
+<a id="category-1"></a>
+
+### Berättande i flera tagningar (2)
+
+### No. 1: Löprunda vid havet — Berättelse i tre tagningar
+
+- **Category:** `Berättande i flera tagningar`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `sv`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+En kustsekvens i tre tagningar — en följande närbild, en vändning mot kameran och en vidbild som frusen bild — som visar ett sammanhängande berättande i flera tagningar med ett konsekvent motiv.
+
+#### Prompt
+
+```text
+[Tagning 1] Närbild, en flicka springer längs havsstranden medan kameran följer hennes steg. [Tagning 2] Halvbild, hon stannar, vänder sig mot kameran och ler. [Tagning 3] Vidbild, hon sträcker ut armarna mot havet medan bilden fryser.
+```
+
+### No. 2: Astronaut på månen — Tre tagningar
+
+- **Category:** `Berättande i flera tagningar`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `sv`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+En månsekvens i tre tagningar — blickar mot jorden, går mot modulen och lyfter — berättande i flera tagningar med ett konsekvent motiv.
+
+#### Prompt
+
+```text
+[Tagning 1] En astronaut står på månytan och blickar mot jorden. [Tagning 2] Astronauten vänder sig om och går mot månmodulen. [Tagning 3] Modulen lyfter och virvlar upp måndamm.
+```
+
+<a id="category-2"></a>
+
+### Enda tagning-filmning (1)
+
+### No. 1: Baristans latte — En enda oavbruten tagning
+
+- **Category:** `Enda tagning-filmning`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `sv`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+En enda oavbruten tagning som följer en barista från malning av bönorna till den slutliga latte art-en, och visar upp 30 s enda tagning-filmning.
+
+#### Prompt
+
+```text
+En barista gör en latte på ett kafé — från att mala bönorna, dra espresson, skumma mjölken, till att slutligen hälla latte art-en — allt i en enda oavbruten tagning.
+```
+
+<a id="category-3"></a>
+
+### Avancerade kamerarörelser (15)
+
+### No. 1: 360°-omloppsbana runt en toppbestigare
+
+- **Category:** `Avancerade kamerarörelser`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `sv`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+En fullständig 360-graders omloppsrörelse runt en bergsbestigare på en topp, som avslöjar en snöbergspanorama — precis kontroll av kamerarörelse.
+
+#### Prompt
+
+```text
+Kameran kretsar 360 grader runt en bergsbestigare som står på en topp och avslöjar en magnifik panorama av snöklädda toppar.
+```
+
+### No. 2: Snabb utåkning — Från blomma till blomsterhav
+
+- **Category:** `Avancerade kamerarörelser`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `sv`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+En snabb dolly bakåt från en enda blomma till ett vidsträckt blomsterfält, som stannar vid avlägsna toppar — dynamisk kontroll av kamerarörelse.
+
+#### Prompt
+
+```text
+Kameran åker snabbt bakåt från närbilden av en enda blomma för att avslöja ett helt blomsterhav, och stannar till slut vid de snöklädda bergen i fjärran.
+```
+
+### No. 3: IMAX-Style Desert Sandstorm Scene with Denis Villeneuve Aesthetic
+
+- **Category:** `Avancerade kamerarörelser`
+- **Source:** `twitter`
+- **Author:** John (@johnAGI168)
+- **Language:** `sv`
+- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/c3e4c06f-da7d-4127-ad68-7ed1656e2472.mp4)
+
+<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/c3e4c06f-da7d-4127-ad68-7ed1656e2472.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/johnAGI168/status/2020989515939148146)
+
+#### Description
+
+IMAX-style desert sandstorm scene with Denis Villeneuve aesthetic. Features timestamped multi-shot structure.
+
+#### Prompt
+
+```text
+Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low saturation. Multi-shot structure. Extreme wide shot: a colossal sand wall consumes the horizon while an armored convoy races across open desert. Emphasize terrifying scale and human fragility. Cockpit POV: violent vibration inside the lead vehicle, sand blasting the windshield, red warning lights pulsing, urgent shouted commands. Climax in slow motion: lead rover launches off a dune, silhouetted against a dark storm front; lightning flickers inside the dust cloud; debris streaks past lens; hard cut to black on impact. Keep transitions clean and escalation continuous.
+```
+
+### No. 4: South Indian Cinema Alien Scene Generated from Single Prompt
+
+- **Category:** `Avancerade kamerarörelser`
+- **Source:** `twitter`
+- **Author:** rohan anil (@_arohan_)
+- **Language:** `sv`
+- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/068af607-5e54-4331-9c25-3afc190d1a53.mp4)
+
+<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/068af607-5e54-4331-9c25-3afc190d1a53.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/_arohan_/status/2021369768004161783)
+
+#### Description
+
+South Indian cinema alien scene generated from a single prompt. Demonstrates cross-cultural filmmaking capabilities.
+
+#### Prompt
+
+```text
+Create a South Indian commercial-cinema style alien invasion action scene. Visuals should feature saturated colors, dramatic backlight, stylized slow motion, and heroic framing. Open with a large-scale city plaza reveal as alien craft descend, then cut to low-angle hero entrance with wind-swept costume details. Move into multi-angle confrontation: wides for scale, mediums for combo choreography, close-ups for emotional intensity and impact peaks. Blend dust, sparks, smoke, and lens flares for high-energy theatrical presentation while keeping motion readable.
+```
+
+### No. 5: Aerial Shot of Burning Military Vehicle in Urban Warfare
+
+- **Category:** `Avancerade kamerarörelser`
+- **Source:** `twitter`
+- **Author:** Carlos Santana (@DotCSV)
+- **Language:** `sv`
+- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/81bd1286-8024-4a62-a77a-0873d8137ae6.mp4)
+
+<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/81bd1286-8024-4a62-a77a-0873d8137ae6.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/DotCSV/status/2020519499082969142)
+
+#### Description
+
+Cinematic drone footage capturing the aftermath of urban battle. Showcases Seedance 2.0's ability to generate realistic war scenes with detailed destruction effects and atmospheric rendering.
+
+#### Prompt
+
+```text
+A cinematic drone sequence over a war-torn city intersection. At the center, a destroyed armored vehicle burns continuously, emitting thick black smoke that climbs into an overcast sky. Streets are littered with rubble, twisted metal, and shattered concrete; nearby buildings show blown-out windows, scorched facades, and structural damage. Start with a high establishing aerial shot, then descend slowly into a medium-high orbit while preserving spatial scale and destruction detail. Keep color grading desaturated with documentary realism, add subtle film grain, and ensure physically believable fire, smoke turbulence, heat distortion, and airborne dust.
+```
+
+### No. 6: episk fantasy strid
+
+- **Category:** `Avancerade kamerarörelser`
+- **Source:** `official`
+- **Author:** AtlasCloud
+- **Language:** `sv`
+- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/a15ec27b-9b38-407d-aa7a-460c9ed17e7f.mp4)
+
+<video src="https://static.atlascloud.ai/uploads/seedance-2.0/a15ec27b-9b38-407d-aa7a-460c9ed17e7f.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://www.atlascloud.ai/sv/seedance-2-prompt/16)
+
+#### Description
+
+En videoscen med temat: episk fantasy strid.
+
+#### Prompt
+
+```text
+Generera en videoscen: En videoscen med temat: episk fantasy strid.
+```
+
+### No. 7: bil reklam kinematografi
+
+- **Category:** `Avancerade kamerarörelser`
+- **Source:** `official`
+- **Author:** AtlasCloud
+- **Language:** `sv`
+- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d1fe2d82-6f01-4e04-a732-a949028a09d3.mp4)
+
+<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d1fe2d82-6f01-4e04-a732-a949028a09d3.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://www.atlascloud.ai/sv/seedance-2-prompt/17)
+
+#### Description
+
+En videoscen med temat: bil reklam kinematografi.
+
+#### Prompt
+
+```text
+Generera en videoscen: En videoscen med temat: bil reklam kinematografi.
+```
+
+### No. 8: roterande surfplatta visning
+
+- **Category:** `Avancerade kamerarörelser`
+- **Source:** `official`
+- **Author:** AtlasCloud
+- **Language:** `sv`
+- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/2f9e5701-3cbe-4855-84a8-3ba0cd72b329.mp4)
+
+<video src="https://static.atlascloud.ai/uploads/seedance-2.0/2f9e5701-3cbe-4855-84a8-3ba0cd72b329.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://www.atlascloud.ai/sv/seedance-2-prompt/13)
+
+#### Description
+
+En videoscen med temat: roterande surfplatta visning.
+
+#### Prompt
+
+```text
+Generera en videoscen: En videoscen med temat: roterande surfplatta visning.
+```
+
+### No. 9: komplex korridor jakt
+
+- **Category:** `Avancerade kamerarörelser`
+- **Source:** `official`
+- **Author:** AtlasCloud
+- **Language:** `sv`
+- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c1288035-fc08-4465-bee0-a1857f94c7c1.mp4)
+
+<video src="https://static.atlascloud.ai/uploads/seedance-2.0/c1288035-fc08-4465-bee0-a1857f94c7c1.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://www.atlascloud.ai/sv/seedance-2-prompt/12)
+
+#### Description
+
+En videoscen med temat: komplex korridor jakt.
+
+#### Prompt
+
+```text
+Generera en videoscen: En videoscen med temat: komplex korridor jakt.
+```
+
+### No. 10: kampsport strid scen
+
+- **Category:** `Avancerade kamerarörelser`
+- **Source:** `official`
+- **Author:** AtlasCloud
+- **Language:** `sv`
+- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/e62ddd7b-da6a-4b26-be8a-aba6e74dd854.mp4)
+
+<video src="https://static.atlascloud.ai/uploads/seedance-2.0/e62ddd7b-da6a-4b26-be8a-aba6e74dd854.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://www.atlascloud.ai/sv/seedance-2-prompt/15)
+
+#### Description
+
+En videoscen med temat: kampsport strid scen.
+
+#### Prompt
+
+```text
+Generera en videoscen: En videoscen med temat: kampsport strid scen.
+```
+
+### No. 11: Hitchcock zoom in hiss
 
 - **Category:** `Avancerade kamerarörelser`
 - **Source:** `official`
@@ -152,114 +531,247 @@ En videoscen med temat: Hitchcock zoom in hiss.
 Generera en videoscen: En videoscen med temat: Hitchcock zoom in hiss.
 ```
 
-### No. 4: serie panel animation
+### No. 12: rytmisk dans push-pull
 
-- **Category:** `Berättelseutveckling och förlängning`
+- **Category:** `Avancerade kamerarörelser`
 - **Source:** `official`
 - **Author:** AtlasCloud
 - **Language:** `sv`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c939610e-a182-40ad-89a5-254c1515ac24.mp4)
+- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/33ffc8e5-255c-46b2-8877-ad8a9100f6d4.mp4)
 
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/c939610e-a182-40ad-89a5-254c1515ac24.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/sv/seedance-2-prompt/26)
+<video src="https://static.atlascloud.ai/uploads/seedance-2.0/33ffc8e5-255c-46b2-8877-ad8a9100f6d4.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://www.atlascloud.ai/sv/seedance-2-prompt/14)
 
 #### Description
 
-En videoscen med temat: serie panel animation.
+En videoscen med temat: rytmisk dans push-pull.
 
 #### Prompt
 
 ```text
-Generera en videoscen: En videoscen med temat: serie panel animation.
+Generera en videoscen: En videoscen med temat: rytmisk dans push-pull.
 ```
 
-### No. 5: Titanic mörk twist
+### No. 13: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure
 
-- **Category:** `Videoredigering och remix`
-- **Source:** `official`
-- **Author:** AtlasCloud
+- **Category:** `Avancerade kamerarörelser`
+- **Source:** `twitter`
+- **Author:** Min Choi (@minchoi)
 - **Language:** `sv`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/19cb9c31-9a1e-4c2e-ae17-b03f6a88c20b.mp4)
+- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/52680ae8-705d-4b26-9d49-1b573ab4f56f.mp4)
 
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/19cb9c31-9a1e-4c2e-ae17-b03f6a88c20b.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/sv/seedance-2-prompt/48)
+<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/52680ae8-705d-4b26-9d49-1b573ab4f56f.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/minchoi/status/2020878278475518152)
 
 #### Description
 
-En videoscen med temat: Titanic mörk twist.
+Generate a 1-minute cinematic war video in 5 minutes with a multi-shot structure. Realistic Middle Eastern desert village infantry combat scene.
 
 #### Prompt
 
 ```text
-Generera en videoscen: En videoscen med temat: Titanic mörk twist.
+Consistent style guideline for all shots: realistic cinematic war footage in a modern Middle Eastern desert village; dominant sandy yellow and gray-brown palette; harsh noon sunlight with hard shadows; drifting dust and gunpowder smoke; subtle handheld vibration; low-angle and ground-level framing to maximize tension and realism; modern light infantry gear without visible national identifiers; restrained, tense, and brutal atmosphere. Shot 1 : A modern infantry squad advances through narrow alleys between low adobe houses and damaged concrete walls. The camera tracks from behind at knee level, pushing forward as soldiers hug the walls and aim toward an unseen corner. Wind, distant metal clinks, and suspended dust establish dread. Shot 2 : A sudden close-quarters firefight erupts at the alley corner. Soldiers drop and press against the wall as rounds impact masonry, kicking up debris. Fast lateral camera pan with controlled shake, intermittent muzzle flashes, and silhouettes in broken windows increase claustrophobia and urgency. Shot 3 : The squad regains formation and enters a half-collapsed building. Over-shoulder follow shot into dim interior where shafts of sunlight cut through breached walls. Dust particles float in the beams; hand signals replace speech; distant gunfire echoes. Tone shifts from chaos to hyper-alert silence. Shot 4 : From a damaged rooftop, the squad secures a high vantage point over the village grid. Slow pullback in backlight, soldiers in silhouette with rifles still trained on unknown threats. Dust swirls in warm light; no clear victory or defeat. End on unresolved tension.
 ```
 
-### No. 6: mode beat drop
+### No. 14: Ground Combat Shot of Soldiers Traversing Desert Terrain
 
-- **Category:** `Musiksynkronisering`
-- **Source:** `official`
-- **Author:** AtlasCloud
+- **Category:** `Avancerade kamerarörelser`
+- **Source:** `twitter`
+- **Author:** Chetaslua (@chetaslua)
 - **Language:** `sv`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/5ae0578e-e6c8-4ff1-a03a-e19b5ac2f5c1.mp4)
+- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/0d332613-93bc-4d5e-b4f8-6cacc05871ef.mp4)
 
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/5ae0578e-e6c8-4ff1-a03a-e19b5ac2f5c1.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/sv/seedance-2-prompt/53)
+<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/0d332613-93bc-4d5e-b4f8-6cacc05871ef.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/chetaslua)
 
 #### Description
 
-En videoscen med temat: mode beat drop.
+Tense first-person perspective of military squad advancing. Showcases realistic tactical movement and environmental details.
 
 #### Prompt
 
 ```text
-Generera en videoscen: En videoscen med temat: mode beat drop.
+Ground-level war footage with documentary realism: a soldier squad advances through a desert combat zone. Keep camera low and close to boots, gear sway, weapon details, and formation changes while moving over loose sand and debris. Harsh sunlight, visible heat haze, suspended dust, and distant intermittent gunfire should shape the atmosphere. Use controlled handheld movement with shallow depth of field, foreground clarity, and slight background softening. Color palette stays sandy beige and muted brown, emphasizing tactical discipline and persistent tension.
 ```
 
-### No. 7: efter jobbet hemkomst
+### No. 15: Multi-Shot Fight Scene Generated with Only 3 Reference Images and Simple Prompt
 
-- **Category:** `Karaktärs- och scenkonsekvens`
-- **Source:** `official`
-- **Author:** AtlasCloud
+- **Category:** `Avancerade kamerarörelser`
+- **Source:** `twitter`
+- **Author:** el.cine (@EHuanglu)
 - **Language:** `sv`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d66a205c-4470-4d71-9122-2d0bf0694c9c.mp4)
+- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e287a176-2ba0-4f64-ad86-ed779cd3d8d3.mp4)
 
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d66a205c-4470-4d71-9122-2d0bf0694c9c.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/sv/seedance-2-prompt/5)
+<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e287a176-2ba0-4f64-ad86-ed779cd3d8d3.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/EHuanglu/status/2020828503810445785)
 
 #### Description
 
-En videoscen med temat: efter jobbet hemkomst.
+Intense martial arts fight between two women in modern urban environment.
 
 #### Prompt
 
 ```text
-Generera en videoscen: En videoscen med temat: efter jobbet hemkomst.
+A grounded martial arts duel between two women in a modern urban night setting. Build with clear shot variation: wide shot to establish spacing and intent, medium tracking shots for exchange tempo, close-up inserts for impact, breathing, and footwork. Include low-angle circling moves, over-shoulder counters, and quick lateral camera motions to preserve directional clarity. Movements must follow realistic weight transfer, momentum, and recovery. Use practical street lighting, neon reflections, slight wet pavement sheen, and gritty cinematic texture.
 ```
 
-### No. 8: Elegant tvätt scen
+<a id="category-4"></a>
 
-- **Category:** `Ultrarealistisk videogenerering`
+### Stilöverföring (2)
+
+### No. 1: Körsbärsblomstig i Ghibli-stil
+
+- **Category:** `Stilöverföring`
 - **Source:** `official`
-- **Author:** AtlasCloud
+- **Author:** Volcengine Ark
 - **Language:** `sv`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/b6b7f78a-f9a7-4c09-a3ac-6f0f694b1263.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/b6b7f78a-f9a7-4c09-a3ac-6f0f694b1263.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/sv/seedance-2-prompt/1)
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-En videoscen med temat: Elegant tvätt scen.
+Stila om materialet till Studio Ghibli-animation medan en flicka går längs en stig beströdd med kronblad — stilöverföring.
 
 #### Prompt
 
 ```text
-Generera en videoscen: En videoscen med temat: Elegant tvätt scen.
+Förvandla scenen till Studio Ghiblis animationsstil — en flicka går längs en stig medan körsbärsblommor singlar ner runt henne.
 ```
 
-## 📋 All Prompts
+### No. 2: Tuschmålningsbåt bland bergen
 
-<a id="category-1"></a>
+- **Category:** `Stilöverföring`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `sv`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Stila om materialet till traditionell kinesisk tuschmålning medan en ensam båt driver genom landskapet — stilöverföring.
+
+#### Prompt
+
+```text
+Förvandla scenen till kinesisk tuschmålningsstil — en liten båt driver långsamt fram mellan berg och floder.
+```
+
+<a id="category-5"></a>
+
+### Textrendering (2)
+
+### No. 1: Neonskylt "SEEDANCE" i regnet
+
+- **Category:** `Textrendering`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `sv`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Precis textrendering på skärmen — en flimrande neonskylt "SEEDANCE" på en stadsgata en regnig natt.
+
+#### Prompt
+
+```text
+En neonskylt med texten "SEEDANCE" flimrar på en stadsgata en regnig natt, och dess sken speglas i den våta gatan.
+```
+
+### No. 2: Bokomslag med guldbokstäver öppnas
+
+- **Category:** `Textrendering`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `sv`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Läsbart renderad text på ett bokomslag — "Den Artificiella Intelligensens Framtid" i guld — medan boken långsamt öppnas.
+
+#### Prompt
+
+```text
+Ett bokomslag har texten "Den Artificiella Intelligensens Framtid" i guldbokstäver medan boken långsamt öppnas.
+```
+
+<a id="category-6"></a>
+
+### Bildreferens (4)
+
+### No. 1: Referenskaraktär springer genom skogen
+
+- **Category:** `Bildreferens`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `sv`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Driv rörelsen från en referensbild — den refererade karaktären springer genom en skog med en följande kamera. Ange referensen som @image1.
+
+#### Prompt
+
+```text
+Med referens till karaktären i @image1, låt honom springa genom en skog medan kameran följer med vid sidan.
+```
+
+### No. 2: Lägg till fåglar i en referensscen
+
+- **Category:** `Bildreferens`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `sv`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Behåll en refererad scen och lägg till rörelse — en flock fåglar korsar bildrutan. Ange referensen som @image1.
+
+#### Prompt
+
+```text
+Med referens till scenen i @image1, lägg till en flock fåglar som flyger tvärs över bildrutan.
+```
+
+### No. 3: 360°-produktsnurr från referens
+
+- **Category:** `Bildreferens`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `sv`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Förvandla en produktreferens till en roterande skyltning — ett fullt varv på 360° på ett displayställ. Ange referensen som @image1.
+
+#### Prompt
+
+```text
+Med referens till produkten i @image1, låt den rotera 360 grader på ett roterande displayställ.
+```
+
+### No. 4: Referensperson vinkar naturligt
+
+- **Category:** `Bildreferens`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `sv`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Animera en refererad person — en naturlig vinkgest med ett verklighetstroget uttryck. Ange referensen som @image1.
+
+#### Prompt
+
+```text
+Med referens till personen i @image1, låt dem vinka med ett naturligt, verklighetstroget uttryck.
+```
+
+<a id="category-7"></a>
 
 ### Twitter Community (24)
 
@@ -749,7 +1261,7 @@ En presentatör talar till en publik samtidigt som en digital animation av refle
 a man giving a presentation in front of an audience, holding a microphone, with a large screen displaying two reflective spheres on a dark surface, natural light from windows, indoor setting with plants and audio equipment
 ```
 
-<a id="category-2"></a>
+<a id="category-8"></a>
 
 ### Ljud och röstsyntes (10)
 
@@ -963,284 +1475,7 @@ En videoscen med temat: Cinematic roannonstrip MV.
 Generera en videoscen: En videoscen med temat: Cinematic roannonstrip MV.
 ```
 
-<a id="category-3"></a>
-
-### Avancerade kamerarörelser (13)
-
-### No. 1: IMAX-Style Desert Sandstorm Scene with Denis Villeneuve Aesthetic
-
-- **Category:** `Avancerade kamerarörelser`
-- **Source:** `twitter`
-- **Author:** John (@johnAGI168)
-- **Language:** `sv`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/c3e4c06f-da7d-4127-ad68-7ed1656e2472.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/c3e4c06f-da7d-4127-ad68-7ed1656e2472.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/johnAGI168/status/2020989515939148146)
-
-#### Description
-
-IMAX-style desert sandstorm scene with Denis Villeneuve aesthetic. Features timestamped multi-shot structure.
-
-#### Prompt
-
-```text
-Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low saturation. Multi-shot structure. Extreme wide shot: a colossal sand wall consumes the horizon while an armored convoy races across open desert. Emphasize terrifying scale and human fragility. Cockpit POV: violent vibration inside the lead vehicle, sand blasting the windshield, red warning lights pulsing, urgent shouted commands. Climax in slow motion: lead rover launches off a dune, silhouetted against a dark storm front; lightning flickers inside the dust cloud; debris streaks past lens; hard cut to black on impact. Keep transitions clean and escalation continuous.
-```
-
-### No. 2: South Indian Cinema Alien Scene Generated from Single Prompt
-
-- **Category:** `Avancerade kamerarörelser`
-- **Source:** `twitter`
-- **Author:** rohan anil (@_arohan_)
-- **Language:** `sv`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/068af607-5e54-4331-9c25-3afc190d1a53.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/068af607-5e54-4331-9c25-3afc190d1a53.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/_arohan_/status/2021369768004161783)
-
-#### Description
-
-South Indian cinema alien scene generated from a single prompt. Demonstrates cross-cultural filmmaking capabilities.
-
-#### Prompt
-
-```text
-Create a South Indian commercial-cinema style alien invasion action scene. Visuals should feature saturated colors, dramatic backlight, stylized slow motion, and heroic framing. Open with a large-scale city plaza reveal as alien craft descend, then cut to low-angle hero entrance with wind-swept costume details. Move into multi-angle confrontation: wides for scale, mediums for combo choreography, close-ups for emotional intensity and impact peaks. Blend dust, sparks, smoke, and lens flares for high-energy theatrical presentation while keeping motion readable.
-```
-
-### No. 3: Aerial Shot of Burning Military Vehicle in Urban Warfare
-
-- **Category:** `Avancerade kamerarörelser`
-- **Source:** `twitter`
-- **Author:** Carlos Santana (@DotCSV)
-- **Language:** `sv`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/81bd1286-8024-4a62-a77a-0873d8137ae6.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/81bd1286-8024-4a62-a77a-0873d8137ae6.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/DotCSV/status/2020519499082969142)
-
-#### Description
-
-Cinematic drone footage capturing the aftermath of urban battle. Showcases Seedance 2.0's ability to generate realistic war scenes with detailed destruction effects and atmospheric rendering.
-
-#### Prompt
-
-```text
-A cinematic drone sequence over a war-torn city intersection. At the center, a destroyed armored vehicle burns continuously, emitting thick black smoke that climbs into an overcast sky. Streets are littered with rubble, twisted metal, and shattered concrete; nearby buildings show blown-out windows, scorched facades, and structural damage. Start with a high establishing aerial shot, then descend slowly into a medium-high orbit while preserving spatial scale and destruction detail. Keep color grading desaturated with documentary realism, add subtle film grain, and ensure physically believable fire, smoke turbulence, heat distortion, and airborne dust.
-```
-
-### No. 4: episk fantasy strid
-
-- **Category:** `Avancerade kamerarörelser`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `sv`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/a15ec27b-9b38-407d-aa7a-460c9ed17e7f.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/a15ec27b-9b38-407d-aa7a-460c9ed17e7f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/sv/seedance-2-prompt/16)
-
-#### Description
-
-En videoscen med temat: episk fantasy strid.
-
-#### Prompt
-
-```text
-Generera en videoscen: En videoscen med temat: episk fantasy strid.
-```
-
-### No. 5: bil reklam kinematografi
-
-- **Category:** `Avancerade kamerarörelser`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `sv`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d1fe2d82-6f01-4e04-a732-a949028a09d3.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d1fe2d82-6f01-4e04-a732-a949028a09d3.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/sv/seedance-2-prompt/17)
-
-#### Description
-
-En videoscen med temat: bil reklam kinematografi.
-
-#### Prompt
-
-```text
-Generera en videoscen: En videoscen med temat: bil reklam kinematografi.
-```
-
-### No. 6: roterande surfplatta visning
-
-- **Category:** `Avancerade kamerarörelser`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `sv`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/2f9e5701-3cbe-4855-84a8-3ba0cd72b329.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/2f9e5701-3cbe-4855-84a8-3ba0cd72b329.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/sv/seedance-2-prompt/13)
-
-#### Description
-
-En videoscen med temat: roterande surfplatta visning.
-
-#### Prompt
-
-```text
-Generera en videoscen: En videoscen med temat: roterande surfplatta visning.
-```
-
-### No. 7: komplex korridor jakt
-
-- **Category:** `Avancerade kamerarörelser`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `sv`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c1288035-fc08-4465-bee0-a1857f94c7c1.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/c1288035-fc08-4465-bee0-a1857f94c7c1.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/sv/seedance-2-prompt/12)
-
-#### Description
-
-En videoscen med temat: komplex korridor jakt.
-
-#### Prompt
-
-```text
-Generera en videoscen: En videoscen med temat: komplex korridor jakt.
-```
-
-### No. 8: kampsport strid scen
-
-- **Category:** `Avancerade kamerarörelser`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `sv`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/e62ddd7b-da6a-4b26-be8a-aba6e74dd854.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/e62ddd7b-da6a-4b26-be8a-aba6e74dd854.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/sv/seedance-2-prompt/15)
-
-#### Description
-
-En videoscen med temat: kampsport strid scen.
-
-#### Prompt
-
-```text
-Generera en videoscen: En videoscen med temat: kampsport strid scen.
-```
-
-### No. 9: Hitchcock zoom in hiss
-
-- **Category:** `Avancerade kamerarörelser`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `sv`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/4be02035-a101-4c2c-bb20-c2fe59771de9.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/4be02035-a101-4c2c-bb20-c2fe59771de9.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/sv/seedance-2-prompt/11)
-
-#### Description
-
-En videoscen med temat: Hitchcock zoom in hiss.
-
-#### Prompt
-
-```text
-Generera en videoscen: En videoscen med temat: Hitchcock zoom in hiss.
-```
-
-### No. 10: rytmisk dans push-pull
-
-- **Category:** `Avancerade kamerarörelser`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `sv`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/33ffc8e5-255c-46b2-8877-ad8a9100f6d4.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/33ffc8e5-255c-46b2-8877-ad8a9100f6d4.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/sv/seedance-2-prompt/14)
-
-#### Description
-
-En videoscen med temat: rytmisk dans push-pull.
-
-#### Prompt
-
-```text
-Generera en videoscen: En videoscen med temat: rytmisk dans push-pull.
-```
-
-### No. 11: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure
-
-- **Category:** `Avancerade kamerarörelser`
-- **Source:** `twitter`
-- **Author:** Min Choi (@minchoi)
-- **Language:** `sv`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/52680ae8-705d-4b26-9d49-1b573ab4f56f.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/52680ae8-705d-4b26-9d49-1b573ab4f56f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/minchoi/status/2020878278475518152)
-
-#### Description
-
-Generate a 1-minute cinematic war video in 5 minutes with a multi-shot structure. Realistic Middle Eastern desert village infantry combat scene.
-
-#### Prompt
-
-```text
-Consistent style guideline for all shots: realistic cinematic war footage in a modern Middle Eastern desert village; dominant sandy yellow and gray-brown palette; harsh noon sunlight with hard shadows; drifting dust and gunpowder smoke; subtle handheld vibration; low-angle and ground-level framing to maximize tension and realism; modern light infantry gear without visible national identifiers; restrained, tense, and brutal atmosphere. Shot 1 : A modern infantry squad advances through narrow alleys between low adobe houses and damaged concrete walls. The camera tracks from behind at knee level, pushing forward as soldiers hug the walls and aim toward an unseen corner. Wind, distant metal clinks, and suspended dust establish dread. Shot 2 : A sudden close-quarters firefight erupts at the alley corner. Soldiers drop and press against the wall as rounds impact masonry, kicking up debris. Fast lateral camera pan with controlled shake, intermittent muzzle flashes, and silhouettes in broken windows increase claustrophobia and urgency. Shot 3 : The squad regains formation and enters a half-collapsed building. Over-shoulder follow shot into dim interior where shafts of sunlight cut through breached walls. Dust particles float in the beams; hand signals replace speech; distant gunfire echoes. Tone shifts from chaos to hyper-alert silence. Shot 4 : From a damaged rooftop, the squad secures a high vantage point over the village grid. Slow pullback in backlight, soldiers in silhouette with rifles still trained on unknown threats. Dust swirls in warm light; no clear victory or defeat. End on unresolved tension.
-```
-
-### No. 12: Ground Combat Shot of Soldiers Traversing Desert Terrain
-
-- **Category:** `Avancerade kamerarörelser`
-- **Source:** `twitter`
-- **Author:** Chetaslua (@chetaslua)
-- **Language:** `sv`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/0d332613-93bc-4d5e-b4f8-6cacc05871ef.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/0d332613-93bc-4d5e-b4f8-6cacc05871ef.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/chetaslua)
-
-#### Description
-
-Tense first-person perspective of military squad advancing. Showcases realistic tactical movement and environmental details.
-
-#### Prompt
-
-```text
-Ground-level war footage with documentary realism: a soldier squad advances through a desert combat zone. Keep camera low and close to boots, gear sway, weapon details, and formation changes while moving over loose sand and debris. Harsh sunlight, visible heat haze, suspended dust, and distant intermittent gunfire should shape the atmosphere. Use controlled handheld movement with shallow depth of field, foreground clarity, and slight background softening. Color palette stays sandy beige and muted brown, emphasizing tactical discipline and persistent tension.
-```
-
-### No. 13: Multi-Shot Fight Scene Generated with Only 3 Reference Images and Simple Prompt
-
-- **Category:** `Avancerade kamerarörelser`
-- **Source:** `twitter`
-- **Author:** el.cine (@EHuanglu)
-- **Language:** `sv`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e287a176-2ba0-4f64-ad86-ed779cd3d8d3.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e287a176-2ba0-4f64-ad86-ed779cd3d8d3.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/EHuanglu/status/2020828503810445785)
-
-#### Description
-
-Intense martial arts fight between two women in modern urban environment.
-
-#### Prompt
-
-```text
-A grounded martial arts duel between two women in a modern urban night setting. Build with clear shot variation: wide shot to establish spacing and intent, medium tracking shots for exchange tempo, close-up inserts for impact, breathing, and footwork. Include low-angle circling moves, over-shoulder counters, and quick lateral camera motions to preserve directional clarity. Movements must follow realistic weight transfer, momentum, and recovery. Use practical street lighting, neon reflections, slight wet pavement sheen, and gritty cinematic texture.
-```
-
-<a id="category-4"></a>
+<a id="category-9"></a>
 
 ### Videoredigering och remix (5)
 
@@ -1349,7 +1584,7 @@ En videoscen med temat: haj photobomb.
 Generera en videoscen: En videoscen med temat: haj photobomb.
 ```
 
-<a id="category-5"></a>
+<a id="category-10"></a>
 
 ### Karaktärs- och scenkonsekvens (6)
 
@@ -1479,7 +1714,7 @@ En videoscen med temat: magnetisk Bow produkt visning.
 Generera en videoscen: En videoscen med temat: magnetisk Bow produkt visning.
 ```
 
-<a id="category-6"></a>
+<a id="category-11"></a>
 
 ### Kreativa visuella effekter (11)
 
@@ -1714,7 +1949,7 @@ En videoscen med temat: tusch tai chi.
 Generera en videoscen: En videoscen med temat: tusch tai chi.
 ```
 
-<a id="category-7"></a>
+<a id="category-12"></a>
 
 ### Ultrarealistisk videogenerering (5)
 
@@ -1823,7 +2058,7 @@ En videoscen med temat: Elegant tvätt scen.
 Generera en videoscen: En videoscen med temat: Elegant tvätt scen.
 ```
 
-<a id="category-8"></a>
+<a id="category-13"></a>
 
 ### Emotionell gestaltning (3)
 
@@ -1890,7 +2125,7 @@ En videoscen med temat: spegel sammanbrott.
 Generera en videoscen: En videoscen med temat: spegel sammanbrott.
 ```
 
-<a id="category-9"></a>
+<a id="category-14"></a>
 
 ### Berättelseutveckling och förlängning (8)
 
@@ -2062,7 +2297,7 @@ En videoscen med temat: barndom årstider dokumentär.
 Generera en videoscen: En videoscen med temat: barndom årstider dokumentär.
 ```
 
-<a id="category-10"></a>
+<a id="category-15"></a>
 
 ### Musiksynkronisering (4)
 
@@ -2150,7 +2385,7 @@ En videoscen med temat: landskap övergång musik video.
 Generera en videoscen: En videoscen med temat: landskap övergång musik video.
 ```
 
-<a id="category-11"></a>
+<a id="category-16"></a>
 
 ### One-take-kinematografi (5)
 
@@ -2280,4 +2515,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-07-08T14:08:12.409Z
+> This README is auto-generated. 2026-07-20T17:21:54.971Z

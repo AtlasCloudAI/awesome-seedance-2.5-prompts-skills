@@ -4,7 +4,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedance-2.5-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-94%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-107%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 > A curated collection of Seedance 2.5 video prompts — each with real previews via Atlas Cloud. 30s native clips · 50 multimodal references · flexible region editing. Cinematic, anime, UGC, ads, meme & more.
 
@@ -68,198 +68,438 @@ Seedance 2.5 is a major upgrade to Seedance 2.0 with three big gains: 30-second 
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **94** |
-| Categories | **11** |
+| Total Prompts | **107** |
+| Categories | **17** |
 | Preview Videos | **88** |
-| Last Updated | **2026-07-08T14:08:12.397Z** |
+| Last Updated | **2026-07-20T17:21:54.956Z** |
 
 ## 🏷️ Browse by Category
 
-- [`Twitter Community`](#category-1): **24**
-- [`เสียงและการสังเคราะห์เสียงพูด`](#category-2): **10**
-- [`การเคลื่อนไหวกล้องขั้นสูง`](#category-3): **13**
-- [`การตัดต่อและรีมิกซ์วิดีโอ`](#category-4): **5**
-- [`ความสม่ำเสมอของตัวละครและฉาก`](#category-5): **6**
-- [`เอฟเฟกต์ภาพสร้างสรรค์`](#category-6): **11**
-- [`การสร้างวิดีโอสมจริงขั้นสูง`](#category-7): **5**
-- [`การแสดงอารมณ์`](#category-8): **3**
-- [`การพัฒนาและต่อยอดเรื่องราว`](#category-9): **8**
-- [`การซิงก์ดนตรี`](#category-10): **4**
-- [`ภาพยนตร์เทคเดียว`](#category-11): **5**
+- [`การเล่าเรื่องแบบหลายช็อต`](#category-1): **2**
+- [`การถ่ายภาพแบบเทกเดียว`](#category-2): **1**
+- [`การเคลื่อนกล้องขั้นสูง`](#category-3): **2**
+- [`การถ่ายโอนสไตล์`](#category-4): **2**
+- [`การเรนเดอร์ข้อความ`](#category-5): **2**
+- [`การอ้างอิงภาพ`](#category-6): **4**
+- [`Twitter Community`](#category-7): **24**
+- [`เสียงและการสังเคราะห์เสียงพูด`](#category-8): **10**
+- [`การเคลื่อนไหวกล้องขั้นสูง`](#category-9): **13**
+- [`การตัดต่อและรีมิกซ์วิดีโอ`](#category-10): **5**
+- [`ความสม่ำเสมอของตัวละครและฉาก`](#category-11): **6**
+- [`เอฟเฟกต์ภาพสร้างสรรค์`](#category-12): **11**
+- [`การสร้างวิดีโอสมจริงขั้นสูง`](#category-13): **5**
+- [`การแสดงอารมณ์`](#category-14): **3**
+- [`การพัฒนาและต่อยอดเรื่องราว`](#category-15): **8**
+- [`การซิงก์ดนตรี`](#category-16): **4**
+- [`ภาพยนตร์เทคเดียว`](#category-17): **5**
 
 ## 🔥 Featured Prompts
 
-### No. 1: ฟิชอาย ม้า คอมเมดี้
+### No. 1: วิ่งริมทะเล — เรื่องราวสามช็อต
 
-- **Category:** `เสียงและการสังเคราะห์เสียงพูด`
+- **Category:** `การเล่าเรื่องแบบหลายช็อต`
 - **Source:** `official`
-- **Author:** AtlasCloud
+- **Author:** Volcengine Ark
 - **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/26d450cd-23c4-499e-9fd6-1752dabbc8bd.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/26d450cd-23c4-499e-9fd6-1752dabbc8bd.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/33)
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-ฉากวิดีโอในธีม: ฟิชอาย ม้า คอมเมดี้
+ลำดับภาพริมทะเลสามช็อต — โคลสอัพแบบแทร็ก การหันเข้าหากล้อง และภาพกว้างแบบฟรีซเฟรม — แสดงการเล่าเรื่องแบบหลายช็อตที่ต่อเนื่องด้วยตัวแบบเดียวกัน
 
 #### Prompt
 
 ```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: ฟิชอาย ม้า คอมเมดี้
+[ช็อต 1] โคลสอัพ เด็กสาววิ่งไปตามชายหาด กล้องแทร็กตามจังหวะก้าวเท้าของเธอ [ช็อต 2] มีเดียมช็อต เธอหยุด หันหน้าเข้าหากล้องและยิ้ม [ช็อต 3] ภาพกว้าง เธอกางแขนออกสู่ท้องทะเลขณะที่ภาพหยุดนิ่ง
 ```
 
-### No. 2: VR แว่น จักรวาล การเดินทาง
+### No. 2: ลาเต้ของบาริสต้า — เทกเดียวต่อเนื่อง
 
-- **Category:** `เอฟเฟกต์ภาพสร้างสรรค์`
+- **Category:** `การถ่ายภาพแบบเทกเดียว`
 - **Source:** `official`
-- **Author:** AtlasCloud
+- **Author:** Volcengine Ark
 - **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/dddb1fb2-d73a-4b6a-a2bf-bf416be652c6.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/dddb1fb2-d73a-4b6a-a2bf-bf416be652c6.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/18)
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-ฉากวิดีโอในธีม: VR แว่น จักรวาล การเดินทาง
+เทกเดียวไม่ตัดต่อ ติดตามบาริสต้าตั้งแต่บดเมล็ดกาแฟจนถึงลาเต้อาร์ตขั้นสุดท้าย นำเสนอการถ่ายภาพแบบเทกเดียว 30 วินาที
 
 #### Prompt
 
 ```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: VR แว่น จักรวาล การเดินทาง
+บาริสต้าชงลาเต้ในร้านกาแฟ — ตั้งแต่บดเมล็ดกาแฟ สกัดเอสเพรสโซ สตีมนม จนถึงเทลาเต้อาร์ตขั้นสุดท้าย ทั้งหมดในเทกเดียวต่อเนื่อง
 ```
 
-### No. 3: ฮิตช์ค็อก ซูม in ลิฟต์
+### No. 3: ออร์บิต 360° รอบนักปีนยอดเขา
 
-- **Category:** `การเคลื่อนไหวกล้องขั้นสูง`
+- **Category:** `การเคลื่อนกล้องขั้นสูง`
 - **Source:** `official`
-- **Author:** AtlasCloud
+- **Author:** Volcengine Ark
 - **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/4be02035-a101-4c2c-bb20-c2fe59771de9.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/4be02035-a101-4c2c-bb20-c2fe59771de9.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/11)
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-ฉากวิดีโอในธีม: ฮิตช์ค็อก ซูม in ลิฟต์
+การเคลื่อนกล้องออร์บิตรอบ 360 องศารอบนักปีนเขาบนยอดเขา เผยให้เห็นภาพพาโนรามาของภูเขาหิมะ — การควบคุมการเคลื่อนกล้องอย่างแม่นยำ
 
 #### Prompt
 
 ```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: ฮิตช์ค็อก ซูม in ลิฟต์
+กล้องโคจรรอบ 360 องศารอบนักปีนเขาที่ยืนอยู่บนยอดเขา เผยให้เห็นภาพพาโนรามาอันงดงามของยอดเขาที่ปกคลุมด้วยหิมะ
 ```
 
-### No. 4: คอมิก ช่องภาพ แอนิเมชัน
+### No. 4: ดึงกล้องถอยเร็ว — จากดอกไม้สู่ทะเลดอกไม้
 
-- **Category:** `การพัฒนาและต่อยอดเรื่องราว`
+- **Category:** `การเคลื่อนกล้องขั้นสูง`
 - **Source:** `official`
-- **Author:** AtlasCloud
+- **Author:** Volcengine Ark
 - **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c939610e-a182-40ad-89a5-254c1515ac24.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/c939610e-a182-40ad-89a5-254c1515ac24.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/26)
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-ฉากวิดีโอในธีม: คอมิก ช่องภาพ แอนิเมชัน
+ดอลลี่ถอยอย่างรวดเร็วจากดอกไม้ดอกเดียวสู่ทุ่งดอกไม้กว้างใหญ่ แล้วหยุดที่ยอดเขาไกล — การควบคุมการเคลื่อนกล้องแบบไดนามิก
 
 #### Prompt
 
 ```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: คอมิก ช่องภาพ แอนิเมชัน
+กล้องดึงถอยอย่างรวดเร็วจากภาพโคลสอัพของดอกไม้ดอกเดียว เผยให้เห็นทะเลดอกไม้ทั้งผืน แล้วหยุดนิ่งที่ภูเขาหิมะไกลลิบ
 ```
 
-### No. 5: ไททานิก มืดหม่น หักมุม
+### No. 5: เส้นทางซากุระสไตล์จิบลิ
 
-- **Category:** `การตัดต่อและรีมิกซ์วิดีโอ`
+- **Category:** `การถ่ายโอนสไตล์`
 - **Source:** `official`
-- **Author:** AtlasCloud
+- **Author:** Volcengine Ark
 - **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/19cb9c31-9a1e-4c2e-ae17-b03f6a88c20b.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/19cb9c31-9a1e-4c2e-ae17-b03f6a88c20b.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/48)
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-ฉากวิดีโอในธีม: ไททานิก มืดหม่น หักมุม
+เปลี่ยนสไตล์ภาพให้เป็นแอนิเมชันสตูดิโอจิบลิ ขณะเด็กสาวเดินไปตามทางที่ปูด้วยกลีบดอกไม้ — การถ่ายโอนสไตล์
 
 #### Prompt
 
 ```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: ไททานิก มืดหม่น หักมุม
+แปลงฉากให้เป็นสไตล์แอนิเมชันสตูดิโอจิบลิ — เด็กสาวเดินไปตามทางขณะที่กลีบซากุระร่วงโปรยลงมารอบตัวเธอ
 ```
 
-### No. 6: แฟชั่น ดรอปบีต
+### No. 6: เรือน้อยในภาพหมึกจีนกลางขุนเขา
 
-- **Category:** `การซิงก์ดนตรี`
+- **Category:** `การถ่ายโอนสไตล์`
 - **Source:** `official`
-- **Author:** AtlasCloud
+- **Author:** Volcengine Ark
 - **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/5ae0578e-e6c8-4ff1-a03a-e19b5ac2f5c1.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/5ae0578e-e6c8-4ff1-a03a-e19b5ac2f5c1.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/53)
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-ฉากวิดีโอในธีม: แฟชั่น ดรอปบีต
+เปลี่ยนสไตล์ภาพให้เป็นภาพวาดหมึกจีนดั้งเดิม ขณะเรือลำเดียวล่องผ่านภูมิทัศน์ — การถ่ายโอนสไตล์
 
 #### Prompt
 
 ```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: แฟชั่น ดรอปบีต
+แปลงฉากให้เป็นสไตล์ภาพวาดหมึกจีน — เรือลำเล็กล่องช้าๆ ผ่านขุนเขาและสายน้ำ
 ```
 
-### No. 7: หลังเลิกงาน กลับบ้าน
+### No. 7: ป้ายนีออน "SEEDANCE" ในสายฝน
 
-- **Category:** `ความสม่ำเสมอของตัวละครและฉาก`
+- **Category:** `การเรนเดอร์ข้อความ`
 - **Source:** `official`
-- **Author:** AtlasCloud
+- **Author:** Volcengine Ark
 - **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d66a205c-4470-4d71-9122-2d0bf0694c9c.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d66a205c-4470-4d71-9122-2d0bf0694c9c.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/5)
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-ฉากวิดีโอในธีม: หลังเลิกงาน กลับบ้าน
+การเรนเดอร์ข้อความบนจออย่างแม่นยำ — ป้ายนีออน "SEEDANCE" กะพริบบนถนนในเมืองยามค่ำคืนที่ฝนตก
 
 #### Prompt
 
 ```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: หลังเลิกงาน กลับบ้าน
+ป้ายนีออนที่เขียนว่า "SEEDANCE" กะพริบอยู่บนถนนในเมืองในคืนฝนตก แสงของมันสะท้อนบนพื้นถนนเปียก
 ```
 
-### No. 8: สง่างาม ซักผ้า ฉาก
+### No. 8: ปกหนังสือตัวอักษรทองค่อยๆ เปิดออก
 
-- **Category:** `การสร้างวิดีโอสมจริงขั้นสูง`
+- **Category:** `การเรนเดอร์ข้อความ`
 - **Source:** `official`
-- **Author:** AtlasCloud
+- **Author:** Volcengine Ark
 - **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/b6b7f78a-f9a7-4c09-a3ac-6f0f694b1263.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/b6b7f78a-f9a7-4c09-a3ac-6f0f694b1263.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/1)
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-ฉากวิดีโอในธีม: สง่างาม ซักผ้า ฉาก
+ข้อความที่เรนเดอร์อ่านออกได้ชัดเจนบนปกหนังสือ — "อนาคตของปัญญาประดิษฐ์" เป็นสีทอง — ขณะที่หนังสือค่อยๆ เปิดออก
 
 #### Prompt
 
 ```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: สง่างาม ซักผ้า ฉาก
+ปกหนังสือเขียนว่า "อนาคตของปัญญาประดิษฐ์" ด้วยตัวอักษรสีทอง ขณะที่หนังสือค่อยๆ เปิดออก
 ```
 
 ## 📋 All Prompts
 
 <a id="category-1"></a>
+
+### การเล่าเรื่องแบบหลายช็อต (2)
+
+### No. 1: วิ่งริมทะเล — เรื่องราวสามช็อต
+
+- **Category:** `การเล่าเรื่องแบบหลายช็อต`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `th`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+ลำดับภาพริมทะเลสามช็อต — โคลสอัพแบบแทร็ก การหันเข้าหากล้อง และภาพกว้างแบบฟรีซเฟรม — แสดงการเล่าเรื่องแบบหลายช็อตที่ต่อเนื่องด้วยตัวแบบเดียวกัน
+
+#### Prompt
+
+```text
+[ช็อต 1] โคลสอัพ เด็กสาววิ่งไปตามชายหาด กล้องแทร็กตามจังหวะก้าวเท้าของเธอ [ช็อต 2] มีเดียมช็อต เธอหยุด หันหน้าเข้าหากล้องและยิ้ม [ช็อต 3] ภาพกว้าง เธอกางแขนออกสู่ท้องทะเลขณะที่ภาพหยุดนิ่ง
+```
+
+### No. 2: นักบินอวกาศบนดวงจันทร์ — สามช็อต
+
+- **Category:** `การเล่าเรื่องแบบหลายช็อต`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `th`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+ลำดับภาพบนดวงจันทร์สามช็อต — จ้องมองโลก เดินไปยังยานลงจอด และทะยานขึ้น — การเล่าเรื่องแบบหลายช็อตด้วยตัวแบบเดียวกัน
+
+#### Prompt
+
+```text
+[ช็อต 1] นักบินอวกาศยืนอยู่บนพื้นผิวดวงจันทร์ จ้องมองโลก [ช็อต 2] นักบินอวกาศหันตัวและเดินไปยังยานลงจอดบนดวงจันทร์ [ช็อต 3] ยานลงจอดทะยานขึ้น พัดฝุ่นดวงจันทร์ฟุ้งกระจาย
+```
+
+<a id="category-2"></a>
+
+### การถ่ายภาพแบบเทกเดียว (1)
+
+### No. 1: ลาเต้ของบาริสต้า — เทกเดียวต่อเนื่อง
+
+- **Category:** `การถ่ายภาพแบบเทกเดียว`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `th`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+เทกเดียวไม่ตัดต่อ ติดตามบาริสต้าตั้งแต่บดเมล็ดกาแฟจนถึงลาเต้อาร์ตขั้นสุดท้าย นำเสนอการถ่ายภาพแบบเทกเดียว 30 วินาที
+
+#### Prompt
+
+```text
+บาริสต้าชงลาเต้ในร้านกาแฟ — ตั้งแต่บดเมล็ดกาแฟ สกัดเอสเพรสโซ สตีมนม จนถึงเทลาเต้อาร์ตขั้นสุดท้าย ทั้งหมดในเทกเดียวต่อเนื่อง
+```
+
+<a id="category-3"></a>
+
+### การเคลื่อนกล้องขั้นสูง (2)
+
+### No. 1: ออร์บิต 360° รอบนักปีนยอดเขา
+
+- **Category:** `การเคลื่อนกล้องขั้นสูง`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `th`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+การเคลื่อนกล้องออร์บิตรอบ 360 องศารอบนักปีนเขาบนยอดเขา เผยให้เห็นภาพพาโนรามาของภูเขาหิมะ — การควบคุมการเคลื่อนกล้องอย่างแม่นยำ
+
+#### Prompt
+
+```text
+กล้องโคจรรอบ 360 องศารอบนักปีนเขาที่ยืนอยู่บนยอดเขา เผยให้เห็นภาพพาโนรามาอันงดงามของยอดเขาที่ปกคลุมด้วยหิมะ
+```
+
+### No. 2: ดึงกล้องถอยเร็ว — จากดอกไม้สู่ทะเลดอกไม้
+
+- **Category:** `การเคลื่อนกล้องขั้นสูง`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `th`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+ดอลลี่ถอยอย่างรวดเร็วจากดอกไม้ดอกเดียวสู่ทุ่งดอกไม้กว้างใหญ่ แล้วหยุดที่ยอดเขาไกล — การควบคุมการเคลื่อนกล้องแบบไดนามิก
+
+#### Prompt
+
+```text
+กล้องดึงถอยอย่างรวดเร็วจากภาพโคลสอัพของดอกไม้ดอกเดียว เผยให้เห็นทะเลดอกไม้ทั้งผืน แล้วหยุดนิ่งที่ภูเขาหิมะไกลลิบ
+```
+
+<a id="category-4"></a>
+
+### การถ่ายโอนสไตล์ (2)
+
+### No. 1: เส้นทางซากุระสไตล์จิบลิ
+
+- **Category:** `การถ่ายโอนสไตล์`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `th`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+เปลี่ยนสไตล์ภาพให้เป็นแอนิเมชันสตูดิโอจิบลิ ขณะเด็กสาวเดินไปตามทางที่ปูด้วยกลีบดอกไม้ — การถ่ายโอนสไตล์
+
+#### Prompt
+
+```text
+แปลงฉากให้เป็นสไตล์แอนิเมชันสตูดิโอจิบลิ — เด็กสาวเดินไปตามทางขณะที่กลีบซากุระร่วงโปรยลงมารอบตัวเธอ
+```
+
+### No. 2: เรือน้อยในภาพหมึกจีนกลางขุนเขา
+
+- **Category:** `การถ่ายโอนสไตล์`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `th`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+เปลี่ยนสไตล์ภาพให้เป็นภาพวาดหมึกจีนดั้งเดิม ขณะเรือลำเดียวล่องผ่านภูมิทัศน์ — การถ่ายโอนสไตล์
+
+#### Prompt
+
+```text
+แปลงฉากให้เป็นสไตล์ภาพวาดหมึกจีน — เรือลำเล็กล่องช้าๆ ผ่านขุนเขาและสายน้ำ
+```
+
+<a id="category-5"></a>
+
+### การเรนเดอร์ข้อความ (2)
+
+### No. 1: ป้ายนีออน "SEEDANCE" ในสายฝน
+
+- **Category:** `การเรนเดอร์ข้อความ`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `th`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+การเรนเดอร์ข้อความบนจออย่างแม่นยำ — ป้ายนีออน "SEEDANCE" กะพริบบนถนนในเมืองยามค่ำคืนที่ฝนตก
+
+#### Prompt
+
+```text
+ป้ายนีออนที่เขียนว่า "SEEDANCE" กะพริบอยู่บนถนนในเมืองในคืนฝนตก แสงของมันสะท้อนบนพื้นถนนเปียก
+```
+
+### No. 2: ปกหนังสือตัวอักษรทองค่อยๆ เปิดออก
+
+- **Category:** `การเรนเดอร์ข้อความ`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `th`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+ข้อความที่เรนเดอร์อ่านออกได้ชัดเจนบนปกหนังสือ — "อนาคตของปัญญาประดิษฐ์" เป็นสีทอง — ขณะที่หนังสือค่อยๆ เปิดออก
+
+#### Prompt
+
+```text
+ปกหนังสือเขียนว่า "อนาคตของปัญญาประดิษฐ์" ด้วยตัวอักษรสีทอง ขณะที่หนังสือค่อยๆ เปิดออก
+```
+
+<a id="category-6"></a>
+
+### การอ้างอิงภาพ (4)
+
+### No. 1: ตัวละครอ้างอิงวิ่งผ่านป่า
+
+- **Category:** `การอ้างอิงภาพ`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `th`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+ขับเคลื่อนการเคลื่อนไหวจากภาพอ้างอิง — ตัวละครที่อ้างอิงวิ่งผ่านป่าโดยมีกล้องแทร็กตาม ระบุภาพอ้างอิงเป็น @image1
+
+#### Prompt
+
+```text
+อ้างอิงตัวละครใน @image1 ให้เขาวิ่งผ่านป่าโดยมีกล้องแทร็กตามไปข้างๆ
+```
+
+### No. 2: เพิ่มฝูงนกลงในฉากอ้างอิง
+
+- **Category:** `การอ้างอิงภาพ`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `th`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+คงฉากที่อ้างอิงไว้และเพิ่มการเคลื่อนไหว — ฝูงนกบินตัดผ่านเฟรม ระบุภาพอ้างอิงเป็น @image1
+
+#### Prompt
+
+```text
+อ้างอิงฉากใน @image1 เพิ่มฝูงนกบินตัดผ่านเฟรม
+```
+
+### No. 3: หมุนสินค้า 360° จากภาพอ้างอิง
+
+- **Category:** `การอ้างอิงภาพ`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `th`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+เปลี่ยนภาพอ้างอิงสินค้าให้เป็นการโชว์แบบหมุน — หมุน 360° เต็มรอบบนแท่นแสดง ระบุภาพอ้างอิงเป็น @image1
+
+#### Prompt
+
+```text
+อ้างอิงสินค้าใน @image1 ทำให้มันหมุน 360 องศาบนแท่นแสดงที่หมุนได้
+```
+
+### No. 4: บุคคลอ้างอิงโบกมืออย่างเป็นธรรมชาติ
+
+- **Category:** `การอ้างอิงภาพ`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `th`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+ทำให้บุคคลที่อ้างอิงเคลื่อนไหว — ท่าโบกมืออย่างเป็นธรรมชาติพร้อมสีหน้าที่สมจริง ระบุภาพอ้างอิงเป็น @image1
+
+#### Prompt
+
+```text
+อ้างอิงบุคคลใน @image1 ให้เขาโบกมือด้วยสีหน้าที่เป็นธรรมชาติและสมจริง
+```
+
+<a id="category-7"></a>
 
 ### Twitter Community (24)
 
@@ -749,7 +989,7 @@ first person view of a diver on a boat, high five with another diver, clear blue
 a man giving a presentation in front of an audience, holding a microphone, with a large screen displaying two reflective spheres on a dark surface, natural light from windows, indoor setting with plants and audio equipment
 ```
 
-<a id="category-2"></a>
+<a id="category-8"></a>
 
 ### เสียงและการสังเคราะห์เสียงพูด (10)
 
@@ -963,7 +1203,7 @@ a man giving a presentation in front of an audience, holding a microphone, with 
 สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: Cinematic โร้ดทริป MV
 ```
 
-<a id="category-3"></a>
+<a id="category-9"></a>
 
 ### การเคลื่อนไหวกล้องขั้นสูง (13)
 
@@ -1240,7 +1480,7 @@ Intense martial arts fight between two women in modern urban environment.
 A grounded martial arts duel between two women in a modern urban night setting. Build with clear shot variation: wide shot to establish spacing and intent, medium tracking shots for exchange tempo, close-up inserts for impact, breathing, and footwork. Include low-angle circling moves, over-shoulder counters, and quick lateral camera motions to preserve directional clarity. Movements must follow realistic weight transfer, momentum, and recovery. Use practical street lighting, neon reflections, slight wet pavement sheen, and gritty cinematic texture.
 ```
 
-<a id="category-4"></a>
+<a id="category-10"></a>
 
 ### การตัดต่อและรีมิกซ์วิดีโอ (5)
 
@@ -1349,7 +1589,7 @@ A grounded martial arts duel between two women in a modern urban night setting. 
 สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: ฉลาม โฟโตบอมบ์
 ```
 
-<a id="category-5"></a>
+<a id="category-11"></a>
 
 ### ความสม่ำเสมอของตัวละครและฉาก (6)
 
@@ -1479,7 +1719,7 @@ A grounded martial arts duel between two women in a modern urban night setting. 
 สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: แม่เหล็ก Bow สินค้า โชว์เคส
 ```
 
-<a id="category-6"></a>
+<a id="category-12"></a>
 
 ### เอฟเฟกต์ภาพสร้างสรรค์ (11)
 
@@ -1714,7 +1954,7 @@ Produce a premium anime battle sequence inspired by One Punch Man energy and sta
 สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: หมึกจีน ไทเก๊ก
 ```
 
-<a id="category-7"></a>
+<a id="category-13"></a>
 
 ### การสร้างวิดีโอสมจริงขั้นสูง (5)
 
@@ -1823,7 +2063,7 @@ Photorealistic medium close shot of Will Smith eating spaghetti at a white kitch
 สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: สง่างาม ซักผ้า ฉาก
 ```
 
-<a id="category-8"></a>
+<a id="category-14"></a>
 
 ### การแสดงอารมณ์ (3)
 
@@ -1890,7 +2130,7 @@ Photorealistic medium close shot of Will Smith eating spaghetti at a white kitch
 สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: กระจก แตกสลาย
 ```
 
-<a id="category-9"></a>
+<a id="category-15"></a>
 
 ### การพัฒนาและต่อยอดเรื่องราว (8)
 
@@ -2062,7 +2302,7 @@ Create a high-pressure disaster-action sequence: during turbulent flight, a woma
 สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: วัยเด็ก ฤดูกาล สารคดี
 ```
 
-<a id="category-10"></a>
+<a id="category-16"></a>
 
 ### การซิงก์ดนตรี (4)
 
@@ -2150,7 +2390,7 @@ Create a high-pressure disaster-action sequence: during turbulent flight, a woma
 สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: ภูมิทัศน์ ทรานซิชัน ดนตรี วิดีโอ
 ```
 
-<a id="category-11"></a>
+<a id="category-17"></a>
 
 ### ภาพยนตร์เทคเดียว (5)
 
@@ -2280,4 +2520,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-07-08T14:08:12.397Z
+> This README is auto-generated. 2026-07-20T17:21:54.956Z

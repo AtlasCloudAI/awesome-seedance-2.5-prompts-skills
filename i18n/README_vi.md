@@ -4,7 +4,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedance-2.5-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-94%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-107%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 > A curated collection of Seedance 2.5 video prompts — each with real previews via Atlas Cloud. 30s native clips · 50 multimodal references · flexible region editing. Cinematic, anime, UGC, ads, meme & more.
 
@@ -68,198 +68,438 @@ Seedance 2.5 is a major upgrade to Seedance 2.0 with three big gains: 30-second 
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **94** |
-| Categories | **11** |
+| Total Prompts | **107** |
+| Categories | **17** |
 | Preview Videos | **88** |
-| Last Updated | **2026-07-08T14:08:12.398Z** |
+| Last Updated | **2026-07-20T17:21:54.957Z** |
 
 ## 🏷️ Browse by Category
 
-- [`Twitter Community`](#category-1): **24**
-- [`Âm thanh & tổng hợp giọng nói`](#category-2): **10**
-- [`Chuyển động camera nâng cao`](#category-3): **13**
-- [`Chỉnh sửa & remix video`](#category-4): **5**
-- [`Nhất quán nhân vật & bối cảnh`](#category-5): **6**
-- [`Hiệu ứng hình ảnh sáng tạo`](#category-6): **11**
-- [`Tạo video siêu chân thực`](#category-7): **5**
-- [`Biểu đạt cảm xúc`](#category-8): **3**
-- [`Phát triển & mở rộng câu chuyện`](#category-9): **8**
-- [`Đồng bộ âm nhạc`](#category-10): **4**
-- [`Điện ảnh one-take`](#category-11): **5**
+- [`Tường thuật đa cảnh quay`](#category-1): **2**
+- [`Quay một cú máy liền mạch`](#category-2): **1**
+- [`Chuyển động máy quay nâng cao`](#category-3): **2**
+- [`Chuyển đổi phong cách`](#category-4): **2**
+- [`Kết xuất văn bản`](#category-5): **2**
+- [`Tham chiếu hình ảnh`](#category-6): **4**
+- [`Twitter Community`](#category-7): **24**
+- [`Âm thanh & tổng hợp giọng nói`](#category-8): **10**
+- [`Chuyển động camera nâng cao`](#category-9): **13**
+- [`Chỉnh sửa & remix video`](#category-10): **5**
+- [`Nhất quán nhân vật & bối cảnh`](#category-11): **6**
+- [`Hiệu ứng hình ảnh sáng tạo`](#category-12): **11**
+- [`Tạo video siêu chân thực`](#category-13): **5**
+- [`Biểu đạt cảm xúc`](#category-14): **3**
+- [`Phát triển & mở rộng câu chuyện`](#category-15): **8**
+- [`Đồng bộ âm nhạc`](#category-16): **4**
+- [`Điện ảnh one-take`](#category-17): **5**
 
 ## 🔥 Featured Prompts
 
-### No. 1: Hài ngựa góc mắt cá
+### No. 1: Chạy bên bờ biển — Câu chuyện ba cảnh
 
-- **Category:** `Âm thanh & tổng hợp giọng nói`
+- **Category:** `Tường thuật đa cảnh quay`
 - **Source:** `official`
-- **Author:** AtlasCloud
+- **Author:** Volcengine Ark
 - **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/26d450cd-23c4-499e-9fd6-1752dabbc8bd.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/26d450cd-23c4-499e-9fd6-1752dabbc8bd.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/33)
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-Nhân vật động vật với hội thoại và hiệu ứng âm thanh đồng bộ qua ống kính mắt cá.
+Chuỗi ba cảnh bên bờ biển — cận cảnh bám theo, quay mặt vào máy quay, và toàn cảnh đóng băng khung hình — thể hiện lối tường thuật đa cảnh mạch lạc với một chủ thể nhất quán.
 
 #### Prompt
 
 ```text
-Tạo cảnh video: Nhân vật động vật với hội thoại và hiệu ứng âm thanh đồng bộ qua ống kính mắt cá.
+[Cảnh 1] Cận cảnh, một cô gái chạy dọc bờ biển, máy quay bám theo từng bước chân cô. [Cảnh 2] Trung cảnh, cô dừng lại, quay mặt vào máy quay và mỉm cười. [Cảnh 3] Toàn cảnh, cô dang rộng hai tay hướng ra biển khi khung hình đóng băng.
 ```
 
-### No. 2: Hành trình vũ trụ với kính VR
+### No. 2: Ly latte của barista — Một cú máy liền mạch
 
-- **Category:** `Hiệu ứng hình ảnh sáng tạo`
+- **Category:** `Quay một cú máy liền mạch`
 - **Source:** `official`
-- **Author:** AtlasCloud
+- **Author:** Volcengine Ark
 - **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/dddb1fb2-d73a-4b6a-a2bf-bf416be652c6.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/dddb1fb2-d73a-4b6a-a2bf-bf416be652c6.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/18)
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-Chuyển POV nhập vai từ thế giới thực qua giao diện VR tới nhiều không gian số.
+Một cú máy liền mạch không ngắt, dõi theo barista từ lúc xay hạt đến nghệ thuật latte cuối cùng, phô diễn lối quay một cú máy 30 giây.
 
 #### Prompt
 
 ```text
-Tạo cảnh video: Chuyển POV nhập vai từ thế giới thực qua giao diện VR tới nhiều không gian số.
+Một barista pha latte trong quán cà phê — từ xay hạt cà phê, chiết xuất espresso, đánh sữa, đến rót tạo hình latte cuối cùng — tất cả trong một cú máy liền mạch.
 ```
 
-### No. 3: Hitchcock Zoom trong thang máy
+### No. 3: Vòng quanh 360° người leo đỉnh núi
 
-- **Category:** `Chuyển động camera nâng cao`
+- **Category:** `Chuyển động máy quay nâng cao`
 - **Source:** `official`
-- **Author:** AtlasCloud
+- **Author:** Volcengine Ark
 - **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/4be02035-a101-4c2c-bb20-c2fe59771de9.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/4be02035-a101-4c2c-bb20-c2fe59771de9.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/11)
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-Hiệu ứng chóng mặt kiểu Hitchcock kết hợp chuyển động camera phức tạp trong không gian hẹp.
+Một cú máy xoay quỹ đạo trọn 360 độ quanh người leo núi trên đỉnh, hé lộ toàn cảnh núi tuyết — kiểm soát chuyển động máy quay chính xác.
 
 #### Prompt
 
 ```text
-Tạo cảnh video: Hiệu ứng chóng mặt kiểu Hitchcock kết hợp chuyển động camera phức tạp trong không gian hẹp.
+Máy quay xoay 360 độ quanh người leo núi đứng trên đỉnh, hé lộ toàn cảnh hùng vĩ của những đỉnh núi phủ tuyết.
 ```
 
-### No. 4: Hoạt hóa khung truyện tranh
+### No. 4: Lùi máy nhanh — Từ một đóa hoa đến biển hoa
 
-- **Category:** `Phát triển & mở rộng câu chuyện`
+- **Category:** `Chuyển động máy quay nâng cao`
 - **Source:** `official`
-- **Author:** AtlasCloud
+- **Author:** Volcengine Ark
 - **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c939610e-a182-40ad-89a5-254c1515ac24.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/c939610e-a182-40ad-89a5-254c1515ac24.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/26)
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-Biến các khung truyện tranh tĩnh thành chuỗi hoạt hình có hiệu ứng âm thanh.
+Một cú dolly lùi nhanh từ một đóa hoa đến cả cánh đồng hoa bao la, rồi dừng ở những đỉnh núi xa — kiểm soát chuyển động máy quay linh hoạt.
 
 #### Prompt
 
 ```text
-Tạo cảnh video: Biến các khung truyện tranh tĩnh thành chuỗi hoạt hình có hiệu ứng âm thanh.
+Máy quay lùi nhanh từ cận cảnh một đóa hoa để lộ ra cả một biển hoa, cuối cùng dừng lại ở những ngọn núi tuyết xa xa.
 ```
 
-### No. 5: Titanic lật kèo u tối
+### No. 5: Con đường hoa anh đào phong cách Ghibli
 
-- **Category:** `Chỉnh sửa & remix video`
+- **Category:** `Chuyển đổi phong cách`
 - **Source:** `official`
-- **Author:** AtlasCloud
+- **Author:** Volcengine Ark
 - **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/19cb9c31-9a1e-4c2e-ae17-b03f6a88c20b.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/19cb9c31-9a1e-4c2e-ae17-b03f6a88c20b.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/48)
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-Đảo ngược cảnh lãng mạn thành thriller phản bội.
+Chuyển phong cách đoạn phim thành hoạt hình Studio Ghibli khi một cô gái đi trên con đường rải đầy cánh hoa — chuyển đổi phong cách.
 
 #### Prompt
 
 ```text
-Tạo cảnh video: Đảo ngược cảnh lãng mạn thành thriller phản bội.
+Biến khung cảnh thành phong cách hoạt hình Studio Ghibli — một cô gái bước đi trên con đường trong khi những cánh hoa anh đào rơi lả tả quanh cô.
 ```
 
-### No. 6: Fashion beat drop
+### No. 6: Con thuyền thủy mặc giữa núi non
 
-- **Category:** `Đồng bộ âm nhạc`
+- **Category:** `Chuyển đổi phong cách`
 - **Source:** `official`
-- **Author:** AtlasCloud
+- **Author:** Volcengine Ark
 - **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/5ae0578e-e6c8-4ff1-a03a-e19b5ac2f5c1.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/5ae0578e-e6c8-4ff1-a03a-e19b5ac2f5c1.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/53)
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-Biến đổi thời trang đồng bộ theo beat nhạc.
+Chuyển phong cách đoạn phim thành tranh thủy mặc Trung Hoa truyền thống khi một con thuyền lẻ loi trôi qua phong cảnh — chuyển đổi phong cách.
 
 #### Prompt
 
 ```text
-Tạo cảnh video: Biến đổi thời trang đồng bộ theo beat nhạc.
+Biến khung cảnh thành phong cách tranh thủy mặc Trung Hoa — một con thuyền nhỏ trôi chầm chậm giữa núi và sông.
 ```
 
-### No. 7: Trở về nhà sau giờ làm
+### No. 7: Biển hiệu neon "SEEDANCE" trong mưa
 
-- **Category:** `Nhất quán nhân vật & bối cảnh`
+- **Category:** `Kết xuất văn bản`
 - **Source:** `official`
-- **Author:** AtlasCloud
+- **Author:** Volcengine Ark
 - **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d66a205c-4470-4d71-9122-2d0bf0694c9c.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d66a205c-4470-4d71-9122-2d0bf0694c9c.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/5)
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-Mạch kể liên tục giữ nhất quán nhân vật từ hành lang văn phòng về nhà, có chuyển cảm xúc và tương tác gia đình.
+Kết xuất văn bản trên màn hình chính xác — một biển hiệu neon "SEEDANCE" nhấp nháy trên phố đêm mưa.
 
 #### Prompt
 
 ```text
-Tạo cảnh video: Mạch kể liên tục giữ nhất quán nhân vật từ hành lang văn phòng về nhà, có chuyển cảm xúc và tương tác gia đình.
+Một biển hiệu neon ghi "SEEDANCE" nhấp nháy trên con phố thành phố trong một đêm mưa, ánh sáng của nó phản chiếu trên mặt đường ướt.
 ```
 
-### No. 8: Cảnh phơi đồ thanh lịch
+### No. 8: Bìa sách chữ vàng mở ra
 
-- **Category:** `Tạo video siêu chân thực`
+- **Category:** `Kết xuất văn bản`
 - **Source:** `official`
-- **Author:** AtlasCloud
+- **Author:** Volcengine Ark
 - **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/b6b7f78a-f9a7-4c09-a3ac-6f0f694b1263.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/b6b7f78a-f9a7-4c09-a3ac-6f0f694b1263.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/1)
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-Một người phụ nữ phơi quần áo duyên dáng, lấy thêm một món từ giỏ và giũ với chuyển động tự nhiên.
+Văn bản kết xuất rõ nét trên bìa sách — "Tương lai của Trí tuệ Nhân tạo" bằng chữ vàng — khi cuốn sách từ từ mở ra.
 
 #### Prompt
 
 ```text
-Tạo cảnh video: Một người phụ nữ phơi quần áo duyên dáng, lấy thêm một món từ giỏ và giũ với chuyển động tự nhiên.
+Bìa một cuốn sách ghi "Tương lai của Trí tuệ Nhân tạo" bằng chữ vàng khi cuốn sách từ từ mở ra.
 ```
 
 ## 📋 All Prompts
 
 <a id="category-1"></a>
+
+### Tường thuật đa cảnh quay (2)
+
+### No. 1: Chạy bên bờ biển — Câu chuyện ba cảnh
+
+- **Category:** `Tường thuật đa cảnh quay`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `vi`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Chuỗi ba cảnh bên bờ biển — cận cảnh bám theo, quay mặt vào máy quay, và toàn cảnh đóng băng khung hình — thể hiện lối tường thuật đa cảnh mạch lạc với một chủ thể nhất quán.
+
+#### Prompt
+
+```text
+[Cảnh 1] Cận cảnh, một cô gái chạy dọc bờ biển, máy quay bám theo từng bước chân cô. [Cảnh 2] Trung cảnh, cô dừng lại, quay mặt vào máy quay và mỉm cười. [Cảnh 3] Toàn cảnh, cô dang rộng hai tay hướng ra biển khi khung hình đóng băng.
+```
+
+### No. 2: Phi hành gia trên Mặt Trăng — Ba cảnh
+
+- **Category:** `Tường thuật đa cảnh quay`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `vi`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Chuỗi ba cảnh trên Mặt Trăng — ngắm Trái Đất, đi đến khoang đổ bộ, và cất cánh — tường thuật đa cảnh với một chủ thể nhất quán.
+
+#### Prompt
+
+```text
+[Cảnh 1] Một phi hành gia đứng trên bề mặt Mặt Trăng, ngắm nhìn Trái Đất. [Cảnh 2] Phi hành gia quay người và bước về phía khoang đổ bộ. [Cảnh 3] Khoang đổ bộ cất cánh, làm tung lên bụi Mặt Trăng.
+```
+
+<a id="category-2"></a>
+
+### Quay một cú máy liền mạch (1)
+
+### No. 1: Ly latte của barista — Một cú máy liền mạch
+
+- **Category:** `Quay một cú máy liền mạch`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `vi`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Một cú máy liền mạch không ngắt, dõi theo barista từ lúc xay hạt đến nghệ thuật latte cuối cùng, phô diễn lối quay một cú máy 30 giây.
+
+#### Prompt
+
+```text
+Một barista pha latte trong quán cà phê — từ xay hạt cà phê, chiết xuất espresso, đánh sữa, đến rót tạo hình latte cuối cùng — tất cả trong một cú máy liền mạch.
+```
+
+<a id="category-3"></a>
+
+### Chuyển động máy quay nâng cao (2)
+
+### No. 1: Vòng quanh 360° người leo đỉnh núi
+
+- **Category:** `Chuyển động máy quay nâng cao`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `vi`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Một cú máy xoay quỹ đạo trọn 360 độ quanh người leo núi trên đỉnh, hé lộ toàn cảnh núi tuyết — kiểm soát chuyển động máy quay chính xác.
+
+#### Prompt
+
+```text
+Máy quay xoay 360 độ quanh người leo núi đứng trên đỉnh, hé lộ toàn cảnh hùng vĩ của những đỉnh núi phủ tuyết.
+```
+
+### No. 2: Lùi máy nhanh — Từ một đóa hoa đến biển hoa
+
+- **Category:** `Chuyển động máy quay nâng cao`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `vi`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Một cú dolly lùi nhanh từ một đóa hoa đến cả cánh đồng hoa bao la, rồi dừng ở những đỉnh núi xa — kiểm soát chuyển động máy quay linh hoạt.
+
+#### Prompt
+
+```text
+Máy quay lùi nhanh từ cận cảnh một đóa hoa để lộ ra cả một biển hoa, cuối cùng dừng lại ở những ngọn núi tuyết xa xa.
+```
+
+<a id="category-4"></a>
+
+### Chuyển đổi phong cách (2)
+
+### No. 1: Con đường hoa anh đào phong cách Ghibli
+
+- **Category:** `Chuyển đổi phong cách`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `vi`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Chuyển phong cách đoạn phim thành hoạt hình Studio Ghibli khi một cô gái đi trên con đường rải đầy cánh hoa — chuyển đổi phong cách.
+
+#### Prompt
+
+```text
+Biến khung cảnh thành phong cách hoạt hình Studio Ghibli — một cô gái bước đi trên con đường trong khi những cánh hoa anh đào rơi lả tả quanh cô.
+```
+
+### No. 2: Con thuyền thủy mặc giữa núi non
+
+- **Category:** `Chuyển đổi phong cách`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `vi`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Chuyển phong cách đoạn phim thành tranh thủy mặc Trung Hoa truyền thống khi một con thuyền lẻ loi trôi qua phong cảnh — chuyển đổi phong cách.
+
+#### Prompt
+
+```text
+Biến khung cảnh thành phong cách tranh thủy mặc Trung Hoa — một con thuyền nhỏ trôi chầm chậm giữa núi và sông.
+```
+
+<a id="category-5"></a>
+
+### Kết xuất văn bản (2)
+
+### No. 1: Biển hiệu neon "SEEDANCE" trong mưa
+
+- **Category:** `Kết xuất văn bản`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `vi`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Kết xuất văn bản trên màn hình chính xác — một biển hiệu neon "SEEDANCE" nhấp nháy trên phố đêm mưa.
+
+#### Prompt
+
+```text
+Một biển hiệu neon ghi "SEEDANCE" nhấp nháy trên con phố thành phố trong một đêm mưa, ánh sáng của nó phản chiếu trên mặt đường ướt.
+```
+
+### No. 2: Bìa sách chữ vàng mở ra
+
+- **Category:** `Kết xuất văn bản`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `vi`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Văn bản kết xuất rõ nét trên bìa sách — "Tương lai của Trí tuệ Nhân tạo" bằng chữ vàng — khi cuốn sách từ từ mở ra.
+
+#### Prompt
+
+```text
+Bìa một cuốn sách ghi "Tương lai của Trí tuệ Nhân tạo" bằng chữ vàng khi cuốn sách từ từ mở ra.
+```
+
+<a id="category-6"></a>
+
+### Tham chiếu hình ảnh (4)
+
+### No. 1: Nhân vật tham chiếu chạy qua rừng
+
+- **Category:** `Tham chiếu hình ảnh`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `vi`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Điều khiển chuyển động từ ảnh tham chiếu — nhân vật được tham chiếu chạy qua rừng với máy quay bám theo. Cung cấp ảnh tham chiếu dưới dạng @image1.
+
+#### Prompt
+
+```text
+Tham chiếu nhân vật trong @image1, cho anh ấy chạy qua rừng với máy quay bám theo bên cạnh.
+```
+
+### No. 2: Thêm đàn chim vào cảnh tham chiếu
+
+- **Category:** `Tham chiếu hình ảnh`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `vi`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Giữ nguyên cảnh được tham chiếu và thêm chuyển động — một đàn chim bay ngang khung hình. Cung cấp ảnh tham chiếu dưới dạng @image1.
+
+#### Prompt
+
+```text
+Tham chiếu khung cảnh trong @image1, thêm một đàn chim bay ngang qua khung hình.
+```
+
+### No. 3: Xoay sản phẩm 360° từ ảnh tham chiếu
+
+- **Category:** `Tham chiếu hình ảnh`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `vi`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Biến ảnh tham chiếu sản phẩm thành màn trình diễn xoay tròn — xoay trọn 360° trên bệ trưng bày. Cung cấp ảnh tham chiếu dưới dạng @image1.
+
+#### Prompt
+
+```text
+Tham chiếu sản phẩm trong @image1, cho nó xoay 360 độ trên bệ trưng bày xoay tròn.
+```
+
+### No. 4: Người tham chiếu vẫy tay tự nhiên
+
+- **Category:** `Tham chiếu hình ảnh`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `vi`
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### Description
+
+Làm chuyển động một người được tham chiếu — động tác vẫy tay tự nhiên với biểu cảm sống động. Cung cấp ảnh tham chiếu dưới dạng @image1.
+
+#### Prompt
+
+```text
+Tham chiếu người trong @image1, cho họ vẫy tay với biểu cảm tự nhiên, sống động.
+```
+
+<a id="category-7"></a>
 
 ### Twitter Community (24)
 
@@ -749,7 +989,7 @@ Một người thuyết trình nói chuyện với khán giả trong khi trình 
 a man giving a presentation in front of an audience, holding a microphone, with a large screen displaying two reflective spheres on a dark surface, natural light from windows, indoor setting with plants and audio equipment
 ```
 
-<a id="category-2"></a>
+<a id="category-8"></a>
 
 ### Âm thanh & tổng hợp giọng nói (10)
 
@@ -963,7 +1203,7 @@ Video âm nhạc với từ khóa quay phim cụ thể và âm thanh giàu bầu
 Tạo cảnh video: Video âm nhạc với từ khóa quay phim cụ thể và âm thanh giàu bầu không khí.
 ```
 
-<a id="category-3"></a>
+<a id="category-9"></a>
 
 ### Chuyển động camera nâng cao (13)
 
@@ -1240,7 +1480,7 @@ Intense martial arts fight between two women in modern urban environment.
 A grounded martial arts duel between two women in a modern urban night setting. Build with clear shot variation: wide shot to establish spacing and intent, medium tracking shots for exchange tempo, close-up inserts for impact, breathing, and footwork. Include low-angle circling moves, over-shoulder counters, and quick lateral camera motions to preserve directional clarity. Movements must follow realistic weight transfer, momentum, and recovery. Use practical street lighting, neon reflections, slight wet pavement sheen, and gritty cinematic texture.
 ```
 
-<a id="category-4"></a>
+<a id="category-10"></a>
 
 ### Chỉnh sửa & remix video (5)
 
@@ -1349,7 +1589,7 @@ Thêm yếu tố đe dọa vào một cảnh yên bình.
 Tạo cảnh video: Thêm yếu tố đe dọa vào một cảnh yên bình.
 ```
 
-<a id="category-5"></a>
+<a id="category-11"></a>
 
 ### Nhất quán nhân vật & bối cảnh (6)
 
@@ -1479,7 +1719,7 @@ Quảng cáo sản phẩm Hàn Quốc với tính nhất quán thương hiệu v
 Tạo cảnh video: Quảng cáo sản phẩm Hàn Quốc với tính nhất quán thương hiệu và minh họa đa cảnh.
 ```
 
-<a id="category-6"></a>
+<a id="category-12"></a>
 
 ### Hiệu ứng hình ảnh sáng tạo (11)
 
@@ -1714,7 +1954,7 @@ Màn trình diễn võ thuật theo phong cách tranh thủy mặc Trung Hoa tru
 Tạo cảnh video: Màn trình diễn võ thuật theo phong cách tranh thủy mặc Trung Hoa truyền thống.
 ```
 
-<a id="category-7"></a>
+<a id="category-13"></a>
 
 ### Tạo video siêu chân thực (5)
 
@@ -1823,7 +2063,7 @@ Một người phụ nữ phơi quần áo duyên dáng, lấy thêm một món 
 Tạo cảnh video: Một người phụ nữ phơi quần áo duyên dáng, lấy thêm một món từ giỏ và giũ với chuyển động tự nhiên.
 ```
 
-<a id="category-8"></a>
+<a id="category-14"></a>
 
 ### Biểu đạt cảm xúc (3)
 
@@ -1890,7 +2130,7 @@ Cảnh khủng hoảng tâm lý với cảm xúc leo thang.
 Tạo cảnh video: Cảnh khủng hoảng tâm lý với cảm xúc leo thang.
 ```
 
-<a id="category-9"></a>
+<a id="category-15"></a>
 
 ### Phát triển & mở rộng câu chuyện (8)
 
@@ -2062,7 +2302,7 @@ Tạo mở đầu phim tài liệu chữa lành dựa trên storyboard.
 Tạo cảnh video: Tạo mở đầu phim tài liệu chữa lành dựa trên storyboard.
 ```
 
-<a id="category-10"></a>
+<a id="category-16"></a>
 
 ### Đồng bộ âm nhạc (4)
 
@@ -2150,7 +2390,7 @@ Các chuyển cảnh phong cảnh được canh khớp hoàn hảo theo nhịp n
 Tạo cảnh video: Các chuyển cảnh phong cảnh được canh khớp hoàn hảo theo nhịp nhạc.
 ```
 
-<a id="category-11"></a>
+<a id="category-17"></a>
 
 ### Điện ảnh one-take (5)
 
@@ -2280,4 +2520,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-07-08T14:08:12.398Z
+> This README is auto-generated. 2026-07-20T17:21:54.957Z

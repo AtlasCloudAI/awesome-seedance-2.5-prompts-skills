@@ -1,5 +1,239 @@
 [
   {
+    "id": "sd25off_01",
+    "sort_order": -100,
+    "title": "समुद्र किनारे दौड़ — तीन-शॉट कहानी",
+    "description": "तीन-शॉट का समुद्र-तट अनुक्रम — ट्रैकिंग क्लोज़-अप, कैमरे की ओर मुड़ना, और फ़्रीज़-फ़्रेम वाइड — एक सुसंगत विषय के साथ सुसंगत मल्टी-शॉट कथा दिखाता है।",
+    "prompt": "[शॉट 1] क्लोज़-अप, एक लड़की समुद्र किनारे दौड़ती है, कैमरा उसके कदमों को ट्रैक करता है। [शॉट 2] मीडियम शॉट, वह रुकती है, कैमरे की ओर मुड़ती है और मुस्कुराती है। [शॉट 3] वाइड शॉट, वह समुद्र की ओर अपनी बाँहें फैलाती है और फ़्रेम फ़्रीज़ हो जाता है।",
+    "category": "मल्टी-शॉट कथा",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "hi",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_01",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_02",
+    "sort_order": -99,
+    "title": "बरिस्ता की लाटे — एक सतत टेक",
+    "description": "बीन्स पीसने से लेकर अंतिम लाटे आर्ट तक बरिस्ता का पीछा करता एक अखंड टेक, 30 सेकंड की वन-टेक सिनेमैटोग्राफी प्रस्तुत करता है।",
+    "prompt": "एक बरिस्ता कैफ़े में लाटे बनाता है — बीन्स पीसने से, एस्प्रेसो निकालने, दूध को स्टीम करने, और अंत में लाटे आर्ट उड़ेलने तक — सब कुछ एक ही सतत टेक में।",
+    "category": "वन-टेक सिनेमैटोग्राफी",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "hi",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_02",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_03",
+    "sort_order": -98,
+    "title": "शिखर पर पर्वतारोही के चारों ओर 360° ऑर्बिट",
+    "description": "शिखर पर खड़े पर्वतारोही के चारों ओर पूरा 360 डिग्री ऑर्बिट मूव, जो बर्फ़ीले पहाड़ों का पैनोरमा दिखाता है — सटीक कैमरा-मूवमेंट नियंत्रण।",
+    "prompt": "कैमरा शिखर पर खड़े एक पर्वतारोही के चारों ओर 360 डिग्री घूमता है, बर्फ़ से ढकी चोटियों का भव्य पैनोरमा प्रकट करता है।",
+    "category": "उन्नत कैमरा मूवमेंट",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "hi",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_03",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_04",
+    "sort_order": -97,
+    "title": "तेज़ पुल-बैक — एक फूल से फूलों के सागर तक",
+    "description": "एक फूल से लेकर फूलों के विशाल मैदान तक तेज़ डॉली-आउट, जो दूर की चोटियों पर आकर ठहरता है — गतिशील कैमरा-मूवमेंट नियंत्रण।",
+    "prompt": "कैमरा एक फूल के क्लोज़-अप से तेज़ी से पीछे हटता है और फूलों के पूरे सागर को प्रकट करता है, अंत में दूर के बर्फ़ीले पहाड़ों पर ठहर जाता है।",
+    "category": "उन्नत कैमरा मूवमेंट",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "hi",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_04",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_05",
+    "sort_order": -96,
+    "title": "घिबली-शैली का चेरी ब्लॉसम रास्ता",
+    "description": "फ़ुटेज को स्टूडियो घिबली एनीमेशन में बदलें, जबकि एक लड़की पंखुड़ियों से भरे रास्ते पर चलती है — शैली अंतरण।",
+    "prompt": "दृश्य को स्टूडियो घिबली एनीमेशन शैली में बदलें — एक लड़की रास्ते पर चलती है और उसके चारों ओर चेरी ब्लॉसम की पंखुड़ियाँ गिरती हैं।",
+    "category": "शैली अंतरण",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "hi",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_05",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_06",
+    "sort_order": -95,
+    "title": "पहाड़ों के बीच स्याही-चित्र की नाव",
+    "description": "फ़ुटेज को पारंपरिक चीनी स्याही-चित्रकला में बदलें, जबकि एक अकेली नाव परिदृश्य से होकर बहती है — शैली अंतरण।",
+    "prompt": "दृश्य को चीनी स्याही-चित्रकला शैली में बदलें — एक छोटी नाव पहाड़ों और नदियों के बीच धीरे-धीरे बहती है।",
+    "category": "शैली अंतरण",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "hi",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_06",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_07",
+    "sort_order": -94,
+    "title": "बारिश में नियॉन \"SEEDANCE\" साइन",
+    "description": "सटीक ऑन-स्क्रीन टेक्स्ट रेंडरिंग — बरसाती रात की शहर की सड़क पर टिमटिमाता नियॉन \"SEEDANCE\" साइन।",
+    "prompt": "बरसाती रात में शहर की एक सड़क पर \"SEEDANCE\" लिखा नियॉन साइन टिमटिमाता है, इसकी चमक गीली सड़क पर प्रतिबिंबित होती है।",
+    "category": "टेक्स्ट रेंडरिंग",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "hi",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_07",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_08",
+    "sort_order": -93,
+    "title": "सुनहरे अक्षरों वाला किताब का कवर खुलता है",
+    "description": "किताब के कवर पर सुपाठ्य रेंडर किया गया टेक्स्ट — सुनहरे रंग में \"कृत्रिम बुद्धिमत्ता का भविष्य\" — जबकि किताब धीरे-धीरे खुलती है।",
+    "prompt": "एक किताब के कवर पर सुनहरे अक्षरों में \"कृत्रिम बुद्धिमत्ता का भविष्य\" लिखा है, जबकि किताब धीरे-धीरे खुलती है।",
+    "category": "टेक्स्ट रेंडरिंग",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "hi",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_08",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_09",
+    "sort_order": -92,
+    "title": "चंद्रमा पर अंतरिक्ष यात्री — तीन शॉट",
+    "description": "तीन-शॉट का चंद्र अनुक्रम — पृथ्वी को निहारना, मॉड्यूल की ओर चलना, और उड़ान भरना — एक सुसंगत विषय के साथ मल्टी-शॉट कथा।",
+    "prompt": "[शॉट 1] एक अंतरिक्ष यात्री चंद्रमा की सतह पर खड़ा है, पृथ्वी को निहार रहा है। [शॉट 2] अंतरिक्ष यात्री मुड़कर चंद्र मॉड्यूल की ओर चलता है। [शॉट 3] मॉड्यूल उड़ान भरता है, चंद्र-धूल उड़ाता है।",
+    "category": "मल्टी-शॉट कथा",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "hi",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_09",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_10",
+    "sort_order": -91,
+    "title": "संदर्भ पात्र जंगल से दौड़ता है",
+    "description": "एक संदर्भ छवि से गति संचालित करें — संदर्भित पात्र ट्रैकिंग कैमरे के साथ जंगल से दौड़ता है। संदर्भ को @image1 के रूप में दें।",
+    "prompt": "@image1 में मौजूद पात्र को संदर्भित करते हुए, उसे जंगल से दौड़ाएँ और कैमरा साथ-साथ ट्रैक करे।",
+    "category": "छवि संदर्भ",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "hi",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_10",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_11",
+    "sort_order": -90,
+    "title": "संदर्भ दृश्य में पक्षी जोड़ें",
+    "description": "संदर्भित दृश्य को बनाए रखें और गति जोड़ें — पक्षियों का एक झुंड फ़्रेम को पार करता है। संदर्भ को @image1 के रूप में दें।",
+    "prompt": "@image1 में मौजूद दृश्य को संदर्भित करते हुए, फ़्रेम के आर-पार उड़ते पक्षियों का एक झुंड जोड़ें।",
+    "category": "छवि संदर्भ",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "hi",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_11",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_12",
+    "sort_order": -89,
+    "title": "संदर्भ से 360° उत्पाद घुमाव",
+    "description": "किसी उत्पाद संदर्भ को घूमते शोकेस में बदलें — एक डिस्प्ले स्टैंड पर पूरा 360° घुमाव। संदर्भ को @image1 के रूप में दें।",
+    "prompt": "@image1 में मौजूद उत्पाद को संदर्भित करते हुए, उसे घूमते डिस्प्ले स्टैंड पर 360 डिग्री घुमाएँ।",
+    "category": "छवि संदर्भ",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "hi",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_12",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_13",
+    "sort_order": -88,
+    "title": "संदर्भ व्यक्ति स्वाभाविक रूप से हाथ हिलाता है",
+    "description": "एक संदर्भित व्यक्ति को एनिमेट करें — जीवंत भाव के साथ स्वाभाविक रूप से हाथ हिलाने का हावभाव। संदर्भ को @image1 के रूप में दें।",
+    "prompt": "@image1 में मौजूद व्यक्ति को संदर्भित करते हुए, उससे स्वाभाविक, जीवंत भाव के साथ हाथ हिलवाएँ।",
+    "category": "छवि संदर्भ",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "hi",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_13",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
     "id": "ur_001",
     "sort_order": 80,
     "title": "सुरुचिपूर्ण धुलाई दृश्य",

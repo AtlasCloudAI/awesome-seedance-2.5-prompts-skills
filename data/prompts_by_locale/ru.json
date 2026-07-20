@@ -1,5 +1,239 @@
 [
   {
+    "id": "sd25off_01",
+    "sort_order": -100,
+    "title": "Пробежка у моря — История в трёх кадрах",
+    "description": "Приморская последовательность из трёх кадров — крупный план со слежением, поворот к камере и широкий план со стоп-кадром — демонстрирует связное многокадровое повествование с постоянным героем.",
+    "prompt": "[Кадр 1] Крупный план, девушка бежит вдоль берега моря, камера следует за её шагами. [Кадр 2] Средний план, она останавливается, поворачивается к камере и улыбается. [Кадр 3] Общий план, она раскидывает руки навстречу морю, и кадр застывает.",
+    "category": "Многокадровое повествование",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "ru",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_01",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_02",
+    "sort_order": -99,
+    "title": "Латте бариста — Один непрерывный дубль",
+    "description": "Единый непрерывный дубль, следующий за бариста от помола зёрен до финального латте-арта, демонстрирует 30-секундную съёмку одним дублем.",
+    "prompt": "Бариста готовит латте в кофейне — от помола зёрен, через приготовление эспрессо и взбивание молока, до финального рисунка латте-арт — всё одним непрерывным дублем.",
+    "category": "Съёмка одним дублем",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "ru",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_02",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_03",
+    "sort_order": -98,
+    "title": "Облёт 360° вокруг покорителя вершины",
+    "description": "Полный облёт на 360 градусов вокруг альпиниста на вершине, раскрывающий панораму снежных гор — точное управление движением камеры.",
+    "prompt": "Камера облетает на 360 градусов вокруг альпиниста, стоящего на вершине, раскрывая великолепную панораму заснеженных пиков.",
+    "category": "Продвинутые движения камеры",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "ru",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_03",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_04",
+    "sort_order": -97,
+    "title": "Быстрый отъезд — От цветка к морю цветов",
+    "description": "Быстрый отъезд камеры от одного цветка к бескрайнему полю цветов, замирающий на далёких вершинах — динамичное управление движением камеры.",
+    "prompt": "Камера быстро отъезжает от крупного плана одного цветка, раскрывая целое море цветов, и наконец замирает на заснеженных горах вдали.",
+    "category": "Продвинутые движения камеры",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "ru",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_04",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_05",
+    "sort_order": -96,
+    "title": "Дорожка сакуры в стиле Гибли",
+    "description": "Перестилизуйте кадры под анимацию Studio Ghibli, пока девушка идёт по усыпанной лепестками дорожке — перенос стиля.",
+    "prompt": "Преобразуйте сцену в стиль анимации Studio Ghibli — девушка идёт по дорожке, а вокруг неё падают лепестки сакуры.",
+    "category": "Перенос стиля",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "ru",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_05",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_06",
+    "sort_order": -95,
+    "title": "Лодка среди гор в стиле туши",
+    "description": "Перестилизуйте кадры под традиционную китайскую живопись тушью, пока одинокая лодка скользит по пейзажу — перенос стиля.",
+    "prompt": "Преобразуйте сцену в стиль китайской живописи тушью — маленькая лодка медленно скользит среди гор и рек.",
+    "category": "Перенос стиля",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "ru",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_06",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_07",
+    "sort_order": -94,
+    "title": "Неоновая вывеска \"SEEDANCE\" под дождём",
+    "description": "Точная отрисовка экранного текста — мерцающая неоновая вывеска \"SEEDANCE\" на городской улице дождливой ночью.",
+    "prompt": "Неоновая вывеска с надписью \"SEEDANCE\" мерцает на городской улице дождливой ночью, её свет отражается на мокром асфальте.",
+    "category": "Отрисовка текста",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "ru",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_07",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_08",
+    "sort_order": -93,
+    "title": "Открывается обложка книги с золотыми буквами",
+    "description": "Разборчиво отрисованный текст на обложке книги — \"Будущее искусственного интеллекта\" золотом — пока книга медленно раскрывается.",
+    "prompt": "На обложке книги золотыми буквами написано \"Будущее искусственного интеллекта\", пока книга медленно раскрывается.",
+    "category": "Отрисовка текста",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "ru",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_08",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_09",
+    "sort_order": -92,
+    "title": "Космонавт на Луне — Три кадра",
+    "description": "Лунная последовательность из трёх кадров — взгляд на Землю, путь к модулю и старт — многокадровое повествование с постоянным героем.",
+    "prompt": "[Кадр 1] Космонавт стоит на поверхности Луны, глядя на Землю. [Кадр 2] Космонавт разворачивается и идёт к лунному модулю. [Кадр 3] Модуль стартует, поднимая лунную пыль.",
+    "category": "Многокадровое повествование",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "ru",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_09",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_10",
+    "sort_order": -91,
+    "title": "Референсный персонаж бежит через лес",
+    "description": "Задайте движение по референсному изображению — референсный персонаж бежит через лес со следящей камерой. Передайте референс как @image1.",
+    "prompt": "Ссылаясь на персонажа из @image1, заставьте его бежать через лес, а камеру — двигаться рядом, отслеживая его.",
+    "category": "Ссылка на изображение",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "ru",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_10",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_11",
+    "sort_order": -90,
+    "title": "Добавить птиц в референсную сцену",
+    "description": "Сохраните референсную сцену и добавьте движение — стая птиц пересекает кадр. Передайте референс как @image1.",
+    "prompt": "Ссылаясь на сцену из @image1, добавьте стаю птиц, пролетающую через кадр.",
+    "category": "Ссылка на изображение",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "ru",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_11",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_12",
+    "sort_order": -89,
+    "title": "Вращение товара на 360° по референсу",
+    "description": "Превратите референс товара во вращающуюся витрину — полный оборот на 360° на демонстрационной подставке. Передайте референс как @image1.",
+    "prompt": "Ссылаясь на товар из @image1, заставьте его вращаться на 360 градусов на вращающейся демонстрационной подставке.",
+    "category": "Ссылка на изображение",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "ru",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_12",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_13",
+    "sort_order": -88,
+    "title": "Референсный человек естественно машет рукой",
+    "description": "Оживите референсного человека — естественный жест приветствия рукой с живой мимикой. Передайте референс как @image1.",
+    "prompt": "Ссылаясь на человека из @image1, заставьте его помахать рукой с естественным, живым выражением лица.",
+    "category": "Ссылка на изображение",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "ru",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_13",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
     "id": "ur_001",
     "sort_order": 80,
     "title": "Элегантная сцена стирки",

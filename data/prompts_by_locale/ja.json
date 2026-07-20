@@ -1,5 +1,239 @@
 [
   {
+    "id": "sd25off_01",
+    "sort_order": -100,
+    "title": "海辺のラン — 3ショットの物語",
+    "description": "3ショットの海辺シーケンス——追尾のクローズアップ、カメラへの振り向き、フリーズフレームのワイド——一貫した被写体で首尾一貫したマルチショットの物語を見せる。",
+    "prompt": "「ショット1」クローズアップ、少女が海辺を走り、カメラが彼女の足取りを追う。「ショット2」ミディアムショット、彼女は立ち止まり、カメラの方を向いて微笑む。「ショット3」ワイドショット、彼女が海に向かって両腕を広げると画面がフリーズする。",
+    "category": "マルチショット・ナラティブ",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "ja",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_01",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_02",
+    "sort_order": -99,
+    "title": "バリスタのラテ — ワンカット撮影",
+    "description": "豆を挽くところから最後のラテアートまでバリスタを追う一続きのワンテイク。30秒のワンテイク撮影を披露する。",
+    "prompt": "バリスタがカフェでラテを作る——豆を挽き、エスプレッソを抽出し、ミルクをスチームし、最後にラテアートを注ぐまで、すべてワンカットで。",
+    "category": "ワンテイク撮影",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "ja",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_02",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_03",
+    "sort_order": -98,
+    "title": "登頂者を360°オービット",
+    "description": "山頂の登山者を中心に360度のオービット移動を行い、雪山のパノラマを見せる——精密なカメラワーク制御。",
+    "prompt": "カメラが山頂に立つ登山者の周りを360度旋回し、雪をかぶった峰々の壮大なパノラマを見せる。",
+    "category": "高度なカメラワーク",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "ja",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_03",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_04",
+    "sort_order": -97,
+    "title": "高速プルバック — 一輪から花の海へ",
+    "description": "一輪の花から広大な花畑へと素早くドリーアウトし、遠くの峰々で止まる——ダイナミックなカメラワーク制御。",
+    "prompt": "カメラが一輪の花のクローズアップから一気に引いて花の海全体を映し出し、最後に遠くの雪山で止まる。",
+    "category": "高度なカメラワーク",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "ja",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_04",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_05",
+    "sort_order": -96,
+    "title": "ジブリ風の桜並木",
+    "description": "映像をスタジオジブリのアニメ風に変換し、少女が花びらの舞う小道を歩く——スタイル変換。",
+    "prompt": "シーンをスタジオジブリのアニメ風に変換する——少女が小道を歩き、その周りに桜の花びらが舞い落ちる。",
+    "category": "スタイル変換",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "ja",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_05",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_06",
+    "sort_order": -95,
+    "title": "山水に浮かぶ水墨画の小舟",
+    "description": "映像を伝統的な中国の水墨画風に変換し、一艘の小舟が山水を漂う——スタイル変換。",
+    "prompt": "シーンを中国の水墨画風に変換する——小さな舟が山と川の間をゆっくりと漂う。",
+    "category": "スタイル変換",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "ja",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_06",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_07",
+    "sort_order": -94,
+    "title": "雨の中のネオン\"SEEDANCE\"サイン",
+    "description": "正確な画面テキスト描画——雨の夜の街角で明滅するネオンの\"SEEDANCE\"サイン。",
+    "prompt": "雨の夜の街角で\"SEEDANCE\"と表示されたネオンサインが明滅し、その光が濡れた路面に反射する。",
+    "category": "テキスト描画",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "ja",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_07",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_08",
+    "sort_order": -93,
+    "title": "金文字の表紙が開く本",
+    "description": "表紙に読みやすく描画されたテキスト——金色の\"人工知能の未来\"——本がゆっくりと開く。",
+    "prompt": "本の表紙に金色の文字で\"人工知能の未来\"と書かれ、本がゆっくりと開く。",
+    "category": "テキスト描画",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "ja",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_08",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_09",
+    "sort_order": -92,
+    "title": "月面の宇宙飛行士 — 3ショット",
+    "description": "3ショットの月面シーケンス——地球を見つめ、着陸船へ歩き、離陸する——一貫した被写体のマルチショットの物語。",
+    "prompt": "「ショット1」宇宙飛行士が月面に立ち、地球を見つめる。「ショット2」宇宙飛行士が振り返り、月着陸船へと歩いていく。「ショット3」着陸船が離陸し、月の砂塵を巻き上げる。",
+    "category": "マルチショット・ナラティブ",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "ja",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_09",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_10",
+    "sort_order": -91,
+    "title": "参照キャラクターが森を駆ける",
+    "description": "参照画像から動きを駆動する——参照したキャラクターが森を走り、カメラが追尾する。参照は @image1 として与える。",
+    "prompt": "@image1 のキャラクターを参照し、彼が森の中を走り、カメラが並走して追尾する。",
+    "category": "画像参照",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "ja",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_10",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_11",
+    "sort_order": -90,
+    "title": "参照シーンに鳥を追加",
+    "description": "参照シーンを保ちつつ動きを加える——鳥の群れが画面を横切る。参照は @image1 として与える。",
+    "prompt": "@image1 のシーンを参照し、鳥の群れが画面を横切って飛ぶ様子を加える。",
+    "category": "画像参照",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "ja",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_11",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_12",
+    "sort_order": -89,
+    "title": "参照からの360°製品回転",
+    "description": "製品の参照を回転ショーケースに変える——ディスプレイ台の上で360°回転する。参照は @image1 として与える。",
+    "prompt": "@image1 の製品を参照し、回転するディスプレイ台の上で360度回転させる。",
+    "category": "画像参照",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "ja",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_12",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
+    "id": "sd25off_13",
+    "sort_order": -88,
+    "title": "参照人物が自然に手を振る",
+    "description": "参照した人物をアニメート——自然な手振りと生き生きとした表情。参照は @image1 として与える。",
+    "prompt": "@image1 の人物を参照し、自然で生き生きとした表情で手を振らせる。",
+    "category": "画像参照",
+    "author_name": "Volcengine Ark",
+    "source_platform": "official",
+    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+    "language": "ja",
+    "featured": true,
+    "source_meta": {
+      "original_id": "sd25off_13",
+      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+      "official_showcase": "Seedance 2.5"
+    }
+  },
+  {
     "id": "ur_001",
     "sort_order": 80,
     "title": "エレガントな洗濯シーン",
