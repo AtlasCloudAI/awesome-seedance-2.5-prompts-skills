@@ -2,236 +2,110 @@
   {
     "id": "sd25off_01",
     "sort_order": -100,
-    "title": "Seaside Run — Three-Shot Story",
-    "description": "A three-shot seaside sequence — a tracking close-up, a turn to camera, and a freeze-frame wide — showing coherent multi-shot narrative with a consistent subject.",
-    "prompt": "[Shot 1] Close-up, a girl runs along the seashore, the camera tracking her footsteps. [Shot 2] Medium shot, she stops, turns to face the camera, and smiles. [Shot 3] Wide shot, she spreads her arms toward the sea as the frame freezes.",
-    "category": "Multi-Shot Narrative",
+    "title": "Crystal Ball Match-Cut Beat Film",
+    "description": "A beat-synced match-cut film: one crystal ball etched with a glowing 'seedance' logo stays centered while eight scenes cut seamlessly behind it.",
+    "prompt": "A fast-paced, cinematic Match-cut short film synced to a driving electronic beat. A flawless crystal ball stays fixed dead-center throughout, a glowing \"seedance\" logo etched inside it. The ball holds razor-sharp focus while, on every strong musical beat, the background match-cuts seamlessly: Scene 1: macro close-up, cinematic water splashing around the ball, refracting intricate light. Scene 2: a vintage morning cafe, the ball on a raw-wood table, rising coffee steam and blurred commuters beyond the window. Scene 3: golden-hour dusk, a skater youth tosses and catches the ball one-handed, street racing backward behind them in gorgeous backlit sunset. Scene 4: a frenzied music festival, hands raise the ball high, refracting dazzling stage lasers. Scene 5: a lively family party table, the ball resting center-frame, blurred figures toasting and reaching for food. Scene 6: a dim cinema, hands cupping the ball as the giant screen's faint glow drifts across its surface. Scene 7: the ball on a violently vibrating speaker diaphragm, match-cutting on the climax to a spinning DJ turntable center. Scene 8: an outdoor camping night, background becoming warm bonfire and swaying string-light bokeh. Finale: on the final downbeat the ball is hurled up out of frame; cut to pure black, a minimal white-on-black \"seedance\" appearing dead-center. Beat-synced match-cut editing, top-tier cinematic color grading, photoreal glass refraction, ray tracing, global illumination. Subject razor-sharp, background heavy motion blur.",
+    "category": "Match-Cut & Creative Effects",
+    "video_url": "https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group1-1.mp4",
+    "reference_images": [],
     "author_name": "Volcengine Ark",
     "source_platform": "official",
     "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
     "language": "en",
-    "featured": true,
-    "source_meta": {
-      "original_id": "sd25off_01",
-      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
-      "official_showcase": "Seedance 2.5"
-    }
+    "featured": true
   },
   {
     "id": "sd25off_02",
     "sort_order": -99,
-    "title": "Barista Latte — One Continuous Take",
-    "description": "A single unbroken take following a barista from grinding the beans to the final latte art, showcasing 30s one-take cinematography.",
-    "prompt": "A barista makes a latte in a cafe — from grinding the beans, to pulling the espresso shot, to steaming the milk, and finally pouring the latte art — all in one continuous take.",
+    "title": "Steampunk Clockwork — 30s One-Take",
+    "description": "A 30-second steampunk miniature 3D sequence with continuous orbiting, pass-through camera moves.",
+    "prompt": "A high-end, deeply cinematic 30-second 3D motion-graphics sequence in refined steampunk and vintage-miniature style, with continuous fluid orbiting and pass-through camera moves. [0-10s] Macro close-up of an antique brass clock face that unfolds layer by layer into meshing rotating gear rings and volumetric fog. The camera pierces down through the gears; a mechanical ornithopter spirals up from a miniature canyon of stacked weathered old books. [10-20s] The camera glides forward tracking the ornithopter, seamlessly passing into a fast-spinning ornate brass zoetrope projecting galloping mechanical-horse light. The light leaps out and the scene becomes a brass floating cable car on glimmering copper rails through a forest of gears, bathed in cinematic golden-hour light. [20-30s] The camera pans elegantly down; below appears an exquisite clockwork wooden sailing ship cutting deep-blue glass-textured waves, which morph into a glowing giant moon with lantern-holding explorer silhouettes trekking a crystal-vein ridge under stars. The camera spirals smoothly back through ethereal clouds to the ticking brass clock face. Hyper-real mechanical textures, rich brass and gold tones, cinematic shallow depth of field, smooth seamless pass-through camerawork, epic fantastical adventure atmosphere.",
     "category": "One-Take Cinematography",
+    "video_url": "https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group2-2.mp4",
+    "reference_images": [],
     "author_name": "Volcengine Ark",
     "source_platform": "official",
     "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
     "language": "en",
-    "featured": true,
-    "source_meta": {
-      "original_id": "sd25off_02",
-      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
-      "official_showcase": "Seedance 2.5"
-    }
+    "featured": true
   },
   {
     "id": "sd25off_03",
     "sort_order": -98,
-    "title": "360° Orbit Around a Summit Climber",
-    "description": "A full 360-degree orbital move around a mountaineer on a summit, revealing a snow-mountain panorama — precise camera-movement control.",
-    "prompt": "The camera orbits 360 degrees around a mountaineer standing on a summit, revealing a magnificent panorama of snow-capped peaks.",
-    "category": "Advanced Camera Movements",
+    "title": "Windows Through Worlds (5 refs)",
+    "description": "A brand concept short driven by 5 reference images, gliding through windows into different worlds.",
+    "prompt": "A cinematic brand concept short. @image1 is the first frame; the picture trembles slightly, the camera pushes in to tree shadows rushing backward outside the window, their retreat accelerating, then abruptly cuts to @image2, speed easing as the camera glides slowly along a stream, birdsong and blossoms. The camera drops underwater — bubble sounds — as orange jellyfish drift gracefully past the lens @image3; the camera pulls back as small fish flit past and swim from the water into the window @image4, a girl looking around, watching them. The camera pulls back, defocuses, then refocuses sharp, switching to the music's rhythm: a Chinese-garden lattice window @image5 with light circling, church stained glass, an airplane porthole, a dome skylight, a bay window, louver blinds, a European dormer, a door peephole, a camera viewfinder, a bird's eye, a human eye close-up. It settles on the human eye; the eye closes, screen black, then suddenly opens — \"seedance\" appearing in the center of the eye on the accent beat.",
+    "category": "Multi-Image Reference",
+    "video_url": "https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-output.mp4",
+    "reference_images": [
+      "https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference1.png",
+      "https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference2.png",
+      "https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference3.png",
+      "https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference4.png",
+      "https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference5.png"
+    ],
     "author_name": "Volcengine Ark",
     "source_platform": "official",
     "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
     "language": "en",
-    "featured": true,
-    "source_meta": {
-      "original_id": "sd25off_03",
-      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
-      "official_showcase": "Seedance 2.5"
-    }
+    "featured": true
   },
   {
     "id": "sd25off_04",
     "sort_order": -97,
-    "title": "Rapid Pull-Back — Flower to Flower Sea",
-    "description": "A fast dolly-out from a single blossom to a vast field of flowers, settling on distant peaks — dynamic camera-movement control.",
-    "prompt": "The camera pulls back rapidly from a close-up of a single flower to reveal an entire sea of flowers, finally settling on distant snow mountains.",
-    "category": "Advanced Camera Movements",
+    "title": "One-Take Through Six Rooms (8 refs)",
+    "description": "One continuous take following a figure through six mood-shifting rooms, driven by 8 reference images.",
+    "prompt": "One continuous take. The camera smoothly follows a person in a black coat (reference @image1) moving left to right through six connected rooms of different tones and moods. Every room shares the same structure: white walls, light herringbone wood floor, French floor-to-ceiling windows, white sheer curtains (reference @image2) but the outside view and mood differ each time. The protagonist walks at a constant pace, passing through every open door. 0-5s room one, American-comic fight: the protagonist fights a character (@image3), who is defeated; 5-10s room two, warmth, felt-craft style, window view a sunflower field (@image4), warm-orange soft light, a painter painting sunflowers (@image5), the protagonist turning felt-style on entering; 10-15s room three, sorrow, black-and-white comic stop-motion, rain outside, cold-grey light, a person alone on the floor hugging their knees, a phone glowing with an unanswered call; on entering, the light blinks off then on, the room turns color, flowers bursting into bloom; 15-20s room four, joy, a room submerged in the sea (reference @image6), the protagonist turning transparent among coral and fish; 20-25s room five, surprise, window view a sky of fireworks (reference @image7), colorful flickering light, the protagonist swept up in a cheering crowd; 25-30s a blank white room, the protagonist snaps their fingers — snap SFX — frame goes black, \"seedance\" in the middle (reference @image8). Cinematic quality, high-fashion advertising style, lighting entirely determined by the window views for strong emotional contrast, no text in frame.",
+    "category": "Multi-Image Reference",
+    "video_url": "https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-output.mp4",
+    "reference_images": [
+      "https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference1.png",
+      "https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference2.png",
+      "https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference3.png",
+      "https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference4.png",
+      "https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference5.png",
+      "https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference7.png",
+      "https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference8.png",
+      "https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference9.png"
+    ],
     "author_name": "Volcengine Ark",
     "source_platform": "official",
     "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
     "language": "en",
-    "featured": true,
-    "source_meta": {
-      "original_id": "sd25off_04",
-      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
-      "official_showcase": "Seedance 2.5"
-    }
+    "featured": true
   },
   {
     "id": "sd25off_05",
     "sort_order": -96,
-    "title": "Ghibli-Style Cherry Blossom Path",
-    "description": "Restyle the footage into Studio Ghibli animation as a girl walks a petal-strewn path — style transfer.",
-    "prompt": "Transform the scene into Studio Ghibli animation style — a girl walks along a path as cherry blossoms drift down around her.",
-    "category": "Style Transfer",
+    "title": "Video Edit — Remove All But the Lead",
+    "description": "Reference-video editing: erase everyone except the protagonist from a source clip.",
+    "prompt": "Video editing: remove everyone in @video1 except the protagonist.",
+    "category": "Video Editing",
+    "video_url": "https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-output.mov",
+    "reference_images": [],
+    "reference_video": "https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-reference1.mp4",
     "author_name": "Volcengine Ark",
     "source_platform": "official",
     "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
     "language": "en",
-    "featured": true,
-    "source_meta": {
-      "original_id": "sd25off_05",
-      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
-      "official_showcase": "Seedance 2.5"
-    }
+    "featured": true
   },
   {
     "id": "sd25off_06",
     "sort_order": -95,
-    "title": "Ink-Wash Boat Among Mountains",
-    "description": "Restyle the footage into traditional Chinese ink-wash painting as a lone boat drifts through a landscape — style transfer.",
-    "prompt": "Transform the scene into Chinese ink-wash painting style — a small boat drifts slowly through mountains and rivers.",
-    "category": "Style Transfer",
+    "title": "Multilingual Hip-Hop 'Hello' MV",
+    "description": "A seaside hip-hop MV built from one reference image; the lead raps 'hello' in 8 languages, lip-synced, hard cuts on the beat.",
+    "prompt": "Cinematic hip-hop / rap music video, photoreal quality, high-end tone, seaside setting. Build the frame from @image1: a band performs at a golden sand beach with crashing waves — a lead vocalist gripping a mic on a stand in the wet sand, one guitarist left, one right, a drummer at the back; a vast coastline behind, rolling waves, a warm golden-hour sun shimmering on the water, sea mist in the air. The lead in a red tracksuit raps to camera — lips and jaw precisely synced to every word, head punching to the beat. Bright, punchy, fast, confident rap. HARD CUT on the beat, each switch a double contrast (shot size and type change together). Lyrics (the lead sings 'hello' in each language in turn, precisely lip-synced): English \"Hello\", Chinese \"你好\", Japanese \"こんにちは\", Korean \"안녕하세요\", Portuguese \"Olá\", Thai \"สวัสดี\", Spanish \"Hola\", Arabic \"مرحبا\". 8 hard-cut shots (low-angle wide establishing; close-up rap to camera; macro guitar-string insert; 3/4 prowling orbit; lateral track at shore; drummer tilt-up; tight push on the lead; heroic full-band push-in), one language per shot. White balance 4000K, teal-and-amber grade, 35mm, shallow depth of field, film grain, sea mist, golden-hour flare. Premium feel, precise lip-sync, no subtitles, no text overlays, hard cuts only, total 20 seconds.",
+    "category": "Multi-Image Reference",
+    "video_url": "https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-output.mp4",
+    "reference_images": [
+      "https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-reference1.png"
+    ],
     "author_name": "Volcengine Ark",
     "source_platform": "official",
     "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
     "language": "en",
-    "featured": true,
-    "source_meta": {
-      "original_id": "sd25off_06",
-      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
-      "official_showcase": "Seedance 2.5"
-    }
-  },
-  {
-    "id": "sd25off_07",
-    "sort_order": -94,
-    "title": "Neon \"SEEDANCE\" Sign in the Rain",
-    "description": "Accurate on-screen text rendering — a flickering neon \"SEEDANCE\" sign on a rainy-night city street.",
-    "prompt": "A neon sign reading \"SEEDANCE\" flickers on a city street on a rainy night, its glow reflecting on the wet pavement.",
-    "category": "Text Rendering",
-    "author_name": "Volcengine Ark",
-    "source_platform": "official",
-    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
-    "language": "en",
-    "featured": true,
-    "source_meta": {
-      "original_id": "sd25off_07",
-      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
-      "official_showcase": "Seedance 2.5"
-    }
-  },
-  {
-    "id": "sd25off_08",
-    "sort_order": -93,
-    "title": "Gold-Lettered Book Cover Opens",
-    "description": "Legible rendered text on a book cover — \"The Future of Artificial Intelligence\" in gold — as the book slowly opens.",
-    "prompt": "A book cover reads \"The Future of Artificial Intelligence\" in gold lettering as the book slowly opens.",
-    "category": "Text Rendering",
-    "author_name": "Volcengine Ark",
-    "source_platform": "official",
-    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
-    "language": "en",
-    "featured": true,
-    "source_meta": {
-      "original_id": "sd25off_08",
-      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
-      "official_showcase": "Seedance 2.5"
-    }
-  },
-  {
-    "id": "sd25off_09",
-    "sort_order": -92,
-    "title": "Astronaut on the Moon — Three Shots",
-    "description": "A three-shot lunar sequence — gazing at Earth, walking to the module, and lift-off — multi-shot narrative with a consistent subject.",
-    "prompt": "[Shot 1] An astronaut stands on the lunar surface, gazing at Earth. [Shot 2] The astronaut turns and walks toward the lunar module. [Shot 3] The module lifts off, kicking up moon dust.",
-    "category": "Multi-Shot Narrative",
-    "author_name": "Volcengine Ark",
-    "source_platform": "official",
-    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
-    "language": "en",
-    "featured": true,
-    "source_meta": {
-      "original_id": "sd25off_09",
-      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
-      "official_showcase": "Seedance 2.5"
-    }
-  },
-  {
-    "id": "sd25off_10",
-    "sort_order": -91,
-    "title": "Reference Character Runs Through Forest",
-    "description": "Drive motion from a reference image — the referenced character runs through a forest with a tracking camera. Supply the reference as @image1.",
-    "prompt": "Referencing the character in @image1, have him run through a forest with the camera tracking alongside.",
-    "category": "Image Reference",
-    "author_name": "Volcengine Ark",
-    "source_platform": "official",
-    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
-    "language": "en",
-    "featured": true,
-    "source_meta": {
-      "original_id": "sd25off_10",
-      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
-      "official_showcase": "Seedance 2.5"
-    }
-  },
-  {
-    "id": "sd25off_11",
-    "sort_order": -90,
-    "title": "Add Birds to a Reference Scene",
-    "description": "Keep a referenced scene and add motion — a flock of birds crosses the frame. Supply the reference as @image1.",
-    "prompt": "Referencing the scene in @image1, add a flock of birds flying across the frame.",
-    "category": "Image Reference",
-    "author_name": "Volcengine Ark",
-    "source_platform": "official",
-    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
-    "language": "en",
-    "featured": true,
-    "source_meta": {
-      "original_id": "sd25off_11",
-      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
-      "official_showcase": "Seedance 2.5"
-    }
-  },
-  {
-    "id": "sd25off_12",
-    "sort_order": -89,
-    "title": "360° Product Spin from Reference",
-    "description": "Turn a product reference into a rotating showcase — a full 360° spin on a display stand. Supply the reference as @image1.",
-    "prompt": "Referencing the product in @image1, make it rotate 360 degrees on a spinning display stand.",
-    "category": "Image Reference",
-    "author_name": "Volcengine Ark",
-    "source_platform": "official",
-    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
-    "language": "en",
-    "featured": true,
-    "source_meta": {
-      "original_id": "sd25off_12",
-      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
-      "official_showcase": "Seedance 2.5"
-    }
-  },
-  {
-    "id": "sd25off_13",
-    "sort_order": -88,
-    "title": "Reference Person Waves Naturally",
-    "description": "Animate a referenced person — a natural waving gesture with a lifelike expression. Supply the reference as @image1.",
-    "prompt": "Referencing the person in @image1, have them wave with a natural, lifelike expression.",
-    "category": "Image Reference",
-    "author_name": "Volcengine Ark",
-    "source_platform": "official",
-    "source_link": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
-    "language": "en",
-    "featured": true,
-    "source_meta": {
-      "original_id": "sd25off_13",
-      "atlas_prompt_url": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
-      "official_showcase": "Seedance 2.5"
-    }
+    "featured": true
   },
   {
     "id": "ur_001",

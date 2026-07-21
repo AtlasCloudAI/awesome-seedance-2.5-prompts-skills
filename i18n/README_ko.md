@@ -4,7 +4,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedance-2.5-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-107%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-100%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 > A curated collection of Seedance 2.5 video prompts — each with real previews via Atlas Cloud. 30s native clips · 50 multimodal references · flexible region editing. Cinematic, anime, UGC, ads, meme & more.
 
@@ -68,542 +68,398 @@ Seedance 2.5 is a major upgrade to Seedance 2.0 with three big gains: 30-second 
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **107** |
-| Categories | **16** |
-| Preview Videos | **88** |
-| Last Updated | **2026-07-20T17:21:54.955Z** |
+| Total Prompts | **100** |
+| Categories | **15** |
+| Preview Videos | **94** |
+| Last Updated | **2026-07-21T03:36:32.883Z** |
 
 ## 🏷️ Browse by Category
 
-- [`멀티샷 내러티브`](#category-1): **2**
-- [`원테이크 촬영`](#category-2): **6**
-- [`고급 카메라 무빙`](#category-3): **2**
-- [`스타일 변환`](#category-4): **2**
-- [`텍스트 렌더링`](#category-5): **2**
-- [`이미지 레퍼런스`](#category-6): **4**
-- [`Twitter Community`](#category-7): **24**
-- [`오디오 & 음성 합성`](#category-8): **10**
-- [`고급 카메라워크`](#category-9): **13**
-- [`영상 편집 & 리믹스`](#category-10): **5**
-- [`캐릭터 & 장면 일관성`](#category-11): **6**
-- [`크리에이티브 시각효과`](#category-12): **11**
-- [`초현실적 영상 생성`](#category-13): **5**
-- [`감정 연기`](#category-14): **3**
-- [`스토리 전개 & 확장`](#category-15): **8**
-- [`음악 싱크`](#category-16): **4**
+- [`Match-Cut & Creative Effects`](#category-1): **1**
+- [`One-Take Cinematography`](#category-2): **1**
+- [`Multi-Image Reference`](#category-3): **3**
+- [`Video Editing`](#category-4): **1**
+- [`Twitter Community`](#category-5): **24**
+- [`오디오 & 음성 합성`](#category-6): **10**
+- [`고급 카메라워크`](#category-7): **13**
+- [`영상 편집 & 리믹스`](#category-8): **5**
+- [`캐릭터 & 장면 일관성`](#category-9): **6**
+- [`크리에이티브 시각효과`](#category-10): **11**
+- [`초현실적 영상 생성`](#category-11): **5**
+- [`감정 연기`](#category-12): **3**
+- [`스토리 전개 & 확장`](#category-13): **8**
+- [`음악 싱크`](#category-14): **4**
+- [`원테이크 촬영`](#category-15): **5**
 
 ## 🔥 Featured Prompts
 
-### No. 1: 해변 달리기 — 3샷 스토리
+### No. 1: Crystal Ball Match-Cut Beat Film
 
-- **Category:** `멀티샷 내러티브`
+- **Category:** `Match-Cut & Creative Effects`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ko`
+- **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group1-1.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group1-1.mp4" controls muted playsinline width="720"></video>
 - **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-3샷 해변 시퀀스 — 트래킹 클로즈업, 카메라를 향한 돌아섬, 프리즈 프레임 와이드 — 일관된 피사체로 응집력 있는 멀티샷 내러티브를 보여준다.
+A beat-synced match-cut film: one crystal ball etched with a glowing 'seedance' logo stays centered while eight scenes cut seamlessly behind it.
 
 #### Prompt
 
 ```text
-[샷 1] 클로즈업, 소녀가 해변을 달리고 카메라가 그녀의 발걸음을 따라간다. [샷 2] 미디엄 샷, 그녀가 멈춰 서서 카메라를 향해 돌아보며 미소 짓는다. [샷 3] 와이드 샷, 그녀가 바다를 향해 두 팔을 벌리는 순간 화면이 정지한다.
+A fast-paced, cinematic Match-cut short film synced to a driving electronic beat. A flawless crystal ball stays fixed dead-center throughout, a glowing "seedance" logo etched inside it. The ball holds razor-sharp focus while, on every strong musical beat, the background match-cuts seamlessly: Scene 1: macro close-up, cinematic water splashing around the ball, refracting intricate light. Scene 2: a vintage morning cafe, the ball on a raw-wood table, rising coffee steam and blurred commuters beyond the window. Scene 3: golden-hour dusk, a skater youth tosses and catches the ball one-handed, street racing backward behind them in gorgeous backlit sunset. Scene 4: a frenzied music festival, hands raise the ball high, refracting dazzling stage lasers. Scene 5: a lively family party table, the ball resting center-frame, blurred figures toasting and reaching for food. Scene 6: a dim cinema, hands cupping the ball as the giant screen's faint glow drifts across its surface. Scene 7: the ball on a violently vibrating speaker diaphragm, match-cutting on the climax to a spinning DJ turntable center. Scene 8: an outdoor camping night, background becoming warm bonfire and swaying string-light bokeh. Finale: on the final downbeat the ball is hurled up out of frame; cut to pure black, a minimal white-on-black "seedance" appearing dead-center. Beat-synced match-cut editing, top-tier cinematic color grading, photoreal glass refraction, ray tracing, global illumination. Subject razor-sharp, background heavy motion blur.
 ```
 
-### No. 2: 바리스타의 라테 — 원컨티뉴어스 테이크
+### No. 2: Steampunk Clockwork — 30s One-Take
 
-- **Category:** `원테이크 촬영`
+- **Category:** `One-Take Cinematography`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ko`
+- **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group2-2.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group2-2.mp4" controls muted playsinline width="720"></video>
 - **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-원두를 갈아내는 것부터 마지막 라테아트까지 바리스타를 따라가는 끊김 없는 원테이크. 30초 원테이크 촬영을 선보인다.
+A 30-second steampunk miniature 3D sequence with continuous orbiting, pass-through camera moves.
 
 #### Prompt
 
 ```text
-바리스타가 카페에서 라테를 만든다 — 원두를 갈고, 에스프레소를 추출하고, 우유를 스티밍하고, 마지막으로 라테아트를 부어내기까지 모두 원컨티뉴어스 테이크로.
+A high-end, deeply cinematic 30-second 3D motion-graphics sequence in refined steampunk and vintage-miniature style, with continuous fluid orbiting and pass-through camera moves. [0-10s] Macro close-up of an antique brass clock face that unfolds layer by layer into meshing rotating gear rings and volumetric fog. The camera pierces down through the gears; a mechanical ornithopter spirals up from a miniature canyon of stacked weathered old books. [10-20s] The camera glides forward tracking the ornithopter, seamlessly passing into a fast-spinning ornate brass zoetrope projecting galloping mechanical-horse light. The light leaps out and the scene becomes a brass floating cable car on glimmering copper rails through a forest of gears, bathed in cinematic golden-hour light. [20-30s] The camera pans elegantly down; below appears an exquisite clockwork wooden sailing ship cutting deep-blue glass-textured waves, which morph into a glowing giant moon with lantern-holding explorer silhouettes trekking a crystal-vein ridge under stars. The camera spirals smoothly back through ethereal clouds to the ticking brass clock face. Hyper-real mechanical textures, rich brass and gold tones, cinematic shallow depth of field, smooth seamless pass-through camerawork, epic fantastical adventure atmosphere.
 ```
 
-### No. 3: 정상 등반가를 360° 오비트
+### No. 3: Windows Through Worlds (5 refs)
 
-- **Category:** `고급 카메라 무빙`
+- **Category:** `Multi-Image Reference`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ko`
+- **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-output.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-output.mp4" controls muted playsinline width="720"></video>
 - **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+- **Inputs:**
+
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference1.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference2.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference3.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference4.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference5.png" width="180" referrerpolicy="no-referrer">
 
 #### Description
 
-정상에 선 산악인을 중심으로 360도 오비트 이동을 하며 설산 파노라마를 드러낸다 — 정밀한 카메라 무빙 제어.
+A brand concept short driven by 5 reference images, gliding through windows into different worlds.
 
 #### Prompt
 
 ```text
-카메라가 정상에 선 산악인 주위를 360도 회전하며 눈 덮인 봉우리들의 장엄한 파노라마를 드러낸다.
+A cinematic brand concept short. @image1 is the first frame; the picture trembles slightly, the camera pushes in to tree shadows rushing backward outside the window, their retreat accelerating, then abruptly cuts to @image2, speed easing as the camera glides slowly along a stream, birdsong and blossoms. The camera drops underwater — bubble sounds — as orange jellyfish drift gracefully past the lens @image3; the camera pulls back as small fish flit past and swim from the water into the window @image4, a girl looking around, watching them. The camera pulls back, defocuses, then refocuses sharp, switching to the music's rhythm: a Chinese-garden lattice window @image5 with light circling, church stained glass, an airplane porthole, a dome skylight, a bay window, louver blinds, a European dormer, a door peephole, a camera viewfinder, a bird's eye, a human eye close-up. It settles on the human eye; the eye closes, screen black, then suddenly opens — "seedance" appearing in the center of the eye on the accent beat.
 ```
 
-### No. 4: 빠른 풀백 — 한 송이에서 꽃바다로
+### No. 4: One-Take Through Six Rooms (8 refs)
 
-- **Category:** `고급 카메라 무빙`
+- **Category:** `Multi-Image Reference`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ko`
+- **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-output.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-output.mp4" controls muted playsinline width="720"></video>
 - **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+- **Inputs:**
+
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference1.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference2.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference3.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference4.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference5.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference7.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference8.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference9.png" width="180" referrerpolicy="no-referrer">
 
 #### Description
 
-한 송이 꽃에서 광활한 꽃밭으로 빠르게 달리아웃한 뒤 먼 봉우리에 멈춘다 — 역동적인 카메라 무빙 제어.
+One continuous take following a figure through six mood-shifting rooms, driven by 8 reference images.
 
 #### Prompt
 
 ```text
-카메라가 한 송이 꽃의 클로즈업에서 빠르게 뒤로 물러나며 온통 펼쳐진 꽃바다를 드러내고, 마지막으로 멀리 있는 설산에 멈춘다.
+One continuous take. The camera smoothly follows a person in a black coat (reference @image1) moving left to right through six connected rooms of different tones and moods. Every room shares the same structure: white walls, light herringbone wood floor, French floor-to-ceiling windows, white sheer curtains (reference @image2) but the outside view and mood differ each time. The protagonist walks at a constant pace, passing through every open door. 0-5s room one, American-comic fight: the protagonist fights a character (@image3), who is defeated; 5-10s room two, warmth, felt-craft style, window view a sunflower field (@image4), warm-orange soft light, a painter painting sunflowers (@image5), the protagonist turning felt-style on entering; 10-15s room three, sorrow, black-and-white comic stop-motion, rain outside, cold-grey light, a person alone on the floor hugging their knees, a phone glowing with an unanswered call; on entering, the light blinks off then on, the room turns color, flowers bursting into bloom; 15-20s room four, joy, a room submerged in the sea (reference @image6), the protagonist turning transparent among coral and fish; 20-25s room five, surprise, window view a sky of fireworks (reference @image7), colorful flickering light, the protagonist swept up in a cheering crowd; 25-30s a blank white room, the protagonist snaps their fingers — snap SFX — frame goes black, "seedance" in the middle (reference @image8). Cinematic quality, high-fashion advertising style, lighting entirely determined by the window views for strong emotional contrast, no text in frame.
 ```
 
-### No. 5: 지브리풍 벚꽃 길
+### No. 5: Video Edit — Remove All But the Lead
 
-- **Category:** `스타일 변환`
+- **Category:** `Video Editing`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ko`
+- **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-output.mov)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-output.mov" controls muted playsinline width="720"></video>
 - **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+- **Inputs:**
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-reference1.mp4" controls muted width="360"></video>
 
 #### Description
 
-영상을 스튜디오 지브리 애니메이션 풍으로 변환해 소녀가 꽃잎 흩날리는 길을 걷는다 — 스타일 변환.
+Reference-video editing: erase everyone except the protagonist from a source clip.
 
 #### Prompt
 
 ```text
-장면을 스튜디오 지브리 애니메이션 스타일로 변환한다 — 소녀가 길을 걷고 그 주위로 벚꽃 잎이 흩날려 내린다.
+Video editing: remove everyone in @video1 except the protagonist.
 ```
 
-### No. 6: 산수 속 수묵화 배
+### No. 6: Multilingual Hip-Hop 'Hello' MV
 
-- **Category:** `스타일 변환`
+- **Category:** `Multi-Image Reference`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ko`
+- **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-output.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-output.mp4" controls muted playsinline width="720"></video>
 - **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+- **Inputs:**
+
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-reference1.png" width="180" referrerpolicy="no-referrer">
 
 #### Description
 
-영상을 전통 중국 수묵화 풍으로 변환해 한 척의 배가 산수 사이를 떠간다 — 스타일 변환.
+A seaside hip-hop MV built from one reference image; the lead raps 'hello' in 8 languages, lip-synced, hard cuts on the beat.
 
 #### Prompt
 
 ```text
-장면을 중국 수묵화 스타일로 변환한다 — 작은 배 한 척이 산과 강 사이를 천천히 떠간다.
+Cinematic hip-hop / rap music video, photoreal quality, high-end tone, seaside setting. Build the frame from @image1: a band performs at a golden sand beach with crashing waves — a lead vocalist gripping a mic on a stand in the wet sand, one guitarist left, one right, a drummer at the back; a vast coastline behind, rolling waves, a warm golden-hour sun shimmering on the water, sea mist in the air. The lead in a red tracksuit raps to camera — lips and jaw precisely synced to every word, head punching to the beat. Bright, punchy, fast, confident rap. HARD CUT on the beat, each switch a double contrast (shot size and type change together). Lyrics (the lead sings 'hello' in each language in turn, precisely lip-synced): English "Hello", Chinese "你好", Japanese "こんにちは", Korean "안녕하세요", Portuguese "Olá", Thai "สวัสดี", Spanish "Hola", Arabic "مرحبا". 8 hard-cut shots (low-angle wide establishing; close-up rap to camera; macro guitar-string insert; 3/4 prowling orbit; lateral track at shore; drummer tilt-up; tight push on the lead; heroic full-band push-in), one language per shot. White balance 4000K, teal-and-amber grade, 35mm, shallow depth of field, film grain, sea mist, golden-hour flare. Premium feel, precise lip-sync, no subtitles, no text overlays, hard cuts only, total 20 seconds.
 ```
 
-### No. 7: 빗속의 네온 "SEEDANCE" 간판
+### No. 7: 어안 렌즈 말 코미디
 
-- **Category:** `텍스트 렌더링`
+- **Category:** `오디오 & 음성 합성`
 - **Source:** `official`
-- **Author:** Volcengine Ark
+- **Author:** AtlasCloud
 - **Language:** `ko`
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/26d450cd-23c4-499e-9fd6-1752dabbc8bd.mp4)
+
+<video src="https://static.atlascloud.ai/uploads/seedance-2.0/26d450cd-23c4-499e-9fd6-1752dabbc8bd.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/33)
 
 #### Description
 
-정확한 화면 텍스트 렌더링 — 비 내리는 밤 도시 거리에서 깜빡이는 네온 "SEEDANCE" 간판.
+어안 렌즈를 통해 동물 캐릭터의 대사와 음향을 동기화한 코미디 장면입니다.
 
 #### Prompt
 
 ```text
-비 내리는 밤 도시 거리에서 "SEEDANCE"라고 적힌 네온 간판이 깜빡이고, 그 빛이 젖은 노면에 반사된다.
+고정 카메라, 중앙 어안렌즈가 원형 구멍 너머 아래를 내려다본다. video1의 어안 느낌을 참고하고 @video2 말이 렌즈를 바라보게 한다. @video1의 말하기 동작, @video3 음향을 참고한다.
 ```
 
-### No. 8: 금박 글씨 책 표지가 열린다
+### No. 8: VR 글래스 유니버스 저니
 
-- **Category:** `텍스트 렌더링`
+- **Category:** `크리에이티브 시각효과`
 - **Source:** `official`
-- **Author:** Volcengine Ark
+- **Author:** AtlasCloud
 - **Language:** `ko`
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/dddb1fb2-d73a-4b6a-a2bf-bf416be652c6.mp4)
+
+<video src="https://static.atlascloud.ai/uploads/seedance-2.0/dddb1fb2-d73a-4b6a-a2bf-bf416be652c6.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/18)
 
 #### Description
 
-표지에 또렷하게 렌더링된 텍스트 — 금색의 "인공지능의 미래" — 책이 천천히 열린다.
+현실에서 VR 인터페이스를 거쳐 다중 디지털 공간으로 이동하는 몰입형 주관 시점 전환입니다.
 
 #### Prompt
 
 ```text
-책 표지에 금색 글씨로 "인공지능의 미래"라고 적혀 있고, 책이 천천히 열린다.
+@video1 인물을 @image1로 교체하고 @image1을 첫 프레임으로 사용. 근접 오비탈 쇼트와 3인칭→주관 시점 전환으로 AI 고글 공간을 통과해 @image2의 깊은 푸른 우주로 이동, 여러 우주선이 멀리 비행한다.
 ```
 
 ## 📋 All Prompts
 
 <a id="category-1"></a>
 
-### 멀티샷 내러티브 (2)
+### Match-Cut & Creative Effects (1)
 
-### No. 1: 해변 달리기 — 3샷 스토리
+### No. 1: Crystal Ball Match-Cut Beat Film
 
-- **Category:** `멀티샷 내러티브`
+- **Category:** `Match-Cut & Creative Effects`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ko`
+- **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group1-1.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group1-1.mp4" controls muted playsinline width="720"></video>
 - **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-3샷 해변 시퀀스 — 트래킹 클로즈업, 카메라를 향한 돌아섬, 프리즈 프레임 와이드 — 일관된 피사체로 응집력 있는 멀티샷 내러티브를 보여준다.
+A beat-synced match-cut film: one crystal ball etched with a glowing 'seedance' logo stays centered while eight scenes cut seamlessly behind it.
 
 #### Prompt
 
 ```text
-[샷 1] 클로즈업, 소녀가 해변을 달리고 카메라가 그녀의 발걸음을 따라간다. [샷 2] 미디엄 샷, 그녀가 멈춰 서서 카메라를 향해 돌아보며 미소 짓는다. [샷 3] 와이드 샷, 그녀가 바다를 향해 두 팔을 벌리는 순간 화면이 정지한다.
-```
-
-### No. 2: 달 위의 우주비행사 — 3샷
-
-- **Category:** `멀티샷 내러티브`
-- **Source:** `official`
-- **Author:** Volcengine Ark
-- **Language:** `ko`
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
-
-#### Description
-
-3샷 달 표면 시퀀스 — 지구를 바라보고, 착륙선으로 걸어가고, 이륙한다 — 일관된 피사체의 멀티샷 내러티브.
-
-#### Prompt
-
-```text
-[샷 1] 우주비행사가 달 표면에 서서 지구를 바라본다. [샷 2] 우주비행사가 돌아서 달 착륙선으로 걸어간다. [샷 3] 착륙선이 이륙하며 달 먼지를 일으킨다.
+A fast-paced, cinematic Match-cut short film synced to a driving electronic beat. A flawless crystal ball stays fixed dead-center throughout, a glowing "seedance" logo etched inside it. The ball holds razor-sharp focus while, on every strong musical beat, the background match-cuts seamlessly: Scene 1: macro close-up, cinematic water splashing around the ball, refracting intricate light. Scene 2: a vintage morning cafe, the ball on a raw-wood table, rising coffee steam and blurred commuters beyond the window. Scene 3: golden-hour dusk, a skater youth tosses and catches the ball one-handed, street racing backward behind them in gorgeous backlit sunset. Scene 4: a frenzied music festival, hands raise the ball high, refracting dazzling stage lasers. Scene 5: a lively family party table, the ball resting center-frame, blurred figures toasting and reaching for food. Scene 6: a dim cinema, hands cupping the ball as the giant screen's faint glow drifts across its surface. Scene 7: the ball on a violently vibrating speaker diaphragm, match-cutting on the climax to a spinning DJ turntable center. Scene 8: an outdoor camping night, background becoming warm bonfire and swaying string-light bokeh. Finale: on the final downbeat the ball is hurled up out of frame; cut to pure black, a minimal white-on-black "seedance" appearing dead-center. Beat-synced match-cut editing, top-tier cinematic color grading, photoreal glass refraction, ray tracing, global illumination. Subject razor-sharp, background heavy motion blur.
 ```
 
 <a id="category-2"></a>
 
-### 원테이크 촬영 (6)
+### One-Take Cinematography (1)
 
-### No. 1: 바리스타의 라테 — 원컨티뉴어스 테이크
+### No. 1: Steampunk Clockwork — 30s One-Take
 
-- **Category:** `원테이크 촬영`
+- **Category:** `One-Take Cinematography`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ko`
+- **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group2-2.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group2-2.mp4" controls muted playsinline width="720"></video>
 - **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-원두를 갈아내는 것부터 마지막 라테아트까지 바리스타를 따라가는 끊김 없는 원테이크. 30초 원테이크 촬영을 선보인다.
+A 30-second steampunk miniature 3D sequence with continuous orbiting, pass-through camera moves.
 
 #### Prompt
 
 ```text
-바리스타가 카페에서 라테를 만든다 — 원두를 갈고, 에스프레소를 추출하고, 우유를 스티밍하고, 마지막으로 라테아트를 부어내기까지 모두 원컨티뉴어스 테이크로.
-```
-
-### No. 2: 롤러코스터 POV
-
-- **Category:** `원테이크 촬영`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/fabf98a8-432c-479a-bcd3-3736677190b2.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/fabf98a8-432c-479a-bcd3-3736677190b2.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/47)
-
-#### Description
-
-점점 속도가 높아지는 롤러코스터 1인칭 체험 연출입니다.
-
-#### Prompt
-
-```text
-@image1 @image2 @image3 @image4 @image5, 주관 시점 롤러코스터 체험. 급강하, 회전, 상승을 빠르게 반복해 강한 몰입감을 준다.
-```
-
-### No. 3: 아늑한 오두막 티타임
-
-- **Category:** `원테이크 촬영`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d1d1c955-c271-44ba-bd3e-1537e33a2e29.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d1d1c955-c271-44ba-bd3e-1537e33a2e29.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/46)
-
-#### Description
-
-따뜻한 실내로 진입하는 1인칭 원테이크 장면입니다.
-
-#### Prompt
-
-```text
-@image1 외관 기반 1인칭 시점으로 실내에 들어가 주변을 둘러본다. 아늑한 집 분위기와 공간 배치를 원테이크로 보여준다.
-```
-
-### No. 4: 스파이 스릴러 추적
-
-- **Category:** `원테이크 촬영`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/873ead10-156a-4f5f-aafc-1a0a743c3ef7.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/873ead10-156a-4f5f-aafc-1a0a743c3ef7.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/45)
-
-#### Description
-
-도시 공간을 가로지르는 비밀요원을 긴장감 있게 추적하는 원테이크입니다.
-
-#### Prompt
-
-```text
-스파이 스릴러 스타일. @image1을 시작 프레임으로, 정면 추적으로 거리·계단·옥상을 빠르게 통과하는 긴장감 있는 원테이크 추격 장면을 만든다.
-```
-
-### No. 5: 비행기 창문 아이스크림 드림
-
-- **Category:** `원테이크 촬영`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/3421ca69-533f-4ef7-aef2-2aabad3d53fe.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/3421ca69-533f-4ef7-aef2-2aabad3d53fe.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/44)
-
-#### Description
-
-비행기 창문에서 시작해 초현실적 상호작용으로 이어지는 원테이크입니다.
-
-#### Prompt
-
-```text
-@image1을 첫 프레임으로 시작해 비행기 창밖으로 확대. 구름이 천천히 들어오고, 중앙의 컬러 캔디 구름이 @image2 아이스크림으로 변형된다.
-```
-
-### No. 6: 파쿠르 추격 시퀀스
-
-- **Category:** `원테이크 촬영`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c8b0a7bb-eae5-417f-bf63-e3a114a1364f.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/c8b0a7bb-eae5-417f-bf63-e3a114a1364f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/43)
-
-#### Description
-
-여러 환경을 통과하는 러너를 한 번에 따라가는 역동적 원테이크입니다.
-
-#### Prompt
-
-```text
-@image1@image2@image3@image4@image5, 원테이크 추적. 거리에서 계단, 복도, 옥상까지 러너를 따라가고 마지막에 도시를 내려다본다.
+A high-end, deeply cinematic 30-second 3D motion-graphics sequence in refined steampunk and vintage-miniature style, with continuous fluid orbiting and pass-through camera moves. [0-10s] Macro close-up of an antique brass clock face that unfolds layer by layer into meshing rotating gear rings and volumetric fog. The camera pierces down through the gears; a mechanical ornithopter spirals up from a miniature canyon of stacked weathered old books. [10-20s] The camera glides forward tracking the ornithopter, seamlessly passing into a fast-spinning ornate brass zoetrope projecting galloping mechanical-horse light. The light leaps out and the scene becomes a brass floating cable car on glimmering copper rails through a forest of gears, bathed in cinematic golden-hour light. [20-30s] The camera pans elegantly down; below appears an exquisite clockwork wooden sailing ship cutting deep-blue glass-textured waves, which morph into a glowing giant moon with lantern-holding explorer silhouettes trekking a crystal-vein ridge under stars. The camera spirals smoothly back through ethereal clouds to the ticking brass clock face. Hyper-real mechanical textures, rich brass and gold tones, cinematic shallow depth of field, smooth seamless pass-through camerawork, epic fantastical adventure atmosphere.
 ```
 
 <a id="category-3"></a>
 
-### 고급 카메라 무빙 (2)
+### Multi-Image Reference (3)
 
-### No. 1: 정상 등반가를 360° 오비트
+### No. 1: Windows Through Worlds (5 refs)
 
-- **Category:** `고급 카메라 무빙`
+- **Category:** `Multi-Image Reference`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ko`
+- **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-output.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-output.mp4" controls muted playsinline width="720"></video>
 - **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+- **Inputs:**
+
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference1.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference2.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference3.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference4.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference5.png" width="180" referrerpolicy="no-referrer">
 
 #### Description
 
-정상에 선 산악인을 중심으로 360도 오비트 이동을 하며 설산 파노라마를 드러낸다 — 정밀한 카메라 무빙 제어.
+A brand concept short driven by 5 reference images, gliding through windows into different worlds.
 
 #### Prompt
 
 ```text
-카메라가 정상에 선 산악인 주위를 360도 회전하며 눈 덮인 봉우리들의 장엄한 파노라마를 드러낸다.
+A cinematic brand concept short. @image1 is the first frame; the picture trembles slightly, the camera pushes in to tree shadows rushing backward outside the window, their retreat accelerating, then abruptly cuts to @image2, speed easing as the camera glides slowly along a stream, birdsong and blossoms. The camera drops underwater — bubble sounds — as orange jellyfish drift gracefully past the lens @image3; the camera pulls back as small fish flit past and swim from the water into the window @image4, a girl looking around, watching them. The camera pulls back, defocuses, then refocuses sharp, switching to the music's rhythm: a Chinese-garden lattice window @image5 with light circling, church stained glass, an airplane porthole, a dome skylight, a bay window, louver blinds, a European dormer, a door peephole, a camera viewfinder, a bird's eye, a human eye close-up. It settles on the human eye; the eye closes, screen black, then suddenly opens — "seedance" appearing in the center of the eye on the accent beat.
 ```
 
-### No. 2: 빠른 풀백 — 한 송이에서 꽃바다로
+### No. 2: One-Take Through Six Rooms (8 refs)
 
-- **Category:** `고급 카메라 무빙`
+- **Category:** `Multi-Image Reference`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ko`
+- **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-output.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-output.mp4" controls muted playsinline width="720"></video>
 - **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+- **Inputs:**
+
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference1.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference2.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference3.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference4.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference5.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference7.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference8.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference9.png" width="180" referrerpolicy="no-referrer">
 
 #### Description
 
-한 송이 꽃에서 광활한 꽃밭으로 빠르게 달리아웃한 뒤 먼 봉우리에 멈춘다 — 역동적인 카메라 무빙 제어.
+One continuous take following a figure through six mood-shifting rooms, driven by 8 reference images.
 
 #### Prompt
 
 ```text
-카메라가 한 송이 꽃의 클로즈업에서 빠르게 뒤로 물러나며 온통 펼쳐진 꽃바다를 드러내고, 마지막으로 멀리 있는 설산에 멈춘다.
+One continuous take. The camera smoothly follows a person in a black coat (reference @image1) moving left to right through six connected rooms of different tones and moods. Every room shares the same structure: white walls, light herringbone wood floor, French floor-to-ceiling windows, white sheer curtains (reference @image2) but the outside view and mood differ each time. The protagonist walks at a constant pace, passing through every open door. 0-5s room one, American-comic fight: the protagonist fights a character (@image3), who is defeated; 5-10s room two, warmth, felt-craft style, window view a sunflower field (@image4), warm-orange soft light, a painter painting sunflowers (@image5), the protagonist turning felt-style on entering; 10-15s room three, sorrow, black-and-white comic stop-motion, rain outside, cold-grey light, a person alone on the floor hugging their knees, a phone glowing with an unanswered call; on entering, the light blinks off then on, the room turns color, flowers bursting into bloom; 15-20s room four, joy, a room submerged in the sea (reference @image6), the protagonist turning transparent among coral and fish; 20-25s room five, surprise, window view a sky of fireworks (reference @image7), colorful flickering light, the protagonist swept up in a cheering crowd; 25-30s a blank white room, the protagonist snaps their fingers — snap SFX — frame goes black, "seedance" in the middle (reference @image8). Cinematic quality, high-fashion advertising style, lighting entirely determined by the window views for strong emotional contrast, no text in frame.
+```
+
+### No. 3: Multilingual Hip-Hop 'Hello' MV
+
+- **Category:** `Multi-Image Reference`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `ko`
+- **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-output.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-output.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+- **Inputs:**
+
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-reference1.png" width="180" referrerpolicy="no-referrer">
+
+#### Description
+
+A seaside hip-hop MV built from one reference image; the lead raps 'hello' in 8 languages, lip-synced, hard cuts on the beat.
+
+#### Prompt
+
+```text
+Cinematic hip-hop / rap music video, photoreal quality, high-end tone, seaside setting. Build the frame from @image1: a band performs at a golden sand beach with crashing waves — a lead vocalist gripping a mic on a stand in the wet sand, one guitarist left, one right, a drummer at the back; a vast coastline behind, rolling waves, a warm golden-hour sun shimmering on the water, sea mist in the air. The lead in a red tracksuit raps to camera — lips and jaw precisely synced to every word, head punching to the beat. Bright, punchy, fast, confident rap. HARD CUT on the beat, each switch a double contrast (shot size and type change together). Lyrics (the lead sings 'hello' in each language in turn, precisely lip-synced): English "Hello", Chinese "你好", Japanese "こんにちは", Korean "안녕하세요", Portuguese "Olá", Thai "สวัสดี", Spanish "Hola", Arabic "مرحبا". 8 hard-cut shots (low-angle wide establishing; close-up rap to camera; macro guitar-string insert; 3/4 prowling orbit; lateral track at shore; drummer tilt-up; tight push on the lead; heroic full-band push-in), one language per shot. White balance 4000K, teal-and-amber grade, 35mm, shallow depth of field, film grain, sea mist, golden-hour flare. Premium feel, precise lip-sync, no subtitles, no text overlays, hard cuts only, total 20 seconds.
 ```
 
 <a id="category-4"></a>
 
-### 스타일 변환 (2)
+### Video Editing (1)
 
-### No. 1: 지브리풍 벚꽃 길
+### No. 1: Video Edit — Remove All But the Lead
 
-- **Category:** `스타일 변환`
+- **Category:** `Video Editing`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ko`
+- **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-output.mov)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-output.mov" controls muted playsinline width="720"></video>
 - **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+- **Inputs:**
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-reference1.mp4" controls muted width="360"></video>
 
 #### Description
 
-영상을 스튜디오 지브리 애니메이션 풍으로 변환해 소녀가 꽃잎 흩날리는 길을 걷는다 — 스타일 변환.
+Reference-video editing: erase everyone except the protagonist from a source clip.
 
 #### Prompt
 
 ```text
-장면을 스튜디오 지브리 애니메이션 스타일로 변환한다 — 소녀가 길을 걷고 그 주위로 벚꽃 잎이 흩날려 내린다.
-```
-
-### No. 2: 산수 속 수묵화 배
-
-- **Category:** `스타일 변환`
-- **Source:** `official`
-- **Author:** Volcengine Ark
-- **Language:** `ko`
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
-
-#### Description
-
-영상을 전통 중국 수묵화 풍으로 변환해 한 척의 배가 산수 사이를 떠간다 — 스타일 변환.
-
-#### Prompt
-
-```text
-장면을 중국 수묵화 스타일로 변환한다 — 작은 배 한 척이 산과 강 사이를 천천히 떠간다.
+Video editing: remove everyone in @video1 except the protagonist.
 ```
 
 <a id="category-5"></a>
-
-### 텍스트 렌더링 (2)
-
-### No. 1: 빗속의 네온 "SEEDANCE" 간판
-
-- **Category:** `텍스트 렌더링`
-- **Source:** `official`
-- **Author:** Volcengine Ark
-- **Language:** `ko`
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
-
-#### Description
-
-정확한 화면 텍스트 렌더링 — 비 내리는 밤 도시 거리에서 깜빡이는 네온 "SEEDANCE" 간판.
-
-#### Prompt
-
-```text
-비 내리는 밤 도시 거리에서 "SEEDANCE"라고 적힌 네온 간판이 깜빡이고, 그 빛이 젖은 노면에 반사된다.
-```
-
-### No. 2: 금박 글씨 책 표지가 열린다
-
-- **Category:** `텍스트 렌더링`
-- **Source:** `official`
-- **Author:** Volcengine Ark
-- **Language:** `ko`
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
-
-#### Description
-
-표지에 또렷하게 렌더링된 텍스트 — 금색의 "인공지능의 미래" — 책이 천천히 열린다.
-
-#### Prompt
-
-```text
-책 표지에 금색 글씨로 "인공지능의 미래"라고 적혀 있고, 책이 천천히 열린다.
-```
-
-<a id="category-6"></a>
-
-### 이미지 레퍼런스 (4)
-
-### No. 1: 레퍼런스 캐릭터가 숲을 달린다
-
-- **Category:** `이미지 레퍼런스`
-- **Source:** `official`
-- **Author:** Volcengine Ark
-- **Language:** `ko`
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
-
-#### Description
-
-레퍼런스 이미지로 움직임을 구동한다 — 참조된 캐릭터가 숲을 달리고 카메라가 트래킹한다. 레퍼런스는 @image1로 제공한다.
-
-#### Prompt
-
-```text
-@image1의 캐릭터를 참조해 그가 숲속을 달리고 카메라가 나란히 따라가게 한다.
-```
-
-### No. 2: 레퍼런스 장면에 새 추가
-
-- **Category:** `이미지 레퍼런스`
-- **Source:** `official`
-- **Author:** Volcengine Ark
-- **Language:** `ko`
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
-
-#### Description
-
-참조된 장면을 유지하며 움직임을 더한다 — 새 떼가 화면을 가로지른다. 레퍼런스는 @image1로 제공한다.
-
-#### Prompt
-
-```text
-@image1의 장면을 참조해 새 떼가 화면을 가로질러 날아가는 모습을 더한다.
-```
-
-### No. 3: 레퍼런스로 360° 제품 회전
-
-- **Category:** `이미지 레퍼런스`
-- **Source:** `official`
-- **Author:** Volcengine Ark
-- **Language:** `ko`
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
-
-#### Description
-
-제품 레퍼런스를 회전 쇼케이스로 바꾼다 — 디스플레이 받침대 위에서 360° 회전한다. 레퍼런스는 @image1로 제공한다.
-
-#### Prompt
-
-```text
-@image1의 제품을 참조해 회전하는 디스플레이 받침대 위에서 360도 회전하게 한다.
-```
-
-### No. 4: 레퍼런스 인물이 자연스럽게 손을 흔든다
-
-- **Category:** `이미지 레퍼런스`
-- **Source:** `official`
-- **Author:** Volcengine Ark
-- **Language:** `ko`
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
-
-#### Description
-
-참조된 인물을 애니메이션한다 — 생생한 표정과 함께 자연스럽게 손을 흔드는 동작. 레퍼런스는 @image1로 제공한다.
-
-#### Prompt
-
-```text
-@image1의 인물을 참조해 자연스럽고 생생한 표정으로 손을 흔들게 한다.
-```
-
-<a id="category-7"></a>
 
 ### Twitter Community (24)
 
@@ -1093,7 +949,7 @@ first person view of a diver on a boat, high five with another diver, clear blue
 a man giving a presentation in front of an audience, holding a microphone, with a large screen displaying two reflective spheres on a dark surface, natural light from windows, indoor setting with plants and audio equipment
 ```
 
-<a id="category-8"></a>
+<a id="category-6"></a>
 
 ### 오디오 & 음성 합성 (10)
 
@@ -1310,7 +1166,7 @@ a man giving a presentation in front of an audience, holding a microphone, with 
 15초 MV 생성. 키워드: 안정적 구도, 영화감, 여행, 풍경. 장엄한 자연을 보여주고 서정 음악으로 자유와 탐험의 주제를 전달한다.
 ```
 
-<a id="category-9"></a>
+<a id="category-7"></a>
 
 ### 고급 카메라워크 (13)
 
@@ -1587,7 +1443,7 @@ video1의 캐릭터 동작과 @image1/@image2 환경을 참고해 판타지 전�
 현대 도심 야간 배경의 여성 2인 무술 대결. 와이드로 거리와 동선을 보여주고, 미디엄 추적으로 공방 리듬을 살리며, 타격 순간은 클로즈업으로 호흡·근육·충격을 강조한다. 로우 앵글 회전, 숄더 샷, 빠른 측면 이동을 섞되 방향성은 명확하게 유지한다. 동작은 물리적으로 자연스럽고 무게감 있게 표현한다.
 ```
 
-<a id="category-10"></a>
+<a id="category-8"></a>
 
 ### 영상 편집 & 리믹스 (5)
 
@@ -1700,7 +1556,7 @@ video1의 여자 보컬을 @image1 남자 보컬로 교체. 기존 무대 퍼포
 video1 여성의 헤어를 빨간 긴 머리로 변경하고 클로즈업으로 새 헤어스타일을 강조한다. 다른 요소는 유지한다.
 ```
 
-<a id="category-11"></a>
+<a id="category-9"></a>
 
 ### 캐릭터 & 장면 일관성 (6)
 
@@ -1830,7 +1686,7 @@ video1 여성의 헤어를 빨간 긴 머리로 변경하고 클로즈업으로 
 0-2초: 4분할 플래시 컷(빨강/핑크/보라/파랑), @image1 제품이 중앙에서 회전. 2-4초: 제품 360도 클로즈업으로 디테일 강조. 4-6초: 로고 클로즈업과 브랜드명 페이드 인. 전체는 강한 전자음악 리듬에 맞춘다.
 ```
 
-<a id="category-12"></a>
+<a id="category-10"></a>
 
 ### 크리에이티브 시각효과 (11)
 
@@ -2065,7 +1921,7 @@ video1 여성의 헤어를 빨간 긴 머리로 변경하고 클로즈업으로 
 흑백 수묵화 스타일. @image1 캐릭터가 @video1 동작을 참고해 수묵 산수 배경에서 무술을 펼친다. 먹물 튐 효과로 전통과 현대를 결합한다.
 ```
 
-<a id="category-13"></a>
+<a id="category-11"></a>
 
 ### 초현실적 영상 생성 (5)
 
@@ -2174,7 +2030,7 @@ video1 여성의 헤어를 빨간 긴 머리로 변경하고 클로즈업으로 
 고정 카메라. 소녀가 우아하게 빨래를 널고, 끝나면 바구니에서 다른 옷을 꺼내 힘 있게 턴다.
 ```
 
-<a id="category-14"></a>
+<a id="category-12"></a>
 
 ### 감정 연기 (3)
 
@@ -2241,7 +2097,7 @@ video1 여성의 헤어를 빨간 긴 머리로 변경하고 클로즈업으로 
 @image1의 여성이 거울 앞으로 가서 자신을 바라본다. 표정이 평온에서 슬픔으로 변하고 눈물이 흐르며 감정이 무너지는 심리극을 연출한다.
 ```
 
-<a id="category-15"></a>
+<a id="category-13"></a>
 
 ### 스토리 전개 & 확장 (8)
 
@@ -2416,7 +2272,7 @@ video1의 오디오를 참고해 이미지 1~5 기반 15초 감성 단편을 생
 영상을 6초 연장. 강한 일렉 기타가 나오고 중앙에 "JUST DO IT" 텍스트가 나타났다 사라진다. 카메라가 천장으로 올라가고, 건장한 남성이 링 운동을 한다. 상의는 @image1, 등에는 @image2의 "Fitness" 로고.
 ```
 
-<a id="category-16"></a>
+<a id="category-14"></a>
 
 ### 음악 싱크 (4)
 
@@ -2504,6 +2360,115 @@ video1의 오디오를 참고해 이미지 1~5 기반 15초 감성 단편을 생
 @image1 @image2 @image3 @image4 @image5 @image6 풍경 이미지를 음악 전환에 맞춰 일출에서 일몰까지 이어지는 MV 스타일로 구성한다.
 ```
 
+<a id="category-15"></a>
+
+### 원테이크 촬영 (5)
+
+### No. 1: 롤러코스터 POV
+
+- **Category:** `원테이크 촬영`
+- **Source:** `official`
+- **Author:** AtlasCloud
+- **Language:** `ko`
+- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/fabf98a8-432c-479a-bcd3-3736677190b2.mp4)
+
+<video src="https://static.atlascloud.ai/uploads/seedance-2.0/fabf98a8-432c-479a-bcd3-3736677190b2.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/47)
+
+#### Description
+
+점점 속도가 높아지는 롤러코스터 1인칭 체험 연출입니다.
+
+#### Prompt
+
+```text
+@image1 @image2 @image3 @image4 @image5, 주관 시점 롤러코스터 체험. 급강하, 회전, 상승을 빠르게 반복해 강한 몰입감을 준다.
+```
+
+### No. 2: 아늑한 오두막 티타임
+
+- **Category:** `원테이크 촬영`
+- **Source:** `official`
+- **Author:** AtlasCloud
+- **Language:** `ko`
+- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d1d1c955-c271-44ba-bd3e-1537e33a2e29.mp4)
+
+<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d1d1c955-c271-44ba-bd3e-1537e33a2e29.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/46)
+
+#### Description
+
+따뜻한 실내로 진입하는 1인칭 원테이크 장면입니다.
+
+#### Prompt
+
+```text
+@image1 외관 기반 1인칭 시점으로 실내에 들어가 주변을 둘러본다. 아늑한 집 분위기와 공간 배치를 원테이크로 보여준다.
+```
+
+### No. 3: 스파이 스릴러 추적
+
+- **Category:** `원테이크 촬영`
+- **Source:** `official`
+- **Author:** AtlasCloud
+- **Language:** `ko`
+- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/873ead10-156a-4f5f-aafc-1a0a743c3ef7.mp4)
+
+<video src="https://static.atlascloud.ai/uploads/seedance-2.0/873ead10-156a-4f5f-aafc-1a0a743c3ef7.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/45)
+
+#### Description
+
+도시 공간을 가로지르는 비밀요원을 긴장감 있게 추적하는 원테이크입니다.
+
+#### Prompt
+
+```text
+스파이 스릴러 스타일. @image1을 시작 프레임으로, 정면 추적으로 거리·계단·옥상을 빠르게 통과하는 긴장감 있는 원테이크 추격 장면을 만든다.
+```
+
+### No. 4: 비행기 창문 아이스크림 드림
+
+- **Category:** `원테이크 촬영`
+- **Source:** `official`
+- **Author:** AtlasCloud
+- **Language:** `ko`
+- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/3421ca69-533f-4ef7-aef2-2aabad3d53fe.mp4)
+
+<video src="https://static.atlascloud.ai/uploads/seedance-2.0/3421ca69-533f-4ef7-aef2-2aabad3d53fe.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/44)
+
+#### Description
+
+비행기 창문에서 시작해 초현실적 상호작용으로 이어지는 원테이크입니다.
+
+#### Prompt
+
+```text
+@image1을 첫 프레임으로 시작해 비행기 창밖으로 확대. 구름이 천천히 들어오고, 중앙의 컬러 캔디 구름이 @image2 아이스크림으로 변형된다.
+```
+
+### No. 5: 파쿠르 추격 시퀀스
+
+- **Category:** `원테이크 촬영`
+- **Source:** `official`
+- **Author:** AtlasCloud
+- **Language:** `ko`
+- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c8b0a7bb-eae5-417f-bf63-e3a114a1364f.mp4)
+
+<video src="https://static.atlascloud.ai/uploads/seedance-2.0/c8b0a7bb-eae5-417f-bf63-e3a114a1364f.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/43)
+
+#### Description
+
+여러 환경을 통과하는 러너를 한 번에 따라가는 역동적 원테이크입니다.
+
+#### Prompt
+
+```text
+@image1@image2@image3@image4@image5, 원테이크 추적. 거리에서 계단, 복도, 옥상까지 러너를 따라가고 마지막에 도시를 내려다본다.
+```
+
 ## Local Usage
 
 ```bash
@@ -2525,4 +2490,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-07-20T17:21:54.955Z
+> This README is auto-generated. 2026-07-21T03:36:32.883Z

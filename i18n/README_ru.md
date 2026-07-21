@@ -4,7 +4,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedance-2.5-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-107%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-100%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 > A curated collection of Seedance 2.5 video prompts — each with real previews via Atlas Cloud. 30s native clips · 50 multimodal references · flexible region editing. Cinematic, anime, UGC, ads, meme & more.
 
@@ -68,438 +68,502 @@ Seedance 2.5 is a major upgrade to Seedance 2.0 with three big gains: 30-second 
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **107** |
-| Categories | **17** |
-| Preview Videos | **88** |
-| Last Updated | **2026-07-20T17:21:54.970Z** |
+| Total Prompts | **100** |
+| Categories | **14** |
+| Preview Videos | **94** |
+| Last Updated | **2026-07-21T03:36:32.896Z** |
 
 ## 🏷️ Browse by Category
 
-- [`Многокадровое повествование`](#category-1): **2**
-- [`Съёмка одним дублем`](#category-2): **1**
-- [`Продвинутые движения камеры`](#category-3): **2**
-- [`Перенос стиля`](#category-4): **2**
-- [`Отрисовка текста`](#category-5): **2**
-- [`Ссылка на изображение`](#category-6): **4**
-- [`Twitter Community`](#category-7): **24**
-- [`Audio & Voice Synthesis`](#category-8): **10**
-- [`Advanced Camera Movements`](#category-9): **13**
-- [`Video Editing & Remixing`](#category-10): **5**
-- [`Character & Scene Consistency`](#category-11): **6**
-- [`Creative Visual Effects`](#category-12): **11**
-- [`Ultra-Realistic Video Generation`](#category-13): **5**
-- [`Emotional Performance`](#category-14): **3**
-- [`Story Development & Extension`](#category-15): **8**
-- [`Music Synchronization`](#category-16): **4**
-- [`One-Take Cinematography`](#category-17): **5**
+- [`Match-Cut & Creative Effects`](#category-1): **1**
+- [`One-Take Cinematography`](#category-2): **6**
+- [`Multi-Image Reference`](#category-3): **3**
+- [`Video Editing`](#category-4): **1**
+- [`Twitter Community`](#category-5): **24**
+- [`Audio & Voice Synthesis`](#category-6): **10**
+- [`Advanced Camera Movements`](#category-7): **13**
+- [`Video Editing & Remixing`](#category-8): **5**
+- [`Character & Scene Consistency`](#category-9): **6**
+- [`Creative Visual Effects`](#category-10): **11**
+- [`Ultra-Realistic Video Generation`](#category-11): **5**
+- [`Emotional Performance`](#category-12): **3**
+- [`Story Development & Extension`](#category-13): **8**
+- [`Music Synchronization`](#category-14): **4**
 
 ## 🔥 Featured Prompts
 
-### No. 1: Пробежка у моря — История в трёх кадрах
+### No. 1: Crystal Ball Match-Cut Beat Film
 
-- **Category:** `Многокадровое повествование`
+- **Category:** `Match-Cut & Creative Effects`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ru`
+- **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group1-1.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group1-1.mp4" controls muted playsinline width="720"></video>
 - **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-Приморская последовательность из трёх кадров — крупный план со слежением, поворот к камере и широкий план со стоп-кадром — демонстрирует связное многокадровое повествование с постоянным героем.
+A beat-synced match-cut film: one crystal ball etched with a glowing 'seedance' logo stays centered while eight scenes cut seamlessly behind it.
 
 #### Prompt
 
 ```text
-[Кадр 1] Крупный план, девушка бежит вдоль берега моря, камера следует за её шагами. [Кадр 2] Средний план, она останавливается, поворачивается к камере и улыбается. [Кадр 3] Общий план, она раскидывает руки навстречу морю, и кадр застывает.
+A fast-paced, cinematic Match-cut short film synced to a driving electronic beat. A flawless crystal ball stays fixed dead-center throughout, a glowing "seedance" logo etched inside it. The ball holds razor-sharp focus while, on every strong musical beat, the background match-cuts seamlessly: Scene 1: macro close-up, cinematic water splashing around the ball, refracting intricate light. Scene 2: a vintage morning cafe, the ball on a raw-wood table, rising coffee steam and blurred commuters beyond the window. Scene 3: golden-hour dusk, a skater youth tosses and catches the ball one-handed, street racing backward behind them in gorgeous backlit sunset. Scene 4: a frenzied music festival, hands raise the ball high, refracting dazzling stage lasers. Scene 5: a lively family party table, the ball resting center-frame, blurred figures toasting and reaching for food. Scene 6: a dim cinema, hands cupping the ball as the giant screen's faint glow drifts across its surface. Scene 7: the ball on a violently vibrating speaker diaphragm, match-cutting on the climax to a spinning DJ turntable center. Scene 8: an outdoor camping night, background becoming warm bonfire and swaying string-light bokeh. Finale: on the final downbeat the ball is hurled up out of frame; cut to pure black, a minimal white-on-black "seedance" appearing dead-center. Beat-synced match-cut editing, top-tier cinematic color grading, photoreal glass refraction, ray tracing, global illumination. Subject razor-sharp, background heavy motion blur.
 ```
 
-### No. 2: Латте бариста — Один непрерывный дубль
+### No. 2: Steampunk Clockwork — 30s One-Take
 
-- **Category:** `Съёмка одним дублем`
+- **Category:** `One-Take Cinematography`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ru`
+- **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group2-2.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group2-2.mp4" controls muted playsinline width="720"></video>
 - **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-Единый непрерывный дубль, следующий за бариста от помола зёрен до финального латте-арта, демонстрирует 30-секундную съёмку одним дублем.
+A 30-second steampunk miniature 3D sequence with continuous orbiting, pass-through camera moves.
 
 #### Prompt
 
 ```text
-Бариста готовит латте в кофейне — от помола зёрен, через приготовление эспрессо и взбивание молока, до финального рисунка латте-арт — всё одним непрерывным дублем.
+A high-end, deeply cinematic 30-second 3D motion-graphics sequence in refined steampunk and vintage-miniature style, with continuous fluid orbiting and pass-through camera moves. [0-10s] Macro close-up of an antique brass clock face that unfolds layer by layer into meshing rotating gear rings and volumetric fog. The camera pierces down through the gears; a mechanical ornithopter spirals up from a miniature canyon of stacked weathered old books. [10-20s] The camera glides forward tracking the ornithopter, seamlessly passing into a fast-spinning ornate brass zoetrope projecting galloping mechanical-horse light. The light leaps out and the scene becomes a brass floating cable car on glimmering copper rails through a forest of gears, bathed in cinematic golden-hour light. [20-30s] The camera pans elegantly down; below appears an exquisite clockwork wooden sailing ship cutting deep-blue glass-textured waves, which morph into a glowing giant moon with lantern-holding explorer silhouettes trekking a crystal-vein ridge under stars. The camera spirals smoothly back through ethereal clouds to the ticking brass clock face. Hyper-real mechanical textures, rich brass and gold tones, cinematic shallow depth of field, smooth seamless pass-through camerawork, epic fantastical adventure atmosphere.
 ```
 
-### No. 3: Облёт 360° вокруг покорителя вершины
+### No. 3: Windows Through Worlds (5 refs)
 
-- **Category:** `Продвинутые движения камеры`
+- **Category:** `Multi-Image Reference`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ru`
+- **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-output.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-output.mp4" controls muted playsinline width="720"></video>
 - **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+- **Inputs:**
+
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference1.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference2.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference3.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference4.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference5.png" width="180" referrerpolicy="no-referrer">
 
 #### Description
 
-Полный облёт на 360 градусов вокруг альпиниста на вершине, раскрывающий панораму снежных гор — точное управление движением камеры.
+A brand concept short driven by 5 reference images, gliding through windows into different worlds.
 
 #### Prompt
 
 ```text
-Камера облетает на 360 градусов вокруг альпиниста, стоящего на вершине, раскрывая великолепную панораму заснеженных пиков.
+A cinematic brand concept short. @image1 is the first frame; the picture trembles slightly, the camera pushes in to tree shadows rushing backward outside the window, their retreat accelerating, then abruptly cuts to @image2, speed easing as the camera glides slowly along a stream, birdsong and blossoms. The camera drops underwater — bubble sounds — as orange jellyfish drift gracefully past the lens @image3; the camera pulls back as small fish flit past and swim from the water into the window @image4, a girl looking around, watching them. The camera pulls back, defocuses, then refocuses sharp, switching to the music's rhythm: a Chinese-garden lattice window @image5 with light circling, church stained glass, an airplane porthole, a dome skylight, a bay window, louver blinds, a European dormer, a door peephole, a camera viewfinder, a bird's eye, a human eye close-up. It settles on the human eye; the eye closes, screen black, then suddenly opens — "seedance" appearing in the center of the eye on the accent beat.
 ```
 
-### No. 4: Быстрый отъезд — От цветка к морю цветов
+### No. 4: One-Take Through Six Rooms (8 refs)
 
-- **Category:** `Продвинутые движения камеры`
+- **Category:** `Multi-Image Reference`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ru`
+- **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-output.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-output.mp4" controls muted playsinline width="720"></video>
 - **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+- **Inputs:**
+
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference1.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference2.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference3.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference4.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference5.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference7.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference8.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference9.png" width="180" referrerpolicy="no-referrer">
 
 #### Description
 
-Быстрый отъезд камеры от одного цветка к бескрайнему полю цветов, замирающий на далёких вершинах — динамичное управление движением камеры.
+One continuous take following a figure through six mood-shifting rooms, driven by 8 reference images.
 
 #### Prompt
 
 ```text
-Камера быстро отъезжает от крупного плана одного цветка, раскрывая целое море цветов, и наконец замирает на заснеженных горах вдали.
+One continuous take. The camera smoothly follows a person in a black coat (reference @image1) moving left to right through six connected rooms of different tones and moods. Every room shares the same structure: white walls, light herringbone wood floor, French floor-to-ceiling windows, white sheer curtains (reference @image2) but the outside view and mood differ each time. The protagonist walks at a constant pace, passing through every open door. 0-5s room one, American-comic fight: the protagonist fights a character (@image3), who is defeated; 5-10s room two, warmth, felt-craft style, window view a sunflower field (@image4), warm-orange soft light, a painter painting sunflowers (@image5), the protagonist turning felt-style on entering; 10-15s room three, sorrow, black-and-white comic stop-motion, rain outside, cold-grey light, a person alone on the floor hugging their knees, a phone glowing with an unanswered call; on entering, the light blinks off then on, the room turns color, flowers bursting into bloom; 15-20s room four, joy, a room submerged in the sea (reference @image6), the protagonist turning transparent among coral and fish; 20-25s room five, surprise, window view a sky of fireworks (reference @image7), colorful flickering light, the protagonist swept up in a cheering crowd; 25-30s a blank white room, the protagonist snaps their fingers — snap SFX — frame goes black, "seedance" in the middle (reference @image8). Cinematic quality, high-fashion advertising style, lighting entirely determined by the window views for strong emotional contrast, no text in frame.
 ```
 
-### No. 5: Дорожка сакуры в стиле Гибли
+### No. 5: Video Edit — Remove All But the Lead
 
-- **Category:** `Перенос стиля`
+- **Category:** `Video Editing`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ru`
+- **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-output.mov)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-output.mov" controls muted playsinline width="720"></video>
 - **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+- **Inputs:**
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-reference1.mp4" controls muted width="360"></video>
 
 #### Description
 
-Перестилизуйте кадры под анимацию Studio Ghibli, пока девушка идёт по усыпанной лепестками дорожке — перенос стиля.
+Reference-video editing: erase everyone except the protagonist from a source clip.
 
 #### Prompt
 
 ```text
-Преобразуйте сцену в стиль анимации Studio Ghibli — девушка идёт по дорожке, а вокруг неё падают лепестки сакуры.
+Video editing: remove everyone in @video1 except the protagonist.
 ```
 
-### No. 6: Лодка среди гор в стиле туши
+### No. 6: Multilingual Hip-Hop 'Hello' MV
 
-- **Category:** `Перенос стиля`
+- **Category:** `Multi-Image Reference`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ru`
+- **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-output.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-output.mp4" controls muted playsinline width="720"></video>
 - **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+- **Inputs:**
+
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-reference1.png" width="180" referrerpolicy="no-referrer">
 
 #### Description
 
-Перестилизуйте кадры под традиционную китайскую живопись тушью, пока одинокая лодка скользит по пейзажу — перенос стиля.
+A seaside hip-hop MV built from one reference image; the lead raps 'hello' in 8 languages, lip-synced, hard cuts on the beat.
 
 #### Prompt
 
 ```text
-Преобразуйте сцену в стиль китайской живописи тушью — маленькая лодка медленно скользит среди гор и рек.
+Cinematic hip-hop / rap music video, photoreal quality, high-end tone, seaside setting. Build the frame from @image1: a band performs at a golden sand beach with crashing waves — a lead vocalist gripping a mic on a stand in the wet sand, one guitarist left, one right, a drummer at the back; a vast coastline behind, rolling waves, a warm golden-hour sun shimmering on the water, sea mist in the air. The lead in a red tracksuit raps to camera — lips and jaw precisely synced to every word, head punching to the beat. Bright, punchy, fast, confident rap. HARD CUT on the beat, each switch a double contrast (shot size and type change together). Lyrics (the lead sings 'hello' in each language in turn, precisely lip-synced): English "Hello", Chinese "你好", Japanese "こんにちは", Korean "안녕하세요", Portuguese "Olá", Thai "สวัสดี", Spanish "Hola", Arabic "مرحبا". 8 hard-cut shots (low-angle wide establishing; close-up rap to camera; macro guitar-string insert; 3/4 prowling orbit; lateral track at shore; drummer tilt-up; tight push on the lead; heroic full-band push-in), one language per shot. White balance 4000K, teal-and-amber grade, 35mm, shallow depth of field, film grain, sea mist, golden-hour flare. Premium feel, precise lip-sync, no subtitles, no text overlays, hard cuts only, total 20 seconds.
 ```
 
-### No. 7: Неоновая вывеска "SEEDANCE" под дождём
+### No. 7: Комедийная сцена с лошадью и fisheye
 
-- **Category:** `Отрисовка текста`
+- **Category:** `Audio & Voice Synthesis`
 - **Source:** `official`
-- **Author:** Volcengine Ark
+- **Author:** AtlasCloud
 - **Language:** `ru`
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/26d450cd-23c4-499e-9fd6-1752dabbc8bd.mp4)
+
+<video src="https://static.atlascloud.ai/uploads/seedance-2.0/26d450cd-23c4-499e-9fd6-1752dabbc8bd.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/33)
 
 #### Description
 
-Точная отрисовка экранного текста — мерцающая неоновая вывеска "SEEDANCE" на городской улице дождливой ночью.
+Комедийный эпизод с синхронизацией реплик и SFX в fisheye-подаче.
 
 #### Prompt
 
 ```text
-Неоновая вывеска с надписью "SEEDANCE" мерцает на городской улице дождливой ночью, её свет отражается на мокром асфальте.
+Сгенерируй сцену: Комедийный эпизод с синхронизацией реплик и SFX в fisheye-подаче.
 ```
 
-### No. 8: Открывается обложка книги с золотыми буквами
+### No. 8: Путешествие через VR-вселенную
 
-- **Category:** `Отрисовка текста`
+- **Category:** `Creative Visual Effects`
 - **Source:** `official`
-- **Author:** Volcengine Ark
+- **Author:** AtlasCloud
 - **Language:** `ru`
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/dddb1fb2-d73a-4b6a-a2bf-bf416be652c6.mp4)
+
+<video src="https://static.atlascloud.ai/uploads/seedance-2.0/dddb1fb2-d73a-4b6a-a2bf-bf416be652c6.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/18)
 
 #### Description
 
-Разборчиво отрисованный текст на обложке книги — "Будущее искусственного интеллекта" золотом — пока книга медленно раскрывается.
+Иммерсивный POV-переход из реальности в цифровые пространства через VR-интерфейс.
 
 #### Prompt
 
 ```text
-На обложке книги золотыми буквами написано "Будущее искусственного интеллекта", пока книга медленно раскрывается.
+Сгенерируй сцену: Иммерсивный POV-переход из реальности в цифровые пространства через VR-интерфейс.
 ```
 
 ## 📋 All Prompts
 
 <a id="category-1"></a>
 
-### Многокадровое повествование (2)
+### Match-Cut & Creative Effects (1)
 
-### No. 1: Пробежка у моря — История в трёх кадрах
+### No. 1: Crystal Ball Match-Cut Beat Film
 
-- **Category:** `Многокадровое повествование`
+- **Category:** `Match-Cut & Creative Effects`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ru`
+- **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group1-1.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group1-1.mp4" controls muted playsinline width="720"></video>
 - **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-Приморская последовательность из трёх кадров — крупный план со слежением, поворот к камере и широкий план со стоп-кадром — демонстрирует связное многокадровое повествование с постоянным героем.
+A beat-synced match-cut film: one crystal ball etched with a glowing 'seedance' logo stays centered while eight scenes cut seamlessly behind it.
 
 #### Prompt
 
 ```text
-[Кадр 1] Крупный план, девушка бежит вдоль берега моря, камера следует за её шагами. [Кадр 2] Средний план, она останавливается, поворачивается к камере и улыбается. [Кадр 3] Общий план, она раскидывает руки навстречу морю, и кадр застывает.
-```
-
-### No. 2: Космонавт на Луне — Три кадра
-
-- **Category:** `Многокадровое повествование`
-- **Source:** `official`
-- **Author:** Volcengine Ark
-- **Language:** `ru`
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
-
-#### Description
-
-Лунная последовательность из трёх кадров — взгляд на Землю, путь к модулю и старт — многокадровое повествование с постоянным героем.
-
-#### Prompt
-
-```text
-[Кадр 1] Космонавт стоит на поверхности Луны, глядя на Землю. [Кадр 2] Космонавт разворачивается и идёт к лунному модулю. [Кадр 3] Модуль стартует, поднимая лунную пыль.
+A fast-paced, cinematic Match-cut short film synced to a driving electronic beat. A flawless crystal ball stays fixed dead-center throughout, a glowing "seedance" logo etched inside it. The ball holds razor-sharp focus while, on every strong musical beat, the background match-cuts seamlessly: Scene 1: macro close-up, cinematic water splashing around the ball, refracting intricate light. Scene 2: a vintage morning cafe, the ball on a raw-wood table, rising coffee steam and blurred commuters beyond the window. Scene 3: golden-hour dusk, a skater youth tosses and catches the ball one-handed, street racing backward behind them in gorgeous backlit sunset. Scene 4: a frenzied music festival, hands raise the ball high, refracting dazzling stage lasers. Scene 5: a lively family party table, the ball resting center-frame, blurred figures toasting and reaching for food. Scene 6: a dim cinema, hands cupping the ball as the giant screen's faint glow drifts across its surface. Scene 7: the ball on a violently vibrating speaker diaphragm, match-cutting on the climax to a spinning DJ turntable center. Scene 8: an outdoor camping night, background becoming warm bonfire and swaying string-light bokeh. Finale: on the final downbeat the ball is hurled up out of frame; cut to pure black, a minimal white-on-black "seedance" appearing dead-center. Beat-synced match-cut editing, top-tier cinematic color grading, photoreal glass refraction, ray tracing, global illumination. Subject razor-sharp, background heavy motion blur.
 ```
 
 <a id="category-2"></a>
 
-### Съёмка одним дублем (1)
+### One-Take Cinematography (6)
 
-### No. 1: Латте бариста — Один непрерывный дубль
+### No. 1: Steampunk Clockwork — 30s One-Take
 
-- **Category:** `Съёмка одним дублем`
+- **Category:** `One-Take Cinematography`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ru`
+- **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group2-2.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group2-2.mp4" controls muted playsinline width="720"></video>
 - **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-Единый непрерывный дубль, следующий за бариста от помола зёрен до финального латте-арта, демонстрирует 30-секундную съёмку одним дублем.
+A 30-second steampunk miniature 3D sequence with continuous orbiting, pass-through camera moves.
 
 #### Prompt
 
 ```text
-Бариста готовит латте в кофейне — от помола зёрен, через приготовление эспрессо и взбивание молока, до финального рисунка латте-арт — всё одним непрерывным дублем.
+A high-end, deeply cinematic 30-second 3D motion-graphics sequence in refined steampunk and vintage-miniature style, with continuous fluid orbiting and pass-through camera moves. [0-10s] Macro close-up of an antique brass clock face that unfolds layer by layer into meshing rotating gear rings and volumetric fog. The camera pierces down through the gears; a mechanical ornithopter spirals up from a miniature canyon of stacked weathered old books. [10-20s] The camera glides forward tracking the ornithopter, seamlessly passing into a fast-spinning ornate brass zoetrope projecting galloping mechanical-horse light. The light leaps out and the scene becomes a brass floating cable car on glimmering copper rails through a forest of gears, bathed in cinematic golden-hour light. [20-30s] The camera pans elegantly down; below appears an exquisite clockwork wooden sailing ship cutting deep-blue glass-textured waves, which morph into a glowing giant moon with lantern-holding explorer silhouettes trekking a crystal-vein ridge under stars. The camera spirals smoothly back through ethereal clouds to the ticking brass clock face. Hyper-real mechanical textures, rich brass and gold tones, cinematic shallow depth of field, smooth seamless pass-through camerawork, epic fantastical adventure atmosphere.
+```
+
+### No. 2: POV американских горок
+
+- **Category:** `One-Take Cinematography`
+- **Source:** `official`
+- **Author:** AtlasCloud
+- **Language:** `ru`
+- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/fabf98a8-432c-479a-bcd3-3736677190b2.mp4)
+
+<video src="https://static.atlascloud.ai/uploads/seedance-2.0/fabf98a8-432c-479a-bcd3-3736677190b2.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/47)
+
+#### Description
+
+Эффектный first-person заезд с нарастающей скоростью и манёврами.
+
+#### Prompt
+
+```text
+Сгенерируй сцену: Эффектный first-person заезд с нарастающей скоростью и манёврами.
+```
+
+### No. 3: Уютная чайная сцена в домике
+
+- **Category:** `One-Take Cinematography`
+- **Source:** `official`
+- **Author:** AtlasCloud
+- **Language:** `ru`
+- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d1d1c955-c271-44ba-bd3e-1537e33a2e29.mp4)
+
+<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d1d1c955-c271-44ba-bd3e-1537e33a2e29.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/46)
+
+#### Description
+
+Субъективный проход в уютный интерьер без монтажных склеек.
+
+#### Prompt
+
+```text
+Сгенерируй сцену: Субъективный проход в уютный интерьер без монтажных склеек.
+```
+
+### No. 4: Шпионский триллер одним дублем
+
+- **Category:** `One-Take Cinematography`
+- **Source:** `official`
+- **Author:** AtlasCloud
+- **Language:** `ru`
+- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/873ead10-156a-4f5f-aafc-1a0a743c3ef7.mp4)
+
+<video src="https://static.atlascloud.ai/uploads/seedance-2.0/873ead10-156a-4f5f-aafc-1a0a743c3ef7.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/45)
+
+#### Description
+
+Напряжённая шпионская погоня в формате непрерывного дубля.
+
+#### Prompt
+
+```text
+Сгенерируй сцену: Напряжённая шпионская погоня в формате непрерывного дубля.
+```
+
+### No. 5: Сон с мороженым из иллюминатора
+
+- **Category:** `One-Take Cinematography`
+- **Source:** `official`
+- **Author:** AtlasCloud
+- **Language:** `ru`
+- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/3421ca69-533f-4ef7-aef2-2aabad3d53fe.mp4)
+
+<video src="https://static.atlascloud.ai/uploads/seedance-2.0/3421ca69-533f-4ef7-aef2-2aabad3d53fe.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/44)
+
+#### Description
+
+Сюрреалистический one-take от окна самолёта к фантазийному превращению.
+
+#### Prompt
+
+```text
+Сгенерируй сцену: Сюрреалистический one-take от окна самолёта к фантазийному превращению.
+```
+
+### No. 6: Паркур-погоня одним дублем
+
+- **Category:** `One-Take Cinematography`
+- **Source:** `official`
+- **Author:** AtlasCloud
+- **Language:** `ru`
+- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c8b0a7bb-eae5-417f-bf63-e3a114a1364f.mp4)
+
+<video src="https://static.atlascloud.ai/uploads/seedance-2.0/c8b0a7bb-eae5-417f-bf63-e3a114a1364f.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/43)
+
+#### Description
+
+Динамичный непрерывный дубль с перемещением через несколько локаций.
+
+#### Prompt
+
+```text
+Сгенерируй сцену: Динамичный непрерывный дубль с перемещением через несколько локаций.
 ```
 
 <a id="category-3"></a>
 
-### Продвинутые движения камеры (2)
+### Multi-Image Reference (3)
 
-### No. 1: Облёт 360° вокруг покорителя вершины
+### No. 1: Windows Through Worlds (5 refs)
 
-- **Category:** `Продвинутые движения камеры`
+- **Category:** `Multi-Image Reference`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ru`
+- **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-output.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-output.mp4" controls muted playsinline width="720"></video>
 - **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+- **Inputs:**
+
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference1.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference2.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference3.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference4.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference5.png" width="180" referrerpolicy="no-referrer">
 
 #### Description
 
-Полный облёт на 360 градусов вокруг альпиниста на вершине, раскрывающий панораму снежных гор — точное управление движением камеры.
+A brand concept short driven by 5 reference images, gliding through windows into different worlds.
 
 #### Prompt
 
 ```text
-Камера облетает на 360 градусов вокруг альпиниста, стоящего на вершине, раскрывая великолепную панораму заснеженных пиков.
+A cinematic brand concept short. @image1 is the first frame; the picture trembles slightly, the camera pushes in to tree shadows rushing backward outside the window, their retreat accelerating, then abruptly cuts to @image2, speed easing as the camera glides slowly along a stream, birdsong and blossoms. The camera drops underwater — bubble sounds — as orange jellyfish drift gracefully past the lens @image3; the camera pulls back as small fish flit past and swim from the water into the window @image4, a girl looking around, watching them. The camera pulls back, defocuses, then refocuses sharp, switching to the music's rhythm: a Chinese-garden lattice window @image5 with light circling, church stained glass, an airplane porthole, a dome skylight, a bay window, louver blinds, a European dormer, a door peephole, a camera viewfinder, a bird's eye, a human eye close-up. It settles on the human eye; the eye closes, screen black, then suddenly opens — "seedance" appearing in the center of the eye on the accent beat.
 ```
 
-### No. 2: Быстрый отъезд — От цветка к морю цветов
+### No. 2: One-Take Through Six Rooms (8 refs)
 
-- **Category:** `Продвинутые движения камеры`
+- **Category:** `Multi-Image Reference`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ru`
+- **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-output.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-output.mp4" controls muted playsinline width="720"></video>
 - **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+- **Inputs:**
+
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference1.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference2.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference3.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference4.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference5.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference7.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference8.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference9.png" width="180" referrerpolicy="no-referrer">
 
 #### Description
 
-Быстрый отъезд камеры от одного цветка к бескрайнему полю цветов, замирающий на далёких вершинах — динамичное управление движением камеры.
+One continuous take following a figure through six mood-shifting rooms, driven by 8 reference images.
 
 #### Prompt
 
 ```text
-Камера быстро отъезжает от крупного плана одного цветка, раскрывая целое море цветов, и наконец замирает на заснеженных горах вдали.
+One continuous take. The camera smoothly follows a person in a black coat (reference @image1) moving left to right through six connected rooms of different tones and moods. Every room shares the same structure: white walls, light herringbone wood floor, French floor-to-ceiling windows, white sheer curtains (reference @image2) but the outside view and mood differ each time. The protagonist walks at a constant pace, passing through every open door. 0-5s room one, American-comic fight: the protagonist fights a character (@image3), who is defeated; 5-10s room two, warmth, felt-craft style, window view a sunflower field (@image4), warm-orange soft light, a painter painting sunflowers (@image5), the protagonist turning felt-style on entering; 10-15s room three, sorrow, black-and-white comic stop-motion, rain outside, cold-grey light, a person alone on the floor hugging their knees, a phone glowing with an unanswered call; on entering, the light blinks off then on, the room turns color, flowers bursting into bloom; 15-20s room four, joy, a room submerged in the sea (reference @image6), the protagonist turning transparent among coral and fish; 20-25s room five, surprise, window view a sky of fireworks (reference @image7), colorful flickering light, the protagonist swept up in a cheering crowd; 25-30s a blank white room, the protagonist snaps their fingers — snap SFX — frame goes black, "seedance" in the middle (reference @image8). Cinematic quality, high-fashion advertising style, lighting entirely determined by the window views for strong emotional contrast, no text in frame.
+```
+
+### No. 3: Multilingual Hip-Hop 'Hello' MV
+
+- **Category:** `Multi-Image Reference`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `ru`
+- **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-output.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-output.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+- **Inputs:**
+
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-reference1.png" width="180" referrerpolicy="no-referrer">
+
+#### Description
+
+A seaside hip-hop MV built from one reference image; the lead raps 'hello' in 8 languages, lip-synced, hard cuts on the beat.
+
+#### Prompt
+
+```text
+Cinematic hip-hop / rap music video, photoreal quality, high-end tone, seaside setting. Build the frame from @image1: a band performs at a golden sand beach with crashing waves — a lead vocalist gripping a mic on a stand in the wet sand, one guitarist left, one right, a drummer at the back; a vast coastline behind, rolling waves, a warm golden-hour sun shimmering on the water, sea mist in the air. The lead in a red tracksuit raps to camera — lips and jaw precisely synced to every word, head punching to the beat. Bright, punchy, fast, confident rap. HARD CUT on the beat, each switch a double contrast (shot size and type change together). Lyrics (the lead sings 'hello' in each language in turn, precisely lip-synced): English "Hello", Chinese "你好", Japanese "こんにちは", Korean "안녕하세요", Portuguese "Olá", Thai "สวัสดี", Spanish "Hola", Arabic "مرحبا". 8 hard-cut shots (low-angle wide establishing; close-up rap to camera; macro guitar-string insert; 3/4 prowling orbit; lateral track at shore; drummer tilt-up; tight push on the lead; heroic full-band push-in), one language per shot. White balance 4000K, teal-and-amber grade, 35mm, shallow depth of field, film grain, sea mist, golden-hour flare. Premium feel, precise lip-sync, no subtitles, no text overlays, hard cuts only, total 20 seconds.
 ```
 
 <a id="category-4"></a>
 
-### Перенос стиля (2)
+### Video Editing (1)
 
-### No. 1: Дорожка сакуры в стиле Гибли
+### No. 1: Video Edit — Remove All But the Lead
 
-- **Category:** `Перенос стиля`
+- **Category:** `Video Editing`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ru`
+- **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-output.mov)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-output.mov" controls muted playsinline width="720"></video>
 - **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+- **Inputs:**
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-reference1.mp4" controls muted width="360"></video>
 
 #### Description
 
-Перестилизуйте кадры под анимацию Studio Ghibli, пока девушка идёт по усыпанной лепестками дорожке — перенос стиля.
+Reference-video editing: erase everyone except the protagonist from a source clip.
 
 #### Prompt
 
 ```text
-Преобразуйте сцену в стиль анимации Studio Ghibli — девушка идёт по дорожке, а вокруг неё падают лепестки сакуры.
-```
-
-### No. 2: Лодка среди гор в стиле туши
-
-- **Category:** `Перенос стиля`
-- **Source:** `official`
-- **Author:** Volcengine Ark
-- **Language:** `ru`
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
-
-#### Description
-
-Перестилизуйте кадры под традиционную китайскую живопись тушью, пока одинокая лодка скользит по пейзажу — перенос стиля.
-
-#### Prompt
-
-```text
-Преобразуйте сцену в стиль китайской живописи тушью — маленькая лодка медленно скользит среди гор и рек.
+Video editing: remove everyone in @video1 except the protagonist.
 ```
 
 <a id="category-5"></a>
-
-### Отрисовка текста (2)
-
-### No. 1: Неоновая вывеска "SEEDANCE" под дождём
-
-- **Category:** `Отрисовка текста`
-- **Source:** `official`
-- **Author:** Volcengine Ark
-- **Language:** `ru`
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
-
-#### Description
-
-Точная отрисовка экранного текста — мерцающая неоновая вывеска "SEEDANCE" на городской улице дождливой ночью.
-
-#### Prompt
-
-```text
-Неоновая вывеска с надписью "SEEDANCE" мерцает на городской улице дождливой ночью, её свет отражается на мокром асфальте.
-```
-
-### No. 2: Открывается обложка книги с золотыми буквами
-
-- **Category:** `Отрисовка текста`
-- **Source:** `official`
-- **Author:** Volcengine Ark
-- **Language:** `ru`
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
-
-#### Description
-
-Разборчиво отрисованный текст на обложке книги — "Будущее искусственного интеллекта" золотом — пока книга медленно раскрывается.
-
-#### Prompt
-
-```text
-На обложке книги золотыми буквами написано "Будущее искусственного интеллекта", пока книга медленно раскрывается.
-```
-
-<a id="category-6"></a>
-
-### Ссылка на изображение (4)
-
-### No. 1: Референсный персонаж бежит через лес
-
-- **Category:** `Ссылка на изображение`
-- **Source:** `official`
-- **Author:** Volcengine Ark
-- **Language:** `ru`
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
-
-#### Description
-
-Задайте движение по референсному изображению — референсный персонаж бежит через лес со следящей камерой. Передайте референс как @image1.
-
-#### Prompt
-
-```text
-Ссылаясь на персонажа из @image1, заставьте его бежать через лес, а камеру — двигаться рядом, отслеживая его.
-```
-
-### No. 2: Добавить птиц в референсную сцену
-
-- **Category:** `Ссылка на изображение`
-- **Source:** `official`
-- **Author:** Volcengine Ark
-- **Language:** `ru`
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
-
-#### Description
-
-Сохраните референсную сцену и добавьте движение — стая птиц пересекает кадр. Передайте референс как @image1.
-
-#### Prompt
-
-```text
-Ссылаясь на сцену из @image1, добавьте стаю птиц, пролетающую через кадр.
-```
-
-### No. 3: Вращение товара на 360° по референсу
-
-- **Category:** `Ссылка на изображение`
-- **Source:** `official`
-- **Author:** Volcengine Ark
-- **Language:** `ru`
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
-
-#### Description
-
-Превратите референс товара во вращающуюся витрину — полный оборот на 360° на демонстрационной подставке. Передайте референс как @image1.
-
-#### Prompt
-
-```text
-Ссылаясь на товар из @image1, заставьте его вращаться на 360 градусов на вращающейся демонстрационной подставке.
-```
-
-### No. 4: Референсный человек естественно машет рукой
-
-- **Category:** `Ссылка на изображение`
-- **Source:** `official`
-- **Author:** Volcengine Ark
-- **Language:** `ru`
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
-
-#### Description
-
-Оживите референсного человека — естественный жест приветствия рукой с живой мимикой. Передайте референс как @image1.
-
-#### Prompt
-
-```text
-Ссылаясь на человека из @image1, заставьте его помахать рукой с естественным, живым выражением лица.
-```
-
-<a id="category-7"></a>
 
 ### Twitter Community (24)
 
@@ -989,7 +1053,7 @@ first person view of a diver on a boat, high five with another diver, clear blue
 a man giving a presentation in front of an audience, holding a microphone, with a large screen displaying two reflective spheres on a dark surface, natural light from windows, indoor setting with plants and audio equipment
 ```
 
-<a id="category-8"></a>
+<a id="category-6"></a>
 
 ### Audio & Voice Synthesis (10)
 
@@ -1203,7 +1267,7 @@ a man giving a presentation in front of an audience, holding a microphone, with 
 Сгенерируй сцену: Музыкальный клип с заданными визуальными и ритмическими параметрами.
 ```
 
-<a id="category-9"></a>
+<a id="category-7"></a>
 
 ### Advanced Camera Movements (13)
 
@@ -1480,7 +1544,7 @@ Intense martial arts fight between two women in modern urban environment.
 A grounded martial arts duel between two women in a modern urban night setting. Build with clear shot variation: wide shot to establish spacing and intent, medium tracking shots for exchange tempo, close-up inserts for impact, breathing, and footwork. Include low-angle circling moves, over-shoulder counters, and quick lateral camera motions to preserve directional clarity. Movements must follow realistic weight transfer, momentum, and recovery. Use practical street lighting, neon reflections, slight wet pavement sheen, and gritty cinematic texture.
 ```
 
-<a id="category-10"></a>
+<a id="category-8"></a>
 
 ### Video Editing & Remixing (5)
 
@@ -1589,7 +1653,7 @@ A grounded martial arts duel between two women in a modern urban night setting. 
 Сгенерируй сцену: Добавление угрожающего элемента в исходно спокойную сцену.
 ```
 
-<a id="category-11"></a>
+<a id="category-9"></a>
 
 ### Character & Scene Consistency (6)
 
@@ -1719,7 +1783,7 @@ A grounded martial arts duel between two women in a modern urban night setting. 
 Сгенерируй сцену: Рекламная постановка товара с акцентом на консистентность бренда между сценами.
 ```
 
-<a id="category-12"></a>
+<a id="category-10"></a>
 
 ### Creative Visual Effects (11)
 
@@ -1954,7 +2018,7 @@ Produce a premium anime battle sequence inspired by One Punch Man energy and sta
 Сгенерируй сцену: Боевой перформанс в эстетике чёрно-белой тушевой живописи.
 ```
 
-<a id="category-13"></a>
+<a id="category-11"></a>
 
 ### Ultra-Realistic Video Generation (5)
 
@@ -2063,7 +2127,7 @@ Photorealistic medium close shot of Will Smith eating spaghetti at a white kitch
 Сгенерируй сцену: Реалистичная бытовая сцена с естественной пластикой движения и аккуратной камерой.
 ```
 
-<a id="category-14"></a>
+<a id="category-12"></a>
 
 ### Emotional Performance (3)
 
@@ -2130,7 +2194,7 @@ Photorealistic medium close shot of Will Smith eating spaghetti at a white kitch
 Сгенерируй сцену: Психологическая сцена с постепенным нарастанием внутреннего надлома.
 ```
 
-<a id="category-15"></a>
+<a id="category-13"></a>
 
 ### Story Development & Extension (8)
 
@@ -2302,7 +2366,7 @@ Create a high-pressure disaster-action sequence: during turbulent flight, a woma
 Сгенерируй сцену: Тёплый документальный опенер, построенный по сториборду.
 ```
 
-<a id="category-16"></a>
+<a id="category-14"></a>
 
 ### Music Synchronization (4)
 
@@ -2390,115 +2454,6 @@ Create a high-pressure disaster-action sequence: during turbulent flight, a woma
 Сгенерируй сцену: Пейзажные переходы с точной музыкальной синхронизацией.
 ```
 
-<a id="category-17"></a>
-
-### One-Take Cinematography (5)
-
-### No. 1: POV американских горок
-
-- **Category:** `One-Take Cinematography`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/fabf98a8-432c-479a-bcd3-3736677190b2.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/fabf98a8-432c-479a-bcd3-3736677190b2.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/47)
-
-#### Description
-
-Эффектный first-person заезд с нарастающей скоростью и манёврами.
-
-#### Prompt
-
-```text
-Сгенерируй сцену: Эффектный first-person заезд с нарастающей скоростью и манёврами.
-```
-
-### No. 2: Уютная чайная сцена в домике
-
-- **Category:** `One-Take Cinematography`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d1d1c955-c271-44ba-bd3e-1537e33a2e29.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d1d1c955-c271-44ba-bd3e-1537e33a2e29.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/46)
-
-#### Description
-
-Субъективный проход в уютный интерьер без монтажных склеек.
-
-#### Prompt
-
-```text
-Сгенерируй сцену: Субъективный проход в уютный интерьер без монтажных склеек.
-```
-
-### No. 3: Шпионский триллер одним дублем
-
-- **Category:** `One-Take Cinematography`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/873ead10-156a-4f5f-aafc-1a0a743c3ef7.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/873ead10-156a-4f5f-aafc-1a0a743c3ef7.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/45)
-
-#### Description
-
-Напряжённая шпионская погоня в формате непрерывного дубля.
-
-#### Prompt
-
-```text
-Сгенерируй сцену: Напряжённая шпионская погоня в формате непрерывного дубля.
-```
-
-### No. 4: Сон с мороженым из иллюминатора
-
-- **Category:** `One-Take Cinematography`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/3421ca69-533f-4ef7-aef2-2aabad3d53fe.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/3421ca69-533f-4ef7-aef2-2aabad3d53fe.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/44)
-
-#### Description
-
-Сюрреалистический one-take от окна самолёта к фантазийному превращению.
-
-#### Prompt
-
-```text
-Сгенерируй сцену: Сюрреалистический one-take от окна самолёта к фантазийному превращению.
-```
-
-### No. 5: Паркур-погоня одним дублем
-
-- **Category:** `One-Take Cinematography`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c8b0a7bb-eae5-417f-bf63-e3a114a1364f.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/c8b0a7bb-eae5-417f-bf63-e3a114a1364f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/43)
-
-#### Description
-
-Динамичный непрерывный дубль с перемещением через несколько локаций.
-
-#### Prompt
-
-```text
-Сгенерируй сцену: Динамичный непрерывный дубль с перемещением через несколько локаций.
-```
-
 ## Local Usage
 
 ```bash
@@ -2520,4 +2475,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-07-20T17:21:54.970Z
+> This README is auto-generated. 2026-07-21T03:36:32.896Z

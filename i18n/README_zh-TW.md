@@ -4,7 +4,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedance-2.5-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-107%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-100%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 > 基於 AtlasCloud `homepage-v2` 資料來源整理的 Seedance 2.5 提示詞與預覽影片倉庫。30 秒原生 · 50 個全模態參考 · 靈活局部編輯。
 
@@ -68,438 +68,398 @@ Seedance 2.5 是 Seedance 2.0 的重大升級，帶來三大提升：① 30 秒�
 
 | 指標 | 數量 |
 |--------|-------|
-| 提示詞總數 | **107** |
-| 分類數 | **17** |
-| 預覽影片數 | **88** |
-| 最後更新 | **2026-07-20T17:21:54.953Z** |
+| 提示詞總數 | **100** |
+| 分類數 | **15** |
+| 預覽影片數 | **94** |
+| 最後更新 | **2026-07-21T03:36:32.880Z** |
 
 ## 🏷️ 按分類瀏覽
 
-- [`多鏡頭敘事`](#category-1): **2**
-- [`單鏡頭長影片`](#category-2): **1**
-- [`運鏡控制`](#category-3): **2**
-- [`風格轉換`](#category-4): **2**
-- [`文字生成`](#category-5): **2**
-- [`圖像參考`](#category-6): **4**
-- [`Twitter Community`](#category-7): **24**
-- [`音訊與語音合成`](#category-8): **10**
-- [`高級運鏡動作`](#category-9): **13**
-- [`影片編輯與混剪`](#category-10): **5**
-- [`角色與場景一致性`](#category-11): **6**
-- [`創意視覺特效`](#category-12): **11**
-- [`超逼真影片生成`](#category-13): **5**
-- [`情緒演繹`](#category-14): **3**
-- [`劇情發展與延伸`](#category-15): **8**
-- [`音樂卡點同步`](#category-16): **4**
-- [`一鏡到底`](#category-17): **5**
+- [`Match-Cut & Creative Effects`](#category-1): **1**
+- [`One-Take Cinematography`](#category-2): **1**
+- [`Multi-Image Reference`](#category-3): **3**
+- [`Video Editing`](#category-4): **1**
+- [`Twitter Community`](#category-5): **24**
+- [`音訊與語音合成`](#category-6): **10**
+- [`高級運鏡動作`](#category-7): **13**
+- [`影片編輯與混剪`](#category-8): **5**
+- [`角色與場景一致性`](#category-9): **6**
+- [`創意視覺特效`](#category-10): **11**
+- [`超逼真影片生成`](#category-11): **5**
+- [`情緒演繹`](#category-12): **3**
+- [`劇情發展與延伸`](#category-13): **8**
+- [`音樂卡點同步`](#category-14): **4**
+- [`一鏡到底`](#category-15): **5**
 
 ## 🔥 精選提示詞
 
-### No. 1: 海邊奔跑 —— 三鏡頭故事
+### No. 1: Crystal Ball Match-Cut Beat Film
 
-- **分類:** `多鏡頭敘事`
+- **分類:** `Match-Cut & Creative Effects`
 - **来源:** `official`
 - **作者:** Volcengine Ark
 - **语言:** `zh-TW`
+- **视频:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group1-1.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group1-1.mp4" controls muted playsinline width="720"></video>
 - **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### 描述
 
-三鏡頭的海邊序列——跟拍近景、轉身面向鏡頭、定格遠景——以一致的主體呈現連貫的多鏡頭敘事。
+A beat-synced match-cut film: one crystal ball etched with a glowing 'seedance' logo stays centered while eight scenes cut seamlessly behind it.
 
 #### 提示詞
 
 ```text
-【鏡頭1】近景，一個女孩在海邊奔跑，鏡頭跟隨她的腳步移動。【鏡頭2】中景，女孩停下來，轉身面向鏡頭，微笑。【鏡頭3】遠景，女孩張開雙臂，面向大海，畫面定格。
+A fast-paced, cinematic Match-cut short film synced to a driving electronic beat. A flawless crystal ball stays fixed dead-center throughout, a glowing "seedance" logo etched inside it. The ball holds razor-sharp focus while, on every strong musical beat, the background match-cuts seamlessly: Scene 1: macro close-up, cinematic water splashing around the ball, refracting intricate light. Scene 2: a vintage morning cafe, the ball on a raw-wood table, rising coffee steam and blurred commuters beyond the window. Scene 3: golden-hour dusk, a skater youth tosses and catches the ball one-handed, street racing backward behind them in gorgeous backlit sunset. Scene 4: a frenzied music festival, hands raise the ball high, refracting dazzling stage lasers. Scene 5: a lively family party table, the ball resting center-frame, blurred figures toasting and reaching for food. Scene 6: a dim cinema, hands cupping the ball as the giant screen's faint glow drifts across its surface. Scene 7: the ball on a violently vibrating speaker diaphragm, match-cutting on the climax to a spinning DJ turntable center. Scene 8: an outdoor camping night, background becoming warm bonfire and swaying string-light bokeh. Finale: on the final downbeat the ball is hurled up out of frame; cut to pure black, a minimal white-on-black "seedance" appearing dead-center. Beat-synced match-cut editing, top-tier cinematic color grading, photoreal glass refraction, ray tracing, global illumination. Subject razor-sharp, background heavy motion blur.
 ```
 
-### No. 2: 咖啡師拿鐵 —— 一鏡到底
+### No. 2: Steampunk Clockwork — 30s One-Take
 
-- **分類:** `單鏡頭長影片`
+- **分類:** `One-Take Cinematography`
 - **来源:** `official`
 - **作者:** Volcengine Ark
 - **语言:** `zh-TW`
+- **视频:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group2-2.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group2-2.mp4" controls muted playsinline width="720"></video>
 - **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### 描述
 
-一鏡到底跟隨咖啡師，從研磨咖啡豆到最終拉花，展示 30 秒單鏡頭長影片。
+A 30-second steampunk miniature 3D sequence with continuous orbiting, pass-through camera moves.
 
 #### 提示詞
 
 ```text
-一個咖啡師在咖啡館裡製作一杯拿鐵，從研磨咖啡豆開始，到萃取濃縮咖啡，再到打發牛奶，最後拉花，一鏡到底。
+A high-end, deeply cinematic 30-second 3D motion-graphics sequence in refined steampunk and vintage-miniature style, with continuous fluid orbiting and pass-through camera moves. [0-10s] Macro close-up of an antique brass clock face that unfolds layer by layer into meshing rotating gear rings and volumetric fog. The camera pierces down through the gears; a mechanical ornithopter spirals up from a miniature canyon of stacked weathered old books. [10-20s] The camera glides forward tracking the ornithopter, seamlessly passing into a fast-spinning ornate brass zoetrope projecting galloping mechanical-horse light. The light leaps out and the scene becomes a brass floating cable car on glimmering copper rails through a forest of gears, bathed in cinematic golden-hour light. [20-30s] The camera pans elegantly down; below appears an exquisite clockwork wooden sailing ship cutting deep-blue glass-textured waves, which morph into a glowing giant moon with lantern-holding explorer silhouettes trekking a crystal-vein ridge under stars. The camera spirals smoothly back through ethereal clouds to the ticking brass clock face. Hyper-real mechanical textures, rich brass and gold tones, cinematic shallow depth of field, smooth seamless pass-through camerawork, epic fantastical adventure atmosphere.
 ```
 
-### No. 3: 環繞登頂者 360° 運鏡
+### No. 3: Windows Through Worlds (5 refs)
 
-- **分類:** `運鏡控制`
+- **分類:** `Multi-Image Reference`
 - **来源:** `official`
 - **作者:** Volcengine Ark
 - **语言:** `zh-TW`
+- **视频:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-output.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-output.mp4" controls muted playsinline width="720"></video>
 - **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+- **Inputs:**
+
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference1.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference2.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference3.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference4.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference5.png" width="180" referrerpolicy="no-referrer">
 
 #### 描述
 
-圍繞山頂登山者完成 360 度環繞運鏡，展現雪山全景——精準的運鏡控制。
+A brand concept short driven by 5 reference images, gliding through windows into different worlds.
 
 #### 提示詞
 
 ```text
-鏡頭環繞一個站在山頂的登山者旋轉360度，展現壯麗的雪山全景。
+A cinematic brand concept short. @image1 is the first frame; the picture trembles slightly, the camera pushes in to tree shadows rushing backward outside the window, their retreat accelerating, then abruptly cuts to @image2, speed easing as the camera glides slowly along a stream, birdsong and blossoms. The camera drops underwater — bubble sounds — as orange jellyfish drift gracefully past the lens @image3; the camera pulls back as small fish flit past and swim from the water into the window @image4, a girl looking around, watching them. The camera pulls back, defocuses, then refocuses sharp, switching to the music's rhythm: a Chinese-garden lattice window @image5 with light circling, church stained glass, an airplane porthole, a dome skylight, a bay window, louver blinds, a European dormer, a door peephole, a camera viewfinder, a bird's eye, a human eye close-up. It settles on the human eye; the eye closes, screen black, then suddenly opens — "seedance" appearing in the center of the eye on the accent beat.
 ```
 
-### No. 4: 快速拉遠 —— 從一朵花到花海
+### No. 4: One-Take Through Six Rooms (8 refs)
 
-- **分類:** `運鏡控制`
+- **分類:** `Multi-Image Reference`
 - **来源:** `official`
 - **作者:** Volcengine Ark
 - **语言:** `zh-TW`
+- **视频:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-output.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-output.mp4" controls muted playsinline width="720"></video>
 - **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+- **Inputs:**
+
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference1.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference2.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference3.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference4.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference5.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference7.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference8.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference9.png" width="180" referrerpolicy="no-referrer">
 
 #### 描述
 
-從一朵花快速拉遠到廣袤花海，最終定格遠山——動態運鏡控制。
+One continuous take following a figure through six mood-shifting rooms, driven by 8 reference images.
 
 #### 提示詞
 
 ```text
-鏡頭從一朵花的特寫快速拉遠，展現整片花海，最後定格在遠處的雪山。
+One continuous take. The camera smoothly follows a person in a black coat (reference @image1) moving left to right through six connected rooms of different tones and moods. Every room shares the same structure: white walls, light herringbone wood floor, French floor-to-ceiling windows, white sheer curtains (reference @image2) but the outside view and mood differ each time. The protagonist walks at a constant pace, passing through every open door. 0-5s room one, American-comic fight: the protagonist fights a character (@image3), who is defeated; 5-10s room two, warmth, felt-craft style, window view a sunflower field (@image4), warm-orange soft light, a painter painting sunflowers (@image5), the protagonist turning felt-style on entering; 10-15s room three, sorrow, black-and-white comic stop-motion, rain outside, cold-grey light, a person alone on the floor hugging their knees, a phone glowing with an unanswered call; on entering, the light blinks off then on, the room turns color, flowers bursting into bloom; 15-20s room four, joy, a room submerged in the sea (reference @image6), the protagonist turning transparent among coral and fish; 20-25s room five, surprise, window view a sky of fireworks (reference @image7), colorful flickering light, the protagonist swept up in a cheering crowd; 25-30s a blank white room, the protagonist snaps their fingers — snap SFX — frame goes black, "seedance" in the middle (reference @image8). Cinematic quality, high-fashion advertising style, lighting entirely determined by the window views for strong emotional contrast, no text in frame.
 ```
 
-### No. 5: 吉卜力風格櫻花小徑
+### No. 5: Video Edit — Remove All But the Lead
 
-- **分類:** `風格轉換`
+- **分類:** `Video Editing`
 - **来源:** `official`
 - **作者:** Volcengine Ark
 - **语言:** `zh-TW`
+- **视频:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-output.mov)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-output.mov" controls muted playsinline width="720"></video>
 - **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+- **Inputs:**
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-reference1.mp4" controls muted width="360"></video>
 
 #### 描述
 
-將畫面轉換為吉卜力動畫風格，女孩走在灑滿花瓣的小路上——風格轉換。
+Reference-video editing: erase everyone except the protagonist from a source clip.
 
 #### 提示詞
 
 ```text
-將畫面轉換為吉卜力動畫風格，一個女孩走在櫻花飄落的小路上。
+Video editing: remove everyone in @video1 except the protagonist.
 ```
 
-### No. 6: 水墨扁舟山水間
+### No. 6: Multilingual Hip-Hop 'Hello' MV
 
-- **分類:** `風格轉換`
+- **分類:** `Multi-Image Reference`
 - **来源:** `official`
 - **作者:** Volcengine Ark
 - **语言:** `zh-TW`
+- **视频:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-output.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-output.mp4" controls muted playsinline width="720"></video>
 - **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+- **Inputs:**
+
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-reference1.png" width="180" referrerpolicy="no-referrer">
 
 #### 描述
 
-將畫面轉換為中國傳統水墨畫風格，一葉扁舟在山水間漂流——風格轉換。
+A seaside hip-hop MV built from one reference image; the lead raps 'hello' in 8 languages, lip-synced, hard cuts on the beat.
 
 #### 提示詞
 
 ```text
-將畫面轉換為水墨畫風格，一葉扁舟在山水之間緩緩移動。
+Cinematic hip-hop / rap music video, photoreal quality, high-end tone, seaside setting. Build the frame from @image1: a band performs at a golden sand beach with crashing waves — a lead vocalist gripping a mic on a stand in the wet sand, one guitarist left, one right, a drummer at the back; a vast coastline behind, rolling waves, a warm golden-hour sun shimmering on the water, sea mist in the air. The lead in a red tracksuit raps to camera — lips and jaw precisely synced to every word, head punching to the beat. Bright, punchy, fast, confident rap. HARD CUT on the beat, each switch a double contrast (shot size and type change together). Lyrics (the lead sings 'hello' in each language in turn, precisely lip-synced): English "Hello", Chinese "你好", Japanese "こんにちは", Korean "안녕하세요", Portuguese "Olá", Thai "สวัสดี", Spanish "Hola", Arabic "مرحبا". 8 hard-cut shots (low-angle wide establishing; close-up rap to camera; macro guitar-string insert; 3/4 prowling orbit; lateral track at shore; drummer tilt-up; tight push on the lead; heroic full-band push-in), one language per shot. White balance 4000K, teal-and-amber grade, 35mm, shallow depth of field, film grain, sea mist, golden-hour flare. Premium feel, precise lip-sync, no subtitles, no text overlays, hard cuts only, total 20 seconds.
 ```
 
-### No. 7: 雨中霓虹"SEEDANCE"燈牌
+### No. 7: 魚眼鏡頭搞笑馬
 
-- **分類:** `文字生成`
+- **分類:** `音訊與語音合成`
 - **来源:** `official`
-- **作者:** Volcengine Ark
+- **作者:** AtlasCloud
 - **语言:** `zh-TW`
-- **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/26d450cd-23c4-499e-9fd6-1752dabbc8bd.mp4)
+
+<video src="https://static.atlascloud.ai/uploads/seedance-2.0/26d450cd-23c4-499e-9fd6-1752dabbc8bd.mp4" controls muted playsinline width="720"></video>
+- **原始連結:** [查看](https://www.atlascloud.ai/zh-TW/seedance-2-prompt/33)
 
 #### 描述
 
-精準的螢幕文字生成——雨夜城市街頭閃爍的霓虹"SEEDANCE"燈牌。
+用魚眼鏡頭拍攝搞笑馬匹場景，搭配誇張音效。
 
 #### 提示詞
 
 ```text
-霓虹燈牌上顯示"SEEDANCE"字樣，在雨夜的城市街道上閃爍。
+固定鏡頭,中央魚眼鏡頭透過圓形孔洞向下窺視,參考視頻1的魚眼鏡頭,讓@視頻2中的馬看向魚眼鏡頭,參考@視頻1中的說話動作,背景BGM參考@視頻3中的音效
 ```
 
-### No. 8: 金字書封緩緩翻開
+### No. 8: VR 眼鏡宇宙穿越
 
-- **分類:** `文字生成`
+- **分類:** `創意視覺特效`
 - **来源:** `official`
-- **作者:** Volcengine Ark
+- **作者:** AtlasCloud
 - **语言:** `zh-TW`
-- **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/dddb1fb2-d73a-4b6a-a2bf-bf416be652c6.mp4)
+
+<video src="https://static.atlascloud.ai/uploads/seedance-2.0/dddb1fb2-d73a-4b6a-a2bf-bf416be652c6.mp4" controls muted playsinline width="720"></video>
+- **原始連結:** [查看](https://www.atlascloud.ai/zh-TW/seedance-2-prompt/18)
 
 #### 描述
 
-書封上清晰可讀的文字——金色的"人工智慧的未來"——書本緩緩打開。
+透過 VR 眼鏡進入不同數位世界，展示奇幻宇宙穿越特效。
 
 #### 提示詞
 
 ```text
-一本書的封面上用金色字體寫著"人工智慧的未來"，書本緩緩打開。
+將@視頻1的人物換成@圖片1,@圖片1爲首幀,人物帶上虛擬科幻眼鏡,參考@視頻1的運鏡,及近的環繞鏡頭,從第三人稱視角變成人物的主觀視角,在AI虛擬眼鏡中穿梭,來到@圖片2的深邃的藍色宇宙,出現幾架飛船穿梭向遠方
 ```
 
 ## 📋 全部提示詞
 
 <a id="category-1"></a>
 
-### 多鏡頭敘事 (2)
+### Match-Cut & Creative Effects (1)
 
-### No. 1: 海邊奔跑 —— 三鏡頭故事
+### No. 1: Crystal Ball Match-Cut Beat Film
 
-- **分類:** `多鏡頭敘事`
+- **分類:** `Match-Cut & Creative Effects`
 - **来源:** `official`
 - **作者:** Volcengine Ark
 - **语言:** `zh-TW`
+- **视频:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group1-1.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group1-1.mp4" controls muted playsinline width="720"></video>
 - **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### 描述
 
-三鏡頭的海邊序列——跟拍近景、轉身面向鏡頭、定格遠景——以一致的主體呈現連貫的多鏡頭敘事。
+A beat-synced match-cut film: one crystal ball etched with a glowing 'seedance' logo stays centered while eight scenes cut seamlessly behind it.
 
 #### 提示詞
 
 ```text
-【鏡頭1】近景，一個女孩在海邊奔跑，鏡頭跟隨她的腳步移動。【鏡頭2】中景，女孩停下來，轉身面向鏡頭，微笑。【鏡頭3】遠景，女孩張開雙臂，面向大海，畫面定格。
-```
-
-### No. 2: 月球上的太空人 —— 三鏡頭
-
-- **分類:** `多鏡頭敘事`
-- **来源:** `official`
-- **作者:** Volcengine Ark
-- **语言:** `zh-TW`
-- **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
-
-#### 描述
-
-三鏡頭的月球序列——凝望地球、走向登月艙、起飛升空——主體一致的多鏡頭敘事。
-
-#### 提示詞
-
-```text
-【鏡頭1】一個太空人站在月球表面，望向地球。【鏡頭2】太空人轉身走向登月艙。【鏡頭3】登月艙起飛，揚起月塵。
+A fast-paced, cinematic Match-cut short film synced to a driving electronic beat. A flawless crystal ball stays fixed dead-center throughout, a glowing "seedance" logo etched inside it. The ball holds razor-sharp focus while, on every strong musical beat, the background match-cuts seamlessly: Scene 1: macro close-up, cinematic water splashing around the ball, refracting intricate light. Scene 2: a vintage morning cafe, the ball on a raw-wood table, rising coffee steam and blurred commuters beyond the window. Scene 3: golden-hour dusk, a skater youth tosses and catches the ball one-handed, street racing backward behind them in gorgeous backlit sunset. Scene 4: a frenzied music festival, hands raise the ball high, refracting dazzling stage lasers. Scene 5: a lively family party table, the ball resting center-frame, blurred figures toasting and reaching for food. Scene 6: a dim cinema, hands cupping the ball as the giant screen's faint glow drifts across its surface. Scene 7: the ball on a violently vibrating speaker diaphragm, match-cutting on the climax to a spinning DJ turntable center. Scene 8: an outdoor camping night, background becoming warm bonfire and swaying string-light bokeh. Finale: on the final downbeat the ball is hurled up out of frame; cut to pure black, a minimal white-on-black "seedance" appearing dead-center. Beat-synced match-cut editing, top-tier cinematic color grading, photoreal glass refraction, ray tracing, global illumination. Subject razor-sharp, background heavy motion blur.
 ```
 
 <a id="category-2"></a>
 
-### 單鏡頭長影片 (1)
+### One-Take Cinematography (1)
 
-### No. 1: 咖啡師拿鐵 —— 一鏡到底
+### No. 1: Steampunk Clockwork — 30s One-Take
 
-- **分類:** `單鏡頭長影片`
+- **分類:** `One-Take Cinematography`
 - **来源:** `official`
 - **作者:** Volcengine Ark
 - **语言:** `zh-TW`
+- **视频:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group2-2.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group2-2.mp4" controls muted playsinline width="720"></video>
 - **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### 描述
 
-一鏡到底跟隨咖啡師，從研磨咖啡豆到最終拉花，展示 30 秒單鏡頭長影片。
+A 30-second steampunk miniature 3D sequence with continuous orbiting, pass-through camera moves.
 
 #### 提示詞
 
 ```text
-一個咖啡師在咖啡館裡製作一杯拿鐵，從研磨咖啡豆開始，到萃取濃縮咖啡，再到打發牛奶，最後拉花，一鏡到底。
+A high-end, deeply cinematic 30-second 3D motion-graphics sequence in refined steampunk and vintage-miniature style, with continuous fluid orbiting and pass-through camera moves. [0-10s] Macro close-up of an antique brass clock face that unfolds layer by layer into meshing rotating gear rings and volumetric fog. The camera pierces down through the gears; a mechanical ornithopter spirals up from a miniature canyon of stacked weathered old books. [10-20s] The camera glides forward tracking the ornithopter, seamlessly passing into a fast-spinning ornate brass zoetrope projecting galloping mechanical-horse light. The light leaps out and the scene becomes a brass floating cable car on glimmering copper rails through a forest of gears, bathed in cinematic golden-hour light. [20-30s] The camera pans elegantly down; below appears an exquisite clockwork wooden sailing ship cutting deep-blue glass-textured waves, which morph into a glowing giant moon with lantern-holding explorer silhouettes trekking a crystal-vein ridge under stars. The camera spirals smoothly back through ethereal clouds to the ticking brass clock face. Hyper-real mechanical textures, rich brass and gold tones, cinematic shallow depth of field, smooth seamless pass-through camerawork, epic fantastical adventure atmosphere.
 ```
 
 <a id="category-3"></a>
 
-### 運鏡控制 (2)
+### Multi-Image Reference (3)
 
-### No. 1: 環繞登頂者 360° 運鏡
+### No. 1: Windows Through Worlds (5 refs)
 
-- **分類:** `運鏡控制`
+- **分類:** `Multi-Image Reference`
 - **来源:** `official`
 - **作者:** Volcengine Ark
 - **语言:** `zh-TW`
+- **视频:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-output.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-output.mp4" controls muted playsinline width="720"></video>
 - **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+- **Inputs:**
+
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference1.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference2.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference3.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference4.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference5.png" width="180" referrerpolicy="no-referrer">
 
 #### 描述
 
-圍繞山頂登山者完成 360 度環繞運鏡，展現雪山全景——精準的運鏡控制。
+A brand concept short driven by 5 reference images, gliding through windows into different worlds.
 
 #### 提示詞
 
 ```text
-鏡頭環繞一個站在山頂的登山者旋轉360度，展現壯麗的雪山全景。
+A cinematic brand concept short. @image1 is the first frame; the picture trembles slightly, the camera pushes in to tree shadows rushing backward outside the window, their retreat accelerating, then abruptly cuts to @image2, speed easing as the camera glides slowly along a stream, birdsong and blossoms. The camera drops underwater — bubble sounds — as orange jellyfish drift gracefully past the lens @image3; the camera pulls back as small fish flit past and swim from the water into the window @image4, a girl looking around, watching them. The camera pulls back, defocuses, then refocuses sharp, switching to the music's rhythm: a Chinese-garden lattice window @image5 with light circling, church stained glass, an airplane porthole, a dome skylight, a bay window, louver blinds, a European dormer, a door peephole, a camera viewfinder, a bird's eye, a human eye close-up. It settles on the human eye; the eye closes, screen black, then suddenly opens — "seedance" appearing in the center of the eye on the accent beat.
 ```
 
-### No. 2: 快速拉遠 —— 從一朵花到花海
+### No. 2: One-Take Through Six Rooms (8 refs)
 
-- **分類:** `運鏡控制`
+- **分類:** `Multi-Image Reference`
 - **来源:** `official`
 - **作者:** Volcengine Ark
 - **语言:** `zh-TW`
+- **视频:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-output.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-output.mp4" controls muted playsinline width="720"></video>
 - **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+- **Inputs:**
+
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference1.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference2.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference3.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference4.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference5.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference7.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference8.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference9.png" width="180" referrerpolicy="no-referrer">
 
 #### 描述
 
-從一朵花快速拉遠到廣袤花海，最終定格遠山——動態運鏡控制。
+One continuous take following a figure through six mood-shifting rooms, driven by 8 reference images.
 
 #### 提示詞
 
 ```text
-鏡頭從一朵花的特寫快速拉遠，展現整片花海，最後定格在遠處的雪山。
+One continuous take. The camera smoothly follows a person in a black coat (reference @image1) moving left to right through six connected rooms of different tones and moods. Every room shares the same structure: white walls, light herringbone wood floor, French floor-to-ceiling windows, white sheer curtains (reference @image2) but the outside view and mood differ each time. The protagonist walks at a constant pace, passing through every open door. 0-5s room one, American-comic fight: the protagonist fights a character (@image3), who is defeated; 5-10s room two, warmth, felt-craft style, window view a sunflower field (@image4), warm-orange soft light, a painter painting sunflowers (@image5), the protagonist turning felt-style on entering; 10-15s room three, sorrow, black-and-white comic stop-motion, rain outside, cold-grey light, a person alone on the floor hugging their knees, a phone glowing with an unanswered call; on entering, the light blinks off then on, the room turns color, flowers bursting into bloom; 15-20s room four, joy, a room submerged in the sea (reference @image6), the protagonist turning transparent among coral and fish; 20-25s room five, surprise, window view a sky of fireworks (reference @image7), colorful flickering light, the protagonist swept up in a cheering crowd; 25-30s a blank white room, the protagonist snaps their fingers — snap SFX — frame goes black, "seedance" in the middle (reference @image8). Cinematic quality, high-fashion advertising style, lighting entirely determined by the window views for strong emotional contrast, no text in frame.
+```
+
+### No. 3: Multilingual Hip-Hop 'Hello' MV
+
+- **分類:** `Multi-Image Reference`
+- **来源:** `official`
+- **作者:** Volcengine Ark
+- **语言:** `zh-TW`
+- **视频:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-output.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-output.mp4" controls muted playsinline width="720"></video>
+- **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+- **Inputs:**
+
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-reference1.png" width="180" referrerpolicy="no-referrer">
+
+#### 描述
+
+A seaside hip-hop MV built from one reference image; the lead raps 'hello' in 8 languages, lip-synced, hard cuts on the beat.
+
+#### 提示詞
+
+```text
+Cinematic hip-hop / rap music video, photoreal quality, high-end tone, seaside setting. Build the frame from @image1: a band performs at a golden sand beach with crashing waves — a lead vocalist gripping a mic on a stand in the wet sand, one guitarist left, one right, a drummer at the back; a vast coastline behind, rolling waves, a warm golden-hour sun shimmering on the water, sea mist in the air. The lead in a red tracksuit raps to camera — lips and jaw precisely synced to every word, head punching to the beat. Bright, punchy, fast, confident rap. HARD CUT on the beat, each switch a double contrast (shot size and type change together). Lyrics (the lead sings 'hello' in each language in turn, precisely lip-synced): English "Hello", Chinese "你好", Japanese "こんにちは", Korean "안녕하세요", Portuguese "Olá", Thai "สวัสดี", Spanish "Hola", Arabic "مرحبا". 8 hard-cut shots (low-angle wide establishing; close-up rap to camera; macro guitar-string insert; 3/4 prowling orbit; lateral track at shore; drummer tilt-up; tight push on the lead; heroic full-band push-in), one language per shot. White balance 4000K, teal-and-amber grade, 35mm, shallow depth of field, film grain, sea mist, golden-hour flare. Premium feel, precise lip-sync, no subtitles, no text overlays, hard cuts only, total 20 seconds.
 ```
 
 <a id="category-4"></a>
 
-### 風格轉換 (2)
+### Video Editing (1)
 
-### No. 1: 吉卜力風格櫻花小徑
+### No. 1: Video Edit — Remove All But the Lead
 
-- **分類:** `風格轉換`
+- **分類:** `Video Editing`
 - **来源:** `official`
 - **作者:** Volcengine Ark
 - **语言:** `zh-TW`
+- **视频:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-output.mov)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-output.mov" controls muted playsinline width="720"></video>
 - **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+- **Inputs:**
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-reference1.mp4" controls muted width="360"></video>
 
 #### 描述
 
-將畫面轉換為吉卜力動畫風格，女孩走在灑滿花瓣的小路上——風格轉換。
+Reference-video editing: erase everyone except the protagonist from a source clip.
 
 #### 提示詞
 
 ```text
-將畫面轉換為吉卜力動畫風格，一個女孩走在櫻花飄落的小路上。
-```
-
-### No. 2: 水墨扁舟山水間
-
-- **分類:** `風格轉換`
-- **来源:** `official`
-- **作者:** Volcengine Ark
-- **语言:** `zh-TW`
-- **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
-
-#### 描述
-
-將畫面轉換為中國傳統水墨畫風格，一葉扁舟在山水間漂流——風格轉換。
-
-#### 提示詞
-
-```text
-將畫面轉換為水墨畫風格，一葉扁舟在山水之間緩緩移動。
+Video editing: remove everyone in @video1 except the protagonist.
 ```
 
 <a id="category-5"></a>
-
-### 文字生成 (2)
-
-### No. 1: 雨中霓虹"SEEDANCE"燈牌
-
-- **分類:** `文字生成`
-- **来源:** `official`
-- **作者:** Volcengine Ark
-- **语言:** `zh-TW`
-- **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
-
-#### 描述
-
-精準的螢幕文字生成——雨夜城市街頭閃爍的霓虹"SEEDANCE"燈牌。
-
-#### 提示詞
-
-```text
-霓虹燈牌上顯示"SEEDANCE"字樣，在雨夜的城市街道上閃爍。
-```
-
-### No. 2: 金字書封緩緩翻開
-
-- **分類:** `文字生成`
-- **来源:** `official`
-- **作者:** Volcengine Ark
-- **语言:** `zh-TW`
-- **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
-
-#### 描述
-
-書封上清晰可讀的文字——金色的"人工智慧的未來"——書本緩緩打開。
-
-#### 提示詞
-
-```text
-一本書的封面上用金色字體寫著"人工智慧的未來"，書本緩緩打開。
-```
-
-<a id="category-6"></a>
-
-### 圖像參考 (4)
-
-### No. 1: 參考角色森林奔跑
-
-- **分類:** `圖像參考`
-- **来源:** `official`
-- **作者:** Volcengine Ark
-- **语言:** `zh-TW`
-- **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
-
-#### 描述
-
-以參考圖驅動動作——被參考的角色在森林中奔跑，鏡頭跟拍。參考圖以 @image1 提供。
-
-#### 提示詞
-
-```text
-參考圖中的角色，讓他在森林中奔跑，鏡頭跟隨。
-```
-
-### No. 2: 為參考場景加入飛鳥
-
-- **分類:** `圖像參考`
-- **来源:** `official`
-- **作者:** Volcengine Ark
-- **语言:** `zh-TW`
-- **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
-
-#### 描述
-
-保留參考場景並加入動態——一群飛鳥掠過畫面。參考圖以 @image1 提供。
-
-#### 提示詞
-
-```text
-參考圖中的場景，加入一群飛鳥從畫面中飛過。
-```
-
-### No. 3: 參考產品 360° 旋轉展示
-
-- **分類:** `圖像參考`
-- **来源:** `official`
-- **作者:** Volcengine Ark
-- **语言:** `zh-TW`
-- **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
-
-#### 描述
-
-將產品參考圖轉化為旋轉展示——在展示台上完成 360° 旋轉。參考圖以 @image1 提供。
-
-#### 提示詞
-
-```text
-參考圖中的產品，讓它在旋轉展示台上360度旋轉。
-```
-
-### No. 4: 參考人物自然揮手
-
-- **分類:** `圖像參考`
-- **来源:** `official`
-- **作者:** Volcengine Ark
-- **语言:** `zh-TW`
-- **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
-
-#### 描述
-
-讓參考人物動起來——自然的揮手動作與逼真的表情。參考圖以 @image1 提供。
-
-#### 提示詞
-
-```text
-參考圖中的人物，讓他做出揮手的動作，表情自然。
-```
-
-<a id="category-7"></a>
 
 ### Twitter Community (24)
 
@@ -989,7 +949,7 @@ first person view of a diver on a boat, high five with another diver, clear blue
 a man giving a presentation in front of an audience, holding a microphone, with a large screen displaying two reflective spheres on a dark surface, natural light from windows, indoor setting with plants and audio equipment
 ```
 
-<a id="category-8"></a>
+<a id="category-6"></a>
 
 ### 音訊與語音合成 (10)
 
@@ -1203,7 +1163,7 @@ a man giving a presentation in front of an audience, holding a microphone, with 
 生成15秒MV視頻。關鍵詞：穩定構圖、電影感、旅行、風景。鏡頭展現壯麗的自然風光，配合抒情音樂，傳達自由與探索的主題。
 ```
 
-<a id="category-9"></a>
+<a id="category-7"></a>
 
 ### 高級運鏡動作 (13)
 
@@ -1480,7 +1440,7 @@ IMAX 風格沙漠沙塵暴場景，Denis Villeneuve 美學。包含帶時間戳�
 現代都市夜景中的雙人武術對決。鏡頭結構：先用廣角建立空間與對峙，再以中景跟拍攻防節奏，關鍵打擊點用近景特寫（拳腳命中、呼吸、發力）。加入低機位環繞、越肩鏡頭與快速平移，保持動作方向清楚。動作必須符合真實重心與反作用力，避免漂浮感。光源以路燈與霓虹反射為主，地面可有輕微濕反光，整體寫實且緊張。
 ```
 
-<a id="category-10"></a>
+<a id="category-8"></a>
 
 ### 影片編輯與混剪 (5)
 
@@ -1589,7 +1549,7 @@ IMAX 風格沙漠沙塵暴場景，Denis Villeneuve 美學。包含帶時間戳�
 將視頻1中女人的髮型改爲紅色長髮，然後鏡頭特寫展示新發型，其他元素保持不變，突出髮型變化。
 ```
 
-<a id="category-11"></a>
+<a id="category-9"></a>
 
 ### 角色與場景一致性 (6)
 
@@ -1719,7 +1679,7 @@ IMAX 風格沙漠沙塵暴場景，Denis Villeneuve 美學。包含帶時間戳�
 0-2秒：快速四格閃切，紅色、粉色、紫色、藍色背景，@圖片1的產品在畫面中央旋轉展示，每格0.5秒。2-4秒：@圖片1產品特寫，鏡頭環繞360度，展示細節。4-6秒：產品logo特寫，品牌名稱淡入。全程配合節奏感強的電子音樂。
 ```
 
-<a id="category-12"></a>
+<a id="category-10"></a>
 
 ### 創意視覺特效 (11)
 
@@ -1954,7 +1914,7 @@ Will Smith 在現代家庭廚房裡吃義大利麵。
 黑白水墨風格，@圖片1的角色參考@視頻1的動作，在水墨山水背景中施展武術，墨跡飛濺效果，傳統與現代結合的視覺風格。
 ```
 
-<a id="category-13"></a>
+<a id="category-11"></a>
 
 ### 超逼真影片生成 (5)
 
@@ -2063,7 +2023,7 @@ Will Smith 在現代家庭廚房裡吃義大利麵。
 固定鏡頭,女孩在優雅的曬衣服,曬完接着在桶裏拿出另一件,用力抖一抖衣服
 ```
 
-<a id="category-14"></a>
+<a id="category-12"></a>
 
 ### 情緒演繹 (3)
 
@@ -2130,7 +2090,7 @@ Will Smith 在現代家庭廚房裡吃義大利麵。
 @圖片1的女人走到鏡子前，看着鏡中的自己，表情從平靜到悲傷，眼淚滑落，情緒崩潰的心理戲，鏡子場景的象徵意義。
 ```
 
-<a id="category-15"></a>
+<a id="category-13"></a>
 
 ### 劇情發展與延伸 (8)
 
@@ -2302,7 +2262,7 @@ Will Smith 在現代家庭廚房裡吃義大利麵。
 將視頻延長6s,出現電吉他的激昂音樂,視頻中間出現"JUST DO IT"的廣告字體後逐漸淡化,鏡頭上移到天花板,一個健碩的男人拉着吊環,上半身穿着@圖1的緊身健身服,背面印有@圖2的"Fitness"logo
 ```
 
-<a id="category-16"></a>
+<a id="category-14"></a>
 
 ### 音樂卡點同步 (4)
 
@@ -2390,7 +2350,7 @@ Will Smith 在現代家庭廚房裡吃義大利麵。
 @圖片1 @圖片2 @圖片3 @圖片4 @圖片5 @圖片6風景場景，配合音樂轉場，從日出到日落，展現自然之美，音樂MV風格。
 ```
 
-<a id="category-17"></a>
+<a id="category-15"></a>
 
 ### 一鏡到底 (5)
 
@@ -2520,4 +2480,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> 此 README 為自動生成。 2026-07-20T17:21:54.953Z
+> 此 README 為自動生成。 2026-07-21T03:36:32.880Z

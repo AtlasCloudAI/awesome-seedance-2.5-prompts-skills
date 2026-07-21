@@ -4,7 +4,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedance-2.5-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-107%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-100%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 > A curated collection of Seedance 2.5 video prompts — each with real previews via Atlas Cloud. 30s native clips · 50 multimodal references · flexible region editing. Cinematic, anime, UGC, ads, meme & more.
 
@@ -68,438 +68,398 @@ Seedance 2.5 is a major upgrade to Seedance 2.0 with three big gains: 30-second 
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **107** |
-| Categories | **17** |
-| Preview Videos | **88** |
-| Last Updated | **2026-07-20T17:21:54.956Z** |
+| Total Prompts | **100** |
+| Categories | **15** |
+| Preview Videos | **94** |
+| Last Updated | **2026-07-21T03:36:32.884Z** |
 
 ## 🏷️ Browse by Category
 
-- [`การเล่าเรื่องแบบหลายช็อต`](#category-1): **2**
-- [`การถ่ายภาพแบบเทกเดียว`](#category-2): **1**
-- [`การเคลื่อนกล้องขั้นสูง`](#category-3): **2**
-- [`การถ่ายโอนสไตล์`](#category-4): **2**
-- [`การเรนเดอร์ข้อความ`](#category-5): **2**
-- [`การอ้างอิงภาพ`](#category-6): **4**
-- [`Twitter Community`](#category-7): **24**
-- [`เสียงและการสังเคราะห์เสียงพูด`](#category-8): **10**
-- [`การเคลื่อนไหวกล้องขั้นสูง`](#category-9): **13**
-- [`การตัดต่อและรีมิกซ์วิดีโอ`](#category-10): **5**
-- [`ความสม่ำเสมอของตัวละครและฉาก`](#category-11): **6**
-- [`เอฟเฟกต์ภาพสร้างสรรค์`](#category-12): **11**
-- [`การสร้างวิดีโอสมจริงขั้นสูง`](#category-13): **5**
-- [`การแสดงอารมณ์`](#category-14): **3**
-- [`การพัฒนาและต่อยอดเรื่องราว`](#category-15): **8**
-- [`การซิงก์ดนตรี`](#category-16): **4**
-- [`ภาพยนตร์เทคเดียว`](#category-17): **5**
+- [`Match-Cut & Creative Effects`](#category-1): **1**
+- [`One-Take Cinematography`](#category-2): **1**
+- [`Multi-Image Reference`](#category-3): **3**
+- [`Video Editing`](#category-4): **1**
+- [`Twitter Community`](#category-5): **24**
+- [`เสียงและการสังเคราะห์เสียงพูด`](#category-6): **10**
+- [`การเคลื่อนไหวกล้องขั้นสูง`](#category-7): **13**
+- [`การตัดต่อและรีมิกซ์วิดีโอ`](#category-8): **5**
+- [`ความสม่ำเสมอของตัวละครและฉาก`](#category-9): **6**
+- [`เอฟเฟกต์ภาพสร้างสรรค์`](#category-10): **11**
+- [`การสร้างวิดีโอสมจริงขั้นสูง`](#category-11): **5**
+- [`การแสดงอารมณ์`](#category-12): **3**
+- [`การพัฒนาและต่อยอดเรื่องราว`](#category-13): **8**
+- [`การซิงก์ดนตรี`](#category-14): **4**
+- [`ภาพยนตร์เทคเดียว`](#category-15): **5**
 
 ## 🔥 Featured Prompts
 
-### No. 1: วิ่งริมทะเล — เรื่องราวสามช็อต
+### No. 1: Crystal Ball Match-Cut Beat Film
 
-- **Category:** `การเล่าเรื่องแบบหลายช็อต`
+- **Category:** `Match-Cut & Creative Effects`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `th`
+- **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group1-1.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group1-1.mp4" controls muted playsinline width="720"></video>
 - **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-ลำดับภาพริมทะเลสามช็อต — โคลสอัพแบบแทร็ก การหันเข้าหากล้อง และภาพกว้างแบบฟรีซเฟรม — แสดงการเล่าเรื่องแบบหลายช็อตที่ต่อเนื่องด้วยตัวแบบเดียวกัน
+A beat-synced match-cut film: one crystal ball etched with a glowing 'seedance' logo stays centered while eight scenes cut seamlessly behind it.
 
 #### Prompt
 
 ```text
-[ช็อต 1] โคลสอัพ เด็กสาววิ่งไปตามชายหาด กล้องแทร็กตามจังหวะก้าวเท้าของเธอ [ช็อต 2] มีเดียมช็อต เธอหยุด หันหน้าเข้าหากล้องและยิ้ม [ช็อต 3] ภาพกว้าง เธอกางแขนออกสู่ท้องทะเลขณะที่ภาพหยุดนิ่ง
+A fast-paced, cinematic Match-cut short film synced to a driving electronic beat. A flawless crystal ball stays fixed dead-center throughout, a glowing "seedance" logo etched inside it. The ball holds razor-sharp focus while, on every strong musical beat, the background match-cuts seamlessly: Scene 1: macro close-up, cinematic water splashing around the ball, refracting intricate light. Scene 2: a vintage morning cafe, the ball on a raw-wood table, rising coffee steam and blurred commuters beyond the window. Scene 3: golden-hour dusk, a skater youth tosses and catches the ball one-handed, street racing backward behind them in gorgeous backlit sunset. Scene 4: a frenzied music festival, hands raise the ball high, refracting dazzling stage lasers. Scene 5: a lively family party table, the ball resting center-frame, blurred figures toasting and reaching for food. Scene 6: a dim cinema, hands cupping the ball as the giant screen's faint glow drifts across its surface. Scene 7: the ball on a violently vibrating speaker diaphragm, match-cutting on the climax to a spinning DJ turntable center. Scene 8: an outdoor camping night, background becoming warm bonfire and swaying string-light bokeh. Finale: on the final downbeat the ball is hurled up out of frame; cut to pure black, a minimal white-on-black "seedance" appearing dead-center. Beat-synced match-cut editing, top-tier cinematic color grading, photoreal glass refraction, ray tracing, global illumination. Subject razor-sharp, background heavy motion blur.
 ```
 
-### No. 2: ลาเต้ของบาริสต้า — เทกเดียวต่อเนื่อง
+### No. 2: Steampunk Clockwork — 30s One-Take
 
-- **Category:** `การถ่ายภาพแบบเทกเดียว`
+- **Category:** `One-Take Cinematography`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `th`
+- **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group2-2.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group2-2.mp4" controls muted playsinline width="720"></video>
 - **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-เทกเดียวไม่ตัดต่อ ติดตามบาริสต้าตั้งแต่บดเมล็ดกาแฟจนถึงลาเต้อาร์ตขั้นสุดท้าย นำเสนอการถ่ายภาพแบบเทกเดียว 30 วินาที
+A 30-second steampunk miniature 3D sequence with continuous orbiting, pass-through camera moves.
 
 #### Prompt
 
 ```text
-บาริสต้าชงลาเต้ในร้านกาแฟ — ตั้งแต่บดเมล็ดกาแฟ สกัดเอสเพรสโซ สตีมนม จนถึงเทลาเต้อาร์ตขั้นสุดท้าย ทั้งหมดในเทกเดียวต่อเนื่อง
+A high-end, deeply cinematic 30-second 3D motion-graphics sequence in refined steampunk and vintage-miniature style, with continuous fluid orbiting and pass-through camera moves. [0-10s] Macro close-up of an antique brass clock face that unfolds layer by layer into meshing rotating gear rings and volumetric fog. The camera pierces down through the gears; a mechanical ornithopter spirals up from a miniature canyon of stacked weathered old books. [10-20s] The camera glides forward tracking the ornithopter, seamlessly passing into a fast-spinning ornate brass zoetrope projecting galloping mechanical-horse light. The light leaps out and the scene becomes a brass floating cable car on glimmering copper rails through a forest of gears, bathed in cinematic golden-hour light. [20-30s] The camera pans elegantly down; below appears an exquisite clockwork wooden sailing ship cutting deep-blue glass-textured waves, which morph into a glowing giant moon with lantern-holding explorer silhouettes trekking a crystal-vein ridge under stars. The camera spirals smoothly back through ethereal clouds to the ticking brass clock face. Hyper-real mechanical textures, rich brass and gold tones, cinematic shallow depth of field, smooth seamless pass-through camerawork, epic fantastical adventure atmosphere.
 ```
 
-### No. 3: ออร์บิต 360° รอบนักปีนยอดเขา
+### No. 3: Windows Through Worlds (5 refs)
 
-- **Category:** `การเคลื่อนกล้องขั้นสูง`
+- **Category:** `Multi-Image Reference`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `th`
+- **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-output.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-output.mp4" controls muted playsinline width="720"></video>
 - **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+- **Inputs:**
+
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference1.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference2.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference3.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference4.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference5.png" width="180" referrerpolicy="no-referrer">
 
 #### Description
 
-การเคลื่อนกล้องออร์บิตรอบ 360 องศารอบนักปีนเขาบนยอดเขา เผยให้เห็นภาพพาโนรามาของภูเขาหิมะ — การควบคุมการเคลื่อนกล้องอย่างแม่นยำ
+A brand concept short driven by 5 reference images, gliding through windows into different worlds.
 
 #### Prompt
 
 ```text
-กล้องโคจรรอบ 360 องศารอบนักปีนเขาที่ยืนอยู่บนยอดเขา เผยให้เห็นภาพพาโนรามาอันงดงามของยอดเขาที่ปกคลุมด้วยหิมะ
+A cinematic brand concept short. @image1 is the first frame; the picture trembles slightly, the camera pushes in to tree shadows rushing backward outside the window, their retreat accelerating, then abruptly cuts to @image2, speed easing as the camera glides slowly along a stream, birdsong and blossoms. The camera drops underwater — bubble sounds — as orange jellyfish drift gracefully past the lens @image3; the camera pulls back as small fish flit past and swim from the water into the window @image4, a girl looking around, watching them. The camera pulls back, defocuses, then refocuses sharp, switching to the music's rhythm: a Chinese-garden lattice window @image5 with light circling, church stained glass, an airplane porthole, a dome skylight, a bay window, louver blinds, a European dormer, a door peephole, a camera viewfinder, a bird's eye, a human eye close-up. It settles on the human eye; the eye closes, screen black, then suddenly opens — "seedance" appearing in the center of the eye on the accent beat.
 ```
 
-### No. 4: ดึงกล้องถอยเร็ว — จากดอกไม้สู่ทะเลดอกไม้
+### No. 4: One-Take Through Six Rooms (8 refs)
 
-- **Category:** `การเคลื่อนกล้องขั้นสูง`
+- **Category:** `Multi-Image Reference`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `th`
+- **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-output.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-output.mp4" controls muted playsinline width="720"></video>
 - **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+- **Inputs:**
+
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference1.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference2.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference3.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference4.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference5.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference7.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference8.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference9.png" width="180" referrerpolicy="no-referrer">
 
 #### Description
 
-ดอลลี่ถอยอย่างรวดเร็วจากดอกไม้ดอกเดียวสู่ทุ่งดอกไม้กว้างใหญ่ แล้วหยุดที่ยอดเขาไกล — การควบคุมการเคลื่อนกล้องแบบไดนามิก
+One continuous take following a figure through six mood-shifting rooms, driven by 8 reference images.
 
 #### Prompt
 
 ```text
-กล้องดึงถอยอย่างรวดเร็วจากภาพโคลสอัพของดอกไม้ดอกเดียว เผยให้เห็นทะเลดอกไม้ทั้งผืน แล้วหยุดนิ่งที่ภูเขาหิมะไกลลิบ
+One continuous take. The camera smoothly follows a person in a black coat (reference @image1) moving left to right through six connected rooms of different tones and moods. Every room shares the same structure: white walls, light herringbone wood floor, French floor-to-ceiling windows, white sheer curtains (reference @image2) but the outside view and mood differ each time. The protagonist walks at a constant pace, passing through every open door. 0-5s room one, American-comic fight: the protagonist fights a character (@image3), who is defeated; 5-10s room two, warmth, felt-craft style, window view a sunflower field (@image4), warm-orange soft light, a painter painting sunflowers (@image5), the protagonist turning felt-style on entering; 10-15s room three, sorrow, black-and-white comic stop-motion, rain outside, cold-grey light, a person alone on the floor hugging their knees, a phone glowing with an unanswered call; on entering, the light blinks off then on, the room turns color, flowers bursting into bloom; 15-20s room four, joy, a room submerged in the sea (reference @image6), the protagonist turning transparent among coral and fish; 20-25s room five, surprise, window view a sky of fireworks (reference @image7), colorful flickering light, the protagonist swept up in a cheering crowd; 25-30s a blank white room, the protagonist snaps their fingers — snap SFX — frame goes black, "seedance" in the middle (reference @image8). Cinematic quality, high-fashion advertising style, lighting entirely determined by the window views for strong emotional contrast, no text in frame.
 ```
 
-### No. 5: เส้นทางซากุระสไตล์จิบลิ
+### No. 5: Video Edit — Remove All But the Lead
 
-- **Category:** `การถ่ายโอนสไตล์`
+- **Category:** `Video Editing`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `th`
+- **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-output.mov)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-output.mov" controls muted playsinline width="720"></video>
 - **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+- **Inputs:**
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-reference1.mp4" controls muted width="360"></video>
 
 #### Description
 
-เปลี่ยนสไตล์ภาพให้เป็นแอนิเมชันสตูดิโอจิบลิ ขณะเด็กสาวเดินไปตามทางที่ปูด้วยกลีบดอกไม้ — การถ่ายโอนสไตล์
+Reference-video editing: erase everyone except the protagonist from a source clip.
 
 #### Prompt
 
 ```text
-แปลงฉากให้เป็นสไตล์แอนิเมชันสตูดิโอจิบลิ — เด็กสาวเดินไปตามทางขณะที่กลีบซากุระร่วงโปรยลงมารอบตัวเธอ
+Video editing: remove everyone in @video1 except the protagonist.
 ```
 
-### No. 6: เรือน้อยในภาพหมึกจีนกลางขุนเขา
+### No. 6: Multilingual Hip-Hop 'Hello' MV
 
-- **Category:** `การถ่ายโอนสไตล์`
+- **Category:** `Multi-Image Reference`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `th`
+- **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-output.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-output.mp4" controls muted playsinline width="720"></video>
 - **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+- **Inputs:**
+
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-reference1.png" width="180" referrerpolicy="no-referrer">
 
 #### Description
 
-เปลี่ยนสไตล์ภาพให้เป็นภาพวาดหมึกจีนดั้งเดิม ขณะเรือลำเดียวล่องผ่านภูมิทัศน์ — การถ่ายโอนสไตล์
+A seaside hip-hop MV built from one reference image; the lead raps 'hello' in 8 languages, lip-synced, hard cuts on the beat.
 
 #### Prompt
 
 ```text
-แปลงฉากให้เป็นสไตล์ภาพวาดหมึกจีน — เรือลำเล็กล่องช้าๆ ผ่านขุนเขาและสายน้ำ
+Cinematic hip-hop / rap music video, photoreal quality, high-end tone, seaside setting. Build the frame from @image1: a band performs at a golden sand beach with crashing waves — a lead vocalist gripping a mic on a stand in the wet sand, one guitarist left, one right, a drummer at the back; a vast coastline behind, rolling waves, a warm golden-hour sun shimmering on the water, sea mist in the air. The lead in a red tracksuit raps to camera — lips and jaw precisely synced to every word, head punching to the beat. Bright, punchy, fast, confident rap. HARD CUT on the beat, each switch a double contrast (shot size and type change together). Lyrics (the lead sings 'hello' in each language in turn, precisely lip-synced): English "Hello", Chinese "你好", Japanese "こんにちは", Korean "안녕하세요", Portuguese "Olá", Thai "สวัสดี", Spanish "Hola", Arabic "مرحبا". 8 hard-cut shots (low-angle wide establishing; close-up rap to camera; macro guitar-string insert; 3/4 prowling orbit; lateral track at shore; drummer tilt-up; tight push on the lead; heroic full-band push-in), one language per shot. White balance 4000K, teal-and-amber grade, 35mm, shallow depth of field, film grain, sea mist, golden-hour flare. Premium feel, precise lip-sync, no subtitles, no text overlays, hard cuts only, total 20 seconds.
 ```
 
-### No. 7: ป้ายนีออน "SEEDANCE" ในสายฝน
+### No. 7: ฟิชอาย ม้า คอมเมดี้
 
-- **Category:** `การเรนเดอร์ข้อความ`
+- **Category:** `เสียงและการสังเคราะห์เสียงพูด`
 - **Source:** `official`
-- **Author:** Volcengine Ark
+- **Author:** AtlasCloud
 - **Language:** `th`
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/26d450cd-23c4-499e-9fd6-1752dabbc8bd.mp4)
+
+<video src="https://static.atlascloud.ai/uploads/seedance-2.0/26d450cd-23c4-499e-9fd6-1752dabbc8bd.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/33)
 
 #### Description
 
-การเรนเดอร์ข้อความบนจออย่างแม่นยำ — ป้ายนีออน "SEEDANCE" กะพริบบนถนนในเมืองยามค่ำคืนที่ฝนตก
+ฉากวิดีโอในธีม: ฟิชอาย ม้า คอมเมดี้
 
 #### Prompt
 
 ```text
-ป้ายนีออนที่เขียนว่า "SEEDANCE" กะพริบอยู่บนถนนในเมืองในคืนฝนตก แสงของมันสะท้อนบนพื้นถนนเปียก
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: ฟิชอาย ม้า คอมเมดี้
 ```
 
-### No. 8: ปกหนังสือตัวอักษรทองค่อยๆ เปิดออก
+### No. 8: VR แว่น จักรวาล การเดินทาง
 
-- **Category:** `การเรนเดอร์ข้อความ`
+- **Category:** `เอฟเฟกต์ภาพสร้างสรรค์`
 - **Source:** `official`
-- **Author:** Volcengine Ark
+- **Author:** AtlasCloud
 - **Language:** `th`
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/dddb1fb2-d73a-4b6a-a2bf-bf416be652c6.mp4)
+
+<video src="https://static.atlascloud.ai/uploads/seedance-2.0/dddb1fb2-d73a-4b6a-a2bf-bf416be652c6.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/18)
 
 #### Description
 
-ข้อความที่เรนเดอร์อ่านออกได้ชัดเจนบนปกหนังสือ — "อนาคตของปัญญาประดิษฐ์" เป็นสีทอง — ขณะที่หนังสือค่อยๆ เปิดออก
+ฉากวิดีโอในธีม: VR แว่น จักรวาล การเดินทาง
 
 #### Prompt
 
 ```text
-ปกหนังสือเขียนว่า "อนาคตของปัญญาประดิษฐ์" ด้วยตัวอักษรสีทอง ขณะที่หนังสือค่อยๆ เปิดออก
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: VR แว่น จักรวาล การเดินทาง
 ```
 
 ## 📋 All Prompts
 
 <a id="category-1"></a>
 
-### การเล่าเรื่องแบบหลายช็อต (2)
+### Match-Cut & Creative Effects (1)
 
-### No. 1: วิ่งริมทะเล — เรื่องราวสามช็อต
+### No. 1: Crystal Ball Match-Cut Beat Film
 
-- **Category:** `การเล่าเรื่องแบบหลายช็อต`
+- **Category:** `Match-Cut & Creative Effects`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `th`
+- **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group1-1.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group1-1.mp4" controls muted playsinline width="720"></video>
 - **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-ลำดับภาพริมทะเลสามช็อต — โคลสอัพแบบแทร็ก การหันเข้าหากล้อง และภาพกว้างแบบฟรีซเฟรม — แสดงการเล่าเรื่องแบบหลายช็อตที่ต่อเนื่องด้วยตัวแบบเดียวกัน
+A beat-synced match-cut film: one crystal ball etched with a glowing 'seedance' logo stays centered while eight scenes cut seamlessly behind it.
 
 #### Prompt
 
 ```text
-[ช็อต 1] โคลสอัพ เด็กสาววิ่งไปตามชายหาด กล้องแทร็กตามจังหวะก้าวเท้าของเธอ [ช็อต 2] มีเดียมช็อต เธอหยุด หันหน้าเข้าหากล้องและยิ้ม [ช็อต 3] ภาพกว้าง เธอกางแขนออกสู่ท้องทะเลขณะที่ภาพหยุดนิ่ง
-```
-
-### No. 2: นักบินอวกาศบนดวงจันทร์ — สามช็อต
-
-- **Category:** `การเล่าเรื่องแบบหลายช็อต`
-- **Source:** `official`
-- **Author:** Volcengine Ark
-- **Language:** `th`
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
-
-#### Description
-
-ลำดับภาพบนดวงจันทร์สามช็อต — จ้องมองโลก เดินไปยังยานลงจอด และทะยานขึ้น — การเล่าเรื่องแบบหลายช็อตด้วยตัวแบบเดียวกัน
-
-#### Prompt
-
-```text
-[ช็อต 1] นักบินอวกาศยืนอยู่บนพื้นผิวดวงจันทร์ จ้องมองโลก [ช็อต 2] นักบินอวกาศหันตัวและเดินไปยังยานลงจอดบนดวงจันทร์ [ช็อต 3] ยานลงจอดทะยานขึ้น พัดฝุ่นดวงจันทร์ฟุ้งกระจาย
+A fast-paced, cinematic Match-cut short film synced to a driving electronic beat. A flawless crystal ball stays fixed dead-center throughout, a glowing "seedance" logo etched inside it. The ball holds razor-sharp focus while, on every strong musical beat, the background match-cuts seamlessly: Scene 1: macro close-up, cinematic water splashing around the ball, refracting intricate light. Scene 2: a vintage morning cafe, the ball on a raw-wood table, rising coffee steam and blurred commuters beyond the window. Scene 3: golden-hour dusk, a skater youth tosses and catches the ball one-handed, street racing backward behind them in gorgeous backlit sunset. Scene 4: a frenzied music festival, hands raise the ball high, refracting dazzling stage lasers. Scene 5: a lively family party table, the ball resting center-frame, blurred figures toasting and reaching for food. Scene 6: a dim cinema, hands cupping the ball as the giant screen's faint glow drifts across its surface. Scene 7: the ball on a violently vibrating speaker diaphragm, match-cutting on the climax to a spinning DJ turntable center. Scene 8: an outdoor camping night, background becoming warm bonfire and swaying string-light bokeh. Finale: on the final downbeat the ball is hurled up out of frame; cut to pure black, a minimal white-on-black "seedance" appearing dead-center. Beat-synced match-cut editing, top-tier cinematic color grading, photoreal glass refraction, ray tracing, global illumination. Subject razor-sharp, background heavy motion blur.
 ```
 
 <a id="category-2"></a>
 
-### การถ่ายภาพแบบเทกเดียว (1)
+### One-Take Cinematography (1)
 
-### No. 1: ลาเต้ของบาริสต้า — เทกเดียวต่อเนื่อง
+### No. 1: Steampunk Clockwork — 30s One-Take
 
-- **Category:** `การถ่ายภาพแบบเทกเดียว`
+- **Category:** `One-Take Cinematography`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `th`
+- **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group2-2.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group2-2.mp4" controls muted playsinline width="720"></video>
 - **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
-เทกเดียวไม่ตัดต่อ ติดตามบาริสต้าตั้งแต่บดเมล็ดกาแฟจนถึงลาเต้อาร์ตขั้นสุดท้าย นำเสนอการถ่ายภาพแบบเทกเดียว 30 วินาที
+A 30-second steampunk miniature 3D sequence with continuous orbiting, pass-through camera moves.
 
 #### Prompt
 
 ```text
-บาริสต้าชงลาเต้ในร้านกาแฟ — ตั้งแต่บดเมล็ดกาแฟ สกัดเอสเพรสโซ สตีมนม จนถึงเทลาเต้อาร์ตขั้นสุดท้าย ทั้งหมดในเทกเดียวต่อเนื่อง
+A high-end, deeply cinematic 30-second 3D motion-graphics sequence in refined steampunk and vintage-miniature style, with continuous fluid orbiting and pass-through camera moves. [0-10s] Macro close-up of an antique brass clock face that unfolds layer by layer into meshing rotating gear rings and volumetric fog. The camera pierces down through the gears; a mechanical ornithopter spirals up from a miniature canyon of stacked weathered old books. [10-20s] The camera glides forward tracking the ornithopter, seamlessly passing into a fast-spinning ornate brass zoetrope projecting galloping mechanical-horse light. The light leaps out and the scene becomes a brass floating cable car on glimmering copper rails through a forest of gears, bathed in cinematic golden-hour light. [20-30s] The camera pans elegantly down; below appears an exquisite clockwork wooden sailing ship cutting deep-blue glass-textured waves, which morph into a glowing giant moon with lantern-holding explorer silhouettes trekking a crystal-vein ridge under stars. The camera spirals smoothly back through ethereal clouds to the ticking brass clock face. Hyper-real mechanical textures, rich brass and gold tones, cinematic shallow depth of field, smooth seamless pass-through camerawork, epic fantastical adventure atmosphere.
 ```
 
 <a id="category-3"></a>
 
-### การเคลื่อนกล้องขั้นสูง (2)
+### Multi-Image Reference (3)
 
-### No. 1: ออร์บิต 360° รอบนักปีนยอดเขา
+### No. 1: Windows Through Worlds (5 refs)
 
-- **Category:** `การเคลื่อนกล้องขั้นสูง`
+- **Category:** `Multi-Image Reference`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `th`
+- **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-output.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-output.mp4" controls muted playsinline width="720"></video>
 - **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+- **Inputs:**
+
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference1.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference2.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference3.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference4.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference5.png" width="180" referrerpolicy="no-referrer">
 
 #### Description
 
-การเคลื่อนกล้องออร์บิตรอบ 360 องศารอบนักปีนเขาบนยอดเขา เผยให้เห็นภาพพาโนรามาของภูเขาหิมะ — การควบคุมการเคลื่อนกล้องอย่างแม่นยำ
+A brand concept short driven by 5 reference images, gliding through windows into different worlds.
 
 #### Prompt
 
 ```text
-กล้องโคจรรอบ 360 องศารอบนักปีนเขาที่ยืนอยู่บนยอดเขา เผยให้เห็นภาพพาโนรามาอันงดงามของยอดเขาที่ปกคลุมด้วยหิมะ
+A cinematic brand concept short. @image1 is the first frame; the picture trembles slightly, the camera pushes in to tree shadows rushing backward outside the window, their retreat accelerating, then abruptly cuts to @image2, speed easing as the camera glides slowly along a stream, birdsong and blossoms. The camera drops underwater — bubble sounds — as orange jellyfish drift gracefully past the lens @image3; the camera pulls back as small fish flit past and swim from the water into the window @image4, a girl looking around, watching them. The camera pulls back, defocuses, then refocuses sharp, switching to the music's rhythm: a Chinese-garden lattice window @image5 with light circling, church stained glass, an airplane porthole, a dome skylight, a bay window, louver blinds, a European dormer, a door peephole, a camera viewfinder, a bird's eye, a human eye close-up. It settles on the human eye; the eye closes, screen black, then suddenly opens — "seedance" appearing in the center of the eye on the accent beat.
 ```
 
-### No. 2: ดึงกล้องถอยเร็ว — จากดอกไม้สู่ทะเลดอกไม้
+### No. 2: One-Take Through Six Rooms (8 refs)
 
-- **Category:** `การเคลื่อนกล้องขั้นสูง`
+- **Category:** `Multi-Image Reference`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `th`
+- **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-output.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-output.mp4" controls muted playsinline width="720"></video>
 - **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+- **Inputs:**
+
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference1.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference2.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference3.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference4.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference5.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference7.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference8.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference9.png" width="180" referrerpolicy="no-referrer">
 
 #### Description
 
-ดอลลี่ถอยอย่างรวดเร็วจากดอกไม้ดอกเดียวสู่ทุ่งดอกไม้กว้างใหญ่ แล้วหยุดที่ยอดเขาไกล — การควบคุมการเคลื่อนกล้องแบบไดนามิก
+One continuous take following a figure through six mood-shifting rooms, driven by 8 reference images.
 
 #### Prompt
 
 ```text
-กล้องดึงถอยอย่างรวดเร็วจากภาพโคลสอัพของดอกไม้ดอกเดียว เผยให้เห็นทะเลดอกไม้ทั้งผืน แล้วหยุดนิ่งที่ภูเขาหิมะไกลลิบ
+One continuous take. The camera smoothly follows a person in a black coat (reference @image1) moving left to right through six connected rooms of different tones and moods. Every room shares the same structure: white walls, light herringbone wood floor, French floor-to-ceiling windows, white sheer curtains (reference @image2) but the outside view and mood differ each time. The protagonist walks at a constant pace, passing through every open door. 0-5s room one, American-comic fight: the protagonist fights a character (@image3), who is defeated; 5-10s room two, warmth, felt-craft style, window view a sunflower field (@image4), warm-orange soft light, a painter painting sunflowers (@image5), the protagonist turning felt-style on entering; 10-15s room three, sorrow, black-and-white comic stop-motion, rain outside, cold-grey light, a person alone on the floor hugging their knees, a phone glowing with an unanswered call; on entering, the light blinks off then on, the room turns color, flowers bursting into bloom; 15-20s room four, joy, a room submerged in the sea (reference @image6), the protagonist turning transparent among coral and fish; 20-25s room five, surprise, window view a sky of fireworks (reference @image7), colorful flickering light, the protagonist swept up in a cheering crowd; 25-30s a blank white room, the protagonist snaps their fingers — snap SFX — frame goes black, "seedance" in the middle (reference @image8). Cinematic quality, high-fashion advertising style, lighting entirely determined by the window views for strong emotional contrast, no text in frame.
+```
+
+### No. 3: Multilingual Hip-Hop 'Hello' MV
+
+- **Category:** `Multi-Image Reference`
+- **Source:** `official`
+- **Author:** Volcengine Ark
+- **Language:** `th`
+- **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-output.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-output.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+- **Inputs:**
+
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-reference1.png" width="180" referrerpolicy="no-referrer">
+
+#### Description
+
+A seaside hip-hop MV built from one reference image; the lead raps 'hello' in 8 languages, lip-synced, hard cuts on the beat.
+
+#### Prompt
+
+```text
+Cinematic hip-hop / rap music video, photoreal quality, high-end tone, seaside setting. Build the frame from @image1: a band performs at a golden sand beach with crashing waves — a lead vocalist gripping a mic on a stand in the wet sand, one guitarist left, one right, a drummer at the back; a vast coastline behind, rolling waves, a warm golden-hour sun shimmering on the water, sea mist in the air. The lead in a red tracksuit raps to camera — lips and jaw precisely synced to every word, head punching to the beat. Bright, punchy, fast, confident rap. HARD CUT on the beat, each switch a double contrast (shot size and type change together). Lyrics (the lead sings 'hello' in each language in turn, precisely lip-synced): English "Hello", Chinese "你好", Japanese "こんにちは", Korean "안녕하세요", Portuguese "Olá", Thai "สวัสดี", Spanish "Hola", Arabic "مرحبا". 8 hard-cut shots (low-angle wide establishing; close-up rap to camera; macro guitar-string insert; 3/4 prowling orbit; lateral track at shore; drummer tilt-up; tight push on the lead; heroic full-band push-in), one language per shot. White balance 4000K, teal-and-amber grade, 35mm, shallow depth of field, film grain, sea mist, golden-hour flare. Premium feel, precise lip-sync, no subtitles, no text overlays, hard cuts only, total 20 seconds.
 ```
 
 <a id="category-4"></a>
 
-### การถ่ายโอนสไตล์ (2)
+### Video Editing (1)
 
-### No. 1: เส้นทางซากุระสไตล์จิบลิ
+### No. 1: Video Edit — Remove All But the Lead
 
-- **Category:** `การถ่ายโอนสไตล์`
+- **Category:** `Video Editing`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `th`
+- **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-output.mov)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-output.mov" controls muted playsinline width="720"></video>
 - **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+- **Inputs:**
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-reference1.mp4" controls muted width="360"></video>
 
 #### Description
 
-เปลี่ยนสไตล์ภาพให้เป็นแอนิเมชันสตูดิโอจิบลิ ขณะเด็กสาวเดินไปตามทางที่ปูด้วยกลีบดอกไม้ — การถ่ายโอนสไตล์
+Reference-video editing: erase everyone except the protagonist from a source clip.
 
 #### Prompt
 
 ```text
-แปลงฉากให้เป็นสไตล์แอนิเมชันสตูดิโอจิบลิ — เด็กสาวเดินไปตามทางขณะที่กลีบซากุระร่วงโปรยลงมารอบตัวเธอ
-```
-
-### No. 2: เรือน้อยในภาพหมึกจีนกลางขุนเขา
-
-- **Category:** `การถ่ายโอนสไตล์`
-- **Source:** `official`
-- **Author:** Volcengine Ark
-- **Language:** `th`
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
-
-#### Description
-
-เปลี่ยนสไตล์ภาพให้เป็นภาพวาดหมึกจีนดั้งเดิม ขณะเรือลำเดียวล่องผ่านภูมิทัศน์ — การถ่ายโอนสไตล์
-
-#### Prompt
-
-```text
-แปลงฉากให้เป็นสไตล์ภาพวาดหมึกจีน — เรือลำเล็กล่องช้าๆ ผ่านขุนเขาและสายน้ำ
+Video editing: remove everyone in @video1 except the protagonist.
 ```
 
 <a id="category-5"></a>
-
-### การเรนเดอร์ข้อความ (2)
-
-### No. 1: ป้ายนีออน "SEEDANCE" ในสายฝน
-
-- **Category:** `การเรนเดอร์ข้อความ`
-- **Source:** `official`
-- **Author:** Volcengine Ark
-- **Language:** `th`
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
-
-#### Description
-
-การเรนเดอร์ข้อความบนจออย่างแม่นยำ — ป้ายนีออน "SEEDANCE" กะพริบบนถนนในเมืองยามค่ำคืนที่ฝนตก
-
-#### Prompt
-
-```text
-ป้ายนีออนที่เขียนว่า "SEEDANCE" กะพริบอยู่บนถนนในเมืองในคืนฝนตก แสงของมันสะท้อนบนพื้นถนนเปียก
-```
-
-### No. 2: ปกหนังสือตัวอักษรทองค่อยๆ เปิดออก
-
-- **Category:** `การเรนเดอร์ข้อความ`
-- **Source:** `official`
-- **Author:** Volcengine Ark
-- **Language:** `th`
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
-
-#### Description
-
-ข้อความที่เรนเดอร์อ่านออกได้ชัดเจนบนปกหนังสือ — "อนาคตของปัญญาประดิษฐ์" เป็นสีทอง — ขณะที่หนังสือค่อยๆ เปิดออก
-
-#### Prompt
-
-```text
-ปกหนังสือเขียนว่า "อนาคตของปัญญาประดิษฐ์" ด้วยตัวอักษรสีทอง ขณะที่หนังสือค่อยๆ เปิดออก
-```
-
-<a id="category-6"></a>
-
-### การอ้างอิงภาพ (4)
-
-### No. 1: ตัวละครอ้างอิงวิ่งผ่านป่า
-
-- **Category:** `การอ้างอิงภาพ`
-- **Source:** `official`
-- **Author:** Volcengine Ark
-- **Language:** `th`
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
-
-#### Description
-
-ขับเคลื่อนการเคลื่อนไหวจากภาพอ้างอิง — ตัวละครที่อ้างอิงวิ่งผ่านป่าโดยมีกล้องแทร็กตาม ระบุภาพอ้างอิงเป็น @image1
-
-#### Prompt
-
-```text
-อ้างอิงตัวละครใน @image1 ให้เขาวิ่งผ่านป่าโดยมีกล้องแทร็กตามไปข้างๆ
-```
-
-### No. 2: เพิ่มฝูงนกลงในฉากอ้างอิง
-
-- **Category:** `การอ้างอิงภาพ`
-- **Source:** `official`
-- **Author:** Volcengine Ark
-- **Language:** `th`
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
-
-#### Description
-
-คงฉากที่อ้างอิงไว้และเพิ่มการเคลื่อนไหว — ฝูงนกบินตัดผ่านเฟรม ระบุภาพอ้างอิงเป็น @image1
-
-#### Prompt
-
-```text
-อ้างอิงฉากใน @image1 เพิ่มฝูงนกบินตัดผ่านเฟรม
-```
-
-### No. 3: หมุนสินค้า 360° จากภาพอ้างอิง
-
-- **Category:** `การอ้างอิงภาพ`
-- **Source:** `official`
-- **Author:** Volcengine Ark
-- **Language:** `th`
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
-
-#### Description
-
-เปลี่ยนภาพอ้างอิงสินค้าให้เป็นการโชว์แบบหมุน — หมุน 360° เต็มรอบบนแท่นแสดง ระบุภาพอ้างอิงเป็น @image1
-
-#### Prompt
-
-```text
-อ้างอิงสินค้าใน @image1 ทำให้มันหมุน 360 องศาบนแท่นแสดงที่หมุนได้
-```
-
-### No. 4: บุคคลอ้างอิงโบกมืออย่างเป็นธรรมชาติ
-
-- **Category:** `การอ้างอิงภาพ`
-- **Source:** `official`
-- **Author:** Volcengine Ark
-- **Language:** `th`
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
-
-#### Description
-
-ทำให้บุคคลที่อ้างอิงเคลื่อนไหว — ท่าโบกมืออย่างเป็นธรรมชาติพร้อมสีหน้าที่สมจริง ระบุภาพอ้างอิงเป็น @image1
-
-#### Prompt
-
-```text
-อ้างอิงบุคคลใน @image1 ให้เขาโบกมือด้วยสีหน้าที่เป็นธรรมชาติและสมจริง
-```
-
-<a id="category-7"></a>
 
 ### Twitter Community (24)
 
@@ -989,7 +949,7 @@ first person view of a diver on a boat, high five with another diver, clear blue
 a man giving a presentation in front of an audience, holding a microphone, with a large screen displaying two reflective spheres on a dark surface, natural light from windows, indoor setting with plants and audio equipment
 ```
 
-<a id="category-8"></a>
+<a id="category-6"></a>
 
 ### เสียงและการสังเคราะห์เสียงพูด (10)
 
@@ -1203,7 +1163,7 @@ a man giving a presentation in front of an audience, holding a microphone, with 
 สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: Cinematic โร้ดทริป MV
 ```
 
-<a id="category-9"></a>
+<a id="category-7"></a>
 
 ### การเคลื่อนไหวกล้องขั้นสูง (13)
 
@@ -1480,7 +1440,7 @@ Intense martial arts fight between two women in modern urban environment.
 A grounded martial arts duel between two women in a modern urban night setting. Build with clear shot variation: wide shot to establish spacing and intent, medium tracking shots for exchange tempo, close-up inserts for impact, breathing, and footwork. Include low-angle circling moves, over-shoulder counters, and quick lateral camera motions to preserve directional clarity. Movements must follow realistic weight transfer, momentum, and recovery. Use practical street lighting, neon reflections, slight wet pavement sheen, and gritty cinematic texture.
 ```
 
-<a id="category-10"></a>
+<a id="category-8"></a>
 
 ### การตัดต่อและรีมิกซ์วิดีโอ (5)
 
@@ -1589,7 +1549,7 @@ A grounded martial arts duel between two women in a modern urban night setting. 
 สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: ฉลาม โฟโตบอมบ์
 ```
 
-<a id="category-11"></a>
+<a id="category-9"></a>
 
 ### ความสม่ำเสมอของตัวละครและฉาก (6)
 
@@ -1719,7 +1679,7 @@ A grounded martial arts duel between two women in a modern urban night setting. 
 สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: แม่เหล็ก Bow สินค้า โชว์เคส
 ```
 
-<a id="category-12"></a>
+<a id="category-10"></a>
 
 ### เอฟเฟกต์ภาพสร้างสรรค์ (11)
 
@@ -1954,7 +1914,7 @@ Produce a premium anime battle sequence inspired by One Punch Man energy and sta
 สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: หมึกจีน ไทเก๊ก
 ```
 
-<a id="category-13"></a>
+<a id="category-11"></a>
 
 ### การสร้างวิดีโอสมจริงขั้นสูง (5)
 
@@ -2063,7 +2023,7 @@ Photorealistic medium close shot of Will Smith eating spaghetti at a white kitch
 สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: สง่างาม ซักผ้า ฉาก
 ```
 
-<a id="category-14"></a>
+<a id="category-12"></a>
 
 ### การแสดงอารมณ์ (3)
 
@@ -2130,7 +2090,7 @@ Photorealistic medium close shot of Will Smith eating spaghetti at a white kitch
 สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: กระจก แตกสลาย
 ```
 
-<a id="category-15"></a>
+<a id="category-13"></a>
 
 ### การพัฒนาและต่อยอดเรื่องราว (8)
 
@@ -2302,7 +2262,7 @@ Create a high-pressure disaster-action sequence: during turbulent flight, a woma
 สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: วัยเด็ก ฤดูกาล สารคดี
 ```
 
-<a id="category-16"></a>
+<a id="category-14"></a>
 
 ### การซิงก์ดนตรี (4)
 
@@ -2390,7 +2350,7 @@ Create a high-pressure disaster-action sequence: during turbulent flight, a woma
 สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: ภูมิทัศน์ ทรานซิชัน ดนตรี วิดีโอ
 ```
 
-<a id="category-17"></a>
+<a id="category-15"></a>
 
 ### ภาพยนตร์เทคเดียว (5)
 
@@ -2520,4 +2480,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-07-20T17:21:54.956Z
+> This README is auto-generated. 2026-07-21T03:36:32.884Z
