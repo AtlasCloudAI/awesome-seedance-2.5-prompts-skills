@@ -127,7 +127,8 @@ function renderPrompt(prompt: PromptRecord, index: number, locale: string): stri
   }
 
   const referenceImages = prompt.reference_images ?? [];
-  if (referenceImages.length > 0 || prompt.reference_video) {
+  const referenceVideos = prompt.reference_videos ?? [];
+  if (referenceImages.length > 0 || prompt.reference_video || referenceVideos.length > 0) {
     lines.push("");
     lines.push(`- **Inputs:**`);
     lines.push("");
@@ -136,6 +137,9 @@ function renderPrompt(prompt: PromptRecord, index: number, locale: string): stri
     }
     if (prompt.reference_video) {
       lines.push(`<video src="${prompt.reference_video}" controls muted width="360"></video>`);
+    }
+    for (const video of referenceVideos) {
+      lines.push(`<video src="${video}" controls muted width="360"></video>`);
     }
   }
 
