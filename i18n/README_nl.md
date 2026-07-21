@@ -4,7 +4,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedance-2.5-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-105%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-11%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 > A curated collection of Seedance 2.5 video prompts — each with real previews via Atlas Cloud. 30s native clips · 50 multimodal references · flexible region editing. Cinematic, anime, UGC, ads, meme & more.
 
@@ -68,38 +68,27 @@ Seedance 2.5 is a major upgrade to Seedance 2.0 with three big gains: 30-second 
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **105** |
-| Categories | **19** |
-| Preview Videos | **99** |
-| Last Updated | **2026-07-21T04:39:05.291Z** |
+| Total Prompts | **11** |
+| Categories | **8** |
+| Preview Videos | **11** |
+| Last Updated | **2026-07-21T07:52:08.408Z** |
 
 ## 🏷️ Browse by Category
 
-- [`Match-Cut & Creative Effects`](#category-1): **1**
-- [`One-Take Cinematography`](#category-2): **1**
-- [`Multi-Image Reference`](#category-3): **3**
-- [`Video Editing`](#category-4): **2**
-- [`Reference-Guided Tutorial`](#category-5): **1**
-- [`Multimodal Reference (image+video)`](#category-6): **1**
-- [`Image Reference`](#category-7): **1**
-- [`Image Reference (Cinematic)`](#category-8): **1**
-- [`Twitter Community`](#category-9): **24**
-- [`Audio en stemsynthese`](#category-10): **10**
-- [`Geavanceerde camerabewegingen`](#category-11): **13**
-- [`Videobewerking en remix`](#category-12): **5**
-- [`Consistentie van personage en scène`](#category-13): **6**
-- [`Creatieve visuele effecten`](#category-14): **11**
-- [`Ultra-realistische videogeneratie`](#category-15): **5**
-- [`Emotionele performance`](#category-16): **3**
-- [`Verhaalontwikkeling en uitbreiding`](#category-17): **8**
-- [`Muzieksynchronisatie`](#category-18): **4**
-- [`One-take cinematografie`](#category-19): **5**
+- [`Match-cut & creatieve effecten`](#category-1): **1**
+- [`One-take-cinematografie`](#category-2): **1**
+- [`Multi-beeldreferentie`](#category-3): **3**
+- [`Videobewerking`](#category-4): **2**
+- [`Referentiegestuurde tutorial`](#category-5): **1**
+- [`Multimodale referentie (beeld+video)`](#category-6): **1**
+- [`Beeldreferentie`](#category-7): **1**
+- [`Beeldreferentie (cinematisch)`](#category-8): **1**
 
 ## 🔥 Featured Prompts
 
-### No. 1: Crystal Ball Match-Cut Beat Film
+### No. 1: Kristallen bol match-cut op de beat
 
-- **Category:** `Match-Cut & Creative Effects`
+- **Category:** `Match-cut & creatieve effecten`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `nl`
@@ -110,17 +99,17 @@ Seedance 2.5 is a major upgrade to Seedance 2.0 with three big gains: 30-second 
 
 #### Description
 
-A beat-synced match-cut film: one crystal ball etched with a glowing 'seedance' logo stays centered while eight scenes cut seamlessly behind it.
+Een op de beat gesynchroniseerde match-cut-film: één kristallen bol met een gloeiend "seedance"-logo erin gegraveerd blijft gecentreerd terwijl er acht scènes naadloos achter overvloeien.
 
 #### Prompt
 
 ```text
-A fast-paced, cinematic Match-cut short film synced to a driving electronic beat. A flawless crystal ball stays fixed dead-center throughout, a glowing "seedance" logo etched inside it. The ball holds razor-sharp focus while, on every strong musical beat, the background match-cuts seamlessly: Scene 1: macro close-up, cinematic water splashing around the ball, refracting intricate light. Scene 2: a vintage morning cafe, the ball on a raw-wood table, rising coffee steam and blurred commuters beyond the window. Scene 3: golden-hour dusk, a skater youth tosses and catches the ball one-handed, street racing backward behind them in gorgeous backlit sunset. Scene 4: a frenzied music festival, hands raise the ball high, refracting dazzling stage lasers. Scene 5: a lively family party table, the ball resting center-frame, blurred figures toasting and reaching for food. Scene 6: a dim cinema, hands cupping the ball as the giant screen's faint glow drifts across its surface. Scene 7: the ball on a violently vibrating speaker diaphragm, match-cutting on the climax to a spinning DJ turntable center. Scene 8: an outdoor camping night, background becoming warm bonfire and swaying string-light bokeh. Finale: on the final downbeat the ball is hurled up out of frame; cut to pure black, a minimal white-on-black "seedance" appearing dead-center. Beat-synced match-cut editing, top-tier cinematic color grading, photoreal glass refraction, ray tracing, global illumination. Subject razor-sharp, background heavy motion blur.
+Een razendsnelle, cinematische match-cut-kortfilm, synchroon aan een stuwende elektronische beat. Een vlekkeloze kristallen bol blijft de hele tijd pal in het midden gefixeerd, met een gloeiend "seedance"-logo erin gegraveerd. De bol blijft messcherp in beeld terwijl bij elke krachtige muziekbeat de achtergrond naadloos in een match-cut wisselt: Scène 1: macro-close-up, cinematisch spattend water rond de bol dat het licht kunstig breekt. Scène 2: een ochtendlijk vintage café, de bol op een tafel van ruw hout, opstijgende koffiestoom en wazige forenzen achter het raam. Scène 3: schemering in het gouden uur, een jeugdige skater gooit de bol omhoog en vangt hem met één hand, de straat raast achter hem achteruit in een prachtige tegenlicht-zonsondergang. Scène 4: een uitzinnig muziekfestival, handen heffen de bol hoog, hij breekt verblindende podiumlasers. Scène 5: een levendige tafel bij een familiefeest, de bol rust in het midden van het beeld, wazige figuren proosten en reiken naar eten. Scène 6: een donkere bioscoop, handen omvatten de bol terwijl de zwakke gloed van het reusachtige scherm over het oppervlak glijdt. Scène 7: de bol op een hevig trillend luidsprekermembraan, die op het hoogtepunt via een match-cut overgaat op een ronddraaiende dj-draaitafel in het midden. Scène 8: een kampeernacht in de openlucht, de achtergrond wordt een warm kampvuur en wiegende bokeh van lichtslingers. Finale: op de laatste downbeat wordt de bol omhoog uit beeld geslingerd; snede naar puur zwart, een minimalistisch wit "seedance" op zwarte achtergrond verschijnt pal in het midden. Op de beat gesynchroniseerde match-cut-montage, eersteklas cinematische kleurcorrectie, fotorealistische glasbreking, ray tracing, global illumination. Onderwerp messcherp, achtergrond met sterke bewegingsonscherpte.
 ```
 
-### No. 2: Steampunk Clockwork — 30s One-Take
+### No. 2: Steampunk-uurwerk — one-take van 30s
 
-- **Category:** `One-Take Cinematography`
+- **Category:** `One-take-cinematografie`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `nl`
@@ -131,17 +120,17 @@ A fast-paced, cinematic Match-cut short film synced to a driving electronic beat
 
 #### Description
 
-A 30-second steampunk miniature 3D sequence with continuous orbiting, pass-through camera moves.
+Een steampunk-miniatuur-3D-sequentie van 30 seconden met doorlopend cirkelende, doorheen glijdende camerabewegingen.
 
 #### Prompt
 
 ```text
-A high-end, deeply cinematic 30-second 3D motion-graphics sequence in refined steampunk and vintage-miniature style, with continuous fluid orbiting and pass-through camera moves. [0-10s] Macro close-up of an antique brass clock face that unfolds layer by layer into meshing rotating gear rings and volumetric fog. The camera pierces down through the gears; a mechanical ornithopter spirals up from a miniature canyon of stacked weathered old books. [10-20s] The camera glides forward tracking the ornithopter, seamlessly passing into a fast-spinning ornate brass zoetrope projecting galloping mechanical-horse light. The light leaps out and the scene becomes a brass floating cable car on glimmering copper rails through a forest of gears, bathed in cinematic golden-hour light. [20-30s] The camera pans elegantly down; below appears an exquisite clockwork wooden sailing ship cutting deep-blue glass-textured waves, which morph into a glowing giant moon with lantern-holding explorer silhouettes trekking a crystal-vein ridge under stars. The camera spirals smoothly back through ethereal clouds to the ticking brass clock face. Hyper-real mechanical textures, rich brass and gold tones, cinematic shallow depth of field, smooth seamless pass-through camerawork, epic fantastical adventure atmosphere.
+Een hoogwaardige, diep cinematische 3D-motion-graphics-sequentie van 30 seconden in een verfijnde steampunk- en vintage-miniatuurstijl, met doorlopend vloeiend cirkelende en doorheen glijdende camerabewegingen. [0-10s] Macro-close-up van een antieke messing wijzerplaat die zich laag voor laag ontvouwt tot in elkaar grijpende, roterende tandwielringen en volumetrische mist. De camera boort naar beneden door de tandwielen heen; een mechanische ornithopter schroeft zich omhoog uit een miniatuurcanyon van opgestapelde, verweerde oude boeken. [10-20s] De camera glijdt naar voren en volgt de ornithopter, gaat naadloos over in een snel ronddraaiend, sierlijk bewerkt messing zoötroop dat het licht van galopperende mechanische paarden projecteert. Het licht springt naar buiten en de scène wordt een zwevende messing kabelbaan op glinsterende koperen rails door een woud van tandwielen, badend in cinematisch licht van het gouden uur. [20-30s] De camera pant elegant naar beneden; daaronder verschijnt een verfijnd houten zeilschip met uurwerk dat door diepblauwe golven met glastextuur snijdt, die veranderen in een gloeiende reusachtige maan waarover silhouetten van ontdekkingsreizigers met lantaarns onder de sterren een bergkam van kristaladers beklimmen. De camera schroeft zich soepel terug door etherische wolken naar de tikkende messing wijzerplaat. Hyperreële mechanische texturen, rijke messing- en goudtinten, cinematische geringe scherptediepte, soepel en naadloos doorheen glijdend camerawerk, epische, fantastische avonturensfeer.
 ```
 
-### No. 3: Windows Through Worlds (5 refs)
+### No. 3: Ramen naar andere werelden (5 refs)
 
-- **Category:** `Multi-Image Reference`
+- **Category:** `Multi-beeldreferentie`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `nl`
@@ -160,17 +149,17 @@ A high-end, deeply cinematic 30-second 3D motion-graphics sequence in refined st
 
 #### Description
 
-A brand concept short driven by 5 reference images, gliding through windows into different worlds.
+Een merkconcept-kortfilm aangedreven door 5 referentiebeelden, glijdend door ramen naar verschillende werelden.
 
 #### Prompt
 
 ```text
-A cinematic brand concept short. @image1 is the first frame; the picture trembles slightly, the camera pushes in to tree shadows rushing backward outside the window, their retreat accelerating, then abruptly cuts to @image2, speed easing as the camera glides slowly along a stream, birdsong and blossoms. The camera drops underwater — bubble sounds — as orange jellyfish drift gracefully past the lens @image3; the camera pulls back as small fish flit past and swim from the water into the window @image4, a girl looking around, watching them. The camera pulls back, defocuses, then refocuses sharp, switching to the music's rhythm: a Chinese-garden lattice window @image5 with light circling, church stained glass, an airplane porthole, a dome skylight, a bay window, louver blinds, a European dormer, a door peephole, a camera viewfinder, a bird's eye, a human eye close-up. It settles on the human eye; the eye closes, screen black, then suddenly opens — "seedance" appearing in the center of the eye on the accent beat.
+Een cinematische merkconcept-kortfilm. @image1 is het eerste beeld; het beeld trilt licht, de camera duwt in naar boomschaduwen die buiten voor het raam naar achteren voorbijrazen, hun terugwijken versnelt, dan een abrupte snede naar @image2, de snelheid neemt af terwijl de camera langzaam langs een beekje glijdt, vogelgezang en bloesems. De camera duikt onder water — geluid van luchtbellen — terwijl oranje kwallen sierlijk langs de lens drijven @image3; de camera trekt terug terwijl kleine visjes voorbijschieten en vanuit het water het raam in zwemmen @image4, een meisje dat om zich heen kijkt en hen gadeslaat. De camera trekt terug, verliest de scherpte, stelt dan weer scherp en wisselt op het ritme van de muziek: een traliewerkraam van een Chinese tuin @image5 met rondcirkelend licht, een kerkraam van glas-in-lood, een vliegtuigpatrijspoort, een koepeldakraam, een erker, een lamellenjaloezie, een Europese dakkapel, een deurkijkgaatje, een camerazoeker, een vogeloog, een close-up van een mensenoog. Het blijft rusten op het mensenoog; het oog sluit zich, scherm zwart, dan opent het zich plotseling — "seedance" verschijnt op de accentbeat in het midden van het oog.
 ```
 
-### No. 4: One-Take Through Six Rooms (8 refs)
+### No. 4: One-take door zes kamers (8 refs)
 
-- **Category:** `Multi-Image Reference`
+- **Category:** `Multi-beeldreferentie`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `nl`
@@ -192,17 +181,17 @@ A cinematic brand concept short. @image1 is the first frame; the picture tremble
 
 #### Description
 
-One continuous take following a figure through six mood-shifting rooms, driven by 8 reference images.
+Eén doorlopende opname die een figuur door zes van sfeer wisselende kamers volgt, aangedreven door 8 referentiebeelden.
 
 #### Prompt
 
 ```text
-One continuous take. The camera smoothly follows a person in a black coat (reference @image1) moving left to right through six connected rooms of different tones and moods. Every room shares the same structure: white walls, light herringbone wood floor, French floor-to-ceiling windows, white sheer curtains (reference @image2) but the outside view and mood differ each time. The protagonist walks at a constant pace, passing through every open door. 0-5s room one, American-comic fight: the protagonist fights a character (@image3), who is defeated; 5-10s room two, warmth, felt-craft style, window view a sunflower field (@image4), warm-orange soft light, a painter painting sunflowers (@image5), the protagonist turning felt-style on entering; 10-15s room three, sorrow, black-and-white comic stop-motion, rain outside, cold-grey light, a person alone on the floor hugging their knees, a phone glowing with an unanswered call; on entering, the light blinks off then on, the room turns color, flowers bursting into bloom; 15-20s room four, joy, a room submerged in the sea (reference @image6), the protagonist turning transparent among coral and fish; 20-25s room five, surprise, window view a sky of fireworks (reference @image7), colorful flickering light, the protagonist swept up in a cheering crowd; 25-30s a blank white room, the protagonist snaps their fingers — snap SFX — frame goes black, "seedance" in the middle (reference @image8). Cinematic quality, high-fashion advertising style, lighting entirely determined by the window views for strong emotional contrast, no text in frame.
+Eén doorlopende opname. De camera volgt soepel een persoon in een zwarte jas (referentie @image1) die van links naar rechts door zes met elkaar verbonden kamers met verschillende tinten en sferen beweegt. Elke kamer heeft dezelfde structuur: witte muren, lichte visgraat-houten vloer, Franse ramen van vloer tot plafond, witte transparante gordijnen (referentie @image2), maar het uitzicht naar buiten en de sfeer verschillen telkens. De hoofdpersoon loopt in een constant tempo en gaat door elke open deur. 0-5s kamer één, gevecht in Amerikaanse comicstijl: de hoofdpersoon vecht tegen een personage (@image3), dat wordt verslagen; 5-10s kamer twee, warmte, viltknutselstijl, uitzicht door het raam op een zonnebloemveld (@image4), warm oranje zacht licht, een schilder die zonnebloemen schildert (@image5), de hoofdpersoon verandert bij het binnenkomen zelf in viltstijl; 10-15s kamer drie, verdriet, zwart-witte comic-stop-motion, regen buiten, koudgrijs licht, een persoon alleen op de grond met de knieën omklemd, een telefoon die oplicht met een onbeantwoorde oproep; bij het binnenkomen knippert het licht uit en weer aan, de kamer kleurt, bloemen komen in één keer tot bloei; 15-20s kamer vier, vreugde, een in zee ondergedompelde kamer (referentie @image6), de hoofdpersoon wordt doorzichtig tussen koraal en vissen; 20-25s kamer vijf, verrassing, uitzicht door het raam op een hemel vol vuurwerk (referentie @image7), kleurrijk flikkerend licht, de hoofdpersoon meegesleept door een juichende menigte; 25-30s een lege witte kamer, de hoofdpersoon knipt met de vingers — knip-geluidseffect — het beeld wordt zwart, "seedance" in het midden (referentie @image8). Cinematische kwaliteit, high-fashion reclamestijl, de belichting volledig bepaald door de uitzichten uit de ramen voor sterk emotioneel contrast, geen tekst in beeld.
 ```
 
-### No. 5: Video Edit — Remove All But the Lead
+### No. 5: Videobewerking — Iedereen behalve de hoofdpersoon verwijderen
 
-- **Category:** `Video Editing`
+- **Category:** `Videobewerking`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `nl`
@@ -217,17 +206,17 @@ One continuous take. The camera smoothly follows a person in a black coat (refer
 
 #### Description
 
-Reference-video editing: erase everyone except the protagonist from a source clip.
+Bewerking op basis van een referentievideo: wis iedereen behalve de hoofdpersoon uit een bronclip.
 
 #### Prompt
 
 ```text
-Video editing: remove everyone in @video1 except the protagonist.
+Videobewerking: verwijder in @video1 iedereen behalve de hoofdpersoon.
 ```
 
-### No. 6: Multilingual Hip-Hop 'Hello' MV
+### No. 6: Meertalige "Hello"-hiphopclip
 
-- **Category:** `Multi-Image Reference`
+- **Category:** `Multi-beeldreferentie`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `nl`
@@ -242,17 +231,17 @@ Video editing: remove everyone in @video1 except the protagonist.
 
 #### Description
 
-A seaside hip-hop MV built from one reference image; the lead raps 'hello' in 8 languages, lip-synced, hard cuts on the beat.
+Een hiphopclip aan zee, opgebouwd uit één referentiebeeld; de leadzanger rapt "hello" in 8 talen, met lipsync, harde sneden op de beat.
 
 #### Prompt
 
 ```text
-Cinematic hip-hop / rap music video, photoreal quality, high-end tone, seaside setting. Build the frame from @image1: a band performs at a golden sand beach with crashing waves — a lead vocalist gripping a mic on a stand in the wet sand, one guitarist left, one right, a drummer at the back; a vast coastline behind, rolling waves, a warm golden-hour sun shimmering on the water, sea mist in the air. The lead in a red tracksuit raps to camera — lips and jaw precisely synced to every word, head punching to the beat. Bright, punchy, fast, confident rap. HARD CUT on the beat, each switch a double contrast (shot size and type change together). Lyrics (the lead sings 'hello' in each language in turn, precisely lip-synced): English "Hello", Chinese "你好", Japanese "こんにちは", Korean "안녕하세요", Portuguese "Olá", Thai "สวัสดี", Spanish "Hola", Arabic "مرحبا". 8 hard-cut shots (low-angle wide establishing; close-up rap to camera; macro guitar-string insert; 3/4 prowling orbit; lateral track at shore; drummer tilt-up; tight push on the lead; heroic full-band push-in), one language per shot. White balance 4000K, teal-and-amber grade, 35mm, shallow depth of field, film grain, sea mist, golden-hour flare. Premium feel, precise lip-sync, no subtitles, no text overlays, hard cuts only, total 20 seconds.
+Cinematische hiphop-/rapvideoclip, fotorealistische kwaliteit, hoogwaardige uitstraling, setting aan zee. Bouw het beeld op vanuit @image1: een band speelt op een goudgeel zandstrand met brekende golven — een leadzanger die een microfoon op een standaard vastgrijpt in het natte zand, een gitarist links, een rechts, een drummer achteraan; een weidse kustlijn erachter, rollende golven, een warme zon van het gouden uur die op het water glinstert, zeenevel in de lucht. De leadzanger in een rood trainingspak rapt recht in de camera — lippen en kaak precies synchroon met elk woord, het hoofd stoot mee op de beat. Heldere, krachtige, snelle, zelfverzekerde rap. HARDE SNEDE op de beat, elke wisseling een dubbel contrast (beeldgrootte en shottype veranderen tegelijk). Songtekst (de leadzanger zingt om beurten in elke taal 'hello', precies gelipsynct): Engels "Hello", Chinees "你好", Japans "こんにちは", Koreaans "안녕하세요", Portugees "Olá", Thais "สวัสดี", Spaans "Hola", Arabisch "مرحبا". 8 shots met harde sneden (wijde establishing-shot van onderaf; close-up rap in de camera; macro-insert van de gitaarsnaren; sluipende 3/4-orbit; laterale travelling aan de vloedlijn; opkijkshot van de drummer; strakke inzoom op de leadzanger; heroïsche inzoom op de hele band), één taal per shot. Witbalans 4000K, teal-and-amber-kleurcorrectie, 35mm, geringe scherptediepte, filmkorrel, zeenevel, lens flare van het gouden uur. Premium uitstraling, precieze lipsync, geen ondertitels, geen tekstoverlays, uitsluitend harde sneden, in totaal 20 seconden.
 ```
 
-### No. 7: Capsule Coffee Machine Setup Tutorial (6 refs)
+### No. 7: Installatietutorial voor capsulekoffiemachine (6 refs)
 
-- **Category:** `Reference-Guided Tutorial`
+- **Category:** `Referentiegestuurde tutorial`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `nl`
@@ -272,17 +261,17 @@ Cinematic hip-hop / rap music video, photoreal quality, high-end tone, seaside s
 
 #### Description
 
-A 30-second setup-and-use tutorial for a capsule coffee machine, six reference-guided steps with voiceover — from installing the water tank to the first rinse.
+Een installatie- en gebruikstutorial van 30 seconden voor een capsulekoffiemachine, zes referentiegestuurde stappen met voice-over — van het plaatsen van het waterreservoir tot de eerste spoeling.
 
 #### Prompt
 
 ```text
-A 30-second tutorial video on installing and using a capsule coffee machine. 0-2s: the opening title card reads "seedance capsule coffee machine setup tutorial". 2-5s, Step 1: install the water tank, reference @image1, medium shot from a slightly high angle, rear of the machine body, align the water tank with the slot on the back of the body and push it straight down until it clicks firmly into place, clearly showing how the tank's bottom clips align with the body's slot, the water level line visible through the tank's transparent section, voiceover "First, install the water tank. Align the tank with the slot on the back of the machine; a click means it is locked in place.". 5-9s, Step 2: install the drip tray, reference @image2, close-up front view, front bottom of the body, slide the drip tray horizontally into the guide rails at the bottom until fully seated, voiceover "Next, install the drip tray. Align the tray with the bottom rails.". 9-13s, Step 3: install the used-capsule collection box, reference @image3, close-up from a slightly low angle, the cavity beneath the drip tray, align the collection box with the recess and push it in flush with the drip tray, voiceover "Then insert the capsule collection box. Used capsules will drop down here automatically.". 13-18s, Step 4: first fill with water, reference @image4, close-up side view, the water tank at the top/back of the body, open the tank lid and pour in clean water up to the MAX water level line, then close it, emphasizing the water level line, voiceover "Open the tank lid, pour in clean water, being careful not to exceed the maximum water level line, then close the tank lid.". 18-25s, Step 5: power on, reference @image5, medium shot front view, front of the body, plug in the power cord and press the power button; the indicator light goes from blinking to steady (preheating complete), voiceover "Connect the power and press the power button. The indicator light starts blinking, which means it is preheating. When the light turns steady, the machine is ready.". 25-30s, Step 6: first rinse (without a capsule), reference @image6, medium shot moving to a close-up front-side view, without inserting a capsule press the brew button directly so hot water flows out and rinses the lines, emphasizing the "no capsule needed" note, voiceover "The last step, the first rinse. Note that this step does not require a capsule; just press the brew button. Once the rinse is done, your coffee machine is ready to use."
+Een tutorialvideo van 30 seconden over het installeren en gebruiken van een capsulekoffiemachine. 0-2s: de openingstitelkaart luidt "seedance capsulekoffiemachine installatietutorial". 2-5s, Stap 1: het waterreservoir plaatsen, referentie @image1, medium shot vanuit een licht verhoogde hoek, achterkant van de machinebehuizing, lijn het waterreservoir uit met de uitsparing aan de achterkant van de behuizing en druk het recht naar beneden tot het stevig vastklikt, duidelijk tonend hoe de clips aan de onderkant van het reservoir met de uitsparing van de behuizing samenvallen, de waterpeillijn zichtbaar door het transparante deel van het reservoir, voice-over "Plaats eerst het waterreservoir. Lijn het reservoir uit met de uitsparing aan de achterkant van de machine; een klik betekent dat het is vergrendeld.". 5-9s, Stap 2: de lekbak plaatsen, referentie @image2, close-up vooraanzicht, onderaan de voorkant van de behuizing, schuif de lekbak horizontaal in de geleiderails aan de onderkant tot hij volledig op zijn plaats zit, voice-over "Plaats vervolgens de lekbak. Lijn de bak uit met de rails aan de onderkant.". 9-13s, Stap 3: het opvangbakje voor gebruikte capsules plaatsen, referentie @image3, close-up vanuit een licht lage hoek, de holte onder de lekbak, lijn het opvangbakje uit met de uitsparing en schuif het gelijk met de lekbak naar binnen, voice-over "Plaats daarna het capsule-opvangbakje. Gebruikte capsules vallen hier automatisch in.". 13-18s, Stap 4: voor het eerst met water vullen, referentie @image4, close-up zijaanzicht, het waterreservoir boven/achter aan de behuizing, open het deksel van het reservoir en giet schoon water tot aan de MAX-waterpeillijn, sluit het dan, met nadruk op de waterpeillijn, voice-over "Open het deksel van het reservoir, giet schoon water erin en let erop de maximale waterpeillijn niet te overschrijden, sluit daarna het deksel van het reservoir.". 18-25s, Stap 5: inschakelen, referentie @image5, medium shot vooraanzicht, voorkant van de behuizing, steek het netsnoer in het stopcontact en druk op de aan-uitknop; het controlelampje gaat van knipperend naar continu (voorverwarmen voltooid), voice-over "Sluit de stroom aan en druk op de aan-uitknop. Het controlelampje begint te knipperen, wat betekent dat hij aan het voorverwarmen is. Wanneer het lampje continu brandt, is de machine klaar.". 25-30s, Stap 6: eerste spoeling (zonder capsule), referentie @image6, medium shot dat overgaat in een close-up van een driekwart-vooraanzicht, druk zonder een capsule te plaatsen direct op de zetknop zodat er heet water uitstroomt en de leidingen spoelt, met nadruk op de vermelding "geen capsule nodig", voice-over "De laatste stap, de eerste spoeling. Let op dat deze stap geen capsule vereist; druk gewoon op de zetknop. Zodra de spoeling klaar is, is je koffiemachine klaar voor gebruik."
 ```
 
-### No. 8: Fruity Cookie Commercial (image + 6 video refs)
+### No. 8: Reclamespot voor fruitkoekjes (beeld + 6 videorefs)
 
-- **Category:** `Multimodal Reference (image+video)`
+- **Category:** `Multimodale referentie (beeld+video)`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `nl`
@@ -303,23 +292,23 @@ A 30-second tutorial video on installing and using a capsule coffee machine. 0-2
 
 #### Description
 
-A bright, colorful commercial for fruity cookies in four flavors — strawberry, apple, grape, orange — built from one image reference and six motion/camera video references, cut hard to a driving beat.
+Een heldere, kleurrijke reclamespot voor fruitkoekjes in vier smaken — aardbei, appel, druif, sinaasappel — opgebouwd uit één beeldreferentie en zes bewegings-/camera-videoreferenties, hard gemonteerd op een stuwende beat.
 
 #### Prompt
 
 ```text
-A bright, colorful commercial style with fruity cookies as the hero, in four flavors — strawberry, apple, grape, and orange; strawberry flavor reference @image1. The cookies and their matching fruits are arranged in a strongly ordered geometric array; the overall frame is clean, premium, and high-energy. It opens with the fruits orbiting rapidly around the central cookie to quickly establish visual focus — reference the composition of @video1 — cutting in on a strong musical beat. Then cookies of different flavors advance toward the lens along spiral paths, forming clear spatial depth — reference the motion and camera work of @video2 — switching colors and flavors on the beat with the background music. The array of cookies pans left and right with fast plane-to-plane cuts, strawberry, apple, grape, and orange flavors alternating as the frame jump-cuts quickly to the rhythm — reference the movement of @video3. The mid-section adds up-and-down panning; the neat cookie array rises and falls vertically like a machine — reference the movement of @video4 — highlighting the beauty of order and the richness of the product. In the climax a cookie is snapped in two and the moment enters slow motion as the fruity filling bursts open, crumbs scattering, the juicy sensation and grainy impact amplified — reference the explosion effect of @video5 — then quickly returns to the fast-paced edit. The ending brings in the English text "Fresh on Seedance, made for viral vision", entering word by word in quick succession with strong rhythmic text motion and a product freeze-frame — reference @video6 — the four cookie flavors lined up neatly with the fruits bouncing in sync for a final brand-forward close, the frame full of a young, energetic, delicious, shareable ad atmosphere.
+Een heldere, kleurrijke reclamestijl met fruitkoekjes in de hoofdrol, in vier smaken — aardbei, appel, druif en sinaasappel; referentie voor de aardbeismaak @image1. De koekjes en de bijpassende vruchten zijn in een streng geordend geometrisch raster gerangschikt; het totaalbeeld is strak, hoogwaardig en energiek. Het opent met de vruchten die snel om het centrale koekje cirkelen om snel de visuele focus te bepalen — verwijs naar de compositie van @video1 — inzettend op een krachtige muziekbeat. Vervolgens komen koekjes van verschillende smaken langs spiraalvormige banen naar de lens toe en vormen een duidelijke ruimtelijke diepte — verwijs naar de beweging en het camerawerk van @video2 — waarbij kleuren en smaken op de beat van de achtergrondmuziek wisselen. Het raster van koekjes pant met snelle vlak-naar-vlak-sneden naar links en rechts, de smaken aardbei, appel, druif en sinaasappel wisselen elkaar af terwijl het beeld snel op het ritme springt — verwijs naar de beweging van @video3. Het middendeel voegt een op-en-neer-pan toe; het nette koekjesraster stijgt en daalt verticaal als een machine — verwijs naar de beweging van @video4 — om de schoonheid van de ordening en de rijkdom van het product te benadrukken. In het hoogtepunt wordt een koekje doormidden gebroken en gaat het moment over in slow motion terwijl de fruitige vulling openbarst, kruimels alle kanten op spatten, het sappige gevoel en de korrelige impact versterkt — verwijs naar het explosie-effect van @video5 — en keert dan snel terug naar de snelle montage. Het einde brengt de Engelse tekst "Fresh on Seedance, made for viral vision" in beeld, die woord voor woord in snelle opeenvolging verschijnt met een sterke ritmische tekstbeweging en een freeze-frame van het product — verwijs naar @video6 — de vier koekjessmaken netjes op een rij terwijl de vruchten synchroon op en neer stuiteren voor een afsluitende, merkgerichte slotshot, het beeld vol jonge, energieke, heerlijke, deelbare reclamesfeer.
 ```
 
 ## 📋 All Prompts
 
 <a id="category-1"></a>
 
-### Match-Cut & Creative Effects (1)
+### Match-cut & creatieve effecten (1)
 
-### No. 1: Crystal Ball Match-Cut Beat Film
+### No. 1: Kristallen bol match-cut op de beat
 
-- **Category:** `Match-Cut & Creative Effects`
+- **Category:** `Match-cut & creatieve effecten`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `nl`
@@ -330,21 +319,21 @@ A bright, colorful commercial style with fruity cookies as the hero, in four fla
 
 #### Description
 
-A beat-synced match-cut film: one crystal ball etched with a glowing 'seedance' logo stays centered while eight scenes cut seamlessly behind it.
+Een op de beat gesynchroniseerde match-cut-film: één kristallen bol met een gloeiend "seedance"-logo erin gegraveerd blijft gecentreerd terwijl er acht scènes naadloos achter overvloeien.
 
 #### Prompt
 
 ```text
-A fast-paced, cinematic Match-cut short film synced to a driving electronic beat. A flawless crystal ball stays fixed dead-center throughout, a glowing "seedance" logo etched inside it. The ball holds razor-sharp focus while, on every strong musical beat, the background match-cuts seamlessly: Scene 1: macro close-up, cinematic water splashing around the ball, refracting intricate light. Scene 2: a vintage morning cafe, the ball on a raw-wood table, rising coffee steam and blurred commuters beyond the window. Scene 3: golden-hour dusk, a skater youth tosses and catches the ball one-handed, street racing backward behind them in gorgeous backlit sunset. Scene 4: a frenzied music festival, hands raise the ball high, refracting dazzling stage lasers. Scene 5: a lively family party table, the ball resting center-frame, blurred figures toasting and reaching for food. Scene 6: a dim cinema, hands cupping the ball as the giant screen's faint glow drifts across its surface. Scene 7: the ball on a violently vibrating speaker diaphragm, match-cutting on the climax to a spinning DJ turntable center. Scene 8: an outdoor camping night, background becoming warm bonfire and swaying string-light bokeh. Finale: on the final downbeat the ball is hurled up out of frame; cut to pure black, a minimal white-on-black "seedance" appearing dead-center. Beat-synced match-cut editing, top-tier cinematic color grading, photoreal glass refraction, ray tracing, global illumination. Subject razor-sharp, background heavy motion blur.
+Een razendsnelle, cinematische match-cut-kortfilm, synchroon aan een stuwende elektronische beat. Een vlekkeloze kristallen bol blijft de hele tijd pal in het midden gefixeerd, met een gloeiend "seedance"-logo erin gegraveerd. De bol blijft messcherp in beeld terwijl bij elke krachtige muziekbeat de achtergrond naadloos in een match-cut wisselt: Scène 1: macro-close-up, cinematisch spattend water rond de bol dat het licht kunstig breekt. Scène 2: een ochtendlijk vintage café, de bol op een tafel van ruw hout, opstijgende koffiestoom en wazige forenzen achter het raam. Scène 3: schemering in het gouden uur, een jeugdige skater gooit de bol omhoog en vangt hem met één hand, de straat raast achter hem achteruit in een prachtige tegenlicht-zonsondergang. Scène 4: een uitzinnig muziekfestival, handen heffen de bol hoog, hij breekt verblindende podiumlasers. Scène 5: een levendige tafel bij een familiefeest, de bol rust in het midden van het beeld, wazige figuren proosten en reiken naar eten. Scène 6: een donkere bioscoop, handen omvatten de bol terwijl de zwakke gloed van het reusachtige scherm over het oppervlak glijdt. Scène 7: de bol op een hevig trillend luidsprekermembraan, die op het hoogtepunt via een match-cut overgaat op een ronddraaiende dj-draaitafel in het midden. Scène 8: een kampeernacht in de openlucht, de achtergrond wordt een warm kampvuur en wiegende bokeh van lichtslingers. Finale: op de laatste downbeat wordt de bol omhoog uit beeld geslingerd; snede naar puur zwart, een minimalistisch wit "seedance" op zwarte achtergrond verschijnt pal in het midden. Op de beat gesynchroniseerde match-cut-montage, eersteklas cinematische kleurcorrectie, fotorealistische glasbreking, ray tracing, global illumination. Onderwerp messcherp, achtergrond met sterke bewegingsonscherpte.
 ```
 
 <a id="category-2"></a>
 
-### One-Take Cinematography (1)
+### One-take-cinematografie (1)
 
-### No. 1: Steampunk Clockwork — 30s One-Take
+### No. 1: Steampunk-uurwerk — one-take van 30s
 
-- **Category:** `One-Take Cinematography`
+- **Category:** `One-take-cinematografie`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `nl`
@@ -355,21 +344,21 @@ A fast-paced, cinematic Match-cut short film synced to a driving electronic beat
 
 #### Description
 
-A 30-second steampunk miniature 3D sequence with continuous orbiting, pass-through camera moves.
+Een steampunk-miniatuur-3D-sequentie van 30 seconden met doorlopend cirkelende, doorheen glijdende camerabewegingen.
 
 #### Prompt
 
 ```text
-A high-end, deeply cinematic 30-second 3D motion-graphics sequence in refined steampunk and vintage-miniature style, with continuous fluid orbiting and pass-through camera moves. [0-10s] Macro close-up of an antique brass clock face that unfolds layer by layer into meshing rotating gear rings and volumetric fog. The camera pierces down through the gears; a mechanical ornithopter spirals up from a miniature canyon of stacked weathered old books. [10-20s] The camera glides forward tracking the ornithopter, seamlessly passing into a fast-spinning ornate brass zoetrope projecting galloping mechanical-horse light. The light leaps out and the scene becomes a brass floating cable car on glimmering copper rails through a forest of gears, bathed in cinematic golden-hour light. [20-30s] The camera pans elegantly down; below appears an exquisite clockwork wooden sailing ship cutting deep-blue glass-textured waves, which morph into a glowing giant moon with lantern-holding explorer silhouettes trekking a crystal-vein ridge under stars. The camera spirals smoothly back through ethereal clouds to the ticking brass clock face. Hyper-real mechanical textures, rich brass and gold tones, cinematic shallow depth of field, smooth seamless pass-through camerawork, epic fantastical adventure atmosphere.
+Een hoogwaardige, diep cinematische 3D-motion-graphics-sequentie van 30 seconden in een verfijnde steampunk- en vintage-miniatuurstijl, met doorlopend vloeiend cirkelende en doorheen glijdende camerabewegingen. [0-10s] Macro-close-up van een antieke messing wijzerplaat die zich laag voor laag ontvouwt tot in elkaar grijpende, roterende tandwielringen en volumetrische mist. De camera boort naar beneden door de tandwielen heen; een mechanische ornithopter schroeft zich omhoog uit een miniatuurcanyon van opgestapelde, verweerde oude boeken. [10-20s] De camera glijdt naar voren en volgt de ornithopter, gaat naadloos over in een snel ronddraaiend, sierlijk bewerkt messing zoötroop dat het licht van galopperende mechanische paarden projecteert. Het licht springt naar buiten en de scène wordt een zwevende messing kabelbaan op glinsterende koperen rails door een woud van tandwielen, badend in cinematisch licht van het gouden uur. [20-30s] De camera pant elegant naar beneden; daaronder verschijnt een verfijnd houten zeilschip met uurwerk dat door diepblauwe golven met glastextuur snijdt, die veranderen in een gloeiende reusachtige maan waarover silhouetten van ontdekkingsreizigers met lantaarns onder de sterren een bergkam van kristaladers beklimmen. De camera schroeft zich soepel terug door etherische wolken naar de tikkende messing wijzerplaat. Hyperreële mechanische texturen, rijke messing- en goudtinten, cinematische geringe scherptediepte, soepel en naadloos doorheen glijdend camerawerk, epische, fantastische avonturensfeer.
 ```
 
 <a id="category-3"></a>
 
-### Multi-Image Reference (3)
+### Multi-beeldreferentie (3)
 
-### No. 1: Windows Through Worlds (5 refs)
+### No. 1: Ramen naar andere werelden (5 refs)
 
-- **Category:** `Multi-Image Reference`
+- **Category:** `Multi-beeldreferentie`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `nl`
@@ -388,17 +377,17 @@ A high-end, deeply cinematic 30-second 3D motion-graphics sequence in refined st
 
 #### Description
 
-A brand concept short driven by 5 reference images, gliding through windows into different worlds.
+Een merkconcept-kortfilm aangedreven door 5 referentiebeelden, glijdend door ramen naar verschillende werelden.
 
 #### Prompt
 
 ```text
-A cinematic brand concept short. @image1 is the first frame; the picture trembles slightly, the camera pushes in to tree shadows rushing backward outside the window, their retreat accelerating, then abruptly cuts to @image2, speed easing as the camera glides slowly along a stream, birdsong and blossoms. The camera drops underwater — bubble sounds — as orange jellyfish drift gracefully past the lens @image3; the camera pulls back as small fish flit past and swim from the water into the window @image4, a girl looking around, watching them. The camera pulls back, defocuses, then refocuses sharp, switching to the music's rhythm: a Chinese-garden lattice window @image5 with light circling, church stained glass, an airplane porthole, a dome skylight, a bay window, louver blinds, a European dormer, a door peephole, a camera viewfinder, a bird's eye, a human eye close-up. It settles on the human eye; the eye closes, screen black, then suddenly opens — "seedance" appearing in the center of the eye on the accent beat.
+Een cinematische merkconcept-kortfilm. @image1 is het eerste beeld; het beeld trilt licht, de camera duwt in naar boomschaduwen die buiten voor het raam naar achteren voorbijrazen, hun terugwijken versnelt, dan een abrupte snede naar @image2, de snelheid neemt af terwijl de camera langzaam langs een beekje glijdt, vogelgezang en bloesems. De camera duikt onder water — geluid van luchtbellen — terwijl oranje kwallen sierlijk langs de lens drijven @image3; de camera trekt terug terwijl kleine visjes voorbijschieten en vanuit het water het raam in zwemmen @image4, een meisje dat om zich heen kijkt en hen gadeslaat. De camera trekt terug, verliest de scherpte, stelt dan weer scherp en wisselt op het ritme van de muziek: een traliewerkraam van een Chinese tuin @image5 met rondcirkelend licht, een kerkraam van glas-in-lood, een vliegtuigpatrijspoort, een koepeldakraam, een erker, een lamellenjaloezie, een Europese dakkapel, een deurkijkgaatje, een camerazoeker, een vogeloog, een close-up van een mensenoog. Het blijft rusten op het mensenoog; het oog sluit zich, scherm zwart, dan opent het zich plotseling — "seedance" verschijnt op de accentbeat in het midden van het oog.
 ```
 
-### No. 2: One-Take Through Six Rooms (8 refs)
+### No. 2: One-take door zes kamers (8 refs)
 
-- **Category:** `Multi-Image Reference`
+- **Category:** `Multi-beeldreferentie`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `nl`
@@ -420,17 +409,17 @@ A cinematic brand concept short. @image1 is the first frame; the picture tremble
 
 #### Description
 
-One continuous take following a figure through six mood-shifting rooms, driven by 8 reference images.
+Eén doorlopende opname die een figuur door zes van sfeer wisselende kamers volgt, aangedreven door 8 referentiebeelden.
 
 #### Prompt
 
 ```text
-One continuous take. The camera smoothly follows a person in a black coat (reference @image1) moving left to right through six connected rooms of different tones and moods. Every room shares the same structure: white walls, light herringbone wood floor, French floor-to-ceiling windows, white sheer curtains (reference @image2) but the outside view and mood differ each time. The protagonist walks at a constant pace, passing through every open door. 0-5s room one, American-comic fight: the protagonist fights a character (@image3), who is defeated; 5-10s room two, warmth, felt-craft style, window view a sunflower field (@image4), warm-orange soft light, a painter painting sunflowers (@image5), the protagonist turning felt-style on entering; 10-15s room three, sorrow, black-and-white comic stop-motion, rain outside, cold-grey light, a person alone on the floor hugging their knees, a phone glowing with an unanswered call; on entering, the light blinks off then on, the room turns color, flowers bursting into bloom; 15-20s room four, joy, a room submerged in the sea (reference @image6), the protagonist turning transparent among coral and fish; 20-25s room five, surprise, window view a sky of fireworks (reference @image7), colorful flickering light, the protagonist swept up in a cheering crowd; 25-30s a blank white room, the protagonist snaps their fingers — snap SFX — frame goes black, "seedance" in the middle (reference @image8). Cinematic quality, high-fashion advertising style, lighting entirely determined by the window views for strong emotional contrast, no text in frame.
+Eén doorlopende opname. De camera volgt soepel een persoon in een zwarte jas (referentie @image1) die van links naar rechts door zes met elkaar verbonden kamers met verschillende tinten en sferen beweegt. Elke kamer heeft dezelfde structuur: witte muren, lichte visgraat-houten vloer, Franse ramen van vloer tot plafond, witte transparante gordijnen (referentie @image2), maar het uitzicht naar buiten en de sfeer verschillen telkens. De hoofdpersoon loopt in een constant tempo en gaat door elke open deur. 0-5s kamer één, gevecht in Amerikaanse comicstijl: de hoofdpersoon vecht tegen een personage (@image3), dat wordt verslagen; 5-10s kamer twee, warmte, viltknutselstijl, uitzicht door het raam op een zonnebloemveld (@image4), warm oranje zacht licht, een schilder die zonnebloemen schildert (@image5), de hoofdpersoon verandert bij het binnenkomen zelf in viltstijl; 10-15s kamer drie, verdriet, zwart-witte comic-stop-motion, regen buiten, koudgrijs licht, een persoon alleen op de grond met de knieën omklemd, een telefoon die oplicht met een onbeantwoorde oproep; bij het binnenkomen knippert het licht uit en weer aan, de kamer kleurt, bloemen komen in één keer tot bloei; 15-20s kamer vier, vreugde, een in zee ondergedompelde kamer (referentie @image6), de hoofdpersoon wordt doorzichtig tussen koraal en vissen; 20-25s kamer vijf, verrassing, uitzicht door het raam op een hemel vol vuurwerk (referentie @image7), kleurrijk flikkerend licht, de hoofdpersoon meegesleept door een juichende menigte; 25-30s een lege witte kamer, de hoofdpersoon knipt met de vingers — knip-geluidseffect — het beeld wordt zwart, "seedance" in het midden (referentie @image8). Cinematische kwaliteit, high-fashion reclamestijl, de belichting volledig bepaald door de uitzichten uit de ramen voor sterk emotioneel contrast, geen tekst in beeld.
 ```
 
-### No. 3: Multilingual Hip-Hop 'Hello' MV
+### No. 3: Meertalige "Hello"-hiphopclip
 
-- **Category:** `Multi-Image Reference`
+- **Category:** `Multi-beeldreferentie`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `nl`
@@ -445,21 +434,21 @@ One continuous take. The camera smoothly follows a person in a black coat (refer
 
 #### Description
 
-A seaside hip-hop MV built from one reference image; the lead raps 'hello' in 8 languages, lip-synced, hard cuts on the beat.
+Een hiphopclip aan zee, opgebouwd uit één referentiebeeld; de leadzanger rapt "hello" in 8 talen, met lipsync, harde sneden op de beat.
 
 #### Prompt
 
 ```text
-Cinematic hip-hop / rap music video, photoreal quality, high-end tone, seaside setting. Build the frame from @image1: a band performs at a golden sand beach with crashing waves — a lead vocalist gripping a mic on a stand in the wet sand, one guitarist left, one right, a drummer at the back; a vast coastline behind, rolling waves, a warm golden-hour sun shimmering on the water, sea mist in the air. The lead in a red tracksuit raps to camera — lips and jaw precisely synced to every word, head punching to the beat. Bright, punchy, fast, confident rap. HARD CUT on the beat, each switch a double contrast (shot size and type change together). Lyrics (the lead sings 'hello' in each language in turn, precisely lip-synced): English "Hello", Chinese "你好", Japanese "こんにちは", Korean "안녕하세요", Portuguese "Olá", Thai "สวัสดี", Spanish "Hola", Arabic "مرحبا". 8 hard-cut shots (low-angle wide establishing; close-up rap to camera; macro guitar-string insert; 3/4 prowling orbit; lateral track at shore; drummer tilt-up; tight push on the lead; heroic full-band push-in), one language per shot. White balance 4000K, teal-and-amber grade, 35mm, shallow depth of field, film grain, sea mist, golden-hour flare. Premium feel, precise lip-sync, no subtitles, no text overlays, hard cuts only, total 20 seconds.
+Cinematische hiphop-/rapvideoclip, fotorealistische kwaliteit, hoogwaardige uitstraling, setting aan zee. Bouw het beeld op vanuit @image1: een band speelt op een goudgeel zandstrand met brekende golven — een leadzanger die een microfoon op een standaard vastgrijpt in het natte zand, een gitarist links, een rechts, een drummer achteraan; een weidse kustlijn erachter, rollende golven, een warme zon van het gouden uur die op het water glinstert, zeenevel in de lucht. De leadzanger in een rood trainingspak rapt recht in de camera — lippen en kaak precies synchroon met elk woord, het hoofd stoot mee op de beat. Heldere, krachtige, snelle, zelfverzekerde rap. HARDE SNEDE op de beat, elke wisseling een dubbel contrast (beeldgrootte en shottype veranderen tegelijk). Songtekst (de leadzanger zingt om beurten in elke taal 'hello', precies gelipsynct): Engels "Hello", Chinees "你好", Japans "こんにちは", Koreaans "안녕하세요", Portugees "Olá", Thais "สวัสดี", Spaans "Hola", Arabisch "مرحبا". 8 shots met harde sneden (wijde establishing-shot van onderaf; close-up rap in de camera; macro-insert van de gitaarsnaren; sluipende 3/4-orbit; laterale travelling aan de vloedlijn; opkijkshot van de drummer; strakke inzoom op de leadzanger; heroïsche inzoom op de hele band), één taal per shot. Witbalans 4000K, teal-and-amber-kleurcorrectie, 35mm, geringe scherptediepte, filmkorrel, zeenevel, lens flare van het gouden uur. Premium uitstraling, precieze lipsync, geen ondertitels, geen tekstoverlays, uitsluitend harde sneden, in totaal 20 seconden.
 ```
 
 <a id="category-4"></a>
 
-### Video Editing (2)
+### Videobewerking (2)
 
-### No. 1: Video Edit — Remove All But the Lead
+### No. 1: Videobewerking — Iedereen behalve de hoofdpersoon verwijderen
 
-- **Category:** `Video Editing`
+- **Category:** `Videobewerking`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `nl`
@@ -474,17 +463,17 @@ Cinematic hip-hop / rap music video, photoreal quality, high-end tone, seaside s
 
 #### Description
 
-Reference-video editing: erase everyone except the protagonist from a source clip.
+Bewerking op basis van een referentievideo: wis iedereen behalve de hoofdpersoon uit een bronclip.
 
 #### Prompt
 
 ```text
-Video editing: remove everyone in @video1 except the protagonist.
+Videobewerking: verwijder in @video1 iedereen behalve de hoofdpersoon.
 ```
 
-### No. 2: Steam Train Bursts the Screen (video edit)
+### No. 2: Stoomtrein doorbreekt het scherm (videobewerking)
 
-- **Category:** `Video Editing`
+- **Category:** `Videobewerking`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `nl`
@@ -499,21 +488,21 @@ Video editing: remove everyone in @video1 except the protagonist.
 
 #### Description
 
-A video edit that keeps the original @video1 old-cinema clip intact and adds only a steam locomotive bursting through the screen, tearing the fabric, with black-and-white snapping to full color at the moment of impact.
+Een videobewerking die de originele oude-bioscoopclip @video1 intact houdt en er alleen een stoomlocomotief aan toevoegt die door het scherm breekt en het doek scheurt, waarbij zwart-wit op het moment van de inslag omslaat naar volle kleur.
 
 #### Prompt
 
 ```text
-Hyper-real cinematic realist style with photorealistic live-action texture, emphasizing the real-world plausibility of the physical object bursting out (the steam train); no CGI gloss / game engine / stylized 3D. Preserve @video1's original composition, projection-hall lighting, handheld camera state and natural imperfections. Source video locked: keep @video1 fully intact as the base image (the old-fashioned projection hall, the rows of hat-wearing audience seen from behind, the projector's conical beam, the screen, the ambient light, the color tone and the handheld movement all unchanged); the only additions: the train bursting out of the screen, the changes in light and shadow it brings, the tearing of the screen, and the slight physical impact on the hall and the front-row audience. Color-shift rule (the core addition): at the start strictly keep @video1's original black-and-white old-film texture (grain / scratches / flicker / monochrome); at the exact moment the locomotive truly breaks through the screen and bursts into reality, the image abruptly shifts from black-and-white to full, real color, the color spreading across the whole frame like a shockwave centered on the point where the train breaks out (the train's black steel body, the red-copper boiler, the orange-yellow steam-lamp glow, the warm brown of the wooden carriage, the white-grey steam, and the warm brown of the projection hall all coming into color accordingly); the color shift is precisely synchronized with the screen-breaking burst, after which photorealistic color is maintained to the end. Screen-tearing locked: the screen is a real white projection cloth with genuine fabric tension; as the train bursts out it is forcibly torn open along the contour of the locomotive's front, with radial rips whose edges curl back and shredded cloth fibers flying. Subject: an old-fashioned steam locomotive front bursting forcibly out of the screen, a black steel body, a cylindrical boiler, a front cowcatcher, a chimney venting white-grey steam, a bright headlamp, the metal surfaces with real wear, oil grime, rivets and wet reflections, charging forward with immense weight and inertia. Camera: fully inherits @video1's original handheld movement, not smoothed, not re-timed, not re-composed; the bursting train stays correctly locked into the screen and the hall space at all times, maintaining correct parallax, occlusion and ground-contact shadow. Sound: no music, keep only real on-scene sound effects, inheriting @video1's projection-hall ambience (the projector's clatter, the audience's stirring) and adding the sound of the cloth tearing, steam gushing, the mechanical roar of steel wheels, and the impact air blast. Total duration exactly the same as @video1; add nothing other than the train itself and its physical interactions, the screen tearing, and the color shift at the moment of the break. No slow motion, no sense of magic, no stylized horror; the final result should look like an eerie yet real image of "a train smashing through the screen, black-and-white instantly turning to color" captured by chance by a real camera in an old projection hall.
+Hyperreële cinematisch-realistische stijl met fotorealistische live-actiontextuur, die de reële geloofwaardigheid van het naar buiten brekende fysieke object (de stoomtrein) benadrukt; geen CGI-glans / game-engine / gestileerde 3D. Behoud de originele compositie, de belichting van de projectiezaal, de handheld-camerastaat en de natuurlijke onvolkomenheden van @video1. Bronvideo vergrendeld: houd @video1 volledig intact als basisbeeld (de ouderwetse projectiezaal, de van achteren geziene rijen toeschouwers met hoeden, de kegelvormige bundel van de projector, het scherm, het omgevingslicht, de kleurtoon en de handheld-beweging allemaal ongewijzigd); de enige toevoegingen: de trein die uit het scherm breekt, de licht- en schaduwveranderingen die hij meebrengt, het scheuren van het scherm en de lichte fysieke inslag op de zaal en de toeschouwers op de eerste rij. Kleuromslag-regel (de centrale toevoeging): houd aan het begin strikt de originele zwart-wit-oude-filmtextuur van @video1 aan (korrel / krassen / flikkering / monochroom); op het exacte moment dat de locomotief werkelijk door het scherm breekt en de realiteit in barst, slaat het beeld abrupt om van zwart-wit naar volle, echte kleur, waarbij de kleur zich als een schokgolf over het hele beeld verspreidt, gecentreerd op het punt waar de trein doorbreekt (het zwarte stalen lichaam van de trein, de roodkoperen ketel, de oranjegele gloed van de stoomlamp, het warme bruin van de houten wagon, de witgrijze stoom en het warme bruin van de projectiezaal komen alle overeenkomstig tot kleur); de kleuromslag is precies gesynchroniseerd met de doorbraak van het scherm, waarna de fotorealistische kleur tot het einde behouden blijft. Schermscheuring vergrendeld: het scherm is een echt wit projectiedoek met echte stofspanning; terwijl de trein naar buiten breekt, wordt het met kracht opengescheurd langs de contour van de voorkant van de locomotief, met radiale scheuren waarvan de randen omkrullen en rondvliegende versnipperde stofvezels. Onderwerp: de voorkant van een ouderwetse stoomlocomotief die met kracht uit het scherm breekt, een zwart stalen lichaam, een cilindrische ketel, een koeienvanger aan de voorkant, een schoorsteen die witgrijze stoom uitstoot, een felle koplamp, de metalen oppervlakken met echte slijtage, olievuil, klinknagels en natte weerspiegelingen, met enorm gewicht en traagheid naar voren stormend. Camera: erft volledig de originele handheld-beweging van @video1, niet vloeiend gemaakt, niet opnieuw getimed, niet opnieuw gekadreerd; de doorbrekende trein blijft te allen tijde correct verankerd in het scherm en de zaalruimte en behoudt de juiste parallax, occlusie en grondcontactschaduw. Geluid: geen muziek, behoud alleen echte geluidseffecten van de scène, ervend van de projectiezaalsfeer van @video1 (het geratel van de projector, het geroezemoes van het publiek) en toevoegend: het geluid van het scheurende doek, gutsende stoom, het mechanische gebulder van stalen wielen en de luchtstoot van de inslag. Totale duur exact gelijk aan @video1; voeg niets toe behalve de trein zelf en zijn fysieke interacties, het scheuren van het scherm en de kleuromslag op het moment van de doorbraak. Geen slow motion, geen gevoel van magie, geen gestileerde horror; het eindresultaat moet eruitzien als een griezelig maar echt beeld van "een trein die door het scherm ramt, zwart-wit dat ogenblikkelijk kleur wordt", bij toeval vastgelegd door een echte camera in een oude projectiezaal.
 ```
 
 <a id="category-5"></a>
 
-### Reference-Guided Tutorial (1)
+### Referentiegestuurde tutorial (1)
 
-### No. 1: Capsule Coffee Machine Setup Tutorial (6 refs)
+### No. 1: Installatietutorial voor capsulekoffiemachine (6 refs)
 
-- **Category:** `Reference-Guided Tutorial`
+- **Category:** `Referentiegestuurde tutorial`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `nl`
@@ -533,21 +522,21 @@ Hyper-real cinematic realist style with photorealistic live-action texture, emph
 
 #### Description
 
-A 30-second setup-and-use tutorial for a capsule coffee machine, six reference-guided steps with voiceover — from installing the water tank to the first rinse.
+Een installatie- en gebruikstutorial van 30 seconden voor een capsulekoffiemachine, zes referentiegestuurde stappen met voice-over — van het plaatsen van het waterreservoir tot de eerste spoeling.
 
 #### Prompt
 
 ```text
-A 30-second tutorial video on installing and using a capsule coffee machine. 0-2s: the opening title card reads "seedance capsule coffee machine setup tutorial". 2-5s, Step 1: install the water tank, reference @image1, medium shot from a slightly high angle, rear of the machine body, align the water tank with the slot on the back of the body and push it straight down until it clicks firmly into place, clearly showing how the tank's bottom clips align with the body's slot, the water level line visible through the tank's transparent section, voiceover "First, install the water tank. Align the tank with the slot on the back of the machine; a click means it is locked in place.". 5-9s, Step 2: install the drip tray, reference @image2, close-up front view, front bottom of the body, slide the drip tray horizontally into the guide rails at the bottom until fully seated, voiceover "Next, install the drip tray. Align the tray with the bottom rails.". 9-13s, Step 3: install the used-capsule collection box, reference @image3, close-up from a slightly low angle, the cavity beneath the drip tray, align the collection box with the recess and push it in flush with the drip tray, voiceover "Then insert the capsule collection box. Used capsules will drop down here automatically.". 13-18s, Step 4: first fill with water, reference @image4, close-up side view, the water tank at the top/back of the body, open the tank lid and pour in clean water up to the MAX water level line, then close it, emphasizing the water level line, voiceover "Open the tank lid, pour in clean water, being careful not to exceed the maximum water level line, then close the tank lid.". 18-25s, Step 5: power on, reference @image5, medium shot front view, front of the body, plug in the power cord and press the power button; the indicator light goes from blinking to steady (preheating complete), voiceover "Connect the power and press the power button. The indicator light starts blinking, which means it is preheating. When the light turns steady, the machine is ready.". 25-30s, Step 6: first rinse (without a capsule), reference @image6, medium shot moving to a close-up front-side view, without inserting a capsule press the brew button directly so hot water flows out and rinses the lines, emphasizing the "no capsule needed" note, voiceover "The last step, the first rinse. Note that this step does not require a capsule; just press the brew button. Once the rinse is done, your coffee machine is ready to use."
+Een tutorialvideo van 30 seconden over het installeren en gebruiken van een capsulekoffiemachine. 0-2s: de openingstitelkaart luidt "seedance capsulekoffiemachine installatietutorial". 2-5s, Stap 1: het waterreservoir plaatsen, referentie @image1, medium shot vanuit een licht verhoogde hoek, achterkant van de machinebehuizing, lijn het waterreservoir uit met de uitsparing aan de achterkant van de behuizing en druk het recht naar beneden tot het stevig vastklikt, duidelijk tonend hoe de clips aan de onderkant van het reservoir met de uitsparing van de behuizing samenvallen, de waterpeillijn zichtbaar door het transparante deel van het reservoir, voice-over "Plaats eerst het waterreservoir. Lijn het reservoir uit met de uitsparing aan de achterkant van de machine; een klik betekent dat het is vergrendeld.". 5-9s, Stap 2: de lekbak plaatsen, referentie @image2, close-up vooraanzicht, onderaan de voorkant van de behuizing, schuif de lekbak horizontaal in de geleiderails aan de onderkant tot hij volledig op zijn plaats zit, voice-over "Plaats vervolgens de lekbak. Lijn de bak uit met de rails aan de onderkant.". 9-13s, Stap 3: het opvangbakje voor gebruikte capsules plaatsen, referentie @image3, close-up vanuit een licht lage hoek, de holte onder de lekbak, lijn het opvangbakje uit met de uitsparing en schuif het gelijk met de lekbak naar binnen, voice-over "Plaats daarna het capsule-opvangbakje. Gebruikte capsules vallen hier automatisch in.". 13-18s, Stap 4: voor het eerst met water vullen, referentie @image4, close-up zijaanzicht, het waterreservoir boven/achter aan de behuizing, open het deksel van het reservoir en giet schoon water tot aan de MAX-waterpeillijn, sluit het dan, met nadruk op de waterpeillijn, voice-over "Open het deksel van het reservoir, giet schoon water erin en let erop de maximale waterpeillijn niet te overschrijden, sluit daarna het deksel van het reservoir.". 18-25s, Stap 5: inschakelen, referentie @image5, medium shot vooraanzicht, voorkant van de behuizing, steek het netsnoer in het stopcontact en druk op de aan-uitknop; het controlelampje gaat van knipperend naar continu (voorverwarmen voltooid), voice-over "Sluit de stroom aan en druk op de aan-uitknop. Het controlelampje begint te knipperen, wat betekent dat hij aan het voorverwarmen is. Wanneer het lampje continu brandt, is de machine klaar.". 25-30s, Stap 6: eerste spoeling (zonder capsule), referentie @image6, medium shot dat overgaat in een close-up van een driekwart-vooraanzicht, druk zonder een capsule te plaatsen direct op de zetknop zodat er heet water uitstroomt en de leidingen spoelt, met nadruk op de vermelding "geen capsule nodig", voice-over "De laatste stap, de eerste spoeling. Let op dat deze stap geen capsule vereist; druk gewoon op de zetknop. Zodra de spoeling klaar is, is je koffiemachine klaar voor gebruik."
 ```
 
 <a id="category-6"></a>
 
-### Multimodal Reference (image+video) (1)
+### Multimodale referentie (beeld+video) (1)
 
-### No. 1: Fruity Cookie Commercial (image + 6 video refs)
+### No. 1: Reclamespot voor fruitkoekjes (beeld + 6 videorefs)
 
-- **Category:** `Multimodal Reference (image+video)`
+- **Category:** `Multimodale referentie (beeld+video)`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `nl`
@@ -568,21 +557,21 @@ A 30-second tutorial video on installing and using a capsule coffee machine. 0-2
 
 #### Description
 
-A bright, colorful commercial for fruity cookies in four flavors — strawberry, apple, grape, orange — built from one image reference and six motion/camera video references, cut hard to a driving beat.
+Een heldere, kleurrijke reclamespot voor fruitkoekjes in vier smaken — aardbei, appel, druif, sinaasappel — opgebouwd uit één beeldreferentie en zes bewegings-/camera-videoreferenties, hard gemonteerd op een stuwende beat.
 
 #### Prompt
 
 ```text
-A bright, colorful commercial style with fruity cookies as the hero, in four flavors — strawberry, apple, grape, and orange; strawberry flavor reference @image1. The cookies and their matching fruits are arranged in a strongly ordered geometric array; the overall frame is clean, premium, and high-energy. It opens with the fruits orbiting rapidly around the central cookie to quickly establish visual focus — reference the composition of @video1 — cutting in on a strong musical beat. Then cookies of different flavors advance toward the lens along spiral paths, forming clear spatial depth — reference the motion and camera work of @video2 — switching colors and flavors on the beat with the background music. The array of cookies pans left and right with fast plane-to-plane cuts, strawberry, apple, grape, and orange flavors alternating as the frame jump-cuts quickly to the rhythm — reference the movement of @video3. The mid-section adds up-and-down panning; the neat cookie array rises and falls vertically like a machine — reference the movement of @video4 — highlighting the beauty of order and the richness of the product. In the climax a cookie is snapped in two and the moment enters slow motion as the fruity filling bursts open, crumbs scattering, the juicy sensation and grainy impact amplified — reference the explosion effect of @video5 — then quickly returns to the fast-paced edit. The ending brings in the English text "Fresh on Seedance, made for viral vision", entering word by word in quick succession with strong rhythmic text motion and a product freeze-frame — reference @video6 — the four cookie flavors lined up neatly with the fruits bouncing in sync for a final brand-forward close, the frame full of a young, energetic, delicious, shareable ad atmosphere.
+Een heldere, kleurrijke reclamestijl met fruitkoekjes in de hoofdrol, in vier smaken — aardbei, appel, druif en sinaasappel; referentie voor de aardbeismaak @image1. De koekjes en de bijpassende vruchten zijn in een streng geordend geometrisch raster gerangschikt; het totaalbeeld is strak, hoogwaardig en energiek. Het opent met de vruchten die snel om het centrale koekje cirkelen om snel de visuele focus te bepalen — verwijs naar de compositie van @video1 — inzettend op een krachtige muziekbeat. Vervolgens komen koekjes van verschillende smaken langs spiraalvormige banen naar de lens toe en vormen een duidelijke ruimtelijke diepte — verwijs naar de beweging en het camerawerk van @video2 — waarbij kleuren en smaken op de beat van de achtergrondmuziek wisselen. Het raster van koekjes pant met snelle vlak-naar-vlak-sneden naar links en rechts, de smaken aardbei, appel, druif en sinaasappel wisselen elkaar af terwijl het beeld snel op het ritme springt — verwijs naar de beweging van @video3. Het middendeel voegt een op-en-neer-pan toe; het nette koekjesraster stijgt en daalt verticaal als een machine — verwijs naar de beweging van @video4 — om de schoonheid van de ordening en de rijkdom van het product te benadrukken. In het hoogtepunt wordt een koekje doormidden gebroken en gaat het moment over in slow motion terwijl de fruitige vulling openbarst, kruimels alle kanten op spatten, het sappige gevoel en de korrelige impact versterkt — verwijs naar het explosie-effect van @video5 — en keert dan snel terug naar de snelle montage. Het einde brengt de Engelse tekst "Fresh on Seedance, made for viral vision" in beeld, die woord voor woord in snelle opeenvolging verschijnt met een sterke ritmische tekstbeweging en een freeze-frame van het product — verwijs naar @video6 — de vier koekjessmaken netjes op een rij terwijl de vruchten synchroon op en neer stuiteren voor een afsluitende, merkgerichte slotshot, het beeld vol jonge, energieke, heerlijke, deelbare reclamesfeer.
 ```
 
 <a id="category-7"></a>
 
-### Image Reference (1)
+### Beeldreferentie (1)
 
-### No. 1: Desert Horned Lizard & Grapefruit (3D ad)
+### No. 1: Woestijnhoornhagedis & grapefruit (3D-reclame)
 
-- **Category:** `Image Reference`
+- **Category:** `Beeldreferentie`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `nl`
@@ -597,21 +586,21 @@ A bright, colorful commercial style with fruity cookies as the hero, in four fla
 
 #### Description
 
-A bright, glossy 3D animated commercial: a parched desert horned lizard finds a grapefruit, bites in, and a juice tsunami turns the desert into a summer sea. Built from one character reference.
+Een heldere, glanzende 3D-animatiereclame: een uitgedroogde woestijnhoornhagedis vindt een grapefruit, bijt erin, en een sap-tsunami verandert de woestijn in een zomerse zee. Opgebouwd uit één personagereferentie.
 
 #### Prompt
 
 ```text
-A 3D animated commercial style, bright and translucent colors; the pulp and juice must feel intensely refreshing and impactful. The overall vibe is like a high-quality commercial animated short with a touch of exaggerated humor. The desert horned lizard character is cute, lively and expressive, reference @image1. The image texture references that soft natural light, delicate fuzz/skin texture, dreamy macro depth of field, and a realistic-yet-slightly-childlike feel from the reference image. 0-3s: a desert scorched by the blazing sun, the air shimmering with heat and the sand searing hot; a desert horned lizard lies on the scalding sand, tongue slightly out, eyes glazed, nearly dried out, swaying with every couple of steps as if about to "evaporate". 3-6s: it suddenly stops, its nose twitches, and looking down it spots a cool, plump, dew-covered grapefruit half-buried in the sand, glistening like a desert miracle; the lizard's eyes go wide in an instant. 6-8s: it pounces over, hugging the grapefruit tightly with both hands, pressing its whole face against the rind with a blissful "I'm finally alive" expression; the frame holds for 1 second, forming an exaggerated, funny memory beat. 8-11s: it looks up, opens its mouth and takes a big bite; the grapefruit rind splits open, the plump pulp shining with a translucent gloss, and the next moment the juice erupts like a tsunami. 11-16s: orange-pink, translucent, glistening grapefruit juice gushes out wildly, pouring down the dunes and rapidly flooding the entire desert; the dry yellow sand instantly turns into a cool, sparkling, fruit-scented summer sea, cacti, rocks and small dunes swallowed by the waves of juice, the lizard's expression turning from delight to terror. 16-20s: nearly drowned by the "grapefruit sea", it frantically clutches half a grapefruit like a life buoy and floats, poking its soaked head out looking dazed. 20-24s: cut to a white screen; the brand name and slogan appear dead-center: "Seedance Grapefruit — bite in for the pulp, what pours out is summer." The voiceover reads the whole line. 24-30s: cut back from white; the desert horned lizard is now lounging on the floating grapefruit, wearing tiny sunglasses and holding a cup with a straw, drifting leisurely on the "juice sea" on vacation, surrounded by floating orange pulp, little ice cubes, cool splashes and a clear blue sky; the mood shifts from "survival" to "vacation", and finally it leans back contentedly on the grapefruit as the camera pulls out and freezes on a refreshing, bright, playful summer frame.
+Een 3D-animatiereclamestijl, heldere en doorschijnende kleuren; het vruchtvlees en het sap moeten intens verfrissend en indrukwekkend aanvoelen. De algehele sfeer is als een hoogwaardige geanimeerde reclamekortfilm met een vleugje overdreven humor. Het personage van de woestijnhoornhagedis is schattig, levendig en expressief, referentie @image1. De beeldtextuur verwijst naar het zachte natuurlijke licht, de fijne dons-/huidtextuur, de dromerige macro-scherptediepte en het realistische maar licht kinderlijke gevoel van het referentiebeeld. 0-3s: een woestijn verschroeid door de brandende zon, de lucht trilt van de hitte en het zand is gloeiend heet; een woestijnhoornhagedis ligt op het snikhete zand, de tong licht naar buiten, de ogen glazig, bijna uitgedroogd, wankelend om de paar stappen alsof hij zo gaat "verdampen". 3-6s: hij stopt plotseling, zijn neus trilt, en naar beneden kijkend ontwaart hij een koele, mollige, met dauw bedekte grapefruit, half begraven in het zand, glanzend als een woestijnwonder; de ogen van de hagedis worden in een oogwenk groot. 6-8s: hij springt erop af, omhelst de grapefruit stevig met beide handen en drukt zijn hele gezicht tegen de schil met een zalige "eindelijk leef ik"-uitdrukking; het beeld blijft 1 seconde staan en vormt een overdreven, grappig herinneringsmoment. 8-11s: hij kijkt op, opent zijn bek en neemt een grote hap; de schil van de grapefruit splijt open, het mollige vruchtvlees glanst doorschijnend, en het volgende moment barst het sap eruit als een tsunami. 11-16s: oranjeroze, doorschijnend, glinsterend grapefruitsap gutst wild naar buiten, stroomt de duinen af en overspoelt razendsnel de hele woestijn; het droge gele zand verandert ogenblikkelijk in een koele, fonkelende, naar fruit geurende zomerse zee, cactussen, rotsen en kleine duinen verzwolgen door de golven sap, de uitdrukking van de hagedis slaat om van verrukking naar afgrijzen. 16-20s: bijna verdronken in de "grapefruitzee", klampt hij zich in paniek vast aan een halve grapefruit als aan een reddingsboei en dobbert rond, steekt zijn doorweekte kop naar buiten en kijkt versuft. 20-24s: snede naar een wit scherm; de merknaam en slogan verschijnen pal in het midden: "Seedance Grapefruit — bijt in het vruchtvlees, wat eruit stroomt is de zomer." De voice-over leest de hele regel voor. 24-30s: terugsnede vanuit het wit; de woestijnhoornhagedis luiert nu op de drijvende grapefruit, draagt een piepklein zonnebrilletje en houdt een bekertje met een rietje vast, dobbert op zijn gemak op de "sapzee" op vakantie, omringd door drijvend oranje vruchtvlees, kleine ijsblokjes, koele spatten en een heldere blauwe hemel; de stemming verschuift van "overleven" naar "vakantie", en ten slotte leunt hij tevreden achterover tegen de grapefruit terwijl de camera uitzoomt en bevriest op een verfrissend, helder, speels zomerbeeld.
 ```
 
 <a id="category-8"></a>
 
-### Image Reference (Cinematic) (1)
+### Beeldreferentie (cinematisch) (1)
 
-### No. 1: Drunk Man's Rooftop Fall (black-comedy short)
+### No. 1: De val van de dronken man van het dak (zwarthumor-kortfilm)
 
-- **Category:** `Image Reference (Cinematic)`
+- **Category:** `Beeldreferentie (cinematisch)`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `nl`
@@ -626,2012 +615,12 @@ A 3D animated commercial style, bright and translucent colors; the pulp and juic
 
 #### Description
 
-A ~30s black-comedy cinematic short: a chubby, tipsy man topples off a rooftop, grabs a lifeline, crashes through a window, and simply falls asleep. Character from one reference image; built on hard cuts between roar and total silence.
+Een cinematische zwarthumor-kortfilm van circa 30s: een mollige, aangeschoten man tuimelt van een dak, grijpt een reddingslijn, knalt door een raam en valt gewoon in slaap. Personage uit één referentiebeeld; opgebouwd op harde sneden tussen kabaal en volledige stilte.
 
 #### Prompt
 
 ```text
-[Drunk Man's Rooftop Fright — falls off the edge — grabs a rope through the window — passes out on the spot | black-comedy short | about 30 seconds] One-line premise: a chubby, cute, drunk middle-aged man is eating a burger and drinking beer on the rooftop of a building; as he stands up and stretches he accidentally loses his footing and falls, in his panic grabs a lifesaving rope and immediately crashes through a window into an interior, is dazed and stunned for one second, then just lies down where he is and falls fast asleep. Reference image @image1 — a chubby, cute, drunk middle-aged man: round and stocky build with a big round beer belly, short in stature, movements loose, slow and wobbly from drinking; round face, double chin, drink-flushed cheeks and nose, eyes narrowed to slits with a bleary gaze, an untrimmed ring of short stubble, messy hair, a silly, cute, carefree expression; wearing a white tank-top undershirt stained with burger sauce hanging loosely over his round belly, old jeans, shuffling along in loose slippers, always clutching a half-eaten burger in his hand. There is only this one character in the whole film, a 100% match to the reference image. Overall look: a nighttime cyberpunk mega-city, a dense forest of glass-and-steel skyscrapers, neon signs (cyan / magenta / electric blue), holographic billboards, wet reflective ground, volumetric fog, distant flying-car light trails and drones. Real live-action texture, physical cinema lenses, no 3D rendering / game engine / anime feel. The camera mixes handheld with jib / drone; after the fall the camera plunges down with him as the building's exterior wall and the neon streak upward to convey speed, 24-35mm widescreen cinematic lens texture, 180-degree shutter motion blur. Sound design is the key to the black comedy: hard-cutting repeatedly between "a huge roar" and "total silence". Real gravity throughout. Storyboard (about 30 seconds): S1 (0-4s) opening chewing big close-up (with sound) the man's face fills the screen, chewing the burger in big bites, a satisfied drunken state; S2 (4-9s) pull to a wide shot, stretching -> losing footing and falling (with sound) he wobbles to his feet and stretches big, leans back, can't keep his balance, his foot slips and he tumbles backward over the edge of the rooftop, never letting go of the burger, with a panicked "Eh——!"; S3 (9-12s) cut to a startled facial close-up (a loud scream, huge roar) drunken eyes bulging round, double chin bunched up, mouth wide in a screaming "Ahh——!!", wind howling; S4 (12-16s) cut to a long shot at eye level (total silence) seen from the building across the way, a tiny white figure plummeting straight down from the high-rise, the neon city vast and indifferent, the total silence forming a black-comedy contrast with the huge roar a second earlier; S5 (16-21s) cut to a facial close-up (screaming) -> grabbing the rope, still screaming, hands flailing in the air, he suddenly grabs a lifesaving cable, the cable snapping taut and bending under his weight with a twang, the scream cutting off abruptly as he is jerked and swings out (a brief slow motion at the moment he grabs the rope); S6 (21-26s) cut to an interior angle (quiet) -> the glass shatters -> he crashes in, the interior first quiet with only the hum of the air conditioner, the next second the glass explosively bursts inward (a brief bullet time) as the drunk man, burger and all, smashes through the window, shards flying out radially, neon light streaming in, and he crashes heavily into the room onto the floor / sofa, broken glass clinking; S7 (26-30s) ending, a startled second -> falls asleep, the man sprawled spread-eagle on the floor, covered in broken glass, still clutching the burger, slowly opens his eyes, dazed, blank and startled for a full second, looking around as if thinking "where am I?", then the drunkenness takes over and, not caring at all, he smacks his lips, tucks the burger into his arms, rolls over, lies down right there and falls fast asleep, even snoring lightly, the camera pulls out and freezes, hard cut to black. Only on-set live sound, no music, no subtitles; the core is hard cuts repeatedly between "huge roar" and "silence".
-```
-
-<a id="category-9"></a>
-
-### Twitter Community (24)
-
-### No. 1: Veloce-X Neuro-Hydratie Strips Commercial
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Gilbert Odera | Your AI Plug🇰🇪
-- **Language:** `nl`
-- **Source Link:** [View](https://x.com/yourPlugAI/status/2064591659115905203)
-
-#### Description
-
-Een opdracht voor het maken van een 15 seconden durende ultra-realistische, hoog-snelheidscinematische commercial voor een neuro-hydratatieproduct.
-
-#### Prompt
-
-```text
-Create a 15-second ultra-realistic, high-speed cinematic image-to-video commercial for Veloce-X Neuro-Hydration Strips, utilizing the provided reference images as the absolute anchor for character, product design, color palette, and
-```
-
-### No. 2: Man in regenachtig masker
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Xfeed24
-- **Language:** `nl`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064605968420261888/vid/avc1/1280x716/DknXfm6NuCMCohq9.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064605968420261888/vid/avc1/1280x716/DknXfm6NuCMCohq9.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/XfeedZ24/status/2064606040797171839)
-
-#### Description
-
-Een close-up van een man met een futuristisch masker die in de regen staat met een sombere uitdrukking.
-
-#### Prompt
-
-```text
-close-up of a man in a futuristic mask, wet hair, rain falling, dark and moody lighting, cinematic shot
-```
-
-### No. 3: Koffiekracht
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** minchinEdits
-- **Language:** `nl`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064606538237710336/vid/avc1/720x1280/qcEBjR0LJuF4rgce.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064606538237710336/vid/avc1/720x1280/qcEBjR0LJuF4rgce.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/minchinEdits/status/2064606613865103832)
-
-#### Description
-
-Een vrouw straalt energie uit van koffie, omringd door energieke kantoorscènes.
-
-#### Prompt
-
-```text
-a vibrant animated scene of a woman surrounded by glowing golden energy, holding a coffee cup, with multiple versions of her and coworkers in an office environment, all expressing excitement and productivity, cinematic lighting, dynamic composition, 3D animation style
-```
-
-### No. 4: Dark fantasy gevecht met praktische effecten
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Build Fast with AI
-- **Language:** `nl`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064395868787347456/vid/avc1/854x480/Nmuqe4FnZH5lRPZd.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064395868787347456/vid/avc1/854x480/Nmuqe4FnZH5lRPZd.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/BuildFastWithAI/status/2064595921443139684)
-
-#### Description
-
-Een prompt voor het genereren van een 15 seconden durende dark fantasy gevechtsscène met Seedance 2.0, met een lage scherpte en een esthetiek van praktische effecten.
-
-#### Prompt
-
-```text
-15-second dark fantasy battle. Seedance 2.0. Zero post. Zero upscaling. Low sharpness + practical effect aesthetic.
-```
-
-### No. 5: Kitten karakterontwerp
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** GPTProto Official
-- **Language:** `nl`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064599776021426176/vid/avc1/1080x1920/b4Mr5JDKiFBYrzOo.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064599776021426176/vid/avc1/1080x1920/b4Mr5JDKiFBYrzOo.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/gptproto/status/2064601178902814752)
-
-#### Description
-
-Een charmant oranje kitten zit op een houten tafel in een zonnige woonkamer, met gedetailleerde karakterontwerpbladen eronder die de 3D-modellen, uitdrukkingen en kleurenpalet tonen.
-
-#### Prompt
-
-```text
-a cute orange tabby kitten with big eyes sitting on a wooden table in a cozy living room, surrounded by a tissue box, a glass of water, and a toy mouse, with detailed character design sheets below showing 3D model views, expressions, poses, and color references, soft natural lighting, warm atmosphere, cinematic depth of field
-```
-
-### No. 6: Vrouw op AI-conferentie
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** CloudwiseAI
-- **Language:** `nl`
-- **Source Link:** [View](https://x.com/cloudwiseAI2026/status/2064591595991969879)
-
-#### Description
-
-Een vrouw spreekt in een microfoon voor een scherm waarop een GenAI-conferentiewebsite met een voetbalthema wordt getoond.
-
-#### Prompt
-
-```text
-a woman speaking into a microphone in front of a large screen displaying a GenAI conference website with a soccer stadium background, natural lighting from windows, realistic details, medium shot
-```
-
-### No. 7: Wervelwind boven de stad
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Pixmax
-- **Language:** `nl`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064593085431185408/vid/avc1/1080x720/dawSBFfVAweSgYmE.mp4?tag=14)
-
-<video src="https://video.twimg.com/amplify_video/2064593085431185408/vid/avc1/1080x720/dawSBFfVAweSgYmE.mp4?tag=14" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/Pixmax_ai/status/2064593399882432615)
-
-#### Description
-
-Een man kijkt omhoog naar een lichtgevende blauwe wervelwind die zweeft boven een futuristische metropool bij nacht.
-
-#### Prompt
-
-```text
-a man in a black jacket stands in a futuristic city at night, looking up at a massive glowing blue vortex in the sky, surrounded by towering skyscrapers with neon lights, cinematic lighting, wide-angle shot, dramatic perspective
-```
-
-### No. 8: Naruto Live Spektakel
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** AIAI.COM
-- **Language:** `nl`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064592744111325184/vid/avc1/1920x1080/QMHtQZk7WlNnDcml.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064592744111325184/vid/avc1/1920x1080/QMHtQZk7WlNnDcml.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/Aiaicom09/status/2064592826290336125)
-
-#### Description
-
-Een live podiumvoorstelling met Naruto en Sasuke in hun iconische kostuums, terwijl het publiek het moment vastlegt op hun telefoons.
-
-#### Prompt
-
-```text
-live stage performance of Naruto characters, Naruto Uzumaki and Sasuke Uchiha in full costume, standing on a stage with a crowd watching, bright daylight, realistic lighting, detailed costumes, dynamic pose, audience holding phones to record, Japanese text banner above stage reading 'LIVE SPECTACULAR NARUTO', wide shot, static camera
-```
-
-### No. 9: Verkennen van het GlobalGPT AI-platform
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Choya
-- **Language:** `nl`
-- **Video:** [View](https://static.atlascloud.ai/prompt/seedance-2/x_2064988432590356506.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2064988432590356506.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/choyamymuna/status/2064988432590356506)
-
-#### Description
-
-Deze video toont een gedetailleerde schermopname die de diverse AI-modellen en tools van het GlobalGPT-platform voor beeld-, video- en audiogeneratie laat zien.
-
-#### Prompt
-
-```text
-A static screen recording of a desktop computer displaying the GlobalGPT website in a web browser. The cursor moves across the screen, clicking on navigation links and scrolling through lists of AI video, image, and audio generation models and tools. The background behind the browser window features an abstract, vibrant gradient of blue, purple, pink, and orange waves. The focus is entirely on the browser's UI and its interactive elements.
-```
-
-### No. 10: Cinematische voetbalvideo met ultra-realistische spelers
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** auqib
-- **Language:** `nl`
-- **Video:** [View](https://static.atlascloud.ai/prompt/seedance-2/x_2064989700738412551.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2064989700738412551.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/auqibhabib/status/2064989700738412551)
-
-#### Description
-
-Een mixed-media cinematische video met ultra-realistische menselijke voetbalspelers geïntegreerd in een realistisch stadionomgeving.
-
-#### Prompt
-
-```text
-Mixed-media cinematic football video featuring ultra-realistic human football players inspired by Image1 and Image2, seamlessly integrated into the ultra-realistic football stadium environment from Image3. Same team, same
-```
-
-### No. 11: Cinematisch stierengevecht tijdens het gouden uur
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** WasifAI
-- **Language:** `nl`
-- **Video:** [View](https://video.twimg.com/ext_tw_video/2064595743864737792/pu/vid/avc1/1920x1080/_o4DsXvAFcjPpDIc.mp4)
-
-<video src="https://video.twimg.com/ext_tw_video/2064595743864737792/pu/vid/avc1/1920x1080/_o4DsXvAFcjPpDIc.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/doctorwasif/status/2064595805906817115)
-
-#### Description
-
-Een fotorealistische videoprompt voor een doorlopende 15 seconden durende cinematische scène in een stierenvechtarena tijdens het gouden uur.
-
-#### Prompt
-
-```text
-15s continuous cinematic Hollywood 60fps, photoreal Plaza de Toros at golden hour, packed crowd, dust in warm amber light. Consistent matador (@ Image1) in emerald-gold
-```
-
-### No. 12: Betoverende sprookjesachtige waterverfanimatie
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** OscarAI
-- **Language:** `nl`
-- **Source Link:** [View](https://x.com/Artedeingenio/status/2064985164116119665)
-
-#### Description
-
-Een 15 seconden durende continue single-shot video zonder cuts of overgangen, gestileerd als een speelse, met de hand geschilderde waterverf- en inkt sprookjesanimatie.
-
-#### Prompt
-
-```text
-15-second continuous single-shot. No cuts. No scene transitions. Style: enchanting fairy tale animation, hand-painted watercolor and ink illustration brought to life, whimsical
-```
-
-### No. 13: Sci-Fi Robotspin op een atletiekbaan
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Avelyrah
-- **Language:** `nl`
-- **Video:** [View](https://video.twimg.com/ext_tw_video/2064608014934695936/pu/vid/avc1/1280x720/2Cwwi5g_SYa4kIy8.mp4)
-
-<video src="https://video.twimg.com/ext_tw_video/2064608014934695936/pu/vid/avc1/1280x720/2Cwwi5g_SYa4kIy8.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/AvelyrahnAI/status/2064608055908868501)
-
-#### Description
-
-Een snelle sci-fi videosequentie met een blonde vrouw in een trainingspak terwijl een robotspin zich uitvouwt op haar pols en studenten op de vlucht slaan.
-
-#### Prompt
-
-```text
-A fast-paced sci-fi video sequence on a high school running track under a dark, overcast sky. A blonde woman in a navy and white tracksuit walks confidently forward as students flee. A robotic spider on her wrist rapidly expands
-```
-
-### No. 14: Soldaat kijkt uit over vloot
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Global Frontline News
-- **Language:** `nl`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064598715831398400/vid/avc1/1280x720/8wGHKWvZrRIK6fxS.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064598715831398400/vid/avc1/1280x720/8wGHKWvZrRIK6fxS.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/OmeyLad23/status/2064611393580757271)
-
-#### Description
-
-Een soldaat staat achterin een militair vliegtuig en tuurt uit over een immense vloot schepen op de oceaan beneden.
-
-#### Prompt
-
-```text
-a soldier in tactical gear stands at the open rear of a military transport aircraft, looking out over a fleet of naval ships on the ocean, cinematic lighting, wide shot from behind, high detail, realistic
-```
-
-### No. 15: Hogwarts Zwerkbalvlucht
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Cyber AI Creator 🎨
-- **Language:** `nl`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064598185205731328/vid/avc1/720x806/RJuHUIc2jLdBY5Wy.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064598185205731328/vid/avc1/720x806/RJuHUIc2jLdBY5Wy.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/noman23761/status/2064598264528470051)
-
-#### Description
-
-Een eerste-persoonsperspectief van vliegen op een bezemsteel boven het Zwerkbalveld bij Hogwarts, overgaand in een weids luchtbeeld van het kasteel tijdens zonsondergang.
-
-#### Prompt
-
-```text
-first-person view of flying on a broomstick over the Quidditch field at Hogwarts, with golden hoops and castle in background, transitioning to an aerial wide shot of Hogwarts Castle at sunset with red trail showing flight path
-```
-
-### No. 16: Bevroren krijger concept art
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Cyber AI Creator 🎨
-- **Language:** `nl`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064597000713281536/vid/avc1/1140x1080/2ItRonsYxDE0Pyne.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064597000713281536/vid/avc1/1140x1080/2ItRonsYxDE0Pyne.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/noman23761/status/2064597123795173495)
-
-#### Description
-
-Een concept art illustratie van een vrouwelijke krijger en een ijsgolem in een besneeuwde omgeving met gedetailleerde karakterontwerpen.
-
-#### Prompt
-
-```text
-concept art of a female warrior and an ice golem in a snowy landscape, detailed character designs with armor and weapons, anime style, wide shot, static camera
-```
-
-### No. 17: Vintage straatwandeling
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** EdenWood
-- **Language:** `nl`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064592895923965952/vid/avc1/1280x720/8JlrIYiYHhKJtJ-_.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064592895923965952/vid/avc1/1280x720/8JlrIYiYHhKJtJ-_.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/EdenWood62747/status/2064592964366585994)
-
-#### Description
-
-Een man loopt over een bruisende vintage straat met een tram op de achtergrond, vastgelegd in zwart-wit met cinematografisch detail.
-
-#### Prompt
-
-```text
-black and white vintage street scene, a man in a white shirt walking toward the camera, old tram in the background, people walking on the street, colonial architecture, sepia tone, cinematic lighting, slow motion
-```
-
-### No. 18: Presentatie over 3D-rendering
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** CloudwiseAI
-- **Language:** `nl`
-- **Source Link:** [View](https://x.com/cloudwiseAI2026/status/2064591627214356928)
-
-#### Description
-
-Een presentator wijst naar een scherm waarop 3D-geproduceerde bollen te zien zijn tijdens een workshop.
-
-#### Prompt
-
-```text
-a man giving a presentation in front of an audience, pointing at a large screen displaying a 3D rendering of two reflective spheres on a wooden table, with natural light coming through windows in the background
-```
-
-### No. 19: GlobalGPT Website Overzicht
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Rasel Hosen
-- **Language:** `nl`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064592725241184256/vid/avc1/1280x720/NI71SYLYLAoa66wB.mp4?tag=14)
-
-<video src="https://video.twimg.com/amplify_video/2064592725241184256/vid/avc1/1280x720/NI71SYLYLAoa66wB.mp4?tag=14" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/details_with_ai/status/2064592792354275730)
-
-#### Description
-
-Een screenshot van de GlobalGPT-website homepage met levendige achtergrondkleuren en AI-tool opties
-
-#### Prompt
-
-```text
-a screen recording of the GlobalGPT website homepage with a colorful abstract background, showing the navigation menu, AI model selection interface, and promotional banners, with a subtle zoom-in effect on the central content area
-```
-
-### No. 20: Avontuur op een zonnig pad
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** 💫Wigglenator💫
-- **Language:** `nl`
-- **Source Link:** [View](https://x.com/Wigglenatorr/status/2064608020701532188)
-
-#### Description
-
-Een jong anime-meisje met horentjes staat op een keienpad badend in gouden zonlicht.
-
-#### Prompt
-
-```text
-anime girl with white hair and horns, wearing a red cloak, standing on a stone path in a sunlit garden, golden hour lighting, soft focus background, detailed character design, warm tones
-```
-
-### No. 21: Soldaat kijkt uit over vloot
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Global Frontline News
-- **Language:** `nl`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064598715831398400/vid/avc1/1280x720/8wGHKWvZrRIK6fxS.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064598715831398400/vid/avc1/1280x720/8wGHKWvZrRIK6fxS.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/OmeyLad23/status/2064606091951190378)
-
-#### Description
-
-Een soldaat staat achterin een militair vliegtuig en staart naar een enorme marinevloot op de open zee.
-
-#### Prompt
-
-```text
-a soldier in tactical gear stands at the open rear ramp of a military transport aircraft, looking out over a vast fleet of warships on the ocean, cinematic lighting, high detail, wide shot
-```
-
-### No. 22: Punkrock woonkamer
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Cyber AI Creator 🎨
-- **Language:** `nl`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064595369720442880/vid/avc1/1080x1216/n-dxp79lHtiON4Wj.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064595369720442880/vid/avc1/1080x1216/n-dxp79lHtiON4Wj.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/noman23761/status/2064595569763639713)
-
-#### Description
-
-Een spontane foto van vijf vrouwen met alternatieve modestijlen die ontspannen in een bohemien appartement terwijl een witte kat naar ze toe loopt.
-
-#### Prompt
-
-```text
-a group of five young women with punk rock style sitting on a couch in a cozy, cluttered living room filled with plants and music posters, a white cat walking away from the camera towards the group, warm ambient lighting, realistic photo style
-```
-
-### No. 23: Duiker high five op zee
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Ranveer Singh Sisodia
-- **Language:** `nl`
-- **Video:** [View](https://static.atlascloud.ai/prompt/seedance-2/x_2064988239623225619.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2064988239623225619.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/sphereofai/status/2064988239623225619)
-
-#### Description
-
-Een duiker op een boot geeft een high five aan een andere duiker in de open zee onder een heldere hemel.
-
-#### Prompt
-
-```text
-first person view of a diver on a boat, high five with another diver, clear blue ocean, sunny day, wide angle lens
-```
-
-### No. 24: AI-presentatiedemonstratie
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** CloudwiseAI
-- **Language:** `nl`
-- **Source Link:** [View](https://x.com/cloudwiseAI2026/status/2064591614627189158)
-
-#### Description
-
-Een presentator spreekt tot een publiek terwijl hij een digitale animatie van reflecterende bollen op een scherm laat zien.
-
-#### Prompt
-
-```text
-a man giving a presentation in front of an audience, holding a microphone, with a large screen displaying two reflective spheres on a dark surface, natural light from windows, indoor setting with plants and audio equipment
-```
-
-<a id="category-10"></a>
-
-### Audio en stemsynthese (10)
-
-### No. 1: Kat & hond roastbattle
-
-- **Category:** `Audio en stemsynthese`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `nl`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/1793c9e5-608e-435e-a72b-0e657bbb2d5c.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/1793c9e5-608e-435e-a72b-0e657bbb2d5c.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/35)
-
-#### Description
-
-Komedie-talkshow met expressieve dierenpersonages en gevatte dialogen.
-
-#### Prompt
-
-```text
-Genereer een videoscène: Komedie-talkshow met expressieve dierenpersonages en gevatte dialogen.
-```
-
-### No. 2: Kantoorgebouwdocumentaire
-
-- **Category:** `Audio en stemsynthese`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `nl`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/843a60ae-3df3-4c37-9fd4-2437f3ac2253.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/843a60ae-3df3-4c37-9fd4-2437f3ac2253.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/34)
-
-#### Description
-
-Cinematische vastgoeddocumentaire met professionele vertelling.
-
-#### Prompt
-
-```text
-Genereer een videoscène: Cinematische vastgoeddocumentaire met professionele vertelling.
-```
-
-### No. 3: Fisheye paardenkomedie
-
-- **Category:** `Audio en stemsynthese`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `nl`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/26d450cd-23c4-499e-9fd6-1752dabbc8bd.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/26d450cd-23c4-499e-9fd6-1752dabbc8bd.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/33)
-
-#### Description
-
-Dierlijk personage met gesynchroniseerde dialoog en geluidseffecten via fisheye-lens.
-
-#### Prompt
-
-```text
-Genereer een videoscène: Dierlijk personage met gesynchroniseerde dialoog en geluidseffecten via fisheye-lens.
-```
-
-### No. 4: Multiculturele familieviering
-
-- **Category:** `Audio en stemsynthese`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `nl`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/ac11aa46-e846-4167-af87-53f0be98df9e.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/ac11aa46-e846-4167-af87-53f0be98df9e.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/38)
-
-#### Description
-
-Hartverwarmende familiescène met Engelse dialoog en Latijnse muziek.
-
-#### Prompt
-
-```text
-Genereer een videoscène: Hartverwarmende familiescène met Engelse dialoog en Latijnse muziek.
-```
-
-### No. 5: Ochtend wakker-worden dialoog
-
-- **Category:** `Audio en stemsynthese`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `nl`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/7744c998-76b7-436f-9066-6d4ef5f0ce7f.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/7744c998-76b7-436f-9066-6d4ef5f0ce7f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/40)
-
-#### Description
-
-Intieme koppelscène met natuurlijke voice-acting en emotionele nuance.
-
-#### Prompt
-
-```text
-Genereer een videoscène: Intieme koppelscène met natuurlijke voice-acting en emotionele nuance.
-```
-
-### No. 6: Tactisch team Spaanse briefing
-
-- **Category:** `Audio en stemsynthese`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `nl`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/cda3c348-80c8-445b-8d85-d1eefe36e0b2.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/cda3c348-80c8-445b-8d85-d1eefe36e0b2.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/39)
-
-#### Description
-
-Militaire tactische scène met Spaanse dialoog en equipmentgeluiden.
-
-#### Prompt
-
-```text
-Genereer een videoscène: Militaire tactische scène met Spaanse dialoog en equipmentgeluiden.
-```
-
-### No. 7: Chinese opera-uitvoering
-
-- **Category:** `Audio en stemsynthese`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `nl`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/6f6ea681-2e7b-4e35-9126-a72d2046bc1f.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/6f6ea681-2e7b-4e35-9126-a72d2046bc1f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/36)
-
-#### Description
-
-Traditionele Henan-opera met authentieke zang en dramatische spanning.
-
-#### Prompt
-
-```text
-Genereer een videoscène: Traditionele Henan-opera met authentieke zang en dramatische spanning.
-```
-
-### No. 8: Sichuan-dialect bubble tea
-
-- **Category:** `Audio en stemsynthese`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `nl`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/4f4d9b27-1962-494e-b1fa-5191ede1b500.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/4f4d9b27-1962-494e-b1fa-5191ede1b500.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/41)
-
-#### Description
-
-Komediescène met authentiek Sichuan-dialect en karakterinteractie.
-
-#### Prompt
-
-```text
-Genereer een videoscène: Komediescène met authentiek Sichuan-dialect en karakterinteractie.
-```
-
-### No. 9: Journey to the West vertelling
-
-- **Category:** `Audio en stemsynthese`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `nl`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/14269628-c801-4b26-b400-38b2c7d2d97a.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/14269628-c801-4b26-b400-38b2c7d2d97a.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/42)
-
-#### Description
-
-Educatieve content met documentaire-stijl voice-over over klassieke Chinese literatuur.
-
-#### Prompt
-
-```text
-Genereer een videoscène: Educatieve content met documentaire-stijl voice-over over klassieke Chinese literatuur.
-```
-
-### No. 10: Cinematische roadtrip MV
-
-- **Category:** `Audio en stemsynthese`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `nl`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/f9f34a78-6001-4013-8e9a-a413ca727f00.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/f9f34a78-6001-4013-8e9a-a413ca727f00.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/37)
-
-#### Description
-
-Muziekvideo met specifieke cinematografische keywords en atmosferische audio.
-
-#### Prompt
-
-```text
-Genereer een videoscène: Muziekvideo met specifieke cinematografische keywords en atmosferische audio.
-```
-
-<a id="category-11"></a>
-
-### Geavanceerde camerabewegingen (13)
-
-### No. 1: IMAX-Style Desert Sandstorm Scene with Denis Villeneuve Aesthetic
-
-- **Category:** `Geavanceerde camerabewegingen`
-- **Source:** `twitter`
-- **Author:** John (@johnAGI168)
-- **Language:** `nl`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/c3e4c06f-da7d-4127-ad68-7ed1656e2472.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/c3e4c06f-da7d-4127-ad68-7ed1656e2472.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/johnAGI168/status/2020989515939148146)
-
-#### Description
-
-IMAX-style desert sandstorm scene with Denis Villeneuve aesthetic. Features timestamped multi-shot structure.
-
-#### Prompt
-
-```text
-Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low saturation. Multi-shot structure. Extreme wide shot: a colossal sand wall consumes the horizon while an armored convoy races across open desert. Emphasize terrifying scale and human fragility. Cockpit POV: violent vibration inside the lead vehicle, sand blasting the windshield, red warning lights pulsing, urgent shouted commands. Climax in slow motion: lead rover launches off a dune, silhouetted against a dark storm front; lightning flickers inside the dust cloud; debris streaks past lens; hard cut to black on impact. Keep transitions clean and escalation continuous.
-```
-
-### No. 2: South Indian Cinema Alien Scene Generated from Single Prompt
-
-- **Category:** `Geavanceerde camerabewegingen`
-- **Source:** `twitter`
-- **Author:** rohan anil (@_arohan_)
-- **Language:** `nl`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/068af607-5e54-4331-9c25-3afc190d1a53.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/068af607-5e54-4331-9c25-3afc190d1a53.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/_arohan_/status/2021369768004161783)
-
-#### Description
-
-South Indian cinema alien scene generated from a single prompt. Demonstrates cross-cultural filmmaking capabilities.
-
-#### Prompt
-
-```text
-Create a South Indian commercial-cinema style alien invasion action scene. Visuals should feature saturated colors, dramatic backlight, stylized slow motion, and heroic framing. Open with a large-scale city plaza reveal as alien craft descend, then cut to low-angle hero entrance with wind-swept costume details. Move into multi-angle confrontation: wides for scale, mediums for combo choreography, close-ups for emotional intensity and impact peaks. Blend dust, sparks, smoke, and lens flares for high-energy theatrical presentation while keeping motion readable.
-```
-
-### No. 3: Aerial Shot of Burning Military Vehicle in Urban Warfare
-
-- **Category:** `Geavanceerde camerabewegingen`
-- **Source:** `twitter`
-- **Author:** Carlos Santana (@DotCSV)
-- **Language:** `nl`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/81bd1286-8024-4a62-a77a-0873d8137ae6.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/81bd1286-8024-4a62-a77a-0873d8137ae6.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/DotCSV/status/2020519499082969142)
-
-#### Description
-
-Cinematic drone footage capturing the aftermath of urban battle. Showcases Seedance 2.0's ability to generate realistic war scenes with detailed destruction effects and atmospheric rendering.
-
-#### Prompt
-
-```text
-A cinematic drone sequence over a war-torn city intersection. At the center, a destroyed armored vehicle burns continuously, emitting thick black smoke that climbs into an overcast sky. Streets are littered with rubble, twisted metal, and shattered concrete; nearby buildings show blown-out windows, scorched facades, and structural damage. Start with a high establishing aerial shot, then descend slowly into a medium-high orbit while preserving spatial scale and destruction detail. Keep color grading desaturated with documentary realism, add subtle film grain, and ensure physically believable fire, smoke turbulence, heat distortion, and airborne dust.
-```
-
-### No. 4: Epische fantasystrijd
-
-- **Category:** `Geavanceerde camerabewegingen`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `nl`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/a15ec27b-9b38-407d-aa7a-460c9ed17e7f.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/a15ec27b-9b38-407d-aa7a-460c9ed17e7f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/16)
-
-#### Description
-
-Cinematische gevechtsscène met orbitale camera en partikeleffecten.
-
-#### Prompt
-
-```text
-Genereer een videoscène: Cinematische gevechtsscène met orbitale camera en partikeleffecten.
-```
-
-### No. 5: Automotive cinematografiecommercial
-
-- **Category:** `Geavanceerde camerabewegingen`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `nl`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d1fe2d82-6f01-4e04-a732-a949028a09d3.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d1fe2d82-6f01-4e04-a732-a949028a09d3.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/17)
-
-#### Description
-
-Professionele autoreclame met dynamische camerabeweging en scèneovergangen.
-
-#### Prompt
-
-```text
-Genereer een videoscène: Professionele autoreclame met dynamische camerabeweging en scèneovergangen.
-```
-
-### No. 6: Roterende tabletshowcase
-
-- **Category:** `Geavanceerde camerabewegingen`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `nl`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/2f9e5701-3cbe-4855-84a8-3ba0cd72b329.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/2f9e5701-3cbe-4855-84a8-3ba0cd72b329.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/13)
-
-#### Description
-
-Productpresentatie met roterende camera en omgevingsverandering.
-
-#### Prompt
-
-```text
-Genereer een videoscène: Productpresentatie met roterende camera en omgevingsverandering.
-```
-
-### No. 7: Complexe gangachtervolging
-
-- **Category:** `Geavanceerde camerabewegingen`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `nl`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c1288035-fc08-4465-bee0-a1857f94c7c1.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/c1288035-fc08-4465-bee0-a1857f94c7c1.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/12)
-
-#### Description
-
-Multi-angle tracking-shot met snelle camerawissels en perspectiefsprongen.
-
-#### Prompt
-
-```text
-Genereer een videoscène: Multi-angle tracking-shot met snelle camerawissels en perspectiefsprongen.
-```
-
-### No. 8: Vechtkunst-gevechtsscène
-
-- **Category:** `Geavanceerde camerabewegingen`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `nl`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/e62ddd7b-da6a-4b26-be8a-aba6e74dd854.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/e62ddd7b-da6a-4b26-be8a-aba6e74dd854.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/15)
-
-#### Description
-
-Actiechoreografie met meerdere personages en wapens in een dynamische omgeving.
-
-#### Prompt
-
-```text
-Genereer een videoscène: Actiechoreografie met meerdere personages en wapens in een dynamische omgeving.
-```
-
-### No. 9: Hitchcock-zoom in lift
-
-- **Category:** `Geavanceerde camerabewegingen`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `nl`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/4be02035-a101-4c2c-bb20-c2fe59771de9.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/4be02035-a101-4c2c-bb20-c2fe59771de9.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/11)
-
-#### Description
-
-Klassiek Hitchcock-vertigo-effect gecombineerd met complexe camerabeweging in een krappe ruimte.
-
-#### Prompt
-
-```text
-Genereer een videoscène: Klassiek Hitchcock-vertigo-effect gecombineerd met complexe camerabeweging in een krappe ruimte.
-```
-
-### No. 10: Ritmische push-pull dansshot
-
-- **Category:** `Geavanceerde camerabewegingen`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `nl`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/33ffc8e5-255c-46b2-8877-ad8a9100f6d4.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/33ffc8e5-255c-46b2-8877-ad8a9100f6d4.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/14)
-
-#### Description
-
-Gesynchroniseerde push-pull camerabewegingen op het ritme van de choreografie.
-
-#### Prompt
-
-```text
-Genereer een videoscène: Gesynchroniseerde push-pull camerabewegingen op het ritme van de choreografie.
-```
-
-### No. 11: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure
-
-- **Category:** `Geavanceerde camerabewegingen`
-- **Source:** `twitter`
-- **Author:** Min Choi (@minchoi)
-- **Language:** `nl`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/52680ae8-705d-4b26-9d49-1b573ab4f56f.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/52680ae8-705d-4b26-9d49-1b573ab4f56f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/minchoi/status/2020878278475518152)
-
-#### Description
-
-Generate a 1-minute cinematic war video in 5 minutes with a multi-shot structure. Realistic Middle Eastern desert village infantry combat scene.
-
-#### Prompt
-
-```text
-Consistent style guideline for all shots: realistic cinematic war footage in a modern Middle Eastern desert village; dominant sandy yellow and gray-brown palette; harsh noon sunlight with hard shadows; drifting dust and gunpowder smoke; subtle handheld vibration; low-angle and ground-level framing to maximize tension and realism; modern light infantry gear without visible national identifiers; restrained, tense, and brutal atmosphere. Shot 1 : A modern infantry squad advances through narrow alleys between low adobe houses and damaged concrete walls. The camera tracks from behind at knee level, pushing forward as soldiers hug the walls and aim toward an unseen corner. Wind, distant metal clinks, and suspended dust establish dread. Shot 2 : A sudden close-quarters firefight erupts at the alley corner. Soldiers drop and press against the wall as rounds impact masonry, kicking up debris. Fast lateral camera pan with controlled shake, intermittent muzzle flashes, and silhouettes in broken windows increase claustrophobia and urgency. Shot 3 : The squad regains formation and enters a half-collapsed building. Over-shoulder follow shot into dim interior where shafts of sunlight cut through breached walls. Dust particles float in the beams; hand signals replace speech; distant gunfire echoes. Tone shifts from chaos to hyper-alert silence. Shot 4 : From a damaged rooftop, the squad secures a high vantage point over the village grid. Slow pullback in backlight, soldiers in silhouette with rifles still trained on unknown threats. Dust swirls in warm light; no clear victory or defeat. End on unresolved tension.
-```
-
-### No. 12: Ground Combat Shot of Soldiers Traversing Desert Terrain
-
-- **Category:** `Geavanceerde camerabewegingen`
-- **Source:** `twitter`
-- **Author:** Chetaslua (@chetaslua)
-- **Language:** `nl`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/0d332613-93bc-4d5e-b4f8-6cacc05871ef.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/0d332613-93bc-4d5e-b4f8-6cacc05871ef.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/chetaslua)
-
-#### Description
-
-Tense first-person perspective of military squad advancing. Showcases realistic tactical movement and environmental details.
-
-#### Prompt
-
-```text
-Ground-level war footage with documentary realism: a soldier squad advances through a desert combat zone. Keep camera low and close to boots, gear sway, weapon details, and formation changes while moving over loose sand and debris. Harsh sunlight, visible heat haze, suspended dust, and distant intermittent gunfire should shape the atmosphere. Use controlled handheld movement with shallow depth of field, foreground clarity, and slight background softening. Color palette stays sandy beige and muted brown, emphasizing tactical discipline and persistent tension.
-```
-
-### No. 13: Multi-Shot Fight Scene Generated with Only 3 Reference Images and Simple Prompt
-
-- **Category:** `Geavanceerde camerabewegingen`
-- **Source:** `twitter`
-- **Author:** el.cine (@EHuanglu)
-- **Language:** `nl`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e287a176-2ba0-4f64-ad86-ed779cd3d8d3.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e287a176-2ba0-4f64-ad86-ed779cd3d8d3.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/EHuanglu/status/2020828503810445785)
-
-#### Description
-
-Intense martial arts fight between two women in modern urban environment.
-
-#### Prompt
-
-```text
-A grounded martial arts duel between two women in a modern urban night setting. Build with clear shot variation: wide shot to establish spacing and intent, medium tracking shots for exchange tempo, close-up inserts for impact, breathing, and footwork. Include low-angle circling moves, over-shoulder counters, and quick lateral camera motions to preserve directional clarity. Movements must follow realistic weight transfer, momentum, and recovery. Use practical street lighting, neon reflections, slight wet pavement sheen, and gritty cinematic texture.
-```
-
-<a id="category-12"></a>
-
-### Videobewerking en remix (5)
-
-### No. 1: Zakelijke ernst naar snackdeal
-
-- **Category:** `Videobewerking en remix`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `nl`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/f11c41ac-ee4b-4f37-b569-d6a4725866b3.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/f11c41ac-ee4b-4f37-b569-d6a4725866b3.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/49)
-
-#### Description
-
-Transformeer een gespannen businessmeeting in een komische snackadvertentie.
-
-#### Prompt
-
-```text
-Genereer een videoscène: Transformeer een gespannen businessmeeting in een komische snackadvertentie.
-```
-
-### No. 2: Fried chicken merkintegratie
-
-- **Category:** `Videobewerking en remix`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `nl`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/af84d3d1-5659-49bd-a7a8-c2db96918415.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/af84d3d1-5659-49bd-a7a8-c2db96918415.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/52)
-
-#### Description
-
-Voeg merkverpakking toe aan een bestaande restaurantscène.
-
-#### Prompt
-
-```text
-Genereer een videoscène: Voeg merkverpakking toe aan een bestaande restaurantscène.
-```
-
-### No. 3: Titanic donkere twist
-
-- **Category:** `Videobewerking en remix`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `nl`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/19cb9c31-9a1e-4c2e-ae17-b03f6a88c20b.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/19cb9c31-9a1e-4c2e-ae17-b03f6a88c20b.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/48)
-
-#### Description
-
-Keer een romantische scène om naar een thriller vol verraad.
-
-#### Prompt
-
-```text
-Genereer een videoscène: Keer een romantische scène om naar een thriller vol verraad.
-```
-
-### No. 4: Bandzanger gender swap
-
-- **Category:** `Videobewerking en remix`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `nl`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d3c9e15c-37fa-4603-b5a7-7577a9652d2d.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d3c9e15c-37fa-4603-b5a7-7577a9652d2d.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/50)
-
-#### Description
-
-Vervang de vrouwelijke leadzanger door een man terwijl alle bewegingen behouden blijven.
-
-#### Prompt
-
-```text
-Genereer een videoscène: Vervang de vrouwelijke leadzanger door een man terwijl alle bewegingen behouden blijven.
-```
-
-### No. 5: Haai photobomb
-
-- **Category:** `Videobewerking en remix`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `nl`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/06a8c86e-1b58-4088-8caa-25202eec77aa.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/06a8c86e-1b58-4088-8caa-25202eec77aa.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/51)
-
-#### Description
-
-Voeg een dreigend element toe aan een rustige scène.
-
-#### Prompt
-
-```text
-Genereer een videoscène: Voeg een dreigend element toe aan een rustige scène.
-```
-
-<a id="category-13"></a>
-
-### Consistentie van personage en scène (6)
-
-### No. 1: Operapodium-transformatie
-
-- **Category:** `Consistentie van personage en scène`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `nl`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/fffd7fd2-9752-4226-bd04-84101f206938.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/fffd7fd2-9752-4226-bd04-84101f206938.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/6)
-
-#### Description
-
-Karaktervervanging terwijl camerabewegingen en overgangseffecten uit de referentievideo behouden blijven.
-
-#### Prompt
-
-```text
-Genereer een videoscène: Karaktervervanging terwijl camerabewegingen en overgangseffecten uit de referentievideo behouden blijven.
-```
-
-### No. 2: Horrorverkenning in first-person
-
-- **Category:** `Consistentie van personage en scène`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `nl`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c4802cca-4ef9-4ba9-b8cc-ed5bdecb88e6.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/c4802cca-4ef9-4ba9-b8cc-ed5bdecb88e6.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/10)
-
-#### Description
-
-First-person perspectief met consistente scène-opbouw over meerdere omgevingen.
-
-#### Prompt
-
-```text
-Genereer een videoscène: First-person perspectief met consistente scène-opbouw over meerdere omgevingen.
-```
-
-### No. 3: Naadloze one-take overgang
-
-- **Category:** `Consistentie van personage en scène`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `nl`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/27a03978-e3c0-4750-9b0d-c1a802db8af6.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/27a03978-e3c0-4750-9b0d-c1a802db8af6.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/7)
-
-#### Description
-
-Complexe one-take met meerdere scènewisselingen, met continue visuele coherentie.
-
-#### Prompt
-
-```text
-Genereer een videoscène: Complexe one-take met meerdere scènewisselingen, met continue visuele coherentie.
-```
-
-### No. 4: Luxueuze handtascommercial
-
-- **Category:** `Consistentie van personage en scène`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `nl`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d62bd403-fcd1-4abd-8f23-c57063660ed0.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d62bd403-fcd1-4abd-8f23-c57063660ed0.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/9)
-
-#### Description
-
-Productpresentatie met consistente detailweergave over meerdere referentiebeelden.
-
-#### Prompt
-
-```text
-Genereer een videoscène: Productpresentatie met consistente detailweergave over meerdere referentiebeelden.
-```
-
-### No. 5: Thuiskomst na het werk
-
-- **Category:** `Consistentie van personage en scène`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `nl`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d66a205c-4470-4d71-9122-2d0bf0694c9c.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d66a205c-4470-4d71-9122-2d0bf0694c9c.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/5)
-
-#### Description
-
-Een doorlopende verhaallijn die karakterconsistentie bewaart van kantoorgang tot thuis, inclusief emotionele overgang en gezinsinteractie.
-
-#### Prompt
-
-```text
-Genereer een videoscène: Een doorlopende verhaallijn die karakterconsistentie bewaart van kantoorgang tot thuis, inclusief emotionele overgang en gezinsinteractie.
-```
-
-### No. 6: Magnetic Bow productshowcase
-
-- **Category:** `Consistentie van personage en scène`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `nl`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/74458d90-1c7a-487c-acc2-454558810520.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/74458d90-1c7a-487c-acc2-454558810520.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/8)
-
-#### Description
-
-Koreaanse productadvertentie met merkconsistentie en demonstratie in meerdere scènes.
-
-#### Prompt
-
-```text
-Genereer een videoscène: Koreaanse productadvertentie met merkconsistentie en demonstratie in meerdere scènes.
-```
-
-<a id="category-14"></a>
-
-### Creatieve visuele effecten (11)
-
-### No. 1: Magische transformatiesequentie
-
-- **Category:** `Creatieve visuele effecten`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `nl`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/af14ed46-358b-4202-a6d5-07cfcbcdff10.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/af14ed46-358b-4202-a6d5-07cfcbcdff10.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/22)
-
-#### Description
-
-Karaktertransformatie met organische groei en oplossende partikeleffecten.
-
-#### Prompt
-
-```text
-Genereer een videoscène: Karaktertransformatie met organische groei en oplossende partikeleffecten.
-```
-
-### No. 2: Otter Entering Giant Mecha Animation Scene with Detailed Mechanical Shots
-
-- **Category:** `Creatieve visuele effecten`
-- **Source:** `twitter`
-- **Author:** Andrey Kurenkov (@andrey_kurenkov)
-- **Language:** `nl`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/8bc7ca8d-7344-4be7-ae6d-cd2701702b77.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/8bc7ca8d-7344-4be7-ae6d-cd2701702b77.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/andrey_kurenkov/status/2021435749401514131)
-
-#### Description
-
-Otter entering giant mecha animation scene with detailed mechanical shots. Demonstrates creative storytelling capabilities.
-
-#### Prompt
-
-```text
-Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant combat mech. Shot 1: wide hangar reveal with backlit mech silhouette, steam, and warning beacons. Shot 2: mechanical montage of gears rotating, hydraulics extending, power lines activating, and cockpit hatch unlocking. Shot 3: otter climbs into the cockpit, with close-ups on focused eyes and control gestures. Shot 4: hatch seals, HUD lights up, mech visor ignites, and otter gives a confident thumbs-up. Emphasize dense mechanical detail, coherent machine motion logic, and cinematic anime pacing.
-```
-
-### No. 3: Donsjas-zwaanmetafoor
-
-- **Category:** `Creatieve visuele effecten`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `nl`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d35cad32-b340-4394-b98d-8934aa6a1fc8.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d35cad32-b340-4394-b98d-8934aa6a1fc8.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/20)
-
-#### Description
-
-Creatieve commercial die product en natuurlijke beeldtaal combineert met Chinese voice-over.
-
-#### Prompt
-
-```text
-Genereer een videoscène: Creatieve commercial die product en natuurlijke beeldtaal combineert met Chinese voice-over.
-```
-
-### No. 4: Will Smith Eating Spaghetti
-
-- **Category:** `Creatieve visuele effecten`
-- **Source:** `twitter`
-- **Author:** levelsio (@levelsio)
-- **Language:** `nl`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/eee95836-ac7d-4510-97f5-f6b1f2743aae.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/eee95836-ac7d-4510-97f5-f6b1f2743aae.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/levelsio/status/2021403820702552331)
-
-#### Description
-
-Will Smith eating spaghetti in a modern home kitchen.
-
-#### Prompt
-
-```text
-Photorealistic medium close shot of Will Smith eating spaghetti at a white kitchen island in a modern home kitchen. Background includes a centered stainless-steel refrigerator, white cabinets, and small countertop appliances, with natural daylight from a side window. He faces the camera in a plain black T-shirt, twirls and eats spaghetti naturally. Keep the camera mostly static with a subtle push-in. Preserve realistic hand motion, facial expression, food texture, and clean 24fps cinematic realism; avoid exaggerated deformation.
-```
-
-### No. 5: One Punch Man Animation Surpassing Original Quality
-
-- **Category:** `Creatieve visuele effecten`
-- **Source:** `twitter`
-- **Author:** Chetaslua (@chetaslua)
-- **Language:** `nl`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/fada7cb9-0f74-43fc-ba6a-b98be8be7c16.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/fada7cb9-0f74-43fc-ba6a-b98be8be7c16.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/chetaslua)
-
-#### Description
-
-One Punch Man animation surpassing original quality. Demonstrates Seedance 2.0's animation production capabilities.
-
-#### Prompt
-
-```text
-Produce a premium anime battle sequence inspired by One Punch Man energy and staging. Require fluid high-frame animation, strong speed lines, impact frames, dramatic lens pulls, and explosive effect timing. Use progression: wide battlefield setup, mid-range combat exchanges, close-up finishing blow, then debris and dust settle. Background destruction should include cracking structures, flying fragments, smoke layers, and shockwave distortion. Character silhouettes remain crisp through motion blur, with strong light-shadow separation and theatrical composition.
-```
-
-### No. 6: VR-bril universumreis
-
-- **Category:** `Creatieve visuele effecten`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `nl`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/dddb1fb2-d73a-4b6a-a2bf-bf416be652c6.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/dddb1fb2-d73a-4b6a-a2bf-bf416be652c6.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/18)
-
-#### Description
-
-Immersieve POV-overgang van de echte wereld via VR-interface naar meerdere digitale werelden.
-
-#### Prompt
-
-```text
-Genereer een videoscène: Immersieve POV-overgang van de echte wereld via VR-interface naar meerdere digitale werelden.
-```
-
-### No. 7: Abstracte instant noodles
-
-- **Category:** `Creatieve visuele effecten`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `nl`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/2665a1ba-4ae8-474e-ba72-a2bf94326054.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/2665a1ba-4ae8-474e-ba72-a2bf94326054.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/25)
-
-#### Description
-
-Surrealistische interpretatie van een alledaagse handeling met overdreven expressie.
-
-#### Prompt
-
-```text
-Genereer een videoscène: Surrealistische interpretatie van een alledaagse handeling met overdreven expressie.
-```
-
-### No. 8: Modecommercial met snelle outfitwissel
-
-- **Category:** `Creatieve visuele effecten`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `nl`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/781e9493-6578-4aba-9d21-44aff3a7d555.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/781e9493-6578-4aba-9d21-44aff3a7d555.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/19)
-
-#### Description
-
-Snelle modevideo met fisheye-effecten en glitchtransities.
-
-#### Prompt
-
-```text
-Genereer een videoscène: Snelle modevideo met fisheye-effecten en glitchtransities.
-```
-
-### No. 9: Puzzelstuk transition logo
-
-- **Category:** `Creatieve visuele effecten`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `nl`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d8aab6d9-e006-4012-aa41-55ad02a41572.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d8aab6d9-e006-4012-aa41-55ad02a41572.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/23)
-
-#### Description
-
-Dynamische logo-onthulling met puzzelfragmentatie-effect.
-
-#### Prompt
-
-```text
-Genereer een videoscène: Dynamische logo-onthulling met puzzelfragmentatie-effect.
-```
-
-### No. 10: Gouden partikel titlereveal
-
-- **Category:** `Creatieve visuele effecten`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `nl`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/3854856c-478d-40f1-8534-cb240e6a1706.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/3854856c-478d-40f1-8534-cb240e6a1706.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/24)
-
-#### Description
-
-Cinematische titelsequentie met vloeiende gouden deeltjes.
-
-#### Prompt
-
-```text
-Genereer een videoscène: Cinematische titelsequentie met vloeiende gouden deeltjes.
-```
-
-### No. 11: Inktwassing Tai Chi
-
-- **Category:** `Creatieve visuele effecten`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `nl`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/210c571d-e67f-4bbc-819b-f91bd8925c7b.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/210c571d-e67f-4bbc-819b-f91bd8925c7b.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/21)
-
-#### Description
-
-Traditionele Chinese inktstijl gecombineerd met een martial arts performance.
-
-#### Prompt
-
-```text
-Genereer een videoscène: Traditionele Chinese inktstijl gecombineerd met een martial arts performance.
-```
-
-<a id="category-15"></a>
-
-### Ultra-realistische videogeneratie (5)
-
-### No. 1: Achtervolgingsscène met obstakels
-
-- **Category:** `Ultra-realistische videogeneratie`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `nl`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/97438ef1-9ee8-4b6f-b064-05e1a0216c33.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/97438ef1-9ee8-4b6f-b064-05e1a0216c33.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/4)
-
-#### Description
-
-Een intense achtervolging met realistische botsingsfysica en paniek in de menigte.
-
-#### Prompt
-
-```text
-Genereer een videoscène: Een intense achtervolging met realistische botsingsfysica en paniek in de menigte.
-```
-
-### No. 2: Victoriaanse straatscène
-
-- **Category:** `Ultra-realistische videogeneratie`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `nl`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/b0409f93-9857-4465-9a2d-50a30937a9db.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/b0409f93-9857-4465-9a2d-50a30937a9db.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/3)
-
-#### Description
-
-Een kostuumdrama in 19e-eeuws Londen met authentieke omgevingsdetails en geloofwaardige karakterreacties.
-
-#### Prompt
-
-```text
-Genereer een videoscène: Een kostuumdrama in 19e-eeuws Londen met authentieke omgevingsdetails en geloofwaardige karakterreacties.
-```
-
-### No. 3: Will Smith Eating Spaghetti
-
-- **Category:** `Ultra-realistische videogeneratie`
-- **Source:** `twitter`
-- **Author:** levelsio (@levelsio)
-- **Language:** `nl`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e55ed973-0bcf-4d50-8b5d-3a831e7e9d68.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e55ed973-0bcf-4d50-8b5d-3a831e7e9d68.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/levelsio/status/2021403820702552331)
-
-#### Description
-
-Will Smith eating spaghetti in a modern home kitchen.
-
-#### Prompt
-
-```text
-Photorealistic medium close shot of Will Smith eating spaghetti at a white kitchen island in a modern home kitchen. Background includes a centered stainless-steel refrigerator, white cabinets, and small countertop appliances, with natural daylight from a side window. He faces the camera in a plain black T-shirt, twirls and eats spaghetti naturally. Keep the camera mostly static with a subtle push-in. Preserve realistic hand motion, facial expression, food texture, and clean 24fps cinematic realism; avoid exaggerated deformation.
-```
-
-### No. 4: Interactief schilderijpersonage
-
-- **Category:** `Ultra-realistische videogeneratie`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `nl`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d6e3a17d-f4a7-49e3-850c-2cfc68b4a6a4.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d6e3a17d-f4a7-49e3-850c-2cfc68b4a6a4.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/2)
-
-#### Description
-
-Een personage uit een schilderij komt tot leven en drinkt stiekem cola wanneer niemand kijkt, wat een humoristische reclamescène oplevert.
-
-#### Prompt
-
-```text
-Genereer een videoscène: Een personage uit een schilderij komt tot leven en drinkt stiekem cola wanneer niemand kijkt, wat een humoristische reclamescène oplevert.
-```
-
-### No. 5: Elegante wasscène
-
-- **Category:** `Ultra-realistische videogeneratie`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `nl`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/b6b7f78a-f9a7-4c09-a3ac-6f0f694b1263.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/b6b7f78a-f9a7-4c09-a3ac-6f0f694b1263.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/1)
-
-#### Description
-
-Een vrouw hangt elegant de was op, pakt nog een kledingstuk uit de mand en schudt het met natuurlijke beweging uit.
-
-#### Prompt
-
-```text
-Genereer een videoscène: Een vrouw hangt elegant de was op, pakt nog een kledingstuk uit de mand en schudt het met natuurlijke beweging uit.
-```
-
-<a id="category-16"></a>
-
-### Emotionele performance (3)
-
-### No. 1: Dramatische brul close-up
-
-- **Category:** `Emotionele performance`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `nl`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/1b870eee-b748-48a7-84b6-cd56e0c925f9.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/1b870eee-b748-48a7-84b6-cd56e0c925f9.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/59)
-
-#### Description
-
-Komedisch dramatische performance met overdreven expressie.
-
-#### Prompt
-
-```text
-Genereer een videoscène: Komedisch dramatische performance met overdreven expressie.
-```
-
-### No. 2: Kookcontrast komedie
-
-- **Category:** `Emotionele performance`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `nl`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/a9a3d3ad-2aec-4a14-8bb5-2ca7736e09ae.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/a9a3d3ad-2aec-4a14-8bb5-2ca7736e09ae.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/58)
-
-#### Description
-
-Komedisch contrast tussen rustig en chaotisch koken.
-
-#### Prompt
-
-```text
-Genereer een videoscène: Komedisch contrast tussen rustig en chaotisch koken.
-```
-
-### No. 3: Spiegel-instorting
-
-- **Category:** `Emotionele performance`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `nl`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/095be254-151d-4149-b50a-ad054c154758.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/095be254-151d-4149-b50a-ad054c154758.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/57)
-
-#### Description
-
-Psychologische instortingsscène met oplopende emotie.
-
-#### Prompt
-
-```text
-Genereer een videoscène: Psychologische instortingsscène met oplopende emotie.
-```
-
-<a id="category-17"></a>
-
-### Verhaalontwikkeling en uitbreiding (8)
-
-### No. 1: Fitnessmotivatie-advertentie
-
-- **Category:** `Verhaalontwikkeling en uitbreiding`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `nl`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/65689cf8-c5c9-4624-9136-adac7bc3cc10.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/65689cf8-c5c9-4624-9136-adac7bc3cc10.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/30)
-
-#### Description
-
-Verleng de video met een dynamische fitnesssequentie en motiverende boodschap.
-
-#### Prompt
-
-```text
-Genereer een videoscène: Verleng de video met een dynamische fitnesssequentie en motiverende boodschap.
-```
-
-### No. 2: Emotionele reisvideo
-
-- **Category:** `Verhaalontwikkeling en uitbreiding`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `nl`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/0ae0f676-8f49-4b97-88d2-4afaaa5e5424.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/0ae0f676-8f49-4b97-88d2-4afaaa5e5424.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/28)
-
-#### Description
-
-Maak een sfeergedreven video geïnspireerd op meerdere beelden en audio.
-
-#### Prompt
-
-```text
-Genereer een videoscène: Maak een sfeergedreven video geïnspireerd op meerdere beelden en audio.
-```
-
-### No. 3: Koffie ochtendcampagne
-
-- **Category:** `Verhaalontwikkeling en uitbreiding`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `nl`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/94fc9706-187d-4667-a8e4-62692cb256dd.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/94fc9706-187d-4667-a8e4-62692cb256dd.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/31)
-
-#### Description
-
-Verleng de koffiecommercial met sfeerverlichting en tekstonthulling.
-
-#### Prompt
-
-```text
-Genereer een videoscène: Verleng de koffiecommercial met sfeerverlichting en tekstonthulling.
-```
-
-### No. 4: Ezelscooter stuntadvertentie
-
-- **Category:** `Verhaalontwikkeling en uitbreiding`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `nl`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/67c79521-0cb4-498f-bd74-e0ed9aab81e8.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/67c79521-0cb4-498f-bd74-e0ed9aab81e8.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/29)
-
-#### Description
-
-Verleng de video met een surrealistische productadvertentie met dierlijk personage.
-
-#### Prompt
-
-```text
-Genereer een videoscène: Verleng de video met een surrealistische productadvertentie met dierlijk personage.
-```
-
-### No. 5: Geanimeerde stripkaders
-
-- **Category:** `Verhaalontwikkeling en uitbreiding`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `nl`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c939610e-a182-40ad-89a5-254c1515ac24.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/c939610e-a182-40ad-89a5-254c1515ac24.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/26)
-
-#### Description
-
-Zet statische stripkaders om naar een geanimeerde sequentie met geluidseffecten.
-
-#### Prompt
-
-```text
-Genereer een videoscène: Zet statische stripkaders om naar een geanimeerde sequentie met geluidseffecten.
-```
-
-### No. 6: Zonnebloem skateboardverhaal
-
-- **Category:** `Verhaalontwikkeling en uitbreiding`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `nl`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/30e27ffa-53bc-4655-b405-d017c699ed87.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/30e27ffa-53bc-4655-b405-d017c699ed87.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/32)
-
-#### Description
-
-Verleng de video met een warm slice-of-life verhaal in de namiddag.
-
-#### Prompt
-
-```text
-Genereer een videoscène: Verleng de video met een warm slice-of-life verhaal in de namiddag.
-```
-
-### No. 7: Quick Test of Female Controlling Plane in Complex Action Scene
-
-- **Category:** `Verhaalontwikkeling en uitbreiding`
-- **Source:** `twitter`
-- **Author:** Janek Mann (@janekm)
-- **Language:** `nl`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/dc27ff9d-d357-423c-88b8-65e4646c5659.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/dc27ff9d-d357-423c-88b8-65e4646c5659.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/janekm/status/2020388244802740728)
-
-#### Description
-
-Woman suddenly realizes pilot has disappeared and controls the plane in crisis.
-
-#### Prompt
-
-```text
-Create a high-pressure disaster-action sequence: during turbulent flight, a woman rushes toward the cockpit and discovers both pilots are gone. Shot 1: handheld tracking through a chaotic cabin with panicked passengers, swinging oxygen masks, and flashing emergency lights. Shot 2: cockpit close-up montage of shaking controls, warning indicators, and her focused expression as she takes command. Shot 3: exterior wide shot of the aircraft dipping through heavy clouds before recovery. Shot 4: back inside the cockpit, she stabilizes the plane with determined, precise movements. Keep pace fast, stakes clear, and editing tight.
-```
-
-### No. 8: Documentaire over jeug seizoenen
-
-- **Category:** `Verhaalontwikkeling en uitbreiding`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `nl`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/41aab229-bca0-4387-a4b1-08e88dde89a2.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/41aab229-bca0-4387-a4b1-08e88dde89a2.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/27)
-
-#### Description
-
-Maak een helende documentaire-intro op basis van storyboard.
-
-#### Prompt
-
-```text
-Genereer een videoscène: Maak een helende documentaire-intro op basis van storyboard.
-```
-
-<a id="category-18"></a>
-
-### Muzieksynchronisatie (4)
-
-### No. 1: Anime schaakgevecht storyboard
-
-- **Category:** `Muzieksynchronisatie`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `nl`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/efe4a014-a97b-4f4b-baa6-77d477b7024f.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/efe4a014-a97b-4f4b-baa6-77d477b7024f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/56)
-
-#### Description
-
-Storyboard-gedreven anime-sequentie met dramatische timing.
-
-#### Prompt
-
-```text
-Genereer een videoscène: Storyboard-gedreven anime-sequentie met dramatische timing.
-```
-
-### No. 2: Fashion beat drop
-
-- **Category:** `Muzieksynchronisatie`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `nl`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/5ae0578e-e6c8-4ff1-a03a-e19b5ac2f5c1.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/5ae0578e-e6c8-4ff1-a03a-e19b5ac2f5c1.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/53)
-
-#### Description
-
-Modetransformatie gesynchroniseerd op muziekbeats.
-
-#### Prompt
-
-```text
-Genereer een videoscène: Modetransformatie gesynchroniseerd op muziekbeats.
-```
-
-### No. 3: Dynamisch portret beatsync
-
-- **Category:** `Muzieksynchronisatie`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `nl`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/11a4251f-cb41-41b1-b6a7-8ac19d340956.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/11a4251f-cb41-41b1-b6a7-8ac19d340956.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/54)
-
-#### Description
-
-Karakterportretten verschijnen op muzikale keyframes met extra dynamiek.
-
-#### Prompt
-
-```text
-Genereer een videoscène: Karakterportretten verschijnen op muzikale keyframes met extra dynamiek.
-```
-
-### No. 4: Landschap transition muziekvideo
-
-- **Category:** `Muzieksynchronisatie`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `nl`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/6b0fbeb4-51df-4094-8252-d2dfb8631776.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/6b0fbeb4-51df-4094-8252-d2dfb8631776.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/55)
-
-#### Description
-
-Scèneovergangen in landschappen perfect getimed op het muziekritme.
-
-#### Prompt
-
-```text
-Genereer een videoscène: Scèneovergangen in landschappen perfect getimed op het muziekritme.
-```
-
-<a id="category-19"></a>
-
-### One-take cinematografie (5)
-
-### No. 1: Achtbaan POV
-
-- **Category:** `One-take cinematografie`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `nl`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/fabf98a8-432c-479a-bcd3-3736677190b2.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/fabf98a8-432c-479a-bcd3-3736677190b2.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/47)
-
-#### Description
-
-Spannende first-person achtbaanervaring met oplopende snelheid.
-
-#### Prompt
-
-```text
-Genereer een videoscène: Spannende first-person achtbaanervaring met oplopende snelheid.
-```
-
-### No. 2: Gezellige cabin theetijd
-
-- **Category:** `One-take cinematografie`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `nl`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d1d1c955-c271-44ba-bd3e-1537e33a2e29.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d1d1c955-c271-44ba-bd3e-1537e33a2e29.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/46)
-
-#### Description
-
-First-person one-take die een warme interieursetting binnenkomt.
-
-#### Prompt
-
-```text
-Genereer een videoscène: First-person one-take die een warme interieursetting binnenkomt.
-```
-
-### No. 3: Spionagethriller staart
-
-- **Category:** `One-take cinematografie`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `nl`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/873ead10-156a-4f5f-aafc-1a0a743c3ef7.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/873ead10-156a-4f5f-aafc-1a0a743c3ef7.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/45)
-
-#### Description
-
-Spannende one-take die een geheim agent door stedelijke omgeving volgt.
-
-#### Prompt
-
-```text
-Genereer een videoscène: Spannende one-take die een geheim agent door stedelijke omgeving volgt.
-```
-
-### No. 4: Ijsdroom bij vliegtuigraam
-
-- **Category:** `One-take cinematografie`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `nl`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/3421ca69-533f-4ef7-aef2-2aabad3d53fe.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/3421ca69-533f-4ef7-aef2-2aabad3d53fe.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/44)
-
-#### Description
-
-Surrealistische one-take van vliegtuigraam naar magische interactie.
-
-#### Prompt
-
-```text
-Genereer een videoscène: Surrealistische one-take van vliegtuigraam naar magische interactie.
-```
-
-### No. 5: Parkour achtervolgingssequentie
-
-- **Category:** `One-take cinematografie`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `nl`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c8b0a7bb-eae5-417f-bf63-e3a114a1364f.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/c8b0a7bb-eae5-417f-bf63-e3a114a1364f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/43)
-
-#### Description
-
-Dynamische one-take die een runner door meerdere omgevingen volgt.
-
-#### Prompt
-
-```text
-Genereer een videoscène: Dynamische one-take die een runner door meerdere omgevingen volgt.
+[De schrik van de dronken man op het dak — tuimelt over de rand — grijpt door het raam een touw — valt ter plekke flauw | zwarthumor-kortfilm | ongeveer 30 seconden] Premisse in één zin: een mollige, schattige, dronken man van middelbare leeftijd eet een burger en drinkt bier op het dak van een gebouw; terwijl hij opstaat en zich uitrekt verliest hij per ongeluk zijn evenwicht en valt, grijpt in zijn paniek een reddingstouw en knalt meteen door een raam een interieur in, is een seconde lang versuft en verbouwereerd, gaat dan gewoon liggen waar hij is en valt in een diepe slaap. Referentiebeeld @image1 — een mollige, schattige, dronken man van middelbare leeftijd: ronde, gedrongen bouw met een grote ronde bierbuik, klein van stuk, de bewegingen slap, traag en wankel van het drinken; rond gezicht, onderkin, door de drank blozende wangen en neus, tot spleetjes vernauwde ogen met een wazige blik, een onverzorgde krans van korte stoppels, warrig haar, een sullige, schattige, zorgeloze uitdrukking; hij draagt een wit onderhemd besmeurd met burgersaus dat losjes over zijn ronde buik hangt, een oude spijkerbroek, sloft voort op losse sloffen en klemt altijd een half opgegeten burger in zijn hand. Er is maar dit ene personage in de hele film, een 100% overeenkomst met het referentiebeeld. Algehele look: een nachtelijke cyberpunk-megastad, een dicht woud van wolkenkrabbers van glas en staal, neonreclames (cyaan / magenta / elektrisch blauw), holografische reclameborden, natte weerspiegelende grond, volumetrische mist, in de verte lichtsporen van vliegende auto's en drones. Echte live-actiontextuur, fysieke cinemalenzen, geen 3D-rendering / game-engine / anime-gevoel. De camera mengt handheld met kraan / drone; na de val duikt de camera met hem mee omlaag terwijl de buitenmuur van het gebouw en het neon naar boven strepen om snelheid over te brengen, 24-35mm breedbeeld-cinematische lenstextuur, 180-graden-sluiter-bewegingsonscherpte. Het sounddesign is de sleutel tot de zwarte komedie: herhaaldelijk hard snijden tussen "een enorm kabaal" en "volledige stilte". Doorlopend echte zwaartekracht. Storyboard (ongeveer 30 seconden): S1 (0-4s) opening, grote close-up van het kauwen (met geluid) het gezicht van de man vult het scherm, kauwt de burger met grote happen, een tevreden dronken toestand; S2 (4-9s) uittrekken naar een wide shot, uitrekken -> evenwicht verliezen en vallen (met geluid) hij komt wankel overeind en rekt zich groot uit, leunt achterover, kan zijn evenwicht niet houden, zijn voet glijdt weg en hij tuimelt achterover over de rand van het dak, zonder de burger ooit los te laten, met een panische "Eh——!"; S3 (9-12s) snede naar een geschrokken gezichtsclose-up (een luide schreeuw, enorm kabaal) de dronken ogen rond opengesperd, de onderkin samengeknepen, de mond wijd open in een schreeuwende "Ahh——!!", de wind loeit; S4 (12-16s) snede naar een verre opname op ooghoogte (volledige stilte) gezien vanaf het gebouw aan de overkant, een minuscuul wit figuurtje dat recht naar beneden stort van de wolkenkrabber, de neonstad weids en onverschillig, de volledige stilte vormt een zwarthumor-contrast met het enorme kabaal van een seconde eerder; S5 (16-21s) snede naar een gezichtsclose-up (schreeuwend) -> grijpt het touw, nog steeds schreeuwend, de handen maaiend in de lucht, grijpt hij plotseling een reddingskabel, de kabel schiet strak en buigt onder zijn gewicht met een zoevend geluid, de schreeuw breekt abrupt af terwijl hij met een ruk wordt tegengehouden en uitzwaait (een korte slow motion op het moment dat hij het touw grijpt); S6 (21-26s) snede naar een interieurhoek (stil) -> het glas versplintert -> hij knalt naar binnen, het interieur eerst stil met alleen het gezoem van de airconditioning, de volgende seconde barst het glas explosief naar binnen (een korte bullet time) terwijl de dronken man, burger en al, door het raam ramt, scherven radiaal naar buiten vliegend, neonlicht naar binnen stromend, en hij smakt zwaar de kamer in op de vloer / de bank, gebroken glas rinkelend; S7 (26-30s) einde, een geschrokken seconde -> valt in slaap, de man languit met gespreide armen en benen op de vloer, bedekt met gebroken glas, nog steeds de burger omklemmend, opent langzaam zijn ogen, versuft, een hele seconde lang wezenloos en geschrokken, kijkt om zich heen alsof hij denkt "waar ben ik?", dan neemt de dronkenschap het over en, zonder zich er ook maar iets van aan te trekken, smakt hij met zijn lippen, stopt de burger in zijn armen, rolt om, gaat precies daar liggen en valt in een diepe slaap, snurkt zelfs zachtjes, de camera zoomt uit en bevriest, harde snede naar zwart. Alleen live geluid van de set, geen muziek, geen ondertitels; de kern zijn herhaaldelijke harde sneden tussen "enorm kabaal" en "stilte".
 ```
 
 ## Local Usage
@@ -2655,4 +644,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-07-21T04:39:05.291Z
+> This README is auto-generated. 2026-07-21T07:52:08.408Z

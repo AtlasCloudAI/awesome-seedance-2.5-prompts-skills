@@ -4,7 +4,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedance-2.5-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-105%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-11%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 > 基于 AtlasCloud `homepage-v2` 数据源整理的 Seedance 2.5 提示词与预览视频仓库。30 秒原生 · 50 个全模态参考 · 灵活局部编辑。
 
@@ -68,38 +68,27 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 
 | 指标 | 数量 |
 |--------|-------|
-| 提示词总数 | **105** |
-| 分类数 | **19** |
-| 预览视频数 | **99** |
-| 最后更新 | **2026-07-21T04:39:05.274Z** |
+| 提示词总数 | **11** |
+| 分类数 | **8** |
+| 预览视频数 | **11** |
+| 最后更新 | **2026-07-21T07:52:08.401Z** |
 
 ## 🏷️ 按分类浏览
 
-- [`Match-Cut & Creative Effects`](#category-1): **1**
-- [`One-Take Cinematography`](#category-2): **1**
-- [`Multi-Image Reference`](#category-3): **3**
-- [`Video Editing`](#category-4): **2**
-- [`Reference-Guided Tutorial`](#category-5): **1**
-- [`Multimodal Reference (image+video)`](#category-6): **1**
-- [`Image Reference`](#category-7): **1**
-- [`Image Reference (Cinematic)`](#category-8): **1**
-- [`Twitter Community`](#category-9): **24**
-- [`音频与语音合成`](#category-10): **10**
-- [`高级运镜动作`](#category-11): **13**
-- [`视频编辑与混剪`](#category-12): **5**
-- [`角色与场景一致性`](#category-13): **6**
-- [`创意视觉特效`](#category-14): **11**
-- [`超逼真视频生成`](#category-15): **5**
-- [`情绪演绎`](#category-16): **3**
-- [`剧情发展与延伸`](#category-17): **8**
-- [`音乐卡点同步`](#category-18): **4**
-- [`一镜到底`](#category-19): **5**
+- [`匹配剪辑与创意特效`](#category-1): **1**
+- [`一镜到底运镜`](#category-2): **1**
+- [`多图参考`](#category-3): **3**
+- [`视频编辑`](#category-4): **2**
+- [`参考图引导教程`](#category-5): **1**
+- [`多模态参考（图片+视频）`](#category-6): **1**
+- [`图片参考`](#category-7): **1**
+- [`图片参考（电影感）`](#category-8): **1**
 
 ## 🔥 精选提示词
 
-### No. 1: Crystal Ball Match-Cut Beat Film
+### No. 1: 水晶球匹配剪辑节拍短片
 
-- **分类:** `Match-Cut & Creative Effects`
+- **分类:** `匹配剪辑与创意特效`
 - **来源:** `official`
 - **作者:** Volcengine Ark
 - **语言:** `zh`
@@ -110,17 +99,17 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 
 #### 描述
 
-A beat-synced match-cut film: one crystal ball etched with a glowing 'seedance' logo stays centered while eight scenes cut seamlessly behind it.
+一部踩着节拍的匹配剪辑短片：一颗内部蚀刻着发光 seedance 标志的水晶球始终居中，身后的八个场景无缝切换。
 
 #### 提示词
 
 ```text
-A fast-paced, cinematic Match-cut short film synced to a driving electronic beat. A flawless crystal ball stays fixed dead-center throughout, a glowing "seedance" logo etched inside it. The ball holds razor-sharp focus while, on every strong musical beat, the background match-cuts seamlessly: Scene 1: macro close-up, cinematic water splashing around the ball, refracting intricate light. Scene 2: a vintage morning cafe, the ball on a raw-wood table, rising coffee steam and blurred commuters beyond the window. Scene 3: golden-hour dusk, a skater youth tosses and catches the ball one-handed, street racing backward behind them in gorgeous backlit sunset. Scene 4: a frenzied music festival, hands raise the ball high, refracting dazzling stage lasers. Scene 5: a lively family party table, the ball resting center-frame, blurred figures toasting and reaching for food. Scene 6: a dim cinema, hands cupping the ball as the giant screen's faint glow drifts across its surface. Scene 7: the ball on a violently vibrating speaker diaphragm, match-cutting on the climax to a spinning DJ turntable center. Scene 8: an outdoor camping night, background becoming warm bonfire and swaying string-light bokeh. Finale: on the final downbeat the ball is hurled up out of frame; cut to pure black, a minimal white-on-black "seedance" appearing dead-center. Beat-synced match-cut editing, top-tier cinematic color grading, photoreal glass refraction, ray tracing, global illumination. Subject razor-sharp, background heavy motion blur.
+一部快节奏、电影感十足的匹配剪辑短片，与强劲的电子节拍同步。一颗完美无瑕的水晶球始终牢牢固定在正中央，内部蚀刻着发光的 "seedance" 标志。水晶球保持极致锐利的对焦，而每逢强节拍，背景便无缝匹配切换：场景 1：微距特写，电影感的水花在球体周围飞溅，折射出繁复的光线。场景 2：一间复古的清晨咖啡馆，球体置于原木桌面上，咖啡热气升腾，窗外是虚化的通勤人群。场景 3：黄金时刻的黄昏，一名滑板少年单手抛接球体，身后街道向后飞驰，笼罩在绝美的逆光夕阳中。场景 4：狂热的音乐节，众手将球体高高举起，折射出炫目的舞台激光。场景 5：热闹的家庭聚会餐桌，球体停在画面中央，虚化的人影举杯畅饮、伸手取食。场景 6：昏暗的影院，双手捧着球体，巨幕微弱的光晕在球面上缓缓游移。场景 7：球体置于剧烈震动的扬声器振膜上，在高潮处匹配切换到画面中央旋转的 DJ 唱盘。场景 8：户外露营之夜，背景化为温暖的篝火与摇曳的串灯散景。终章：在最后一记重拍上，球体被抛出画面之外；切入纯黑，一行极简的黑底白字 "seedance" 出现在正中央。踩点匹配剪辑，顶级电影级调色，照片级真实的玻璃折射，光线追踪，全局光照。主体极致锐利，背景强烈运动模糊。
 ```
 
-### No. 2: Steampunk Clockwork — 30s One-Take
+### No. 2: 蒸汽朋克发条机械 —— 30 秒一镜到底
 
-- **分类:** `One-Take Cinematography`
+- **分类:** `一镜到底运镜`
 - **来源:** `official`
 - **作者:** Volcengine Ark
 - **语言:** `zh`
@@ -131,17 +120,17 @@ A fast-paced, cinematic Match-cut short film synced to a driving electronic beat
 
 #### 描述
 
-A 30-second steampunk miniature 3D sequence with continuous orbiting, pass-through camera moves.
+一段 30 秒的蒸汽朋克微缩 3D 影像，运用持续环绕、穿越式的运镜。
 
 #### 提示词
 
 ```text
-A high-end, deeply cinematic 30-second 3D motion-graphics sequence in refined steampunk and vintage-miniature style, with continuous fluid orbiting and pass-through camera moves. [0-10s] Macro close-up of an antique brass clock face that unfolds layer by layer into meshing rotating gear rings and volumetric fog. The camera pierces down through the gears; a mechanical ornithopter spirals up from a miniature canyon of stacked weathered old books. [10-20s] The camera glides forward tracking the ornithopter, seamlessly passing into a fast-spinning ornate brass zoetrope projecting galloping mechanical-horse light. The light leaps out and the scene becomes a brass floating cable car on glimmering copper rails through a forest of gears, bathed in cinematic golden-hour light. [20-30s] The camera pans elegantly down; below appears an exquisite clockwork wooden sailing ship cutting deep-blue glass-textured waves, which morph into a glowing giant moon with lantern-holding explorer silhouettes trekking a crystal-vein ridge under stars. The camera spirals smoothly back through ethereal clouds to the ticking brass clock face. Hyper-real mechanical textures, rich brass and gold tones, cinematic shallow depth of field, smooth seamless pass-through camerawork, epic fantastical adventure atmosphere.
+一段高端、极具电影感的 30 秒 3D 动态影像，采用精致的蒸汽朋克与复古微缩风格，运用持续流畅的环绕与穿越式运镜。[0-10s] 一枚古董黄铜钟面的微距特写，层层展开为相互咬合、转动的齿轮环与体积雾。镜头向下穿透齿轮；一架机械扑翼机从一座由风化旧书堆叠而成的微缩峡谷中盘旋而上。[10-20s] 镜头向前滑行跟拍扑翼机，无缝穿入一座飞速旋转、装饰华丽的黄铜走马灯，投射出奔腾的机械骏马光影。光影跃出，画面化为一辆黄铜悬浮缆车，行驶在闪烁的铜轨上，穿越齿轮森林，沐浴在电影感的黄金时刻光线中。[20-30s] 镜头优雅地向下摇；下方现出一艘精致的发条木质帆船，破开深蓝色、玻璃质感的波浪，波浪又幻化为一轮发光的巨月，手持灯笼的探险者剪影正在星空下跋涉于水晶矿脉的山脊之上。镜头顺畅地螺旋穿回缥缈云层，回到滴答作响的黄铜钟面。超写实的机械质感，浓郁的黄铜与金色调，电影级浅景深，流畅无缝的穿越式运镜，史诗般的奇幻冒险氛围。
 ```
 
-### No. 3: Windows Through Worlds (5 refs)
+### No. 3: 穿窗入界（5 张参考图）
 
-- **分类:** `Multi-Image Reference`
+- **分类:** `多图参考`
 - **来源:** `official`
 - **作者:** Volcengine Ark
 - **语言:** `zh`
@@ -160,17 +149,17 @@ A high-end, deeply cinematic 30-second 3D motion-graphics sequence in refined st
 
 #### 描述
 
-A brand concept short driven by 5 reference images, gliding through windows into different worlds.
+一支由 5 张参考图驱动的品牌概念短片，穿过一扇扇窗户，滑入不同的世界。
 
 #### 提示词
 
 ```text
-A cinematic brand concept short. @image1 is the first frame; the picture trembles slightly, the camera pushes in to tree shadows rushing backward outside the window, their retreat accelerating, then abruptly cuts to @image2, speed easing as the camera glides slowly along a stream, birdsong and blossoms. The camera drops underwater — bubble sounds — as orange jellyfish drift gracefully past the lens @image3; the camera pulls back as small fish flit past and swim from the water into the window @image4, a girl looking around, watching them. The camera pulls back, defocuses, then refocuses sharp, switching to the music's rhythm: a Chinese-garden lattice window @image5 with light circling, church stained glass, an airplane porthole, a dome skylight, a bay window, louver blinds, a European dormer, a door peephole, a camera viewfinder, a bird's eye, a human eye close-up. It settles on the human eye; the eye closes, screen black, then suddenly opens — "seedance" appearing in the center of the eye on the accent beat.
+一支电影感的品牌概念短片。@image1 为首帧；画面轻微颤动，镜头推进，窗外的树影向后飞掠，退去的速度越来越快，随后猛然切至 @image2，速度趋缓，镜头沿着一条溪流缓缓滑行，鸟鸣与花开。镜头潜入水下——传来气泡声——橙色的水母优雅地从镜头前飘过 @image3；镜头后拉，小鱼倏忽游过，从水中游进窗户 @image4，一个女孩四处张望，注视着它们。镜头后拉、失焦，再重新对实，随着音乐的节奏切换：一扇中式园林的花格窗 @image5，光线环绕其上、教堂的彩绘玻璃、飞机的舷窗、穹顶天窗、飘窗、百叶窗、欧式老虎窗、门上的猫眼、相机的取景器、鸟的眼睛、人眼的特写。最终定格在人眼上；眼睛闭合，画面全黑，随后骤然睁开——在重音节拍上，"seedance" 出现在眼睛中央。
 ```
 
-### No. 4: One-Take Through Six Rooms (8 refs)
+### No. 4: 一镜穿越六个房间（8 张参考图）
 
-- **分类:** `Multi-Image Reference`
+- **分类:** `多图参考`
 - **来源:** `official`
 - **作者:** Volcengine Ark
 - **语言:** `zh`
@@ -192,17 +181,17 @@ A cinematic brand concept short. @image1 is the first frame; the picture tremble
 
 #### 描述
 
-One continuous take following a figure through six mood-shifting rooms, driven by 8 reference images.
+一镜到底，跟随一个人物穿过六个情绪不断变化的房间，由 8 张参考图驱动。
 
 #### 提示词
 
 ```text
-One continuous take. The camera smoothly follows a person in a black coat (reference @image1) moving left to right through six connected rooms of different tones and moods. Every room shares the same structure: white walls, light herringbone wood floor, French floor-to-ceiling windows, white sheer curtains (reference @image2) but the outside view and mood differ each time. The protagonist walks at a constant pace, passing through every open door. 0-5s room one, American-comic fight: the protagonist fights a character (@image3), who is defeated; 5-10s room two, warmth, felt-craft style, window view a sunflower field (@image4), warm-orange soft light, a painter painting sunflowers (@image5), the protagonist turning felt-style on entering; 10-15s room three, sorrow, black-and-white comic stop-motion, rain outside, cold-grey light, a person alone on the floor hugging their knees, a phone glowing with an unanswered call; on entering, the light blinks off then on, the room turns color, flowers bursting into bloom; 15-20s room four, joy, a room submerged in the sea (reference @image6), the protagonist turning transparent among coral and fish; 20-25s room five, surprise, window view a sky of fireworks (reference @image7), colorful flickering light, the protagonist swept up in a cheering crowd; 25-30s a blank white room, the protagonist snaps their fingers — snap SFX — frame goes black, "seedance" in the middle (reference @image8). Cinematic quality, high-fashion advertising style, lighting entirely determined by the window views for strong emotional contrast, no text in frame.
+一镜到底。镜头平稳地跟随一个身穿黑色大衣的人（参考 @image1）从左至右穿过六个色调与情绪各异、彼此相连的房间。每个房间结构相同：白墙、浅色人字拼木地板、落地法式窗、白色薄纱窗帘（参考 @image2），但窗外的景致与情绪每次都不同。主角以匀速行走，穿过每一道敞开的门。0-5s 第一个房间，美式漫画打斗：主角与一个角色（@image3）搏斗，将其击败；5-10s 第二个房间，温馨，毛毡手工风格，窗外是一片向日葵花田（@image4），暖橙色柔光，一位画家在画向日葵（@image5），主角进入时变为毛毡质感；10-15s 第三个房间，悲伤，黑白漫画定格动画，窗外下着雨，冷灰色光线，一个人独自抱膝坐在地上，手机亮着一通未接来电；进入时，灯光闪灭又亮起，房间转为彩色，花朵骤然绽放；15-20s 第四个房间，欢乐，一个沉入海中的房间（参考 @image6），主角在珊瑚与游鱼间变得透明；20-25s 第五个房间，惊喜，窗外是漫天烟花的夜空（参考 @image7），彩色的光闪烁不定，主角被欢呼的人群簇拥；25-30s 一个空白的白色房间，主角打了个响指——响指音效——画面转黑，"seedance" 出现在中央（参考 @image8）。电影级质感，高级时尚广告风格，光线完全由窗外景致决定，形成强烈的情绪对比，画面中无文字。
 ```
 
-### No. 5: Video Edit — Remove All But the Lead
+### No. 5: 视频编辑 —— 只留主角，删除其余所有人
 
-- **分类:** `Video Editing`
+- **分类:** `视频编辑`
 - **来源:** `official`
 - **作者:** Volcengine Ark
 - **语言:** `zh`
@@ -217,17 +206,17 @@ One continuous take. The camera smoothly follows a person in a black coat (refer
 
 #### 描述
 
-Reference-video editing: erase everyone except the protagonist from a source clip.
+参考视频编辑：从源片段中抹除除主角以外的所有人。
 
 #### 提示词
 
 ```text
-Video editing: remove everyone in @video1 except the protagonist.
+视频编辑：移除 @video1 中除主角以外的所有人。
 ```
 
-### No. 6: Multilingual Hip-Hop 'Hello' MV
+### No. 6: 多语言嘻哈 "Hello" MV
 
-- **分类:** `Multi-Image Reference`
+- **分类:** `多图参考`
 - **来源:** `official`
 - **作者:** Volcengine Ark
 - **语言:** `zh`
@@ -242,17 +231,17 @@ Video editing: remove everyone in @video1 except the protagonist.
 
 #### 描述
 
-A seaside hip-hop MV built from one reference image; the lead raps 'hello' in 8 languages, lip-synced, hard cuts on the beat.
+一支由单张参考图打造的海边嘻哈 MV；主唱用 8 种语言说唱 "你好"，口型精准同步，踩着节拍硬切。
 
 #### 提示词
 
 ```text
-Cinematic hip-hop / rap music video, photoreal quality, high-end tone, seaside setting. Build the frame from @image1: a band performs at a golden sand beach with crashing waves — a lead vocalist gripping a mic on a stand in the wet sand, one guitarist left, one right, a drummer at the back; a vast coastline behind, rolling waves, a warm golden-hour sun shimmering on the water, sea mist in the air. The lead in a red tracksuit raps to camera — lips and jaw precisely synced to every word, head punching to the beat. Bright, punchy, fast, confident rap. HARD CUT on the beat, each switch a double contrast (shot size and type change together). Lyrics (the lead sings 'hello' in each language in turn, precisely lip-synced): English "Hello", Chinese "你好", Japanese "こんにちは", Korean "안녕하세요", Portuguese "Olá", Thai "สวัสดี", Spanish "Hola", Arabic "مرحبا". 8 hard-cut shots (low-angle wide establishing; close-up rap to camera; macro guitar-string insert; 3/4 prowling orbit; lateral track at shore; drummer tilt-up; tight push on the lead; heroic full-band push-in), one language per shot. White balance 4000K, teal-and-amber grade, 35mm, shallow depth of field, film grain, sea mist, golden-hour flare. Premium feel, precise lip-sync, no subtitles, no text overlays, hard cuts only, total 20 seconds.
+电影感的嘻哈 / 说唱音乐录影带，照片级真实质感，高端调性，海边场景。以 @image1 构建画面：一支乐队在金色沙滩上演出，海浪拍岸——主唱在湿润的沙地上握着立式话筒，一名吉他手在左、一名在右，鼓手在后；身后是辽阔的海岸线，起伏的浪涛，暖调的黄金时刻夕阳在水面上闪烁，空气中弥漫着海雾。身穿红色运动套装的主唱对着镜头说唱——唇形与下巴与每一个字精准同步，头随节拍有力地点动。明亮、有力、快速、自信的说唱。踩着节拍硬切，每次切换都是双重反差（景别与镜头类型同时改变）。歌词（主唱依次用每种语言唱出 "你好"，口型精准同步）：英语 "Hello"、中文 "你好"、日语 "こんにちは"、韩语 "안녕하세요"、葡萄牙语 "Olá"、泰语 "สวัสดี"、西班牙语 "Hola"、阿拉伯语 "مرحبا"。8 个硬切镜头（低角度大全景定场；对镜说唱特写；吉他弦微距插入镜头；3/4 侧游走环绕；海岸线横移跟拍；鼓手仰摇；主唱紧凑推近；全乐队英姿推进），每个镜头一种语言。白平衡 4000K，青橙调色，35mm，浅景深，胶片颗粒，海雾，黄金时刻眩光。高级质感，精准对口型，无字幕，无文字叠加，仅硬切，总时长 20 秒。
 ```
 
-### No. 7: Capsule Coffee Machine Setup Tutorial (6 refs)
+### No. 7: 胶囊咖啡机安装使用教程（6 张参考图）
 
-- **分类:** `Reference-Guided Tutorial`
+- **分类:** `参考图引导教程`
 - **来源:** `official`
 - **作者:** Volcengine Ark
 - **语言:** `zh`
@@ -272,17 +261,17 @@ Cinematic hip-hop / rap music video, photoreal quality, high-end tone, seaside s
 
 #### 描述
 
-A 30-second setup-and-use tutorial for a capsule coffee machine, six reference-guided steps with voiceover — from installing the water tank to the first rinse.
+一支 30 秒的胶囊咖啡机安装与使用教程，六个由参考图引导的步骤并配旁白——从安装水箱到首次冲洗。
 
 #### 提示词
 
 ```text
-A 30-second tutorial video on installing and using a capsule coffee machine. 0-2s: the opening title card reads "seedance capsule coffee machine setup tutorial". 2-5s, Step 1: install the water tank, reference @image1, medium shot from a slightly high angle, rear of the machine body, align the water tank with the slot on the back of the body and push it straight down until it clicks firmly into place, clearly showing how the tank's bottom clips align with the body's slot, the water level line visible through the tank's transparent section, voiceover "First, install the water tank. Align the tank with the slot on the back of the machine; a click means it is locked in place.". 5-9s, Step 2: install the drip tray, reference @image2, close-up front view, front bottom of the body, slide the drip tray horizontally into the guide rails at the bottom until fully seated, voiceover "Next, install the drip tray. Align the tray with the bottom rails.". 9-13s, Step 3: install the used-capsule collection box, reference @image3, close-up from a slightly low angle, the cavity beneath the drip tray, align the collection box with the recess and push it in flush with the drip tray, voiceover "Then insert the capsule collection box. Used capsules will drop down here automatically.". 13-18s, Step 4: first fill with water, reference @image4, close-up side view, the water tank at the top/back of the body, open the tank lid and pour in clean water up to the MAX water level line, then close it, emphasizing the water level line, voiceover "Open the tank lid, pour in clean water, being careful not to exceed the maximum water level line, then close the tank lid.". 18-25s, Step 5: power on, reference @image5, medium shot front view, front of the body, plug in the power cord and press the power button; the indicator light goes from blinking to steady (preheating complete), voiceover "Connect the power and press the power button. The indicator light starts blinking, which means it is preheating. When the light turns steady, the machine is ready.". 25-30s, Step 6: first rinse (without a capsule), reference @image6, medium shot moving to a close-up front-side view, without inserting a capsule press the brew button directly so hot water flows out and rinses the lines, emphasizing the "no capsule needed" note, voiceover "The last step, the first rinse. Note that this step does not require a capsule; just press the brew button. Once the rinse is done, your coffee machine is ready to use."
+一支 30 秒的胶囊咖啡机安装与使用教程视频。0-2s：开场标题卡写着 "seedance 胶囊咖啡机安装教程"。2-5s，第 1 步：安装水箱，参考 @image1，略带俯角的中景，机身背面，将水箱对准机身背部的卡槽竖直向下推入，直到 "咔哒" 一声稳固到位，清晰展示水箱底部卡扣如何与机身卡槽对齐，透过水箱透明部分可见水位线，旁白 "第一步，安装水箱。将水箱对准机器背部的卡槽；听到咔哒一声即表示已锁定到位。"。5-9s，第 2 步：安装滴水盘，参考 @image2，正面近景，机身正面底部，将滴水盘水平滑入底部导轨直至完全到位，旁白 "接下来，安装滴水盘。将滴水盘对准底部导轨。"。9-13s，第 3 步：安装废胶囊收集盒，参考 @image3，略带仰角的近景，滴水盘下方的凹腔，将收集盒对准凹槽推入，与滴水盘齐平，旁白 "然后放入胶囊收集盒。用过的胶囊会自动掉落到这里。"。13-18s，第 4 步：首次加水，参考 @image4，侧面近景，位于机身顶部/背部的水箱，打开水箱盖倒入清水至 MAX 水位线，然后盖好，重点强调水位线，旁白 "打开水箱盖，倒入清水，注意不要超过最高水位线，然后盖好水箱盖。"。18-25s，第 5 步：开机，参考 @image5，正面中景，机身正面，插上电源线并按下电源键；指示灯从闪烁转为常亮（预热完成），旁白 "接通电源，按下电源键。指示灯开始闪烁，表示正在预热。当灯变为常亮时，机器即可使用。"。25-30s，第 6 步：首次冲洗（不放胶囊），参考 @image6，中景推至正侧面近景，不放入胶囊，直接按下冲泡键，让热水流出冲洗管路，重点强调 "无需胶囊" 的提示，旁白 "最后一步，首次冲洗。请注意这一步无需放入胶囊，直接按下冲泡键即可。冲洗完成后，你的咖啡机就可以使用了。"
 ```
 
-### No. 8: Fruity Cookie Commercial (image + 6 video refs)
+### No. 8: 水果饼干广告（1 张图 + 6 段视频参考）
 
-- **分类:** `Multimodal Reference (image+video)`
+- **分类:** `多模态参考（图片+视频）`
 - **来源:** `official`
 - **作者:** Volcengine Ark
 - **语言:** `zh`
@@ -303,23 +292,23 @@ A 30-second tutorial video on installing and using a capsule coffee machine. 0-2
 
 #### 描述
 
-A bright, colorful commercial for fruity cookies in four flavors — strawberry, apple, grape, orange — built from one image reference and six motion/camera video references, cut hard to a driving beat.
+一支明亮多彩的水果饼干广告，共四种口味——草莓、苹果、葡萄、橙子——由 1 张图片参考与 6 段运动/运镜视频参考打造，随强劲节拍硬切。
 
 #### 提示词
 
 ```text
-A bright, colorful commercial style with fruity cookies as the hero, in four flavors — strawberry, apple, grape, and orange; strawberry flavor reference @image1. The cookies and their matching fruits are arranged in a strongly ordered geometric array; the overall frame is clean, premium, and high-energy. It opens with the fruits orbiting rapidly around the central cookie to quickly establish visual focus — reference the composition of @video1 — cutting in on a strong musical beat. Then cookies of different flavors advance toward the lens along spiral paths, forming clear spatial depth — reference the motion and camera work of @video2 — switching colors and flavors on the beat with the background music. The array of cookies pans left and right with fast plane-to-plane cuts, strawberry, apple, grape, and orange flavors alternating as the frame jump-cuts quickly to the rhythm — reference the movement of @video3. The mid-section adds up-and-down panning; the neat cookie array rises and falls vertically like a machine — reference the movement of @video4 — highlighting the beauty of order and the richness of the product. In the climax a cookie is snapped in two and the moment enters slow motion as the fruity filling bursts open, crumbs scattering, the juicy sensation and grainy impact amplified — reference the explosion effect of @video5 — then quickly returns to the fast-paced edit. The ending brings in the English text "Fresh on Seedance, made for viral vision", entering word by word in quick succession with strong rhythmic text motion and a product freeze-frame — reference @video6 — the four cookie flavors lined up neatly with the fruits bouncing in sync for a final brand-forward close, the frame full of a young, energetic, delicious, shareable ad atmosphere.
+明亮多彩的广告风格，以水果饼干为主角，共四种口味——草莓、苹果、葡萄和橙子；草莓口味参考 @image1。饼干与相配的水果以极具秩序感的几何阵列排布；整体画面干净、高级、充满活力。开场时，水果围绕中央的饼干快速环绕旋转，迅速建立视觉焦点——参考 @video1 的构图——在强节拍上切入。随后不同口味的饼干沿螺旋路径向镜头推进，形成清晰的空间纵深——参考 @video2 的运动与运镜——随背景音乐在节拍上切换颜色与口味。饼干阵列左右横摇，以快速的平面到平面切换，草莓、苹果、葡萄、橙子口味交替出现，画面随节奏快速跳切——参考 @video3 的运动。中段加入上下摇移；整齐的饼干阵列像机械般垂直升降——参考 @video4 的运动——凸显秩序之美与产品的丰富。高潮处一块饼干被掰成两半，画面进入慢动作，果味夹心迸裂而出，饼屑四散，多汁的口感与颗粒的冲击被放大——参考 @video5 的爆炸效果——随后迅速回到快节奏剪辑。结尾引入英文文字 "Fresh on Seedance, made for viral vision"，逐字快速依次入场，配以强烈的节奏化文字动效与产品定格——参考 @video6——四种口味的饼干与水果整齐排列、同步弹跳，完成最后的品牌收尾，画面充满年轻、活力、美味、值得分享的广告氛围。
 ```
 
 ## 📋 全部提示词
 
 <a id="category-1"></a>
 
-### Match-Cut & Creative Effects (1)
+### 匹配剪辑与创意特效 (1)
 
-### No. 1: Crystal Ball Match-Cut Beat Film
+### No. 1: 水晶球匹配剪辑节拍短片
 
-- **分类:** `Match-Cut & Creative Effects`
+- **分类:** `匹配剪辑与创意特效`
 - **来源:** `official`
 - **作者:** Volcengine Ark
 - **语言:** `zh`
@@ -330,21 +319,21 @@ A bright, colorful commercial style with fruity cookies as the hero, in four fla
 
 #### 描述
 
-A beat-synced match-cut film: one crystal ball etched with a glowing 'seedance' logo stays centered while eight scenes cut seamlessly behind it.
+一部踩着节拍的匹配剪辑短片：一颗内部蚀刻着发光 seedance 标志的水晶球始终居中，身后的八个场景无缝切换。
 
 #### 提示词
 
 ```text
-A fast-paced, cinematic Match-cut short film synced to a driving electronic beat. A flawless crystal ball stays fixed dead-center throughout, a glowing "seedance" logo etched inside it. The ball holds razor-sharp focus while, on every strong musical beat, the background match-cuts seamlessly: Scene 1: macro close-up, cinematic water splashing around the ball, refracting intricate light. Scene 2: a vintage morning cafe, the ball on a raw-wood table, rising coffee steam and blurred commuters beyond the window. Scene 3: golden-hour dusk, a skater youth tosses and catches the ball one-handed, street racing backward behind them in gorgeous backlit sunset. Scene 4: a frenzied music festival, hands raise the ball high, refracting dazzling stage lasers. Scene 5: a lively family party table, the ball resting center-frame, blurred figures toasting and reaching for food. Scene 6: a dim cinema, hands cupping the ball as the giant screen's faint glow drifts across its surface. Scene 7: the ball on a violently vibrating speaker diaphragm, match-cutting on the climax to a spinning DJ turntable center. Scene 8: an outdoor camping night, background becoming warm bonfire and swaying string-light bokeh. Finale: on the final downbeat the ball is hurled up out of frame; cut to pure black, a minimal white-on-black "seedance" appearing dead-center. Beat-synced match-cut editing, top-tier cinematic color grading, photoreal glass refraction, ray tracing, global illumination. Subject razor-sharp, background heavy motion blur.
+一部快节奏、电影感十足的匹配剪辑短片，与强劲的电子节拍同步。一颗完美无瑕的水晶球始终牢牢固定在正中央，内部蚀刻着发光的 "seedance" 标志。水晶球保持极致锐利的对焦，而每逢强节拍，背景便无缝匹配切换：场景 1：微距特写，电影感的水花在球体周围飞溅，折射出繁复的光线。场景 2：一间复古的清晨咖啡馆，球体置于原木桌面上，咖啡热气升腾，窗外是虚化的通勤人群。场景 3：黄金时刻的黄昏，一名滑板少年单手抛接球体，身后街道向后飞驰，笼罩在绝美的逆光夕阳中。场景 4：狂热的音乐节，众手将球体高高举起，折射出炫目的舞台激光。场景 5：热闹的家庭聚会餐桌，球体停在画面中央，虚化的人影举杯畅饮、伸手取食。场景 6：昏暗的影院，双手捧着球体，巨幕微弱的光晕在球面上缓缓游移。场景 7：球体置于剧烈震动的扬声器振膜上，在高潮处匹配切换到画面中央旋转的 DJ 唱盘。场景 8：户外露营之夜，背景化为温暖的篝火与摇曳的串灯散景。终章：在最后一记重拍上，球体被抛出画面之外；切入纯黑，一行极简的黑底白字 "seedance" 出现在正中央。踩点匹配剪辑，顶级电影级调色，照片级真实的玻璃折射，光线追踪，全局光照。主体极致锐利，背景强烈运动模糊。
 ```
 
 <a id="category-2"></a>
 
-### One-Take Cinematography (1)
+### 一镜到底运镜 (1)
 
-### No. 1: Steampunk Clockwork — 30s One-Take
+### No. 1: 蒸汽朋克发条机械 —— 30 秒一镜到底
 
-- **分类:** `One-Take Cinematography`
+- **分类:** `一镜到底运镜`
 - **来源:** `official`
 - **作者:** Volcengine Ark
 - **语言:** `zh`
@@ -355,21 +344,21 @@ A fast-paced, cinematic Match-cut short film synced to a driving electronic beat
 
 #### 描述
 
-A 30-second steampunk miniature 3D sequence with continuous orbiting, pass-through camera moves.
+一段 30 秒的蒸汽朋克微缩 3D 影像，运用持续环绕、穿越式的运镜。
 
 #### 提示词
 
 ```text
-A high-end, deeply cinematic 30-second 3D motion-graphics sequence in refined steampunk and vintage-miniature style, with continuous fluid orbiting and pass-through camera moves. [0-10s] Macro close-up of an antique brass clock face that unfolds layer by layer into meshing rotating gear rings and volumetric fog. The camera pierces down through the gears; a mechanical ornithopter spirals up from a miniature canyon of stacked weathered old books. [10-20s] The camera glides forward tracking the ornithopter, seamlessly passing into a fast-spinning ornate brass zoetrope projecting galloping mechanical-horse light. The light leaps out and the scene becomes a brass floating cable car on glimmering copper rails through a forest of gears, bathed in cinematic golden-hour light. [20-30s] The camera pans elegantly down; below appears an exquisite clockwork wooden sailing ship cutting deep-blue glass-textured waves, which morph into a glowing giant moon with lantern-holding explorer silhouettes trekking a crystal-vein ridge under stars. The camera spirals smoothly back through ethereal clouds to the ticking brass clock face. Hyper-real mechanical textures, rich brass and gold tones, cinematic shallow depth of field, smooth seamless pass-through camerawork, epic fantastical adventure atmosphere.
+一段高端、极具电影感的 30 秒 3D 动态影像，采用精致的蒸汽朋克与复古微缩风格，运用持续流畅的环绕与穿越式运镜。[0-10s] 一枚古董黄铜钟面的微距特写，层层展开为相互咬合、转动的齿轮环与体积雾。镜头向下穿透齿轮；一架机械扑翼机从一座由风化旧书堆叠而成的微缩峡谷中盘旋而上。[10-20s] 镜头向前滑行跟拍扑翼机，无缝穿入一座飞速旋转、装饰华丽的黄铜走马灯，投射出奔腾的机械骏马光影。光影跃出，画面化为一辆黄铜悬浮缆车，行驶在闪烁的铜轨上，穿越齿轮森林，沐浴在电影感的黄金时刻光线中。[20-30s] 镜头优雅地向下摇；下方现出一艘精致的发条木质帆船，破开深蓝色、玻璃质感的波浪，波浪又幻化为一轮发光的巨月，手持灯笼的探险者剪影正在星空下跋涉于水晶矿脉的山脊之上。镜头顺畅地螺旋穿回缥缈云层，回到滴答作响的黄铜钟面。超写实的机械质感，浓郁的黄铜与金色调，电影级浅景深，流畅无缝的穿越式运镜，史诗般的奇幻冒险氛围。
 ```
 
 <a id="category-3"></a>
 
-### Multi-Image Reference (3)
+### 多图参考 (3)
 
-### No. 1: Windows Through Worlds (5 refs)
+### No. 1: 穿窗入界（5 张参考图）
 
-- **分类:** `Multi-Image Reference`
+- **分类:** `多图参考`
 - **来源:** `official`
 - **作者:** Volcengine Ark
 - **语言:** `zh`
@@ -388,17 +377,17 @@ A high-end, deeply cinematic 30-second 3D motion-graphics sequence in refined st
 
 #### 描述
 
-A brand concept short driven by 5 reference images, gliding through windows into different worlds.
+一支由 5 张参考图驱动的品牌概念短片，穿过一扇扇窗户，滑入不同的世界。
 
 #### 提示词
 
 ```text
-A cinematic brand concept short. @image1 is the first frame; the picture trembles slightly, the camera pushes in to tree shadows rushing backward outside the window, their retreat accelerating, then abruptly cuts to @image2, speed easing as the camera glides slowly along a stream, birdsong and blossoms. The camera drops underwater — bubble sounds — as orange jellyfish drift gracefully past the lens @image3; the camera pulls back as small fish flit past and swim from the water into the window @image4, a girl looking around, watching them. The camera pulls back, defocuses, then refocuses sharp, switching to the music's rhythm: a Chinese-garden lattice window @image5 with light circling, church stained glass, an airplane porthole, a dome skylight, a bay window, louver blinds, a European dormer, a door peephole, a camera viewfinder, a bird's eye, a human eye close-up. It settles on the human eye; the eye closes, screen black, then suddenly opens — "seedance" appearing in the center of the eye on the accent beat.
+一支电影感的品牌概念短片。@image1 为首帧；画面轻微颤动，镜头推进，窗外的树影向后飞掠，退去的速度越来越快，随后猛然切至 @image2，速度趋缓，镜头沿着一条溪流缓缓滑行，鸟鸣与花开。镜头潜入水下——传来气泡声——橙色的水母优雅地从镜头前飘过 @image3；镜头后拉，小鱼倏忽游过，从水中游进窗户 @image4，一个女孩四处张望，注视着它们。镜头后拉、失焦，再重新对实，随着音乐的节奏切换：一扇中式园林的花格窗 @image5，光线环绕其上、教堂的彩绘玻璃、飞机的舷窗、穹顶天窗、飘窗、百叶窗、欧式老虎窗、门上的猫眼、相机的取景器、鸟的眼睛、人眼的特写。最终定格在人眼上；眼睛闭合，画面全黑，随后骤然睁开——在重音节拍上，"seedance" 出现在眼睛中央。
 ```
 
-### No. 2: One-Take Through Six Rooms (8 refs)
+### No. 2: 一镜穿越六个房间（8 张参考图）
 
-- **分类:** `Multi-Image Reference`
+- **分类:** `多图参考`
 - **来源:** `official`
 - **作者:** Volcengine Ark
 - **语言:** `zh`
@@ -420,17 +409,17 @@ A cinematic brand concept short. @image1 is the first frame; the picture tremble
 
 #### 描述
 
-One continuous take following a figure through six mood-shifting rooms, driven by 8 reference images.
+一镜到底，跟随一个人物穿过六个情绪不断变化的房间，由 8 张参考图驱动。
 
 #### 提示词
 
 ```text
-One continuous take. The camera smoothly follows a person in a black coat (reference @image1) moving left to right through six connected rooms of different tones and moods. Every room shares the same structure: white walls, light herringbone wood floor, French floor-to-ceiling windows, white sheer curtains (reference @image2) but the outside view and mood differ each time. The protagonist walks at a constant pace, passing through every open door. 0-5s room one, American-comic fight: the protagonist fights a character (@image3), who is defeated; 5-10s room two, warmth, felt-craft style, window view a sunflower field (@image4), warm-orange soft light, a painter painting sunflowers (@image5), the protagonist turning felt-style on entering; 10-15s room three, sorrow, black-and-white comic stop-motion, rain outside, cold-grey light, a person alone on the floor hugging their knees, a phone glowing with an unanswered call; on entering, the light blinks off then on, the room turns color, flowers bursting into bloom; 15-20s room four, joy, a room submerged in the sea (reference @image6), the protagonist turning transparent among coral and fish; 20-25s room five, surprise, window view a sky of fireworks (reference @image7), colorful flickering light, the protagonist swept up in a cheering crowd; 25-30s a blank white room, the protagonist snaps their fingers — snap SFX — frame goes black, "seedance" in the middle (reference @image8). Cinematic quality, high-fashion advertising style, lighting entirely determined by the window views for strong emotional contrast, no text in frame.
+一镜到底。镜头平稳地跟随一个身穿黑色大衣的人（参考 @image1）从左至右穿过六个色调与情绪各异、彼此相连的房间。每个房间结构相同：白墙、浅色人字拼木地板、落地法式窗、白色薄纱窗帘（参考 @image2），但窗外的景致与情绪每次都不同。主角以匀速行走，穿过每一道敞开的门。0-5s 第一个房间，美式漫画打斗：主角与一个角色（@image3）搏斗，将其击败；5-10s 第二个房间，温馨，毛毡手工风格，窗外是一片向日葵花田（@image4），暖橙色柔光，一位画家在画向日葵（@image5），主角进入时变为毛毡质感；10-15s 第三个房间，悲伤，黑白漫画定格动画，窗外下着雨，冷灰色光线，一个人独自抱膝坐在地上，手机亮着一通未接来电；进入时，灯光闪灭又亮起，房间转为彩色，花朵骤然绽放；15-20s 第四个房间，欢乐，一个沉入海中的房间（参考 @image6），主角在珊瑚与游鱼间变得透明；20-25s 第五个房间，惊喜，窗外是漫天烟花的夜空（参考 @image7），彩色的光闪烁不定，主角被欢呼的人群簇拥；25-30s 一个空白的白色房间，主角打了个响指——响指音效——画面转黑，"seedance" 出现在中央（参考 @image8）。电影级质感，高级时尚广告风格，光线完全由窗外景致决定，形成强烈的情绪对比，画面中无文字。
 ```
 
-### No. 3: Multilingual Hip-Hop 'Hello' MV
+### No. 3: 多语言嘻哈 "Hello" MV
 
-- **分类:** `Multi-Image Reference`
+- **分类:** `多图参考`
 - **来源:** `official`
 - **作者:** Volcengine Ark
 - **语言:** `zh`
@@ -445,21 +434,21 @@ One continuous take. The camera smoothly follows a person in a black coat (refer
 
 #### 描述
 
-A seaside hip-hop MV built from one reference image; the lead raps 'hello' in 8 languages, lip-synced, hard cuts on the beat.
+一支由单张参考图打造的海边嘻哈 MV；主唱用 8 种语言说唱 "你好"，口型精准同步，踩着节拍硬切。
 
 #### 提示词
 
 ```text
-Cinematic hip-hop / rap music video, photoreal quality, high-end tone, seaside setting. Build the frame from @image1: a band performs at a golden sand beach with crashing waves — a lead vocalist gripping a mic on a stand in the wet sand, one guitarist left, one right, a drummer at the back; a vast coastline behind, rolling waves, a warm golden-hour sun shimmering on the water, sea mist in the air. The lead in a red tracksuit raps to camera — lips and jaw precisely synced to every word, head punching to the beat. Bright, punchy, fast, confident rap. HARD CUT on the beat, each switch a double contrast (shot size and type change together). Lyrics (the lead sings 'hello' in each language in turn, precisely lip-synced): English "Hello", Chinese "你好", Japanese "こんにちは", Korean "안녕하세요", Portuguese "Olá", Thai "สวัสดี", Spanish "Hola", Arabic "مرحبا". 8 hard-cut shots (low-angle wide establishing; close-up rap to camera; macro guitar-string insert; 3/4 prowling orbit; lateral track at shore; drummer tilt-up; tight push on the lead; heroic full-band push-in), one language per shot. White balance 4000K, teal-and-amber grade, 35mm, shallow depth of field, film grain, sea mist, golden-hour flare. Premium feel, precise lip-sync, no subtitles, no text overlays, hard cuts only, total 20 seconds.
+电影感的嘻哈 / 说唱音乐录影带，照片级真实质感，高端调性，海边场景。以 @image1 构建画面：一支乐队在金色沙滩上演出，海浪拍岸——主唱在湿润的沙地上握着立式话筒，一名吉他手在左、一名在右，鼓手在后；身后是辽阔的海岸线，起伏的浪涛，暖调的黄金时刻夕阳在水面上闪烁，空气中弥漫着海雾。身穿红色运动套装的主唱对着镜头说唱——唇形与下巴与每一个字精准同步，头随节拍有力地点动。明亮、有力、快速、自信的说唱。踩着节拍硬切，每次切换都是双重反差（景别与镜头类型同时改变）。歌词（主唱依次用每种语言唱出 "你好"，口型精准同步）：英语 "Hello"、中文 "你好"、日语 "こんにちは"、韩语 "안녕하세요"、葡萄牙语 "Olá"、泰语 "สวัสดี"、西班牙语 "Hola"、阿拉伯语 "مرحبا"。8 个硬切镜头（低角度大全景定场；对镜说唱特写；吉他弦微距插入镜头；3/4 侧游走环绕；海岸线横移跟拍；鼓手仰摇；主唱紧凑推近；全乐队英姿推进），每个镜头一种语言。白平衡 4000K，青橙调色，35mm，浅景深，胶片颗粒，海雾，黄金时刻眩光。高级质感，精准对口型，无字幕，无文字叠加，仅硬切，总时长 20 秒。
 ```
 
 <a id="category-4"></a>
 
-### Video Editing (2)
+### 视频编辑 (2)
 
-### No. 1: Video Edit — Remove All But the Lead
+### No. 1: 视频编辑 —— 只留主角，删除其余所有人
 
-- **分类:** `Video Editing`
+- **分类:** `视频编辑`
 - **来源:** `official`
 - **作者:** Volcengine Ark
 - **语言:** `zh`
@@ -474,17 +463,17 @@ Cinematic hip-hop / rap music video, photoreal quality, high-end tone, seaside s
 
 #### 描述
 
-Reference-video editing: erase everyone except the protagonist from a source clip.
+参考视频编辑：从源片段中抹除除主角以外的所有人。
 
 #### 提示词
 
 ```text
-Video editing: remove everyone in @video1 except the protagonist.
+视频编辑：移除 @video1 中除主角以外的所有人。
 ```
 
-### No. 2: Steam Train Bursts the Screen (video edit)
+### No. 2: 蒸汽火车冲破银幕（视频编辑）
 
-- **分类:** `Video Editing`
+- **分类:** `视频编辑`
 - **来源:** `official`
 - **作者:** Volcengine Ark
 - **语言:** `zh`
@@ -499,21 +488,21 @@ Video editing: remove everyone in @video1 except the protagonist.
 
 #### 描述
 
-A video edit that keeps the original @video1 old-cinema clip intact and adds only a steam locomotive bursting through the screen, tearing the fabric, with black-and-white snapping to full color at the moment of impact.
+一段视频编辑：完整保留 @video1 的老电影原片，仅添加一辆蒸汽机车冲破银幕、撕裂幕布，并在冲击的瞬间由黑白骤然转为全彩。
 
 #### 提示词
 
 ```text
-Hyper-real cinematic realist style with photorealistic live-action texture, emphasizing the real-world plausibility of the physical object bursting out (the steam train); no CGI gloss / game engine / stylized 3D. Preserve @video1's original composition, projection-hall lighting, handheld camera state and natural imperfections. Source video locked: keep @video1 fully intact as the base image (the old-fashioned projection hall, the rows of hat-wearing audience seen from behind, the projector's conical beam, the screen, the ambient light, the color tone and the handheld movement all unchanged); the only additions: the train bursting out of the screen, the changes in light and shadow it brings, the tearing of the screen, and the slight physical impact on the hall and the front-row audience. Color-shift rule (the core addition): at the start strictly keep @video1's original black-and-white old-film texture (grain / scratches / flicker / monochrome); at the exact moment the locomotive truly breaks through the screen and bursts into reality, the image abruptly shifts from black-and-white to full, real color, the color spreading across the whole frame like a shockwave centered on the point where the train breaks out (the train's black steel body, the red-copper boiler, the orange-yellow steam-lamp glow, the warm brown of the wooden carriage, the white-grey steam, and the warm brown of the projection hall all coming into color accordingly); the color shift is precisely synchronized with the screen-breaking burst, after which photorealistic color is maintained to the end. Screen-tearing locked: the screen is a real white projection cloth with genuine fabric tension; as the train bursts out it is forcibly torn open along the contour of the locomotive's front, with radial rips whose edges curl back and shredded cloth fibers flying. Subject: an old-fashioned steam locomotive front bursting forcibly out of the screen, a black steel body, a cylindrical boiler, a front cowcatcher, a chimney venting white-grey steam, a bright headlamp, the metal surfaces with real wear, oil grime, rivets and wet reflections, charging forward with immense weight and inertia. Camera: fully inherits @video1's original handheld movement, not smoothed, not re-timed, not re-composed; the bursting train stays correctly locked into the screen and the hall space at all times, maintaining correct parallax, occlusion and ground-contact shadow. Sound: no music, keep only real on-scene sound effects, inheriting @video1's projection-hall ambience (the projector's clatter, the audience's stirring) and adding the sound of the cloth tearing, steam gushing, the mechanical roar of steel wheels, and the impact air blast. Total duration exactly the same as @video1; add nothing other than the train itself and its physical interactions, the screen tearing, and the color shift at the moment of the break. No slow motion, no sense of magic, no stylized horror; the final result should look like an eerie yet real image of "a train smashing through the screen, black-and-white instantly turning to color" captured by chance by a real camera in an old projection hall.
+超写实电影写实主义风格，具备照片级真实的实拍质感，强调实体物件（蒸汽火车）破画而出的现实合理性；无 CGI 光泽感 / 游戏引擎 / 风格化 3D。保留 @video1 原有的构图、放映厅光线、手持镜头状态与自然的瑕疵。锁定源视频：将 @video1 完整保留作为底图（老式放映厅、从背后看过去成排戴帽子的观众、放映机的锥形光束、银幕、环境光、色调与手持运动全部不变）；唯一新增的：火车冲出银幕、由此带来的光影变化、银幕的撕裂，以及对放映厅和前排观众轻微的物理冲击。变色规则（核心新增）：开头严格保留 @video1 原有的黑白老电影质感（颗粒 / 划痕 / 闪烁 / 单色）；就在机车真正冲破银幕、闯入现实的确切瞬间，画面骤然从黑白转为饱满真实的彩色，色彩如冲击波般以火车破出的位置为中心向整个画面扩散（火车的黑色钢铁车身、红铜色锅炉、橙黄色蒸汽灯光晕、木质车厢的暖棕色、白灰色蒸汽，以及放映厅的暖棕色都随之显现色彩）；变色与破幕冲出精准同步，此后照片级真实的彩色一直保持到结尾。锁定撕幕：银幕是一块真实的白色放映幕布，具备真实的织物张力；火车冲出时，幕布沿机车车头的轮廓被强行撕开，形成放射状的裂口，边缘向后卷起，撕碎的布纤维四处飞扬。主体：一辆老式蒸汽机车车头强行冲出银幕，黑色钢铁车身，圆柱形锅炉，车头排障器，烟囱喷吐白灰色蒸汽，明亮的车头灯，金属表面带有真实的磨损、油污、铆钉与湿润的反光，以巨大的重量与惯性向前冲来。镜头：完全继承 @video1 原有的手持运动，不做平滑、不重新变速、不重新构图；冲出的火车始终正确地锁定在银幕与放映厅空间之中，保持正确的视差、遮挡与触地投影。声音：无音乐，仅保留真实的现场音效，继承 @video1 放映厅的环境声（放映机的咔哒声、观众的骚动），并加入幕布撕裂声、蒸汽喷涌声、钢轮的机械轰鸣声与冲击气浪声。总时长与 @video1 完全相同；除火车本身及其物理互动、银幕撕裂，以及破出瞬间的变色之外，不添加任何其他内容。无慢动作，无魔法感，无风格化恐怖；最终成片应看起来像是一台真实相机在老放映厅中偶然捕捉到的、"一列火车冲破银幕、黑白瞬间转为彩色" 的诡异而真实的影像。
 ```
 
 <a id="category-5"></a>
 
-### Reference-Guided Tutorial (1)
+### 参考图引导教程 (1)
 
-### No. 1: Capsule Coffee Machine Setup Tutorial (6 refs)
+### No. 1: 胶囊咖啡机安装使用教程（6 张参考图）
 
-- **分类:** `Reference-Guided Tutorial`
+- **分类:** `参考图引导教程`
 - **来源:** `official`
 - **作者:** Volcengine Ark
 - **语言:** `zh`
@@ -533,21 +522,21 @@ Hyper-real cinematic realist style with photorealistic live-action texture, emph
 
 #### 描述
 
-A 30-second setup-and-use tutorial for a capsule coffee machine, six reference-guided steps with voiceover — from installing the water tank to the first rinse.
+一支 30 秒的胶囊咖啡机安装与使用教程，六个由参考图引导的步骤并配旁白——从安装水箱到首次冲洗。
 
 #### 提示词
 
 ```text
-A 30-second tutorial video on installing and using a capsule coffee machine. 0-2s: the opening title card reads "seedance capsule coffee machine setup tutorial". 2-5s, Step 1: install the water tank, reference @image1, medium shot from a slightly high angle, rear of the machine body, align the water tank with the slot on the back of the body and push it straight down until it clicks firmly into place, clearly showing how the tank's bottom clips align with the body's slot, the water level line visible through the tank's transparent section, voiceover "First, install the water tank. Align the tank with the slot on the back of the machine; a click means it is locked in place.". 5-9s, Step 2: install the drip tray, reference @image2, close-up front view, front bottom of the body, slide the drip tray horizontally into the guide rails at the bottom until fully seated, voiceover "Next, install the drip tray. Align the tray with the bottom rails.". 9-13s, Step 3: install the used-capsule collection box, reference @image3, close-up from a slightly low angle, the cavity beneath the drip tray, align the collection box with the recess and push it in flush with the drip tray, voiceover "Then insert the capsule collection box. Used capsules will drop down here automatically.". 13-18s, Step 4: first fill with water, reference @image4, close-up side view, the water tank at the top/back of the body, open the tank lid and pour in clean water up to the MAX water level line, then close it, emphasizing the water level line, voiceover "Open the tank lid, pour in clean water, being careful not to exceed the maximum water level line, then close the tank lid.". 18-25s, Step 5: power on, reference @image5, medium shot front view, front of the body, plug in the power cord and press the power button; the indicator light goes from blinking to steady (preheating complete), voiceover "Connect the power and press the power button. The indicator light starts blinking, which means it is preheating. When the light turns steady, the machine is ready.". 25-30s, Step 6: first rinse (without a capsule), reference @image6, medium shot moving to a close-up front-side view, without inserting a capsule press the brew button directly so hot water flows out and rinses the lines, emphasizing the "no capsule needed" note, voiceover "The last step, the first rinse. Note that this step does not require a capsule; just press the brew button. Once the rinse is done, your coffee machine is ready to use."
+一支 30 秒的胶囊咖啡机安装与使用教程视频。0-2s：开场标题卡写着 "seedance 胶囊咖啡机安装教程"。2-5s，第 1 步：安装水箱，参考 @image1，略带俯角的中景，机身背面，将水箱对准机身背部的卡槽竖直向下推入，直到 "咔哒" 一声稳固到位，清晰展示水箱底部卡扣如何与机身卡槽对齐，透过水箱透明部分可见水位线，旁白 "第一步，安装水箱。将水箱对准机器背部的卡槽；听到咔哒一声即表示已锁定到位。"。5-9s，第 2 步：安装滴水盘，参考 @image2，正面近景，机身正面底部，将滴水盘水平滑入底部导轨直至完全到位，旁白 "接下来，安装滴水盘。将滴水盘对准底部导轨。"。9-13s，第 3 步：安装废胶囊收集盒，参考 @image3，略带仰角的近景，滴水盘下方的凹腔，将收集盒对准凹槽推入，与滴水盘齐平，旁白 "然后放入胶囊收集盒。用过的胶囊会自动掉落到这里。"。13-18s，第 4 步：首次加水，参考 @image4，侧面近景，位于机身顶部/背部的水箱，打开水箱盖倒入清水至 MAX 水位线，然后盖好，重点强调水位线，旁白 "打开水箱盖，倒入清水，注意不要超过最高水位线，然后盖好水箱盖。"。18-25s，第 5 步：开机，参考 @image5，正面中景，机身正面，插上电源线并按下电源键；指示灯从闪烁转为常亮（预热完成），旁白 "接通电源，按下电源键。指示灯开始闪烁，表示正在预热。当灯变为常亮时，机器即可使用。"。25-30s，第 6 步：首次冲洗（不放胶囊），参考 @image6，中景推至正侧面近景，不放入胶囊，直接按下冲泡键，让热水流出冲洗管路，重点强调 "无需胶囊" 的提示，旁白 "最后一步，首次冲洗。请注意这一步无需放入胶囊，直接按下冲泡键即可。冲洗完成后，你的咖啡机就可以使用了。"
 ```
 
 <a id="category-6"></a>
 
-### Multimodal Reference (image+video) (1)
+### 多模态参考（图片+视频） (1)
 
-### No. 1: Fruity Cookie Commercial (image + 6 video refs)
+### No. 1: 水果饼干广告（1 张图 + 6 段视频参考）
 
-- **分类:** `Multimodal Reference (image+video)`
+- **分类:** `多模态参考（图片+视频）`
 - **来源:** `official`
 - **作者:** Volcengine Ark
 - **语言:** `zh`
@@ -568,21 +557,21 @@ A 30-second tutorial video on installing and using a capsule coffee machine. 0-2
 
 #### 描述
 
-A bright, colorful commercial for fruity cookies in four flavors — strawberry, apple, grape, orange — built from one image reference and six motion/camera video references, cut hard to a driving beat.
+一支明亮多彩的水果饼干广告，共四种口味——草莓、苹果、葡萄、橙子——由 1 张图片参考与 6 段运动/运镜视频参考打造，随强劲节拍硬切。
 
 #### 提示词
 
 ```text
-A bright, colorful commercial style with fruity cookies as the hero, in four flavors — strawberry, apple, grape, and orange; strawberry flavor reference @image1. The cookies and their matching fruits are arranged in a strongly ordered geometric array; the overall frame is clean, premium, and high-energy. It opens with the fruits orbiting rapidly around the central cookie to quickly establish visual focus — reference the composition of @video1 — cutting in on a strong musical beat. Then cookies of different flavors advance toward the lens along spiral paths, forming clear spatial depth — reference the motion and camera work of @video2 — switching colors and flavors on the beat with the background music. The array of cookies pans left and right with fast plane-to-plane cuts, strawberry, apple, grape, and orange flavors alternating as the frame jump-cuts quickly to the rhythm — reference the movement of @video3. The mid-section adds up-and-down panning; the neat cookie array rises and falls vertically like a machine — reference the movement of @video4 — highlighting the beauty of order and the richness of the product. In the climax a cookie is snapped in two and the moment enters slow motion as the fruity filling bursts open, crumbs scattering, the juicy sensation and grainy impact amplified — reference the explosion effect of @video5 — then quickly returns to the fast-paced edit. The ending brings in the English text "Fresh on Seedance, made for viral vision", entering word by word in quick succession with strong rhythmic text motion and a product freeze-frame — reference @video6 — the four cookie flavors lined up neatly with the fruits bouncing in sync for a final brand-forward close, the frame full of a young, energetic, delicious, shareable ad atmosphere.
+明亮多彩的广告风格，以水果饼干为主角，共四种口味——草莓、苹果、葡萄和橙子；草莓口味参考 @image1。饼干与相配的水果以极具秩序感的几何阵列排布；整体画面干净、高级、充满活力。开场时，水果围绕中央的饼干快速环绕旋转，迅速建立视觉焦点——参考 @video1 的构图——在强节拍上切入。随后不同口味的饼干沿螺旋路径向镜头推进，形成清晰的空间纵深——参考 @video2 的运动与运镜——随背景音乐在节拍上切换颜色与口味。饼干阵列左右横摇，以快速的平面到平面切换，草莓、苹果、葡萄、橙子口味交替出现，画面随节奏快速跳切——参考 @video3 的运动。中段加入上下摇移；整齐的饼干阵列像机械般垂直升降——参考 @video4 的运动——凸显秩序之美与产品的丰富。高潮处一块饼干被掰成两半，画面进入慢动作，果味夹心迸裂而出，饼屑四散，多汁的口感与颗粒的冲击被放大——参考 @video5 的爆炸效果——随后迅速回到快节奏剪辑。结尾引入英文文字 "Fresh on Seedance, made for viral vision"，逐字快速依次入场，配以强烈的节奏化文字动效与产品定格——参考 @video6——四种口味的饼干与水果整齐排列、同步弹跳，完成最后的品牌收尾，画面充满年轻、活力、美味、值得分享的广告氛围。
 ```
 
 <a id="category-7"></a>
 
-### Image Reference (1)
+### 图片参考 (1)
 
-### No. 1: Desert Horned Lizard & Grapefruit (3D ad)
+### No. 1: 沙漠角蜥与西柚（3D 广告）
 
-- **分类:** `Image Reference`
+- **分类:** `图片参考`
 - **来源:** `official`
 - **作者:** Volcengine Ark
 - **语言:** `zh`
@@ -597,21 +586,21 @@ A bright, colorful commercial style with fruity cookies as the hero, in four fla
 
 #### 描述
 
-A bright, glossy 3D animated commercial: a parched desert horned lizard finds a grapefruit, bites in, and a juice tsunami turns the desert into a summer sea. Built from one character reference.
+一支明亮、光泽感十足的 3D 动画广告：一只焦渴的沙漠角蜥找到一颗西柚，一口咬下，果汁海啸将沙漠变成夏日之海。由单张角色参考图打造。
 
 #### 提示词
 
 ```text
-A 3D animated commercial style, bright and translucent colors; the pulp and juice must feel intensely refreshing and impactful. The overall vibe is like a high-quality commercial animated short with a touch of exaggerated humor. The desert horned lizard character is cute, lively and expressive, reference @image1. The image texture references that soft natural light, delicate fuzz/skin texture, dreamy macro depth of field, and a realistic-yet-slightly-childlike feel from the reference image. 0-3s: a desert scorched by the blazing sun, the air shimmering with heat and the sand searing hot; a desert horned lizard lies on the scalding sand, tongue slightly out, eyes glazed, nearly dried out, swaying with every couple of steps as if about to "evaporate". 3-6s: it suddenly stops, its nose twitches, and looking down it spots a cool, plump, dew-covered grapefruit half-buried in the sand, glistening like a desert miracle; the lizard's eyes go wide in an instant. 6-8s: it pounces over, hugging the grapefruit tightly with both hands, pressing its whole face against the rind with a blissful "I'm finally alive" expression; the frame holds for 1 second, forming an exaggerated, funny memory beat. 8-11s: it looks up, opens its mouth and takes a big bite; the grapefruit rind splits open, the plump pulp shining with a translucent gloss, and the next moment the juice erupts like a tsunami. 11-16s: orange-pink, translucent, glistening grapefruit juice gushes out wildly, pouring down the dunes and rapidly flooding the entire desert; the dry yellow sand instantly turns into a cool, sparkling, fruit-scented summer sea, cacti, rocks and small dunes swallowed by the waves of juice, the lizard's expression turning from delight to terror. 16-20s: nearly drowned by the "grapefruit sea", it frantically clutches half a grapefruit like a life buoy and floats, poking its soaked head out looking dazed. 20-24s: cut to a white screen; the brand name and slogan appear dead-center: "Seedance Grapefruit — bite in for the pulp, what pours out is summer." The voiceover reads the whole line. 24-30s: cut back from white; the desert horned lizard is now lounging on the floating grapefruit, wearing tiny sunglasses and holding a cup with a straw, drifting leisurely on the "juice sea" on vacation, surrounded by floating orange pulp, little ice cubes, cool splashes and a clear blue sky; the mood shifts from "survival" to "vacation", and finally it leans back contentedly on the grapefruit as the camera pulls out and freezes on a refreshing, bright, playful summer frame.
+3D 动画广告风格，色彩明亮而通透；果肉与果汁必须给人极度清爽、极具冲击力的感觉。整体氛围如同一支带着夸张幽默感的高品质广告动画短片。沙漠角蜥这一角色可爱、活泼、表情丰富，参考 @image1。画面质感参考参考图中那种柔和的自然光、细腻的绒毛/皮肤质感、梦幻的微距景深，以及写实中略带童趣的感觉。0-3s：一片被烈日炙烤的沙漠，空气因高温而扭曲，沙子滚烫；一只沙漠角蜥趴在滚烫的沙地上，舌头微微伸出，双眼呆滞，几近脱水，每走两步就摇晃一下，仿佛马上就要 "蒸发"。3-6s：它突然停下，鼻子抽动了一下，低头发现一颗清凉、饱满、挂满露珠的西柚半埋在沙中，晶莹得如同沙漠中的奇迹；角蜥的双眼瞬间瞪大。6-8s：它猛扑过去，双手紧紧抱住西柚，整张脸贴在果皮上，露出 "我终于活过来了" 的幸福表情；画面定格 1 秒，形成一个夸张、搞笑的记忆点。8-11s：它抬起头，张嘴狠狠咬了一大口；西柚皮裂开，饱满的果肉泛着通透的光泽，下一刻果汁如海啸般喷涌而出。11-16s：橙粉色、通透、晶莹的西柚汁疯狂喷涌，顺着沙丘倾泻而下，迅速淹没整片沙漠；干黄的沙子瞬间化作清凉、闪耀、果香四溢的夏日之海，仙人掌、岩石与小沙丘被果汁的浪涛吞没，角蜥的表情从欣喜转为惊恐。16-20s：几乎被 "西柚之海" 淹没的它，慌乱地抱住半颗西柚当作救生圈漂浮着，把湿透的脑袋探出水面，一脸茫然。20-24s：切至白屏；品牌名与标语出现在正中央："Seedance 西柚——咬下去是果肉，涌出来的是夏天。" 旁白读出整句。24-30s：从白屏切回；沙漠角蜥此刻正惬意地躺在漂浮的西柚上，戴着小墨镜，端着一杯插着吸管的饮料，在 "果汁海" 上悠闲地度假漂流，四周漂着橙色果肉、小冰块、清凉的水花和一片湛蓝晴空；情绪从 "求生" 转为 "度假"，最后它心满意足地靠在西柚上，镜头拉出，定格在一个清爽、明亮、俏皮的夏日画面上。
 ```
 
 <a id="category-8"></a>
 
-### Image Reference (Cinematic) (1)
+### 图片参考（电影感） (1)
 
-### No. 1: Drunk Man's Rooftop Fall (black-comedy short)
+### No. 1: 醉汉坠楼记（黑色幽默短片）
 
-- **分类:** `Image Reference (Cinematic)`
+- **分类:** `图片参考（电影感）`
 - **来源:** `official`
 - **作者:** Volcengine Ark
 - **语言:** `zh`
@@ -626,2012 +615,12 @@ A 3D animated commercial style, bright and translucent colors; the pulp and juic
 
 #### 描述
 
-A ~30s black-comedy cinematic short: a chubby, tipsy man topples off a rooftop, grabs a lifeline, crashes through a window, and simply falls asleep. Character from one reference image; built on hard cuts between roar and total silence.
+一支约 30 秒的黑色幽默电影感短片：一个胖乎乎、醉醺醺的男人从楼顶跌落，抓住一根救命绳，撞穿窗户，然后就地睡着。角色来自单张参考图；以巨响与全然寂静之间的硬切为核心。
 
 #### 提示词
 
 ```text
-[Drunk Man's Rooftop Fright — falls off the edge — grabs a rope through the window — passes out on the spot | black-comedy short | about 30 seconds] One-line premise: a chubby, cute, drunk middle-aged man is eating a burger and drinking beer on the rooftop of a building; as he stands up and stretches he accidentally loses his footing and falls, in his panic grabs a lifesaving rope and immediately crashes through a window into an interior, is dazed and stunned for one second, then just lies down where he is and falls fast asleep. Reference image @image1 — a chubby, cute, drunk middle-aged man: round and stocky build with a big round beer belly, short in stature, movements loose, slow and wobbly from drinking; round face, double chin, drink-flushed cheeks and nose, eyes narrowed to slits with a bleary gaze, an untrimmed ring of short stubble, messy hair, a silly, cute, carefree expression; wearing a white tank-top undershirt stained with burger sauce hanging loosely over his round belly, old jeans, shuffling along in loose slippers, always clutching a half-eaten burger in his hand. There is only this one character in the whole film, a 100% match to the reference image. Overall look: a nighttime cyberpunk mega-city, a dense forest of glass-and-steel skyscrapers, neon signs (cyan / magenta / electric blue), holographic billboards, wet reflective ground, volumetric fog, distant flying-car light trails and drones. Real live-action texture, physical cinema lenses, no 3D rendering / game engine / anime feel. The camera mixes handheld with jib / drone; after the fall the camera plunges down with him as the building's exterior wall and the neon streak upward to convey speed, 24-35mm widescreen cinematic lens texture, 180-degree shutter motion blur. Sound design is the key to the black comedy: hard-cutting repeatedly between "a huge roar" and "total silence". Real gravity throughout. Storyboard (about 30 seconds): S1 (0-4s) opening chewing big close-up (with sound) the man's face fills the screen, chewing the burger in big bites, a satisfied drunken state; S2 (4-9s) pull to a wide shot, stretching -> losing footing and falling (with sound) he wobbles to his feet and stretches big, leans back, can't keep his balance, his foot slips and he tumbles backward over the edge of the rooftop, never letting go of the burger, with a panicked "Eh——!"; S3 (9-12s) cut to a startled facial close-up (a loud scream, huge roar) drunken eyes bulging round, double chin bunched up, mouth wide in a screaming "Ahh——!!", wind howling; S4 (12-16s) cut to a long shot at eye level (total silence) seen from the building across the way, a tiny white figure plummeting straight down from the high-rise, the neon city vast and indifferent, the total silence forming a black-comedy contrast with the huge roar a second earlier; S5 (16-21s) cut to a facial close-up (screaming) -> grabbing the rope, still screaming, hands flailing in the air, he suddenly grabs a lifesaving cable, the cable snapping taut and bending under his weight with a twang, the scream cutting off abruptly as he is jerked and swings out (a brief slow motion at the moment he grabs the rope); S6 (21-26s) cut to an interior angle (quiet) -> the glass shatters -> he crashes in, the interior first quiet with only the hum of the air conditioner, the next second the glass explosively bursts inward (a brief bullet time) as the drunk man, burger and all, smashes through the window, shards flying out radially, neon light streaming in, and he crashes heavily into the room onto the floor / sofa, broken glass clinking; S7 (26-30s) ending, a startled second -> falls asleep, the man sprawled spread-eagle on the floor, covered in broken glass, still clutching the burger, slowly opens his eyes, dazed, blank and startled for a full second, looking around as if thinking "where am I?", then the drunkenness takes over and, not caring at all, he smacks his lips, tucks the burger into his arms, rolls over, lies down right there and falls fast asleep, even snoring lightly, the camera pulls out and freezes, hard cut to black. Only on-set live sound, no music, no subtitles; the core is hard cuts repeatedly between "huge roar" and "silence".
-```
-
-<a id="category-9"></a>
-
-### Twitter Community (24)
-
-### No. 1: Veloce-X 神经水合条广告
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** Gilbert Odera | Your AI Plug🇰🇪
-- **语言:** `zh`
-- **原始链接:** [查看](https://x.com/yourPlugAI/status/2064591659115905203)
-
-#### 描述
-
-一个用于创作 15 秒超写实、高速电影感商业广告的提示，内容为神经水合产品。
-
-#### 提示词
-
-```text
-Create a 15-second ultra-realistic, high-speed cinematic image-to-video commercial for Veloce-X Neuro-Hydration Strips, utilizing the provided reference images as the absolute anchor for character, product design, color palette, and
-```
-
-### No. 2: 雨中戴面具的男子
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** Xfeed24
-- **语言:** `zh`
-- **视频:** [查看](https://video.twimg.com/amplify_video/2064605968420261888/vid/avc1/1280x716/DknXfm6NuCMCohq9.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064605968420261888/vid/avc1/1280x716/DknXfm6NuCMCohq9.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/XfeedZ24/status/2064606040797171839)
-
-#### 描述
-
-一名男子戴着未来主义面具站在雨中，表情忧郁的特写镜头。
-
-#### 提示词
-
-```text
-close-up of a man in a futuristic mask, wet hair, rain falling, dark and moody lighting, cinematic shot
-```
-
-### No. 3: 咖啡能量
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** minchinEdits
-- **语言:** `zh`
-- **视频:** [查看](https://video.twimg.com/amplify_video/2064606538237710336/vid/avc1/720x1280/qcEBjR0LJuF4rgce.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064606538237710336/vid/avc1/720x1280/qcEBjR0LJuF4rgce.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/minchinEdits/status/2064606613865103832)
-
-#### 描述
-
-一位女性从咖啡中散发出能量，周围环绕着充满活力的办公室场景。
-
-#### 提示词
-
-```text
-a vibrant animated scene of a woman surrounded by glowing golden energy, holding a coffee cup, with multiple versions of her and coworkers in an office environment, all expressing excitement and productivity, cinematic lighting, dynamic composition, 3D animation style
-```
-
-### No. 4: 采用实景特效的黑暗奇幻战斗
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** Build Fast with AI
-- **语言:** `zh`
-- **视频:** [查看](https://video.twimg.com/amplify_video/2064395868787347456/vid/avc1/854x480/Nmuqe4FnZH5lRPZd.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064395868787347456/vid/avc1/854x480/Nmuqe4FnZH5lRPZd.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/BuildFastWithAI/status/2064595921443139684)
-
-#### 描述
-
-一个使用Seedance 2.0生成15秒黑暗奇幻战斗场景的提示，要求低锐度和实景特效美学。
-
-#### 提示词
-
-```text
-15-second dark fantasy battle. Seedance 2.0. Zero post. Zero upscaling. Low sharpness + practical effect aesthetic.
-```
-
-### No. 5: 小猫角色设计
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** GPTProto Official
-- **语言:** `zh`
-- **视频:** [查看](https://video.twimg.com/amplify_video/2064599776021426176/vid/avc1/1080x1920/b4Mr5JDKiFBYrzOo.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064599776021426176/vid/avc1/1080x1920/b4Mr5JDKiFBYrzOo.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/gptproto/status/2064601178902814752)
-
-#### 描述
-
-一只迷人的橙色小猫坐在阳光明媚的客厅木桌上，下方展示着其3D模型、表情和配色方案的详细角色设计图。
-
-#### 提示词
-
-```text
-a cute orange tabby kitten with big eyes sitting on a wooden table in a cozy living room, surrounded by a tissue box, a glass of water, and a toy mouse, with detailed character design sheets below showing 3D model views, expressions, poses, and color references, soft natural lighting, warm atmosphere, cinematic depth of field
-```
-
-### No. 6: AI 会议上的女性演讲者
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** CloudwiseAI
-- **语言:** `zh`
-- **原始链接:** [查看](https://x.com/cloudwiseAI2026/status/2064591595991969879)
-
-#### 描述
-
-一位女性在屏幕前对着麦克风讲话，屏幕上显示着一个以足球为主题的生成式 AI 会议网站。
-
-#### 提示词
-
-```text
-a woman speaking into a microphone in front of a large screen displaying a GenAI conference website with a soccer stadium background, natural lighting from windows, realistic details, medium shot
-```
-
-### No. 7: 城市上空的漩涡
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** Pixmax
-- **语言:** `zh`
-- **视频:** [查看](https://video.twimg.com/amplify_video/2064593085431185408/vid/avc1/1080x720/dawSBFfVAweSgYmE.mp4?tag=14)
-
-<video src="https://video.twimg.com/amplify_video/2064593085431185408/vid/avc1/1080x720/dawSBFfVAweSgYmE.mp4?tag=14" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/Pixmax_ai/status/2064593399882432615)
-
-#### 描述
-
-一名男子仰望着悬浮在未来都市夜空中的发光蓝色漩涡。
-
-#### 提示词
-
-```text
-a man in a black jacket stands in a futuristic city at night, looking up at a massive glowing blue vortex in the sky, surrounded by towering skyscrapers with neon lights, cinematic lighting, wide-angle shot, dramatic perspective
-```
-
-### No. 8: 《火影忍者》现场盛典
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** AIAI.COM
-- **语言:** `zh`
-- **视频:** [查看](https://video.twimg.com/amplify_video/2064592744111325184/vid/avc1/1920x1080/QMHtQZk7WlNnDcml.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064592744111325184/vid/avc1/1920x1080/QMHtQZk7WlNnDcml.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/Aiaicom09/status/2064592826290336125)
-
-#### 描述
-
-一场现场舞台表演，鸣人和佐助身着标志性服装，观众们正用手机记录这一时刻。
-
-#### 提示词
-
-```text
-live stage performance of Naruto characters, Naruto Uzumaki and Sasuke Uchiha in full costume, standing on a stage with a crowd watching, bright daylight, realistic lighting, detailed costumes, dynamic pose, audience holding phones to record, Japanese text banner above stage reading 'LIVE SPECTACULAR NARUTO', wide shot, static camera
-```
-
-### No. 9: 探索 GlobalGPT AI 平台
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** Choya
-- **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/prompt/seedance-2/x_2064988432590356506.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2064988432590356506.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/choyamymuna/status/2064988432590356506)
-
-#### 描述
-
-本视频通过详细的屏幕录制，展示了 GlobalGPT 平台用于图像、视频和音频生成的多样化 AI 模型与工具。
-
-#### 提示词
-
-```text
-A static screen recording of a desktop computer displaying the GlobalGPT website in a web browser. The cursor moves across the screen, clicking on navigation links and scrolling through lists of AI video, image, and audio generation models and tools. The background behind the browser window features an abstract, vibrant gradient of blue, purple, pink, and orange waves. The focus is entirely on the browser's UI and its interactive elements.
-```
-
-### No. 10: 电影感足球视频与超写实球员
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** auqib
-- **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/prompt/seedance-2/x_2064989700738412551.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2064989700738412551.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/auqibhabib/status/2064989700738412551)
-
-#### 描述
-
-一部混合媒体电影感视频，将超写实的人类足球运动员融入逼真的体育场环境中。
-
-#### 提示词
-
-```text
-Mixed-media cinematic football video featuring ultra-realistic human football players inspired by Image1 and Image2, seamlessly integrated into the ultra-realistic football stadium environment from Image3. Same team, same
-```
-
-### No. 11: 黄金时段的电影级斗牛
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** WasifAI
-- **语言:** `zh`
-- **视频:** [查看](https://video.twimg.com/ext_tw_video/2064595743864737792/pu/vid/avc1/1920x1080/_o4DsXvAFcjPpDIc.mp4)
-
-<video src="https://video.twimg.com/ext_tw_video/2064595743864737792/pu/vid/avc1/1920x1080/_o4DsXvAFcjPpDIc.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/doctorwasif/status/2064595805906817115)
-
-#### 描述
-
-一个用于生成连续15秒电影级场景的视频提示，设定在黄金时段的斗牛场，要求照片级真实感。
-
-#### 提示词
-
-```text
-15s continuous cinematic Hollywood 60fps, photoreal Plaza de Toros at golden hour, packed crowd, dust in warm amber light. Consistent matador (@ Image1) in emerald-gold
-```
-
-### No. 12: 迷人的童话水彩动画
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** OscarAI
-- **语言:** `zh`
-- **原始链接:** [查看](https://x.com/Artedeingenio/status/2064985164116119665)
-
-#### 描述
-
-一段 15 秒连续单镜头视频，无剪辑或转场，风格为异想天开的手绘水彩与墨水童话动画。
-
-#### 提示词
-
-```text
-15-second continuous single-shot. No cuts. No scene transitions. Style: enchanting fairy tale animation, hand-painted watercolor and ink illustration brought to life, whimsical
-```
-
-### No. 13: 科幻赛道上的机械蜘蛛
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** Avelyrah
-- **语言:** `zh`
-- **视频:** [查看](https://video.twimg.com/ext_tw_video/2064608014934695936/pu/vid/avc1/1280x720/2Cwwi5g_SYa4kIy8.mp4)
-
-<video src="https://video.twimg.com/ext_tw_video/2064608014934695936/pu/vid/avc1/1280x720/2Cwwi5g_SYa4kIy8.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/AvelyrahnAI/status/2064608055908868501)
-
-#### 描述
-
-一段快节奏的科幻视频片段，一位身穿运动服的金发女子手腕上展开一只机械蜘蛛，学生们四散奔逃。
-
-#### 提示词
-
-```text
-A fast-paced sci-fi video sequence on a high school running track under a dark, overcast sky. A blonde woman in a navy and white tracksuit walks confidently forward as students flee. A robotic spider on her wrist rapidly expands
-```
-
-### No. 14: 士兵俯瞰舰队
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** Global Frontline News
-- **语言:** `zh`
-- **视频:** [查看](https://video.twimg.com/amplify_video/2064598715831398400/vid/avc1/1280x720/8wGHKWvZrRIK6fxS.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064598715831398400/vid/avc1/1280x720/8wGHKWvZrRIK6fxS.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/OmeyLad23/status/2064611393580757271)
-
-#### 描述
-
-一名士兵站在军用飞机的尾部，凝视着下方海洋上庞大的舰队。
-
-#### 提示词
-
-```text
-a soldier in tactical gear stands at the open rear of a military transport aircraft, looking out over a fleet of naval ships on the ocean, cinematic lighting, wide shot from behind, high detail, realistic
-```
-
-### No. 15: 霍格沃茨魁地奇飞行
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** Cyber AI Creator 🎨
-- **语言:** `zh`
-- **视频:** [查看](https://video.twimg.com/amplify_video/2064598185205731328/vid/avc1/720x806/RJuHUIc2jLdBY5Wy.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064598185205731328/vid/avc1/720x806/RJuHUIc2jLdBY5Wy.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/noman23761/status/2064598264528470051)
-
-#### 描述
-
-第一人称视角，骑着扫帚飞越霍格沃茨的魁地奇球场，随后切换到日落时分城堡的广阔航拍画面。
-
-#### 提示词
-
-```text
-first-person view of flying on a broomstick over the Quidditch field at Hogwarts, with golden hoops and castle in background, transitioning to an aerial wide shot of Hogwarts Castle at sunset with red trail showing flight path
-```
-
-### No. 16: 冰霜战士概念艺术
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** Cyber AI Creator 🎨
-- **语言:** `zh`
-- **视频:** [查看](https://video.twimg.com/amplify_video/2064597000713281536/vid/avc1/1140x1080/2ItRonsYxDE0Pyne.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064597000713281536/vid/avc1/1140x1080/2ItRonsYxDE0Pyne.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/noman23761/status/2064597123795173495)
-
-#### 描述
-
-一幅概念艺术插图，描绘了雪地环境中一位女战士和一个冰魔像，并附有详细的角色设计。
-
-#### 提示词
-
-```text
-concept art of a female warrior and an ice golem in a snowy landscape, detailed character designs with armor and weapons, anime style, wide shot, static camera
-```
-
-### No. 17: 复古街道漫步
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** EdenWood
-- **语言:** `zh`
-- **视频:** [查看](https://video.twimg.com/amplify_video/2064592895923965952/vid/avc1/1280x720/8JlrIYiYHhKJtJ-_.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064592895923965952/vid/avc1/1280x720/8JlrIYiYHhKJtJ-_.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/EdenWood62747/status/2064592964366585994)
-
-#### 描述
-
-一名男子走在熙熙攘攘的复古街道上，背景中有电车，以黑白影像和电影级细节捕捉。
-
-#### 提示词
-
-```text
-black and white vintage street scene, a man in a white shirt walking toward the camera, old tram in the background, people walking on the street, colonial architecture, sepia tone, cinematic lighting, slow motion
-```
-
-### No. 18: 关于 3D 渲染的演示
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** CloudwiseAI
-- **语言:** `zh`
-- **原始链接:** [查看](https://x.com/cloudwiseAI2026/status/2064591627214356928)
-
-#### 描述
-
-在一次研讨会中，一位演示者指向屏幕，屏幕上显示着 3D 渲染的球体。
-
-#### 提示词
-
-```text
-a man giving a presentation in front of an audience, pointing at a large screen displaying a 3D rendering of two reflective spheres on a wooden table, with natural light coming through windows in the background
-```
-
-### No. 19: GlobalGPT 网站概览
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** Rasel Hosen
-- **语言:** `zh`
-- **视频:** [查看](https://video.twimg.com/amplify_video/2064592725241184256/vid/avc1/1280x720/NI71SYLYLAoa66wB.mp4?tag=14)
-
-<video src="https://video.twimg.com/amplify_video/2064592725241184256/vid/avc1/1280x720/NI71SYLYLAoa66wB.mp4?tag=14" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/details_with_ai/status/2064592792354275730)
-
-#### 描述
-
-一张 GlobalGPT 网站首页的截图，背景色彩鲜艳，展示了多种 AI 工具选项。
-
-#### 提示词
-
-```text
-a screen recording of the GlobalGPT website homepage with a colorful abstract background, showing the navigation menu, AI model selection interface, and promotional banners, with a subtle zoom-in effect on the central content area
-```
-
-### No. 20: 阳光小径的冒险
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** 💫Wigglenator💫
-- **语言:** `zh`
-- **原始链接:** [查看](https://x.com/Wigglenatorr/status/2064608020701532188)
-
-#### 描述
-
-一位长着角的年轻动漫女孩站在沐浴在金色阳光下的鹅卵石小径上。
-
-#### 提示词
-
-```text
-anime girl with white hair and horns, wearing a red cloak, standing on a stone path in a sunlit garden, golden hour lighting, soft focus background, detailed character design, warm tones
-```
-
-### No. 21: 士兵俯瞰舰队
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** Global Frontline News
-- **语言:** `zh`
-- **视频:** [查看](https://video.twimg.com/amplify_video/2064598715831398400/vid/avc1/1280x720/8wGHKWvZrRIK6fxS.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064598715831398400/vid/avc1/1280x720/8wGHKWvZrRIK6fxS.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/OmeyLad23/status/2064606091951190378)
-
-#### 描述
-
-一名士兵站在军用飞机的尾部，凝视着公海上庞大的海军舰队。
-
-#### 提示词
-
-```text
-a soldier in tactical gear stands at the open rear ramp of a military transport aircraft, looking out over a vast fleet of warships on the ocean, cinematic lighting, high detail, wide shot
-```
-
-### No. 22: 朋克摇滚客厅
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** Cyber AI Creator 🎨
-- **语言:** `zh`
-- **视频:** [查看](https://video.twimg.com/amplify_video/2064595369720442880/vid/avc1/1080x1216/n-dxp79lHtiON4Wj.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064595369720442880/vid/avc1/1080x1216/n-dxp79lHtiON4Wj.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/noman23761/status/2064595569763639713)
-
-#### 描述
-
-一张抓拍照片，五位拥有另类时尚风格的女性在波西米亚风格的公寓里放松，一只白猫正朝她们走去。
-
-#### 提示词
-
-```text
-a group of five young women with punk rock style sitting on a couch in a cozy, cluttered living room filled with plants and music posters, a white cat walking away from the camera towards the group, warm ambient lighting, realistic photo style
-```
-
-### No. 23: 海上潜水员击掌
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** Ranveer Singh Sisodia
-- **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/prompt/seedance-2/x_2064988239623225619.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2064988239623225619.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/sphereofai/status/2064988239623225619)
-
-#### 描述
-
-一名潜水员在船上与另一名在开阔海域的潜水员击掌，天空明亮。
-
-#### 提示词
-
-```text
-first person view of a diver on a boat, high five with another diver, clear blue ocean, sunny day, wide angle lens
-```
-
-### No. 24: AI 演示示例
-
-- **分类:** `Twitter Community`
-- **来源:** `x`
-- **作者:** CloudwiseAI
-- **语言:** `zh`
-- **原始链接:** [查看](https://x.com/cloudwiseAI2026/status/2064591614627189158)
-
-#### 描述
-
-一位演示者正在向观众讲解，同时屏幕上展示着具有反射效果的球体数字动画。
-
-#### 提示词
-
-```text
-a man giving a presentation in front of an audience, holding a microphone, with a large screen displaying two reflective spheres on a dark surface, natural light from windows, indoor setting with plants and audio equipment
-```
-
-<a id="category-10"></a>
-
-### 音频与语音合成 (10)
-
-### No. 1: 猫狗吐槽大战
-
-- **分类:** `音频与语音合成`
-- **来源:** `official`
-- **作者:** AtlasCloud
-- **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/1793c9e5-608e-435e-a72b-0e657bbb2d5c.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/1793c9e5-608e-435e-a72b-0e657bbb2d5c.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/35)
-
-#### 描述
-
-猫和狗之间的搞笑吐槽对话，充满幽默感。
-
-#### 提示词
-
-```text
-在"猫狗吐槽间"里的一段吐槽对话,要求情感丰沛,符合脱口秀表演:\n喵酱(猫主持,舔毛翻眼):"家人们谁懂啊,我身边这位,每天除了摇尾巴、拆沙发,就只会用那种\
-```
-
-### No. 2: 办公楼纪录片
-
-- **分类:** `音频与语音合成`
-- **来源:** `official`
-- **作者:** AtlasCloud
-- **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/843a60ae-3df3-4c37-9fd4-2437f3ac2253.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/843a60ae-3df3-4c37-9fd4-2437f3ac2253.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/34)
-
-#### 描述
-
-以纪录片风格介绍办公楼，配合专业旁白。
-
-#### 提示词
-
-```text
-根据提供的写字楼宣传照,生成一段15秒电影级写实风格的地产纪录片,采用2.35:1宽银幕,24fps,细腻的画面风格,其中旁白的音色参考@视频1,拍摄"写字楼的生态",呈现楼内不同企业的运作
-```
-
-### No. 3: 鱼眼镜头搞笑马
-
-- **分类:** `音频与语音合成`
-- **来源:** `official`
-- **作者:** AtlasCloud
-- **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/26d450cd-23c4-499e-9fd6-1752dabbc8bd.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/26d450cd-23c4-499e-9fd6-1752dabbc8bd.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/33)
-
-#### 描述
-
-用鱼眼镜头拍摄搞笑的马匹场景，配合夸张的音效。
-
-#### 提示词
-
-```text
-固定镜头,中央鱼眼镜头透过圆形孔洞向下窥视,参考视频1的鱼眼镜头,让@视频2中的马看向鱼眼镜头,参考@视频1中的说话动作,背景BGM参考@视频3中的音效
-```
-
-### No. 4: 多元文化家庭庆典
-
-- **分类:** `音频与语音合成`
-- **来源:** `official`
-- **作者:** AtlasCloud
-- **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/ac11aa46-e846-4167-af87-53f0be98df9e.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/ac11aa46-e846-4167-af87-53f0be98df9e.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/38)
-
-#### 描述
-
-展示多元文化家庭的节日庆典场景。
-
-#### 提示词
-
-```text
-画面中央戴帽子的女孩轻声唱着"I'm so proud of you"，温柔的表情，柔和的灯光，亲密的氛围，配合吉他伴奏。
-```
-
-### No. 5: 早晨叫醒对话
-
-- **分类:** `音频与语音合成`
-- **来源:** `official`
-- **作者:** AtlasCloud
-- **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/7744c998-76b7-436f-9066-6d4ef5f0ce7f.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/7744c998-76b7-436f-9066-6d4ef5f0ce7f.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/40)
-
-#### 描述
-
-温馨的早晨叫醒对话场景，展示自然的语音交互。
-
-#### 提示词
-
-```text
-0-3秒：开场闹钟响起，朦胧画面显示场景。3-6秒：人物起床，伸懒腰。6-10秒：洗漱、穿衣。10-15秒：出门，配合轻快的背景音乐，展现日常生活的开始。
-```
-
-### No. 6: 战术小队西班牙语简报
-
-- **分类:** `音频与语音合成`
-- **来源:** `official`
-- **作者:** AtlasCloud
-- **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/cda3c348-80c8-445b-8d85-d1eefe36e0b2.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/cda3c348-80c8-445b-8d85-d1eefe36e0b2.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/39)
-
-#### 描述
-
-战术小队用西班牙语进行任务简报的场景。
-
-#### 提示词
-
-```text
-固定镜头。站立的魁梧男人（队长）握紧拳头，严肃的表情，对着镜头说："准备行动！"，军事题材，紧张的氛围。
-```
-
-### No. 7: 中国戏曲表演
-
-- **分类:** `音频与语音合成`
-- **来源:** `official`
-- **作者:** AtlasCloud
-- **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/6f6ea681-2e7b-4e35-9126-a72d2046bc1f.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/6f6ea681-2e7b-4e35-9126-a72d2046bc1f.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/36)
-
-#### 描述
-
-展示中国传统戏曲表演，配合经典唱腔。
-
-#### 提示词
-
-```text
-豫剧经典《朝阳沟》的伴奏响起，@图片1的戏曲演员登场，唱腔婉转，身段优美，传统戏曲表演，配合舞台灯光效果。
-```
-
-### No. 8: 四川话奶茶对话
-
-- **分类:** `音频与语音合成`
-- **来源:** `official`
-- **作者:** AtlasCloud
-- **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/4f4d9b27-1962-494e-b1fa-5191ede1b500.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/4f4d9b27-1962-494e-b1fa-5191ede1b500.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/41)
-
-#### 描述
-
-用四川方言进行的搞笑奶茶店对话。
-
-#### 提示词
-
-```text
-@图片1的猴子走向奶茶店柜台，用方言说："老板，来杯珍珠奶茶！"，幽默的对话，店员惊讶的表情，喜剧效果。
-```
-
-### No. 9: 西游记故事讲述
-
-- **分类:** `音频与语音合成`
-- **来源:** `official`
-- **作者:** AtlasCloud
-- **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/14269628-c801-4b26-b400-38b2c7d2d97a.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/14269628-c801-4b26-b400-38b2c7d2d97a.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/42)
-
-#### 描述
-
-以西游记为主题的故事讲述视频。
-
-#### 提示词
-
-```text
-采用纪录片风格和旁白，呈现@图片1-5的内容，讲述中国古典文学的魅力，配合古典音乐，教育性与艺术性结合。
-```
-
-### No. 10: 电影感公路旅行 MV
-
-- **分类:** `音频与语音合成`
-- **来源:** `official`
-- **作者:** AtlasCloud
-- **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/f9f34a78-6001-4013-8e9a-a413ca727f00.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/f9f34a78-6001-4013-8e9a-a413ca727f00.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/37)
-
-#### 描述
-
-电影质感的公路旅行音乐视频，配合原创音乐。
-
-#### 提示词
-
-```text
-生成15秒MV视频。关键词：稳定构图、电影感、旅行、风景。镜头展现壮丽的自然风光，配合抒情音乐，传达自由与探索的主题。
-```
-
-<a id="category-11"></a>
-
-### 高级运镜动作 (13)
-
-### No. 1: IMAX风格沙漠沙尘暴场景，Denis Villeneuve美学
-
-- **分类:** `高级运镜动作`
-- **来源:** `twitter`
-- **作者:** John (@johnAGI168)
-- **语言:** `zh`
-- **视频:** [查看](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/c3e4c06f-da7d-4127-ad68-7ed1656e2472.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/c3e4c06f-da7d-4127-ad68-7ed1656e2472.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/johnAGI168/status/2020989515939148146)
-
-#### 描述
-
-IMAX风格沙漠沙尘暴场景，Denis Villeneuve美学。包含时间戳多镜头结构。
-
-#### 提示词
-
-```text
-风格：IMAX 70mm，Denis Villeneuve 式冷峻史诗感，低饱和高对比。 极远全景：巨大沙暴墙吞没地平线，装甲车队在前景高速撤离，突出“人类渺小”。 车内主观镜头：驾驶舱剧烈震动，挡风玻璃被沙粒连续冲击，仪表红灯闪烁，角色大喊“最大推力！”，紧张值拉满。 高潮慢动作：领头车冲上沙丘腾空，剪影悬于黑色沙暴前，沙暴内部闪电划过，碎屑掠过镜头，落地瞬间切黑。要求镜头转场干净，音画节奏层层推进。
-```
-
-### No. 2: 单个提示词生成的南印度电影外星人场景
-
-- **分类:** `高级运镜动作`
-- **来源:** `twitter`
-- **作者:** rohan anil (@_arohan_)
-- **语言:** `zh`
-- **视频:** [查看](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/068af607-5e54-4331-9c25-3afc190d1a53.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/068af607-5e54-4331-9c25-3afc190d1a53.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/_arohan_/status/2021369768004161783)
-
-#### 描述
-
-单个提示词生成的南印度电影外星人场景。展示跨文化电影制作能力。
-
-#### 提示词
-
-```text
-南印度商业大片风格的外星人入侵动作场景。画面采用高饱和色彩、强烈逆光、夸张慢动作与英雄式构图。镜头先建立外星飞船降临城市广场，再切主角登场特写（风吹衣摆、低机位仰拍），随后进入多角度对战：广角展示规模，中景表现连招，近景突出表情与冲击瞬间。动作允许戏剧化但需节奏明确，配合烟雾、尘土、火花和镜头眩光，形成“热血、张力、仪式感”并重的风格。
-```
-
-### No. 3: 燃烧军车的城市战争航拍镜头
-
-- **分类:** `高级运镜动作`
-- **来源:** `twitter`
-- **作者:** Carlos Santana (@DotCSV)
-- **语言:** `zh`
-- **视频:** [查看](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/81bd1286-8024-4a62-a77a-0873d8137ae6.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/81bd1286-8024-4a62-a77a-0873d8137ae6.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/DotCSV/status/2020519499082969142)
-
-#### 描述
-
-电影级无人机镜头捕捉城市战斗的余波。展示 Seedance 2.0 生成逼真战争场景的能力，包含详细的破坏效果和氛围渲染。
-
-#### 提示词
-
-```text
-生成一段战争纪实风格航拍镜头：无人机高空俯拍一条被战火摧毁的城市十字路口，中心是一辆被击毁的装甲车，车体持续燃烧并冒出浓黑烟柱。道路布满碎石、金属残骸和破损路障，两侧建筑外立面焦黑、窗户破碎。天空阴沉偏灰，整体色调去饱和，强调悲怆与压抑。镜头语言从高空建立镜头缓慢下降到中高空，保持稳定推进，展示破坏规模与空间关系。火焰、烟雾、热浪、灰尘运动要真实，细节具备纪录片级可信度，画面加入轻微胶片颗粒。
-```
-
-### No. 4: 史诗奇幻战斗
-
-- **分类:** `高级运镜动作`
-- **来源:** `official`
-- **作者:** AtlasCloud
-- **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/a15ec27b-9b38-407d-aa7a-460c9ed17e7f.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/a15ec27b-9b38-407d-aa7a-460c9ed17e7f.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/16)
-
-#### 描述
-
-展现宏大的奇幻战斗场景，结合特效和电影级运镜。
-
-#### 提示词
-
-```text
-参考视频1的角色动作，参考@图片1 @图片2的场景环境，生成奇幻战斗场景，角色施展魔法技能，粒子特效环绕，镜头动态跟随。
-```
-
-### No. 5: 汽车广告运镜
-
-- **分类:** `高级运镜动作`
-- **来源:** `official`
-- **作者:** AtlasCloud
-- **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/d1fe2d82-6f01-4e04-a732-a949028a09d3.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d1fe2d82-6f01-4e04-a732-a949028a09d3.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/17)
-
-#### 描述
-
-专业的汽车广告拍摄运镜，展示车辆动态和环境融合。
-
-#### 提示词
-
-```text
-参考@视频1的镜头运动和场景转换节奏，@图片1作为起始场景，镜头流畅切换多个场景，展现汽车在城市、山路、海边的驾驶画面。
-```
-
-### No. 6: 旋转平板展示
-
-- **分类:** `高级运镜动作`
-- **来源:** `official`
-- **作者:** AtlasCloud
-- **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/2f9e5701-3cbe-4855-84a8-3ba0cd72b329.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/2f9e5701-3cbe-4855-84a8-3ba0cd72b329.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/13)
-
-#### 描述
-
-以旋转运镜展示平板产品，结合聚焦和环绕拍摄技巧。
-
-#### 提示词
-
-```text
-@图片1的平板电脑作为主体，镜头运动参考@视频1，从俯视角度缓慢下降，平板屏幕逐渐点亮，显示产品界面，镜头环绕展示机身细节。
-```
-
-### No. 7: 复杂走廊追逐
-
-- **分类:** `高级运镜动作`
-- **来源:** `official`
-- **作者:** AtlasCloud
-- **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/c1288035-fc08-4465-bee0-a1857f94c7c1.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/c1288035-fc08-4465-bee0-a1857f94c7c1.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/12)
-
-#### 描述
-
-在走廊中进行复杂的追逐场景拍摄，展示多角度镜头切换和动态跟踪。
-
-#### 提示词
-
-```text
-参考@图1的男人形象,他在@图2的走廊中,完全参考@视频1的所有运镜效果,还有主角的面部表情,镜头跟随主角在@图2拐角奔跑,然后在@图3的长廊里,镜头从背面的跟随视角,通过低视角环绕到主角正面
-```
-
-### No. 8: 武术格斗场景
-
-- **分类:** `高级运镜动作`
-- **来源:** `official`
-- **作者:** AtlasCloud
-- **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/e62ddd7b-da6a-4b26-be8a-aba6e74dd854.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/e62ddd7b-da6a-4b26-be8a-aba6e74dd854.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/15)
-
-#### 描述
-
-拍摄激烈的武术格斗场景，展示动作捕捉和多角色互动。
-
-#### 提示词
-
-```text
-参考@图片1 @图片2长枪角色，@图片3 @图片4场景，生成武术动作场景，角色持长枪施展连贯招式，镜头多角度跟拍，展现武术的力量与美感。
-```
-
-### No. 9: 电梯中的希区柯克变焦
-
-- **分类:** `高级运镜动作`
-- **来源:** `official`
-- **作者:** AtlasCloud
-- **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/4be02035-a101-4c2c-bb20-c2fe59771de9.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/4be02035-a101-4c2c-bb20-c2fe59771de9.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/11)
-
-#### 描述
-
-在电梯场景中运用经典的希区柯克变焦技法，营造紧张悬疑的视觉效果。
-
-#### 提示词
-
-```text
-参考@图1的男人形象,他在@图2的电梯中,完全参考@视频1的所有运镜效果还有主角的面部表情,主角在惊恐时希区柯克变焦,然后几个环绕镜头展示电梯内视角,电梯门打开,跟随镜头走出电梯,电梯外场景参考@图片3,男人环顾四周,参考@视频1用机械臂多角度跟随人物的视线
-```
-
-### No. 10: 节奏感推拉舞蹈运镜
-
-- **分类:** `高级运镜动作`
-- **来源:** `official`
-- **作者:** AtlasCloud
-- **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/33ffc8e5-255c-46b2-8877-ad8a9100f6d4.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/33ffc8e5-255c-46b2-8877-ad8a9100f6d4.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/14)
-
-#### 描述
-
-配合舞蹈节奏进行推拉运镜，营造动感十足的视觉效果。
-
-#### 提示词
-
-```text
-@图片1的女明星作为主体，参考@视频1的镜头运动，从远景推进到特写，展示优雅的舞蹈动作，镜头跟随人物旋转，捕捉动态美感。
-```
-
-### No. 11: 5分钟生成1分钟电影级战争视频，4个镜头结构
-
-- **分类:** `高级运镜动作`
-- **来源:** `twitter`
-- **作者:** Min Choi (@minchoi)
-- **语言:** `zh`
-- **视频:** [查看](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/52680ae8-705d-4b26-9d49-1b573ab4f56f.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/52680ae8-705d-4b26-9d49-1b573ab4f56f.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/minchoi/status/2020878278475518152)
-
-#### 描述
-
-5分钟生成1分钟电影级战争视频，4个镜头结构。逼真的中东沙漠村庄步兵战斗场景。
-
-#### 提示词
-
-```text
-统一风格设定（全片一致）：电影级写实战争纪录片质感；现代中东沙漠村庄；主色调为沙黄、灰褐与烟尘灰；正午强光形成硬阴影；空气中持续有浮尘、火药烟与细小碎屑；手持摄影轻微抖动，优先低机位与贴地跟拍；士兵为现代轻步兵装备（防弹衣、头盔、通讯设备），不出现可识别国旗或徽章；整体氛围紧张、克制、残酷。 镜头1：小队沿狭窄巷道推进。低矮土坯房与破损混凝土墙在强光下形成高反差阴影，地面散落砖石、废弃生活物件与弹壳。镜头贴地从小队后方缓慢推入，队员贴墙前进、枪口指向转角，远处传来风声与金属碰撞回响，节奏压抑。 镜头2：转角处突然爆发短促近距离交火。士兵迅速下蹲压墙，子弹命中墙面扬起尘土与碎屑，短促枪焰照亮阴影区。镜头快速平移并伴随轻微晃动，窗口后可见模糊敌方轮廓。画面强调空间狭窄、压迫感与突发性。 镜头3：小队穿过巷道抵达半坍塌建筑入口。跟随一名士兵越肩进入内部，光线骤暗，仅有阳光从破洞斜射进入，尘埃在光柱中漂浮。队员以手势沟通，表情紧绷，远处枪声断续回荡，情绪从混乱转为高度警戒。 镜头4：小队占据受损屋顶高点俯瞰村庄巷网。夕照逆光下，士兵形成剪影，枪口仍指向未知威胁方向。镜头缓慢后拉，风沙在空中翻卷，远处村庄表面安静却危机未解。结尾保持开放式紧张，不给出明确胜负。
-```
-
-### No. 12: 士兵穿越沙漠地形的地面战斗镜头
-
-- **分类:** `高级运镜动作`
-- **来源:** `twitter`
-- **作者:** Chetaslua (@chetaslua)
-- **语言:** `zh`
-- **视频:** [查看](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/0d332613-93bc-4d5e-b4f8-6cacc05871ef.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/0d332613-93bc-4d5e-b4f8-6cacc05871ef.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/chetaslua)
-
-#### 描述
-
-军事小队行进的紧张第一人称视角。展示逼真的战术移动和环境细节。
-
-#### 提示词
-
-```text
-地面贴近式战争镜头：镜头低机位跟随一支士兵小队穿越沙漠战区，重点拍摄军靴踏过沙地、装备晃动、武器细节和队形变化。阳光强烈，地面热浪与浮尘明显，风声中夹杂远处零星枪响。镜头以手持纪录片风格微抖推进，景深较浅，前景清晰、背景队员略虚化。色调采用沙黄与灰褐，强调真实战术巡逻氛围与持续压迫感。
-```
-
-### No. 13: 仅用3张参考图和简单提示词生成多镜头打斗场景
-
-- **分类:** `高级运镜动作`
-- **来源:** `twitter`
-- **作者:** el.cine (@EHuanglu)
-- **语言:** `zh`
-- **视频:** [查看](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e287a176-2ba0-4f64-ad86-ed779cd3d8d3.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e287a176-2ba0-4f64-ad86-ed779cd3d8d3.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/EHuanglu/status/2020828503810445785)
-
-#### 描述
-
-现代城市环境中两名女性之间的激烈武术打斗场景。
-
-#### 提示词
-
-```text
-现代都市夜景中的双人武术对决。镜头结构：先用广角展示空旷街巷与两人对峙，再用中景跟拍攻防节奏，关键打击点使用近景特写（拳脚命中、呼吸、肌肉发力）。加入低机位环绕、越肩镜头与快速平移，突出招式路线和空间关系。动作要符合真实重心与反作用力，避免漂浮感。灯光采用路灯+霓虹反射，地面有轻微积水与反光，整体风格写实、紧张、有电影感。
-```
-
-<a id="category-12"></a>
-
-### 视频编辑与混剪 (5)
-
-### No. 1: 严肃商务变零食交易
-
-- **分类:** `视频编辑与混剪`
-- **来源:** `official`
-- **作者:** AtlasCloud
-- **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/f11c41ac-ee4b-4f37-b569-d6a4725866b3.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/f11c41ac-ee4b-4f37-b569-d6a4725866b3.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/49)
-
-#### 描述
-
-将严肃的商务谈判场景反转为搞笑的零食交易。
-
-#### 提示词
-
-```text
-颠覆@视频1的整个剧情\n0-3秒: 西装男坐在酒吧,神情冷静\n3-6秒: 身后的女人表情紧张问"有多大?"\n6-9秒: 突然西装男从桌下掏出一大包体积夸张的零食礼包\n13-15秒: 字幕弹出"再忙,也要记得吃点零食~"
-```
-
-### No. 2: 炸鸡品牌植入
-
-- **分类:** `视频编辑与混剪`
-- **来源:** `official`
-- **作者:** AtlasCloud
-- **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/af84d3d1-5659-49bd-a7a8-c2db96918415.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/af84d3d1-5659-49bd-a7a8-c2db96918415.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/52)
-
-#### 描述
-
-在餐厅场景中植入炸鸡品牌包装的创意编辑。
-
-#### 提示词
-
-```text
-视频1镜头右移，炸鸡店老板忙碌地处理订单，突然@图片1的品牌logo出现在包装盒上，自然的产品植入。
-```
-
-### No. 3: 泰坦尼克号暗黑反转
-
-- **分类:** `视频编辑与混剪`
-- **来源:** `official`
-- **作者:** AtlasCloud
-- **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/19cb9c31-9a1e-4c2e-ae17-b03f6a88c20b.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/19cb9c31-9a1e-4c2e-ae17-b03f6a88c20b.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/48)
-
-#### 描述
-
-将泰坦尼克号经典浪漫场景进行暗黑风格反转。
-
-#### 提示词
-
-```text
-颠覆@视频1里的剧情,男人眼神从温柔瞬间转为冰冷狠厉,在露丝毫无防备的瞬间,猛地将女主从桥上往外推,把女主推进水里。动作干脆利落,带着蓄谋已久的决绝
-```
-
-### No. 4: 乐队歌手性别互换
-
-- **分类:** `视频编辑与混剪`
-- **来源:** `official`
-- **作者:** AtlasCloud
-- **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/d3c9e15c-37fa-4603-b5a7-7577a9652d2d.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d3c9e15c-37fa-4603-b5a7-7577a9652d2d.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/50)
-
-#### 描述
-
-将乐队表演中的歌手进行性别互换的创意编辑。
-
-#### 提示词
-
-```text
-将视频1中的女主唱替换为@图片1的男主唱，保持原有的舞台表演、灯光效果和音乐节奏，性别转换但风格一致。
-```
-
-### No. 5: 鲨鱼乱入
-
-- **分类:** `视频编辑与混剪`
-- **来源:** `official`
-- **作者:** AtlasCloud
-- **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/06a8c86e-1b58-4088-8caa-25202eec77aa.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/06a8c86e-1b58-4088-8caa-25202eec77aa.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/51)
-
-#### 描述
-
-在原始场景中添加鲨鱼元素的搞笑编辑。
-
-#### 提示词
-
-```text
-将视频1中女人的发型改为红色长发，然后镜头特写展示新发型，其他元素保持不变，突出发型变化。
-```
-
-<a id="category-13"></a>
-
-### 角色与场景一致性 (6)
-
-### No. 1: 歌剧舞台变革
-
-- **分类:** `角色与场景一致性`
-- **来源:** `official`
-- **作者:** AtlasCloud
-- **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/fffd7fd2-9752-4226-bd04-84101f206938.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/fffd7fd2-9752-4226-bd04-84101f206938.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/6)
-
-#### 描述
-
-在保持参考视频中的摄像机运动和过渡效果的同时进行角色替换。
-
-#### 提示词
-
-```text
-将@视频1中的女生换成戏曲花旦,场景在一个精美的舞台上,参考@视频1的运镜和转场效果,利用镜头匹配人物的动作,极致的舞台美感,增强视觉冲击力
-```
-
-### No. 2: 恐怖第一人称探索
-
-- **分类:** `角色与场景一致性`
-- **来源:** `official`
-- **作者:** AtlasCloud
-- **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/c4802cca-4ef9-4ba9-b8cc-ed5bdecb88e6.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/c4802cca-4ef9-4ba9-b8cc-ed5bdecb88e6.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/10)
-
-#### 描述
-
-第一人称视角，在多个环境中保持场景一致性。
-
-#### 提示词
-
-```text
-使用@图片1作为画面首帧，第一人称视角，镜头缓慢向前推进，穿过昏暗的走廊，两侧墙壁上有诡异的影子晃动，远处传来低沉的呼吸声，气氛紧张压抑。
-```
-
-### No. 3: 一镜到底无缝切换
-
-- **分类:** `角色与场景一致性`
-- **来源:** `official`
-- **作者:** AtlasCloud
-- **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/27a03978-e3c0-4750-9b0d-c1a802db8af6.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/27a03978-e3c0-4750-9b0d-c1a802db8af6.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/7)
-
-#### 描述
-
-复杂的长镜头拍摄，包含多次场景转换，始终保持视觉连贯性。
-
-#### 提示词
-
-```text
-参考@视频1的所有转场和运镜,一镜到底,画面以棋局为起始,镜头左移,展示地板的黄色沙砾,镜头上移来到一个沙滩,沙滩上有足印,一个穿着白色素衣的女生在沙滩上渐行渐远,镜头切到空中的俯拍视角,海水在冲刷(不要出现人物),无缝渐变转场,冲刷的海浪变成飘动的窗帘,镜头拉远,展示女孩的面部特写,一镜到底
-```
-
-### No. 4: 奢侈手袋广告
-
-- **分类:** `角色与场景一致性`
-- **来源:** `official`
-- **作者:** AtlasCloud
-- **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/d62bd403-fcd1-4abd-8f23-c57063660ed0.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d62bd403-fcd1-4abd-8f23-c57063660ed0.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/9)
-
-#### 描述
-
-产品展示在多个参考图像之间保持细节一致性。
-
-#### 提示词
-
-```text
-对@图片1中的手提包进行商业视频展示，采用高端时尚风格，镜头缓慢环绕产品，展示皮革质感、金属配件、内部结构，配合柔和灯光，突出奢华感和工艺细节。
-```
-
-### No. 5: 下班回家路上
-
-- **分类:** `角色与场景一致性`
-- **来源:** `official`
-- **作者:** AtlasCloud
-- **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/d66a205c-4470-4d71-9122-2d0bf0694c9c.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d66a205c-4470-4d71-9122-2d0bf0694c9c.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/5)
-
-#### 描述
-
-一个连贯的叙述，从办公室走廊到家中，保持角色的一致性，包含情感的转换和家庭互动。
-
-#### 提示词
-
-```text
-男人@图片1下班后疲惫的走在走廊,脚步变缓,最后停在家门口,脸部特写镜头,男人深呼吸,调整情绪,收起了负面情绪,变得轻松,然后特写翻找出钥匙,插入门锁,进入家里后,他的小女儿和一只宠物狗,欢快的跑过来迎接拥抱,室内非常的温馨,全程自然对话
-```
-
-### No. 6: 磁性弓产品展示
-
-- **分类:** `角色与场景一致性`
-- **来源:** `official`
-- **作者:** AtlasCloud
-- **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/74458d90-1c7a-487c-acc2-454558810520.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/74458d90-1c7a-487c-acc2-454558810520.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/8)
-
-#### 描述
-
-具有品牌一致性和多场景展示的韩国产品广告。
-
-#### 提示词
-
-```text
-0-2秒：快速四格闪切，红色、粉色、紫色、蓝色背景，@图片1的产品在画面中央旋转展示，每格0.5秒。2-4秒：@图片1产品特写，镜头环绕360度，展示细节。4-6秒：产品logo特写，品牌名称淡入。全程配合节奏感强的电子音乐。
-```
-
-<a id="category-14"></a>
-
-### 创意视觉特效 (11)
-
-### No. 1: 魔法变身序列
-
-- **分类:** `创意视觉特效`
-- **来源:** `official`
-- **作者:** AtlasCloud
-- **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/af14ed46-358b-4202-a6d5-07cfcbcdff10.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/af14ed46-358b-4202-a6d5-07cfcbcdff10.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/22)
-
-#### 描述
-
-展示角色的魔法变身过程，包含华丽的特效转场。
-
-#### 提示词
-
-```text
-将@视频1的首帧角色替换为@图片1，角色身体逐渐变换为粒子效果消散，然后在另一个场景重新聚合，展现魔幻的传送效果。
-```
-
-### No. 2: 水獭进入大型机甲的动画场景，包含详细机械镜头
-
-- **分类:** `创意视觉特效`
-- **来源:** `twitter`
-- **作者:** Andrey Kurenkov (@andrey_kurenkov)
-- **语言:** `zh`
-- **视频:** [查看](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/8bc7ca8d-7344-4be7-ae6d-cd2701702b77.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/8bc7ca8d-7344-4be7-ae6d-cd2701702b77.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/andrey_kurenkov/status/2021435749401514131)
-
-#### 描述
-
-水獭进入大型机甲的动画场景，包含详细机械镜头。展示创意叙事能力。
-
-#### 提示词
-
-```text
-机甲动画分镜：拟人化水獭驾驶员准备登上巨型机甲。镜头1：机库全景，机甲背光矗立，蒸汽与警示灯闪烁。镜头2：机械细节蒙太奇，齿轮转动、液压杆伸缩、线路通电、舱门解锁。镜头3：水獭沿扶梯进入驾驶舱，特写其坚定眼神与操作手势。镜头4：舱门闭合，HUD点亮，机甲眼部发光，水獭竖起拇指。整体风格为高完成度日系机甲动画，机械细节密度高，运动逻辑清晰。
-```
-
-### No. 3: 羽绒服天鹅隐喻
-
-- **分类:** `创意视觉特效`
-- **来源:** `official`
-- **作者:** AtlasCloud
-- **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/d35cad32-b340-4394-b98d-8934aa6a1fc8.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d35cad32-b340-4394-b98d-8934aa6a1fc8.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/20)
-
-#### 描述
-
-将羽绒服与天鹅进行创意隐喻，展示产品的轻盈质感。
-
-#### 提示词
-
-```text
-参考视频的广告创意,用提供的羽绒服图片,并参考鹅绒图片、天鹅图片,搭配以下广告词"这是根鹅绒,这是暖天鹅,这是能穿的极地天鹅绒羽绒服,新年穿得暖,生活过得暖",生成新的羽绒服广告视频
-```
-
-### No. 4: Will Smith 吃意大利面
-
-- **分类:** `创意视觉特效`
-- **来源:** `twitter`
-- **作者:** levelsio (@levelsio)
-- **语言:** `zh`
-- **视频:** [查看](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/eee95836-ac7d-4510-97f5-f6b1f2743aae.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/eee95836-ac7d-4510-97f5-f6b1f2743aae.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/levelsio/status/2021403820702552331)
-
-#### 描述
-
-Will Smith 在现代家庭厨房里吃意大利面。
-
-#### 提示词
-
-```text
-写实电影镜头：Will Smith 坐在现代家庭厨房的白色中岛台前吃意大利面。背景是居中的不锈钢冰箱、白色橱柜和台面小家电，侧窗自然日光。人物正对镜头，穿黑色 T 恤，自然卷面、咀嚼和吞咽。镜头以稳定中近景为主，可轻微推进；保持真实手部动作、表情和食物细节，不要夸张变形，24fps 电影级写实。
-```
-
-### No. 5: 超越原版动画质量的一拳超人动画
-
-- **分类:** `创意视觉特效`
-- **来源:** `twitter`
-- **作者:** Chetaslua (@chetaslua)
-- **语言:** `zh`
-- **视频:** [查看](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/fada7cb9-0f74-43fc-ba6a-b98be8be7c16.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/fada7cb9-0f74-43fc-ba6a-b98be8be7c16.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/chetaslua)
-
-#### 描述
-
-超越原版动画质量的一拳超人动画。展示 Seedance 2.0 的动画制作能力。
-
-#### 提示词
-
-```text
-生成高质量热血动画战斗片段：角色为一拳超人风格英雄，对战高压怪人。要求具备高帧率流畅运动、强烈速度线、冲击帧、镜头拉伸与爆发特效。镜头节奏采用“远景建立战场 -> 中景连续攻防 -> 近景必杀命中 -> 爆炸后尘埃回落”。背景建筑在冲击中出现碎裂、坍塌、扬尘，角色轮廓清晰，光影分层明显。风格偏日系院线级动作动画，能量波、冲击波与空气扭曲效果要完整。
-```
-
-### No. 6: VR 眼镜宇宙穿越
-
-- **分类:** `创意视觉特效`
-- **来源:** `official`
-- **作者:** AtlasCloud
-- **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/dddb1fb2-d73a-4b6a-a2bf-bf416be652c6.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/dddb1fb2-d73a-4b6a-a2bf-bf416be652c6.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/18)
-
-#### 描述
-
-通过 VR 眼镜进入不同的数字世界，展示奇幻的宇宙穿越特效。
-
-#### 提示词
-
-```text
-将@视频1的人物换成@图片1,@图片1为首帧,人物带上虚拟科幻眼镜,参考@视频1的运镜,及近的环绕镜头,从第三人称视角变成人物的主观视角,在AI虚拟眼镜中穿梭,来到@图片2的深邃的蓝色宇宙,出现几架飞船穿梭向远方
-```
-
-### No. 7: 抽象泡面创意
-
-- **分类:** `创意视觉特效`
-- **来源:** `official`
-- **作者:** AtlasCloud
-- **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/2665a1ba-4ae8-474e-ba72-a2bf94326054.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/2665a1ba-4ae8-474e-ba72-a2bf94326054.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/25)
-
-#### 描述
-
-以抽象艺术风格展示泡面制作过程的创意视频。
-
-#### 提示词
-
-```text
-@图片1的角色参考@视频1的动作和面部表情，在@图片2的场景中表演，夸张的喜剧动作，配合搞笑的音效。
-```
-
-### No. 8: 时尚快速换装广告
-
-- **分类:** `创意视觉特效`
-- **来源:** `official`
-- **作者:** AtlasCloud
-- **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/781e9493-6578-4aba-9d21-44aff3a7d555.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/781e9493-6578-4aba-9d21-44aff3a7d555.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/19)
-
-#### 描述
-
-模特快速换装的时尚广告，展示流畅的转场特效。
-
-#### 提示词
-
-```text
-参考第一张图片里模特的五官长相。模特分别穿着第2-6张参考图里的服装凑近镜头,做出调皮、冷酷、可爱、惊讶、耍帅的造型,每一个造型穿着不同服装,每次更换,画面伴随会切镜,参考视频的里鱼眼镜头效果、重影闪烁的炫影画面效果
-```
-
-### No. 9: 拼图碎片转场 Logo
-
-- **分类:** `创意视觉特效`
-- **来源:** `official`
-- **作者:** AtlasCloud
-- **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/d8aab6d9-e006-4012-aa41-55ad02a41572.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d8aab6d9-e006-4012-aa41-55ad02a41572.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/23)
-
-#### 描述
-
-以拼图碎片的方式进行创意转场，最终呈现品牌 Logo。
-
-#### 提示词
-
-```text
-从@图片1的天花板开始，参考拼图风格，镜头下移，画面由多个拼图块组成，逐渐拼合完整，展现室内全景，创意转场效果。
-```
-
-### No. 10: 金色粒子标题揭示
-
-- **分类:** `创意视觉特效`
-- **来源:** `official`
-- **作者:** AtlasCloud
-- **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/3854856c-478d-40f1-8534-cb240e6a1706.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/3854856c-478d-40f1-8534-cb240e6a1706.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/24)
-
-#### 描述
-
-金色粒子汇聚形成标题文字的揭示特效。
-
-#### 提示词
-
-```text
-黑屏开场，参考@视频1的粒子效果和镜头运动，粒子从中心爆发，逐渐形成品牌logo，配合震撼的音效，高端片头效果。
-```
-
-### No. 11: 水墨风太极
-
-- **分类:** `创意视觉特效`
-- **来源:** `official`
-- **作者:** AtlasCloud
-- **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/210c571d-e67f-4bbc-819b-f91bd8925c7b.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/210c571d-e67f-4bbc-819b-f91bd8925c7b.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/21)
-
-#### 描述
-
-将太极动作与水墨画风格结合，营造东方美学视觉效果。
-
-#### 提示词
-
-```text
-黑白水墨风格，@图片1的角色参考@视频1的动作，在水墨山水背景中施展武术，墨迹飞溅效果，传统与现代结合的视觉风格。
-```
-
-<a id="category-15"></a>
-
-### 超逼真视频生成 (5)
-
-### No. 1: 带有障碍物的追逐场景
-
-- **分类:** `超逼真视频生成`
-- **来源:** `official`
-- **作者:** AtlasCloud
-- **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/97438ef1-9ee8-4b6f-b064-05e1a0216c33.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/97438ef1-9ee8-4b6f-b064-05e1a0216c33.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/4)
-
-#### 描述
-
-一场激烈的追逐场面，具有逼真的碰撞物理效果和人群恐慌。
-
-#### 提示词
-
-```text
-镜头跟随黑衣男子快速逃亡,后面一群人在追,镜头转为侧面跟拍,人物惊慌撞倒路边的水果摊爬起来继续逃,人群慌乱的声音
-```
-
-### No. 2: 维多利亚时代街景
-
-- **分类:** `超逼真视频生成`
-- **来源:** `official`
-- **作者:** AtlasCloud
-- **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/b0409f93-9857-4465-9a2d-50a30937a9db.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/b0409f93-9857-4465-9a2d-50a30937a9db.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/3)
-
-#### 描述
-
-一场设定在19世纪伦敦的古装剧场景，包含真实的环境细节和人物反应。
-
-#### 提示词
-
-```text
-镜头小幅度拉远(露出街头全景)并跟随女主移动,风吹拂着女主的裙摆,女主走在19世纪的伦敦大街上;女主走着走着右边街道驶来一辆蒸汽机车,快速驶过女主身旁,风将女主的裙摆吹起,女主一脸震惊的赶忙用双手向下捂住裙摆;背景音效为走路声,人群声,汽车声等等
-```
-
-### No. 3: Will Smith 吃意大利面
-
-- **分类:** `超逼真视频生成`
-- **来源:** `twitter`
-- **作者:** levelsio (@levelsio)
-- **语言:** `zh`
-- **视频:** [查看](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e55ed973-0bcf-4d50-8b5d-3a831e7e9d68.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e55ed973-0bcf-4d50-8b5d-3a831e7e9d68.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/levelsio/status/2021403820702552331)
-
-#### 描述
-
-Will Smith 在现代家庭厨房里吃意大利面。
-
-#### 提示词
-
-```text
-写实电影镜头：Will Smith 坐在现代家庭厨房的白色中岛台前吃意大利面。背景是居中的不锈钢冰箱、白色橱柜和台面小家电，侧窗自然日光。人物正对镜头，穿黑色 T 恤，自然卷面、咀嚼和吞咽。镜头以稳定中近景为主，可轻微推进；保持真实手部动作、表情和食物细节，不要夸张变形，24fps 电影级写实。
-```
-
-### No. 4: 互动绘画角色
-
-- **分类:** `超逼真视频生成`
-- **来源:** `official`
-- **作者:** AtlasCloud
-- **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/d6e3a17d-f4a7-49e3-850c-2cfc68b4a6a4.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d6e3a17d-f4a7-49e3-850c-2cfc68b4a6a4.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/2)
-
-#### 描述
-
-一幅画中的人物活了过来，趁没人注意时偷偷喝可乐，营造出一个幽默的广告场景。
-
-#### 提示词
-
-```text
-画里面的人物心虚的表情,眼睛左右看了看探出画框,快速的将手伸出画框拿起可乐喝了一口,然后露出一脸满足的表情,这时传来脚步声,画中的人物赶紧将可乐放回原位,此时一位西部牛仔拿起杯子里的可乐走了,最后镜头前推画面慢慢变得纯黑背景只有顶光照耀的罐装可乐,画面最下方出现艺术感字幕和旁白:"宜口可乐,不可不尝!"
-```
-
-### No. 5: 优雅的洗衣场景
-
-- **分类:** `超逼真视频生成`
-- **来源:** `official`
-- **作者:** AtlasCloud
-- **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/b6b7f78a-f9a7-4c09-a3ac-6f0f694b1263.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/b6b7f78a-f9a7-4c09-a3ac-6f0f694b1263.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/1)
-
-#### 描述
-
-一位女士优雅地晾晒衣物，从篮子里取出另一件衣服，自然地抖动着。
-
-#### 提示词
-
-```text
-固定镜头,女孩在优雅的晒衣服,晒完接着在桶里拿出另一件,用力抖一抖衣服
-```
-
-<a id="category-16"></a>
-
-### 情绪演绎 (3)
-
-### No. 1: 戏剧性咆哮特写
-
-- **分类:** `情绪演绎`
-- **来源:** `official`
-- **作者:** AtlasCloud
-- **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/1b870eee-b748-48a7-84b6-cd56e0c925f9.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/1b870eee-b748-48a7-84b6-cd56e0c925f9.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/59)
-
-#### 描述
-
-角色戏剧性咆哮的特写镜头，展示强烈情感。
-
-#### 提示词
-
-```text
-@图片1作为画面首帧，镜头旋转并推进，角色做出夸张的惊讶表情，喜剧效果，配合搞笑音效。
-```
-
-### No. 2: 烹饪反差喜剧
-
-- **分类:** `情绪演绎`
-- **来源:** `official`
-- **作者:** AtlasCloud
-- **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/a9a3d3ad-2aec-4a14-8bb5-2ca7736e09ae.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/a9a3d3ad-2aec-4a14-8bb5-2ca7736e09ae.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/58)
-
-#### 描述
-
-平静烹饪与混乱烹饪的搞笑对比。
-
-#### 提示词
-
-```text
-这是一个油烟机广告。@图片1作为首帧，厨房场景，油烟机启动，强力吸走油烟，镜头特写展示产品功能，最后品牌logo出现。
-```
-
-### No. 3: 镜前情绪崩溃
-
-- **分类:** `情绪演绎`
-- **来源:** `official`
-- **作者:** AtlasCloud
-- **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/095be254-151d-4149-b50a-ad054c154758.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/095be254-151d-4149-b50a-ad054c154758.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/57)
-
-#### 描述
-
-角色在镜子前经历情绪崩溃的戏剧性表演。
-
-#### 提示词
-
-```text
-@图片1的女人走到镜子前，看着镜中的自己，表情从平静到悲伤，眼泪滑落，情绪崩溃的心理戏，镜子场景的象征意义。
-```
-
-<a id="category-17"></a>
-
-### 剧情发展与延伸 (8)
-
-### No. 1: 健身激励广告
-
-- **分类:** `剧情发展与延伸`
-- **来源:** `official`
-- **作者:** AtlasCloud
-- **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/65689cf8-c5c9-4624-9136-adac7bc3cc10.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/65689cf8-c5c9-4624-9136-adac7bc3cc10.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/30)
-
-#### 描述
-
-充满动力的健身激励广告，展示运动服饰和品牌。
-
-#### 提示词
-
-```text
-Extend the video by 6s, electric guitar激昂 music appears, 'JUST DO IT' advertising text appears in the middle of the video then gradually fades, camera moves up to the ceiling, a muscular man pulls on rings, upper body wearing the tight fitness clothing from @image1, back printed with the 'Fitness' logo from @image2. The man pulls up on the rings with his muscular upper limbs, then 'DO SOME SPORT' ending text appears in the middle of the video.
-```
-
-### No. 2: 情感旅程视频
-
-- **分类:** `剧情发展与延伸`
-- **来源:** `official`
-- **作者:** AtlasCloud
-- **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/0ae0f676-8f49-4b97-88d2-4afaaa5e5424.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/0ae0f676-8f49-4b97-88d2-4afaaa5e5424.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/28)
-
-#### 描述
-
-通过多个场景串联展现一段情感旅程。
-
-#### 提示词
-
-```text
-参考视频1的音频，基于图片1、2、3、4、5，生成15秒情感短片，展现从孤独到温暖的情感转变，配合治愈系音乐。
-```
-
-### No. 3: 咖啡晨间广告
-
-- **分类:** `剧情发展与延伸`
-- **来源:** `official`
-- **作者:** AtlasCloud
-- **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/94fc9706-187d-4667-a8e4-62692cb256dd.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/94fc9706-187d-4667-a8e4-62692cb256dd.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/31)
-
-#### 描述
-
-温馨的咖啡晨间广告，展示咖啡制作和品牌故事。
-
-#### 提示词
-
-```text
-延长@视频1 15秒。1-5秒：光影变化，从清晨到正午。5-10秒：人物起身活动，伸展身体。10-15秒：走向窗边，眺望远方，温馨的生活氛围。
-```
-
-### No. 4: 驴子摩托车特技广告
-
-- **分类:** `剧情发展与延伸`
-- **来源:** `official`
-- **作者:** AtlasCloud
-- **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/67c79521-0cb4-498f-bd74-e0ed9aab81e8.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/67c79521-0cb4-498f-bd74-e0ed9aab81e8.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/29)
-
-#### 描述
-
-幽默的驴子骑摩托车特技广告，充满创意和趣味。
-
-#### 提示词
-
-```text
-延长15秒视频，参考驴骑摩托车的形象，补充超现实广告场景：驴骑车穿越沙漠、雪山、城市，最后在夕阳下停车，广告语"突破想象，无限可能"。
-```
-
-### No. 5: 漫画分格动画化
-
-- **分类:** `剧情发展与延伸`
-- **来源:** `official`
-- **作者:** AtlasCloud
-- **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/c939610e-a182-40ad-89a5-254c1515ac24.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/c939610e-a182-40ad-89a5-254c1515ac24.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/26)
-
-#### 描述
-
-将静态漫画分格转化为动态动画，赋予漫画生命力。
-
-#### 提示词
-
-```text
-延长15s视频,参考@图片1、@图片2的驴骑摩托车的形象,补充一段脑洞广告\n画面1: 侧面固定镜头,驴骑着摩托车冲出棚栏,旁边的鸡受到惊吓\n画面2: 驴骑着摩托在沙地盘旋,先特写摩托轮胎,然后切到半空中俯拍\n画面3: 背景是雪山镜头,驴骑着车从山坡飞越过,广告语出现"Inspire Creativity, Enrich Life"
-```
-
-### No. 6: 向日葵滑板故事
-
-- **分类:** `剧情发展与延伸`
-- **来源:** `official`
-- **作者:** AtlasCloud
-- **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/30e27ffa-53bc-4655-b405-d017c699ed87.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/30e27ffa-53bc-4655-b405-d017c699ed87.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/32)
-
-#### 描述
-
-以向日葵和滑板为主题的创意故事视频。
-
-#### 提示词
-
-```text
-向前延长10秒。温暖的午后阳光中，镜头从桌面的咖啡杯开始，缓慢拉远，展现咖啡馆的温馨环境，顾客悠闲交谈，慢节奏生活场景。
-```
-
-### No. 7: 女性控制飞机的复杂动作场景快速测试
-
-- **分类:** `剧情发展与延伸`
-- **来源:** `twitter`
-- **作者:** Janek Mann (@janekm)
-- **语言:** `zh`
-- **视频:** [查看](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/dc27ff9d-d357-423c-88b8-65e4646c5659.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/dc27ff9d-d357-423c-88b8-65e4646c5659.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://x.com/janekm/status/2020388244802740728)
-
-#### 描述
-
-女性突然意识到飞行员消失，在危机中控制飞机。
-
-#### 提示词
-
-```text
-生成高压灾难动作片段：客机飞行中出现异常，女主冲向驾驶舱后发现机长与副机长消失。镜头1：机舱内手持跟拍，乘客惊慌、氧气面罩晃动，红色警示灯闪烁。镜头2：女主冲入驾驶舱，快速切换仪表盘特写、颤动的操纵杆与她紧张的眼神。镜头3：外景远景显示飞机在云层边缘剧烈颠簸，机头下沉后被拉起。镜头4：回到驾驶舱，女主咬牙稳定姿态，呼吸急促但动作果断。整体节奏快、剪辑紧，强调危机感与临场决断。
-```
-
-### No. 8: 童年四季纪录片
-
-- **分类:** `剧情发展与延伸`
-- **来源:** `official`
-- **作者:** AtlasCloud
-- **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/41aab229-bca0-4387-a4b1-08e88dde89a2.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/41aab229-bca0-4387-a4b1-08e88dde89a2.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/27)
-
-#### 描述
-
-以纪录片风格记录童年四季的美好时光。
-
-#### 提示词
-
-```text
-将视频延长6s,出现电吉他的激昂音乐,视频中间出现"JUST DO IT"的广告字体后逐渐淡化,镜头上移到天花板,一个健硕的男人拉着吊环,上半身穿着@图1的紧身健身服,背面印有@图2的"Fitness"logo
-```
-
-<a id="category-18"></a>
-
-### 音乐卡点同步 (4)
-
-### No. 1: 动漫棋局对战分镜
-
-- **分类:** `音乐卡点同步`
-- **来源:** `official`
-- **作者:** AtlasCloud
-- **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/efe4a014-a97b-4f4b-baa6-77d477b7024f.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/efe4a014-a97b-4f4b-baa6-77d477b7024f.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/56)
-
-#### 描述
-
-以动漫风格展示棋局对战的分镜卡点视频。
-
-#### 提示词
-
-```text
-8秒智斗风格动漫战斗片段，配合紧张的音乐节奏，角色快速出招，分镜切换，动漫风格的视觉效果。
-```
-
-### No. 2: 时尚节拍卡点
-
-- **分类:** `音乐卡点同步`
-- **来源:** `official`
-- **作者:** AtlasCloud
-- **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/5ae0578e-e6c8-4ff1-a03a-e19b5ac2f5c1.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/5ae0578e-e6c8-4ff1-a03a-e19b5ac2f5c1.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/53)
-
-#### 描述
-
-配合音乐节拍展示时尚穿搭的卡点视频。
-
-#### 提示词
-
-```text
-海报中的女孩不断更换服装，服装参考@图片1-6，每次换装配合音乐节拍，快速切换，时尚感十足。
-```
-
-### No. 3: 动态人像节拍同步
-
-- **分类:** `音乐卡点同步`
-- **来源:** `official`
-- **作者:** AtlasCloud
-- **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/11a4251f-cb41-41b1-b6a7-8ac19d340956.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/11a4251f-cb41-41b1-b6a7-8ac19d340956.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/54)
-
-#### 描述
-
-多个人像随音乐节拍动态切换的卡点视频。
-
-#### 提示词
-
-```text
-@图片1 @图片2 @图片3 @图片4 @图片5 @图片6 @图片7图片序列，配合音乐节奏，每个画面停留1-2秒，展现人物肖像的情绪变化，动态相册效果。
-```
-
-### No. 4: 风景转场音乐视频
-
-- **分类:** `音乐卡点同步`
-- **来源:** `official`
-- **作者:** AtlasCloud
-- **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/6b0fbeb4-51df-4094-8252-d2dfb8631776.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/6b0fbeb4-51df-4094-8252-d2dfb8631776.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/55)
-
-#### 描述
-
-多个风景场景随音乐节奏转场的 MV。
-
-#### 提示词
-
-```text
-@图片1 @图片2 @图片3 @图片4 @图片5 @图片6风景场景，配合音乐转场，从日出到日落，展现自然之美，音乐MV风格。
-```
-
-<a id="category-19"></a>
-
-### 一镜到底 (5)
-
-### No. 1: 过山车第一人称视角
-
-- **分类:** `一镜到底`
-- **来源:** `official`
-- **作者:** AtlasCloud
-- **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/fabf98a8-432c-479a-bcd3-3736677190b2.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/fabf98a8-432c-479a-bcd3-3736677190b2.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/47)
-
-#### 描述
-
-以第一人称视角体验过山车的刺激旅程。
-
-#### 提示词
-
-```text
-@图片1 @图片2 @图片3 @图片4 @图片5，主观视角，镜头模拟过山车体验，快速俯冲、转弯、爬升，刺激的第一人称视角。
-```
-
-### No. 2: 温馨小屋品茶时光
-
-- **分类:** `一镜到底`
-- **来源:** `official`
-- **作者:** AtlasCloud
-- **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/d1d1c955-c271-44ba-bd3e-1537e33a2e29.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d1d1c955-c271-44ba-bd3e-1537e33a2e29.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/46)
-
-#### 描述
-
-一镜到底展示温馨小屋中的品茶时光。
-
-#### 提示词
-
-```text
-基于@图片1的外景，第一人称主观视角，镜头进入室内，环顾四周，温馨的家居环境，一镜到底展现空间布局。
-```
-
-### No. 3: 间谍悬疑跟踪
-
-- **分类:** `一镜到底`
-- **来源:** `official`
-- **作者:** AtlasCloud
-- **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/873ead10-156a-4f5f-aafc-1a0a743c3ef7.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/873ead10-156a-4f5f-aafc-1a0a743c3ef7.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/45)
-
-#### 描述
-
-一镜到底的间谍悬疑跟踪场景，充满紧张感。
-
-#### 提示词
-
-```text
-间谍惊悚风格，@图片1作为首帧，镜头从正面跟随角色快速穿过街道、楼梯、屋顶，一镜到底，紧张刺激的追逐场景。
-```
-
-### No. 4: 飞机窗外冰淇淋梦境
-
-- **分类:** `一镜到底`
-- **来源:** `official`
-- **作者:** AtlasCloud
-- **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/3421ca69-533f-4ef7-aef2-2aabad3d53fe.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/3421ca69-533f-4ef7-aef2-2aabad3d53fe.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/44)
-
-#### 描述
-
-从飞机窗外开始的梦幻冰淇淋场景，一镜到底。
-
-#### 提示词
-
-```text
-以@图片1为首帧,画面放大至飞机舷窗外,一团团云朵缓缓飘至画面中,其中一朵为彩色糖豆点缀的云朵,始终在画面中居中,然后缓缓变形为@图片2的冰淇淋
-```
-
-### No. 5: 跑酷追逐长镜头
-
-- **分类:** `一镜到底`
-- **来源:** `official`
-- **作者:** AtlasCloud
-- **语言:** `zh`
-- **视频:** [查看](https://static.atlascloud.ai/uploads/seedance-2.0/c8b0a7bb-eae5-417f-bf63-e3a114a1364f.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/c8b0a7bb-eae5-417f-bf63-e3a114a1364f.mp4" controls muted playsinline width="720"></video>
-- **原始链接:** [查看](https://www.atlascloud.ai/zh/seedance-2-prompt/43)
-
-#### 描述
-
-一镜到底的跑酷追逐场景，穿越多个场景。
-
-#### 提示词
-
-```text
-@图片1@图片2@图片3@图片4@图片5,一镜到底的追踪镜头,从街头跟随跑步者上楼梯、穿过走廊、进入屋顶,最终俯瞰城市
+[醉汉楼顶惊魂——跌落边缘——抓住绳索穿窗而入——当场昏睡 | 黑色幽默短片 | 约 30 秒] 一句话梗概：一个胖乎乎、可爱、喝醉的中年男人正在一栋楼的楼顶吃汉堡、喝啤酒；他站起来伸懒腰时不慎失足跌落，慌乱中抓住一根救命绳，随即撞穿一扇窗户跌进室内，愣神惊呆了一秒，然后就地一躺，呼呼大睡。参考图 @image1——一个胖乎乎、可爱、喝醉的中年男人：体型圆润敦实，挺着一个又圆又大的啤酒肚，个子矮，因醉酒动作松垮、迟缓、摇摇晃晃；圆脸，双下巴，脸颊和鼻子因喝酒泛红，眼睛眯成一条缝、目光迷离，一圈未修剪的短胡茬，头发凌乱，一副憨傻、可爱、无忧无虑的表情；身穿一件沾着汉堡酱汁的白色背心，松垮地耷拉在圆肚子上，一条旧牛仔裤，趿拉着松垮的拖鞋挪步，手里始终攥着一个吃了一半的汉堡。全片只有这一个角色，与参考图 100% 一致。整体观感：夜晚的赛博朋克巨型都市，密密麻麻的玻璃钢铁摩天楼森林，霓虹招牌（青色 / 品红 / 电光蓝），全息广告牌，湿漉漉的反光地面，体积雾，远处飞行汽车的光轨与无人机。真实的实拍质感，物理电影镜头，无 3D 渲染 / 游戏引擎 / 动漫感。镜头混用手持与摇臂 / 无人机；坠落后镜头随他一同俯冲而下，楼体外墙与霓虹向上飞掠以传达速度感，24-35mm 宽银幕电影镜头质感，180 度快门运动模糊。声音设计是黑色幽默的关键：在 "巨大的轰鸣" 与 "全然的寂静" 之间反复硬切。全程真实重力。分镜（约 30 秒）：S1（0-4s）开场咀嚼大特写（有声）男人的脸占满整个画面，大口咀嚼汉堡，一副心满意足的醉态；S2（4-9s）拉至全景，伸懒腰 -> 失足跌落（有声）他摇摇晃晃站起身、大大地伸个懒腰，身体后仰，失去平衡，脚一滑便向后翻越楼顶边缘跌下，手里始终没松开汉堡，伴着一声惊慌的 "诶——！"；S3（9-12s）切至受惊面部特写（一声大叫，巨大轰鸣）醉眼滚圆暴突，双下巴挤作一团，嘴大张发出尖叫 "啊——！！"，狂风呼啸；S4（12-16s）切至平视远景（全然寂静）从对面楼看去，一个白色的小小身影从高楼笔直坠下，霓虹都市浩瀚而冷漠，这份全然的寂静与一秒前的巨大轰鸣构成黑色幽默的反差；S5（16-21s）切至面部特写（尖叫）-> 抓住绳索，仍在尖叫，双手在空中乱抓，他忽然抓住一根救命缆绳，缆绳被他的重量猛地绷紧、弯折，发出 "嗡" 的一声，尖叫戛然而止，他被猛地拽住并荡了出去（抓住绳索的一瞬有短暂慢动作）；S6（21-26s）切至室内视角（安静）-> 玻璃碎裂 -> 他撞了进来，室内起初安静，只有空调的嗡嗡声，下一秒玻璃猛然向内爆裂（短暂子弹时间），醉汉连人带汉堡撞穿窗户，碎片呈放射状飞溅而出，霓虹光涌入，他重重摔进屋内，砸在地板 / 沙发上，碎玻璃叮当作响；S7（26-30s）结尾，惊愣一秒 -> 睡着，男人四仰八叉瘫在地板上，浑身是碎玻璃，仍攥着汉堡，缓缓睁开眼，迷迷糊糊，茫然受惊地愣了整整一秒，四处张望仿佛在想 "我这是在哪儿？"，随后醉意上涌，他毫不在意地咂咂嘴，把汉堡搂进怀里，一翻身，就地躺下呼呼大睡，还轻轻打起了鼾，镜头拉出并定格，硬切转黑。仅用现场同期声，无音乐，无字幕；核心是在 "巨大轰鸣" 与 "寂静" 之间反复硬切。
 ```
 
 ## 本地使用
@@ -2655,4 +644,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> 此 README 为自动生成。 2026-07-21T04:39:05.274Z
+> 此 README 为自动生成。 2026-07-21T07:52:08.401Z

@@ -4,7 +4,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedance-2.5-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-105%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-11%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 > A curated collection of Seedance 2.5 video prompts — each with real previews via Atlas Cloud. 30s native clips · 50 multimodal references · flexible region editing. Cinematic, anime, UGC, ads, meme & more.
 
@@ -68,38 +68,27 @@ Seedance 2.5 is a major upgrade to Seedance 2.0 with three big gains: 30-second 
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **105** |
-| Categories | **19** |
-| Preview Videos | **99** |
-| Last Updated | **2026-07-21T04:39:05.277Z** |
+| Total Prompts | **11** |
+| Categories | **8** |
+| Preview Videos | **11** |
+| Last Updated | **2026-07-21T07:52:08.401Z** |
 
 ## 🏷️ Browse by Category
 
-- [`Match-Cut & Creative Effects`](#category-1): **1**
-- [`One-Take Cinematography`](#category-2): **1**
-- [`Multi-Image Reference`](#category-3): **3**
-- [`Video Editing`](#category-4): **2**
-- [`Reference-Guided Tutorial`](#category-5): **1**
-- [`Multimodal Reference (image+video)`](#category-6): **1**
-- [`Image Reference`](#category-7): **1**
-- [`Image Reference (Cinematic)`](#category-8): **1**
-- [`Twitter Community`](#category-9): **24**
-- [`音声＆ボイス合成`](#category-10): **10**
-- [`高度なカメラワーク`](#category-11): **13**
-- [`映像編集＆リミックス`](#category-12): **5**
-- [`キャラクター＆シーン一貫性`](#category-13): **6**
-- [`クリエイティブ視覚効果`](#category-14): **11**
-- [`超リアル映像生成`](#category-15): **5**
-- [`感情表現`](#category-16): **3**
-- [`ストーリー展開＆延長`](#category-17): **8**
-- [`音楽シンク`](#category-18): **4**
-- [`ワンテイク撮影`](#category-19): **5**
+- [`マッチカットとクリエイティブエフェクト`](#category-1): **1**
+- [`ワンテイク撮影`](#category-2): **1**
+- [`複数画像リファレンス`](#category-3): **3**
+- [`動画編集`](#category-4): **2**
+- [`リファレンス誘導チュートリアル`](#category-5): **1**
+- [`マルチモーダルリファレンス（画像＋動画）`](#category-6): **1**
+- [`画像リファレンス`](#category-7): **1**
+- [`画像リファレンス（シネマティック）`](#category-8): **1**
 
 ## 🔥 Featured Prompts
 
-### No. 1: Crystal Ball Match-Cut Beat Film
+### No. 1: クリスタルボールのマッチカット・ビート映像
 
-- **Category:** `Match-Cut & Creative Effects`
+- **Category:** `マッチカットとクリエイティブエフェクト`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ja`
@@ -110,17 +99,17 @@ Seedance 2.5 is a major upgrade to Seedance 2.0 with three big gains: 30-second 
 
 #### Description
 
-A beat-synced match-cut film: one crystal ball etched with a glowing 'seedance' logo stays centered while eight scenes cut seamlessly behind it.
+ビートに同期したマッチカット映像。発光する「seedance」ロゴが刻まれた一つのクリスタルボールが中央に固定され、その背後で8つのシーンがシームレスに切り替わる。
 
 #### Prompt
 
 ```text
-A fast-paced, cinematic Match-cut short film synced to a driving electronic beat. A flawless crystal ball stays fixed dead-center throughout, a glowing "seedance" logo etched inside it. The ball holds razor-sharp focus while, on every strong musical beat, the background match-cuts seamlessly: Scene 1: macro close-up, cinematic water splashing around the ball, refracting intricate light. Scene 2: a vintage morning cafe, the ball on a raw-wood table, rising coffee steam and blurred commuters beyond the window. Scene 3: golden-hour dusk, a skater youth tosses and catches the ball one-handed, street racing backward behind them in gorgeous backlit sunset. Scene 4: a frenzied music festival, hands raise the ball high, refracting dazzling stage lasers. Scene 5: a lively family party table, the ball resting center-frame, blurred figures toasting and reaching for food. Scene 6: a dim cinema, hands cupping the ball as the giant screen's faint glow drifts across its surface. Scene 7: the ball on a violently vibrating speaker diaphragm, match-cutting on the climax to a spinning DJ turntable center. Scene 8: an outdoor camping night, background becoming warm bonfire and swaying string-light bokeh. Finale: on the final downbeat the ball is hurled up out of frame; cut to pure black, a minimal white-on-black "seedance" appearing dead-center. Beat-synced match-cut editing, top-tier cinematic color grading, photoreal glass refraction, ray tracing, global illumination. Subject razor-sharp, background heavy motion blur.
+力強いエレクトロビートに同期した、疾走感あふれるシネマティックなマッチカット・ショートフィルム。一点の曇りもないクリスタルボールが常に画面のど真ん中に固定され、その内部には発光する「seedance」ロゴが刻まれている。ボールは極めてシャープなフォーカスを保ち、強拍ごとに背景がシームレスにマッチカットする。シーン1：マクロクローズアップ、シネマティックな水しぶきがボールの周囲で弾け、複雑な光を屈折させる。シーン2：ヴィンテージな朝のカフェ、無垢材のテーブルに置かれたボール、立ちのぼるコーヒーの湯気、窓の外にはぼやけた通勤者たち。シーン3：ゴールデンアワーの夕暮れ、スケーターの若者が片手でボールを放り投げてキャッチし、背後では逆光の美しい夕日の中で通りが後方へ流れていく。シーン4：熱狂的な音楽フェス、無数の手がボールを高々と掲げ、まばゆいステージレーザーを屈折させる。シーン5：賑やかな家族パーティーのテーブル、中央に置かれたボール、ぼやけた人影が乾杯し料理へ手を伸ばす。シーン6：薄暗い映画館、両手で包み込まれたボールの表面を、巨大スクリーンのかすかな光が漂うように移ろう。シーン7：激しく振動するスピーカーのコーンの上に置かれたボールが、クライマックスで中央に回転するDJターンテーブルへマッチカットする。シーン8：野外キャンプの夜、背景は暖かな焚き火と揺れるストリングライトのボケへと変わる。フィナーレ：最後のダウンビートでボールがフレーム外へ投げ上げられ、真っ黒にカット、黒地に白のミニマルな「seedance」が中央に現れる。ビート同期のマッチカット編集、最高峰のシネマティックなカラーグレーディング、フォトリアルなガラスの屈折、レイトレーシング、グローバルイルミネーション。被写体は極めてシャープ、背景は強いモーションブラー。
 ```
 
-### No. 2: Steampunk Clockwork — 30s One-Take
+### No. 2: スチームパンクの時計仕掛け — 30秒ワンテイク
 
-- **Category:** `One-Take Cinematography`
+- **Category:** `ワンテイク撮影`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ja`
@@ -131,17 +120,17 @@ A fast-paced, cinematic Match-cut short film synced to a driving electronic beat
 
 #### Description
 
-A 30-second steampunk miniature 3D sequence with continuous orbiting, pass-through camera moves.
+連続的な旋回とパススルーのカメラワークで撮る、30秒のスチームパンク・ミニチュア3Dシーケンス。
 
 #### Prompt
 
 ```text
-A high-end, deeply cinematic 30-second 3D motion-graphics sequence in refined steampunk and vintage-miniature style, with continuous fluid orbiting and pass-through camera moves. [0-10s] Macro close-up of an antique brass clock face that unfolds layer by layer into meshing rotating gear rings and volumetric fog. The camera pierces down through the gears; a mechanical ornithopter spirals up from a miniature canyon of stacked weathered old books. [10-20s] The camera glides forward tracking the ornithopter, seamlessly passing into a fast-spinning ornate brass zoetrope projecting galloping mechanical-horse light. The light leaps out and the scene becomes a brass floating cable car on glimmering copper rails through a forest of gears, bathed in cinematic golden-hour light. [20-30s] The camera pans elegantly down; below appears an exquisite clockwork wooden sailing ship cutting deep-blue glass-textured waves, which morph into a glowing giant moon with lantern-holding explorer silhouettes trekking a crystal-vein ridge under stars. The camera spirals smoothly back through ethereal clouds to the ticking brass clock face. Hyper-real mechanical textures, rich brass and gold tones, cinematic shallow depth of field, smooth seamless pass-through camerawork, epic fantastical adventure atmosphere.
+洗練されたスチームパンクとヴィンテージ・ミニチュアの様式による、ハイエンドで深くシネマティックな30秒の3Dモーショングラフィックス・シーケンス。途切れなく流麗に旋回し、対象を通り抜けていくカメラワーク。[0-10s] アンティークな真鍮の時計文字盤のマクロクローズアップが、一層また一層と噛み合い回転する歯車のリングとボリューメトリックな霧へと展開していく。カメラは歯車を貫いて下降し、風化した古書が積み重なるミニチュアの峡谷から機械仕掛けのオーニソプター（羽ばたき飛行機）が螺旋を描いて舞い上がる。[10-20s] カメラは前進しながらオーニソプターを追い、高速回転する装飾的な真鍮のゾートロープへとシームレスに入り込み、疾走する機械仕掛けの馬の光が投影される。その光が飛び出し、シーンは歯車の森を抜けてきらめく銅のレールを走る真鍮の浮遊ケーブルカーへと変わり、シネマティックなゴールデンアワーの光に包まれる。[20-30s] カメラは優雅に下へパンし、下方には深いブルーのガラス質の波を切り裂く精巧な時計仕掛けの木造帆船が現れ、それは発光する巨大な月へと姿を変え、ランタンを掲げた探検家のシルエットが星空の下、水晶の鉱脈が走る尾根を踏破していく。カメラは幻想的な雲の中をなめらかに螺旋を描いて戻り、時を刻む真鍮の時計文字盤へと帰る。超リアルな機械の質感、豊かな真鍮とゴールドのトーン、シネマティックな浅い被写界深度、なめらかでシームレスなパススルーのカメラワーク、壮大で幻想的な冒険の雰囲気。
 ```
 
-### No. 3: Windows Through Worlds (5 refs)
+### No. 3: 窓を抜けて異世界へ（参考画像5枚）
 
-- **Category:** `Multi-Image Reference`
+- **Category:** `複数画像リファレンス`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ja`
@@ -160,17 +149,17 @@ A high-end, deeply cinematic 30-second 3D motion-graphics sequence in refined st
 
 #### Description
 
-A brand concept short driven by 5 reference images, gliding through windows into different worlds.
+5枚の参考画像で駆動するブランドコンセプトのショートフィルム。窓を次々と抜け、異なる世界へ滑り込んでいく。
 
 #### Prompt
 
 ```text
-A cinematic brand concept short. @image1 is the first frame; the picture trembles slightly, the camera pushes in to tree shadows rushing backward outside the window, their retreat accelerating, then abruptly cuts to @image2, speed easing as the camera glides slowly along a stream, birdsong and blossoms. The camera drops underwater — bubble sounds — as orange jellyfish drift gracefully past the lens @image3; the camera pulls back as small fish flit past and swim from the water into the window @image4, a girl looking around, watching them. The camera pulls back, defocuses, then refocuses sharp, switching to the music's rhythm: a Chinese-garden lattice window @image5 with light circling, church stained glass, an airplane porthole, a dome skylight, a bay window, louver blinds, a European dormer, a door peephole, a camera viewfinder, a bird's eye, a human eye close-up. It settles on the human eye; the eye closes, screen black, then suddenly opens — "seedance" appearing in the center of the eye on the accent beat.
+シネマティックなブランドコンセプトのショートフィルム。@image1 が最初のフレーム。画面がわずかに震え、カメラが押し込むと窓の外で木々の影が後方へ流れ去り、その退きが加速していく。そして突然 @image2 へカット、速度が緩やかになり、カメラは小川に沿ってゆっくりと滑り、鳥のさえずりと花。カメラは水中へ潜り——泡の音——オレンジ色のクラゲが優雅にレンズの前を漂い過ぎる @image3。カメラが引くと小魚がすっと横切り、水の中から窓の中へ泳ぎ込む @image4、一人の少女があたりを見回し、彼らを見つめる。カメラが引いてピントを外し、再びシャープに合わせ、音楽のリズムに合わせて切り替わる。中国庭園の格子窓 @image5 に光が巡り、教会のステンドグラス、飛行機の丸窓、ドーム状の天窓、出窓、ルーバーブラインド、ヨーロッパ風の屋根窓、ドアの覗き穴、カメラのファインダー、鳥の目、人間の目のクローズアップ。人間の目に落ち着き、目が閉じ、画面は暗転、そして突然開く——アクセントのビートで「seedance」が目の中央に現れる。
 ```
 
-### No. 4: One-Take Through Six Rooms (8 refs)
+### No. 4: ワンテイクで六つの部屋を抜けて（参考画像8枚）
 
-- **Category:** `Multi-Image Reference`
+- **Category:** `複数画像リファレンス`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ja`
@@ -192,17 +181,17 @@ A cinematic brand concept short. @image1 is the first frame; the picture tremble
 
 #### Description
 
-One continuous take following a figure through six mood-shifting rooms, driven by 8 reference images.
+8枚の参考画像で駆動し、一続きのワンテイクで人物を追い、雰囲気の移り変わる六つの部屋を抜けていく。
 
 #### Prompt
 
 ```text
-One continuous take. The camera smoothly follows a person in a black coat (reference @image1) moving left to right through six connected rooms of different tones and moods. Every room shares the same structure: white walls, light herringbone wood floor, French floor-to-ceiling windows, white sheer curtains (reference @image2) but the outside view and mood differ each time. The protagonist walks at a constant pace, passing through every open door. 0-5s room one, American-comic fight: the protagonist fights a character (@image3), who is defeated; 5-10s room two, warmth, felt-craft style, window view a sunflower field (@image4), warm-orange soft light, a painter painting sunflowers (@image5), the protagonist turning felt-style on entering; 10-15s room three, sorrow, black-and-white comic stop-motion, rain outside, cold-grey light, a person alone on the floor hugging their knees, a phone glowing with an unanswered call; on entering, the light blinks off then on, the room turns color, flowers bursting into bloom; 15-20s room four, joy, a room submerged in the sea (reference @image6), the protagonist turning transparent among coral and fish; 20-25s room five, surprise, window view a sky of fireworks (reference @image7), colorful flickering light, the protagonist swept up in a cheering crowd; 25-30s a blank white room, the protagonist snaps their fingers — snap SFX — frame goes black, "seedance" in the middle (reference @image8). Cinematic quality, high-fashion advertising style, lighting entirely determined by the window views for strong emotional contrast, no text in frame.
+一続きのワンテイク。カメラは黒いコートの人物（リファレンス @image1）を、色調と雰囲気の異なる六つの連なる部屋を通って左から右へなめらかに追う。どの部屋も同じ構造を共有する。白い壁、明るいヘリンボーンの木の床、フランス窓（掃き出し窓）、白いシアーカーテン（リファレンス @image2）だが、外の眺めと雰囲気は毎回異なる。主人公は一定のペースで歩き、開いたすべてのドアを通り抜ける。0-5s 部屋その一、アメコミ調のバトル：主人公はキャラクター（@image3）と戦い、相手は倒される。5-10s 部屋その二、温かさ、フェルトクラフト風、窓の眺めはヒマワリ畑（@image4）、暖かなオレンジの柔らかい光、ヒマワリを描く画家（@image5）、主人公は入室と同時にフェルト風に変わる。10-15s 部屋その三、悲しみ、白黒コミックのストップモーション、外は雨、冷たいグレーの光、一人きりで床に座り膝を抱える人物、応答のない着信で光るスマートフォン。入室すると照明が明滅して消え、また点き、部屋は色づき、花々が一斉に咲きほころぶ。15-20s 部屋その四、歓喜、海に沈んだ部屋（リファレンス @image6）、主人公はサンゴと魚の間で透明になっていく。20-25s 部屋その五、驚き、窓の眺めは花火が広がる夜空（リファレンス @image7）、色とりどりの明滅する光、主人公は歓声を上げる群衆に巻き込まれる。25-30s 真っ白な何もない部屋、主人公が指を鳴らす——指パッチンのSE——画面が暗転し、中央に「seedance」（リファレンス @image8）。シネマティックなクオリティ、ハイファッション広告のスタイル、照明は完全に窓の眺めによって決まり強い感情のコントラストを生む、画面内に文字なし。
 ```
 
-### No. 5: Video Edit — Remove All But the Lead
+### No. 5: 動画編集 — 主役以外を全員消す
 
-- **Category:** `Video Editing`
+- **Category:** `動画編集`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ja`
@@ -217,17 +206,17 @@ One continuous take. The camera smoothly follows a person in a black coat (refer
 
 #### Description
 
-Reference-video editing: erase everyone except the protagonist from a source clip.
+リファレンス動画の編集：元クリップから主人公以外の全員を消し去る。
 
 #### Prompt
 
 ```text
-Video editing: remove everyone in @video1 except the protagonist.
+動画編集：@video1 の中の主人公以外の全員を取り除く。
 ```
 
-### No. 6: Multilingual Hip-Hop 'Hello' MV
+### No. 6: 多言語ヒップホップ「Hello」MV
 
-- **Category:** `Multi-Image Reference`
+- **Category:** `複数画像リファレンス`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ja`
@@ -242,17 +231,17 @@ Video editing: remove everyone in @video1 except the protagonist.
 
 #### Description
 
-A seaside hip-hop MV built from one reference image; the lead raps 'hello' in 8 languages, lip-synced, hard cuts on the beat.
+1枚の参考画像から組み立てる海辺のヒップホップMV。リードが8言語で「hello」をラップし、リップシンクは正確、ビートでハードカット。
 
 #### Prompt
 
 ```text
-Cinematic hip-hop / rap music video, photoreal quality, high-end tone, seaside setting. Build the frame from @image1: a band performs at a golden sand beach with crashing waves — a lead vocalist gripping a mic on a stand in the wet sand, one guitarist left, one right, a drummer at the back; a vast coastline behind, rolling waves, a warm golden-hour sun shimmering on the water, sea mist in the air. The lead in a red tracksuit raps to camera — lips and jaw precisely synced to every word, head punching to the beat. Bright, punchy, fast, confident rap. HARD CUT on the beat, each switch a double contrast (shot size and type change together). Lyrics (the lead sings 'hello' in each language in turn, precisely lip-synced): English "Hello", Chinese "你好", Japanese "こんにちは", Korean "안녕하세요", Portuguese "Olá", Thai "สวัสดี", Spanish "Hola", Arabic "مرحبا". 8 hard-cut shots (low-angle wide establishing; close-up rap to camera; macro guitar-string insert; 3/4 prowling orbit; lateral track at shore; drummer tilt-up; tight push on the lead; heroic full-band push-in), one language per shot. White balance 4000K, teal-and-amber grade, 35mm, shallow depth of field, film grain, sea mist, golden-hour flare. Premium feel, precise lip-sync, no subtitles, no text overlays, hard cuts only, total 20 seconds.
+シネマティックなヒップホップ／ラップのミュージックビデオ、フォトリアルなクオリティ、ハイエンドなトーン、海辺のセッティング。@image1 からフレームを組み立てる。打ち寄せる波の黄金の砂浜でバンドが演奏する——濡れた砂の上でスタンドマイクを握るリードボーカル、左に一人、右に一人のギタリスト、後方にドラマー。背後には広大な海岸線、うねる波、水面にきらめく暖かなゴールデンアワーの太陽、宙に漂う海霧。赤いトラックスーツのリードがカメラに向かってラップする——唇と顎はすべての言葉に正確に同期し、頭はビートに合わせて力強く打ち込む。明るく、パンチが効き、速く、自信に満ちたラップ。ビートでハードカット、切り替えごとに二重のコントラスト（ショットサイズとタイプが同時に変わる）。歌詞（リードが各言語で順番に「hello」を歌い、リップシンクは正確）：英語「Hello」、中国語「你好」、日本語「こんにちは」、韓国語「안녕하세요」、ポルトガル語「Olá」、タイ語「สวัสดี」、スペイン語「Hola」、アラビア語「مرحبا」。8つのハードカット・ショット（ローアングルのワイドな確立ショット、カメラへのラップのクローズアップ、ギターの弦のマクロインサート、3/4の忍び寄る旋回、岸辺での横移動トラッキング、ドラマーのティルトアップ、リードへのタイトな寄り、バンド全員への堂々たる寄り）、1ショットにつき1言語。ホワイトバランス4000K、ティール＆アンバーのグレーディング、35mm、浅い被写界深度、フィルムグレイン、海霧、ゴールデンアワーのフレア。上質な質感、正確なリップシンク、字幕なし、テキストオーバーレイなし、ハードカットのみ、合計20秒。
 ```
 
-### No. 7: Capsule Coffee Machine Setup Tutorial (6 refs)
+### No. 7: カプセルコーヒーマシンのセットアップ・チュートリアル（参考画像6枚）
 
-- **Category:** `Reference-Guided Tutorial`
+- **Category:** `リファレンス誘導チュートリアル`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ja`
@@ -272,17 +261,17 @@ Cinematic hip-hop / rap music video, photoreal quality, high-end tone, seaside s
 
 #### Description
 
-A 30-second setup-and-use tutorial for a capsule coffee machine, six reference-guided steps with voiceover — from installing the water tank to the first rinse.
+カプセルコーヒーマシンのセットアップと使い方を解説する30秒チュートリアル。ナレーション付きの、参考画像で誘導する6ステップ——給水タンクの取り付けから初回のすすぎまで。
 
 #### Prompt
 
 ```text
-A 30-second tutorial video on installing and using a capsule coffee machine. 0-2s: the opening title card reads "seedance capsule coffee machine setup tutorial". 2-5s, Step 1: install the water tank, reference @image1, medium shot from a slightly high angle, rear of the machine body, align the water tank with the slot on the back of the body and push it straight down until it clicks firmly into place, clearly showing how the tank's bottom clips align with the body's slot, the water level line visible through the tank's transparent section, voiceover "First, install the water tank. Align the tank with the slot on the back of the machine; a click means it is locked in place.". 5-9s, Step 2: install the drip tray, reference @image2, close-up front view, front bottom of the body, slide the drip tray horizontally into the guide rails at the bottom until fully seated, voiceover "Next, install the drip tray. Align the tray with the bottom rails.". 9-13s, Step 3: install the used-capsule collection box, reference @image3, close-up from a slightly low angle, the cavity beneath the drip tray, align the collection box with the recess and push it in flush with the drip tray, voiceover "Then insert the capsule collection box. Used capsules will drop down here automatically.". 13-18s, Step 4: first fill with water, reference @image4, close-up side view, the water tank at the top/back of the body, open the tank lid and pour in clean water up to the MAX water level line, then close it, emphasizing the water level line, voiceover "Open the tank lid, pour in clean water, being careful not to exceed the maximum water level line, then close the tank lid.". 18-25s, Step 5: power on, reference @image5, medium shot front view, front of the body, plug in the power cord and press the power button; the indicator light goes from blinking to steady (preheating complete), voiceover "Connect the power and press the power button. The indicator light starts blinking, which means it is preheating. When the light turns steady, the machine is ready.". 25-30s, Step 6: first rinse (without a capsule), reference @image6, medium shot moving to a close-up front-side view, without inserting a capsule press the brew button directly so hot water flows out and rinses the lines, emphasizing the "no capsule needed" note, voiceover "The last step, the first rinse. Note that this step does not require a capsule; just press the brew button. Once the rinse is done, your coffee machine is ready to use."
+カプセルコーヒーマシンの取り付けと使い方を解説する30秒のチュートリアル動画。0-2s：オープニングのタイトルカードには「seedance カプセルコーヒーマシン セットアップ・チュートリアル」と表示される。2-5s、ステップ1：給水タンクの取り付け、リファレンス @image1、やや高い角度からのミディアムショット、本体の背面、給水タンクを本体背面のスロットに合わせてカチッとしっかりはまるまでまっすぐ下へ押し込む。タンク底部のクリップが本体のスロットにどう合うかを明確に見せ、タンクの透明部分から水位線が見える。ナレーション「まず、給水タンクを取り付けます。タンクをマシン背面のスロットに合わせてください。カチッと音がすれば固定完了です。」。5-9s、ステップ2：ドリップトレイの取り付け、リファレンス @image2、正面からのクローズアップ、本体の前面下部、ドリップトレイを底部のガイドレールに水平に、完全に収まるまでスライドさせる。ナレーション「次に、ドリップトレイを取り付けます。トレイを底部のレールに合わせてください。」。9-13s、ステップ3：使用済みカプセル回収ボックスの取り付け、リファレンス @image3、やや低い角度からのクローズアップ、ドリップトレイの下の空洞、回収ボックスをくぼみに合わせてドリップトレイと面一になるまで押し込む。ナレーション「続いて、カプセル回収ボックスを差し込みます。使用済みのカプセルはここへ自動的に落ちます。」。13-18s、ステップ4：初回の給水、リファレンス @image4、側面からのクローズアップ、本体の上部／背面にある給水タンク、タンクの蓋を開けてMAX水位線まできれいな水を注ぎ、蓋を閉じる。水位線を強調。ナレーション「タンクの蓋を開け、きれいな水を注ぎます。最高水位線を超えないよう注意し、タンクの蓋を閉じてください。」。18-25s、ステップ5：電源を入れる、リファレンス @image5、正面からのミディアムショット、本体の前面、電源コードを差し込み電源ボタンを押す。インジケーターランプが点滅から点灯へ変わる（予熱完了）。ナレーション「電源をつなぎ、電源ボタンを押します。インジケーターランプが点滅を始めたら予熱中の合図です。ランプが点灯に変われば、マシンの準備完了です。」。25-30s、ステップ6：初回のすすぎ（カプセルなし）、リファレンス @image6、ミディアムショットから正面斜めのクローズアップへ、カプセルを入れずに直接抽出ボタンを押し、お湯を流して配管をすすぐ。「カプセル不要」の注意点を強調。ナレーション「最後のステップ、初回のすすぎです。このステップにカプセルは不要で、抽出ボタンを押すだけです。すすぎが終われば、あなたのコーヒーマシンはすぐに使えます。」
 ```
 
-### No. 8: Fruity Cookie Commercial (image + 6 video refs)
+### No. 8: フルーツクッキーのCM（画像1枚＋動画リファレンス6本）
 
-- **Category:** `Multimodal Reference (image+video)`
+- **Category:** `マルチモーダルリファレンス（画像＋動画）`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ja`
@@ -303,23 +292,23 @@ A 30-second tutorial video on installing and using a capsule coffee machine. 0-2
 
 #### Description
 
-A bright, colorful commercial for fruity cookies in four flavors — strawberry, apple, grape, orange — built from one image reference and six motion/camera video references, cut hard to a driving beat.
+明るくカラフルな、4つのフレーバー——ストロベリー、アップル、グレープ、オレンジ——のフルーツクッキーCM。1枚の画像リファレンスと6本のモーション／カメラ動画リファレンスから構築し、力強いビートでハードカット。
 
 #### Prompt
 
 ```text
-A bright, colorful commercial style with fruity cookies as the hero, in four flavors — strawberry, apple, grape, and orange; strawberry flavor reference @image1. The cookies and their matching fruits are arranged in a strongly ordered geometric array; the overall frame is clean, premium, and high-energy. It opens with the fruits orbiting rapidly around the central cookie to quickly establish visual focus — reference the composition of @video1 — cutting in on a strong musical beat. Then cookies of different flavors advance toward the lens along spiral paths, forming clear spatial depth — reference the motion and camera work of @video2 — switching colors and flavors on the beat with the background music. The array of cookies pans left and right with fast plane-to-plane cuts, strawberry, apple, grape, and orange flavors alternating as the frame jump-cuts quickly to the rhythm — reference the movement of @video3. The mid-section adds up-and-down panning; the neat cookie array rises and falls vertically like a machine — reference the movement of @video4 — highlighting the beauty of order and the richness of the product. In the climax a cookie is snapped in two and the moment enters slow motion as the fruity filling bursts open, crumbs scattering, the juicy sensation and grainy impact amplified — reference the explosion effect of @video5 — then quickly returns to the fast-paced edit. The ending brings in the English text "Fresh on Seedance, made for viral vision", entering word by word in quick succession with strong rhythmic text motion and a product freeze-frame — reference @video6 — the four cookie flavors lined up neatly with the fruits bouncing in sync for a final brand-forward close, the frame full of a young, energetic, delicious, shareable ad atmosphere.
+フルーツクッキーを主役にした、明るくカラフルなCMスタイル。フレーバーは4種——ストロベリー、アップル、グレープ、オレンジ。ストロベリー味のリファレンスは @image1。クッキーと対応するフルーツは強い秩序を持つ幾何学的な配列に並び、全体の画面はクリーンで上質、ハイエナジー。オープニングはフルーツが中央のクッキーの周りを高速で旋回し、視覚的な焦点を素早く確立する——@video1 の構図を参照——力強い音楽のビートでカットイン。次に異なるフレーバーのクッキーがスパイラルの軌道に沿ってレンズへ向かって前進し、明確な空間の奥行きを形づくる——@video2 のモーションとカメラワークを参照——BGMに合わせてビートで色とフレーバーを切り替える。クッキーの配列が左右にパンし、面から面への高速なカットで、ストロベリー、アップル、グレープ、オレンジのフレーバーが交互に現れ、画面はリズムに合わせて素早くジャンプカットする——@video3 の動きを参照。中盤では上下のパンを加え、整然としたクッキーの配列が機械のように垂直に上下する——@video4 の動きを参照——秩序の美しさと製品の豊かさを際立たせる。クライマックスでは1枚のクッキーが二つに割られ、その瞬間スローモーションに入り、フルーティーなフィリングが弾け出し、くずが飛び散り、みずみずしさと粒感のインパクトが増幅される——@video5 の爆発エフェクトを参照——その後すぐに速いテンポの編集へ戻る。エンディングでは英語のテキスト「Fresh on Seedance, made for viral vision」が導入され、一文字ずつ素早く次々と登場し、力強いリズミカルなテキストモーションと製品のフリーズフレームを伴う——@video6 を参照——4つのクッキーのフレーバーがフルーツと整然と並び、同期して弾んで最後のブランドを前面に押し出す締めとなり、画面は若々しく、エネルギッシュで、おいしそうで、シェアしたくなる広告の雰囲気に満ちる。
 ```
 
 ## 📋 All Prompts
 
 <a id="category-1"></a>
 
-### Match-Cut & Creative Effects (1)
+### マッチカットとクリエイティブエフェクト (1)
 
-### No. 1: Crystal Ball Match-Cut Beat Film
+### No. 1: クリスタルボールのマッチカット・ビート映像
 
-- **Category:** `Match-Cut & Creative Effects`
+- **Category:** `マッチカットとクリエイティブエフェクト`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ja`
@@ -330,21 +319,21 @@ A bright, colorful commercial style with fruity cookies as the hero, in four fla
 
 #### Description
 
-A beat-synced match-cut film: one crystal ball etched with a glowing 'seedance' logo stays centered while eight scenes cut seamlessly behind it.
+ビートに同期したマッチカット映像。発光する「seedance」ロゴが刻まれた一つのクリスタルボールが中央に固定され、その背後で8つのシーンがシームレスに切り替わる。
 
 #### Prompt
 
 ```text
-A fast-paced, cinematic Match-cut short film synced to a driving electronic beat. A flawless crystal ball stays fixed dead-center throughout, a glowing "seedance" logo etched inside it. The ball holds razor-sharp focus while, on every strong musical beat, the background match-cuts seamlessly: Scene 1: macro close-up, cinematic water splashing around the ball, refracting intricate light. Scene 2: a vintage morning cafe, the ball on a raw-wood table, rising coffee steam and blurred commuters beyond the window. Scene 3: golden-hour dusk, a skater youth tosses and catches the ball one-handed, street racing backward behind them in gorgeous backlit sunset. Scene 4: a frenzied music festival, hands raise the ball high, refracting dazzling stage lasers. Scene 5: a lively family party table, the ball resting center-frame, blurred figures toasting and reaching for food. Scene 6: a dim cinema, hands cupping the ball as the giant screen's faint glow drifts across its surface. Scene 7: the ball on a violently vibrating speaker diaphragm, match-cutting on the climax to a spinning DJ turntable center. Scene 8: an outdoor camping night, background becoming warm bonfire and swaying string-light bokeh. Finale: on the final downbeat the ball is hurled up out of frame; cut to pure black, a minimal white-on-black "seedance" appearing dead-center. Beat-synced match-cut editing, top-tier cinematic color grading, photoreal glass refraction, ray tracing, global illumination. Subject razor-sharp, background heavy motion blur.
+力強いエレクトロビートに同期した、疾走感あふれるシネマティックなマッチカット・ショートフィルム。一点の曇りもないクリスタルボールが常に画面のど真ん中に固定され、その内部には発光する「seedance」ロゴが刻まれている。ボールは極めてシャープなフォーカスを保ち、強拍ごとに背景がシームレスにマッチカットする。シーン1：マクロクローズアップ、シネマティックな水しぶきがボールの周囲で弾け、複雑な光を屈折させる。シーン2：ヴィンテージな朝のカフェ、無垢材のテーブルに置かれたボール、立ちのぼるコーヒーの湯気、窓の外にはぼやけた通勤者たち。シーン3：ゴールデンアワーの夕暮れ、スケーターの若者が片手でボールを放り投げてキャッチし、背後では逆光の美しい夕日の中で通りが後方へ流れていく。シーン4：熱狂的な音楽フェス、無数の手がボールを高々と掲げ、まばゆいステージレーザーを屈折させる。シーン5：賑やかな家族パーティーのテーブル、中央に置かれたボール、ぼやけた人影が乾杯し料理へ手を伸ばす。シーン6：薄暗い映画館、両手で包み込まれたボールの表面を、巨大スクリーンのかすかな光が漂うように移ろう。シーン7：激しく振動するスピーカーのコーンの上に置かれたボールが、クライマックスで中央に回転するDJターンテーブルへマッチカットする。シーン8：野外キャンプの夜、背景は暖かな焚き火と揺れるストリングライトのボケへと変わる。フィナーレ：最後のダウンビートでボールがフレーム外へ投げ上げられ、真っ黒にカット、黒地に白のミニマルな「seedance」が中央に現れる。ビート同期のマッチカット編集、最高峰のシネマティックなカラーグレーディング、フォトリアルなガラスの屈折、レイトレーシング、グローバルイルミネーション。被写体は極めてシャープ、背景は強いモーションブラー。
 ```
 
 <a id="category-2"></a>
 
-### One-Take Cinematography (1)
+### ワンテイク撮影 (1)
 
-### No. 1: Steampunk Clockwork — 30s One-Take
+### No. 1: スチームパンクの時計仕掛け — 30秒ワンテイク
 
-- **Category:** `One-Take Cinematography`
+- **Category:** `ワンテイク撮影`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ja`
@@ -355,21 +344,21 @@ A fast-paced, cinematic Match-cut short film synced to a driving electronic beat
 
 #### Description
 
-A 30-second steampunk miniature 3D sequence with continuous orbiting, pass-through camera moves.
+連続的な旋回とパススルーのカメラワークで撮る、30秒のスチームパンク・ミニチュア3Dシーケンス。
 
 #### Prompt
 
 ```text
-A high-end, deeply cinematic 30-second 3D motion-graphics sequence in refined steampunk and vintage-miniature style, with continuous fluid orbiting and pass-through camera moves. [0-10s] Macro close-up of an antique brass clock face that unfolds layer by layer into meshing rotating gear rings and volumetric fog. The camera pierces down through the gears; a mechanical ornithopter spirals up from a miniature canyon of stacked weathered old books. [10-20s] The camera glides forward tracking the ornithopter, seamlessly passing into a fast-spinning ornate brass zoetrope projecting galloping mechanical-horse light. The light leaps out and the scene becomes a brass floating cable car on glimmering copper rails through a forest of gears, bathed in cinematic golden-hour light. [20-30s] The camera pans elegantly down; below appears an exquisite clockwork wooden sailing ship cutting deep-blue glass-textured waves, which morph into a glowing giant moon with lantern-holding explorer silhouettes trekking a crystal-vein ridge under stars. The camera spirals smoothly back through ethereal clouds to the ticking brass clock face. Hyper-real mechanical textures, rich brass and gold tones, cinematic shallow depth of field, smooth seamless pass-through camerawork, epic fantastical adventure atmosphere.
+洗練されたスチームパンクとヴィンテージ・ミニチュアの様式による、ハイエンドで深くシネマティックな30秒の3Dモーショングラフィックス・シーケンス。途切れなく流麗に旋回し、対象を通り抜けていくカメラワーク。[0-10s] アンティークな真鍮の時計文字盤のマクロクローズアップが、一層また一層と噛み合い回転する歯車のリングとボリューメトリックな霧へと展開していく。カメラは歯車を貫いて下降し、風化した古書が積み重なるミニチュアの峡谷から機械仕掛けのオーニソプター（羽ばたき飛行機）が螺旋を描いて舞い上がる。[10-20s] カメラは前進しながらオーニソプターを追い、高速回転する装飾的な真鍮のゾートロープへとシームレスに入り込み、疾走する機械仕掛けの馬の光が投影される。その光が飛び出し、シーンは歯車の森を抜けてきらめく銅のレールを走る真鍮の浮遊ケーブルカーへと変わり、シネマティックなゴールデンアワーの光に包まれる。[20-30s] カメラは優雅に下へパンし、下方には深いブルーのガラス質の波を切り裂く精巧な時計仕掛けの木造帆船が現れ、それは発光する巨大な月へと姿を変え、ランタンを掲げた探検家のシルエットが星空の下、水晶の鉱脈が走る尾根を踏破していく。カメラは幻想的な雲の中をなめらかに螺旋を描いて戻り、時を刻む真鍮の時計文字盤へと帰る。超リアルな機械の質感、豊かな真鍮とゴールドのトーン、シネマティックな浅い被写界深度、なめらかでシームレスなパススルーのカメラワーク、壮大で幻想的な冒険の雰囲気。
 ```
 
 <a id="category-3"></a>
 
-### Multi-Image Reference (3)
+### 複数画像リファレンス (3)
 
-### No. 1: Windows Through Worlds (5 refs)
+### No. 1: 窓を抜けて異世界へ（参考画像5枚）
 
-- **Category:** `Multi-Image Reference`
+- **Category:** `複数画像リファレンス`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ja`
@@ -388,17 +377,17 @@ A high-end, deeply cinematic 30-second 3D motion-graphics sequence in refined st
 
 #### Description
 
-A brand concept short driven by 5 reference images, gliding through windows into different worlds.
+5枚の参考画像で駆動するブランドコンセプトのショートフィルム。窓を次々と抜け、異なる世界へ滑り込んでいく。
 
 #### Prompt
 
 ```text
-A cinematic brand concept short. @image1 is the first frame; the picture trembles slightly, the camera pushes in to tree shadows rushing backward outside the window, their retreat accelerating, then abruptly cuts to @image2, speed easing as the camera glides slowly along a stream, birdsong and blossoms. The camera drops underwater — bubble sounds — as orange jellyfish drift gracefully past the lens @image3; the camera pulls back as small fish flit past and swim from the water into the window @image4, a girl looking around, watching them. The camera pulls back, defocuses, then refocuses sharp, switching to the music's rhythm: a Chinese-garden lattice window @image5 with light circling, church stained glass, an airplane porthole, a dome skylight, a bay window, louver blinds, a European dormer, a door peephole, a camera viewfinder, a bird's eye, a human eye close-up. It settles on the human eye; the eye closes, screen black, then suddenly opens — "seedance" appearing in the center of the eye on the accent beat.
+シネマティックなブランドコンセプトのショートフィルム。@image1 が最初のフレーム。画面がわずかに震え、カメラが押し込むと窓の外で木々の影が後方へ流れ去り、その退きが加速していく。そして突然 @image2 へカット、速度が緩やかになり、カメラは小川に沿ってゆっくりと滑り、鳥のさえずりと花。カメラは水中へ潜り——泡の音——オレンジ色のクラゲが優雅にレンズの前を漂い過ぎる @image3。カメラが引くと小魚がすっと横切り、水の中から窓の中へ泳ぎ込む @image4、一人の少女があたりを見回し、彼らを見つめる。カメラが引いてピントを外し、再びシャープに合わせ、音楽のリズムに合わせて切り替わる。中国庭園の格子窓 @image5 に光が巡り、教会のステンドグラス、飛行機の丸窓、ドーム状の天窓、出窓、ルーバーブラインド、ヨーロッパ風の屋根窓、ドアの覗き穴、カメラのファインダー、鳥の目、人間の目のクローズアップ。人間の目に落ち着き、目が閉じ、画面は暗転、そして突然開く——アクセントのビートで「seedance」が目の中央に現れる。
 ```
 
-### No. 2: One-Take Through Six Rooms (8 refs)
+### No. 2: ワンテイクで六つの部屋を抜けて（参考画像8枚）
 
-- **Category:** `Multi-Image Reference`
+- **Category:** `複数画像リファレンス`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ja`
@@ -420,17 +409,17 @@ A cinematic brand concept short. @image1 is the first frame; the picture tremble
 
 #### Description
 
-One continuous take following a figure through six mood-shifting rooms, driven by 8 reference images.
+8枚の参考画像で駆動し、一続きのワンテイクで人物を追い、雰囲気の移り変わる六つの部屋を抜けていく。
 
 #### Prompt
 
 ```text
-One continuous take. The camera smoothly follows a person in a black coat (reference @image1) moving left to right through six connected rooms of different tones and moods. Every room shares the same structure: white walls, light herringbone wood floor, French floor-to-ceiling windows, white sheer curtains (reference @image2) but the outside view and mood differ each time. The protagonist walks at a constant pace, passing through every open door. 0-5s room one, American-comic fight: the protagonist fights a character (@image3), who is defeated; 5-10s room two, warmth, felt-craft style, window view a sunflower field (@image4), warm-orange soft light, a painter painting sunflowers (@image5), the protagonist turning felt-style on entering; 10-15s room three, sorrow, black-and-white comic stop-motion, rain outside, cold-grey light, a person alone on the floor hugging their knees, a phone glowing with an unanswered call; on entering, the light blinks off then on, the room turns color, flowers bursting into bloom; 15-20s room four, joy, a room submerged in the sea (reference @image6), the protagonist turning transparent among coral and fish; 20-25s room five, surprise, window view a sky of fireworks (reference @image7), colorful flickering light, the protagonist swept up in a cheering crowd; 25-30s a blank white room, the protagonist snaps their fingers — snap SFX — frame goes black, "seedance" in the middle (reference @image8). Cinematic quality, high-fashion advertising style, lighting entirely determined by the window views for strong emotional contrast, no text in frame.
+一続きのワンテイク。カメラは黒いコートの人物（リファレンス @image1）を、色調と雰囲気の異なる六つの連なる部屋を通って左から右へなめらかに追う。どの部屋も同じ構造を共有する。白い壁、明るいヘリンボーンの木の床、フランス窓（掃き出し窓）、白いシアーカーテン（リファレンス @image2）だが、外の眺めと雰囲気は毎回異なる。主人公は一定のペースで歩き、開いたすべてのドアを通り抜ける。0-5s 部屋その一、アメコミ調のバトル：主人公はキャラクター（@image3）と戦い、相手は倒される。5-10s 部屋その二、温かさ、フェルトクラフト風、窓の眺めはヒマワリ畑（@image4）、暖かなオレンジの柔らかい光、ヒマワリを描く画家（@image5）、主人公は入室と同時にフェルト風に変わる。10-15s 部屋その三、悲しみ、白黒コミックのストップモーション、外は雨、冷たいグレーの光、一人きりで床に座り膝を抱える人物、応答のない着信で光るスマートフォン。入室すると照明が明滅して消え、また点き、部屋は色づき、花々が一斉に咲きほころぶ。15-20s 部屋その四、歓喜、海に沈んだ部屋（リファレンス @image6）、主人公はサンゴと魚の間で透明になっていく。20-25s 部屋その五、驚き、窓の眺めは花火が広がる夜空（リファレンス @image7）、色とりどりの明滅する光、主人公は歓声を上げる群衆に巻き込まれる。25-30s 真っ白な何もない部屋、主人公が指を鳴らす——指パッチンのSE——画面が暗転し、中央に「seedance」（リファレンス @image8）。シネマティックなクオリティ、ハイファッション広告のスタイル、照明は完全に窓の眺めによって決まり強い感情のコントラストを生む、画面内に文字なし。
 ```
 
-### No. 3: Multilingual Hip-Hop 'Hello' MV
+### No. 3: 多言語ヒップホップ「Hello」MV
 
-- **Category:** `Multi-Image Reference`
+- **Category:** `複数画像リファレンス`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ja`
@@ -445,21 +434,21 @@ One continuous take. The camera smoothly follows a person in a black coat (refer
 
 #### Description
 
-A seaside hip-hop MV built from one reference image; the lead raps 'hello' in 8 languages, lip-synced, hard cuts on the beat.
+1枚の参考画像から組み立てる海辺のヒップホップMV。リードが8言語で「hello」をラップし、リップシンクは正確、ビートでハードカット。
 
 #### Prompt
 
 ```text
-Cinematic hip-hop / rap music video, photoreal quality, high-end tone, seaside setting. Build the frame from @image1: a band performs at a golden sand beach with crashing waves — a lead vocalist gripping a mic on a stand in the wet sand, one guitarist left, one right, a drummer at the back; a vast coastline behind, rolling waves, a warm golden-hour sun shimmering on the water, sea mist in the air. The lead in a red tracksuit raps to camera — lips and jaw precisely synced to every word, head punching to the beat. Bright, punchy, fast, confident rap. HARD CUT on the beat, each switch a double contrast (shot size and type change together). Lyrics (the lead sings 'hello' in each language in turn, precisely lip-synced): English "Hello", Chinese "你好", Japanese "こんにちは", Korean "안녕하세요", Portuguese "Olá", Thai "สวัสดี", Spanish "Hola", Arabic "مرحبا". 8 hard-cut shots (low-angle wide establishing; close-up rap to camera; macro guitar-string insert; 3/4 prowling orbit; lateral track at shore; drummer tilt-up; tight push on the lead; heroic full-band push-in), one language per shot. White balance 4000K, teal-and-amber grade, 35mm, shallow depth of field, film grain, sea mist, golden-hour flare. Premium feel, precise lip-sync, no subtitles, no text overlays, hard cuts only, total 20 seconds.
+シネマティックなヒップホップ／ラップのミュージックビデオ、フォトリアルなクオリティ、ハイエンドなトーン、海辺のセッティング。@image1 からフレームを組み立てる。打ち寄せる波の黄金の砂浜でバンドが演奏する——濡れた砂の上でスタンドマイクを握るリードボーカル、左に一人、右に一人のギタリスト、後方にドラマー。背後には広大な海岸線、うねる波、水面にきらめく暖かなゴールデンアワーの太陽、宙に漂う海霧。赤いトラックスーツのリードがカメラに向かってラップする——唇と顎はすべての言葉に正確に同期し、頭はビートに合わせて力強く打ち込む。明るく、パンチが効き、速く、自信に満ちたラップ。ビートでハードカット、切り替えごとに二重のコントラスト（ショットサイズとタイプが同時に変わる）。歌詞（リードが各言語で順番に「hello」を歌い、リップシンクは正確）：英語「Hello」、中国語「你好」、日本語「こんにちは」、韓国語「안녕하세요」、ポルトガル語「Olá」、タイ語「สวัสดี」、スペイン語「Hola」、アラビア語「مرحبا」。8つのハードカット・ショット（ローアングルのワイドな確立ショット、カメラへのラップのクローズアップ、ギターの弦のマクロインサート、3/4の忍び寄る旋回、岸辺での横移動トラッキング、ドラマーのティルトアップ、リードへのタイトな寄り、バンド全員への堂々たる寄り）、1ショットにつき1言語。ホワイトバランス4000K、ティール＆アンバーのグレーディング、35mm、浅い被写界深度、フィルムグレイン、海霧、ゴールデンアワーのフレア。上質な質感、正確なリップシンク、字幕なし、テキストオーバーレイなし、ハードカットのみ、合計20秒。
 ```
 
 <a id="category-4"></a>
 
-### Video Editing (2)
+### 動画編集 (2)
 
-### No. 1: Video Edit — Remove All But the Lead
+### No. 1: 動画編集 — 主役以外を全員消す
 
-- **Category:** `Video Editing`
+- **Category:** `動画編集`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ja`
@@ -474,17 +463,17 @@ Cinematic hip-hop / rap music video, photoreal quality, high-end tone, seaside s
 
 #### Description
 
-Reference-video editing: erase everyone except the protagonist from a source clip.
+リファレンス動画の編集：元クリップから主人公以外の全員を消し去る。
 
 #### Prompt
 
 ```text
-Video editing: remove everyone in @video1 except the protagonist.
+動画編集：@video1 の中の主人公以外の全員を取り除く。
 ```
 
-### No. 2: Steam Train Bursts the Screen (video edit)
+### No. 2: 蒸気機関車がスクリーンを突き破る（動画編集）
 
-- **Category:** `Video Editing`
+- **Category:** `動画編集`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ja`
@@ -499,21 +488,21 @@ Video editing: remove everyone in @video1 except the protagonist.
 
 #### Description
 
-A video edit that keeps the original @video1 old-cinema clip intact and adds only a steam locomotive bursting through the screen, tearing the fabric, with black-and-white snapping to full color at the moment of impact.
+@video1 の古い映画館クリップをそのまま完全に保ち、スクリーンを突き破って幕を引き裂く蒸気機関車だけを加える動画編集。衝突の瞬間に白黒がフルカラーへ切り替わる。
 
 #### Prompt
 
 ```text
-Hyper-real cinematic realist style with photorealistic live-action texture, emphasizing the real-world plausibility of the physical object bursting out (the steam train); no CGI gloss / game engine / stylized 3D. Preserve @video1's original composition, projection-hall lighting, handheld camera state and natural imperfections. Source video locked: keep @video1 fully intact as the base image (the old-fashioned projection hall, the rows of hat-wearing audience seen from behind, the projector's conical beam, the screen, the ambient light, the color tone and the handheld movement all unchanged); the only additions: the train bursting out of the screen, the changes in light and shadow it brings, the tearing of the screen, and the slight physical impact on the hall and the front-row audience. Color-shift rule (the core addition): at the start strictly keep @video1's original black-and-white old-film texture (grain / scratches / flicker / monochrome); at the exact moment the locomotive truly breaks through the screen and bursts into reality, the image abruptly shifts from black-and-white to full, real color, the color spreading across the whole frame like a shockwave centered on the point where the train breaks out (the train's black steel body, the red-copper boiler, the orange-yellow steam-lamp glow, the warm brown of the wooden carriage, the white-grey steam, and the warm brown of the projection hall all coming into color accordingly); the color shift is precisely synchronized with the screen-breaking burst, after which photorealistic color is maintained to the end. Screen-tearing locked: the screen is a real white projection cloth with genuine fabric tension; as the train bursts out it is forcibly torn open along the contour of the locomotive's front, with radial rips whose edges curl back and shredded cloth fibers flying. Subject: an old-fashioned steam locomotive front bursting forcibly out of the screen, a black steel body, a cylindrical boiler, a front cowcatcher, a chimney venting white-grey steam, a bright headlamp, the metal surfaces with real wear, oil grime, rivets and wet reflections, charging forward with immense weight and inertia. Camera: fully inherits @video1's original handheld movement, not smoothed, not re-timed, not re-composed; the bursting train stays correctly locked into the screen and the hall space at all times, maintaining correct parallax, occlusion and ground-contact shadow. Sound: no music, keep only real on-scene sound effects, inheriting @video1's projection-hall ambience (the projector's clatter, the audience's stirring) and adding the sound of the cloth tearing, steam gushing, the mechanical roar of steel wheels, and the impact air blast. Total duration exactly the same as @video1; add nothing other than the train itself and its physical interactions, the screen tearing, and the color shift at the moment of the break. No slow motion, no sense of magic, no stylized horror; the final result should look like an eerie yet real image of "a train smashing through the screen, black-and-white instantly turning to color" captured by chance by a real camera in an old projection hall.
+超リアルなシネマティック・リアリズムのスタイルで、フォトリアルな実写の質感を持ち、実在の物体（蒸気機関車）が飛び出してくる現実的な説得力を強調する。CGIのつるつる感／ゲームエンジン／様式化された3Dは一切なし。@video1 の元の構図、上映ホールの照明、ハンドヘルドカメラの状態、そして自然な不完全さを保つ。ソース動画をロック：@video1 を完全にそのまま下地として保持する（旧式の上映ホール、後ろから見た帽子をかぶった観客の列、映写機の円錐状の光線、スクリーン、環境光、色調、ハンドヘルドの動き、すべて変えない）。加えるのは次のものだけ：スクリーンから飛び出す機関車、それがもたらす光と影の変化、スクリーンの引き裂き、そして上映ホールと最前列の観客へのわずかな物理的衝撃。色変化のルール（核心となる追加）：冒頭は @video1 の元の白黒の古いフィルムの質感（グレイン／傷／ちらつき／モノクロ）を厳密に保つ。機関車が本当にスクリーンを突き破って現実へ飛び出す、まさにその瞬間、映像は白黒から完全でリアルなフルカラーへ突然切り替わり、色は機関車が破って出た地点を中心に衝撃波のように画面全体へ広がる（機関車の黒い鋼鉄の車体、赤銅色のボイラー、オレンジ黄色の蒸気ランプの光、木造車両の暖かな茶色、白灰色の蒸気、そして上映ホールの暖かな茶色がそれに応じて色づく）。色の切り替わりはスクリーンを破って飛び出す瞬間と精密に同期し、その後はフォトリアルなカラーが最後まで保たれる。スクリーンの引き裂きをロック：スクリーンは本物の白い上映用の布で、本物の布地の張力を持つ。機関車が飛び出すと、機関車前面の輪郭に沿って布は強引に引き裂かれ、放射状の裂け目ができ、その縁は後ろへめくれ上がり、ちぎれた布の繊維が飛び散る。被写体：旧式の蒸気機関車の前面が強引にスクリーンから飛び出す。黒い鋼鉄の車体、円筒形のボイラー、前面の排障器（カウキャッチャー）、白灰色の蒸気を噴き出す煙突、明るいヘッドランプ、金属表面には本物の摩耗、油汚れ、リベット、濡れた反射があり、圧倒的な重量と慣性で前へ突進してくる。カメラ：@video1 の元のハンドヘルドの動きを完全に受け継ぎ、スムージングも、リタイミングも、再構図もしない。飛び出す機関車は常にスクリーンとホール空間の中に正しくロックされ、正しい視差、オクルージョン、接地の影を保つ。サウンド：音楽なし、本物の現場の音効果だけを保ち、@video1 の上映ホールの環境音（映写機のカタカタ音、観客のざわめき）を受け継ぎ、布が裂ける音、蒸気が噴き出す音、鋼鉄の車輪の機械的な轟音、衝撃の爆風を加える。総尺は @video1 とまったく同じ。機関車そのものとその物理的な相互作用、スクリーンの引き裂き、破って出る瞬間の色変化以外は、何も加えない。スローモーションなし、魔法めいた感じなし、様式化されたホラーなし。最終的な仕上がりは、旧い上映ホールで本物のカメラが偶然とらえた「一台の機関車がスクリーンを突き破り、白黒が一瞬でカラーに変わる」不気味でありながらリアルな映像のように見えるべきである。
 ```
 
 <a id="category-5"></a>
 
-### Reference-Guided Tutorial (1)
+### リファレンス誘導チュートリアル (1)
 
-### No. 1: Capsule Coffee Machine Setup Tutorial (6 refs)
+### No. 1: カプセルコーヒーマシンのセットアップ・チュートリアル（参考画像6枚）
 
-- **Category:** `Reference-Guided Tutorial`
+- **Category:** `リファレンス誘導チュートリアル`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ja`
@@ -533,21 +522,21 @@ Hyper-real cinematic realist style with photorealistic live-action texture, emph
 
 #### Description
 
-A 30-second setup-and-use tutorial for a capsule coffee machine, six reference-guided steps with voiceover — from installing the water tank to the first rinse.
+カプセルコーヒーマシンのセットアップと使い方を解説する30秒チュートリアル。ナレーション付きの、参考画像で誘導する6ステップ——給水タンクの取り付けから初回のすすぎまで。
 
 #### Prompt
 
 ```text
-A 30-second tutorial video on installing and using a capsule coffee machine. 0-2s: the opening title card reads "seedance capsule coffee machine setup tutorial". 2-5s, Step 1: install the water tank, reference @image1, medium shot from a slightly high angle, rear of the machine body, align the water tank with the slot on the back of the body and push it straight down until it clicks firmly into place, clearly showing how the tank's bottom clips align with the body's slot, the water level line visible through the tank's transparent section, voiceover "First, install the water tank. Align the tank with the slot on the back of the machine; a click means it is locked in place.". 5-9s, Step 2: install the drip tray, reference @image2, close-up front view, front bottom of the body, slide the drip tray horizontally into the guide rails at the bottom until fully seated, voiceover "Next, install the drip tray. Align the tray with the bottom rails.". 9-13s, Step 3: install the used-capsule collection box, reference @image3, close-up from a slightly low angle, the cavity beneath the drip tray, align the collection box with the recess and push it in flush with the drip tray, voiceover "Then insert the capsule collection box. Used capsules will drop down here automatically.". 13-18s, Step 4: first fill with water, reference @image4, close-up side view, the water tank at the top/back of the body, open the tank lid and pour in clean water up to the MAX water level line, then close it, emphasizing the water level line, voiceover "Open the tank lid, pour in clean water, being careful not to exceed the maximum water level line, then close the tank lid.". 18-25s, Step 5: power on, reference @image5, medium shot front view, front of the body, plug in the power cord and press the power button; the indicator light goes from blinking to steady (preheating complete), voiceover "Connect the power and press the power button. The indicator light starts blinking, which means it is preheating. When the light turns steady, the machine is ready.". 25-30s, Step 6: first rinse (without a capsule), reference @image6, medium shot moving to a close-up front-side view, without inserting a capsule press the brew button directly so hot water flows out and rinses the lines, emphasizing the "no capsule needed" note, voiceover "The last step, the first rinse. Note that this step does not require a capsule; just press the brew button. Once the rinse is done, your coffee machine is ready to use."
+カプセルコーヒーマシンの取り付けと使い方を解説する30秒のチュートリアル動画。0-2s：オープニングのタイトルカードには「seedance カプセルコーヒーマシン セットアップ・チュートリアル」と表示される。2-5s、ステップ1：給水タンクの取り付け、リファレンス @image1、やや高い角度からのミディアムショット、本体の背面、給水タンクを本体背面のスロットに合わせてカチッとしっかりはまるまでまっすぐ下へ押し込む。タンク底部のクリップが本体のスロットにどう合うかを明確に見せ、タンクの透明部分から水位線が見える。ナレーション「まず、給水タンクを取り付けます。タンクをマシン背面のスロットに合わせてください。カチッと音がすれば固定完了です。」。5-9s、ステップ2：ドリップトレイの取り付け、リファレンス @image2、正面からのクローズアップ、本体の前面下部、ドリップトレイを底部のガイドレールに水平に、完全に収まるまでスライドさせる。ナレーション「次に、ドリップトレイを取り付けます。トレイを底部のレールに合わせてください。」。9-13s、ステップ3：使用済みカプセル回収ボックスの取り付け、リファレンス @image3、やや低い角度からのクローズアップ、ドリップトレイの下の空洞、回収ボックスをくぼみに合わせてドリップトレイと面一になるまで押し込む。ナレーション「続いて、カプセル回収ボックスを差し込みます。使用済みのカプセルはここへ自動的に落ちます。」。13-18s、ステップ4：初回の給水、リファレンス @image4、側面からのクローズアップ、本体の上部／背面にある給水タンク、タンクの蓋を開けてMAX水位線まできれいな水を注ぎ、蓋を閉じる。水位線を強調。ナレーション「タンクの蓋を開け、きれいな水を注ぎます。最高水位線を超えないよう注意し、タンクの蓋を閉じてください。」。18-25s、ステップ5：電源を入れる、リファレンス @image5、正面からのミディアムショット、本体の前面、電源コードを差し込み電源ボタンを押す。インジケーターランプが点滅から点灯へ変わる（予熱完了）。ナレーション「電源をつなぎ、電源ボタンを押します。インジケーターランプが点滅を始めたら予熱中の合図です。ランプが点灯に変われば、マシンの準備完了です。」。25-30s、ステップ6：初回のすすぎ（カプセルなし）、リファレンス @image6、ミディアムショットから正面斜めのクローズアップへ、カプセルを入れずに直接抽出ボタンを押し、お湯を流して配管をすすぐ。「カプセル不要」の注意点を強調。ナレーション「最後のステップ、初回のすすぎです。このステップにカプセルは不要で、抽出ボタンを押すだけです。すすぎが終われば、あなたのコーヒーマシンはすぐに使えます。」
 ```
 
 <a id="category-6"></a>
 
-### Multimodal Reference (image+video) (1)
+### マルチモーダルリファレンス（画像＋動画） (1)
 
-### No. 1: Fruity Cookie Commercial (image + 6 video refs)
+### No. 1: フルーツクッキーのCM（画像1枚＋動画リファレンス6本）
 
-- **Category:** `Multimodal Reference (image+video)`
+- **Category:** `マルチモーダルリファレンス（画像＋動画）`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ja`
@@ -568,21 +557,21 @@ A 30-second tutorial video on installing and using a capsule coffee machine. 0-2
 
 #### Description
 
-A bright, colorful commercial for fruity cookies in four flavors — strawberry, apple, grape, orange — built from one image reference and six motion/camera video references, cut hard to a driving beat.
+明るくカラフルな、4つのフレーバー——ストロベリー、アップル、グレープ、オレンジ——のフルーツクッキーCM。1枚の画像リファレンスと6本のモーション／カメラ動画リファレンスから構築し、力強いビートでハードカット。
 
 #### Prompt
 
 ```text
-A bright, colorful commercial style with fruity cookies as the hero, in four flavors — strawberry, apple, grape, and orange; strawberry flavor reference @image1. The cookies and their matching fruits are arranged in a strongly ordered geometric array; the overall frame is clean, premium, and high-energy. It opens with the fruits orbiting rapidly around the central cookie to quickly establish visual focus — reference the composition of @video1 — cutting in on a strong musical beat. Then cookies of different flavors advance toward the lens along spiral paths, forming clear spatial depth — reference the motion and camera work of @video2 — switching colors and flavors on the beat with the background music. The array of cookies pans left and right with fast plane-to-plane cuts, strawberry, apple, grape, and orange flavors alternating as the frame jump-cuts quickly to the rhythm — reference the movement of @video3. The mid-section adds up-and-down panning; the neat cookie array rises and falls vertically like a machine — reference the movement of @video4 — highlighting the beauty of order and the richness of the product. In the climax a cookie is snapped in two and the moment enters slow motion as the fruity filling bursts open, crumbs scattering, the juicy sensation and grainy impact amplified — reference the explosion effect of @video5 — then quickly returns to the fast-paced edit. The ending brings in the English text "Fresh on Seedance, made for viral vision", entering word by word in quick succession with strong rhythmic text motion and a product freeze-frame — reference @video6 — the four cookie flavors lined up neatly with the fruits bouncing in sync for a final brand-forward close, the frame full of a young, energetic, delicious, shareable ad atmosphere.
+フルーツクッキーを主役にした、明るくカラフルなCMスタイル。フレーバーは4種——ストロベリー、アップル、グレープ、オレンジ。ストロベリー味のリファレンスは @image1。クッキーと対応するフルーツは強い秩序を持つ幾何学的な配列に並び、全体の画面はクリーンで上質、ハイエナジー。オープニングはフルーツが中央のクッキーの周りを高速で旋回し、視覚的な焦点を素早く確立する——@video1 の構図を参照——力強い音楽のビートでカットイン。次に異なるフレーバーのクッキーがスパイラルの軌道に沿ってレンズへ向かって前進し、明確な空間の奥行きを形づくる——@video2 のモーションとカメラワークを参照——BGMに合わせてビートで色とフレーバーを切り替える。クッキーの配列が左右にパンし、面から面への高速なカットで、ストロベリー、アップル、グレープ、オレンジのフレーバーが交互に現れ、画面はリズムに合わせて素早くジャンプカットする——@video3 の動きを参照。中盤では上下のパンを加え、整然としたクッキーの配列が機械のように垂直に上下する——@video4 の動きを参照——秩序の美しさと製品の豊かさを際立たせる。クライマックスでは1枚のクッキーが二つに割られ、その瞬間スローモーションに入り、フルーティーなフィリングが弾け出し、くずが飛び散り、みずみずしさと粒感のインパクトが増幅される——@video5 の爆発エフェクトを参照——その後すぐに速いテンポの編集へ戻る。エンディングでは英語のテキスト「Fresh on Seedance, made for viral vision」が導入され、一文字ずつ素早く次々と登場し、力強いリズミカルなテキストモーションと製品のフリーズフレームを伴う——@video6 を参照——4つのクッキーのフレーバーがフルーツと整然と並び、同期して弾んで最後のブランドを前面に押し出す締めとなり、画面は若々しく、エネルギッシュで、おいしそうで、シェアしたくなる広告の雰囲気に満ちる。
 ```
 
 <a id="category-7"></a>
 
-### Image Reference (1)
+### 画像リファレンス (1)
 
-### No. 1: Desert Horned Lizard & Grapefruit (3D ad)
+### No. 1: 砂漠のツノトカゲとグレープフルーツ（3D広告）
 
-- **Category:** `Image Reference`
+- **Category:** `画像リファレンス`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ja`
@@ -597,21 +586,21 @@ A bright, colorful commercial style with fruity cookies as the hero, in four fla
 
 #### Description
 
-A bright, glossy 3D animated commercial: a parched desert horned lizard finds a grapefruit, bites in, and a juice tsunami turns the desert into a summer sea. Built from one character reference.
+明るくつややかな3DアニメーションCM。干上がった砂漠のツノトカゲがグレープフルーツを見つけて噛みつくと、果汁の津波が砂漠を夏の海に変える。1枚のキャラクターリファレンスから構築。
 
 #### Prompt
 
 ```text
-A 3D animated commercial style, bright and translucent colors; the pulp and juice must feel intensely refreshing and impactful. The overall vibe is like a high-quality commercial animated short with a touch of exaggerated humor. The desert horned lizard character is cute, lively and expressive, reference @image1. The image texture references that soft natural light, delicate fuzz/skin texture, dreamy macro depth of field, and a realistic-yet-slightly-childlike feel from the reference image. 0-3s: a desert scorched by the blazing sun, the air shimmering with heat and the sand searing hot; a desert horned lizard lies on the scalding sand, tongue slightly out, eyes glazed, nearly dried out, swaying with every couple of steps as if about to "evaporate". 3-6s: it suddenly stops, its nose twitches, and looking down it spots a cool, plump, dew-covered grapefruit half-buried in the sand, glistening like a desert miracle; the lizard's eyes go wide in an instant. 6-8s: it pounces over, hugging the grapefruit tightly with both hands, pressing its whole face against the rind with a blissful "I'm finally alive" expression; the frame holds for 1 second, forming an exaggerated, funny memory beat. 8-11s: it looks up, opens its mouth and takes a big bite; the grapefruit rind splits open, the plump pulp shining with a translucent gloss, and the next moment the juice erupts like a tsunami. 11-16s: orange-pink, translucent, glistening grapefruit juice gushes out wildly, pouring down the dunes and rapidly flooding the entire desert; the dry yellow sand instantly turns into a cool, sparkling, fruit-scented summer sea, cacti, rocks and small dunes swallowed by the waves of juice, the lizard's expression turning from delight to terror. 16-20s: nearly drowned by the "grapefruit sea", it frantically clutches half a grapefruit like a life buoy and floats, poking its soaked head out looking dazed. 20-24s: cut to a white screen; the brand name and slogan appear dead-center: "Seedance Grapefruit — bite in for the pulp, what pours out is summer." The voiceover reads the whole line. 24-30s: cut back from white; the desert horned lizard is now lounging on the floating grapefruit, wearing tiny sunglasses and holding a cup with a straw, drifting leisurely on the "juice sea" on vacation, surrounded by floating orange pulp, little ice cubes, cool splashes and a clear blue sky; the mood shifts from "survival" to "vacation", and finally it leans back contentedly on the grapefruit as the camera pulls out and freezes on a refreshing, bright, playful summer frame.
+3DアニメーションのCMスタイル、明るく透き通った色彩。果肉と果汁は強烈に爽やかでインパクトのある感触でなければならない。全体の雰囲気は、少し誇張したユーモアを添えた高品質なCMアニメーションの短編のよう。砂漠のツノトカゲのキャラクターはかわいらしく、生き生きとして表情豊か、リファレンスは @image1。画像の質感は、参考画像にある柔らかな自然光、繊細な産毛／肌の質感、夢のようなマクロの被写界深度、そしてリアルでありながらどこか幼さの残る感触を参照する。0-3s：灼熱の太陽に焼かれた砂漠、陽炎に空気が揺らめき砂は焼けつくように熱い。砂漠のツノトカゲが焼けた砂の上に伏せ、舌をわずかに出し、目はうつろで、ほとんど干からび、数歩ごとにふらつき、今にも「蒸発」してしまいそう。3-6s：突然立ち止まり、鼻をひくつかせ、見下ろすと、ひんやりとみずみずしく露をまとったグレープフルーツが砂に半分埋もれ、砂漠の奇跡のようにきらめいているのを見つける。トカゲの目が一瞬でまん丸に見開かれる。6-8s：飛びかかり、両手でグレープフルーツをぎゅっと抱きしめ、顔全体を果皮に押しつけ、「やっと生き返った」という至福の表情。フレームは1秒間ホールドされ、誇張したおかしな印象的な見せ場をつくる。8-11s：顔を上げ、口を開けて大きくかぶりつく。グレープフルーツの果皮が裂け、みずみずしい果肉が透き通った光沢を放ち、次の瞬間、果汁が津波のように噴き出す。11-16s：オレンジピンクの、透き通ってきらめくグレープフルーツの果汁が激しく噴き出し、砂丘を流れ落ちて砂漠全体を一気に飲み込む。乾いた黄色い砂は瞬く間にひんやりときらめく果実の香りの夏の海へと変わり、サボテンや岩、小さな砂丘が果汁の波にのまれ、トカゲの表情は歓喜から恐怖へと変わる。16-20s：「グレープフルーツの海」にほとんど溺れそうになりながら、半分のグレープフルーツを浮き輪のように必死に抱えて浮かび、ずぶ濡れの頭を突き出して呆然とする。20-24s：白い画面にカット。ブランド名とスローガンがど真ん中に現れる。「Seedance グレープフルーツ——かじれば果肉、あふれ出すのは夏。」ナレーションが一文まるごと読み上げる。24-30s：白からカットバック。砂漠のツノトカゲは今や浮かぶグレープフルーツの上でくつろぎ、小さなサングラスをかけ、ストロー付きのカップを手に、「果汁の海」の上をのんびりとバカンス気分で漂い、周りにはオレンジ色の果肉、小さな氷、爽やかな水しぶき、澄んだ青空が浮かぶ。ムードは「サバイバル」から「バカンス」へ移り、最後にトカゲは満足げにグレープフルーツにもたれかかり、カメラが引いて、爽やかで明るく茶目っ気のある夏のフレームでフリーズする。
 ```
 
 <a id="category-8"></a>
 
-### Image Reference (Cinematic) (1)
+### 画像リファレンス（シネマティック） (1)
 
-### No. 1: Drunk Man's Rooftop Fall (black-comedy short)
+### No. 1: 酔っ払いの屋上落下（ブラックコメディ短編）
 
-- **Category:** `Image Reference (Cinematic)`
+- **Category:** `画像リファレンス（シネマティック）`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ja`
@@ -626,2022 +615,12 @@ A 3D animated commercial style, bright and translucent colors; the pulp and juic
 
 #### Description
 
-A ~30s black-comedy cinematic short: a chubby, tipsy man topples off a rooftop, grabs a lifeline, crashes through a window, and simply falls asleep. Character from one reference image; built on hard cuts between roar and total silence.
+約30秒のブラックコメディ・シネマティック短編。ぽっちゃりしたほろ酔いの男が屋上から転落し、命綱をつかみ、窓を突き破って、そのまま眠りにつく。キャラクターは1枚の参考画像から。轟音と完全な静寂のハードカットで構築。
 
 #### Prompt
 
 ```text
-[Drunk Man's Rooftop Fright — falls off the edge — grabs a rope through the window — passes out on the spot | black-comedy short | about 30 seconds] One-line premise: a chubby, cute, drunk middle-aged man is eating a burger and drinking beer on the rooftop of a building; as he stands up and stretches he accidentally loses his footing and falls, in his panic grabs a lifesaving rope and immediately crashes through a window into an interior, is dazed and stunned for one second, then just lies down where he is and falls fast asleep. Reference image @image1 — a chubby, cute, drunk middle-aged man: round and stocky build with a big round beer belly, short in stature, movements loose, slow and wobbly from drinking; round face, double chin, drink-flushed cheeks and nose, eyes narrowed to slits with a bleary gaze, an untrimmed ring of short stubble, messy hair, a silly, cute, carefree expression; wearing a white tank-top undershirt stained with burger sauce hanging loosely over his round belly, old jeans, shuffling along in loose slippers, always clutching a half-eaten burger in his hand. There is only this one character in the whole film, a 100% match to the reference image. Overall look: a nighttime cyberpunk mega-city, a dense forest of glass-and-steel skyscrapers, neon signs (cyan / magenta / electric blue), holographic billboards, wet reflective ground, volumetric fog, distant flying-car light trails and drones. Real live-action texture, physical cinema lenses, no 3D rendering / game engine / anime feel. The camera mixes handheld with jib / drone; after the fall the camera plunges down with him as the building's exterior wall and the neon streak upward to convey speed, 24-35mm widescreen cinematic lens texture, 180-degree shutter motion blur. Sound design is the key to the black comedy: hard-cutting repeatedly between "a huge roar" and "total silence". Real gravity throughout. Storyboard (about 30 seconds): S1 (0-4s) opening chewing big close-up (with sound) the man's face fills the screen, chewing the burger in big bites, a satisfied drunken state; S2 (4-9s) pull to a wide shot, stretching -> losing footing and falling (with sound) he wobbles to his feet and stretches big, leans back, can't keep his balance, his foot slips and he tumbles backward over the edge of the rooftop, never letting go of the burger, with a panicked "Eh——!"; S3 (9-12s) cut to a startled facial close-up (a loud scream, huge roar) drunken eyes bulging round, double chin bunched up, mouth wide in a screaming "Ahh——!!", wind howling; S4 (12-16s) cut to a long shot at eye level (total silence) seen from the building across the way, a tiny white figure plummeting straight down from the high-rise, the neon city vast and indifferent, the total silence forming a black-comedy contrast with the huge roar a second earlier; S5 (16-21s) cut to a facial close-up (screaming) -> grabbing the rope, still screaming, hands flailing in the air, he suddenly grabs a lifesaving cable, the cable snapping taut and bending under his weight with a twang, the scream cutting off abruptly as he is jerked and swings out (a brief slow motion at the moment he grabs the rope); S6 (21-26s) cut to an interior angle (quiet) -> the glass shatters -> he crashes in, the interior first quiet with only the hum of the air conditioner, the next second the glass explosively bursts inward (a brief bullet time) as the drunk man, burger and all, smashes through the window, shards flying out radially, neon light streaming in, and he crashes heavily into the room onto the floor / sofa, broken glass clinking; S7 (26-30s) ending, a startled second -> falls asleep, the man sprawled spread-eagle on the floor, covered in broken glass, still clutching the burger, slowly opens his eyes, dazed, blank and startled for a full second, looking around as if thinking "where am I?", then the drunkenness takes over and, not caring at all, he smacks his lips, tucks the burger into his arms, rolls over, lies down right there and falls fast asleep, even snoring lightly, the camera pulls out and freezes, hard cut to black. Only on-set live sound, no music, no subtitles; the core is hard cuts repeatedly between "huge roar" and "silence".
-```
-
-<a id="category-9"></a>
-
-### Twitter Community (24)
-
-### No. 1: Veloce-Xニューロハイドレーションストリップス コマーシャル
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Gilbert Odera | Your AI Plug🇰🇪
-- **Language:** `ja`
-- **Source Link:** [View](https://x.com/yourPlugAI/status/2064591659115905203)
-
-#### Description
-
-ニューロハイドレーション製品の15秒間の超リアルで高速なシネマティックコマーシャル制作のためのプロンプト
-
-#### Prompt
-
-```text
-Create a 15-second ultra-realistic, high-speed cinematic image-to-video commercial for Veloce-X Neuro-Hydration Strips, utilizing the provided reference images as the absolute anchor for character, product design, color palette, and
-```
-
-### No. 2: 雨の中のマスクの男
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Xfeed24
-- **Language:** `ja`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064605968420261888/vid/avc1/1280x716/DknXfm6NuCMCohq9.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064605968420261888/vid/avc1/1280x716/DknXfm6NuCMCohq9.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/XfeedZ24/status/2064606040797171839)
-
-#### Description
-
-近未来的なマスクを着けた男性が雨の中に立ち、陰鬱な表情を浮かべているクローズアップショットです。
-
-#### Prompt
-
-```text
-close-up of a man in a futuristic mask, wet hair, rain falling, dark and moody lighting, cinematic shot
-```
-
-### No. 3: コーヒーの力
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** minchinEdits
-- **Language:** `ja`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064606538237710336/vid/avc1/720x1280/qcEBjR0LJuF4rgce.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064606538237710336/vid/avc1/720x1280/qcEBjR0LJuF4rgce.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/minchinEdits/status/2064606613865103832)
-
-#### Description
-
-女性がコーヒーからエネルギーを放ち、活気に満ちたオフィスの情景に囲まれています。
-
-#### Prompt
-
-```text
-a vibrant animated scene of a woman surrounded by glowing golden energy, holding a coffee cup, with multiple versions of her and coworkers in an office environment, all expressing excitement and productivity, cinematic lighting, dynamic composition, 3D animation style
-```
-
-### No. 4: 実写効果を用いたダークファンタジーバトル
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Build Fast with AI
-- **Language:** `ja`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064395868787347456/vid/avc1/854x480/Nmuqe4FnZH5lRPZd.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064395868787347456/vid/avc1/854x480/Nmuqe4FnZH5lRPZd.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/BuildFastWithAI/status/2064595921443139684)
-
-#### Description
-
-低シャープネス、実写効果の美学を持つSeedance 2.0を使用して、15秒間のダークファンタジーバトルシーンを生成するためのプロンプトです。
-
-#### Prompt
-
-```text
-15-second dark fantasy battle. Seedance 2.0. Zero post. Zero upscaling. Low sharpness + practical effect aesthetic.
-```
-
-### No. 5: 子猫のキャラクターデザイン
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** GPTProto Official
-- **Language:** `ja`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064599776021426176/vid/avc1/1080x1920/b4Mr5JDKiFBYrzOo.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064599776021426176/vid/avc1/1080x1920/b4Mr5JDKiFBYrzOo.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/gptproto/status/2064601178902814752)
-
-#### Description
-
-愛らしいオレンジ色の子猫が日差しの差し込むリビングの木製テーブルの上に座り、その下には3Dモデル、表情、カラーパレットを示した詳細なキャラクター設定シートが並んでいます。
-
-#### Prompt
-
-```text
-a cute orange tabby kitten with big eyes sitting on a wooden table in a cozy living room, surrounded by a tissue box, a glass of water, and a toy mouse, with detailed character design sheets below showing 3D model views, expressions, poses, and color references, soft natural lighting, warm atmosphere, cinematic depth of field
-```
-
-### No. 6: AIカンファレンスに参加する女性
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** CloudwiseAI
-- **Language:** `ja`
-- **Source Link:** [View](https://x.com/cloudwiseAI2026/status/2064591595991969879)
-
-#### Description
-
-サッカーをテーマにしたGenAIカンファレンスのウェブサイトが表示されたスクリーンの前で、マイクに向かって話す女性
-
-#### Prompt
-
-```text
-a woman speaking into a microphone in front of a large screen displaying a GenAI conference website with a soccer stadium background, natural lighting from windows, realistic details, medium shot
-```
-
-### No. 7: 都市上空の渦
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Pixmax
-- **Language:** `ja`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064593085431185408/vid/avc1/1080x720/dawSBFfVAweSgYmE.mp4?tag=14)
-
-<video src="https://video.twimg.com/amplify_video/2064593085431185408/vid/avc1/1080x720/dawSBFfVAweSgYmE.mp4?tag=14" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/Pixmax_ai/status/2064593399882432615)
-
-#### Description
-
-男性が夜の近未来的な大都市の上空に浮かぶ青白く光る渦を見上げています。
-
-#### Prompt
-
-```text
-a man in a black jacket stands in a futuristic city at night, looking up at a massive glowing blue vortex in the sky, surrounded by towering skyscrapers with neon lights, cinematic lighting, wide-angle shot, dramatic perspective
-```
-
-### No. 8: NARUTO -ナルト- ライブ・スペクタクル
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** AIAI.COM
-- **Language:** `ja`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064592744111325184/vid/avc1/1920x1080/QMHtQZk7WlNnDcml.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064592744111325184/vid/avc1/1920x1080/QMHtQZk7WlNnDcml.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/Aiaicom09/status/2064592826290336125)
-
-#### Description
-
-ナルトとサスケが彼らの象徴的な衣装で登場するライブステージパフォーマンスで、観客がスマートフォンでその瞬間を撮影している様子です。
-
-#### Prompt
-
-```text
-live stage performance of Naruto characters, Naruto Uzumaki and Sasuke Uchiha in full costume, standing on a stage with a crowd watching, bright daylight, realistic lighting, detailed costumes, dynamic pose, audience holding phones to record, Japanese text banner above stage reading 'LIVE SPECTACULAR NARUTO', wide shot, static camera
-```
-
-### No. 9: GlobalGPT AIプラットフォームの探索
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Choya
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/prompt/seedance-2/x_2064988432590356506.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2064988432590356506.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/choyamymuna/status/2064988432590356506)
-
-#### Description
-
-画像、動画、音声生成のための多様なAIモデルとツールを紹介するGlobalGPTプラットフォームの詳細な画面録画を捉えた動画
-
-#### Prompt
-
-```text
-A static screen recording of a desktop computer displaying the GlobalGPT website in a web browser. The cursor moves across the screen, clicking on navigation links and scrolling through lists of AI video, image, and audio generation models and tools. The background behind the browser window features an abstract, vibrant gradient of blue, purple, pink, and orange waves. The focus is entirely on the browser's UI and its interactive elements.
-```
-
-### No. 10: 超リアルな選手たちによるシネマティックなフットボール動画
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** auqib
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/prompt/seedance-2/x_2064989700738412551.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2064989700738412551.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/auqibhabib/status/2064989700738412551)
-
-#### Description
-
-リアルなスタジアム環境に統合された超リアルな人間のフットボール選手をフィーチャーした、ミックスメディアのシネマティック動画
-
-#### Prompt
-
-```text
-Mixed-media cinematic football video featuring ultra-realistic human football players inspired by Image1 and Image2, seamlessly integrated into the ultra-realistic football stadium environment from Image3. Same team, same
-```
-
-### No. 11: ゴールデンアワーの映画的闘牛
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** WasifAI
-- **Language:** `ja`
-- **Video:** [View](https://video.twimg.com/ext_tw_video/2064595743864737792/pu/vid/avc1/1920x1080/_o4DsXvAFcjPpDIc.mp4)
-
-<video src="https://video.twimg.com/ext_tw_video/2064595743864737792/pu/vid/avc1/1920x1080/_o4DsXvAFcjPpDIc.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/doctorwasif/status/2064595805906817115)
-
-#### Description
-
-ゴールデンアワーの闘牛場を舞台にした、15秒間の連続した映画的シーンのフォトリアリスティックな映像プロンプトです。
-
-#### Prompt
-
-```text
-15s continuous cinematic Hollywood 60fps, photoreal Plaza de Toros at golden hour, packed crowd, dust in warm amber light. Consistent matador (@ Image1) in emerald-gold
-```
-
-### No. 12: 魅惑的な童話風水彩アニメーション
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** OscarAI
-- **Language:** `ja`
-- **Source Link:** [View](https://x.com/Artedeingenio/status/2064985164116119665)
-
-#### Description
-
-カットやトランジションのない15秒間の連続シングルショット動画で、幻想的な手描き水彩画とインクの童話アニメーションスタイル
-
-#### Prompt
-
-```text
-15-second continuous single-shot. No cuts. No scene transitions. Style: enchanting fairy tale animation, hand-painted watercolor and ink illustration brought to life, whimsical
-```
-
-### No. 13: 走行路上のSFロボットクモ
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Avelyrah
-- **Language:** `ja`
-- **Video:** [View](https://video.twimg.com/ext_tw_video/2064608014934695936/pu/vid/avc1/1280x720/2Cwwi5g_SYa4kIy8.mp4)
-
-<video src="https://video.twimg.com/ext_tw_video/2064608014934695936/pu/vid/avc1/1280x720/2Cwwi5g_SYa4kIy8.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/AvelyrahnAI/status/2064608055908868501)
-
-#### Description
-
-高速なSF映像シーケンスで、トラックスーツ姿のブロンド女性の手首からロボットクモが展開し、学生たちが逃げ惑う様子を描いています。
-
-#### Prompt
-
-```text
-A fast-paced sci-fi video sequence on a high school running track under a dark, overcast sky. A blonde woman in a navy and white tracksuit walks confidently forward as students flee. A robotic spider on her wrist rapidly expands
-```
-
-### No. 14: 艦隊を見下ろす兵士
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Global Frontline News
-- **Language:** `ja`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064598715831398400/vid/avc1/1280x720/8wGHKWvZrRIK6fxS.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064598715831398400/vid/avc1/1280x720/8wGHKWvZrRIK6fxS.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/OmeyLad23/status/2064611393580757271)
-
-#### Description
-
-兵士が軍用機の後部に立ち、眼下の海に広がる大艦隊を見つめています。
-
-#### Prompt
-
-```text
-a soldier in tactical gear stands at the open rear of a military transport aircraft, looking out over a fleet of naval ships on the ocean, cinematic lighting, wide shot from behind, high detail, realistic
-```
-
-### No. 15: ホグワーツのクィディッチ飛行
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Cyber AI Creator 🎨
-- **Language:** `ja`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064598185205731328/vid/avc1/720x806/RJuHUIc2jLdBY5Wy.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064598185205731328/vid/avc1/720x806/RJuHUIc2jLdBY5Wy.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/noman23761/status/2064598264528470051)
-
-#### Description
-
-ホグワーツのクィディッチ競技場上空を箒に乗って飛ぶ一人称視点から、夕焼けの中の城を一望する航空ショットへと移り変わる様子です。
-
-#### Prompt
-
-```text
-first-person view of flying on a broomstick over the Quidditch field at Hogwarts, with golden hoops and castle in background, transitioning to an aerial wide shot of Hogwarts Castle at sunset with red trail showing flight path
-```
-
-### No. 16: 凍てつく戦士のコンセプトアート
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Cyber AI Creator 🎨
-- **Language:** `ja`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064597000713281536/vid/avc1/1140x1080/2ItRonsYxDE0Pyne.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064597000713281536/vid/avc1/1140x1080/2ItRonsYxDE0Pyne.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/noman23761/status/2064597123795173495)
-
-#### Description
-
-雪の環境に立つ女性戦士と氷のゴーレムを描いた、詳細なキャラクターデザインが施されたコンセプトアートイラストです。
-
-#### Prompt
-
-```text
-concept art of a female warrior and an ice golem in a snowy landscape, detailed character designs with armor and weapons, anime style, wide shot, static camera
-```
-
-### No. 17: ヴィンテージな街歩き
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** EdenWood
-- **Language:** `ja`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064592895923965952/vid/avc1/1280x720/8JlrIYiYHhKJtJ-_.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064592895923965952/vid/avc1/1280x720/8JlrIYiYHhKJtJ-_.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/EdenWood62747/status/2064592964366585994)
-
-#### Description
-
-男性が路面電車を背景に活気あるヴィンテージな通りを歩く様子を、映画的ディテールで捉えた白黒映像です。
-
-#### Prompt
-
-```text
-black and white vintage street scene, a man in a white shirt walking toward the camera, old tram in the background, people walking on the street, colonial architecture, sepia tone, cinematic lighting, slow motion
-```
-
-### No. 18: 3Dレンダリングに関するプレゼンテーション
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** CloudwiseAI
-- **Language:** `ja`
-- **Source Link:** [View](https://x.com/cloudwiseAI2026/status/2064591627214356928)
-
-#### Description
-
-ワークショップ中に、3Dレンダリングされた球体を表示するスクリーンを指し示すプレゼンター
-
-#### Prompt
-
-```text
-a man giving a presentation in front of an audience, pointing at a large screen displaying a 3D rendering of two reflective spheres on a wooden table, with natural light coming through windows in the background
-```
-
-### No. 19: GlobalGPTウェブサイト概要
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Rasel Hosen
-- **Language:** `ja`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064592725241184256/vid/avc1/1280x720/NI71SYLYLAoa66wB.mp4?tag=14)
-
-<video src="https://video.twimg.com/amplify_video/2064592725241184256/vid/avc1/1280x720/NI71SYLYLAoa66wB.mp4?tag=14" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/details_with_ai/status/2064592792354275730)
-
-#### Description
-
-鮮やかな背景色とAIツールのオプションが表示されたGlobalGPTウェブサイトのホームページのスクリーンショット
-
-#### Prompt
-
-```text
-a screen recording of the GlobalGPT website homepage with a colorful abstract background, showing the navigation menu, AI model selection interface, and promotional banners, with a subtle zoom-in effect on the central content area
-```
-
-### No. 20: 陽光に照らされた小道の冒険
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** 💫Wigglenator💫
-- **Language:** `ja`
-- **Source Link:** [View](https://x.com/Wigglenatorr/status/2064608020701532188)
-
-#### Description
-
-角を生やした若いアニメ風の少女が、金色の陽光に包まれた石畳の小道に立っています。
-
-#### Prompt
-
-```text
-anime girl with white hair and horns, wearing a red cloak, standing on a stone path in a sunlit garden, golden hour lighting, soft focus background, detailed character design, warm tones
-```
-
-### No. 21: 艦隊を見下ろす兵士
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Global Frontline News
-- **Language:** `ja`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064598715831398400/vid/avc1/1280x720/8wGHKWvZrRIK6fxS.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064598715831398400/vid/avc1/1280x720/8wGHKWvZrRIK6fxS.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/OmeyLad23/status/2064606091951190378)
-
-#### Description
-
-兵士が軍用機の後部に立ち、広大な外洋に展開する大規模な艦隊を見つめています。
-
-#### Prompt
-
-```text
-a soldier in tactical gear stands at the open rear ramp of a military transport aircraft, looking out over a vast fleet of warships on the ocean, cinematic lighting, high detail, wide shot
-```
-
-### No. 22: パンクロックなリビングルーム
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Cyber AI Creator 🎨
-- **Language:** `ja`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064595369720442880/vid/avc1/1080x1216/n-dxp79lHtiON4Wj.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064595369720442880/vid/avc1/1080x1216/n-dxp79lHtiON4Wj.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/noman23761/status/2064595569763639713)
-
-#### Description
-
-オルタナティブなファッションスタイルの5人の女性がボヘミアンなアパートメントで寛ぎ、白猫が彼女たちの方へ歩いてくる様子を捉えた自然なショットです。
-
-#### Prompt
-
-```text
-a group of five young women with punk rock style sitting on a couch in a cozy, cluttered living room filled with plants and music posters, a white cat walking away from the camera towards the group, warm ambient lighting, realistic photo style
-```
-
-### No. 23: 海上でのダイバーのハイタッチ
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Ranveer Singh Sisodia
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/prompt/seedance-2/x_2064988239623225619.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2064988239623225619.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/sphereofai/status/2064988239623225619)
-
-#### Description
-
-明るい空の下、外洋でボート上のダイバーが別のダイバーとハイタッチをする様子
-
-#### Prompt
-
-```text
-first person view of a diver on a boat, high five with another diver, clear blue ocean, sunny day, wide angle lens
-```
-
-### No. 24: AIプレゼンテーションデモ
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** CloudwiseAI
-- **Language:** `ja`
-- **Source Link:** [View](https://x.com/cloudwiseAI2026/status/2064591614627189158)
-
-#### Description
-
-反射する球体のデジタルアニメーションをスクリーンに表示しながら、聴衆に向けて話すプレゼンター
-
-#### Prompt
-
-```text
-a man giving a presentation in front of an audience, holding a microphone, with a large screen displaying two reflective spheres on a dark surface, natural light from windows, indoor setting with plants and audio equipment
-```
-
-<a id="category-10"></a>
-
-### 音声＆ボイス合成 (10)
-
-### No. 1: 猫と犬のツッコミバトル
-
-- **Category:** `音声＆ボイス合成`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/1793c9e5-608e-435e-a72b-0e657bbb2d5c.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/1793c9e5-608e-435e-a72b-0e657bbb2d5c.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/35)
-
-#### Description
-
-猫と犬の間のユーモラスなツッコミ対話、コメディに満ちている。
-
-#### Prompt
-
-```text
-「猫犬ツッコミ部屋」で感情豊かなトークショー風掛け合いを作る。
-猫司会：毛づくろいしながら皮肉を言う。
-犬司会：首をかしげて反論する。
-テンポ良くユーモラスに展開。
-```
-
-### No. 2: オフィスビルドキュメンタリー
-
-- **Category:** `音声＆ボイス合成`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/843a60ae-3df3-4c37-9fd4-2437f3ac2253.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/843a60ae-3df3-4c37-9fd4-2437f3ac2253.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/34)
-
-#### Description
-
-ドキュメンタリースタイルでオフィスビルを紹介、プロフェッショナルなナレーション付き。
-
-#### Prompt
-
-```text
-提供されたオフィスビル写真から15秒の映画級リアル不動産ドキュメンタリーを生成。2.35:1、24fps、繊細な質感。ナレーション音色は@video1を参照し、「オフィスビルの生態」を描く。
-```
-
-### No. 3: 魚眼レンズおもしろ馬
-
-- **Category:** `音声＆ボイス合成`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/26d450cd-23c4-499e-9fd6-1752dabbc8bd.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/26d450cd-23c4-499e-9fd6-1752dabbc8bd.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/33)
-
-#### Description
-
-魚眼レンズで撮影したユーモラスな馬のシーン、誇張された効果音付き。
-
-#### Prompt
-
-```text
-固定カメラ。中央の魚眼で円形の穴越しに下を見る。video1の魚眼表現を参照し、@video2の馬に魚眼を見させる。@video1の口の動きを参照し、BGMは@video3の音響を参照。
-```
-
-### No. 4: 多文化家族のお祝い
-
-- **Category:** `音声＆ボイス合成`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/ac11aa46-e846-4167-af87-53f0be98df9e.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/ac11aa46-e846-4167-af87-53f0be98df9e.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/38)
-
-#### Description
-
-多文化家族のホリデーセレブレーションシーンを展示。
-
-#### Prompt
-
-```text
-画面中央の帽子の少女が「I'm so proud of you」を優しく歌う。柔らかな表情と照明、親密な雰囲気を作り、ギター伴奏を合わせる。
-```
-
-### No. 5: 朝の目覚め対話
-
-- **Category:** `音声＆ボイス合成`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/7744c998-76b7-436f-9066-6d4ef5f0ce7f.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/7744c998-76b7-436f-9066-6d4ef5f0ce7f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/40)
-
-#### Description
-
-温かい朝の目覚め対話シーン、自然な音声インタラクションを展示。
-
-#### Prompt
-
-```text
-0-3秒：目覚ましが鳴り、ぼんやりした導入。3-6秒：人物が起床して伸びをする。6-10秒：洗面・着替え。10-15秒：外出し、軽快なBGMで一日の始まりを描く。
-```
-
-### No. 6: 戦術部隊スペイン語ブリーフィング
-
-- **Category:** `音声＆ボイス合成`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/cda3c348-80c8-445b-8d85-d1eefe36e0b2.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/cda3c348-80c8-445b-8d85-d1eefe36e0b2.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/39)
-
-#### Description
-
-戦術部隊がスペイン語でミッションブリーフィングを行うシーン。
-
-#### Prompt
-
-```text
-固定ショット。立つ屈強な男（隊長）が拳を握り、厳しい表情でカメラに向かって「行動開始だ！」と言う。軍事テーマで緊張感を強調。
-```
-
-### No. 7: 中国伝統劇パフォーマンス
-
-- **Category:** `音声＆ボイス合成`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/6f6ea681-2e7b-4e35-9126-a72d2046bc1f.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/6f6ea681-2e7b-4e35-9126-a72d2046bc1f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/36)
-
-#### Description
-
-中国伝統劇のパフォーマンスを展示、古典的な唱法付き。
-
-#### Prompt
-
-```text
-豫劇の名作伴奏が流れ、@image1の役者が登場。節回しは艶やかで所作は優美。伝統戯曲の演技に舞台照明効果を組み合わせる。
-```
-
-### No. 8: 四川方言タピオカ対話
-
-- **Category:** `音声＆ボイス合成`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/4f4d9b27-1962-494e-b1fa-5191ede1b500.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/4f4d9b27-1962-494e-b1fa-5191ede1b500.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/41)
-
-#### Description
-
-四川方言によるユーモラスなタピオカ店での対話。
-
-#### Prompt
-
-```text
-@image1の猿がミルクティー店カウンターへ歩き、方言で「店長、タピオカミルクティー一杯！」と注文。店員の驚いた表情と軽妙な掛け合いでコメディにする。
-```
-
-### No. 9: 西遊記物語
-
-- **Category:** `音声＆ボイス合成`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/14269628-c801-4b26-b400-38b2c7d2d97a.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/14269628-c801-4b26-b400-38b2c7d2d97a.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/42)
-
-#### Description
-
-西遊記をテーマにしたストーリーテリング動画。
-
-#### Prompt
-
-```text
-ドキュメンタリー調のナレーションで@image1-5の内容を提示し、中国古典文学の魅力を語る。古典音楽を合わせ、教育性と芸術性を両立。
-```
-
-### No. 10: シネマティックロードトリップMV
-
-- **Category:** `音声＆ボイス合成`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/f9f34a78-6001-4013-8e9a-a413ca727f00.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/f9f34a78-6001-4013-8e9a-a413ca727f00.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/37)
-
-#### Description
-
-映画品質のロードトリップミュージックビデオ、オリジナル音楽付き。
-
-#### Prompt
-
-```text
-15秒のMVを生成。キーワード：安定構図・映画感・旅行・風景。壮大な自然景観を見せ、抒情的な音楽で自由と探求を伝える。
-```
-
-<a id="category-11"></a>
-
-### 高度なカメラワーク (13)
-
-### No. 1: IMAX風砂漠砂嵐シーン、ドゥニ・ヴィルヌーヴ美学
-
-- **Category:** `高度なカメラワーク`
-- **Source:** `twitter`
-- **Author:** John (@johnAGI168)
-- **Language:** `ja`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/c3e4c06f-da7d-4127-ad68-7ed1656e2472.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/c3e4c06f-da7d-4127-ad68-7ed1656e2472.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/johnAGI168/status/2020989515939148146)
-
-#### Description
-
-IMAX風砂漠砂嵐シーン、ドゥニ・ヴィルヌーヴ美学。タイムスタンプ付きマルチショット構成。
-
-#### Prompt
-
-```text
-スタイル: IMAX 70mm、重厚で冷たいスケール感、低彩度高コントラスト。 超ワイド: 地平線を覆う巨大砂嵐、前景を装甲車列が全速で退避。 車内POV: 激しい振動、砂がフロントガラスを叩き、警告灯が点滅、緊急コール。 クライマックス: 先頭車が砂丘から跳躍しスローモーション、暗い砂壁内に稲妻、破片がレンズ前を横切り、着地でブラックアウト。各ショットの接続は滑らかに、緊張を段階的に上げる。
-```
-
-### No. 2: 単一プロンプトで生成した南インド映画エイリアンシーン
-
-- **Category:** `高度なカメラワーク`
-- **Source:** `twitter`
-- **Author:** rohan anil (@_arohan_)
-- **Language:** `ja`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/068af607-5e54-4331-9c25-3afc190d1a53.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/068af607-5e54-4331-9c25-3afc190d1a53.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/_arohan_/status/2021369768004161783)
-
-#### Description
-
-単一プロンプトで生成した南インド映画エイリアンシーン。異文化映画制作能力を展示。
-
-#### Prompt
-
-```text
-南インド商業映画テイストのエイリアン侵略アクション。高彩度カラー、強い逆光、誇張スローモーション、英雄的ローアングルを採用。宇宙船降下で都市広場の規模を示し、次に主人公登場を風と衣装の動きで印象付ける。以降はワイドで群像規模、中景で連撃、寄りで感情と衝撃を強調。煙、粉塵、火花、レンズフレアを重ね、祝祭的な熱量を保つ。
-```
-
-### No. 3: 燃える軍用車両の都市戦争空撮ショット
-
-- **Category:** `高度なカメラワーク`
-- **Source:** `twitter`
-- **Author:** Carlos Santana (@DotCSV)
-- **Language:** `ja`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/81bd1286-8024-4a62-a77a-0873d8137ae6.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/81bd1286-8024-4a62-a77a-0873d8137ae6.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/DotCSV/status/2020519499082969142)
-
-#### Description
-
-映画級ドローン映像が都市戦闘の余波を捉える。Seedance 2.0のリアルな戦争シーン生成能力を展示。
-
-#### Prompt
-
-```text
-戦闘後の都市交差点をドローンで空撮する映画的シーン。中央には炎上する装甲車、上空へ伸びる黒煙柱。道路には瓦礫、金属片、破損した障害物が散乱し、周囲の建物は焦げ跡と破砕窓が残る。高高度の俯瞰から始め、ゆっくり高度を下げながら破壊規模と空間関係を見せる。彩度は抑え、ドキュメンタリー寄りの写実感を維持。火炎、煙流、熱揺らぎ、浮遊粉塵を物理的に自然に表現する。
-```
-
-### No. 4: エピックファンタジーバトル
-
-- **Category:** `高度なカメラワーク`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/a15ec27b-9b38-407d-aa7a-460c9ed17e7f.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/a15ec27b-9b38-407d-aa7a-460c9ed17e7f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/16)
-
-#### Description
-
-壮大なファンタジーバトルシーン、特殊効果と映画級カメラワークを組み合わせ。
-
-#### Prompt
-
-```text
-video1の動きを参照し、@image1・@image2の環境で幻想バトルを生成。魔法スキルと粒子エフェクトを加え、ダイナミックな追従カメラで撮る。
-```
-
-### No. 5: 自動車広告カメラワーク
-
-- **Category:** `高度なカメラワーク`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d1fe2d82-6f01-4e04-a732-a949028a09d3.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d1fe2d82-6f01-4e04-a732-a949028a09d3.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/17)
-
-#### Description
-
-プロフェッショナルな自動車広告カメラワーク、車両のダイナミクスと環境の融合を展示。
-
-#### Prompt
-
-```text
-@video1の運鏡と場面転換テンポを参照し、@image1を起点に複数シーンを滑らかに接続。都市・山道・海辺を走る車の映像を見せる。
-```
-
-### No. 6: 回転タブレット展示
-
-- **Category:** `高度なカメラワーク`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/2f9e5701-3cbe-4855-84a8-3ba0cd72b329.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/2f9e5701-3cbe-4855-84a8-3ba0cd72b329.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/13)
-
-#### Description
-
-回転カメラワークでタブレット製品を展示、フォーカスと周回撮影技術を組み合わせ。
-
-#### Prompt
-
-```text
-@image1のタブレットを主役に、@video1を参考に俯瞰からゆっくり降下。画面が点灯してUIを表示し、周回ショットで筐体ディテールを見せる。
-```
-
-### No. 7: 複雑な廊下チェイス
-
-- **Category:** `高度なカメラワーク`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c1288035-fc08-4465-bee0-a1857f94c7c1.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/c1288035-fc08-4465-bee0-a1857f94c7c1.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/12)
-
-#### Description
-
-廊下での複雑なチェイスシーン撮影、マルチアングルショット切替とダイナミックトラッキングを展示。
-
-#### Prompt
-
-```text
-@image1の男性を@image2の廊下に配置し、@video1の運鏡を参照。曲がり角を走り抜け、@image3の長廊下で背後追従から低角度で正面へ回り込む。
-```
-
-### No. 8: 武術格闘シーン
-
-- **Category:** `高度なカメラワーク`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/e62ddd7b-da6a-4b26-be8a-aba6e74dd854.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/e62ddd7b-da6a-4b26-be8a-aba6e74dd854.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/15)
-
-#### Description
-
-激しい武術格闘シーンの撮影、モーションキャプチャーとマルチキャラクターインタラクションを展示。
-
-#### Prompt
-
-```text
-@image1・@image2の長槍キャラと@image3・@image4のシーンを参照し、武術アクションを生成。多角度追従で連続した槍術の力強さと美を表現。
-```
-
-### No. 9: エレベーターでのヒッチコックズーム
-
-- **Category:** `高度なカメラワーク`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/4be02035-a101-4c2c-bb20-c2fe59771de9.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/4be02035-a101-4c2c-bb20-c2fe59771de9.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/11)
-
-#### Description
-
-エレベーターシーンで古典的なヒッチコックズーム技法を使い、サスペンスフルな視覚効果を演出。
-
-#### Prompt
-
-```text
-@image1の男性を@image2のエレベーターに配置。@video1の運鏡と表情演技を参照し、恐怖の瞬間にヒッチコックズームを使用。室内の周回ショット後、扉が開いて外へ追従。@image3の外景へ出た後、ロボットアーム風の多角度追従で視線移動を捉える。
-```
-
-### No. 10: リズミカルなプッシュプルダンスカメラ
-
-- **Category:** `高度なカメラワーク`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/33ffc8e5-255c-46b2-8877-ad8a9100f6d4.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/33ffc8e5-255c-46b2-8877-ad8a9100f6d4.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/14)
-
-#### Description
-
-ダンスのリズムに合わせたプッシュプルカメラワーク、ダイナミックな視覚効果を演出。
-
-#### Prompt
-
-```text
-@image1の女性スターを主役に、@video1を参考に遠景からクローズアップへ。優雅なダンスを見せ、回り込みショットで動きの美しさを捉える。
-```
-
-### No. 11: 5分で1分の映画級戦争動画を生成、4ショット構成
-
-- **Category:** `高度なカメラワーク`
-- **Source:** `twitter`
-- **Author:** Min Choi (@minchoi)
-- **Language:** `ja`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/52680ae8-705d-4b26-9d49-1b573ab4f56f.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/52680ae8-705d-4b26-9d49-1b573ab4f56f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/minchoi/status/2020878278475518152)
-
-#### Description
-
-5分で1分の映画級戦争動画を生成、4ショット構成。リアルな中東砂漠の村の歩兵戦闘シーン。
-
-#### Prompt
-
-```text
-全ショット共通スタイル: 現代中東の砂漠村を舞台にした写実的な戦争シネマ。砂色と灰褐色を基調に、強い日差しと硬い影、漂う粉塵と火薬煙、わずかな手持ち揺れを維持する。兵士は現代軽歩兵装備で、識別可能な国章や旗は表示しない。空気感は緊張・抑制・残酷。 ショット1: 狭い路地を分隊が壁沿いに前進。低い土壁と損壊建物の間を、膝下レベルの追従カメラで後方から押し込む。 ショット2: 角で至近距離の交戦が突発。着弾で粉塵と破片が舞い、短い銃口炎が影を照らす。横移動と軽いブレで緊迫感を強調。 ショット3: 半壊建物へ突入。肩越しフォローで暗い内部に入り、破口からの光芒に埃が浮遊。手信号で連携し、遠方銃声が反響。 ショット4: 破損屋上から村全体を俯瞰。逆光シルエットの兵士、ゆっくり引きカメラ、砂塵が渦巻く。勝敗は示さず、未解決の緊張で終える。
-```
-
-### No. 12: 砂漠地形を横断する兵士の地上戦闘ショット
-
-- **Category:** `高度なカメラワーク`
-- **Source:** `twitter`
-- **Author:** Chetaslua (@chetaslua)
-- **Language:** `ja`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/0d332613-93bc-4d5e-b4f8-6cacc05871ef.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/0d332613-93bc-4d5e-b4f8-6cacc05871ef.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/chetaslua)
-
-#### Description
-
-軍事小隊が前進する緊迫した一人称視点。リアルな戦術移動と環境ディテールを展示。
-
-#### Prompt
-
-```text
-地面近接の戦場ドキュメンタリーショット。砂漠地帯を進む分隊を、低い視点で軍靴、装備の揺れ、武器ディテール、隊形変化中心に追う。強い日差し、熱気の揺らぎ、浮遊砂塵、遠方の断続銃声で緊張を構築。手持ちの微ブレは制御し、浅い被写界深度で前景を明瞭化。砂色と灰褐色の低彩度パレットで、実戦的な圧迫感を持続させる。
-```
-
-### No. 13: 参照画像3枚と簡単なプロンプトだけでマルチショット格闘シーンを生成
-
-- **Category:** `高度なカメラワーク`
-- **Source:** `twitter`
-- **Author:** el.cine (@EHuanglu)
-- **Language:** `ja`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e287a176-2ba0-4f64-ad86-ed779cd3d8d3.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e287a176-2ba0-4f64-ad86-ed779cd3d8d3.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/EHuanglu/status/2020828503810445785)
-
-#### Description
-
-現代都市環境での二人の女性による激しい武術格闘シーン。
-
-#### Prompt
-
-```text
-現代都市の夜を舞台にした女性同士の武術対決。ワイドで間合いを見せ、中景で攻防テンポを追い、打撃瞬間はクローズアップで筋肉の収縮・呼吸・重心移動を捉える。低位置の回り込み、越肩、素早い横移動を織り交ぜ、方向性を失わない編集にする。動きは物理的整合性を重視し、浮遊感を排除。街灯とネオン反射、わずかな濡れ床でシネマティックな実在感を出す。
-```
-
-<a id="category-12"></a>
-
-### 映像編集＆リミックス (5)
-
-### No. 1: 真面目なビジネスからスナック取引へ
-
-- **Category:** `映像編集＆リミックス`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/f11c41ac-ee4b-4f37-b569-d6a4725866b3.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/f11c41ac-ee4b-4f37-b569-d6a4725866b3.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/49)
-
-#### Description
-
-真面目なビジネス交渉シーンをユーモラスなスナック取引に反転。
-
-#### Prompt
-
-```text
-@video1全体を反転。
-0-3秒：スーツの男がバーで冷静に座る。
-3-6秒：背後の女性が緊張して「どれくらい大きい？」と尋ねる。
-6-9秒：男が机の下から巨大なスナック詰め合わせを取り出す。
-13-15秒：字幕「忙しくても、ちゃんとおやつを食べよう」。
-```
-
-### No. 2: フライドチキンブランド統合
-
-- **Category:** `映像編集＆リミックス`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/af84d3d1-5659-49bd-a7a8-c2db96918415.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/af84d3d1-5659-49bd-a7a8-c2db96918415.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/52)
-
-#### Description
-
-レストランシーンにフライドチキンブランドのパッケージを統合するクリエイティブ編集。
-
-#### Prompt
-
-```text
-video1でカメラを右へパン。フライドチキン店主が忙しく注文を処理する中、突然@image1のブランドロゴが包装箱に現れる自然なプロダクトプレイスメント。
-```
-
-### No. 3: タイタニックダークツイスト
-
-- **Category:** `映像編集＆リミックス`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/19cb9c31-9a1e-4c2e-ae17-b03f6a88c20b.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/19cb9c31-9a1e-4c2e-ae17-b03f6a88c20b.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/48)
-
-#### Description
-
-タイタニックの古典的なロマンチックシーンをダークスタイルで反転。
-
-#### Prompt
-
-```text
-@video1の物語を反転。男性の目が優しさから冷酷へ変わり、無防備な女性主人公を橋から水中へ突き落とす。ためらいのない決断と不穏な空気で、原作の人物像を覆す。
-```
-
-### No. 4: バンドシンガー性別スワップ
-
-- **Category:** `映像編集＆リミックス`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d3c9e15c-37fa-4603-b5a7-7577a9652d2d.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d3c9e15c-37fa-4603-b5a7-7577a9652d2d.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/50)
-
-#### Description
-
-バンドパフォーマンスのシンガーの性別を入れ替えるクリエイティブ編集。
-
-#### Prompt
-
-```text
-video1の女性ボーカルを@image1の男性ボーカルに置換。既存のステージ演出・照明・音楽リズムは維持し、性別だけ変えて同じスタイルを保つ。
-```
-
-### No. 5: サメ乱入
-
-- **Category:** `映像編集＆リミックス`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/06a8c86e-1b58-4088-8caa-25202eec77aa.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/06a8c86e-1b58-4088-8caa-25202eec77aa.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/51)
-
-#### Description
-
-元のシーンにサメ要素を追加するユーモラスな編集。
-
-#### Prompt
-
-```text
-video1の女性の髪型を赤いロングヘアに変更。クローズアップで新しい髪型を強調し、他要素は維持。
-```
-
-<a id="category-13"></a>
-
-### キャラクター＆シーン一貫性 (6)
-
-### No. 1: オペラステージの変革
-
-- **Category:** `キャラクター＆シーン一貫性`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/fffd7fd2-9752-4226-bd04-84101f206938.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/fffd7fd2-9752-4226-bd04-84101f206938.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/6)
-
-#### Description
-
-参照動画のカメラワークとトランジション効果を維持しながらキャラクターを置き換える。
-
-#### Prompt
-
-```text
-@video1の女性を京劇の花旦に置換。精巧な舞台を舞台に、@video1のカメラワークとトランジションを参照し、動きに合わせた撮影で視覚インパクトを強化。
-```
-
-### No. 2: ホラー一人称探索
-
-- **Category:** `キャラクター＆シーン一貫性`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c4802cca-4ef9-4ba9-b8cc-ed5bdecb88e6.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/c4802cca-4ef9-4ba9-b8cc-ed5bdecb88e6.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/10)
-
-#### Description
-
-複数の環境でシーンの一貫性を維持する一人称視点。
-
-#### Prompt
-
-```text
-@image1を冒頭フレームにし、一人称視点で暗い廊下をゆっくり前進。壁には不気味な影が揺れ、遠くから低い呼吸音が聞こえる。緊張感の高いホラー雰囲気を作る。
-```
-
-### No. 3: ワンテイクシームレス切替
-
-- **Category:** `キャラクター＆シーン一貫性`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/27a03978-e3c0-4750-9b0d-c1a802db8af6.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/27a03978-e3c0-4750-9b0d-c1a802db8af6.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/7)
-
-#### Description
-
-複数のシーン転換を含む複雑な長回し撮影、視覚的連続性を維持。
-
-#### Prompt
-
-```text
-@video1の全トランジションと運鏡を参照したワンカット。碁盤から始まり、黄色い砂、海辺、足跡、白衣の女性、俯瞰の波へと連続移行。波はカーテンへシームレス変化し、最後に女性の顔クローズアップへ引く。
-```
-
-### No. 4: 高級ハンドバッグ広告
-
-- **Category:** `キャラクター＆シーン一貫性`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d62bd403-fcd1-4abd-8f23-c57063660ed0.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d62bd403-fcd1-4abd-8f23-c57063660ed0.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/9)
-
-#### Description
-
-複数の参照画像間でディテールの一貫性を保つ製品展示。
-
-#### Prompt
-
-```text
-@image1のハンドバッグを高級ファッション調で商用映像化。カメラがゆっくり周回し、革の質感・金具・内部構造を見せる。柔らかな照明で高級感とクラフトマンシップを際立たせる。
-```
-
-### No. 5: 仕事帰りの道
-
-- **Category:** `キャラクター＆シーン一貫性`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d66a205c-4470-4d71-9122-2d0bf0694c9c.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d66a205c-4470-4d71-9122-2d0bf0694c9c.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/5)
-
-#### Description
-
-オフィスの廊下から自宅まで、キャラクターの一貫性を保ちながら感情の変化と家族の交流を含む連続的な物語。
-
-#### Prompt
-
-```text
-男性@image1が仕事帰りに廊下を疲れて歩き、足取りが遅くなって玄関前で止まる。顔のクローズアップで深呼吸し感情を整える。鍵を探して解錠し入室すると、娘と犬が駆け寄って抱きつく。温かな室内で自然な会話を続ける。
-```
-
-### No. 6: マグネティックボウ製品紹介
-
-- **Category:** `キャラクター＆シーン一貫性`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/74458d90-1c7a-487c-acc2-454558810520.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/74458d90-1c7a-487c-acc2-454558810520.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/8)
-
-#### Description
-
-ブランドの一貫性とマルチシーン展示を備えた韓国製品広告。
-
-#### Prompt
-
-```text
-0-2秒：4分割の高速フラッシュカット（赤・ピンク・紫・青背景）。@image1の商品を中央で回転表示。2-4秒：商品の360度クローズアップで質感を強調。4-6秒：ロゴをクローズアップしブランド名をフェードイン。全編は強い電子音楽に同期。
-```
-
-<a id="category-14"></a>
-
-### クリエイティブ視覚効果 (11)
-
-### No. 1: 魔法変身シークエンス
-
-- **Category:** `クリエイティブ視覚効果`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/af14ed46-358b-4202-a6d5-07cfcbcdff10.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/af14ed46-358b-4202-a6d5-07cfcbcdff10.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/22)
-
-#### Description
-
-キャラクターの魔法変身プロセス、華麗な特殊効果トランジション付き。
-
-#### Prompt
-
-```text
-@video1の冒頭人物を@image1に置換。体が粒子化して消散し、別シーンで再集合する魔法的テレポート演出を表現。
-```
-
-### No. 2: カワウソが巨大メカに搭乗するアニメシーン
-
-- **Category:** `クリエイティブ視覚効果`
-- **Source:** `twitter`
-- **Author:** Andrey Kurenkov (@andrey_kurenkov)
-- **Language:** `ja`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/8bc7ca8d-7344-4be7-ae6d-cd2701702b77.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/8bc7ca8d-7344-4be7-ae6d-cd2701702b77.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/andrey_kurenkov/status/2021435749401514131)
-
-#### Description
-
-カワウソが巨大メカに搭乗するアニメシーン、詳細な機械ショット付き。創造的なストーリーテリング能力を展示。
-
-#### Prompt
-
-```text
-メカアニメ演出。擬人化カワウソ操縦士が巨大機体へ搭乗する流れを4段で構成。1) 格納庫ワイド: 逆光の機体シルエット、蒸気、警告灯。2) 機械モンタージュ: 歯車、油圧、通電ライン、ハッチ解放。3) 搭乗: 梯子を上る動きと視線・操作手元の特写。4) 起動: ハッチ閉鎖、HUD点灯、バイザー発光、親指を立てる。機械密度と作動ロジックを明確にし、テンポよく繋ぐ。
-```
-
-### No. 3: ダウンジャケットと白鳥のメタファー
-
-- **Category:** `クリエイティブ視覚効果`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d35cad32-b340-4394-b98d-8934aa6a1fc8.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d35cad32-b340-4394-b98d-8934aa6a1fc8.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/20)
-
-#### Description
-
-ダウンジャケットと白鳥を創造的に比喩、製品の軽やかさを表現。
-
-#### Prompt
-
-```text
-動画広告の発想を参照し、提供されたダウンジャケット画像と羽毛・白鳥画像を使う。コピー「これは羽毛、これは暖かい白鳥、着る極地スワンダウン…」を入れ、新しいCM映像を生成。
-```
-
-### No. 4: ウィル・スミスがスパゲッティを食べる
-
-- **Category:** `クリエイティブ視覚効果`
-- **Source:** `twitter`
-- **Author:** levelsio (@levelsio)
-- **Language:** `ja`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/eee95836-ac7d-4510-97f5-f6b1f2743aae.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/eee95836-ac7d-4510-97f5-f6b1f2743aae.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/levelsio/status/2021403820702552331)
-
-#### Description
-
-ウィル・スミスが現代的な家庭キッチンでスパゲッティを食べる。
-
-#### Prompt
-
-```text
-フォトリアルな中寄りショット。ウィル・スミスが現代的な家庭キッチンの白いアイランドカウンターでスパゲッティを食べる。背景には中央のステンレス冷蔵庫、白いキャビネット、カウンター家電、側窓からの自然光。黒いTシャツで正面を向き、自然に麺を巻いて食べる。カメラは基本固定で、わずかなプッシュインのみ。手の動き、表情、料理の質感をリアルに保ち、24fpsの映画的写実で誇張変形は避ける。
-```
-
-### No. 5: オリジナルを超えるワンパンマンアニメーション
-
-- **Category:** `クリエイティブ視覚効果`
-- **Source:** `twitter`
-- **Author:** Chetaslua (@chetaslua)
-- **Language:** `ja`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/fada7cb9-0f74-43fc-ba6a-b98be8be7c16.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/fada7cb9-0f74-43fc-ba6a-b98be8be7c16.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/chetaslua)
-
-#### Description
-
-オリジナルのアニメ品質を超えるワンパンマンアニメーション。Seedance 2.0のアニメ制作能力を展示。
-
-#### Prompt
-
-```text
-ハイエンドな熱血アニメ戦闘を生成。高フレームで滑らかな動き、速度線、衝撃コマ、レンズ引き、エフェクト爆発を明確に入れる。構成は「遠景の戦場提示 -> 中景の連続攻防 -> 近景の必殺命中 -> 瓦礫と粉塵の収束」。背景破壊は壁面亀裂、飛散片、煙層、衝撃波歪みまで描く。キャラ輪郭は高速動作中も崩さず、光と影の分離を強くする。
-```
-
-### No. 6: VRゴーグル宇宙横断
-
-- **Category:** `クリエイティブ視覚効果`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/dddb1fb2-d73a-4b6a-a2bf-bf416be652c6.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/dddb1fb2-d73a-4b6a-a2bf-bf416be652c6.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/18)
-
-#### Description
-
-VRゴーグルを通じて異なるデジタル世界に入り、幻想的な宇宙横断エフェクトを展示。
-
-#### Prompt
-
-```text
-@video1の人物を@image1に置換し、@image1を冒頭フレームにする。近接周回ショットと三人称→主観視点の切替で、AIゴーグル空間を移動して@image2の深い青の宇宙へ。複数の宇宙船が遠方へ飛ぶ。
-```
-
-### No. 7: 抽象インスタントラーメンクリエイティブ
-
-- **Category:** `クリエイティブ視覚効果`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/2665a1ba-4ae8-474e-ba72-a2bf94326054.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/2665a1ba-4ae8-474e-ba72-a2bf94326054.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/25)
-
-#### Description
-
-抽象アートスタイルでインスタントラーメンの調理過程を表現するクリエイティブ動画。
-
-#### Prompt
-
-```text
-@image1のキャラクターが@video1の動きと表情を参照し、@image2のシーンで誇張されたコメディ演技を行う。コミカルな効果音を合わせる。
-```
-
-### No. 8: ファッション早着替え広告
-
-- **Category:** `クリエイティブ視覚効果`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/781e9493-6578-4aba-9d21-44aff3a7d555.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/781e9493-6578-4aba-9d21-44aff3a7d555.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/19)
-
-#### Description
-
-モデルの早着替えファッション広告、スムーズなトランジションエフェクトを展示。
-
-#### Prompt
-
-```text
-1枚目画像の顔立ちを基準に、2〜6枚目の衣装でモデルが次々に接近。可愛い・クール・驚きなどのポーズを切替え、魚眼や残像グリッチ風エフェクトを加える。
-```
-
-### No. 9: パズルピーストランジションロゴ
-
-- **Category:** `クリエイティブ視覚効果`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d8aab6d9-e006-4012-aa41-55ad02a41572.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d8aab6d9-e006-4012-aa41-55ad02a41572.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/23)
-
-#### Description
-
-パズルピースによる創造的なトランジション、最終的にブランドロゴを表示。
-
-#### Prompt
-
-```text
-@image1の天井から開始。パズル風の表現でカメラを下げ、複数ピースが徐々に組み上がって室内全景になる創造的トランジションを作る。
-```
-
-### No. 10: ゴールデンパーティクルタイトル
-
-- **Category:** `クリエイティブ視覚効果`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/3854856c-478d-40f1-8534-cb240e6a1706.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/3854856c-478d-40f1-8534-cb240e6a1706.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/24)
-
-#### Description
-
-金色のパーティクルが集まりタイトル文字を形成するリビールエフェクト。
-
-#### Prompt
-
-```text
-黒画面から開始し、@video1の粒子エフェクトと運鏡を参照。中心から粒子が爆発し、徐々にブランドロゴを形成。迫力ある効果音で高級オープニングにする。
-```
-
-### No. 11: 水墨画風太極拳
-
-- **Category:** `クリエイティブ視覚効果`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/210c571d-e67f-4bbc-819b-f91bd8925c7b.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/210c571d-e67f-4bbc-819b-f91bd8925c7b.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/21)
-
-#### Description
-
-太極拳の動きと水墨画スタイルを融合、東洋美学の視覚効果を演出。
-
-#### Prompt
-
-```text
-白黒の水墨画スタイル。@image1のキャラクターが@video1の動きを参照し、水墨山水の背景で武術を披露。飛び散る墨表現で伝統と現代を融合。
-```
-
-<a id="category-15"></a>
-
-### 超リアル映像生成 (5)
-
-### No. 1: 障害物付きチェイスシーン
-
-- **Category:** `超リアル映像生成`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/97438ef1-9ee8-4b6f-b064-05e1a0216c33.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/97438ef1-9ee8-4b6f-b064-05e1a0216c33.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/4)
-
-#### Description
-
-リアルな衝突物理とパニックする群衆を伴う激しい追跡シーン。
-
-#### Prompt
-
-```text
-黒服の男の逃走を追う。背後から群衆が追跡し、カメラはサイドトラッキングへ切り替え。男は果物屋台にぶつかって倒し、立ち上がって再び走る。周囲の混乱した群衆音を入れる。
-```
-
-### No. 2: ヴィクトリア朝の街並み
-
-- **Category:** `超リアル映像生成`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/b0409f93-9857-4465-9a2d-50a30937a9db.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/b0409f93-9857-4465-9a2d-50a30937a9db.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/3)
-
-#### Description
-
-19世紀ロンドンを舞台にした時代劇シーン、リアルな環境ディテールとキャラクターの反応を含む。
-
-#### Prompt
-
-```text
-カメラをやや引いて街全景を見せつつ主人公女性を追従。風がスカートを揺らす中、19世紀ロンドンの街を歩く。右から蒸気機関車が高速で通過し、スカートがめくれそうになって彼女は驚いて押さえる。足音・群衆・車両音を追加。
-```
-
-### No. 3: ウィル・スミスがスパゲッティを食べる
-
-- **Category:** `超リアル映像生成`
-- **Source:** `twitter`
-- **Author:** levelsio (@levelsio)
-- **Language:** `ja`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e55ed973-0bcf-4d50-8b5d-3a831e7e9d68.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e55ed973-0bcf-4d50-8b5d-3a831e7e9d68.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/levelsio/status/2021403820702552331)
-
-#### Description
-
-ウィル・スミスが現代的な家庭キッチンでスパゲッティを食べる。
-
-#### Prompt
-
-```text
-フォトリアルな中寄りショット。ウィル・スミスが現代的な家庭キッチンの白いアイランドカウンターでスパゲッティを食べる。背景には中央のステンレス冷蔵庫、白いキャビネット、カウンター家電、側窓からの自然光。黒いTシャツで正面を向き、自然に麺を巻いて食べる。カメラは基本固定で、わずかなプッシュインのみ。手の動き、表情、料理の質感をリアルに保ち、24fpsの映画的写実で誇張変形は避ける。
-```
-
-### No. 4: インタラクティブな絵画キャラクター
-
-- **Category:** `超リアル映像生成`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d6e3a17d-f4a7-49e3-850c-2cfc68b4a6a4.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d6e3a17d-f4a7-49e3-850c-2cfc68b4a6a4.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/2)
-
-#### Description
-
-絵の中の人物が生き返り、誰も見ていない隙にこっそりコーラを飲む、ユーモラスな広告シーン。
-
-#### Prompt
-
-```text
-絵の中の人物が後ろめたい表情で左右を見回し、額縁の外へ身を乗り出して素早くコーラを取り一口飲む。満足した直後に足音が聞こえ、急いで元の場所へ戻す。西部のカウボーイがコーラを持ち去り、最後は黒背景に缶コーラだけがトップライトで照らされる。画面下にアート字幕とナレーション「宜口コーラ、飲まずにはいられない！」を表示。
-```
-
-### No. 5: エレガントな洗濯シーン
-
-- **Category:** `超リアル映像生成`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/b6b7f78a-f9a7-4c09-a3ac-6f0f694b1263.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/b6b7f78a-f9a7-4c09-a3ac-6f0f694b1263.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/1)
-
-#### Description
-
-女性が優雅に洗濯物を干し、かごからもう一枚取り出して自然に振る。
-
-#### Prompt
-
-```text
-固定カメラ。少女が優雅に洗濯物を干し、終えると籠から別の服を取り出して勢いよく振る。
-```
-
-<a id="category-16"></a>
-
-### 感情表現 (3)
-
-### No. 1: ドラマチックな咆哮クローズアップ
-
-- **Category:** `感情表現`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/1b870eee-b748-48a7-84b6-cd56e0c925f9.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/1b870eee-b748-48a7-84b6-cd56e0c925f9.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/59)
-
-#### Description
-
-キャラクターのドラマチックな咆哮のクローズアップショット、強烈な感情を表現。
-
-#### Prompt
-
-```text
-@image1を冒頭フレームにし、カメラを回転しながら前進。キャラクターが誇張された驚き表情を見せ、コミカルな効果音を合わせる。
-```
-
-### No. 2: 料理コントラストコメディ
-
-- **Category:** `感情表現`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/a9a3d3ad-2aec-4a14-8bb5-2ca7736e09ae.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/a9a3d3ad-2aec-4a14-8bb5-2ca7736e09ae.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/58)
-
-#### Description
-
-穏やかな料理と混沌とした料理のユーモラスな対比。
-
-#### Prompt
-
-```text
-レンジフード広告。@image1を冒頭フレームにしたキッチンでレンジフードが起動し、強力に煙を吸引。クローズアップで機能を見せ、最後にブランドロゴを表示。
-```
-
-### No. 3: 鏡前の感情崩壊
-
-- **Category:** `感情表現`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/095be254-151d-4149-b50a-ad054c154758.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/095be254-151d-4149-b50a-ad054c154758.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/57)
-
-#### Description
-
-キャラクターが鏡の前で感情崩壊を経験するドラマチックなパフォーマンス。
-
-#### Prompt
-
-```text
-@image1の女性が鏡の前に立ち、鏡の自分を見る。表情が平静から悲しみに変わり、涙が落ちる。感情崩壊の心理劇として鏡の象徴性を強調。
-```
-
-<a id="category-17"></a>
-
-### ストーリー展開＆延長 (8)
-
-### No. 1: フィットネスモチベーション広告
-
-- **Category:** `ストーリー展開＆延長`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/65689cf8-c5c9-4624-9136-adac7bc3cc10.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/65689cf8-c5c9-4624-9136-adac7bc3cc10.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/30)
-
-#### Description
-
-エネルギッシュなフィットネスモチベーション広告、スポーツウェアとブランドを展示。
-
-#### Prompt
-
-```text
-動画を6秒延長。激しいエレキギターが流れ、中央に「JUST DO IT」が現れて消える。カメラは天井へ移動し、筋肉質の男性が吊り輪で懸垂。@image1のタイトなフィットネスウェア、背面に@image2の「Fitness」ロゴ。最後に「DO SOME SPORT」を表示。
-```
-
-### No. 2: エモーショナルジャーニー動画
-
-- **Category:** `ストーリー展開＆延長`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/0ae0f676-8f49-4b97-88d2-4afaaa5e5424.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/0ae0f676-8f49-4b97-88d2-4afaaa5e5424.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/28)
-
-#### Description
-
-複数のシーンを繋いで感情の旅を表現。
-
-#### Prompt
-
-```text
-video1の音声を参照し、画像1〜5を基に15秒の感情短編を作成。孤独から温かさへ変化する感情曲線を、癒し系音楽とともに表現。
-```
-
-### No. 3: コーヒーモーニング広告
-
-- **Category:** `ストーリー展開＆延長`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/94fc9706-187d-4667-a8e4-62692cb256dd.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/94fc9706-187d-4667-a8e4-62692cb256dd.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/31)
-
-#### Description
-
-温かみのあるコーヒーモーニング広告、コーヒー作りとブランドストーリーを展示。
-
-#### Prompt
-
-```text
-@video1を15秒延長。1-5秒：朝から正午へ光と影が変化。5-10秒：人物が起き上がり体を伸ばす。10-15秒：窓辺へ歩き遠くを眺める。温かな生活感を演出。
-```
-
-### No. 4: ロバのバイクスタント広告
-
-- **Category:** `ストーリー展開＆延長`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/67c79521-0cb4-498f-bd74-e0ed9aab81e8.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/67c79521-0cb4-498f-bd74-e0ed9aab81e8.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/29)
-
-#### Description
-
-ロバがバイクスタントを行うユーモラスな広告、創造性と楽しさに満ちている。
-
-#### Prompt
-
-```text
-15秒延長。ロバがバイクで砂漠・雪山・都市を走り抜ける超現実CMを追加し、夕焼けで停車。コピー「想像を突破し、可能性は無限」。
-```
-
-### No. 5: コマ漫画アニメーション化
-
-- **Category:** `ストーリー展開＆延長`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c939610e-a182-40ad-89a5-254c1515ac24.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/c939610e-a182-40ad-89a5-254c1515ac24.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/26)
-
-#### Description
-
-静的な漫画コマをダイナミックなアニメーションに変換、漫画に命を吹き込む。
-
-#### Prompt
-
-```text
-15秒延長。@image1・@image2のロバがバイクに乗る要素で発想系CMを追加。
-カット1: 横固定でロバが小屋を飛び出し、隣の鶏が驚く。
-カット2: 砂地で旋回。タイヤ接写から空撮へ。
-カット3: 雪山背景でジャンプし、コピー「Inspire Creativity, Enrich Life」を表示。
-```
-
-### No. 6: ひまわりスケートボードストーリー
-
-- **Category:** `ストーリー展開＆延長`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/30e27ffa-53bc-4655-b405-d017c699ed87.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/30e27ffa-53bc-4655-b405-d017c699ed87.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/32)
-
-#### Description
-
-ひまわりとスケートボードをテーマにしたクリエイティブストーリー動画。
-
-#### Prompt
-
-```text
-冒頭方向に10秒延長。暖かな午後の光の中、卓上のコーヒーカップからカメラをゆっくり引き、心地よいカフェ空間と穏やかな会話を見せる。
-```
-
-### No. 7: 女性が飛行機を操縦する複雑アクションシーンのクイックテスト
-
-- **Category:** `ストーリー展開＆延長`
-- **Source:** `twitter`
-- **Author:** Janek Mann (@janekm)
-- **Language:** `ja`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/dc27ff9d-d357-423c-88b8-65e4646c5659.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/dc27ff9d-d357-423c-88b8-65e4646c5659.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/janekm/status/2020388244802740728)
-
-#### Description
-
-女性がパイロットの消失に気づき、危機の中で飛行機を操縦する。
-
-#### Prompt
-
-```text
-機内パニックから操縦奪取までを描く高緊張アクション。ショット1: 手持ち追従で客室を走り抜ける女性、揺れる酸素マスク、赤い警告灯。ショット2: コックピットで計器、操縦桿、彼女の目線を高速カット。ショット3: 機体外観ワイドで急降下から立て直し。ショット4: 再びコックピット、呼吸を整えつつ機体姿勢を安定化。テンポは速く、危機認知と判断の連続性を明確にする。
-```
-
-### No. 8: 子供時代の四季ドキュメンタリー
-
-- **Category:** `ストーリー展開＆延長`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/41aab229-bca0-4387-a4b1-08e88dde89a2.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/41aab229-bca0-4387-a4b1-08e88dde89a2.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/27)
-
-#### Description
-
-ドキュメンタリースタイルで四季を通じた子供時代の美しい瞬間を記録。
-
-#### Prompt
-
-```text
-動画を6秒延長。熱いエレキギターが入り、中央に「JUST DO IT」が現れてフェード。カメラが天井へ上がり、屈強な男性が吊り輪を引く。上半身は@image1のウェア、背面に@image2の「Fitness」ロゴ。
-```
-
-<a id="category-18"></a>
-
-### 音楽シンク (4)
-
-### No. 1: アニメ将棋バトル絵コンテ
-
-- **Category:** `音楽シンク`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/efe4a014-a97b-4f4b-baa6-77d477b7024f.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/efe4a014-a97b-4f4b-baa6-77d477b7024f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/56)
-
-#### Description
-
-アニメスタイルで将棋バトルを展示するビートシンク絵コンテ動画。
-
-#### Prompt
-
-```text
-8秒の知略バトル系アニメ戦闘。緊張感ある音楽に合わせて高速アクションと分鏡切替を行い、アニメらしい視覚インパクトを作る。
-```
-
-### No. 2: ファッションビートシンク
-
-- **Category:** `音楽シンク`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/5ae0578e-e6c8-4ff1-a03a-e19b5ac2f5c1.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/5ae0578e-e6c8-4ff1-a03a-e19b5ac2f5c1.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/53)
-
-#### Description
-
-音楽のリズムに合わせてファッションコーデを展示するビートシンク動画。
-
-#### Prompt
-
-```text
-ポスターの少女が何度も衣装替え。衣装は@image1-6を参照し、音楽ビートに合わせて高速切替。強いファッション感を出す。
-```
-
-### No. 3: ダイナミックポートレートビートシンク
-
-- **Category:** `音楽シンク`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/11a4251f-cb41-41b1-b6a7-8ac19d340956.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/11a4251f-cb41-41b1-b6a7-8ac19d340956.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/54)
-
-#### Description
-
-複数のポートレートが音楽ビートに合わせてダイナミックに切替。
-
-#### Prompt
-
-```text
-@image1 @image2 @image3 @image4 @image5 @image6 @image7の画像シーケンスを音楽のリズムに同期し、各カットを1-2秒表示。人物ポートレートの感情変化を見せる動的アルバム風にする。
-```
-
-### No. 4: 風景トランジションMV
-
-- **Category:** `音楽シンク`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/6b0fbeb4-51df-4094-8252-d2dfb8631776.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/6b0fbeb4-51df-4094-8252-d2dfb8631776.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/55)
-
-#### Description
-
-複数の風景シーンが音楽リズムに合わせてトランジションするMV。
-
-#### Prompt
-
-```text
-@image1 @image2 @image3 @image4 @image5 @image6の風景を使い、音楽の転調に合わせて日の出から日没へ遷移するMV風映像を作る。
-```
-
-<a id="category-19"></a>
-
-### ワンテイク撮影 (5)
-
-### No. 1: ジェットコースターPOV
-
-- **Category:** `ワンテイク撮影`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/fabf98a8-432c-479a-bcd3-3736677190b2.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/fabf98a8-432c-479a-bcd3-3736677190b2.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/47)
-
-#### Description
-
-一人称視点でジェットコースターのスリリングな旅を体験。
-
-#### Prompt
-
-```text
-@image1 @image2 @image3 @image4 @image5。主観視点でジェットコースター体験を再現し、急降下・旋回・上昇を高速で連続させる。
-```
-
-### No. 2: 居心地の良いコテージお茶タイム
-
-- **Category:** `ワンテイク撮影`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d1d1c955-c271-44ba-bd3e-1537e33a2e29.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d1d1c955-c271-44ba-bd3e-1537e33a2e29.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/46)
-
-#### Description
-
-居心地の良いコテージでのお茶タイムをワンテイクで展示。
-
-#### Prompt
-
-```text
-@image1の外観を基に一人称視点で室内へ入り、周囲を見渡す。温かみのある住空間をワンカットで見せ、レイアウトを自然に提示。
-```
-
-### No. 3: スパイサスペンス追跡
-
-- **Category:** `ワンテイク撮影`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/873ead10-156a-4f5f-aafc-1a0a743c3ef7.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/873ead10-156a-4f5f-aafc-1a0a743c3ef7.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/45)
-
-#### Description
-
-緊張感に満ちたワンテイクスパイサスペンス追跡シーン。
-
-#### Prompt
-
-```text
-スパイスリラー風。@image1を冒頭に、正面追従で街路・階段・屋上を高速で駆け抜ける。ワンカットで緊張感あるチェイスを作る。
-```
-
-### No. 4: 飛行機の窓からアイスクリームの夢
-
-- **Category:** `ワンテイク撮影`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/3421ca69-533f-4ef7-aef2-2aabad3d53fe.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/3421ca69-533f-4ef7-aef2-2aabad3d53fe.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/44)
-
-#### Description
-
-飛行機の窓から始まる夢幻的なアイスクリームシーン、ワンテイク。
-
-#### Prompt
-
-```text
-@image1を冒頭フレームにして機内窓外へズーム。雲が流れ込み、中央のカラフルな雲が@image2のアイスに変形する。
-```
-
-### No. 5: パルクールチェイス長回し
-
-- **Category:** `ワンテイク撮影`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ja`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c8b0a7bb-eae5-417f-bf63-e3a114a1364f.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/c8b0a7bb-eae5-417f-bf63-e3a114a1364f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ja/seedance-2-prompt/43)
-
-#### Description
-
-複数のシーンを横断するワンテイクパルクールチェイスシーン。
-
-#### Prompt
-
-```text
-@image1@image2@image3@image4@image5、ワンカット追跡。街から階段、廊下、屋上へ走者を追い、最後に都市全景を俯瞰する。
+[酔っ払いの屋上パニック——縁から転落——窓越しにロープをつかむ——その場で気絶 | ブラックコメディ短編 | 約30秒] 一行のあらすじ：ぽっちゃりしてかわいい、酔った中年男がビルの屋上でハンバーガーを食べビールを飲んでいる。立ち上がって伸びをした拍子に足を滑らせて転落し、パニックの中で命綱のロープをつかみ、すぐさま窓を突き破って室内へ突入、一秒ぼうっと呆然とした後、その場に横になってぐっすり眠り込む。参考画像 @image1——ぽっちゃりしてかわいい、酔った中年男：丸くずんぐりした体型で大きな丸いビール腹を突き出し、背は低く、酔いで動きはだらしなく、鈍く、ふらついている。丸顔、二重あご、酒で赤らんだ頬と鼻、細く糸のように狭めた目はとろんとしたまなざし、手入れされていない短い無精ひげの輪、ぼさぼさの髪、間の抜けた、かわいくて能天気な表情。ハンバーガーのソースがついた白いタンクトップの肌着を丸い腹の上にだらしなく垂らし、古いジーンズをはき、ゆるいスリッパを引きずって歩き、いつも食べかけのハンバーガーを手に握りしめている。作品全体にこの一人のキャラクターしか登場せず、参考画像と100%一致する。全体のルック：夜のサイバーパンクな巨大都市、ガラスと鋼の摩天楼が密集する森、ネオンサイン（シアン／マゼンタ／エレクトリックブルー）、ホログラムの広告板、濡れて反射する地面、ボリューメトリックな霧、遠くを走る空飛ぶ車の光跡とドローン。リアルな実写の質感、物理的なシネマレンズ、3Dレンダリング／ゲームエンジン／アニメ調は一切なし。カメラはハンドヘルドとジブ／ドローンを併用する。転落後、カメラは彼とともに急降下し、ビルの外壁とネオンが上方へ流れてスピード感を伝える、24-35mmのワイドスクリーン・シネマレンズの質感、180度シャッターのモーションブラー。サウンドデザインこそブラックコメディの鍵：「巨大な轟音」と「完全な静寂」の間で何度もハードカットする。全編を通して本物の重力。絵コンテ（約30秒）：S1（0-4s）冒頭、咀嚼の大クローズアップ（音あり）男の顔が画面いっぱいに広がり、大口でハンバーガーを頬張り、満足げな酔いの状態。S2（4-9s）ワイドショットへ引く、伸びをする -> 足を滑らせて転落（音あり）ふらつきながら立ち上がり、大きく伸びをして体をのけぞらせ、バランスを崩し、足が滑って屋上の縁を後ろ向きに越えて転がり落ちる。ハンバーガーは決して離さず、パニックの「えぇ——っ！」とともに。S3（9-12s）驚愕の顔のクローズアップへカット（大きな叫び、巨大な轟音）酔った目が真ん丸に飛び出し、二重あごがくしゃっと寄り、口を大きく開けて「ああ——っ！！」と絶叫、風がうなる。S4（12-16s）目線の高さのロングショットへカット（完全な静寂）向かいのビルから見ると、白い小さな人影が高層ビルから真下へ落ちていき、ネオンの街は広大で無関心、この完全な静寂が一秒前の巨大な轟音とブラックコメディのコントラストをつくる。S5（16-21s）顔のクローズアップへカット（絶叫）-> ロープをつかむ、なおも絶叫し、両手を宙で振り回し、突然命綱のケーブルをつかむ。ケーブルは彼の重みでビンと張りつめてしなり、絶叫はぷつりと途切れ、彼はガクンと引かれて振り出される（ロープをつかむ瞬間に短いスローモーション）。S6（21-26s）室内アングルへカット（静か）-> ガラスが砕ける -> 彼が突っ込んでくる、室内は最初エアコンの低いうなりだけの静けさ、次の瞬間ガラスが爆発的に内側へ砕け散り（短いバレットタイム）、酔っ払いがハンバーガーごと窓を突き破り、破片が放射状に飛び散り、ネオンの光が流れ込み、彼は室内の床／ソファへ重々しく激突し、割れたガラスがチリンチリンと鳴る。S7（26-30s）エンディング、驚いて呆然の一秒 -> 眠りにつく、男は床に大の字で伸び、割れたガラスにまみれ、なおもハンバーガーを握りしめ、ゆっくりと目を開け、ぼんやりと、呆然と驚いたまま丸一秒、あたりを見回して「ここはどこだ？」と考えているかのよう。その後、酔いが勝ち、まったく気にせず口をぺちゃぺちゃ鳴らし、ハンバーガーを胸に抱え込み、寝返りを打って、その場に横になりぐっすり眠り込み、軽くいびきさえかき始める。カメラが引いてフリーズし、暗転へハードカット。現場の同時録音のみ、音楽なし、字幕なし。核心は「巨大な轟音」と「静寂」の間で何度もハードカットすること。
 ```
 
 ## Local Usage
@@ -2665,4 +644,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-07-21T04:39:05.277Z
+> This README is auto-generated. 2026-07-21T07:52:08.401Z
