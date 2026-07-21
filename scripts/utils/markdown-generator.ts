@@ -126,6 +126,23 @@ function renderPrompt(prompt: PromptRecord, index: number, locale: string): stri
     lines.push(`- **${t("sourceLink", locale)}:** [${t("view", locale)}](${prompt.source_link})`);
   }
 
+  const referenceImages = prompt.reference_images ?? [];
+  const referenceVideos = prompt.reference_videos ?? [];
+  if (referenceImages.length > 0 || prompt.reference_video || referenceVideos.length > 0) {
+    lines.push("");
+    lines.push(`- **Inputs:**`);
+    lines.push("");
+    for (const image of referenceImages) {
+      lines.push(`<img src="${image}" width="180" referrerpolicy="no-referrer">`);
+    }
+    if (prompt.reference_video) {
+      lines.push(`<video src="${prompt.reference_video}" controls muted width="360"></video>`);
+    }
+    for (const video of referenceVideos) {
+      lines.push(`<video src="${video}" controls muted width="360"></video>`);
+    }
+  }
+
   lines.push(
     "",
     `#### ${t("description", locale)}`,

@@ -10,6 +10,9 @@ export interface PromptRecord {
   prompt: string;
   category: string;
   video_url?: string;
+  reference_images?: string[];
+  reference_video?: string;
+  reference_videos?: string[];
   author_name: string;
   author_link?: string;
   source_platform: string;
