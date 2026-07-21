@@ -4,7 +4,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedance-2.5-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-105%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-11%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 > A curated collection of Seedance 2.5 video prompts — each with real previews via Atlas Cloud. 30s native clips · 50 multimodal references · flexible region editing. Cinematic, anime, UGC, ads, meme & more.
 
@@ -68,37 +68,27 @@ Seedance 2.5 is a major upgrade to Seedance 2.0 with three big gains: 30-second 
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **105** |
-| Categories | **18** |
-| Preview Videos | **99** |
-| Last Updated | **2026-07-21T04:39:05.293Z** |
+| Total Prompts | **11** |
+| Categories | **8** |
+| Preview Videos | **11** |
+| Last Updated | **2026-07-21T07:52:08.409Z** |
 
 ## 🏷️ Browse by Category
 
-- [`Match-Cut & Creative Effects`](#category-1): **1**
-- [`One-Take Cinematography`](#category-2): **6**
-- [`Multi-Image Reference`](#category-3): **3**
-- [`Video Editing`](#category-4): **2**
-- [`Reference-Guided Tutorial`](#category-5): **1**
-- [`Multimodal Reference (image+video)`](#category-6): **1**
-- [`Image Reference`](#category-7): **1**
-- [`Image Reference (Cinematic)`](#category-8): **1**
-- [`Twitter Community`](#category-9): **24**
-- [`Audio & Voice Synthesis`](#category-10): **10**
-- [`Advanced Camera Movements`](#category-11): **13**
-- [`Video Editing & Remixing`](#category-12): **5**
-- [`Character & Scene Consistency`](#category-13): **6**
-- [`Creative Visual Effects`](#category-14): **11**
-- [`Ultra-Realistic Video Generation`](#category-15): **5**
-- [`Emotional Performance`](#category-16): **3**
-- [`Story Development & Extension`](#category-17): **8**
-- [`Music Synchronization`](#category-18): **4**
+- [`Match-cut и креативные эффекты`](#category-1): **1**
+- [`Съёмка одним дублем`](#category-2): **1**
+- [`Несколько референсных изображений`](#category-3): **3**
+- [`Монтаж видео`](#category-4): **2**
+- [`Урок по референсам`](#category-5): **1**
+- [`Мультимодальный референс (изображение+видео)`](#category-6): **1**
+- [`Референсное изображение`](#category-7): **1**
+- [`Референсное изображение (кинематографично)`](#category-8): **1**
 
 ## 🔥 Featured Prompts
 
-### No. 1: Crystal Ball Match-Cut Beat Film
+### No. 1: Ритмичный match-cut-фильм с хрустальным шаром
 
-- **Category:** `Match-Cut & Creative Effects`
+- **Category:** `Match-cut и креативные эффекты`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ru`
@@ -109,17 +99,17 @@ Seedance 2.5 is a major upgrade to Seedance 2.0 with three big gains: 30-second 
 
 #### Description
 
-A beat-synced match-cut film: one crystal ball etched with a glowing 'seedance' logo stays centered while eight scenes cut seamlessly behind it.
+Match-cut-фильм, синхронизированный с битом: один хрустальный шар с выгравированным светящимся логотипом «seedance» остаётся в центре, пока за ним бесшовно сменяются восемь сцен.
 
 #### Prompt
 
 ```text
-A fast-paced, cinematic Match-cut short film synced to a driving electronic beat. A flawless crystal ball stays fixed dead-center throughout, a glowing "seedance" logo etched inside it. The ball holds razor-sharp focus while, on every strong musical beat, the background match-cuts seamlessly: Scene 1: macro close-up, cinematic water splashing around the ball, refracting intricate light. Scene 2: a vintage morning cafe, the ball on a raw-wood table, rising coffee steam and blurred commuters beyond the window. Scene 3: golden-hour dusk, a skater youth tosses and catches the ball one-handed, street racing backward behind them in gorgeous backlit sunset. Scene 4: a frenzied music festival, hands raise the ball high, refracting dazzling stage lasers. Scene 5: a lively family party table, the ball resting center-frame, blurred figures toasting and reaching for food. Scene 6: a dim cinema, hands cupping the ball as the giant screen's faint glow drifts across its surface. Scene 7: the ball on a violently vibrating speaker diaphragm, match-cutting on the climax to a spinning DJ turntable center. Scene 8: an outdoor camping night, background becoming warm bonfire and swaying string-light bokeh. Finale: on the final downbeat the ball is hurled up out of frame; cut to pure black, a minimal white-on-black "seedance" appearing dead-center. Beat-synced match-cut editing, top-tier cinematic color grading, photoreal glass refraction, ray tracing, global illumination. Subject razor-sharp, background heavy motion blur.
+Динамичный кинематографичный короткометражный match-cut-фильм, синхронизированный с напористым электронным битом. Безупречный хрустальный шар всё время остаётся строго в центре кадра, внутри него светится выгравированный логотип «seedance». Шар держит бритвенно-острый фокус, а на каждом сильном музыкальном ударе фон бесшовно сменяется приёмом match-cut: Сцена 1: макро-крупный план, кинематографичная вода разбрызгивается вокруг шара, преломляя замысловатый свет. Сцена 2: винтажное утреннее кафе, шар на столе из необработанного дерева, поднимающийся пар от кофе и размытые прохожие за окном. Сцена 3: сумерки золотого часа, юный скейтер подбрасывает и ловит шар одной рукой, а позади него улица мчится назад в роскошном контровом свете заката. Сцена 4: неистовый музыкальный фестиваль, руки высоко поднимают шар, преломляя ослепительные сценические лазеры. Сцена 5: оживлённый стол семейной вечеринки, шар покоится в центре кадра, размытые фигуры чокаются и тянутся за едой. Сцена 6: тёмный кинозал, ладони обхватывают шар, пока по его поверхности скользит слабое свечение огромного экрана. Сцена 7: шар на бешено вибрирующей мембране динамика, на кульминации match-cut к вращающемуся в центре диджейскому проигрывателю. Сцена 8: ночёвка на природе под открытым небом, фон превращается в тёплый костёр и покачивающееся боке гирлянд. Финал: на последнем сильном ударе шар подбрасывается вверх за пределы кадра; склейка в абсолютно чёрный экран, минималистичное белое «seedance» на чёрном появляется строго в центре. Монтаж match-cut в такт биту, первоклассная кинематографичная цветокоррекция, фотореалистичное преломление света в стекле, трассировка лучей, глобальное освещение. Объект бритвенно-острый, фон с сильным смазом движения.
 ```
 
-### No. 2: Steampunk Clockwork — 30s One-Take
+### No. 2: Стимпанк-часовой механизм — 30-секундный дубль
 
-- **Category:** `One-Take Cinematography`
+- **Category:** `Съёмка одним дублем`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ru`
@@ -130,17 +120,17 @@ A fast-paced, cinematic Match-cut short film synced to a driving electronic beat
 
 #### Description
 
-A 30-second steampunk miniature 3D sequence with continuous orbiting, pass-through camera moves.
+30-секундная стимпанк-миниатюра в 3D с непрерывными орбитальными пролётами камеры сквозь объекты.
 
 #### Prompt
 
 ```text
-A high-end, deeply cinematic 30-second 3D motion-graphics sequence in refined steampunk and vintage-miniature style, with continuous fluid orbiting and pass-through camera moves. [0-10s] Macro close-up of an antique brass clock face that unfolds layer by layer into meshing rotating gear rings and volumetric fog. The camera pierces down through the gears; a mechanical ornithopter spirals up from a miniature canyon of stacked weathered old books. [10-20s] The camera glides forward tracking the ornithopter, seamlessly passing into a fast-spinning ornate brass zoetrope projecting galloping mechanical-horse light. The light leaps out and the scene becomes a brass floating cable car on glimmering copper rails through a forest of gears, bathed in cinematic golden-hour light. [20-30s] The camera pans elegantly down; below appears an exquisite clockwork wooden sailing ship cutting deep-blue glass-textured waves, which morph into a glowing giant moon with lantern-holding explorer silhouettes trekking a crystal-vein ridge under stars. The camera spirals smoothly back through ethereal clouds to the ticking brass clock face. Hyper-real mechanical textures, rich brass and gold tones, cinematic shallow depth of field, smooth seamless pass-through camerawork, epic fantastical adventure atmosphere.
+Высококлассная, глубоко кинематографичная 30-секундная 3D-секвенция моушн-графики в утончённом стиле стимпанк и винтажной миниатюры, с непрерывными плавными орбитальными пролётами камеры сквозь объекты. [0-10s] Макро-крупный план старинного латунного циферблата, который слой за слоем разворачивается в сцепляющиеся вращающиеся кольца шестерён и объёмный туман. Камера пробивается вниз сквозь шестерни; механический орнитоптер по спирали взмывает вверх из миниатюрного каньона сложенных стопкой обветшалых старых книг. [10-20s] Камера скользит вперёд, следуя за орнитоптером, и бесшовно проникает в быстро вращающийся, богато украшенный латунный зоотроп, проецирующий свет скачущих механических лошадей. Свет выпрыгивает наружу, и сцена превращается в латунную парящую канатную дорогу на мерцающих медных рельсах, идущую сквозь лес шестерён, залитую кинематографичным светом золотого часа. [20-30s] Камера изящно опускается вниз; внизу появляется изысканный часовой деревянный парусник, рассекающий тёмно-синие волны со стеклянной текстурой, которые превращаются в светящуюся гигантскую луну с силуэтами исследователей с фонарями, идущих по гребню с кристаллическими прожилками под звёздами. Камера плавно по спирали возвращается сквозь эфирные облака к тикающему латунному циферблату. Гиперреалистичные механические текстуры, богатые латунные и золотые тона, кинематографичная малая глубина резкости, плавная бесшовная работа камеры сквозь объекты, эпическая, сказочная атмосфера приключения.
 ```
 
-### No. 3: Windows Through Worlds (5 refs)
+### No. 3: Окна в другие миры (5 референсов)
 
-- **Category:** `Multi-Image Reference`
+- **Category:** `Несколько референсных изображений`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ru`
@@ -159,17 +149,17 @@ A high-end, deeply cinematic 30-second 3D motion-graphics sequence in refined st
 
 #### Description
 
-A brand concept short driven by 5 reference images, gliding through windows into different worlds.
+Концептуальный бренд-ролик на основе 5 референсных изображений, скользящий сквозь окна в разные миры.
 
 #### Prompt
 
 ```text
-A cinematic brand concept short. @image1 is the first frame; the picture trembles slightly, the camera pushes in to tree shadows rushing backward outside the window, their retreat accelerating, then abruptly cuts to @image2, speed easing as the camera glides slowly along a stream, birdsong and blossoms. The camera drops underwater — bubble sounds — as orange jellyfish drift gracefully past the lens @image3; the camera pulls back as small fish flit past and swim from the water into the window @image4, a girl looking around, watching them. The camera pulls back, defocuses, then refocuses sharp, switching to the music's rhythm: a Chinese-garden lattice window @image5 with light circling, church stained glass, an airplane porthole, a dome skylight, a bay window, louver blinds, a European dormer, a door peephole, a camera viewfinder, a bird's eye, a human eye close-up. It settles on the human eye; the eye closes, screen black, then suddenly opens — "seedance" appearing in the center of the eye on the accent beat.
+Кинематографичный концептуальный бренд-ролик. @image1 — это первый кадр; изображение слегка дрожит, камера наезжает на тени деревьев, проносящиеся назад за окном, их удаление ускоряется, затем резкая склейка на @image2, скорость смягчается, пока камера медленно скользит вдоль ручья, пение птиц и цветы. Камера опускается под воду — звуки пузырьков — пока оранжевые медузы грациозно проплывают мимо объектива @image3; камера отъезжает, когда маленькие рыбки мелькают мимо и выплывают из воды в окно @image4, девочка оглядывается, наблюдая за ними. Камера отъезжает, расфокусируется, затем снова наводит резкость, переключаясь в ритм музыки: решётчатое окно китайского сада @image5, вокруг которого кружит свет, церковный витраж, иллюминатор самолёта, купольный световой люк, эркер, ламельные жалюзи, европейское мансардное окно, дверной глазок, видоискатель камеры, птичий глаз, крупный план человеческого глаза. Кадр останавливается на человеческом глазу; глаз закрывается, экран чернеет, затем внезапно открывается — «seedance» появляется в центре глаза на акцентном ударе.
 ```
 
-### No. 4: One-Take Through Six Rooms (8 refs)
+### No. 4: Один дубль сквозь шесть комнат (8 референсов)
 
-- **Category:** `Multi-Image Reference`
+- **Category:** `Несколько референсных изображений`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ru`
@@ -191,17 +181,17 @@ A cinematic brand concept short. @image1 is the first frame; the picture tremble
 
 #### Description
 
-One continuous take following a figure through six mood-shifting rooms, driven by 8 reference images.
+Один непрерывный дубль, следующий за фигурой через шесть комнат с меняющимся настроением, на основе 8 референсных изображений.
 
 #### Prompt
 
 ```text
-One continuous take. The camera smoothly follows a person in a black coat (reference @image1) moving left to right through six connected rooms of different tones and moods. Every room shares the same structure: white walls, light herringbone wood floor, French floor-to-ceiling windows, white sheer curtains (reference @image2) but the outside view and mood differ each time. The protagonist walks at a constant pace, passing through every open door. 0-5s room one, American-comic fight: the protagonist fights a character (@image3), who is defeated; 5-10s room two, warmth, felt-craft style, window view a sunflower field (@image4), warm-orange soft light, a painter painting sunflowers (@image5), the protagonist turning felt-style on entering; 10-15s room three, sorrow, black-and-white comic stop-motion, rain outside, cold-grey light, a person alone on the floor hugging their knees, a phone glowing with an unanswered call; on entering, the light blinks off then on, the room turns color, flowers bursting into bloom; 15-20s room four, joy, a room submerged in the sea (reference @image6), the protagonist turning transparent among coral and fish; 20-25s room five, surprise, window view a sky of fireworks (reference @image7), colorful flickering light, the protagonist swept up in a cheering crowd; 25-30s a blank white room, the protagonist snaps their fingers — snap SFX — frame goes black, "seedance" in the middle (reference @image8). Cinematic quality, high-fashion advertising style, lighting entirely determined by the window views for strong emotional contrast, no text in frame.
+Один непрерывный дубль. Камера плавно следует за человеком в чёрном пальто (референс @image1), движущимся слева направо через шесть соединённых комнат разных тонов и настроений. Все комнаты имеют одинаковую структуру: белые стены, светлый деревянный пол «ёлочкой», французские окна от пола до потолка, белые лёгкие тюлевые занавески (референс @image2), но вид за окном и настроение каждый раз разные. Главный герой идёт в постоянном темпе, проходя через каждую открытую дверь. 0-5s комната первая, драка в стиле американского комикса: герой сражается с персонажем (@image3), который повержен; 5-10s комната вторая, тепло, стиль фетрового рукоделия, за окном поле подсолнухов (@image4), тёплый оранжевый мягкий свет, художник, рисующий подсолнухи (@image5), герой при входе превращается в фетровый стиль; 10-15s комната третья, печаль, чёрно-белая комиксовая покадровая анимация, за окном дождь, холодный серый свет, человек одиноко сидит на полу, обняв колени, телефон светится пропущенным звонком; при входе свет мигает и снова загорается, комната обретает цвет, цветы распускаются; 15-20s комната четвёртая, радость, комната, погружённая в море (референс @image6), герой становится прозрачным среди кораллов и рыб; 20-25s комната пятая, удивление, за окном небо в фейерверках (референс @image7), красочный мерцающий свет, героя подхватывает ликующая толпа; 25-30s пустая белая комната, герой щёлкает пальцами — звук щелчка — кадр чернеет, «seedance» в центре (референс @image8). Кинематографичное качество, стиль высокой моды в рекламе, освещение полностью задаётся видами из окон для сильного эмоционального контраста, без текста в кадре.
 ```
 
-### No. 5: Video Edit — Remove All But the Lead
+### No. 5: Монтаж видео — убрать всех, кроме главного героя
 
-- **Category:** `Video Editing`
+- **Category:** `Монтаж видео`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ru`
@@ -216,17 +206,17 @@ One continuous take. The camera smoothly follows a person in a black coat (refer
 
 #### Description
 
-Reference-video editing: erase everyone except the protagonist from a source clip.
+Монтаж на основе референсного видео: стереть из исходного клипа всех, кроме главного героя.
 
 #### Prompt
 
 ```text
-Video editing: remove everyone in @video1 except the protagonist.
+Монтаж видео: убрать в @video1 всех, кроме главного героя.
 ```
 
-### No. 6: Multilingual Hip-Hop 'Hello' MV
+### No. 6: Многоязычный хип-хоп-клип «Hello»
 
-- **Category:** `Multi-Image Reference`
+- **Category:** `Несколько референсных изображений`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ru`
@@ -241,17 +231,17 @@ Video editing: remove everyone in @video1 except the protagonist.
 
 #### Description
 
-A seaside hip-hop MV built from one reference image; the lead raps 'hello' in 8 languages, lip-synced, hard cuts on the beat.
+Приморский хип-хоп-клип на основе одного референсного изображения; лидер рэпует «hello» на 8 языках с синхронизацией губ и резкими склейками в такт.
 
 #### Prompt
 
 ```text
-Cinematic hip-hop / rap music video, photoreal quality, high-end tone, seaside setting. Build the frame from @image1: a band performs at a golden sand beach with crashing waves — a lead vocalist gripping a mic on a stand in the wet sand, one guitarist left, one right, a drummer at the back; a vast coastline behind, rolling waves, a warm golden-hour sun shimmering on the water, sea mist in the air. The lead in a red tracksuit raps to camera — lips and jaw precisely synced to every word, head punching to the beat. Bright, punchy, fast, confident rap. HARD CUT on the beat, each switch a double contrast (shot size and type change together). Lyrics (the lead sings 'hello' in each language in turn, precisely lip-synced): English "Hello", Chinese "你好", Japanese "こんにちは", Korean "안녕하세요", Portuguese "Olá", Thai "สวัสดี", Spanish "Hola", Arabic "مرحبا". 8 hard-cut shots (low-angle wide establishing; close-up rap to camera; macro guitar-string insert; 3/4 prowling orbit; lateral track at shore; drummer tilt-up; tight push on the lead; heroic full-band push-in), one language per shot. White balance 4000K, teal-and-amber grade, 35mm, shallow depth of field, film grain, sea mist, golden-hour flare. Premium feel, precise lip-sync, no subtitles, no text overlays, hard cuts only, total 20 seconds.
+Кинематографичный хип-хоп / рэп-клип, фотореалистичное качество, премиальный тон, приморская обстановка. Построй кадр на основе @image1: группа выступает на пляже с золотым песком, где разбиваются волны — ведущий вокалист сжимает микрофон на стойке во влажном песке, один гитарист слева, другой справа, барабанщик сзади; за ними огромная береговая линия, накатывающие волны, тёплое солнце золотого часа мерцает на воде, морская дымка в воздухе. Лидер в красном спортивном костюме рэпует в камеру — губы и челюсть точно синхронизированы с каждым словом, голова бьёт в такт. Яркий, хлёсткий, быстрый, уверенный рэп. РЕЗКАЯ СКЛЕЙКА в такт, каждое переключение — двойной контраст (размер и тип плана меняются одновременно). Текст (лидер поёт «hello» на каждом языке по очереди, с точной синхронизацией губ): английский «Hello», китайский «你好», японский «こんにちは», корейский «안녕하세요», португальский «Olá», тайский «สวัสดี», испанский «Hola», арабский «مرحبا». 8 планов с резкой склейкой (широкий установочный план с нижнего ракурса; крупный план рэпа в камеру; макро-вставка гитарной струны; крадущаяся орбита 3/4; боковой проезд у кромки воды; наезд снизу вверх на барабанщика; плотный наезд на лидера; героический наезд на всю группу), один язык на план. Баланс белого 4000K, цветокоррекция teal-and-amber, 35mm, малая глубина резкости, плёночное зерно, морская дымка, блик золотого часа. Премиальное ощущение, точная синхронизация губ, без субтитров, без текстовых наложений, только резкие склейки, всего 20 секунд.
 ```
 
-### No. 7: Capsule Coffee Machine Setup Tutorial (6 refs)
+### No. 7: Урок по настройке капсульной кофемашины (6 референсов)
 
-- **Category:** `Reference-Guided Tutorial`
+- **Category:** `Урок по референсам`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ru`
@@ -271,17 +261,17 @@ Cinematic hip-hop / rap music video, photoreal quality, high-end tone, seaside s
 
 #### Description
 
-A 30-second setup-and-use tutorial for a capsule coffee machine, six reference-guided steps with voiceover — from installing the water tank to the first rinse.
+30-секундный урок по настройке и использованию капсульной кофемашины, шесть шагов с референсами и закадровым голосом — от установки резервуара для воды до первой промывки.
 
 #### Prompt
 
 ```text
-A 30-second tutorial video on installing and using a capsule coffee machine. 0-2s: the opening title card reads "seedance capsule coffee machine setup tutorial". 2-5s, Step 1: install the water tank, reference @image1, medium shot from a slightly high angle, rear of the machine body, align the water tank with the slot on the back of the body and push it straight down until it clicks firmly into place, clearly showing how the tank's bottom clips align with the body's slot, the water level line visible through the tank's transparent section, voiceover "First, install the water tank. Align the tank with the slot on the back of the machine; a click means it is locked in place.". 5-9s, Step 2: install the drip tray, reference @image2, close-up front view, front bottom of the body, slide the drip tray horizontally into the guide rails at the bottom until fully seated, voiceover "Next, install the drip tray. Align the tray with the bottom rails.". 9-13s, Step 3: install the used-capsule collection box, reference @image3, close-up from a slightly low angle, the cavity beneath the drip tray, align the collection box with the recess and push it in flush with the drip tray, voiceover "Then insert the capsule collection box. Used capsules will drop down here automatically.". 13-18s, Step 4: first fill with water, reference @image4, close-up side view, the water tank at the top/back of the body, open the tank lid and pour in clean water up to the MAX water level line, then close it, emphasizing the water level line, voiceover "Open the tank lid, pour in clean water, being careful not to exceed the maximum water level line, then close the tank lid.". 18-25s, Step 5: power on, reference @image5, medium shot front view, front of the body, plug in the power cord and press the power button; the indicator light goes from blinking to steady (preheating complete), voiceover "Connect the power and press the power button. The indicator light starts blinking, which means it is preheating. When the light turns steady, the machine is ready.". 25-30s, Step 6: first rinse (without a capsule), reference @image6, medium shot moving to a close-up front-side view, without inserting a capsule press the brew button directly so hot water flows out and rinses the lines, emphasizing the "no capsule needed" note, voiceover "The last step, the first rinse. Note that this step does not require a capsule; just press the brew button. Once the rinse is done, your coffee machine is ready to use."
+30-секундный обучающий ролик об установке и использовании капсульной кофемашины. 0-2s: вступительная заставка гласит «урок по настройке капсульной кофемашины seedance». 2-5s, Шаг 1: установите резервуар для воды, референс @image1, средний план с чуть верхнего ракурса, задняя часть корпуса машины, совместите резервуар для воды с пазом на задней стороне корпуса и вставьте его прямо вниз до чёткого щелчка, ясно показывая, как защёлки на дне резервуара совпадают с пазом корпуса, линия уровня воды видна через прозрачную часть резервуара, закадровый голос «Сначала установите резервуар для воды. Совместите резервуар с пазом на задней стороне машины; щелчок означает, что он зафиксирован на месте.». 5-9s, Шаг 2: установите поддон для капель, референс @image2, крупный план спереди, нижняя передняя часть корпуса, задвиньте поддон для капель горизонтально в направляющие внизу до полной посадки, закадровый голос «Далее установите поддон для капель. Совместите поддон с нижними направляющими.». 9-13s, Шаг 3: установите контейнер для использованных капсул, референс @image3, крупный план с чуть нижнего ракурса, полость под поддоном для капель, совместите контейнер с углублением и вставьте его вровень с поддоном для капель, закадровый голос «Затем вставьте контейнер для капсул. Использованные капсулы будут автоматически падать сюда.». 13-18s, Шаг 4: первое заполнение водой, референс @image4, крупный план сбоку, резервуар для воды сверху/сзади корпуса, откройте крышку резервуара и налейте чистую воду до линии уровня MAX, затем закройте её, подчёркивая линию уровня воды, закадровый голос «Откройте крышку резервуара, налейте чистую воду, стараясь не превысить максимальную линию уровня воды, затем закройте крышку резервуара.». 18-25s, Шаг 5: включение, референс @image5, средний план спереди, передняя часть корпуса, подключите шнур питания и нажмите кнопку питания; индикатор переходит от мигания к постоянному свечению (прогрев завершён), закадровый голос «Подключите питание и нажмите кнопку питания. Индикатор начинает мигать, что означает прогрев. Когда индикатор загорится ровно, машина готова.». 25-30s, Шаг 6: первая промывка (без капсулы), референс @image6, средний план, переходящий в крупный план спереди-сбоку, не вставляя капсулу, нажмите кнопку приготовления напрямую, чтобы вытекла горячая вода и промыла контуры, подчёркивая пометку «капсула не нужна», закадровый голос «Последний шаг — первая промывка. Обратите внимание, что для этого шага капсула не требуется; просто нажмите кнопку приготовления. Как только промывка завершится, ваша кофемашина готова к использованию.»
 ```
 
-### No. 8: Fruity Cookie Commercial (image + 6 video refs)
+### No. 8: Реклама фруктового печенья (изображение + 6 видеореференсов)
 
-- **Category:** `Multimodal Reference (image+video)`
+- **Category:** `Мультимодальный референс (изображение+видео)`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ru`
@@ -302,23 +292,23 @@ A 30-second tutorial video on installing and using a capsule coffee machine. 0-2
 
 #### Description
 
-A bright, colorful commercial for fruity cookies in four flavors — strawberry, apple, grape, orange — built from one image reference and six motion/camera video references, cut hard to a driving beat.
+Яркая, красочная реклама фруктового печенья четырёх вкусов — клубника, яблоко, виноград, апельсин — на основе одного референсного изображения и шести видеореференсов движения/камеры, с резкими склейками под напористый бит.
 
 #### Prompt
 
 ```text
-A bright, colorful commercial style with fruity cookies as the hero, in four flavors — strawberry, apple, grape, and orange; strawberry flavor reference @image1. The cookies and their matching fruits are arranged in a strongly ordered geometric array; the overall frame is clean, premium, and high-energy. It opens with the fruits orbiting rapidly around the central cookie to quickly establish visual focus — reference the composition of @video1 — cutting in on a strong musical beat. Then cookies of different flavors advance toward the lens along spiral paths, forming clear spatial depth — reference the motion and camera work of @video2 — switching colors and flavors on the beat with the background music. The array of cookies pans left and right with fast plane-to-plane cuts, strawberry, apple, grape, and orange flavors alternating as the frame jump-cuts quickly to the rhythm — reference the movement of @video3. The mid-section adds up-and-down panning; the neat cookie array rises and falls vertically like a machine — reference the movement of @video4 — highlighting the beauty of order and the richness of the product. In the climax a cookie is snapped in two and the moment enters slow motion as the fruity filling bursts open, crumbs scattering, the juicy sensation and grainy impact amplified — reference the explosion effect of @video5 — then quickly returns to the fast-paced edit. The ending brings in the English text "Fresh on Seedance, made for viral vision", entering word by word in quick succession with strong rhythmic text motion and a product freeze-frame — reference @video6 — the four cookie flavors lined up neatly with the fruits bouncing in sync for a final brand-forward close, the frame full of a young, energetic, delicious, shareable ad atmosphere.
+Яркий, красочный рекламный стиль, где героем выступает фруктовое печенье четырёх вкусов — клубничного, яблочного, виноградного и апельсинового; референс клубничного вкуса @image1. Печенье и подходящие к нему фрукты выстроены в строго упорядоченный геометрический массив; кадр в целом чистый, премиальный и энергичный. Начинается с фруктов, стремительно вращающихся вокруг центрального печенья, чтобы быстро задать визуальный фокус — опирайся на композицию @video1 — с врезкой на сильном музыкальном ударе. Затем печенье разных вкусов надвигается на объектив по спиральным траекториям, образуя чёткую пространственную глубину — опирайся на движение и работу камеры из @video2 — меняя цвета и вкусы в такт фоновой музыке. Массив печенья панорамируется влево и вправо быстрыми склейками с плана на план, клубничный, яблочный, виноградный и апельсиновый вкусы чередуются, пока кадр быстро прыжками сменяется в ритм — опирайся на движение из @video3. Средняя часть добавляет панорамирование вверх и вниз; аккуратный массив печенья поднимается и опускается вертикально, как машина — опирайся на движение из @video4 — подчёркивая красоту порядка и богатство продукта. В кульминации печенье разламывается надвое, и момент переходит в замедленную съёмку, когда фруктовая начинка вырывается наружу, крошки разлетаются, сочность и зернистый удар усиливаются — опирайся на эффект взрыва из @video5 — затем быстро возвращается динамичный монтаж. Финал вводит текст «Свежее на Seedance, создано для вирусного видения», появляющийся слово за словом в быстрой последовательности с мощной ритмичной анимацией текста и стоп-кадром продукта — опирайся на @video6 — четыре вкуса печенья выстроены аккуратно в ряд, а фрукты подпрыгивают синхронно в финальном, ярко брендовом кадре, кадр наполнен молодой, энергичной, аппетитной атмосферой рекламы, которой хочется поделиться.
 ```
 
 ## 📋 All Prompts
 
 <a id="category-1"></a>
 
-### Match-Cut & Creative Effects (1)
+### Match-cut и креативные эффекты (1)
 
-### No. 1: Crystal Ball Match-Cut Beat Film
+### No. 1: Ритмичный match-cut-фильм с хрустальным шаром
 
-- **Category:** `Match-Cut & Creative Effects`
+- **Category:** `Match-cut и креативные эффекты`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ru`
@@ -329,21 +319,21 @@ A bright, colorful commercial style with fruity cookies as the hero, in four fla
 
 #### Description
 
-A beat-synced match-cut film: one crystal ball etched with a glowing 'seedance' logo stays centered while eight scenes cut seamlessly behind it.
+Match-cut-фильм, синхронизированный с битом: один хрустальный шар с выгравированным светящимся логотипом «seedance» остаётся в центре, пока за ним бесшовно сменяются восемь сцен.
 
 #### Prompt
 
 ```text
-A fast-paced, cinematic Match-cut short film synced to a driving electronic beat. A flawless crystal ball stays fixed dead-center throughout, a glowing "seedance" logo etched inside it. The ball holds razor-sharp focus while, on every strong musical beat, the background match-cuts seamlessly: Scene 1: macro close-up, cinematic water splashing around the ball, refracting intricate light. Scene 2: a vintage morning cafe, the ball on a raw-wood table, rising coffee steam and blurred commuters beyond the window. Scene 3: golden-hour dusk, a skater youth tosses and catches the ball one-handed, street racing backward behind them in gorgeous backlit sunset. Scene 4: a frenzied music festival, hands raise the ball high, refracting dazzling stage lasers. Scene 5: a lively family party table, the ball resting center-frame, blurred figures toasting and reaching for food. Scene 6: a dim cinema, hands cupping the ball as the giant screen's faint glow drifts across its surface. Scene 7: the ball on a violently vibrating speaker diaphragm, match-cutting on the climax to a spinning DJ turntable center. Scene 8: an outdoor camping night, background becoming warm bonfire and swaying string-light bokeh. Finale: on the final downbeat the ball is hurled up out of frame; cut to pure black, a minimal white-on-black "seedance" appearing dead-center. Beat-synced match-cut editing, top-tier cinematic color grading, photoreal glass refraction, ray tracing, global illumination. Subject razor-sharp, background heavy motion blur.
+Динамичный кинематографичный короткометражный match-cut-фильм, синхронизированный с напористым электронным битом. Безупречный хрустальный шар всё время остаётся строго в центре кадра, внутри него светится выгравированный логотип «seedance». Шар держит бритвенно-острый фокус, а на каждом сильном музыкальном ударе фон бесшовно сменяется приёмом match-cut: Сцена 1: макро-крупный план, кинематографичная вода разбрызгивается вокруг шара, преломляя замысловатый свет. Сцена 2: винтажное утреннее кафе, шар на столе из необработанного дерева, поднимающийся пар от кофе и размытые прохожие за окном. Сцена 3: сумерки золотого часа, юный скейтер подбрасывает и ловит шар одной рукой, а позади него улица мчится назад в роскошном контровом свете заката. Сцена 4: неистовый музыкальный фестиваль, руки высоко поднимают шар, преломляя ослепительные сценические лазеры. Сцена 5: оживлённый стол семейной вечеринки, шар покоится в центре кадра, размытые фигуры чокаются и тянутся за едой. Сцена 6: тёмный кинозал, ладони обхватывают шар, пока по его поверхности скользит слабое свечение огромного экрана. Сцена 7: шар на бешено вибрирующей мембране динамика, на кульминации match-cut к вращающемуся в центре диджейскому проигрывателю. Сцена 8: ночёвка на природе под открытым небом, фон превращается в тёплый костёр и покачивающееся боке гирлянд. Финал: на последнем сильном ударе шар подбрасывается вверх за пределы кадра; склейка в абсолютно чёрный экран, минималистичное белое «seedance» на чёрном появляется строго в центре. Монтаж match-cut в такт биту, первоклассная кинематографичная цветокоррекция, фотореалистичное преломление света в стекле, трассировка лучей, глобальное освещение. Объект бритвенно-острый, фон с сильным смазом движения.
 ```
 
 <a id="category-2"></a>
 
-### One-Take Cinematography (6)
+### Съёмка одним дублем (1)
 
-### No. 1: Steampunk Clockwork — 30s One-Take
+### No. 1: Стимпанк-часовой механизм — 30-секундный дубль
 
-- **Category:** `One-Take Cinematography`
+- **Category:** `Съёмка одним дублем`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ru`
@@ -354,126 +344,21 @@ A fast-paced, cinematic Match-cut short film synced to a driving electronic beat
 
 #### Description
 
-A 30-second steampunk miniature 3D sequence with continuous orbiting, pass-through camera moves.
+30-секундная стимпанк-миниатюра в 3D с непрерывными орбитальными пролётами камеры сквозь объекты.
 
 #### Prompt
 
 ```text
-A high-end, deeply cinematic 30-second 3D motion-graphics sequence in refined steampunk and vintage-miniature style, with continuous fluid orbiting and pass-through camera moves. [0-10s] Macro close-up of an antique brass clock face that unfolds layer by layer into meshing rotating gear rings and volumetric fog. The camera pierces down through the gears; a mechanical ornithopter spirals up from a miniature canyon of stacked weathered old books. [10-20s] The camera glides forward tracking the ornithopter, seamlessly passing into a fast-spinning ornate brass zoetrope projecting galloping mechanical-horse light. The light leaps out and the scene becomes a brass floating cable car on glimmering copper rails through a forest of gears, bathed in cinematic golden-hour light. [20-30s] The camera pans elegantly down; below appears an exquisite clockwork wooden sailing ship cutting deep-blue glass-textured waves, which morph into a glowing giant moon with lantern-holding explorer silhouettes trekking a crystal-vein ridge under stars. The camera spirals smoothly back through ethereal clouds to the ticking brass clock face. Hyper-real mechanical textures, rich brass and gold tones, cinematic shallow depth of field, smooth seamless pass-through camerawork, epic fantastical adventure atmosphere.
-```
-
-### No. 2: POV американских горок
-
-- **Category:** `One-Take Cinematography`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/fabf98a8-432c-479a-bcd3-3736677190b2.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/fabf98a8-432c-479a-bcd3-3736677190b2.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/47)
-
-#### Description
-
-Эффектный first-person заезд с нарастающей скоростью и манёврами.
-
-#### Prompt
-
-```text
-Сгенерируй сцену: Эффектный first-person заезд с нарастающей скоростью и манёврами.
-```
-
-### No. 3: Уютная чайная сцена в домике
-
-- **Category:** `One-Take Cinematography`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d1d1c955-c271-44ba-bd3e-1537e33a2e29.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d1d1c955-c271-44ba-bd3e-1537e33a2e29.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/46)
-
-#### Description
-
-Субъективный проход в уютный интерьер без монтажных склеек.
-
-#### Prompt
-
-```text
-Сгенерируй сцену: Субъективный проход в уютный интерьер без монтажных склеек.
-```
-
-### No. 4: Шпионский триллер одним дублем
-
-- **Category:** `One-Take Cinematography`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/873ead10-156a-4f5f-aafc-1a0a743c3ef7.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/873ead10-156a-4f5f-aafc-1a0a743c3ef7.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/45)
-
-#### Description
-
-Напряжённая шпионская погоня в формате непрерывного дубля.
-
-#### Prompt
-
-```text
-Сгенерируй сцену: Напряжённая шпионская погоня в формате непрерывного дубля.
-```
-
-### No. 5: Сон с мороженым из иллюминатора
-
-- **Category:** `One-Take Cinematography`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/3421ca69-533f-4ef7-aef2-2aabad3d53fe.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/3421ca69-533f-4ef7-aef2-2aabad3d53fe.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/44)
-
-#### Description
-
-Сюрреалистический one-take от окна самолёта к фантазийному превращению.
-
-#### Prompt
-
-```text
-Сгенерируй сцену: Сюрреалистический one-take от окна самолёта к фантазийному превращению.
-```
-
-### No. 6: Паркур-погоня одним дублем
-
-- **Category:** `One-Take Cinematography`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c8b0a7bb-eae5-417f-bf63-e3a114a1364f.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/c8b0a7bb-eae5-417f-bf63-e3a114a1364f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/43)
-
-#### Description
-
-Динамичный непрерывный дубль с перемещением через несколько локаций.
-
-#### Prompt
-
-```text
-Сгенерируй сцену: Динамичный непрерывный дубль с перемещением через несколько локаций.
+Высококлассная, глубоко кинематографичная 30-секундная 3D-секвенция моушн-графики в утончённом стиле стимпанк и винтажной миниатюры, с непрерывными плавными орбитальными пролётами камеры сквозь объекты. [0-10s] Макро-крупный план старинного латунного циферблата, который слой за слоем разворачивается в сцепляющиеся вращающиеся кольца шестерён и объёмный туман. Камера пробивается вниз сквозь шестерни; механический орнитоптер по спирали взмывает вверх из миниатюрного каньона сложенных стопкой обветшалых старых книг. [10-20s] Камера скользит вперёд, следуя за орнитоптером, и бесшовно проникает в быстро вращающийся, богато украшенный латунный зоотроп, проецирующий свет скачущих механических лошадей. Свет выпрыгивает наружу, и сцена превращается в латунную парящую канатную дорогу на мерцающих медных рельсах, идущую сквозь лес шестерён, залитую кинематографичным светом золотого часа. [20-30s] Камера изящно опускается вниз; внизу появляется изысканный часовой деревянный парусник, рассекающий тёмно-синие волны со стеклянной текстурой, которые превращаются в светящуюся гигантскую луну с силуэтами исследователей с фонарями, идущих по гребню с кристаллическими прожилками под звёздами. Камера плавно по спирали возвращается сквозь эфирные облака к тикающему латунному циферблату. Гиперреалистичные механические текстуры, богатые латунные и золотые тона, кинематографичная малая глубина резкости, плавная бесшовная работа камеры сквозь объекты, эпическая, сказочная атмосфера приключения.
 ```
 
 <a id="category-3"></a>
 
-### Multi-Image Reference (3)
+### Несколько референсных изображений (3)
 
-### No. 1: Windows Through Worlds (5 refs)
+### No. 1: Окна в другие миры (5 референсов)
 
-- **Category:** `Multi-Image Reference`
+- **Category:** `Несколько референсных изображений`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ru`
@@ -492,17 +377,17 @@ A high-end, deeply cinematic 30-second 3D motion-graphics sequence in refined st
 
 #### Description
 
-A brand concept short driven by 5 reference images, gliding through windows into different worlds.
+Концептуальный бренд-ролик на основе 5 референсных изображений, скользящий сквозь окна в разные миры.
 
 #### Prompt
 
 ```text
-A cinematic brand concept short. @image1 is the first frame; the picture trembles slightly, the camera pushes in to tree shadows rushing backward outside the window, their retreat accelerating, then abruptly cuts to @image2, speed easing as the camera glides slowly along a stream, birdsong and blossoms. The camera drops underwater — bubble sounds — as orange jellyfish drift gracefully past the lens @image3; the camera pulls back as small fish flit past and swim from the water into the window @image4, a girl looking around, watching them. The camera pulls back, defocuses, then refocuses sharp, switching to the music's rhythm: a Chinese-garden lattice window @image5 with light circling, church stained glass, an airplane porthole, a dome skylight, a bay window, louver blinds, a European dormer, a door peephole, a camera viewfinder, a bird's eye, a human eye close-up. It settles on the human eye; the eye closes, screen black, then suddenly opens — "seedance" appearing in the center of the eye on the accent beat.
+Кинематографичный концептуальный бренд-ролик. @image1 — это первый кадр; изображение слегка дрожит, камера наезжает на тени деревьев, проносящиеся назад за окном, их удаление ускоряется, затем резкая склейка на @image2, скорость смягчается, пока камера медленно скользит вдоль ручья, пение птиц и цветы. Камера опускается под воду — звуки пузырьков — пока оранжевые медузы грациозно проплывают мимо объектива @image3; камера отъезжает, когда маленькие рыбки мелькают мимо и выплывают из воды в окно @image4, девочка оглядывается, наблюдая за ними. Камера отъезжает, расфокусируется, затем снова наводит резкость, переключаясь в ритм музыки: решётчатое окно китайского сада @image5, вокруг которого кружит свет, церковный витраж, иллюминатор самолёта, купольный световой люк, эркер, ламельные жалюзи, европейское мансардное окно, дверной глазок, видоискатель камеры, птичий глаз, крупный план человеческого глаза. Кадр останавливается на человеческом глазу; глаз закрывается, экран чернеет, затем внезапно открывается — «seedance» появляется в центре глаза на акцентном ударе.
 ```
 
-### No. 2: One-Take Through Six Rooms (8 refs)
+### No. 2: Один дубль сквозь шесть комнат (8 референсов)
 
-- **Category:** `Multi-Image Reference`
+- **Category:** `Несколько референсных изображений`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ru`
@@ -524,17 +409,17 @@ A cinematic brand concept short. @image1 is the first frame; the picture tremble
 
 #### Description
 
-One continuous take following a figure through six mood-shifting rooms, driven by 8 reference images.
+Один непрерывный дубль, следующий за фигурой через шесть комнат с меняющимся настроением, на основе 8 референсных изображений.
 
 #### Prompt
 
 ```text
-One continuous take. The camera smoothly follows a person in a black coat (reference @image1) moving left to right through six connected rooms of different tones and moods. Every room shares the same structure: white walls, light herringbone wood floor, French floor-to-ceiling windows, white sheer curtains (reference @image2) but the outside view and mood differ each time. The protagonist walks at a constant pace, passing through every open door. 0-5s room one, American-comic fight: the protagonist fights a character (@image3), who is defeated; 5-10s room two, warmth, felt-craft style, window view a sunflower field (@image4), warm-orange soft light, a painter painting sunflowers (@image5), the protagonist turning felt-style on entering; 10-15s room three, sorrow, black-and-white comic stop-motion, rain outside, cold-grey light, a person alone on the floor hugging their knees, a phone glowing with an unanswered call; on entering, the light blinks off then on, the room turns color, flowers bursting into bloom; 15-20s room four, joy, a room submerged in the sea (reference @image6), the protagonist turning transparent among coral and fish; 20-25s room five, surprise, window view a sky of fireworks (reference @image7), colorful flickering light, the protagonist swept up in a cheering crowd; 25-30s a blank white room, the protagonist snaps their fingers — snap SFX — frame goes black, "seedance" in the middle (reference @image8). Cinematic quality, high-fashion advertising style, lighting entirely determined by the window views for strong emotional contrast, no text in frame.
+Один непрерывный дубль. Камера плавно следует за человеком в чёрном пальто (референс @image1), движущимся слева направо через шесть соединённых комнат разных тонов и настроений. Все комнаты имеют одинаковую структуру: белые стены, светлый деревянный пол «ёлочкой», французские окна от пола до потолка, белые лёгкие тюлевые занавески (референс @image2), но вид за окном и настроение каждый раз разные. Главный герой идёт в постоянном темпе, проходя через каждую открытую дверь. 0-5s комната первая, драка в стиле американского комикса: герой сражается с персонажем (@image3), который повержен; 5-10s комната вторая, тепло, стиль фетрового рукоделия, за окном поле подсолнухов (@image4), тёплый оранжевый мягкий свет, художник, рисующий подсолнухи (@image5), герой при входе превращается в фетровый стиль; 10-15s комната третья, печаль, чёрно-белая комиксовая покадровая анимация, за окном дождь, холодный серый свет, человек одиноко сидит на полу, обняв колени, телефон светится пропущенным звонком; при входе свет мигает и снова загорается, комната обретает цвет, цветы распускаются; 15-20s комната четвёртая, радость, комната, погружённая в море (референс @image6), герой становится прозрачным среди кораллов и рыб; 20-25s комната пятая, удивление, за окном небо в фейерверках (референс @image7), красочный мерцающий свет, героя подхватывает ликующая толпа; 25-30s пустая белая комната, герой щёлкает пальцами — звук щелчка — кадр чернеет, «seedance» в центре (референс @image8). Кинематографичное качество, стиль высокой моды в рекламе, освещение полностью задаётся видами из окон для сильного эмоционального контраста, без текста в кадре.
 ```
 
-### No. 3: Multilingual Hip-Hop 'Hello' MV
+### No. 3: Многоязычный хип-хоп-клип «Hello»
 
-- **Category:** `Multi-Image Reference`
+- **Category:** `Несколько референсных изображений`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ru`
@@ -549,21 +434,21 @@ One continuous take. The camera smoothly follows a person in a black coat (refer
 
 #### Description
 
-A seaside hip-hop MV built from one reference image; the lead raps 'hello' in 8 languages, lip-synced, hard cuts on the beat.
+Приморский хип-хоп-клип на основе одного референсного изображения; лидер рэпует «hello» на 8 языках с синхронизацией губ и резкими склейками в такт.
 
 #### Prompt
 
 ```text
-Cinematic hip-hop / rap music video, photoreal quality, high-end tone, seaside setting. Build the frame from @image1: a band performs at a golden sand beach with crashing waves — a lead vocalist gripping a mic on a stand in the wet sand, one guitarist left, one right, a drummer at the back; a vast coastline behind, rolling waves, a warm golden-hour sun shimmering on the water, sea mist in the air. The lead in a red tracksuit raps to camera — lips and jaw precisely synced to every word, head punching to the beat. Bright, punchy, fast, confident rap. HARD CUT on the beat, each switch a double contrast (shot size and type change together). Lyrics (the lead sings 'hello' in each language in turn, precisely lip-synced): English "Hello", Chinese "你好", Japanese "こんにちは", Korean "안녕하세요", Portuguese "Olá", Thai "สวัสดี", Spanish "Hola", Arabic "مرحبا". 8 hard-cut shots (low-angle wide establishing; close-up rap to camera; macro guitar-string insert; 3/4 prowling orbit; lateral track at shore; drummer tilt-up; tight push on the lead; heroic full-band push-in), one language per shot. White balance 4000K, teal-and-amber grade, 35mm, shallow depth of field, film grain, sea mist, golden-hour flare. Premium feel, precise lip-sync, no subtitles, no text overlays, hard cuts only, total 20 seconds.
+Кинематографичный хип-хоп / рэп-клип, фотореалистичное качество, премиальный тон, приморская обстановка. Построй кадр на основе @image1: группа выступает на пляже с золотым песком, где разбиваются волны — ведущий вокалист сжимает микрофон на стойке во влажном песке, один гитарист слева, другой справа, барабанщик сзади; за ними огромная береговая линия, накатывающие волны, тёплое солнце золотого часа мерцает на воде, морская дымка в воздухе. Лидер в красном спортивном костюме рэпует в камеру — губы и челюсть точно синхронизированы с каждым словом, голова бьёт в такт. Яркий, хлёсткий, быстрый, уверенный рэп. РЕЗКАЯ СКЛЕЙКА в такт, каждое переключение — двойной контраст (размер и тип плана меняются одновременно). Текст (лидер поёт «hello» на каждом языке по очереди, с точной синхронизацией губ): английский «Hello», китайский «你好», японский «こんにちは», корейский «안녕하세요», португальский «Olá», тайский «สวัสดี», испанский «Hola», арабский «مرحبا». 8 планов с резкой склейкой (широкий установочный план с нижнего ракурса; крупный план рэпа в камеру; макро-вставка гитарной струны; крадущаяся орбита 3/4; боковой проезд у кромки воды; наезд снизу вверх на барабанщика; плотный наезд на лидера; героический наезд на всю группу), один язык на план. Баланс белого 4000K, цветокоррекция teal-and-amber, 35mm, малая глубина резкости, плёночное зерно, морская дымка, блик золотого часа. Премиальное ощущение, точная синхронизация губ, без субтитров, без текстовых наложений, только резкие склейки, всего 20 секунд.
 ```
 
 <a id="category-4"></a>
 
-### Video Editing (2)
+### Монтаж видео (2)
 
-### No. 1: Video Edit — Remove All But the Lead
+### No. 1: Монтаж видео — убрать всех, кроме главного героя
 
-- **Category:** `Video Editing`
+- **Category:** `Монтаж видео`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ru`
@@ -578,17 +463,17 @@ Cinematic hip-hop / rap music video, photoreal quality, high-end tone, seaside s
 
 #### Description
 
-Reference-video editing: erase everyone except the protagonist from a source clip.
+Монтаж на основе референсного видео: стереть из исходного клипа всех, кроме главного героя.
 
 #### Prompt
 
 ```text
-Video editing: remove everyone in @video1 except the protagonist.
+Монтаж видео: убрать в @video1 всех, кроме главного героя.
 ```
 
-### No. 2: Steam Train Bursts the Screen (video edit)
+### No. 2: Паровоз пробивает экран (монтаж видео)
 
-- **Category:** `Video Editing`
+- **Category:** `Монтаж видео`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ru`
@@ -603,21 +488,21 @@ Video editing: remove everyone in @video1 except the protagonist.
 
 #### Description
 
-A video edit that keeps the original @video1 old-cinema clip intact and adds only a steam locomotive bursting through the screen, tearing the fabric, with black-and-white snapping to full color at the moment of impact.
+Монтаж видео, который сохраняет исходный старый киноклип @video1 нетронутым и добавляет лишь паровоз, пробивающийся сквозь экран, разрывая полотно, с переходом чёрно-белого в полный цвет в момент удара.
 
 #### Prompt
 
 ```text
-Hyper-real cinematic realist style with photorealistic live-action texture, emphasizing the real-world plausibility of the physical object bursting out (the steam train); no CGI gloss / game engine / stylized 3D. Preserve @video1's original composition, projection-hall lighting, handheld camera state and natural imperfections. Source video locked: keep @video1 fully intact as the base image (the old-fashioned projection hall, the rows of hat-wearing audience seen from behind, the projector's conical beam, the screen, the ambient light, the color tone and the handheld movement all unchanged); the only additions: the train bursting out of the screen, the changes in light and shadow it brings, the tearing of the screen, and the slight physical impact on the hall and the front-row audience. Color-shift rule (the core addition): at the start strictly keep @video1's original black-and-white old-film texture (grain / scratches / flicker / monochrome); at the exact moment the locomotive truly breaks through the screen and bursts into reality, the image abruptly shifts from black-and-white to full, real color, the color spreading across the whole frame like a shockwave centered on the point where the train breaks out (the train's black steel body, the red-copper boiler, the orange-yellow steam-lamp glow, the warm brown of the wooden carriage, the white-grey steam, and the warm brown of the projection hall all coming into color accordingly); the color shift is precisely synchronized with the screen-breaking burst, after which photorealistic color is maintained to the end. Screen-tearing locked: the screen is a real white projection cloth with genuine fabric tension; as the train bursts out it is forcibly torn open along the contour of the locomotive's front, with radial rips whose edges curl back and shredded cloth fibers flying. Subject: an old-fashioned steam locomotive front bursting forcibly out of the screen, a black steel body, a cylindrical boiler, a front cowcatcher, a chimney venting white-grey steam, a bright headlamp, the metal surfaces with real wear, oil grime, rivets and wet reflections, charging forward with immense weight and inertia. Camera: fully inherits @video1's original handheld movement, not smoothed, not re-timed, not re-composed; the bursting train stays correctly locked into the screen and the hall space at all times, maintaining correct parallax, occlusion and ground-contact shadow. Sound: no music, keep only real on-scene sound effects, inheriting @video1's projection-hall ambience (the projector's clatter, the audience's stirring) and adding the sound of the cloth tearing, steam gushing, the mechanical roar of steel wheels, and the impact air blast. Total duration exactly the same as @video1; add nothing other than the train itself and its physical interactions, the screen tearing, and the color shift at the moment of the break. No slow motion, no sense of magic, no stylized horror; the final result should look like an eerie yet real image of "a train smashing through the screen, black-and-white instantly turning to color" captured by chance by a real camera in an old projection hall.
+Гиперреалистичный кинематографичный реалистический стиль с фотореалистичной фактурой живой съёмки, подчёркивающий правдоподобие вырывающегося физического объекта (паровоза) в реальном мире; без глянца CGI / игрового движка / стилизованного 3D. Сохрани исходную композицию @video1, освещение проекционного зала, состояние ручной камеры и естественные несовершенства. Исходное видео зафиксировано: сохрани @video1 полностью нетронутым как базовое изображение (старомодный проекционный зал, ряды зрителей в шляпах, видимые со спины, конический луч проектора, экран, окружающий свет, цветовой тон и ручное движение — всё без изменений); единственные добавления: поезд, вырывающийся из экрана, вызванные им изменения света и тени, разрыв экрана и лёгкое физическое воздействие на зал и зрителей первого ряда. Правило смены цвета (ключевое добавление): в начале строго сохрани оригинальную чёрно-белую фактуру старой плёнки из @video1 (зерно / царапины / мерцание / монохром); в точный момент, когда локомотив по-настоящему прорывается сквозь экран и вырывается в реальность, изображение резко переходит из чёрно-белого в полный, настоящий цвет, и цвет распространяется по всему кадру, как ударная волна, с эпицентром в точке прорыва поезда (чёрный стальной корпус поезда, красно-медный котёл, оранжево-жёлтое свечение паровой лампы, тёплый коричневый деревянного вагона, бело-серый пар и тёплый коричневый проекционного зала соответственно обретают цвет); смена цвета точно синхронизирована с моментом прорыва экрана, после чего фотореалистичный цвет сохраняется до конца. Разрыв экрана зафиксирован: экран — это настоящее белое проекционное полотно с подлинным натяжением ткани; когда поезд вырывается, оно с силой разрывается по контуру передней части локомотива, с радиальными разрывами, края которых загибаются, а изорванные волокна ткани разлетаются. Объект: передняя часть старомодного парового локомотива, с силой вырывающаяся из экрана, чёрный стальной корпус, цилиндрический котёл, передний скотосбрасыватель, труба, выпускающая бело-серый пар, яркий прожектор, металлические поверхности с настоящим износом, масляной грязью, заклёпками и мокрыми отражениями, несущаяся вперёд с огромной массой и инерцией. Камера: полностью наследует оригинальное ручное движение из @video1, не сглаженное, не перетаймированное, не перекомпонованное; вырывающийся поезд всё время остаётся корректно вписанным в экран и пространство зала, сохраняя правильный параллакс, перекрытие и контактную тень с землёй. Звук: без музыки, сохрани только настоящие звуковые эффекты с площадки, унаследовав атмосферу проекционного зала из @video1 (стрекот проектора, шевеление зрителей) и добавив звук разрываемой ткани, вырывающегося пара, механический рёв стальных колёс и воздушный удар от столкновения. Общая длительность точно такая же, как у @video1; не добавляй ничего, кроме самого поезда и его физических взаимодействий, разрыва экрана и смены цвета в момент прорыва. Без замедленной съёмки, без ощущения магии, без стилизованного хоррора; итоговый результат должен выглядеть как жуткое, но реальное изображение «поезда, пробивающего экран, где чёрно-белое мгновенно становится цветным», случайно снятое настоящей камерой в старом проекционном зале.
 ```
 
 <a id="category-5"></a>
 
-### Reference-Guided Tutorial (1)
+### Урок по референсам (1)
 
-### No. 1: Capsule Coffee Machine Setup Tutorial (6 refs)
+### No. 1: Урок по настройке капсульной кофемашины (6 референсов)
 
-- **Category:** `Reference-Guided Tutorial`
+- **Category:** `Урок по референсам`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ru`
@@ -637,21 +522,21 @@ Hyper-real cinematic realist style with photorealistic live-action texture, emph
 
 #### Description
 
-A 30-second setup-and-use tutorial for a capsule coffee machine, six reference-guided steps with voiceover — from installing the water tank to the first rinse.
+30-секундный урок по настройке и использованию капсульной кофемашины, шесть шагов с референсами и закадровым голосом — от установки резервуара для воды до первой промывки.
 
 #### Prompt
 
 ```text
-A 30-second tutorial video on installing and using a capsule coffee machine. 0-2s: the opening title card reads "seedance capsule coffee machine setup tutorial". 2-5s, Step 1: install the water tank, reference @image1, medium shot from a slightly high angle, rear of the machine body, align the water tank with the slot on the back of the body and push it straight down until it clicks firmly into place, clearly showing how the tank's bottom clips align with the body's slot, the water level line visible through the tank's transparent section, voiceover "First, install the water tank. Align the tank with the slot on the back of the machine; a click means it is locked in place.". 5-9s, Step 2: install the drip tray, reference @image2, close-up front view, front bottom of the body, slide the drip tray horizontally into the guide rails at the bottom until fully seated, voiceover "Next, install the drip tray. Align the tray with the bottom rails.". 9-13s, Step 3: install the used-capsule collection box, reference @image3, close-up from a slightly low angle, the cavity beneath the drip tray, align the collection box with the recess and push it in flush with the drip tray, voiceover "Then insert the capsule collection box. Used capsules will drop down here automatically.". 13-18s, Step 4: first fill with water, reference @image4, close-up side view, the water tank at the top/back of the body, open the tank lid and pour in clean water up to the MAX water level line, then close it, emphasizing the water level line, voiceover "Open the tank lid, pour in clean water, being careful not to exceed the maximum water level line, then close the tank lid.". 18-25s, Step 5: power on, reference @image5, medium shot front view, front of the body, plug in the power cord and press the power button; the indicator light goes from blinking to steady (preheating complete), voiceover "Connect the power and press the power button. The indicator light starts blinking, which means it is preheating. When the light turns steady, the machine is ready.". 25-30s, Step 6: first rinse (without a capsule), reference @image6, medium shot moving to a close-up front-side view, without inserting a capsule press the brew button directly so hot water flows out and rinses the lines, emphasizing the "no capsule needed" note, voiceover "The last step, the first rinse. Note that this step does not require a capsule; just press the brew button. Once the rinse is done, your coffee machine is ready to use."
+30-секундный обучающий ролик об установке и использовании капсульной кофемашины. 0-2s: вступительная заставка гласит «урок по настройке капсульной кофемашины seedance». 2-5s, Шаг 1: установите резервуар для воды, референс @image1, средний план с чуть верхнего ракурса, задняя часть корпуса машины, совместите резервуар для воды с пазом на задней стороне корпуса и вставьте его прямо вниз до чёткого щелчка, ясно показывая, как защёлки на дне резервуара совпадают с пазом корпуса, линия уровня воды видна через прозрачную часть резервуара, закадровый голос «Сначала установите резервуар для воды. Совместите резервуар с пазом на задней стороне машины; щелчок означает, что он зафиксирован на месте.». 5-9s, Шаг 2: установите поддон для капель, референс @image2, крупный план спереди, нижняя передняя часть корпуса, задвиньте поддон для капель горизонтально в направляющие внизу до полной посадки, закадровый голос «Далее установите поддон для капель. Совместите поддон с нижними направляющими.». 9-13s, Шаг 3: установите контейнер для использованных капсул, референс @image3, крупный план с чуть нижнего ракурса, полость под поддоном для капель, совместите контейнер с углублением и вставьте его вровень с поддоном для капель, закадровый голос «Затем вставьте контейнер для капсул. Использованные капсулы будут автоматически падать сюда.». 13-18s, Шаг 4: первое заполнение водой, референс @image4, крупный план сбоку, резервуар для воды сверху/сзади корпуса, откройте крышку резервуара и налейте чистую воду до линии уровня MAX, затем закройте её, подчёркивая линию уровня воды, закадровый голос «Откройте крышку резервуара, налейте чистую воду, стараясь не превысить максимальную линию уровня воды, затем закройте крышку резервуара.». 18-25s, Шаг 5: включение, референс @image5, средний план спереди, передняя часть корпуса, подключите шнур питания и нажмите кнопку питания; индикатор переходит от мигания к постоянному свечению (прогрев завершён), закадровый голос «Подключите питание и нажмите кнопку питания. Индикатор начинает мигать, что означает прогрев. Когда индикатор загорится ровно, машина готова.». 25-30s, Шаг 6: первая промывка (без капсулы), референс @image6, средний план, переходящий в крупный план спереди-сбоку, не вставляя капсулу, нажмите кнопку приготовления напрямую, чтобы вытекла горячая вода и промыла контуры, подчёркивая пометку «капсула не нужна», закадровый голос «Последний шаг — первая промывка. Обратите внимание, что для этого шага капсула не требуется; просто нажмите кнопку приготовления. Как только промывка завершится, ваша кофемашина готова к использованию.»
 ```
 
 <a id="category-6"></a>
 
-### Multimodal Reference (image+video) (1)
+### Мультимодальный референс (изображение+видео) (1)
 
-### No. 1: Fruity Cookie Commercial (image + 6 video refs)
+### No. 1: Реклама фруктового печенья (изображение + 6 видеореференсов)
 
-- **Category:** `Multimodal Reference (image+video)`
+- **Category:** `Мультимодальный референс (изображение+видео)`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ru`
@@ -672,21 +557,21 @@ A 30-second tutorial video on installing and using a capsule coffee machine. 0-2
 
 #### Description
 
-A bright, colorful commercial for fruity cookies in four flavors — strawberry, apple, grape, orange — built from one image reference and six motion/camera video references, cut hard to a driving beat.
+Яркая, красочная реклама фруктового печенья четырёх вкусов — клубника, яблоко, виноград, апельсин — на основе одного референсного изображения и шести видеореференсов движения/камеры, с резкими склейками под напористый бит.
 
 #### Prompt
 
 ```text
-A bright, colorful commercial style with fruity cookies as the hero, in four flavors — strawberry, apple, grape, and orange; strawberry flavor reference @image1. The cookies and their matching fruits are arranged in a strongly ordered geometric array; the overall frame is clean, premium, and high-energy. It opens with the fruits orbiting rapidly around the central cookie to quickly establish visual focus — reference the composition of @video1 — cutting in on a strong musical beat. Then cookies of different flavors advance toward the lens along spiral paths, forming clear spatial depth — reference the motion and camera work of @video2 — switching colors and flavors on the beat with the background music. The array of cookies pans left and right with fast plane-to-plane cuts, strawberry, apple, grape, and orange flavors alternating as the frame jump-cuts quickly to the rhythm — reference the movement of @video3. The mid-section adds up-and-down panning; the neat cookie array rises and falls vertically like a machine — reference the movement of @video4 — highlighting the beauty of order and the richness of the product. In the climax a cookie is snapped in two and the moment enters slow motion as the fruity filling bursts open, crumbs scattering, the juicy sensation and grainy impact amplified — reference the explosion effect of @video5 — then quickly returns to the fast-paced edit. The ending brings in the English text "Fresh on Seedance, made for viral vision", entering word by word in quick succession with strong rhythmic text motion and a product freeze-frame — reference @video6 — the four cookie flavors lined up neatly with the fruits bouncing in sync for a final brand-forward close, the frame full of a young, energetic, delicious, shareable ad atmosphere.
+Яркий, красочный рекламный стиль, где героем выступает фруктовое печенье четырёх вкусов — клубничного, яблочного, виноградного и апельсинового; референс клубничного вкуса @image1. Печенье и подходящие к нему фрукты выстроены в строго упорядоченный геометрический массив; кадр в целом чистый, премиальный и энергичный. Начинается с фруктов, стремительно вращающихся вокруг центрального печенья, чтобы быстро задать визуальный фокус — опирайся на композицию @video1 — с врезкой на сильном музыкальном ударе. Затем печенье разных вкусов надвигается на объектив по спиральным траекториям, образуя чёткую пространственную глубину — опирайся на движение и работу камеры из @video2 — меняя цвета и вкусы в такт фоновой музыке. Массив печенья панорамируется влево и вправо быстрыми склейками с плана на план, клубничный, яблочный, виноградный и апельсиновый вкусы чередуются, пока кадр быстро прыжками сменяется в ритм — опирайся на движение из @video3. Средняя часть добавляет панорамирование вверх и вниз; аккуратный массив печенья поднимается и опускается вертикально, как машина — опирайся на движение из @video4 — подчёркивая красоту порядка и богатство продукта. В кульминации печенье разламывается надвое, и момент переходит в замедленную съёмку, когда фруктовая начинка вырывается наружу, крошки разлетаются, сочность и зернистый удар усиливаются — опирайся на эффект взрыва из @video5 — затем быстро возвращается динамичный монтаж. Финал вводит текст «Свежее на Seedance, создано для вирусного видения», появляющийся слово за словом в быстрой последовательности с мощной ритмичной анимацией текста и стоп-кадром продукта — опирайся на @video6 — четыре вкуса печенья выстроены аккуратно в ряд, а фрукты подпрыгивают синхронно в финальном, ярко брендовом кадре, кадр наполнен молодой, энергичной, аппетитной атмосферой рекламы, которой хочется поделиться.
 ```
 
 <a id="category-7"></a>
 
-### Image Reference (1)
+### Референсное изображение (1)
 
-### No. 1: Desert Horned Lizard & Grapefruit (3D ad)
+### No. 1: Пустынная рогатая ящерица и грейпфрут (3D-реклама)
 
-- **Category:** `Image Reference`
+- **Category:** `Референсное изображение`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ru`
@@ -701,21 +586,21 @@ A bright, colorful commercial style with fruity cookies as the hero, in four fla
 
 #### Description
 
-A bright, glossy 3D animated commercial: a parched desert horned lizard finds a grapefruit, bites in, and a juice tsunami turns the desert into a summer sea. Built from one character reference.
+Яркая, глянцевая 3D-анимационная реклама: измождённая пустынная рогатая ящерица находит грейпфрут, вгрызается в него, и сок-цунами превращает пустыню в летнее море. На основе одного референса персонажа.
 
 #### Prompt
 
 ```text
-A 3D animated commercial style, bright and translucent colors; the pulp and juice must feel intensely refreshing and impactful. The overall vibe is like a high-quality commercial animated short with a touch of exaggerated humor. The desert horned lizard character is cute, lively and expressive, reference @image1. The image texture references that soft natural light, delicate fuzz/skin texture, dreamy macro depth of field, and a realistic-yet-slightly-childlike feel from the reference image. 0-3s: a desert scorched by the blazing sun, the air shimmering with heat and the sand searing hot; a desert horned lizard lies on the scalding sand, tongue slightly out, eyes glazed, nearly dried out, swaying with every couple of steps as if about to "evaporate". 3-6s: it suddenly stops, its nose twitches, and looking down it spots a cool, plump, dew-covered grapefruit half-buried in the sand, glistening like a desert miracle; the lizard's eyes go wide in an instant. 6-8s: it pounces over, hugging the grapefruit tightly with both hands, pressing its whole face against the rind with a blissful "I'm finally alive" expression; the frame holds for 1 second, forming an exaggerated, funny memory beat. 8-11s: it looks up, opens its mouth and takes a big bite; the grapefruit rind splits open, the plump pulp shining with a translucent gloss, and the next moment the juice erupts like a tsunami. 11-16s: orange-pink, translucent, glistening grapefruit juice gushes out wildly, pouring down the dunes and rapidly flooding the entire desert; the dry yellow sand instantly turns into a cool, sparkling, fruit-scented summer sea, cacti, rocks and small dunes swallowed by the waves of juice, the lizard's expression turning from delight to terror. 16-20s: nearly drowned by the "grapefruit sea", it frantically clutches half a grapefruit like a life buoy and floats, poking its soaked head out looking dazed. 20-24s: cut to a white screen; the brand name and slogan appear dead-center: "Seedance Grapefruit — bite in for the pulp, what pours out is summer." The voiceover reads the whole line. 24-30s: cut back from white; the desert horned lizard is now lounging on the floating grapefruit, wearing tiny sunglasses and holding a cup with a straw, drifting leisurely on the "juice sea" on vacation, surrounded by floating orange pulp, little ice cubes, cool splashes and a clear blue sky; the mood shifts from "survival" to "vacation", and finally it leans back contentedly on the grapefruit as the camera pulls out and freezes on a refreshing, bright, playful summer frame.
+Стиль 3D-анимационной рекламы, яркие и полупрозрачные цвета; мякоть и сок должны ощущаться невероятно освежающими и эффектными. Общее настроение — как у качественного рекламного анимационного ролика с оттенком утрированного юмора. Персонаж пустынной рогатой ящерицы милый, живой и выразительный, референс @image1. Текстура изображения опирается на мягкий естественный свет, тонкую фактуру пушка/кожи, мечтательную макро-глубину резкости и реалистичный, но слегка по-детски наивный характер референсного изображения. 0-3s: пустыня, выжженная палящим солнцем, воздух дрожит от жары, а песок раскалён; пустынная рогатая ящерица лежит на обжигающем песке, чуть высунув язык, с остекленевшими глазами, почти высохшая, покачиваясь на каждом шагу, словно вот-вот «испарится». 3-6s: она внезапно останавливается, её нос подёргивается, и, взглянув вниз, она замечает прохладный, пухлый, покрытый росой грейпфрут, наполовину зарытый в песок, блестящий, как пустынное чудо; глаза ящерицы в тот же миг округляются. 6-8s: она бросается к нему, крепко обнимая грейпфрут обеими лапами, прижимаясь всем лицом к кожуре с блаженным выражением «я наконец-то жива»; кадр держится 1 секунду, образуя утрированный, забавный момент. 8-11s: она поднимает взгляд, открывает рот и делает большой укус; кожура грейпфрута раскалывается, пухлая мякоть сияет полупрозрачным глянцем, и в следующее мгновение сок вырывается, как цунами. 11-16s: оранжево-розовый, полупрозрачный, блестящий грейпфрутовый сок бешено хлещет, стекая по дюнам и стремительно затопляя всю пустыню; сухой жёлтый песок мгновенно превращается в прохладное, сверкающее, пахнущее фруктами летнее море, кактусы, камни и маленькие дюны поглощаются волнами сока, а выражение ящерицы меняется с восторга на ужас. 16-20s: почти утонув в «грейпфрутовом море», она отчаянно цепляется за половинку грейпфрута, как за спасательный круг, и держится на плаву, высунув промокшую голову с ошалелым видом. 20-24s: склейка на белый экран; строго по центру появляются название бренда и слоган: «Seedance Грейпфрут — вгрызись ради мякоти, а выльется лето.» Закадровый голос читает всю фразу. 24-30s: возврат с белого; пустынная рогатая ящерица теперь развалилась на плавучем грейпфруте, в крошечных солнцезащитных очках, держа стакан с трубочкой, беззаботно дрейфуя по «морю сока» на отдыхе, окружённая плавающей оранжевой мякотью, кубиками льда, прохладными брызгами и ясным голубым небом; настроение смещается с «выживания» на «отпуск», и наконец она довольно откидывается на грейпфрут, камера отъезжает и застывает на освежающем, ярком, игривом летнем кадре.
 ```
 
 <a id="category-8"></a>
 
-### Image Reference (Cinematic) (1)
+### Референсное изображение (кинематографично) (1)
 
-### No. 1: Drunk Man's Rooftop Fall (black-comedy short)
+### No. 1: Падение пьяного с крыши (чёрная комедия)
 
-- **Category:** `Image Reference (Cinematic)`
+- **Category:** `Референсное изображение (кинематографично)`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ru`
@@ -730,1903 +615,12 @@ A 3D animated commercial style, bright and translucent colors; the pulp and juic
 
 #### Description
 
-A ~30s black-comedy cinematic short: a chubby, tipsy man topples off a rooftop, grabs a lifeline, crashes through a window, and simply falls asleep. Character from one reference image; built on hard cuts between roar and total silence.
+Кинематографичная чёрная комедия (~30s): пухлый подвыпивший мужчина падает с крыши, хватается за спасательный трос, влетает сквозь окно и просто засыпает. Персонаж с одного референсного изображения; построена на резких склейках между рёвом и полной тишиной.
 
 #### Prompt
 
 ```text
-[Drunk Man's Rooftop Fright — falls off the edge — grabs a rope through the window — passes out on the spot | black-comedy short | about 30 seconds] One-line premise: a chubby, cute, drunk middle-aged man is eating a burger and drinking beer on the rooftop of a building; as he stands up and stretches he accidentally loses his footing and falls, in his panic grabs a lifesaving rope and immediately crashes through a window into an interior, is dazed and stunned for one second, then just lies down where he is and falls fast asleep. Reference image @image1 — a chubby, cute, drunk middle-aged man: round and stocky build with a big round beer belly, short in stature, movements loose, slow and wobbly from drinking; round face, double chin, drink-flushed cheeks and nose, eyes narrowed to slits with a bleary gaze, an untrimmed ring of short stubble, messy hair, a silly, cute, carefree expression; wearing a white tank-top undershirt stained with burger sauce hanging loosely over his round belly, old jeans, shuffling along in loose slippers, always clutching a half-eaten burger in his hand. There is only this one character in the whole film, a 100% match to the reference image. Overall look: a nighttime cyberpunk mega-city, a dense forest of glass-and-steel skyscrapers, neon signs (cyan / magenta / electric blue), holographic billboards, wet reflective ground, volumetric fog, distant flying-car light trails and drones. Real live-action texture, physical cinema lenses, no 3D rendering / game engine / anime feel. The camera mixes handheld with jib / drone; after the fall the camera plunges down with him as the building's exterior wall and the neon streak upward to convey speed, 24-35mm widescreen cinematic lens texture, 180-degree shutter motion blur. Sound design is the key to the black comedy: hard-cutting repeatedly between "a huge roar" and "total silence". Real gravity throughout. Storyboard (about 30 seconds): S1 (0-4s) opening chewing big close-up (with sound) the man's face fills the screen, chewing the burger in big bites, a satisfied drunken state; S2 (4-9s) pull to a wide shot, stretching -> losing footing and falling (with sound) he wobbles to his feet and stretches big, leans back, can't keep his balance, his foot slips and he tumbles backward over the edge of the rooftop, never letting go of the burger, with a panicked "Eh——!"; S3 (9-12s) cut to a startled facial close-up (a loud scream, huge roar) drunken eyes bulging round, double chin bunched up, mouth wide in a screaming "Ahh——!!", wind howling; S4 (12-16s) cut to a long shot at eye level (total silence) seen from the building across the way, a tiny white figure plummeting straight down from the high-rise, the neon city vast and indifferent, the total silence forming a black-comedy contrast with the huge roar a second earlier; S5 (16-21s) cut to a facial close-up (screaming) -> grabbing the rope, still screaming, hands flailing in the air, he suddenly grabs a lifesaving cable, the cable snapping taut and bending under his weight with a twang, the scream cutting off abruptly as he is jerked and swings out (a brief slow motion at the moment he grabs the rope); S6 (21-26s) cut to an interior angle (quiet) -> the glass shatters -> he crashes in, the interior first quiet with only the hum of the air conditioner, the next second the glass explosively bursts inward (a brief bullet time) as the drunk man, burger and all, smashes through the window, shards flying out radially, neon light streaming in, and he crashes heavily into the room onto the floor / sofa, broken glass clinking; S7 (26-30s) ending, a startled second -> falls asleep, the man sprawled spread-eagle on the floor, covered in broken glass, still clutching the burger, slowly opens his eyes, dazed, blank and startled for a full second, looking around as if thinking "where am I?", then the drunkenness takes over and, not caring at all, he smacks his lips, tucks the burger into his arms, rolls over, lies down right there and falls fast asleep, even snoring lightly, the camera pulls out and freezes, hard cut to black. Only on-set live sound, no music, no subtitles; the core is hard cuts repeatedly between "huge roar" and "silence".
-```
-
-<a id="category-9"></a>
-
-### Twitter Community (24)
-
-### No. 1: Рекламный ролик Veloce-X Neuro-Hydration Strips
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Gilbert Odera | Your AI Plug🇰🇪
-- **Language:** `ru`
-- **Source Link:** [View](https://x.com/yourPlugAI/status/2064591659115905203)
-
-#### Description
-
-Запрос на создание 15-секундного ультрареалистичного, скоростного кинематографического рекламного ролика для нейро-гидратирующего продукта.
-
-#### Prompt
-
-```text
-Create a 15-second ultra-realistic, high-speed cinematic image-to-video commercial for Veloce-X Neuro-Hydration Strips, utilizing the provided reference images as the absolute anchor for character, product design, color palette, and
-```
-
-### No. 2: Человек в дождевой маске
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Xfeed24
-- **Language:** `ru`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064605968420261888/vid/avc1/1280x716/DknXfm6NuCMCohq9.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064605968420261888/vid/avc1/1280x716/DknXfm6NuCMCohq9.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/XfeedZ24/status/2064606040797171839)
-
-#### Description
-
-Крупный план человека в футуристической маске, стоящего под дождем с мрачным выражением лица.
-
-#### Prompt
-
-```text
-close-up of a man in a futuristic mask, wet hair, rain falling, dark and moody lighting, cinematic shot
-```
-
-### No. 3: Сила кофе
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** minchinEdits
-- **Language:** `ru`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064606538237710336/vid/avc1/720x1280/qcEBjR0LJuF4rgce.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064606538237710336/vid/avc1/720x1280/qcEBjR0LJuF4rgce.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/minchinEdits/status/2064606613865103832)
-
-#### Description
-
-Женщина излучает энергию от кофе, окруженная динамичными сценами в офисе.
-
-#### Prompt
-
-```text
-a vibrant animated scene of a woman surrounded by glowing golden energy, holding a coffee cup, with multiple versions of her and coworkers in an office environment, all expressing excitement and productivity, cinematic lighting, dynamic composition, 3D animation style
-```
-
-### No. 4: Тёмное фэнтезийное сражение с практическими эффектами
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Build Fast with AI
-- **Language:** `ru`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064395868787347456/vid/avc1/854x480/Nmuqe4FnZH5lRPZd.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064395868787347456/vid/avc1/854x480/Nmuqe4FnZH5lRPZd.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/BuildFastWithAI/status/2064595921443139684)
-
-#### Description
-
-Промпт для создания 15-секундной сцены темного фэнтезийного сражения с использованием Seedance 2.0 в эстетике низкой резкости и практических эффектов.
-
-#### Prompt
-
-```text
-15-second dark fantasy battle. Seedance 2.0. Zero post. Zero upscaling. Low sharpness + practical effect aesthetic.
-```
-
-### No. 5: Дизайн персонажа котенка
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** GPTProto Official
-- **Language:** `ru`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064599776021426176/vid/avc1/1080x1920/b4Mr5JDKiFBYrzOo.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064599776021426176/vid/avc1/1080x1920/b4Mr5JDKiFBYrzOo.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/gptproto/status/2064601178902814752)
-
-#### Description
-
-Очаровательный рыжий котенок сидит на деревянном столе в освещенной солнцем гостиной, внизу показаны детальные листы дизайна персонажа, демонстрирующие его 3D-модели, выражения и цветовую палитру.
-
-#### Prompt
-
-```text
-a cute orange tabby kitten with big eyes sitting on a wooden table in a cozy living room, surrounded by a tissue box, a glass of water, and a toy mouse, with detailed character design sheets below showing 3D model views, expressions, poses, and color references, soft natural lighting, warm atmosphere, cinematic depth of field
-```
-
-### No. 6: Женщина на конференции по ИИ
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** CloudwiseAI
-- **Language:** `ru`
-- **Source Link:** [View](https://x.com/cloudwiseAI2026/status/2064591595991969879)
-
-#### Description
-
-Женщина говорит в микрофон на фоне экрана с сайтом конференции по GenAI в футбольной тематике.
-
-#### Prompt
-
-```text
-a woman speaking into a microphone in front of a large screen displaying a GenAI conference website with a soccer stadium background, natural lighting from windows, realistic details, medium shot
-```
-
-### No. 7: Вихрь над городом
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Pixmax
-- **Language:** `ru`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064593085431185408/vid/avc1/1080x720/dawSBFfVAweSgYmE.mp4?tag=14)
-
-<video src="https://video.twimg.com/amplify_video/2064593085431185408/vid/avc1/1080x720/dawSBFfVAweSgYmE.mp4?tag=14" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/Pixmax_ai/status/2064593399882432615)
-
-#### Description
-
-Мужчина смотрит вверх на светящийся синий вихрь, парящий над футуристическим мегаполисом ночью.
-
-#### Prompt
-
-```text
-a man in a black jacket stands in a futuristic city at night, looking up at a massive glowing blue vortex in the sky, surrounded by towering skyscrapers with neon lights, cinematic lighting, wide-angle shot, dramatic perspective
-```
-
-### No. 8: Наруто: Живое зрелище
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** AIAI.COM
-- **Language:** `ru`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064592744111325184/vid/avc1/1920x1080/QMHtQZk7WlNnDcml.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064592744111325184/vid/avc1/1920x1080/QMHtQZk7WlNnDcml.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/Aiaicom09/status/2064592826290336125)
-
-#### Description
-
-Живое сценическое выступление с Наруто и Саскэ в их знаковых костюмах, зрители снимают момент на телефоны.
-
-#### Prompt
-
-```text
-live stage performance of Naruto characters, Naruto Uzumaki and Sasuke Uchiha in full costume, standing on a stage with a crowd watching, bright daylight, realistic lighting, detailed costumes, dynamic pose, audience holding phones to record, Japanese text banner above stage reading 'LIVE SPECTACULAR NARUTO', wide shot, static camera
-```
-
-### No. 9: Исследование платформы ИИ GlobalGPT
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Choya
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/prompt/seedance-2/x_2064988432590356506.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2064988432590356506.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/choyamymuna/status/2064988432590356506)
-
-#### Description
-
-В этом видео представлена детальная запись экрана, демонстрирующая разнообразные модели и инструменты ИИ платформы GlobalGPT для генерации изображений, видео и аудио.
-
-#### Prompt
-
-```text
-A static screen recording of a desktop computer displaying the GlobalGPT website in a web browser. The cursor moves across the screen, clicking on navigation links and scrolling through lists of AI video, image, and audio generation models and tools. The background behind the browser window features an abstract, vibrant gradient of blue, purple, pink, and orange waves. The focus is entirely on the browser's UI and its interactive elements.
-```
-
-### No. 10: Кинематографичное видео о футболе с ультрареалистичными игроками
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** auqib
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/prompt/seedance-2/x_2064989700738412551.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2064989700738412551.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/auqibhabib/status/2064989700738412551)
-
-#### Description
-
-Смешанное кинематографичное видео с ультрареалистичными футболистами, интегрированными в реалистичную среду стадиона.
-
-#### Prompt
-
-```text
-Mixed-media cinematic football video featuring ultra-realistic human football players inspired by Image1 and Image2, seamlessly integrated into the ultra-realistic football stadium environment from Image3. Same team, same
-```
-
-### No. 11: Кинематографическая коррида в золотой час
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** WasifAI
-- **Language:** `ru`
-- **Video:** [View](https://video.twimg.com/ext_tw_video/2064595743864737792/pu/vid/avc1/1920x1080/_o4DsXvAFcjPpDIc.mp4)
-
-<video src="https://video.twimg.com/ext_tw_video/2064595743864737792/pu/vid/avc1/1920x1080/_o4DsXvAFcjPpDIc.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/doctorwasif/status/2064595805906817115)
-
-#### Description
-
-Фотореалистичный видео-промпт для непрерывной 15-секундной кинематографической сцены на арене для корриды в золотой час.
-
-#### Prompt
-
-```text
-15s continuous cinematic Hollywood 60fps, photoreal Plaza de Toros at golden hour, packed crowd, dust in warm amber light. Consistent matador (@ Image1) in emerald-gold
-```
-
-### No. 12: Очаровательная анимация в акварельном стиле сказки
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** OscarAI
-- **Language:** `ru`
-- **Source Link:** [View](https://x.com/Artedeingenio/status/2064985164116119665)
-
-#### Description
-
-15-секундное непрерывное видео без склеек и переходов, выполненное в стиле причудливой, нарисованной от руки акварельной и чернильной сказочной анимации.
-
-#### Prompt
-
-```text
-15-second continuous single-shot. No cuts. No scene transitions. Style: enchanting fairy tale animation, hand-painted watercolor and ink illustration brought to life, whimsical
-```
-
-### No. 13: Научно-фантастический робот-паук на беговой дорожке
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Avelyrah
-- **Language:** `ru`
-- **Video:** [View](https://video.twimg.com/ext_tw_video/2064608014934695936/pu/vid/avc1/1280x720/2Cwwi5g_SYa4kIy8.mp4)
-
-<video src="https://video.twimg.com/ext_tw_video/2064608014934695936/pu/vid/avc1/1280x720/2Cwwi5g_SYa4kIy8.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/AvelyrahnAI/status/2064608055908868501)
-
-#### Description
-
-Динамичная научно-фантастическая видео-сцена: блондинка в спортивном костюме, у которой на запястье раскрывается робот-паук, в то время как студенты разбегаются.
-
-#### Prompt
-
-```text
-A fast-paced sci-fi video sequence on a high school running track under a dark, overcast sky. A blonde woman in a navy and white tracksuit walks confidently forward as students flee. A robotic spider on her wrist rapidly expands
-```
-
-### No. 14: Солдат, наблюдающий за флотом
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Global Frontline News
-- **Language:** `ru`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064598715831398400/vid/avc1/1280x720/8wGHKWvZrRIK6fxS.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064598715831398400/vid/avc1/1280x720/8wGHKWvZrRIK6fxS.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/OmeyLad23/status/2064611393580757271)
-
-#### Description
-
-Солдат стоит в хвосте военного самолета, глядя на обширный флот кораблей в океане внизу.
-
-#### Prompt
-
-```text
-a soldier in tactical gear stands at the open rear of a military transport aircraft, looking out over a fleet of naval ships on the ocean, cinematic lighting, wide shot from behind, high detail, realistic
-```
-
-### No. 15: Полёт в квиддич в Хогвартсе
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Cyber AI Creator 🎨
-- **Language:** `ru`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064598185205731328/vid/avc1/720x806/RJuHUIc2jLdBY5Wy.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064598185205731328/vid/avc1/720x806/RJuHUIc2jLdBY5Wy.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/noman23761/status/2064598264528470051)
-
-#### Description
-
-Первый полёт от первого лица на метле над полем для квиддича в Хогвартсе, переходящий в широкий аэрофотоснимок замка на закате.
-
-#### Prompt
-
-```text
-first-person view of flying on a broomstick over the Quidditch field at Hogwarts, with golden hoops and castle in background, transitioning to an aerial wide shot of Hogwarts Castle at sunset with red trail showing flight path
-```
-
-### No. 16: Концепт-арт «Ледяной воин»
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Cyber AI Creator 🎨
-- **Language:** `ru`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064597000713281536/vid/avc1/1140x1080/2ItRonsYxDE0Pyne.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064597000713281536/vid/avc1/1140x1080/2ItRonsYxDE0Pyne.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/noman23761/status/2064597123795173495)
-
-#### Description
-
-Иллюстрация концепт-арта с женщиной-воином и ледяным големом в заснеженной обстановке с детальными дизайнами персонажей.
-
-#### Prompt
-
-```text
-concept art of a female warrior and an ice golem in a snowy landscape, detailed character designs with armor and weapons, anime style, wide shot, static camera
-```
-
-### No. 17: Прогулка по винтажной улице
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** EdenWood
-- **Language:** `ru`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064592895923965952/vid/avc1/1280x720/8JlrIYiYHhKJtJ-_.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064592895923965952/vid/avc1/1280x720/8JlrIYiYHhKJtJ-_.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/EdenWood62747/status/2064592964366585994)
-
-#### Description
-
-Мужчина идет по оживленной винтажной улице с трамваем на заднем плане, снято в черно-белом цвете с кинематографической детализацией.
-
-#### Prompt
-
-```text
-black and white vintage street scene, a man in a white shirt walking toward the camera, old tram in the background, people walking on the street, colonial architecture, sepia tone, cinematic lighting, slow motion
-```
-
-### No. 18: Презентация по 3D-рендерингу
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** CloudwiseAI
-- **Language:** `ru`
-- **Source Link:** [View](https://x.com/cloudwiseAI2026/status/2064591627214356928)
-
-#### Description
-
-Докладчик указывает на экран, демонстрирующий 3D-рендеры сфер во время мастер-класса.
-
-#### Prompt
-
-```text
-a man giving a presentation in front of an audience, pointing at a large screen displaying a 3D rendering of two reflective spheres on a wooden table, with natural light coming through windows in the background
-```
-
-### No. 19: Обзор сайта GlobalGPT
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Rasel Hosen
-- **Language:** `ru`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064592725241184256/vid/avc1/1280x720/NI71SYLYLAoa66wB.mp4?tag=14)
-
-<video src="https://video.twimg.com/amplify_video/2064592725241184256/vid/avc1/1280x720/NI71SYLYLAoa66wB.mp4?tag=14" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/details_with_ai/status/2064592792354275730)
-
-#### Description
-
-скриншот главной страницы сайта GlobalGPT с яркими фоновыми цветами и вариантами инструментов ИИ
-
-#### Prompt
-
-```text
-a screen recording of the GlobalGPT website homepage with a colorful abstract background, showing the navigation menu, AI model selection interface, and promotional banners, with a subtle zoom-in effect on the central content area
-```
-
-### No. 20: Приключение на солнечной тропе
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** 💫Wigglenator💫
-- **Language:** `ru`
-- **Source Link:** [View](https://x.com/Wigglenatorr/status/2064608020701532188)
-
-#### Description
-
-Молодая аниме-девушка с рожками стоит на булыжной тропе, залитой золотистым солнечным светом.
-
-#### Prompt
-
-```text
-anime girl with white hair and horns, wearing a red cloak, standing on a stone path in a sunlit garden, golden hour lighting, soft focus background, detailed character design, warm tones
-```
-
-### No. 21: Солдат, наблюдающий за флотом
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Global Frontline News
-- **Language:** `ru`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064598715831398400/vid/avc1/1280x720/8wGHKWvZrRIK6fxS.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064598715831398400/vid/avc1/1280x720/8wGHKWvZrRIK6fxS.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/OmeyLad23/status/2064606091951190378)
-
-#### Description
-
-Солдат стоит в хвосте военного самолета, глядя на огромный военно-морской флот в открытом море.
-
-#### Prompt
-
-```text
-a soldier in tactical gear stands at the open rear ramp of a military transport aircraft, looking out over a vast fleet of warships on the ocean, cinematic lighting, high detail, wide shot
-```
-
-### No. 22: Панк-рок гостиная
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Cyber AI Creator 🎨
-- **Language:** `ru`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064595369720442880/vid/avc1/1080x1216/n-dxp79lHtiON4Wj.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064595369720442880/vid/avc1/1080x1216/n-dxp79lHtiON4Wj.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/noman23761/status/2064595569763639713)
-
-#### Description
-
-Непринужденный снимок пяти женщин в альтернативных стилях одежды, отдыхающих в богемной квартире, в то время как белый кот идет к ним.
-
-#### Prompt
-
-```text
-a group of five young women with punk rock style sitting on a couch in a cozy, cluttered living room filled with plants and music posters, a white cat walking away from the camera towards the group, warm ambient lighting, realistic photo style
-```
-
-### No. 23: дайверы дают пятюню в море
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Ranveer Singh Sisodia
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/prompt/seedance-2/x_2064988239623225619.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2064988239623225619.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/sphereofai/status/2064988239623225619)
-
-#### Description
-
-Дайвер на лодке даёт пятюню другому дайверу в открытом океане под ярким небом.
-
-#### Prompt
-
-```text
-first person view of a diver on a boat, high five with another diver, clear blue ocean, sunny day, wide angle lens
-```
-
-### No. 24: Демонстрация презентации с ИИ
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** CloudwiseAI
-- **Language:** `ru`
-- **Source Link:** [View](https://x.com/cloudwiseAI2026/status/2064591614627189158)
-
-#### Description
-
-Докладчик выступает перед аудиторией, демонстрируя на экране цифровую анимацию отражающих сфер.
-
-#### Prompt
-
-```text
-a man giving a presentation in front of an audience, holding a microphone, with a large screen displaying two reflective spheres on a dark surface, natural light from windows, indoor setting with plants and audio equipment
-```
-
-<a id="category-10"></a>
-
-### Audio & Voice Synthesis (10)
-
-### No. 1: Комедийный баттл кота и собаки
-
-- **Category:** `Audio & Voice Synthesis`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/1793c9e5-608e-435e-a72b-0e657bbb2d5c.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/1793c9e5-608e-435e-a72b-0e657bbb2d5c.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/35)
-
-#### Description
-
-Разговорный комедийный формат с выразительными анималистическими персонажами.
-
-#### Prompt
-
-```text
-Сгенерируй сцену: Разговорный комедийный формат с выразительными анималистическими персонажами.
-```
-
-### No. 2: Документалка об офисном здании
-
-- **Category:** `Audio & Voice Synthesis`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/843a60ae-3df3-4c37-9fd4-2437f3ac2253.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/843a60ae-3df3-4c37-9fd4-2437f3ac2253.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/34)
-
-#### Description
-
-Кинематографичный короткий документальный ролик о коммерческой недвижимости.
-
-#### Prompt
-
-```text
-Сгенерируй сцену: Кинематографичный короткий документальный ролик о коммерческой недвижимости.
-```
-
-### No. 3: Комедийная сцена с лошадью и fisheye
-
-- **Category:** `Audio & Voice Synthesis`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/26d450cd-23c4-499e-9fd6-1752dabbc8bd.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/26d450cd-23c4-499e-9fd6-1752dabbc8bd.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/33)
-
-#### Description
-
-Комедийный эпизод с синхронизацией реплик и SFX в fisheye-подаче.
-
-#### Prompt
-
-```text
-Сгенерируй сцену: Комедийный эпизод с синхронизацией реплик и SFX в fisheye-подаче.
-```
-
-### No. 4: Мультикультурный семейный праздник
-
-- **Category:** `Audio & Voice Synthesis`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/ac11aa46-e846-4167-af87-53f0be98df9e.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/ac11aa46-e846-4167-af87-53f0be98df9e.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/38)
-
-#### Description
-
-Трогательная семейная сцена с мультикультурной атмосферой и музыкой.
-
-#### Prompt
-
-```text
-Сгенерируй сцену: Трогательная семейная сцена с мультикультурной атмосферой и музыкой.
-```
-
-### No. 5: Утренний диалог пробуждения
-
-- **Category:** `Audio & Voice Synthesis`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/7744c998-76b7-436f-9066-6d4ef5f0ce7f.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/7744c998-76b7-436f-9066-6d4ef5f0ce7f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/40)
-
-#### Description
-
-Интимная утренняя сцена с естественной голосовой подачей.
-
-#### Prompt
-
-```text
-Сгенерируй сцену: Интимная утренняя сцена с естественной голосовой подачей.
-```
-
-### No. 6: Тактический брифинг на испанском
-
-- **Category:** `Audio & Voice Synthesis`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/cda3c348-80c8-445b-8d85-d1eefe36e0b2.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/cda3c348-80c8-445b-8d85-d1eefe36e0b2.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/39)
-
-#### Description
-
-Напряжённый тактический эпизод с испаноязычным диалогом и фактурным саундом.
-
-#### Prompt
-
-```text
-Сгенерируй сцену: Напряжённый тактический эпизод с испаноязычным диалогом и фактурным саундом.
-```
-
-### No. 7: Традиционное исполнение китайской оперы
-
-- **Category:** `Audio & Voice Synthesis`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/6f6ea681-2e7b-4e35-9126-a72d2046bc1f.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/6f6ea681-2e7b-4e35-9126-a72d2046bc1f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/36)
-
-#### Description
-
-Традиционная оперная сцена с аутентичной вокальной и театральной подачей.
-
-#### Prompt
-
-```text
-Сгенерируй сцену: Традиционная оперная сцена с аутентичной вокальной и театральной подачей.
-```
-
-### No. 8: Bubble tea в сычуаньском диалекте
-
-- **Category:** `Audio & Voice Synthesis`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/4f4d9b27-1962-494e-b1fa-5191ede1b500.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/4f4d9b27-1962-494e-b1fa-5191ede1b500.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/41)
-
-#### Description
-
-Юмористическая сценка с региональным диалектом и выразительной реакцией.
-
-#### Prompt
-
-```text
-Сгенерируй сцену: Юмористическая сценка с региональным диалектом и выразительной реакцией.
-```
-
-### No. 9: Сторителлинг по «Путешествию на Запад»
-
-- **Category:** `Audio & Voice Synthesis`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/14269628-c801-4b26-b400-38b2c7d2d97a.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/14269628-c801-4b26-b400-38b2c7d2d97a.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/42)
-
-#### Description
-
-Образовательный сторителлинг по классическому китайскому сюжету.
-
-#### Prompt
-
-```text
-Сгенерируй сцену: Образовательный сторителлинг по классическому китайскому сюжету.
-```
-
-### No. 10: Кинематографичный роуд-трип MV
-
-- **Category:** `Audio & Voice Synthesis`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/f9f34a78-6001-4013-8e9a-a413ca727f00.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/f9f34a78-6001-4013-8e9a-a413ca727f00.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/37)
-
-#### Description
-
-Музыкальный клип с заданными визуальными и ритмическими параметрами.
-
-#### Prompt
-
-```text
-Сгенерируй сцену: Музыкальный клип с заданными визуальными и ритмическими параметрами.
-```
-
-<a id="category-11"></a>
-
-### Advanced Camera Movements (13)
-
-### No. 1: IMAX-Style Desert Sandstorm Scene with Denis Villeneuve Aesthetic
-
-- **Category:** `Advanced Camera Movements`
-- **Source:** `twitter`
-- **Author:** John (@johnAGI168)
-- **Language:** `ru`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/c3e4c06f-da7d-4127-ad68-7ed1656e2472.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/c3e4c06f-da7d-4127-ad68-7ed1656e2472.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/johnAGI168/status/2020989515939148146)
-
-#### Description
-
-IMAX-style desert sandstorm scene with Denis Villeneuve aesthetic. Features timestamped multi-shot structure.
-
-#### Prompt
-
-```text
-Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low saturation. Multi-shot structure. Extreme wide shot: a colossal sand wall consumes the horizon while an armored convoy races across open desert. Emphasize terrifying scale and human fragility. Cockpit POV: violent vibration inside the lead vehicle, sand blasting the windshield, red warning lights pulsing, urgent shouted commands. Climax in slow motion: lead rover launches off a dune, silhouetted against a dark storm front; lightning flickers inside the dust cloud; debris streaks past lens; hard cut to black on impact. Keep transitions clean and escalation continuous.
-```
-
-### No. 2: South Indian Cinema Alien Scene Generated from Single Prompt
-
-- **Category:** `Advanced Camera Movements`
-- **Source:** `twitter`
-- **Author:** rohan anil (@_arohan_)
-- **Language:** `ru`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/068af607-5e54-4331-9c25-3afc190d1a53.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/068af607-5e54-4331-9c25-3afc190d1a53.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/_arohan_/status/2021369768004161783)
-
-#### Description
-
-South Indian cinema alien scene generated from a single prompt. Demonstrates cross-cultural filmmaking capabilities.
-
-#### Prompt
-
-```text
-Create a South Indian commercial-cinema style alien invasion action scene. Visuals should feature saturated colors, dramatic backlight, stylized slow motion, and heroic framing. Open with a large-scale city plaza reveal as alien craft descend, then cut to low-angle hero entrance with wind-swept costume details. Move into multi-angle confrontation: wides for scale, mediums for combo choreography, close-ups for emotional intensity and impact peaks. Blend dust, sparks, smoke, and lens flares for high-energy theatrical presentation while keeping motion readable.
-```
-
-### No. 3: Aerial Shot of Burning Military Vehicle in Urban Warfare
-
-- **Category:** `Advanced Camera Movements`
-- **Source:** `twitter`
-- **Author:** Carlos Santana (@DotCSV)
-- **Language:** `ru`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/81bd1286-8024-4a62-a77a-0873d8137ae6.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/81bd1286-8024-4a62-a77a-0873d8137ae6.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/DotCSV/status/2020519499082969142)
-
-#### Description
-
-Cinematic drone footage capturing the aftermath of urban battle. Showcases Seedance 2.0's ability to generate realistic war scenes with detailed destruction effects and atmospheric rendering.
-
-#### Prompt
-
-```text
-A cinematic drone sequence over a war-torn city intersection. At the center, a destroyed armored vehicle burns continuously, emitting thick black smoke that climbs into an overcast sky. Streets are littered with rubble, twisted metal, and shattered concrete; nearby buildings show blown-out windows, scorched facades, and structural damage. Start with a high establishing aerial shot, then descend slowly into a medium-high orbit while preserving spatial scale and destruction detail. Keep color grading desaturated with documentary realism, add subtle film grain, and ensure physically believable fire, smoke turbulence, heat distortion, and airborne dust.
-```
-
-### No. 4: Эпическая фэнтези-битва
-
-- **Category:** `Advanced Camera Movements`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/a15ec27b-9b38-407d-aa7a-460c9ed17e7f.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/a15ec27b-9b38-407d-aa7a-460c9ed17e7f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/16)
-
-#### Description
-
-Фэнтези-сражение с орбитальными пролётами и частичными эффектами.
-
-#### Prompt
-
-```text
-Сгенерируй сцену: Фэнтези-сражение с орбитальными пролётами и частичными эффектами.
-```
-
-### No. 5: Автомобильная кинематография для рекламы
-
-- **Category:** `Advanced Camera Movements`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d1fe2d82-6f01-4e04-a732-a949028a09d3.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d1fe2d82-6f01-4e04-a732-a949028a09d3.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/17)
-
-#### Description
-
-Профессиональная автомобильная съёмка с кинематографичными переходами.
-
-#### Prompt
-
-```text
-Сгенерируй сцену: Профессиональная автомобильная съёмка с кинематографичными переходами.
-```
-
-### No. 6: Ротационная презентация планшета
-
-- **Category:** `Advanced Camera Movements`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/2f9e5701-3cbe-4855-84a8-3ba0cd72b329.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/2f9e5701-3cbe-4855-84a8-3ba0cd72b329.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/13)
-
-#### Description
-
-Демонстрация устройства через вращение камеры и трансформацию окружения.
-
-#### Prompt
-
-```text
-Сгенерируй сцену: Демонстрация устройства через вращение камеры и трансформацию окружения.
-```
-
-### No. 7: Сложная погоня в коридоре
-
-- **Category:** `Advanced Camera Movements`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c1288035-fc08-4465-bee0-a1857f94c7c1.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/c1288035-fc08-4465-bee0-a1857f94c7c1.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/12)
-
-#### Description
-
-Скоростной многоракурсный трекинг с активными сменами перспективы.
-
-#### Prompt
-
-```text
-Сгенерируй сцену: Скоростной многоракурсный трекинг с активными сменами перспективы.
-```
-
-### No. 8: Сцена боевых искусств
-
-- **Category:** `Advanced Camera Movements`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/e62ddd7b-da6a-4b26-be8a-aba6e74dd854.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/e62ddd7b-da6a-4b26-be8a-aba6e74dd854.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/15)
-
-#### Description
-
-Боевая постановка с оружием и энергичной многоугольной камерой.
-
-#### Prompt
-
-```text
-Сгенерируй сцену: Боевая постановка с оружием и энергичной многоугольной камерой.
-```
-
-### No. 9: Зум Хичкока в лифте
-
-- **Category:** `Advanced Camera Movements`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/4be02035-a101-4c2c-bb20-c2fe59771de9.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/4be02035-a101-4c2c-bb20-c2fe59771de9.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/11)
-
-#### Description
-
-Классический эффект «долли-зум» в замкнутом пространстве с многослойной съёмкой.
-
-#### Prompt
-
-```text
-Сгенерируй сцену: Классический эффект «долли-зум» в замкнутом пространстве с многослойной съёмкой.
-```
-
-### No. 10: Ритмичный push-pull в танце
-
-- **Category:** `Advanced Camera Movements`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/33ffc8e5-255c-46b2-8877-ad8a9100f6d4.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/33ffc8e5-255c-46b2-8877-ad8a9100f6d4.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/14)
-
-#### Description
-
-Синхронизированный push-pull, подчёркивающий ритм и хореографию.
-
-#### Prompt
-
-```text
-Сгенерируй сцену: Синхронизированный push-pull, подчёркивающий ритм и хореографию.
-```
-
-### No. 11: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure
-
-- **Category:** `Advanced Camera Movements`
-- **Source:** `twitter`
-- **Author:** Min Choi (@minchoi)
-- **Language:** `ru`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/52680ae8-705d-4b26-9d49-1b573ab4f56f.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/52680ae8-705d-4b26-9d49-1b573ab4f56f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/minchoi/status/2020878278475518152)
-
-#### Description
-
-Generate a 1-minute cinematic war video in 5 minutes with a multi-shot structure. Realistic Middle Eastern desert village infantry combat scene.
-
-#### Prompt
-
-```text
-Consistent style guideline for all shots: realistic cinematic war footage in a modern Middle Eastern desert village; dominant sandy yellow and gray-brown palette; harsh noon sunlight with hard shadows; drifting dust and gunpowder smoke; subtle handheld vibration; low-angle and ground-level framing to maximize tension and realism; modern light infantry gear without visible national identifiers; restrained, tense, and brutal atmosphere. Shot 1 : A modern infantry squad advances through narrow alleys between low adobe houses and damaged concrete walls. The camera tracks from behind at knee level, pushing forward as soldiers hug the walls and aim toward an unseen corner. Wind, distant metal clinks, and suspended dust establish dread. Shot 2 : A sudden close-quarters firefight erupts at the alley corner. Soldiers drop and press against the wall as rounds impact masonry, kicking up debris. Fast lateral camera pan with controlled shake, intermittent muzzle flashes, and silhouettes in broken windows increase claustrophobia and urgency. Shot 3 : The squad regains formation and enters a half-collapsed building. Over-shoulder follow shot into dim interior where shafts of sunlight cut through breached walls. Dust particles float in the beams; hand signals replace speech; distant gunfire echoes. Tone shifts from chaos to hyper-alert silence. Shot 4 : From a damaged rooftop, the squad secures a high vantage point over the village grid. Slow pullback in backlight, soldiers in silhouette with rifles still trained on unknown threats. Dust swirls in warm light; no clear victory or defeat. End on unresolved tension.
-```
-
-### No. 12: Ground Combat Shot of Soldiers Traversing Desert Terrain
-
-- **Category:** `Advanced Camera Movements`
-- **Source:** `twitter`
-- **Author:** Chetaslua (@chetaslua)
-- **Language:** `ru`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/0d332613-93bc-4d5e-b4f8-6cacc05871ef.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/0d332613-93bc-4d5e-b4f8-6cacc05871ef.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/chetaslua)
-
-#### Description
-
-Tense first-person perspective of military squad advancing. Showcases realistic tactical movement and environmental details.
-
-#### Prompt
-
-```text
-Ground-level war footage with documentary realism: a soldier squad advances through a desert combat zone. Keep camera low and close to boots, gear sway, weapon details, and formation changes while moving over loose sand and debris. Harsh sunlight, visible heat haze, suspended dust, and distant intermittent gunfire should shape the atmosphere. Use controlled handheld movement with shallow depth of field, foreground clarity, and slight background softening. Color palette stays sandy beige and muted brown, emphasizing tactical discipline and persistent tension.
-```
-
-### No. 13: Multi-Shot Fight Scene Generated with Only 3 Reference Images and Simple Prompt
-
-- **Category:** `Advanced Camera Movements`
-- **Source:** `twitter`
-- **Author:** el.cine (@EHuanglu)
-- **Language:** `ru`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e287a176-2ba0-4f64-ad86-ed779cd3d8d3.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e287a176-2ba0-4f64-ad86-ed779cd3d8d3.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/EHuanglu/status/2020828503810445785)
-
-#### Description
-
-Intense martial arts fight between two women in modern urban environment.
-
-#### Prompt
-
-```text
-A grounded martial arts duel between two women in a modern urban night setting. Build with clear shot variation: wide shot to establish spacing and intent, medium tracking shots for exchange tempo, close-up inserts for impact, breathing, and footwork. Include low-angle circling moves, over-shoulder counters, and quick lateral camera motions to preserve directional clarity. Movements must follow realistic weight transfer, momentum, and recovery. Use practical street lighting, neon reflections, slight wet pavement sheen, and gritty cinematic texture.
-```
-
-<a id="category-12"></a>
-
-### Video Editing & Remixing (5)
-
-### No. 1: От серьёзной сделки к рекламе снеков
-
-- **Category:** `Video Editing & Remixing`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/f11c41ac-ee4b-4f37-b569-d6a4725866b3.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/f11c41ac-ee4b-4f37-b569-d6a4725866b3.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/49)
-
-#### Description
-
-Серьёзная драматургия неожиданно переключается в рекламно-комедийный тон.
-
-#### Prompt
-
-```text
-Сгенерируй сцену: Серьёзная драматургия неожиданно переключается в рекламно-комедийный тон.
-```
-
-### No. 2: Интеграция бренда в сцену фастфуда
-
-- **Category:** `Video Editing & Remixing`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/af84d3d1-5659-49bd-a7a8-c2db96918415.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/af84d3d1-5659-49bd-a7a8-c2db96918415.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/52)
-
-#### Description
-
-Органичное бренд-встраивание в существующий сюжет ресторана.
-
-#### Prompt
-
-```text
-Сгенерируй сцену: Органичное бренд-встраивание в существующий сюжет ресторана.
-```
-
-### No. 3: Мрачный твист в духе «Титаника»
-
-- **Category:** `Video Editing & Remixing`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/19cb9c31-9a1e-4c2e-ae17-b03f6a88c20b.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/19cb9c31-9a1e-4c2e-ae17-b03f6a88c20b.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/48)
-
-#### Description
-
-Романтическая сцена переосмысляется как мрачный предательский разворот.
-
-#### Prompt
-
-```text
-Сгенерируй сцену: Романтическая сцена переосмысляется как мрачный предательский разворот.
-```
-
-### No. 4: Смена пола солиста в выступлении
-
-- **Category:** `Video Editing & Remixing`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d3c9e15c-37fa-4603-b5a7-7577a9652d2d.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d3c9e15c-37fa-4603-b5a7-7577a9652d2d.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/50)
-
-#### Description
-
-Замена вокалиста при сохранении пластики сцены, ритма и света.
-
-#### Prompt
-
-```text
-Сгенерируй сцену: Замена вокалиста при сохранении пластики сцены, ритма и света.
-```
-
-### No. 5: Эффект «акула в кадре»
-
-- **Category:** `Video Editing & Remixing`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/06a8c86e-1b58-4088-8caa-25202eec77aa.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/06a8c86e-1b58-4088-8caa-25202eec77aa.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/51)
-
-#### Description
-
-Добавление угрожающего элемента в исходно спокойную сцену.
-
-#### Prompt
-
-```text
-Сгенерируй сцену: Добавление угрожающего элемента в исходно спокойную сцену.
-```
-
-<a id="category-13"></a>
-
-### Character & Scene Consistency (6)
-
-### No. 1: Оперная сценическая трансформация
-
-- **Category:** `Character & Scene Consistency`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/fffd7fd2-9752-4226-bd04-84101f206938.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/fffd7fd2-9752-4226-bd04-84101f206938.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/6)
-
-#### Description
-
-Замена персонажа при сохранении операторской пластики и переходов референса.
-
-#### Prompt
-
-```text
-Сгенерируй сцену: Замена персонажа при сохранении операторской пластики и переходов референса.
-```
-
-### No. 2: Хоррор-исследование от первого лица
-
-- **Category:** `Character & Scene Consistency`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c4802cca-4ef9-4ba9-b8cc-ed5bdecb88e6.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/c4802cca-4ef9-4ba9-b8cc-ed5bdecb88e6.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/10)
-
-#### Description
-
-Субъективная камера в хоррор-среде с устойчивой логикой пространства.
-
-#### Prompt
-
-```text
-Сгенерируй сцену: Субъективная камера в хоррор-среде с устойчивой логикой пространства.
-```
-
-### No. 3: Бесшовный one-take переход
-
-- **Category:** `Character & Scene Consistency`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/27a03978-e3c0-4750-9b0d-c1a802db8af6.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/27a03978-e3c0-4750-9b0d-c1a802db8af6.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/7)
-
-#### Description
-
-Сложный one-take с несколькими переходами при визуальной непрерывности.
-
-#### Prompt
-
-```text
-Сгенерируй сцену: Сложный one-take с несколькими переходами при визуальной непрерывности.
-```
-
-### No. 4: Реклама люксовой сумки
-
-- **Category:** `Character & Scene Consistency`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d62bd403-fcd1-4abd-8f23-c57063660ed0.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d62bd403-fcd1-4abd-8f23-c57063660ed0.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/9)
-
-#### Description
-
-Продуктовая демонстрация с бережным сохранением деталей из референсов.
-
-#### Prompt
-
-```text
-Сгенерируй сцену: Продуктовая демонстрация с бережным сохранением деталей из референсов.
-```
-
-### No. 5: Возвращение домой после работы
-
-- **Category:** `Character & Scene Consistency`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d66a205c-4470-4d71-9122-2d0bf0694c9c.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d66a205c-4470-4d71-9122-2d0bf0694c9c.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/5)
-
-#### Description
-
-Непрерывный эмоциональный эпизод от офисного коридора до тёплой домашней сцены.
-
-#### Prompt
-
-```text
-Сгенерируй сцену: Непрерывный эмоциональный эпизод от офисного коридора до тёплой домашней сцены.
-```
-
-### No. 6: Рекламный ролик магнитного банта
-
-- **Category:** `Character & Scene Consistency`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/74458d90-1c7a-487c-acc2-454558810520.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/74458d90-1c7a-487c-acc2-454558810520.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/8)
-
-#### Description
-
-Рекламная постановка товара с акцентом на консистентность бренда между сценами.
-
-#### Prompt
-
-```text
-Сгенерируй сцену: Рекламная постановка товара с акцентом на консистентность бренда между сценами.
-```
-
-<a id="category-14"></a>
-
-### Creative Visual Effects (11)
-
-### No. 1: Магическая трансформация персонажа
-
-- **Category:** `Creative Visual Effects`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/af14ed46-358b-4202-a6d5-07cfcbcdff10.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/af14ed46-358b-4202-a6d5-07cfcbcdff10.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/22)
-
-#### Description
-
-Сцена метаморфозы с распадом и сборкой персонажа через частицы.
-
-#### Prompt
-
-```text
-Сгенерируй сцену: Сцена метаморфозы с распадом и сборкой персонажа через частицы.
-```
-
-### No. 2: Otter Entering Giant Mecha Animation Scene with Detailed Mechanical Shots
-
-- **Category:** `Creative Visual Effects`
-- **Source:** `twitter`
-- **Author:** Andrey Kurenkov (@andrey_kurenkov)
-- **Language:** `ru`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/8bc7ca8d-7344-4be7-ae6d-cd2701702b77.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/8bc7ca8d-7344-4be7-ae6d-cd2701702b77.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/andrey_kurenkov/status/2021435749401514131)
-
-#### Description
-
-Otter entering giant mecha animation scene with detailed mechanical shots. Demonstrates creative storytelling capabilities.
-
-#### Prompt
-
-```text
-Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant combat mech. Shot 1: wide hangar reveal with backlit mech silhouette, steam, and warning beacons. Shot 2: mechanical montage of gears rotating, hydraulics extending, power lines activating, and cockpit hatch unlocking. Shot 3: otter climbs into the cockpit, with close-ups on focused eyes and control gestures. Shot 4: hatch seals, HUD lights up, mech visor ignites, and otter gives a confident thumbs-up. Emphasize dense mechanical detail, coherent machine motion logic, and cinematic anime pacing.
-```
-
-### No. 3: Метафора лебедя в рекламе пуховика
-
-- **Category:** `Creative Visual Effects`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d35cad32-b340-4394-b98d-8934aa6a1fc8.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d35cad32-b340-4394-b98d-8934aa6a1fc8.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/20)
-
-#### Description
-
-Креативная реклама, совмещающая продуктовые образы и природные метафоры.
-
-#### Prompt
-
-```text
-Сгенерируй сцену: Креативная реклама, совмещающая продуктовые образы и природные метафоры.
-```
-
-### No. 4: Will Smith Eating Spaghetti
-
-- **Category:** `Creative Visual Effects`
-- **Source:** `twitter`
-- **Author:** levelsio (@levelsio)
-- **Language:** `ru`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/eee95836-ac7d-4510-97f5-f6b1f2743aae.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/eee95836-ac7d-4510-97f5-f6b1f2743aae.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/levelsio/status/2021403820702552331)
-
-#### Description
-
-Will Smith eating spaghetti in a modern home kitchen.
-
-#### Prompt
-
-```text
-Photorealistic medium close shot of Will Smith eating spaghetti at a white kitchen island in a modern home kitchen. Background includes a centered stainless-steel refrigerator, white cabinets, and small countertop appliances, with natural daylight from a side window. He faces the camera in a plain black T-shirt, twirls and eats spaghetti naturally. Keep the camera mostly static with a subtle push-in. Preserve realistic hand motion, facial expression, food texture, and clean 24fps cinematic realism; avoid exaggerated deformation.
-```
-
-### No. 5: One Punch Man Animation Surpassing Original Quality
-
-- **Category:** `Creative Visual Effects`
-- **Source:** `twitter`
-- **Author:** Chetaslua (@chetaslua)
-- **Language:** `ru`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/fada7cb9-0f74-43fc-ba6a-b98be8be7c16.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/fada7cb9-0f74-43fc-ba6a-b98be8be7c16.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/chetaslua)
-
-#### Description
-
-One Punch Man animation surpassing original quality. Demonstrates Seedance 2.0's animation production capabilities.
-
-#### Prompt
-
-```text
-Produce a premium anime battle sequence inspired by One Punch Man energy and staging. Require fluid high-frame animation, strong speed lines, impact frames, dramatic lens pulls, and explosive effect timing. Use progression: wide battlefield setup, mid-range combat exchanges, close-up finishing blow, then debris and dust settle. Background destruction should include cracking structures, flying fragments, smoke layers, and shockwave distortion. Character silhouettes remain crisp through motion blur, with strong light-shadow separation and theatrical composition.
-```
-
-### No. 6: Путешествие через VR-вселенную
-
-- **Category:** `Creative Visual Effects`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/dddb1fb2-d73a-4b6a-a2bf-bf416be652c6.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/dddb1fb2-d73a-4b6a-a2bf-bf416be652c6.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/18)
-
-#### Description
-
-Иммерсивный POV-переход из реальности в цифровые пространства через VR-интерфейс.
-
-#### Prompt
-
-```text
-Сгенерируй сцену: Иммерсивный POV-переход из реальности в цифровые пространства через VR-интерфейс.
-```
-
-### No. 7: Абстрактная сцена с лапшой быстрого приготовления
-
-- **Category:** `Creative Visual Effects`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/2665a1ba-4ae8-474e-ba72-a2bf94326054.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/2665a1ba-4ae8-474e-ba72-a2bf94326054.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/25)
-
-#### Description
-
-Сюрреалистическая интерпретация повседневного действия через гротеск.
-
-#### Prompt
-
-```text
-Сгенерируй сцену: Сюрреалистическая интерпретация повседневного действия через гротеск.
-```
-
-### No. 8: Модный ролик с быстрыми сменами
-
-- **Category:** `Creative Visual Effects`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/781e9493-6578-4aba-9d21-44aff3a7d555.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/781e9493-6578-4aba-9d21-44aff3a7d555.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/19)
-
-#### Description
-
-Быстрый fashion-ролик с fish-eye пластикой и glitch-переходами.
-
-#### Prompt
-
-```text
-Сгенерируй сцену: Быстрый fashion-ролик с fish-eye пластикой и glitch-переходами.
-```
-
-### No. 9: Переход-головоломка для логотипа
-
-- **Category:** `Creative Visual Effects`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d8aab6d9-e006-4012-aa41-55ad02a41572.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d8aab6d9-e006-4012-aa41-55ad02a41572.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/23)
-
-#### Description
-
-Динамичный логотип-ревил в визуальном приёме «пазл».
-
-#### Prompt
-
-```text
-Сгенерируй сцену: Динамичный логотип-ревил в визуальном приёме «пазл».
-```
-
-### No. 10: Титр из золотых частиц
-
-- **Category:** `Creative Visual Effects`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/3854856c-478d-40f1-8534-cb240e6a1706.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/3854856c-478d-40f1-8534-cb240e6a1706.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/24)
-
-#### Description
-
-Премиальный титр-ревил с потоками золотых частиц и акцентным звуком.
-
-#### Prompt
-
-```text
-Сгенерируй сцену: Премиальный титр-ревил с потоками золотых частиц и акцентным звуком.
-```
-
-### No. 11: Тайцзи в стиле тушевой живописи
-
-- **Category:** `Creative Visual Effects`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/210c571d-e67f-4bbc-819b-f91bd8925c7b.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/210c571d-e67f-4bbc-819b-f91bd8925c7b.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/21)
-
-#### Description
-
-Боевой перформанс в эстетике чёрно-белой тушевой живописи.
-
-#### Prompt
-
-```text
-Сгенерируй сцену: Боевой перформанс в эстетике чёрно-белой тушевой живописи.
-```
-
-<a id="category-15"></a>
-
-### Ultra-Realistic Video Generation (5)
-
-### No. 1: Погоня с препятствиями
-
-- **Category:** `Ultra-Realistic Video Generation`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/97438ef1-9ee8-4b6f-b064-05e1a0216c33.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/97438ef1-9ee8-4b6f-b064-05e1a0216c33.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/4)
-
-#### Description
-
-Интенсивная погоня с физически убедимыми столкновениями и шумом толпы.
-
-#### Prompt
-
-```text
-Сгенерируй сцену: Интенсивная погоня с физически убедимыми столкновениями и шумом толпы.
-```
-
-### No. 2: Викторианская уличная сцена
-
-- **Category:** `Ultra-Realistic Video Generation`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/b0409f93-9857-4465-9a2d-50a30937a9db.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/b0409f93-9857-4465-9a2d-50a30937a9db.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/3)
-
-#### Description
-
-Историческая атмосфера Лондона XIX века с акцентом на окружение и реакцию героини.
-
-#### Prompt
-
-```text
-Сгенерируй сцену: Историческая атмосфера Лондона XIX века с акцентом на окружение и реакцию героини.
-```
-
-### No. 3: Will Smith Eating Spaghetti
-
-- **Category:** `Ultra-Realistic Video Generation`
-- **Source:** `twitter`
-- **Author:** levelsio (@levelsio)
-- **Language:** `ru`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e55ed973-0bcf-4d50-8b5d-3a831e7e9d68.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e55ed973-0bcf-4d50-8b5d-3a831e7e9d68.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/levelsio/status/2021403820702552331)
-
-#### Description
-
-Will Smith eating spaghetti in a modern home kitchen.
-
-#### Prompt
-
-```text
-Photorealistic medium close shot of Will Smith eating spaghetti at a white kitchen island in a modern home kitchen. Background includes a centered stainless-steel refrigerator, white cabinets, and small countertop appliances, with natural daylight from a side window. He faces the camera in a plain black T-shirt, twirls and eats spaghetti naturally. Keep the camera mostly static with a subtle push-in. Preserve realistic hand motion, facial expression, food texture, and clean 24fps cinematic realism; avoid exaggerated deformation.
-```
-
-### No. 4: Оживший персонаж картины
-
-- **Category:** `Ultra-Realistic Video Generation`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d6e3a17d-f4a7-49e3-850c-2cfc68b4a6a4.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d6e3a17d-f4a7-49e3-850c-2cfc68b4a6a4.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/2)
-
-#### Description
-
-Юмористический рекламный эпизод, где персонаж внутри картины ведёт себя как живой.
-
-#### Prompt
-
-```text
-Сгенерируй сцену: Юмористический рекламный эпизод, где персонаж внутри картины ведёт себя как живой.
-```
-
-### No. 5: Элегантная сцена стирки
-
-- **Category:** `Ultra-Realistic Video Generation`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/b6b7f78a-f9a7-4c09-a3ac-6f0f694b1263.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/b6b7f78a-f9a7-4c09-a3ac-6f0f694b1263.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/1)
-
-#### Description
-
-Реалистичная бытовая сцена с естественной пластикой движения и аккуратной камерой.
-
-#### Prompt
-
-```text
-Сгенерируй сцену: Реалистичная бытовая сцена с естественной пластикой движения и аккуратной камерой.
-```
-
-<a id="category-16"></a>
-
-### Emotional Performance (3)
-
-### No. 1: Драматичный крик в крупном плане
-
-- **Category:** `Emotional Performance`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/1b870eee-b748-48a7-84b6-cd56e0c925f9.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/1b870eee-b748-48a7-84b6-cd56e0c925f9.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/59)
-
-#### Description
-
-Гротескно-драматический крупный план с сильной экспрессией.
-
-#### Prompt
-
-```text
-Сгенерируй сцену: Гротескно-драматический крупный план с сильной экспрессией.
-```
-
-### No. 2: Комедийный контраст в кулинарной сцене
-
-- **Category:** `Emotional Performance`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/a9a3d3ad-2aec-4a14-8bb5-2ca7736e09ae.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/a9a3d3ad-2aec-4a14-8bb5-2ca7736e09ae.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/58)
-
-#### Description
-
-Комедийный контраст между спокойной и хаотичной кулинарной линией.
-
-#### Prompt
-
-```text
-Сгенерируй сцену: Комедийный контраст между спокойной и хаотичной кулинарной линией.
-```
-
-### No. 3: Эмоциональный срыв у зеркала
-
-- **Category:** `Emotional Performance`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/095be254-151d-4149-b50a-ad054c154758.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/095be254-151d-4149-b50a-ad054c154758.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/57)
-
-#### Description
-
-Психологическая сцена с постепенным нарастанием внутреннего надлома.
-
-#### Prompt
-
-```text
-Сгенерируй сцену: Психологическая сцена с постепенным нарастанием внутреннего надлома.
-```
-
-<a id="category-17"></a>
-
-### Story Development & Extension (8)
-
-### No. 1: Мотивационная фитнес-реклама
-
-- **Category:** `Story Development & Extension`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/65689cf8-c5c9-4624-9136-adac7bc3cc10.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/65689cf8-c5c9-4624-9136-adac7bc3cc10.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/30)
-
-#### Description
-
-Расширение ролика динамичной фитнес-сценой с мотивационным посылом.
-
-#### Prompt
-
-```text
-Сгенерируй сцену: Расширение ролика динамичной фитнес-сценой с мотивационным посылом.
-```
-
-### No. 2: Видео эмоционального путешествия
-
-- **Category:** `Story Development & Extension`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/0ae0f676-8f49-4b97-88d2-4afaaa5e5424.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/0ae0f676-8f49-4b97-88d2-4afaaa5e5424.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/28)
-
-#### Description
-
-Эмоциональный короткий ролик по мультиисточникам изображения и аудио.
-
-#### Prompt
-
-```text
-Сгенерируй сцену: Эмоциональный короткий ролик по мультиисточникам изображения и аудио.
-```
-
-### No. 3: Утренняя кофейная кампания
-
-- **Category:** `Story Development & Extension`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/94fc9706-187d-4667-a8e4-62692cb256dd.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/94fc9706-187d-4667-a8e4-62692cb256dd.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/31)
-
-#### Description
-
-Продолжение кофейной истории через световую драматургию и текстовый ревил.
-
-#### Prompt
-
-```text
-Сгенерируй сцену: Продолжение кофейной истории через световую драматургию и текстовый ревил.
-```
-
-### No. 4: Сюрреалистичная реклама с ослом на мотоцикле
-
-- **Category:** `Story Development & Extension`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/67c79521-0cb4-498f-bd74-e0ed9aab81e8.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/67c79521-0cb4-498f-bd74-e0ed9aab81e8.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/29)
-
-#### Description
-
-Удлинение видео сюрреалистичным рекламным продолжением с животным героем.
-
-#### Prompt
-
-```text
-Сгенерируй сцену: Удлинение видео сюрреалистичным рекламным продолжением с животным героем.
-```
-
-### No. 5: Анимация комикс-панелей
-
-- **Category:** `Story Development & Extension`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c939610e-a182-40ad-89a5-254c1515ac24.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/c939610e-a182-40ad-89a5-254c1515ac24.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/26)
-
-#### Description
-
-Преобразование статичных комикс-кадров в анимированную сцену со звуком.
-
-#### Prompt
-
-```text
-Сгенерируй сцену: Преобразование статичных комикс-кадров в анимированную сцену со звуком.
-```
-
-### No. 6: История со скейтом и подсолнухами
-
-- **Category:** `Story Development & Extension`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/30e27ffa-53bc-4655-b405-d017c699ed87.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/30e27ffa-53bc-4655-b405-d017c699ed87.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/32)
-
-#### Description
-
-Тёплая бытовая зарисовка с мягким повествовательным развитием.
-
-#### Prompt
-
-```text
-Сгенерируй сцену: Тёплая бытовая зарисовка с мягким повествовательным развитием.
-```
-
-### No. 7: Quick Test of Female Controlling Plane in Complex Action Scene
-
-- **Category:** `Story Development & Extension`
-- **Source:** `twitter`
-- **Author:** Janek Mann (@janekm)
-- **Language:** `ru`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/dc27ff9d-d357-423c-88b8-65e4646c5659.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/dc27ff9d-d357-423c-88b8-65e4646c5659.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/janekm/status/2020388244802740728)
-
-#### Description
-
-Woman suddenly realizes pilot has disappeared and controls the plane in crisis.
-
-#### Prompt
-
-```text
-Create a high-pressure disaster-action sequence: during turbulent flight, a woman rushes toward the cockpit and discovers both pilots are gone. Shot 1: handheld tracking through a chaotic cabin with panicked passengers, swinging oxygen masks, and flashing emergency lights. Shot 2: cockpit close-up montage of shaking controls, warning indicators, and her focused expression as she takes command. Shot 3: exterior wide shot of the aircraft dipping through heavy clouds before recovery. Shot 4: back inside the cockpit, she stabilizes the plane with determined, precise movements. Keep pace fast, stakes clear, and editing tight.
-```
-
-### No. 8: Документальный пролог о временах года детства
-
-- **Category:** `Story Development & Extension`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/41aab229-bca0-4387-a4b1-08e88dde89a2.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/41aab229-bca0-4387-a4b1-08e88dde89a2.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/27)
-
-#### Description
-
-Тёплый документальный опенер, построенный по сториборду.
-
-#### Prompt
-
-```text
-Сгенерируй сцену: Тёплый документальный опенер, построенный по сториборду.
-```
-
-<a id="category-18"></a>
-
-### Music Synchronization (4)
-
-### No. 1: Аниме-сториборд шахматной битвы
-
-- **Category:** `Music Synchronization`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/efe4a014-a97b-4f4b-baa6-77d477b7024f.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/efe4a014-a97b-4f4b-baa6-77d477b7024f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/56)
-
-#### Description
-
-Сториборд-аниме с драматическим таймингом и напряжением.
-
-#### Prompt
-
-```text
-Сгенерируй сцену: Сториборд-аниме с драматическим таймингом и напряжением.
-```
-
-### No. 2: Fashion beat drop
-
-- **Category:** `Music Synchronization`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/5ae0578e-e6c8-4ff1-a03a-e19b5ac2f5c1.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/5ae0578e-e6c8-4ff1-a03a-e19b5ac2f5c1.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/53)
-
-#### Description
-
-Модная трансформация, синхронизированная с музыкальным beat drop.
-
-#### Prompt
-
-```text
-Сгенерируй сцену: Модная трансформация, синхронизированная с музыкальным beat drop.
-```
-
-### No. 3: Динамичные портреты под бит
-
-- **Category:** `Music Synchronization`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/11a4251f-cb41-41b1-b6a7-8ac19d340956.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/11a4251f-cb41-41b1-b6a7-8ac19d340956.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/54)
-
-#### Description
-
-Портретные кадры, посаженные на музыкальные ключевые точки.
-
-#### Prompt
-
-```text
-Сгенерируй сцену: Портретные кадры, посаженные на музыкальные ключевые точки.
-```
-
-### No. 4: Музыкальный клип с пейзажными переходами
-
-- **Category:** `Music Synchronization`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ru`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/6b0fbeb4-51df-4094-8252-d2dfb8631776.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/6b0fbeb4-51df-4094-8252-d2dfb8631776.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ru/seedance-2-prompt/55)
-
-#### Description
-
-Пейзажные переходы с точной музыкальной синхронизацией.
-
-#### Prompt
-
-```text
-Сгенерируй сцену: Пейзажные переходы с точной музыкальной синхронизацией.
+[Пьяный на крыше в ужасе — срывается с края — хватает трос сквозь окно — вырубается на месте | чёрная комедия | около 30 секунд] Суть в одной строке: пухлый, милый, пьяный мужчина средних лет ест бургер и пьёт пиво на крыше здания; вставая и потягиваясь, он случайно теряет опору и падает, в панике хватает спасательный трос и тут же влетает сквозь окно внутрь помещения, на секунду ошеломлён и оглушён, а затем просто ложится там, где есть, и крепко засыпает. Референсное изображение @image1 — пухлый, милый, пьяный мужчина средних лет: круглое и коренастое телосложение с большим круглым пивным животом, низкого роста, движения расхлябанные, медленные и шаткие от выпитого; круглое лицо, двойной подбородок, раскрасневшиеся от выпивки щёки и нос, глаза сужены до щёлочек с мутным взглядом, неподстриженная короткая щетина по кругу, растрёпанные волосы, глуповатое, милое, беззаботное выражение; одет в белую майку-алкоголичку, испачканную соусом от бургера, свободно свисающую над круглым животом, старые джинсы, шаркает в свободных тапках, вечно сжимая в руке недоеденный бургер. Во всём фильме есть только этот один персонаж, на 100% соответствующий референсному изображению. Общий вид: ночной киберпанк-мегаполис, густой лес небоскрёбов из стекла и стали, неоновые вывески (циан / маджента / электрик-блю), голографические билборды, мокрая отражающая земля, объёмный туман, вдали световые следы летающих машин и дроны. Настоящая фактура живой съёмки, физические кинообъективы, без 3D-рендеринга / игрового движка / аниме-ощущения. Камера сочетает съёмку с рук с краном / дроном; после падения камера ныряет вниз вместе с ним, пока внешняя стена здания и неон смазываются вверх, передавая скорость, фактура широкоэкранного кинообъектива 24-35mm, смаз движения при затворе 180 градусов. Дизайн звука — ключ к чёрной комедии: многократные резкие склейки между «оглушительным рёвом» и «полной тишиной». Настоящая гравитация на всём протяжении. Раскадровка (около 30 секунд): S1 (0-4s) открывающий крупный план жевания (со звуком) лицо мужчины заполняет экран, он большими укусами жуёт бургер, довольное пьяное состояние; S2 (4-9s) отъезд на широкий план, потягивание -> потеря опоры и падение (со звуком) он шатко встаёт на ноги и широко потягивается, откидывается назад, не может удержать равновесие, нога соскальзывает, и он опрокидывается спиной через край крыши, ни на миг не выпуская бургер, с паническим «Э——!»; S3 (9-12s) склейка на испуганный крупный план лица (громкий крик, оглушительный рёв) пьяные глаза выпучены, двойной подбородок сжат, рот широко раскрыт в кричащем «А——!!», воет ветер; S4 (12-16s) склейка на общий план на уровне глаз (полная тишина) вид со здания напротив, крошечная белая фигурка отвесно падает с высотки, неоновый город огромен и безразличен, полная тишина образует чёрно-комедийный контраст с оглушительным рёвом секунду назад; S5 (16-21s) склейка на крупный план лица (крик) -> хватание троса, всё ещё крича, размахивая руками в воздухе, он внезапно хватает спасательный трос, трос резко натягивается и прогибается под его весом со звоном, крик резко обрывается, когда его дёргает и выносит наружу (короткое замедление в момент, когда он хватает трос); S6 (21-26s) склейка на ракурс изнутри помещения (тихо) -> стекло разбивается -> он влетает внутрь, в помещении сначала тихо, слышен только гул кондиционера, в следующую секунду стекло взрывообразно лопается внутрь (короткий bullet time), когда пьяный мужчина вместе с бургером пробивает окно, осколки разлетаются радиально, неоновый свет вливается внутрь, и он тяжело рушится в комнату на пол / диван, битое стекло позвякивает; S7 (26-30s) финал, секунда испуга -> засыпает, мужчина раскинулся звездой на полу, весь в битом стекле, всё ещё сжимая бургер, медленно открывает глаза, ошеломлённый, целую секунду пустой и испуганный, оглядывается, будто думая «где я?», затем хмель берёт верх, и, совершенно не заботясь, он причмокивает, прижимает бургер к себе, переворачивается, ложится прямо здесь и крепко засыпает, даже слегка похрапывая, камера отъезжает и застывает, резкая склейка в чёрный. Только реальный звук с площадки, без музыки, без субтитров; суть — многократные резкие склейки между «оглушительным рёвом» и «тишиной».
 ```
 
 ## Local Usage
@@ -2650,4 +644,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-07-21T04:39:05.293Z
+> This README is auto-generated. 2026-07-21T07:52:08.409Z

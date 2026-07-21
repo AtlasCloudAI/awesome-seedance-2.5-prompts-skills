@@ -4,7 +4,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedance-2.5-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-105%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-11%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 > A curated collection of Seedance 2.5 video prompts — each with real previews via Atlas Cloud. 30s native clips · 50 multimodal references · flexible region editing. Cinematic, anime, UGC, ads, meme & more.
 
@@ -68,38 +68,27 @@ Seedance 2.5 is a major upgrade to Seedance 2.0 with three big gains: 30-second 
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **105** |
-| Categories | **19** |
-| Preview Videos | **99** |
-| Last Updated | **2026-07-21T04:39:05.278Z** |
+| Total Prompts | **11** |
+| Categories | **8** |
+| Preview Videos | **11** |
+| Last Updated | **2026-07-21T07:52:08.402Z** |
 
 ## 🏷️ Browse by Category
 
-- [`Match-Cut & Creative Effects`](#category-1): **1**
-- [`One-Take Cinematography`](#category-2): **1**
-- [`Multi-Image Reference`](#category-3): **3**
-- [`Video Editing`](#category-4): **2**
-- [`Reference-Guided Tutorial`](#category-5): **1**
-- [`Multimodal Reference (image+video)`](#category-6): **1**
-- [`Image Reference`](#category-7): **1**
-- [`Image Reference (Cinematic)`](#category-8): **1**
-- [`Twitter Community`](#category-9): **24**
-- [`오디오 & 음성 합성`](#category-10): **10**
-- [`고급 카메라워크`](#category-11): **13**
-- [`영상 편집 & 리믹스`](#category-12): **5**
-- [`캐릭터 & 장면 일관성`](#category-13): **6**
-- [`크리에이티브 시각효과`](#category-14): **11**
-- [`초현실적 영상 생성`](#category-15): **5**
-- [`감정 연기`](#category-16): **3**
-- [`스토리 전개 & 확장`](#category-17): **8**
-- [`음악 싱크`](#category-18): **4**
-- [`원테이크 촬영`](#category-19): **5**
+- [`매치컷 & 크리에이티브 이펙트`](#category-1): **1**
+- [`원테이크 촬영`](#category-2): **1**
+- [`다중 이미지 참조`](#category-3): **3**
+- [`비디오 편집`](#category-4): **2**
+- [`참조 기반 튜토리얼`](#category-5): **1**
+- [`멀티모달 참조 (이미지+비디오)`](#category-6): **1**
+- [`이미지 참조`](#category-7): **1**
+- [`이미지 참조 (시네마틱)`](#category-8): **1**
 
 ## 🔥 Featured Prompts
 
-### No. 1: Crystal Ball Match-Cut Beat Film
+### No. 1: 수정 구슬 매치컷 비트 필름
 
-- **Category:** `Match-Cut & Creative Effects`
+- **Category:** `매치컷 & 크리에이티브 이펙트`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ko`
@@ -110,17 +99,17 @@ Seedance 2.5 is a major upgrade to Seedance 2.0 with three big gains: 30-second 
 
 #### Description
 
-A beat-synced match-cut film: one crystal ball etched with a glowing 'seedance' logo stays centered while eight scenes cut seamlessly behind it.
+비트에 맞춘 매치컷 영상: 빛나는 'seedance' 로고가 새겨진 수정 구슬 하나가 중앙에 고정된 채, 그 뒤로 여덟 개의 장면이 매끄럽게 전환된다.
 
 #### Prompt
 
 ```text
-A fast-paced, cinematic Match-cut short film synced to a driving electronic beat. A flawless crystal ball stays fixed dead-center throughout, a glowing "seedance" logo etched inside it. The ball holds razor-sharp focus while, on every strong musical beat, the background match-cuts seamlessly: Scene 1: macro close-up, cinematic water splashing around the ball, refracting intricate light. Scene 2: a vintage morning cafe, the ball on a raw-wood table, rising coffee steam and blurred commuters beyond the window. Scene 3: golden-hour dusk, a skater youth tosses and catches the ball one-handed, street racing backward behind them in gorgeous backlit sunset. Scene 4: a frenzied music festival, hands raise the ball high, refracting dazzling stage lasers. Scene 5: a lively family party table, the ball resting center-frame, blurred figures toasting and reaching for food. Scene 6: a dim cinema, hands cupping the ball as the giant screen's faint glow drifts across its surface. Scene 7: the ball on a violently vibrating speaker diaphragm, match-cutting on the climax to a spinning DJ turntable center. Scene 8: an outdoor camping night, background becoming warm bonfire and swaying string-light bokeh. Finale: on the final downbeat the ball is hurled up out of frame; cut to pure black, a minimal white-on-black "seedance" appearing dead-center. Beat-synced match-cut editing, top-tier cinematic color grading, photoreal glass refraction, ray tracing, global illumination. Subject razor-sharp, background heavy motion blur.
+강렬한 일렉트로닉 비트에 맞춘 빠른 템포의 시네마틱 매치컷 단편. 흠 하나 없는 수정 구슬이 처음부터 끝까지 정중앙에 고정되어 있고, 그 안에는 빛나는 "seedance" 로고가 새겨져 있다. 구슬은 면도날처럼 선명한 초점을 유지하고, 강한 비트가 떨어질 때마다 배경이 매끄럽게 매치컷된다. Scene 1: 매크로 클로즈업, 구슬 주위로 시네마틱하게 물이 튀며 정교한 빛이 굴절된다. Scene 2: 빈티지한 아침 카페, 원목 테이블 위의 구슬, 피어오르는 커피 김과 창밖으로 흐릿하게 지나가는 출근길 인파. Scene 3: 골든아워의 황혼, 스케이터 청년이 한 손으로 구슬을 던졌다 받고, 그 뒤로 아름다운 역광 노을 속에서 거리가 뒤로 질주한다. Scene 4: 열광적인 음악 페스티벌, 여러 손이 구슬을 높이 들어 올리며 눈부신 무대 레이저가 굴절된다. Scene 5: 활기찬 가족 파티 테이블, 프레임 중앙에 놓인 구슬, 건배하고 음식으로 손을 뻗는 흐릿한 인물들. Scene 6: 어두운 영화관, 두 손이 구슬을 감싸 쥐고 거대한 스크린의 은은한 빛이 그 표면을 스쳐 지나간다. Scene 7: 격렬하게 진동하는 스피커 진동판 위의 구슬, 클라이맥스에서 회전하는 DJ 턴테이블 중앙으로 매치컷된다. Scene 8: 야외 캠핑의 밤, 배경이 따뜻한 모닥불과 흔들리는 전구 조명의 보케로 바뀐다. 피날레: 마지막 다운비트에 구슬이 프레임 밖으로 튀어 오르고, 완전한 검은 화면으로 전환되며 검정 배경에 흰 글씨로 미니멀한 "seedance"가 정중앙에 나타난다. 비트에 맞춘 매치컷 편집, 최상급 시네마틱 색보정, 사실적인 유리 굴절, 레이 트레이싱, 글로벌 일루미네이션. 피사체는 면도날처럼 선명하고 배경은 강한 모션 블러.
 ```
 
-### No. 2: Steampunk Clockwork — 30s One-Take
+### No. 2: 스팀펑크 태엽 장치 — 30초 원테이크
 
-- **Category:** `One-Take Cinematography`
+- **Category:** `원테이크 촬영`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ko`
@@ -131,17 +120,17 @@ A fast-paced, cinematic Match-cut short film synced to a driving electronic beat
 
 #### Description
 
-A 30-second steampunk miniature 3D sequence with continuous orbiting, pass-through camera moves.
+끊김 없이 선회하고 관통하는 카메라 움직임을 담은 30초 스팀펑크 미니어처 3D 시퀀스.
 
 #### Prompt
 
 ```text
-A high-end, deeply cinematic 30-second 3D motion-graphics sequence in refined steampunk and vintage-miniature style, with continuous fluid orbiting and pass-through camera moves. [0-10s] Macro close-up of an antique brass clock face that unfolds layer by layer into meshing rotating gear rings and volumetric fog. The camera pierces down through the gears; a mechanical ornithopter spirals up from a miniature canyon of stacked weathered old books. [10-20s] The camera glides forward tracking the ornithopter, seamlessly passing into a fast-spinning ornate brass zoetrope projecting galloping mechanical-horse light. The light leaps out and the scene becomes a brass floating cable car on glimmering copper rails through a forest of gears, bathed in cinematic golden-hour light. [20-30s] The camera pans elegantly down; below appears an exquisite clockwork wooden sailing ship cutting deep-blue glass-textured waves, which morph into a glowing giant moon with lantern-holding explorer silhouettes trekking a crystal-vein ridge under stars. The camera spirals smoothly back through ethereal clouds to the ticking brass clock face. Hyper-real mechanical textures, rich brass and gold tones, cinematic shallow depth of field, smooth seamless pass-through camerawork, epic fantastical adventure atmosphere.
+세련된 스팀펑크와 빈티지 미니어처 스타일의 고급스럽고 깊이 있는 시네마틱 30초 3D 모션그래픽 시퀀스로, 끊김 없이 유연하게 선회하고 관통하는 카메라 움직임을 담는다. [0-10s] 골동품 황동 시계 문자판의 매크로 클로즈업이 층층이 펼쳐지며 서로 맞물려 회전하는 톱니바퀴 링과 볼류메트릭 안개로 변한다. 카메라가 톱니바퀴 사이를 뚫고 내려가고, 낡고 오래된 책이 쌓인 미니어처 협곡에서 기계식 오니솝터가 나선을 그리며 솟아오른다. [10-20s] 카메라가 오니솝터를 따라 앞으로 미끄러지며, 질주하는 기계 말의 빛을 투사하는 빠르게 회전하는 화려한 황동 조트로프 속으로 매끄럽게 들어간다. 그 빛이 튀어나오면서 장면은 톱니바퀴 숲을 가로지르는, 반짝이는 구리 레일 위의 황동 공중 케이블카로 바뀌고, 시네마틱한 골든아워 빛에 잠긴다. [20-30s] 카메라가 우아하게 아래로 팬하면, 그 아래로 유리 질감의 짙푸른 파도를 가르는 정교한 태엽 목조 범선이 나타나고, 이는 별빛 아래 크리스털 광맥 능선을 등불을 든 탐험가 실루엣이 걸어가는 빛나는 거대한 달로 변모한다. 카메라는 몽환적인 구름 사이로 매끄럽게 나선을 그리며 째깍이는 황동 시계 문자판으로 되돌아온다. 초사실적인 기계 질감, 풍부한 황동과 금빛 톤, 시네마틱한 얕은 심도, 부드럽고 이음매 없는 관통 카메라워크, 웅장하고 환상적인 모험 분위기.
 ```
 
-### No. 3: Windows Through Worlds (5 refs)
+### No. 3: 세계를 잇는 창들 (참조 5장)
 
-- **Category:** `Multi-Image Reference`
+- **Category:** `다중 이미지 참조`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ko`
@@ -160,17 +149,17 @@ A high-end, deeply cinematic 30-second 3D motion-graphics sequence in refined st
 
 #### Description
 
-A brand concept short driven by 5 reference images, gliding through windows into different worlds.
+참조 이미지 5장으로 구성한 브랜드 콘셉트 단편, 창을 통과하며 서로 다른 세계로 미끄러져 들어간다.
 
 #### Prompt
 
 ```text
-A cinematic brand concept short. @image1 is the first frame; the picture trembles slightly, the camera pushes in to tree shadows rushing backward outside the window, their retreat accelerating, then abruptly cuts to @image2, speed easing as the camera glides slowly along a stream, birdsong and blossoms. The camera drops underwater — bubble sounds — as orange jellyfish drift gracefully past the lens @image3; the camera pulls back as small fish flit past and swim from the water into the window @image4, a girl looking around, watching them. The camera pulls back, defocuses, then refocuses sharp, switching to the music's rhythm: a Chinese-garden lattice window @image5 with light circling, church stained glass, an airplane porthole, a dome skylight, a bay window, louver blinds, a European dormer, a door peephole, a camera viewfinder, a bird's eye, a human eye close-up. It settles on the human eye; the eye closes, screen black, then suddenly opens — "seedance" appearing in the center of the eye on the accent beat.
+시네마틱한 브랜드 콘셉트 단편. @image1이 첫 프레임이다. 화면이 살짝 떨리고, 카메라가 창밖으로 뒤로 빠르게 스쳐 가는 나무 그림자 쪽으로 밀고 들어가며 그 후퇴가 점점 빨라지다가, 갑자기 @image2로 컷 전환되어 속도가 완만해지고 카메라가 새소리와 꽃 사이로 시냇물을 따라 천천히 미끄러진다. 카메라가 물속으로 내려가고 — 물방울 소리 — 주황빛 해파리가 렌즈 앞을 우아하게 떠간다 @image3. 카메라가 뒤로 물러나는 사이 작은 물고기들이 스쳐 지나가며 물에서 창문 안으로 헤엄쳐 들어가고 @image4, 한 소녀가 주위를 둘러보며 그들을 바라본다. 카메라가 뒤로 물러나며 초점이 흐려졌다가 다시 선명하게 맞춰지고, 음악의 리듬에 맞춰 전환된다. 빛이 감도는 중국식 정원의 격자창 @image5, 교회의 스테인드글라스, 비행기 창, 돔형 천창, 퇴창, 루버 블라인드, 유럽식 지붕창, 문의 도어스코프, 카메라 뷰파인더, 새의 눈, 사람 눈의 클로즈업. 화면은 사람의 눈에 정착하고, 눈이 감기며 화면이 검게 변했다가, 갑자기 눈이 떠지며 강조 비트에 맞춰 눈 중앙에 "seedance"가 나타난다.
 ```
 
-### No. 4: One-Take Through Six Rooms (8 refs)
+### No. 4: 여섯 개의 방을 지나는 원테이크 (참조 8장)
 
-- **Category:** `Multi-Image Reference`
+- **Category:** `다중 이미지 참조`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ko`
@@ -192,17 +181,17 @@ A cinematic brand concept short. @image1 is the first frame; the picture tremble
 
 #### Description
 
-One continuous take following a figure through six mood-shifting rooms, driven by 8 reference images.
+참조 이미지 8장으로 구성한, 한 인물을 따라 분위기가 바뀌는 여섯 개의 방을 지나는 원 컨티뉴어스 테이크.
 
 #### Prompt
 
 ```text
-One continuous take. The camera smoothly follows a person in a black coat (reference @image1) moving left to right through six connected rooms of different tones and moods. Every room shares the same structure: white walls, light herringbone wood floor, French floor-to-ceiling windows, white sheer curtains (reference @image2) but the outside view and mood differ each time. The protagonist walks at a constant pace, passing through every open door. 0-5s room one, American-comic fight: the protagonist fights a character (@image3), who is defeated; 5-10s room two, warmth, felt-craft style, window view a sunflower field (@image4), warm-orange soft light, a painter painting sunflowers (@image5), the protagonist turning felt-style on entering; 10-15s room three, sorrow, black-and-white comic stop-motion, rain outside, cold-grey light, a person alone on the floor hugging their knees, a phone glowing with an unanswered call; on entering, the light blinks off then on, the room turns color, flowers bursting into bloom; 15-20s room four, joy, a room submerged in the sea (reference @image6), the protagonist turning transparent among coral and fish; 20-25s room five, surprise, window view a sky of fireworks (reference @image7), colorful flickering light, the protagonist swept up in a cheering crowd; 25-30s a blank white room, the protagonist snaps their fingers — snap SFX — frame goes black, "seedance" in the middle (reference @image8). Cinematic quality, high-fashion advertising style, lighting entirely determined by the window views for strong emotional contrast, no text in frame.
+원 컨티뉴어스 테이크. 카메라가 검은 코트를 입은 인물(참조 @image1)을 부드럽게 따라가며, 서로 다른 톤과 분위기의 연결된 여섯 개 방을 왼쪽에서 오른쪽으로 통과한다. 모든 방은 같은 구조를 공유한다. 흰 벽, 밝은 헤링본 원목 바닥, 바닥부터 천장까지 이어지는 프렌치 창, 흰 시어 커튼(참조 @image2). 다만 창밖 풍경과 분위기는 매번 다르다. 주인공은 일정한 속도로 걸으며 열려 있는 모든 문을 통과한다. 0-5s 첫 번째 방, 미국 만화풍 액션: 주인공이 한 캐릭터(@image3)와 싸워 그를 쓰러뜨린다. 5-10s 두 번째 방, 따뜻함, 펠트 공예 스타일, 창밖은 해바라기 밭(@image4), 따뜻한 주황빛 부드러운 조명, 해바라기를 그리는 화가(@image5), 주인공이 들어서며 펠트 스타일로 변한다. 10-15s 세 번째 방, 슬픔, 흑백 만화 스톱모션, 창밖엔 비, 차가운 회색 빛, 한 사람이 홀로 바닥에 앉아 무릎을 끌어안고 있고, 받지 못한 전화로 휴대폰이 빛난다. 들어서는 순간 조명이 꺼졌다 켜지고, 방이 색을 되찾으며 꽃이 활짝 피어난다. 15-20s 네 번째 방, 기쁨, 바닷속에 잠긴 방(참조 @image6), 주인공이 산호와 물고기 사이에서 투명해진다. 20-25s 다섯 번째 방, 놀람, 창밖은 불꽃놀이로 가득한 하늘(참조 @image7), 알록달록 깜빡이는 빛, 주인공이 환호하는 군중에 휩쓸린다. 25-30s 텅 빈 흰 방, 주인공이 손가락을 튕기고 — 딱 하는 효과음 — 화면이 검게 변하며 중앙에 "seedance"가 나타난다(참조 @image8). 시네마틱한 퀄리티, 하이패션 광고 스타일, 조명은 전적으로 창밖 풍경에 의해 결정되어 강한 감정 대비를 이루며, 화면 안에 텍스트는 없다.
 ```
 
-### No. 5: Video Edit — Remove All But the Lead
+### No. 5: 비디오 편집 — 주인공만 남기고 모두 제거
 
-- **Category:** `Video Editing`
+- **Category:** `비디오 편집`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ko`
@@ -217,17 +206,17 @@ One continuous take. The camera smoothly follows a person in a black coat (refer
 
 #### Description
 
-Reference-video editing: erase everyone except the protagonist from a source clip.
+참조 비디오 편집: 원본 클립에서 주인공을 제외한 모든 사람을 지운다.
 
 #### Prompt
 
 ```text
-Video editing: remove everyone in @video1 except the protagonist.
+비디오 편집: @video1에서 주인공을 제외한 모든 사람을 제거한다.
 ```
 
-### No. 6: Multilingual Hip-Hop 'Hello' MV
+### No. 6: 다국어 힙합 'Hello' 뮤직비디오
 
-- **Category:** `Multi-Image Reference`
+- **Category:** `다중 이미지 참조`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ko`
@@ -242,17 +231,17 @@ Video editing: remove everyone in @video1 except the protagonist.
 
 #### Description
 
-A seaside hip-hop MV built from one reference image; the lead raps 'hello' in 8 languages, lip-synced, hard cuts on the beat.
+참조 이미지 한 장으로 만든 해변 힙합 뮤직비디오. 리드가 8개 언어로 'hello'를 립싱크로 랩하며, 비트에 맞춰 하드컷한다.
 
 #### Prompt
 
 ```text
-Cinematic hip-hop / rap music video, photoreal quality, high-end tone, seaside setting. Build the frame from @image1: a band performs at a golden sand beach with crashing waves — a lead vocalist gripping a mic on a stand in the wet sand, one guitarist left, one right, a drummer at the back; a vast coastline behind, rolling waves, a warm golden-hour sun shimmering on the water, sea mist in the air. The lead in a red tracksuit raps to camera — lips and jaw precisely synced to every word, head punching to the beat. Bright, punchy, fast, confident rap. HARD CUT on the beat, each switch a double contrast (shot size and type change together). Lyrics (the lead sings 'hello' in each language in turn, precisely lip-synced): English "Hello", Chinese "你好", Japanese "こんにちは", Korean "안녕하세요", Portuguese "Olá", Thai "สวัสดี", Spanish "Hola", Arabic "مرحبا". 8 hard-cut shots (low-angle wide establishing; close-up rap to camera; macro guitar-string insert; 3/4 prowling orbit; lateral track at shore; drummer tilt-up; tight push on the lead; heroic full-band push-in), one language per shot. White balance 4000K, teal-and-amber grade, 35mm, shallow depth of field, film grain, sea mist, golden-hour flare. Premium feel, precise lip-sync, no subtitles, no text overlays, hard cuts only, total 20 seconds.
+시네마틱한 힙합/랩 뮤직비디오, 포토리얼 퀄리티, 고급스러운 톤, 해변 배경. @image1로 프레임을 구성한다. 파도가 부서지는 황금빛 모래 해변에서 밴드가 공연한다 — 젖은 모래 위 스탠드 마이크를 움켜쥔 리드 보컬, 왼쪽에 기타리스트 한 명, 오른쪽에 한 명, 뒤쪽에 드러머. 뒤로는 광활한 해안선, 굽이치는 파도, 수면에 일렁이는 따뜻한 골든아워의 태양, 공기 중의 바다 안개. 빨간 트랙수트를 입은 리드가 카메라를 향해 랩을 한다 — 입술과 턱이 모든 단어에 정확히 싱크되고, 비트에 맞춰 고개를 내리꽂는다. 밝고 강렬하고 빠르며 자신감 넘치는 랩. 비트에 맞춰 하드컷, 전환마다 이중 대비(샷 사이즈와 종류가 함께 바뀐다). 가사(리드가 각 언어로 'hello'를 차례로 부르며 정확히 립싱크한다): 영어 "Hello", 중국어 "你好", 일본어 "こんにちは", 한국어 "안녕하세요", 포르투갈어 "Olá", 태국어 "สวัสดี", 스페인어 "Hola", 아랍어 "مرحبا". 8개의 하드컷 샷(로우앵글 와이드 설정샷, 카메라를 향한 랩 클로즈업, 기타 줄 매크로 인서트, 3/4 각도로 배회하듯 도는 오빗, 해안선을 따라가는 측면 트래킹, 드러머 틸트업, 리드에게 타이트하게 밀고 들어가는 푸시, 밴드 전체로 향하는 웅장한 푸시인), 샷마다 한 언어씩. 화이트밸런스 4000K, 틸앤앰버 색보정, 35mm, 얕은 심도, 필름 그레인, 바다 안개, 골든아워 플레어. 프리미엄한 느낌, 정확한 립싱크, 자막 없음, 텍스트 오버레이 없음, 하드컷만 사용, 총 20초.
 ```
 
-### No. 7: Capsule Coffee Machine Setup Tutorial (6 refs)
+### No. 7: 캡슐 커피 머신 설치 튜토리얼 (참조 6장)
 
-- **Category:** `Reference-Guided Tutorial`
+- **Category:** `참조 기반 튜토리얼`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ko`
@@ -272,17 +261,17 @@ Cinematic hip-hop / rap music video, photoreal quality, high-end tone, seaside s
 
 #### Description
 
-A 30-second setup-and-use tutorial for a capsule coffee machine, six reference-guided steps with voiceover — from installing the water tank to the first rinse.
+캡슐 커피 머신의 설치와 사용법을 담은 30초 튜토리얼, 보이스오버와 함께하는 참조 기반 6단계 — 물탱크 설치부터 첫 헹굼까지.
 
 #### Prompt
 
 ```text
-A 30-second tutorial video on installing and using a capsule coffee machine. 0-2s: the opening title card reads "seedance capsule coffee machine setup tutorial". 2-5s, Step 1: install the water tank, reference @image1, medium shot from a slightly high angle, rear of the machine body, align the water tank with the slot on the back of the body and push it straight down until it clicks firmly into place, clearly showing how the tank's bottom clips align with the body's slot, the water level line visible through the tank's transparent section, voiceover "First, install the water tank. Align the tank with the slot on the back of the machine; a click means it is locked in place.". 5-9s, Step 2: install the drip tray, reference @image2, close-up front view, front bottom of the body, slide the drip tray horizontally into the guide rails at the bottom until fully seated, voiceover "Next, install the drip tray. Align the tray with the bottom rails.". 9-13s, Step 3: install the used-capsule collection box, reference @image3, close-up from a slightly low angle, the cavity beneath the drip tray, align the collection box with the recess and push it in flush with the drip tray, voiceover "Then insert the capsule collection box. Used capsules will drop down here automatically.". 13-18s, Step 4: first fill with water, reference @image4, close-up side view, the water tank at the top/back of the body, open the tank lid and pour in clean water up to the MAX water level line, then close it, emphasizing the water level line, voiceover "Open the tank lid, pour in clean water, being careful not to exceed the maximum water level line, then close the tank lid.". 18-25s, Step 5: power on, reference @image5, medium shot front view, front of the body, plug in the power cord and press the power button; the indicator light goes from blinking to steady (preheating complete), voiceover "Connect the power and press the power button. The indicator light starts blinking, which means it is preheating. When the light turns steady, the machine is ready.". 25-30s, Step 6: first rinse (without a capsule), reference @image6, medium shot moving to a close-up front-side view, without inserting a capsule press the brew button directly so hot water flows out and rinses the lines, emphasizing the "no capsule needed" note, voiceover "The last step, the first rinse. Note that this step does not require a capsule; just press the brew button. Once the rinse is done, your coffee machine is ready to use."
+캡슐 커피 머신 설치 및 사용법에 관한 30초 튜토리얼 영상. 0-2s: 오프닝 타이틀 카드에 "seedance 캡슐 커피 머신 설치 튜토리얼"이 표시된다. 2-5s, Step 1: 물탱크 설치, 참조 @image1, 약간 높은 각도의 미디엄 샷, 본체 후면, 물탱크를 본체 뒤쪽 홈에 맞춰 딸깍 소리가 나며 확실히 고정될 때까지 수직으로 눌러 넣는다. 탱크 바닥의 걸쇠가 본체 홈에 어떻게 맞물리는지 명확히 보여주고, 탱크의 투명한 부분을 통해 수위선이 보인다. 보이스오버 "먼저 물탱크를 설치합니다. 탱크를 머신 뒤쪽 홈에 맞추세요. 딸깍 소리가 나면 제자리에 고정된 것입니다.". 5-9s, Step 2: 물받이 설치, 참조 @image2, 정면 클로즈업, 본체 하단 앞쪽, 물받이를 바닥의 가이드 레일에 수평으로 밀어 넣어 완전히 안착시킨다. 보이스오버 "다음으로 물받이를 설치합니다. 물받이를 하단 레일에 맞추세요.". 9-13s, Step 3: 사용한 캡슐 수거함 설치, 참조 @image3, 약간 낮은 각도의 클로즈업, 물받이 아래 공간, 수거함을 홈에 맞춰 물받이와 같은 높이가 되도록 밀어 넣는다. 보이스오버 "그런 다음 캡슐 수거함을 넣습니다. 사용한 캡슐은 여기로 자동으로 떨어집니다.". 13-18s, Step 4: 첫 급수, 참조 @image4, 측면 클로즈업, 본체 상단/후면의 물탱크, 탱크 뚜껑을 열고 MAX 수위선까지 깨끗한 물을 부은 뒤 닫는다. 수위선을 강조한다. 보이스오버 "탱크 뚜껑을 열고 최대 수위선을 넘지 않도록 주의하며 깨끗한 물을 부은 다음, 탱크 뚜껑을 닫습니다.". 18-25s, Step 5: 전원 켜기, 참조 @image5, 정면 미디엄 샷, 본체 앞쪽, 전원 코드를 꽂고 전원 버튼을 누른다. 표시등이 깜빡임에서 켜짐 상태로 바뀐다(예열 완료). 보이스오버 "전원을 연결하고 전원 버튼을 누릅니다. 표시등이 깜빡이기 시작하면 예열 중이라는 뜻입니다. 표시등이 켜진 상태로 유지되면 머신이 준비된 것입니다.". 25-30s, Step 6: 첫 헹굼(캡슐 없이), 참조 @image6, 미디엄 샷에서 정면 측면 클로즈업으로 이동, 캡슐을 넣지 않고 추출 버튼을 바로 눌러 뜨거운 물이 흘러나오며 관을 헹군다. "캡슐이 필요 없음"이라는 점을 강조한다. 보이스오버 "마지막 단계, 첫 헹굼입니다. 이 단계에서는 캡슐이 필요 없다는 점에 유의하세요. 추출 버튼만 누르면 됩니다. 헹굼이 끝나면 커피 머신을 사용할 준비가 완료됩니다.".
 ```
 
-### No. 8: Fruity Cookie Commercial (image + 6 video refs)
+### No. 8: 과일 쿠키 광고 (이미지 + 비디오 참조 6장)
 
-- **Category:** `Multimodal Reference (image+video)`
+- **Category:** `멀티모달 참조 (이미지+비디오)`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ko`
@@ -303,23 +292,23 @@ A 30-second tutorial video on installing and using a capsule coffee machine. 0-2
 
 #### Description
 
-A bright, colorful commercial for fruity cookies in four flavors — strawberry, apple, grape, orange — built from one image reference and six motion/camera video references, cut hard to a driving beat.
+딸기, 사과, 포도, 오렌지 네 가지 맛 과일 쿠키를 위한 밝고 다채로운 광고. 이미지 참조 한 장과 움직임/카메라 비디오 참조 여섯 장으로 만들고, 강렬한 비트에 맞춰 하드컷한다.
 
 #### Prompt
 
 ```text
-A bright, colorful commercial style with fruity cookies as the hero, in four flavors — strawberry, apple, grape, and orange; strawberry flavor reference @image1. The cookies and their matching fruits are arranged in a strongly ordered geometric array; the overall frame is clean, premium, and high-energy. It opens with the fruits orbiting rapidly around the central cookie to quickly establish visual focus — reference the composition of @video1 — cutting in on a strong musical beat. Then cookies of different flavors advance toward the lens along spiral paths, forming clear spatial depth — reference the motion and camera work of @video2 — switching colors and flavors on the beat with the background music. The array of cookies pans left and right with fast plane-to-plane cuts, strawberry, apple, grape, and orange flavors alternating as the frame jump-cuts quickly to the rhythm — reference the movement of @video3. The mid-section adds up-and-down panning; the neat cookie array rises and falls vertically like a machine — reference the movement of @video4 — highlighting the beauty of order and the richness of the product. In the climax a cookie is snapped in two and the moment enters slow motion as the fruity filling bursts open, crumbs scattering, the juicy sensation and grainy impact amplified — reference the explosion effect of @video5 — then quickly returns to the fast-paced edit. The ending brings in the English text "Fresh on Seedance, made for viral vision", entering word by word in quick succession with strong rhythmic text motion and a product freeze-frame — reference @video6 — the four cookie flavors lined up neatly with the fruits bouncing in sync for a final brand-forward close, the frame full of a young, energetic, delicious, shareable ad atmosphere.
+과일 쿠키를 주인공으로 한 밝고 다채로운 광고 스타일, 딸기, 사과, 포도, 오렌지 네 가지 맛 — 딸기맛 참조 @image1. 쿠키와 그에 어울리는 과일들이 질서정연한 기하학적 배열로 놓여 있고, 전체 프레임은 깔끔하고 고급스러우며 에너지가 넘친다. 오프닝에서는 과일들이 중앙의 쿠키 주위를 빠르게 돌며 시선을 순식간에 집중시키고 — @video1의 구도를 참조 — 강한 음악 비트에 맞춰 컷인한다. 이어서 서로 다른 맛의 쿠키들이 나선형 경로를 따라 렌즈 쪽으로 다가오며 뚜렷한 공간감을 형성하고 — @video2의 움직임과 카메라워크를 참조 — 배경음악의 비트에 맞춰 색과 맛을 전환한다. 쿠키 배열이 평면에서 평면으로 빠르게 컷되며 좌우로 팬하고, 리듬에 맞춰 프레임이 빠르게 점프컷되면서 딸기, 사과, 포도, 오렌지맛이 번갈아 나타난다 — @video3의 움직임을 참조. 중반부에는 상하 패닝이 더해져, 정돈된 쿠키 배열이 기계처럼 수직으로 오르내리며 — @video4의 움직임을 참조 — 질서의 아름다움과 제품의 풍성함을 강조한다. 클라이맥스에서는 쿠키 하나가 두 동강 나고 그 순간 슬로모션으로 전환되며 과일 필링이 터져 나오고, 부스러기가 흩날리며 촉촉함과 알갱이의 임팩트가 증폭된다 — @video5의 폭발 효과를 참조 — 이후 빠른 템포의 편집으로 신속히 돌아온다. 엔딩에서는 영어 텍스트 "Fresh on Seedance, made for viral vision"이 강한 리듬감의 텍스트 모션과 함께 한 단어씩 빠르게 이어져 등장하고 제품이 정지 화면으로 멈춘다 — @video6를 참조 — 네 가지 쿠키맛이 가지런히 늘어서고 과일들이 싱크에 맞춰 통통 튀며 브랜드를 앞세운 마지막 장면으로 마무리되어, 프레임 전체가 젊고 활기차고 먹음직스러우며 공유하고 싶은 광고 분위기로 가득 찬다.
 ```
 
 ## 📋 All Prompts
 
 <a id="category-1"></a>
 
-### Match-Cut & Creative Effects (1)
+### 매치컷 & 크리에이티브 이펙트 (1)
 
-### No. 1: Crystal Ball Match-Cut Beat Film
+### No. 1: 수정 구슬 매치컷 비트 필름
 
-- **Category:** `Match-Cut & Creative Effects`
+- **Category:** `매치컷 & 크리에이티브 이펙트`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ko`
@@ -330,21 +319,21 @@ A bright, colorful commercial style with fruity cookies as the hero, in four fla
 
 #### Description
 
-A beat-synced match-cut film: one crystal ball etched with a glowing 'seedance' logo stays centered while eight scenes cut seamlessly behind it.
+비트에 맞춘 매치컷 영상: 빛나는 'seedance' 로고가 새겨진 수정 구슬 하나가 중앙에 고정된 채, 그 뒤로 여덟 개의 장면이 매끄럽게 전환된다.
 
 #### Prompt
 
 ```text
-A fast-paced, cinematic Match-cut short film synced to a driving electronic beat. A flawless crystal ball stays fixed dead-center throughout, a glowing "seedance" logo etched inside it. The ball holds razor-sharp focus while, on every strong musical beat, the background match-cuts seamlessly: Scene 1: macro close-up, cinematic water splashing around the ball, refracting intricate light. Scene 2: a vintage morning cafe, the ball on a raw-wood table, rising coffee steam and blurred commuters beyond the window. Scene 3: golden-hour dusk, a skater youth tosses and catches the ball one-handed, street racing backward behind them in gorgeous backlit sunset. Scene 4: a frenzied music festival, hands raise the ball high, refracting dazzling stage lasers. Scene 5: a lively family party table, the ball resting center-frame, blurred figures toasting and reaching for food. Scene 6: a dim cinema, hands cupping the ball as the giant screen's faint glow drifts across its surface. Scene 7: the ball on a violently vibrating speaker diaphragm, match-cutting on the climax to a spinning DJ turntable center. Scene 8: an outdoor camping night, background becoming warm bonfire and swaying string-light bokeh. Finale: on the final downbeat the ball is hurled up out of frame; cut to pure black, a minimal white-on-black "seedance" appearing dead-center. Beat-synced match-cut editing, top-tier cinematic color grading, photoreal glass refraction, ray tracing, global illumination. Subject razor-sharp, background heavy motion blur.
+강렬한 일렉트로닉 비트에 맞춘 빠른 템포의 시네마틱 매치컷 단편. 흠 하나 없는 수정 구슬이 처음부터 끝까지 정중앙에 고정되어 있고, 그 안에는 빛나는 "seedance" 로고가 새겨져 있다. 구슬은 면도날처럼 선명한 초점을 유지하고, 강한 비트가 떨어질 때마다 배경이 매끄럽게 매치컷된다. Scene 1: 매크로 클로즈업, 구슬 주위로 시네마틱하게 물이 튀며 정교한 빛이 굴절된다. Scene 2: 빈티지한 아침 카페, 원목 테이블 위의 구슬, 피어오르는 커피 김과 창밖으로 흐릿하게 지나가는 출근길 인파. Scene 3: 골든아워의 황혼, 스케이터 청년이 한 손으로 구슬을 던졌다 받고, 그 뒤로 아름다운 역광 노을 속에서 거리가 뒤로 질주한다. Scene 4: 열광적인 음악 페스티벌, 여러 손이 구슬을 높이 들어 올리며 눈부신 무대 레이저가 굴절된다. Scene 5: 활기찬 가족 파티 테이블, 프레임 중앙에 놓인 구슬, 건배하고 음식으로 손을 뻗는 흐릿한 인물들. Scene 6: 어두운 영화관, 두 손이 구슬을 감싸 쥐고 거대한 스크린의 은은한 빛이 그 표면을 스쳐 지나간다. Scene 7: 격렬하게 진동하는 스피커 진동판 위의 구슬, 클라이맥스에서 회전하는 DJ 턴테이블 중앙으로 매치컷된다. Scene 8: 야외 캠핑의 밤, 배경이 따뜻한 모닥불과 흔들리는 전구 조명의 보케로 바뀐다. 피날레: 마지막 다운비트에 구슬이 프레임 밖으로 튀어 오르고, 완전한 검은 화면으로 전환되며 검정 배경에 흰 글씨로 미니멀한 "seedance"가 정중앙에 나타난다. 비트에 맞춘 매치컷 편집, 최상급 시네마틱 색보정, 사실적인 유리 굴절, 레이 트레이싱, 글로벌 일루미네이션. 피사체는 면도날처럼 선명하고 배경은 강한 모션 블러.
 ```
 
 <a id="category-2"></a>
 
-### One-Take Cinematography (1)
+### 원테이크 촬영 (1)
 
-### No. 1: Steampunk Clockwork — 30s One-Take
+### No. 1: 스팀펑크 태엽 장치 — 30초 원테이크
 
-- **Category:** `One-Take Cinematography`
+- **Category:** `원테이크 촬영`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ko`
@@ -355,21 +344,21 @@ A fast-paced, cinematic Match-cut short film synced to a driving electronic beat
 
 #### Description
 
-A 30-second steampunk miniature 3D sequence with continuous orbiting, pass-through camera moves.
+끊김 없이 선회하고 관통하는 카메라 움직임을 담은 30초 스팀펑크 미니어처 3D 시퀀스.
 
 #### Prompt
 
 ```text
-A high-end, deeply cinematic 30-second 3D motion-graphics sequence in refined steampunk and vintage-miniature style, with continuous fluid orbiting and pass-through camera moves. [0-10s] Macro close-up of an antique brass clock face that unfolds layer by layer into meshing rotating gear rings and volumetric fog. The camera pierces down through the gears; a mechanical ornithopter spirals up from a miniature canyon of stacked weathered old books. [10-20s] The camera glides forward tracking the ornithopter, seamlessly passing into a fast-spinning ornate brass zoetrope projecting galloping mechanical-horse light. The light leaps out and the scene becomes a brass floating cable car on glimmering copper rails through a forest of gears, bathed in cinematic golden-hour light. [20-30s] The camera pans elegantly down; below appears an exquisite clockwork wooden sailing ship cutting deep-blue glass-textured waves, which morph into a glowing giant moon with lantern-holding explorer silhouettes trekking a crystal-vein ridge under stars. The camera spirals smoothly back through ethereal clouds to the ticking brass clock face. Hyper-real mechanical textures, rich brass and gold tones, cinematic shallow depth of field, smooth seamless pass-through camerawork, epic fantastical adventure atmosphere.
+세련된 스팀펑크와 빈티지 미니어처 스타일의 고급스럽고 깊이 있는 시네마틱 30초 3D 모션그래픽 시퀀스로, 끊김 없이 유연하게 선회하고 관통하는 카메라 움직임을 담는다. [0-10s] 골동품 황동 시계 문자판의 매크로 클로즈업이 층층이 펼쳐지며 서로 맞물려 회전하는 톱니바퀴 링과 볼류메트릭 안개로 변한다. 카메라가 톱니바퀴 사이를 뚫고 내려가고, 낡고 오래된 책이 쌓인 미니어처 협곡에서 기계식 오니솝터가 나선을 그리며 솟아오른다. [10-20s] 카메라가 오니솝터를 따라 앞으로 미끄러지며, 질주하는 기계 말의 빛을 투사하는 빠르게 회전하는 화려한 황동 조트로프 속으로 매끄럽게 들어간다. 그 빛이 튀어나오면서 장면은 톱니바퀴 숲을 가로지르는, 반짝이는 구리 레일 위의 황동 공중 케이블카로 바뀌고, 시네마틱한 골든아워 빛에 잠긴다. [20-30s] 카메라가 우아하게 아래로 팬하면, 그 아래로 유리 질감의 짙푸른 파도를 가르는 정교한 태엽 목조 범선이 나타나고, 이는 별빛 아래 크리스털 광맥 능선을 등불을 든 탐험가 실루엣이 걸어가는 빛나는 거대한 달로 변모한다. 카메라는 몽환적인 구름 사이로 매끄럽게 나선을 그리며 째깍이는 황동 시계 문자판으로 되돌아온다. 초사실적인 기계 질감, 풍부한 황동과 금빛 톤, 시네마틱한 얕은 심도, 부드럽고 이음매 없는 관통 카메라워크, 웅장하고 환상적인 모험 분위기.
 ```
 
 <a id="category-3"></a>
 
-### Multi-Image Reference (3)
+### 다중 이미지 참조 (3)
 
-### No. 1: Windows Through Worlds (5 refs)
+### No. 1: 세계를 잇는 창들 (참조 5장)
 
-- **Category:** `Multi-Image Reference`
+- **Category:** `다중 이미지 참조`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ko`
@@ -388,17 +377,17 @@ A high-end, deeply cinematic 30-second 3D motion-graphics sequence in refined st
 
 #### Description
 
-A brand concept short driven by 5 reference images, gliding through windows into different worlds.
+참조 이미지 5장으로 구성한 브랜드 콘셉트 단편, 창을 통과하며 서로 다른 세계로 미끄러져 들어간다.
 
 #### Prompt
 
 ```text
-A cinematic brand concept short. @image1 is the first frame; the picture trembles slightly, the camera pushes in to tree shadows rushing backward outside the window, their retreat accelerating, then abruptly cuts to @image2, speed easing as the camera glides slowly along a stream, birdsong and blossoms. The camera drops underwater — bubble sounds — as orange jellyfish drift gracefully past the lens @image3; the camera pulls back as small fish flit past and swim from the water into the window @image4, a girl looking around, watching them. The camera pulls back, defocuses, then refocuses sharp, switching to the music's rhythm: a Chinese-garden lattice window @image5 with light circling, church stained glass, an airplane porthole, a dome skylight, a bay window, louver blinds, a European dormer, a door peephole, a camera viewfinder, a bird's eye, a human eye close-up. It settles on the human eye; the eye closes, screen black, then suddenly opens — "seedance" appearing in the center of the eye on the accent beat.
+시네마틱한 브랜드 콘셉트 단편. @image1이 첫 프레임이다. 화면이 살짝 떨리고, 카메라가 창밖으로 뒤로 빠르게 스쳐 가는 나무 그림자 쪽으로 밀고 들어가며 그 후퇴가 점점 빨라지다가, 갑자기 @image2로 컷 전환되어 속도가 완만해지고 카메라가 새소리와 꽃 사이로 시냇물을 따라 천천히 미끄러진다. 카메라가 물속으로 내려가고 — 물방울 소리 — 주황빛 해파리가 렌즈 앞을 우아하게 떠간다 @image3. 카메라가 뒤로 물러나는 사이 작은 물고기들이 스쳐 지나가며 물에서 창문 안으로 헤엄쳐 들어가고 @image4, 한 소녀가 주위를 둘러보며 그들을 바라본다. 카메라가 뒤로 물러나며 초점이 흐려졌다가 다시 선명하게 맞춰지고, 음악의 리듬에 맞춰 전환된다. 빛이 감도는 중국식 정원의 격자창 @image5, 교회의 스테인드글라스, 비행기 창, 돔형 천창, 퇴창, 루버 블라인드, 유럽식 지붕창, 문의 도어스코프, 카메라 뷰파인더, 새의 눈, 사람 눈의 클로즈업. 화면은 사람의 눈에 정착하고, 눈이 감기며 화면이 검게 변했다가, 갑자기 눈이 떠지며 강조 비트에 맞춰 눈 중앙에 "seedance"가 나타난다.
 ```
 
-### No. 2: One-Take Through Six Rooms (8 refs)
+### No. 2: 여섯 개의 방을 지나는 원테이크 (참조 8장)
 
-- **Category:** `Multi-Image Reference`
+- **Category:** `다중 이미지 참조`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ko`
@@ -420,17 +409,17 @@ A cinematic brand concept short. @image1 is the first frame; the picture tremble
 
 #### Description
 
-One continuous take following a figure through six mood-shifting rooms, driven by 8 reference images.
+참조 이미지 8장으로 구성한, 한 인물을 따라 분위기가 바뀌는 여섯 개의 방을 지나는 원 컨티뉴어스 테이크.
 
 #### Prompt
 
 ```text
-One continuous take. The camera smoothly follows a person in a black coat (reference @image1) moving left to right through six connected rooms of different tones and moods. Every room shares the same structure: white walls, light herringbone wood floor, French floor-to-ceiling windows, white sheer curtains (reference @image2) but the outside view and mood differ each time. The protagonist walks at a constant pace, passing through every open door. 0-5s room one, American-comic fight: the protagonist fights a character (@image3), who is defeated; 5-10s room two, warmth, felt-craft style, window view a sunflower field (@image4), warm-orange soft light, a painter painting sunflowers (@image5), the protagonist turning felt-style on entering; 10-15s room three, sorrow, black-and-white comic stop-motion, rain outside, cold-grey light, a person alone on the floor hugging their knees, a phone glowing with an unanswered call; on entering, the light blinks off then on, the room turns color, flowers bursting into bloom; 15-20s room four, joy, a room submerged in the sea (reference @image6), the protagonist turning transparent among coral and fish; 20-25s room five, surprise, window view a sky of fireworks (reference @image7), colorful flickering light, the protagonist swept up in a cheering crowd; 25-30s a blank white room, the protagonist snaps their fingers — snap SFX — frame goes black, "seedance" in the middle (reference @image8). Cinematic quality, high-fashion advertising style, lighting entirely determined by the window views for strong emotional contrast, no text in frame.
+원 컨티뉴어스 테이크. 카메라가 검은 코트를 입은 인물(참조 @image1)을 부드럽게 따라가며, 서로 다른 톤과 분위기의 연결된 여섯 개 방을 왼쪽에서 오른쪽으로 통과한다. 모든 방은 같은 구조를 공유한다. 흰 벽, 밝은 헤링본 원목 바닥, 바닥부터 천장까지 이어지는 프렌치 창, 흰 시어 커튼(참조 @image2). 다만 창밖 풍경과 분위기는 매번 다르다. 주인공은 일정한 속도로 걸으며 열려 있는 모든 문을 통과한다. 0-5s 첫 번째 방, 미국 만화풍 액션: 주인공이 한 캐릭터(@image3)와 싸워 그를 쓰러뜨린다. 5-10s 두 번째 방, 따뜻함, 펠트 공예 스타일, 창밖은 해바라기 밭(@image4), 따뜻한 주황빛 부드러운 조명, 해바라기를 그리는 화가(@image5), 주인공이 들어서며 펠트 스타일로 변한다. 10-15s 세 번째 방, 슬픔, 흑백 만화 스톱모션, 창밖엔 비, 차가운 회색 빛, 한 사람이 홀로 바닥에 앉아 무릎을 끌어안고 있고, 받지 못한 전화로 휴대폰이 빛난다. 들어서는 순간 조명이 꺼졌다 켜지고, 방이 색을 되찾으며 꽃이 활짝 피어난다. 15-20s 네 번째 방, 기쁨, 바닷속에 잠긴 방(참조 @image6), 주인공이 산호와 물고기 사이에서 투명해진다. 20-25s 다섯 번째 방, 놀람, 창밖은 불꽃놀이로 가득한 하늘(참조 @image7), 알록달록 깜빡이는 빛, 주인공이 환호하는 군중에 휩쓸린다. 25-30s 텅 빈 흰 방, 주인공이 손가락을 튕기고 — 딱 하는 효과음 — 화면이 검게 변하며 중앙에 "seedance"가 나타난다(참조 @image8). 시네마틱한 퀄리티, 하이패션 광고 스타일, 조명은 전적으로 창밖 풍경에 의해 결정되어 강한 감정 대비를 이루며, 화면 안에 텍스트는 없다.
 ```
 
-### No. 3: Multilingual Hip-Hop 'Hello' MV
+### No. 3: 다국어 힙합 'Hello' 뮤직비디오
 
-- **Category:** `Multi-Image Reference`
+- **Category:** `다중 이미지 참조`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ko`
@@ -445,21 +434,21 @@ One continuous take. The camera smoothly follows a person in a black coat (refer
 
 #### Description
 
-A seaside hip-hop MV built from one reference image; the lead raps 'hello' in 8 languages, lip-synced, hard cuts on the beat.
+참조 이미지 한 장으로 만든 해변 힙합 뮤직비디오. 리드가 8개 언어로 'hello'를 립싱크로 랩하며, 비트에 맞춰 하드컷한다.
 
 #### Prompt
 
 ```text
-Cinematic hip-hop / rap music video, photoreal quality, high-end tone, seaside setting. Build the frame from @image1: a band performs at a golden sand beach with crashing waves — a lead vocalist gripping a mic on a stand in the wet sand, one guitarist left, one right, a drummer at the back; a vast coastline behind, rolling waves, a warm golden-hour sun shimmering on the water, sea mist in the air. The lead in a red tracksuit raps to camera — lips and jaw precisely synced to every word, head punching to the beat. Bright, punchy, fast, confident rap. HARD CUT on the beat, each switch a double contrast (shot size and type change together). Lyrics (the lead sings 'hello' in each language in turn, precisely lip-synced): English "Hello", Chinese "你好", Japanese "こんにちは", Korean "안녕하세요", Portuguese "Olá", Thai "สวัสดี", Spanish "Hola", Arabic "مرحبا". 8 hard-cut shots (low-angle wide establishing; close-up rap to camera; macro guitar-string insert; 3/4 prowling orbit; lateral track at shore; drummer tilt-up; tight push on the lead; heroic full-band push-in), one language per shot. White balance 4000K, teal-and-amber grade, 35mm, shallow depth of field, film grain, sea mist, golden-hour flare. Premium feel, precise lip-sync, no subtitles, no text overlays, hard cuts only, total 20 seconds.
+시네마틱한 힙합/랩 뮤직비디오, 포토리얼 퀄리티, 고급스러운 톤, 해변 배경. @image1로 프레임을 구성한다. 파도가 부서지는 황금빛 모래 해변에서 밴드가 공연한다 — 젖은 모래 위 스탠드 마이크를 움켜쥔 리드 보컬, 왼쪽에 기타리스트 한 명, 오른쪽에 한 명, 뒤쪽에 드러머. 뒤로는 광활한 해안선, 굽이치는 파도, 수면에 일렁이는 따뜻한 골든아워의 태양, 공기 중의 바다 안개. 빨간 트랙수트를 입은 리드가 카메라를 향해 랩을 한다 — 입술과 턱이 모든 단어에 정확히 싱크되고, 비트에 맞춰 고개를 내리꽂는다. 밝고 강렬하고 빠르며 자신감 넘치는 랩. 비트에 맞춰 하드컷, 전환마다 이중 대비(샷 사이즈와 종류가 함께 바뀐다). 가사(리드가 각 언어로 'hello'를 차례로 부르며 정확히 립싱크한다): 영어 "Hello", 중국어 "你好", 일본어 "こんにちは", 한국어 "안녕하세요", 포르투갈어 "Olá", 태국어 "สวัสดี", 스페인어 "Hola", 아랍어 "مرحبا". 8개의 하드컷 샷(로우앵글 와이드 설정샷, 카메라를 향한 랩 클로즈업, 기타 줄 매크로 인서트, 3/4 각도로 배회하듯 도는 오빗, 해안선을 따라가는 측면 트래킹, 드러머 틸트업, 리드에게 타이트하게 밀고 들어가는 푸시, 밴드 전체로 향하는 웅장한 푸시인), 샷마다 한 언어씩. 화이트밸런스 4000K, 틸앤앰버 색보정, 35mm, 얕은 심도, 필름 그레인, 바다 안개, 골든아워 플레어. 프리미엄한 느낌, 정확한 립싱크, 자막 없음, 텍스트 오버레이 없음, 하드컷만 사용, 총 20초.
 ```
 
 <a id="category-4"></a>
 
-### Video Editing (2)
+### 비디오 편집 (2)
 
-### No. 1: Video Edit — Remove All But the Lead
+### No. 1: 비디오 편집 — 주인공만 남기고 모두 제거
 
-- **Category:** `Video Editing`
+- **Category:** `비디오 편집`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ko`
@@ -474,17 +463,17 @@ Cinematic hip-hop / rap music video, photoreal quality, high-end tone, seaside s
 
 #### Description
 
-Reference-video editing: erase everyone except the protagonist from a source clip.
+참조 비디오 편집: 원본 클립에서 주인공을 제외한 모든 사람을 지운다.
 
 #### Prompt
 
 ```text
-Video editing: remove everyone in @video1 except the protagonist.
+비디오 편집: @video1에서 주인공을 제외한 모든 사람을 제거한다.
 ```
 
-### No. 2: Steam Train Bursts the Screen (video edit)
+### No. 2: 증기 기관차가 스크린을 뚫고 나오다 (비디오 편집)
 
-- **Category:** `Video Editing`
+- **Category:** `비디오 편집`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ko`
@@ -499,21 +488,21 @@ Video editing: remove everyone in @video1 except the protagonist.
 
 #### Description
 
-A video edit that keeps the original @video1 old-cinema clip intact and adds only a steam locomotive bursting through the screen, tearing the fabric, with black-and-white snapping to full color at the moment of impact.
+원본 @video1의 옛 영화관 클립은 그대로 유지하고, 스크린을 뚫고 나오며 천을 찢는 증기 기관차만 추가하는 비디오 편집. 충돌 순간 흑백이 풀컬러로 확 바뀐다.
 
 #### Prompt
 
 ```text
-Hyper-real cinematic realist style with photorealistic live-action texture, emphasizing the real-world plausibility of the physical object bursting out (the steam train); no CGI gloss / game engine / stylized 3D. Preserve @video1's original composition, projection-hall lighting, handheld camera state and natural imperfections. Source video locked: keep @video1 fully intact as the base image (the old-fashioned projection hall, the rows of hat-wearing audience seen from behind, the projector's conical beam, the screen, the ambient light, the color tone and the handheld movement all unchanged); the only additions: the train bursting out of the screen, the changes in light and shadow it brings, the tearing of the screen, and the slight physical impact on the hall and the front-row audience. Color-shift rule (the core addition): at the start strictly keep @video1's original black-and-white old-film texture (grain / scratches / flicker / monochrome); at the exact moment the locomotive truly breaks through the screen and bursts into reality, the image abruptly shifts from black-and-white to full, real color, the color spreading across the whole frame like a shockwave centered on the point where the train breaks out (the train's black steel body, the red-copper boiler, the orange-yellow steam-lamp glow, the warm brown of the wooden carriage, the white-grey steam, and the warm brown of the projection hall all coming into color accordingly); the color shift is precisely synchronized with the screen-breaking burst, after which photorealistic color is maintained to the end. Screen-tearing locked: the screen is a real white projection cloth with genuine fabric tension; as the train bursts out it is forcibly torn open along the contour of the locomotive's front, with radial rips whose edges curl back and shredded cloth fibers flying. Subject: an old-fashioned steam locomotive front bursting forcibly out of the screen, a black steel body, a cylindrical boiler, a front cowcatcher, a chimney venting white-grey steam, a bright headlamp, the metal surfaces with real wear, oil grime, rivets and wet reflections, charging forward with immense weight and inertia. Camera: fully inherits @video1's original handheld movement, not smoothed, not re-timed, not re-composed; the bursting train stays correctly locked into the screen and the hall space at all times, maintaining correct parallax, occlusion and ground-contact shadow. Sound: no music, keep only real on-scene sound effects, inheriting @video1's projection-hall ambience (the projector's clatter, the audience's stirring) and adding the sound of the cloth tearing, steam gushing, the mechanical roar of steel wheels, and the impact air blast. Total duration exactly the same as @video1; add nothing other than the train itself and its physical interactions, the screen tearing, and the color shift at the moment of the break. No slow motion, no sense of magic, no stylized horror; the final result should look like an eerie yet real image of "a train smashing through the screen, black-and-white instantly turning to color" captured by chance by a real camera in an old projection hall.
+초사실적인 시네마틱 리얼리즘 스타일에 실사 같은 질감을 더해, 물리적 사물(증기 기관차)이 튀어나오는 현실적 개연성을 강조한다. CGI 특유의 광택/게임 엔진/양식화된 3D 느낌은 없다. @video1의 원래 구도, 영사관 조명, 핸드헬드 카메라 상태, 자연스러운 결함을 그대로 보존한다. 원본 영상 고정: @video1을 베이스 이미지로 완전히 그대로 유지한다(구식 영사관, 뒤에서 본 모자 쓴 관객들의 줄, 영사기의 원뿔형 빛줄기, 스크린, 주변광, 색조, 핸드헬드 움직임 모두 변경 없음). 추가하는 것은 오직: 스크린을 뚫고 나오는 기관차, 그로 인해 생기는 빛과 그림자의 변화, 스크린이 찢기는 모습, 그리고 영사관과 앞줄 관객에게 미치는 약간의 물리적 충격뿐이다. 색 전환 규칙(핵심 추가 요소): 시작 시점에는 @video1의 원래 흑백 옛 필름 질감(그레인/스크래치/깜빡임/모노크롬)을 엄격히 유지한다. 기관차가 실제로 스크린을 뚫고 현실로 터져 나오는 바로 그 순간, 이미지가 흑백에서 완전한 실제 컬러로 급격히 전환되며, 기차가 뚫고 나온 지점을 중심으로 충격파처럼 색이 화면 전체로 퍼져 나간다(기차의 검은 강철 차체, 붉은 구릿빛 보일러, 주황빛 노랑의 증기등 불빛, 목조 객차의 따뜻한 갈색, 희끄무레한 회색 증기, 그리고 영사관의 따뜻한 갈색이 모두 그에 맞춰 색을 띤다). 색 전환은 스크린을 뚫는 폭발과 정확히 동기화되며, 그 이후로는 끝까지 실사 컬러를 유지한다. 스크린 찢김 고정: 스크린은 실제 천의 장력을 가진 진짜 흰 영사막이며, 기차가 터져 나오면서 기관차 앞부분의 윤곽을 따라 강제로 찢겨 열리고, 방사형으로 찢긴 자국의 가장자리가 말려 올라가며 잘게 찢긴 천 섬유가 흩날린다. 피사체: 스크린을 강제로 뚫고 나오는 구식 증기 기관차의 앞부분, 검은 강철 차체, 원통형 보일러, 앞쪽 배장기(카우캐처), 희끄무레한 회색 증기를 내뿜는 굴뚝, 밝은 전조등, 실제 마모와 기름때, 리벳, 젖은 반사가 있는 금속 표면, 엄청난 무게와 관성으로 앞으로 돌진한다. 카메라: @video1의 원래 핸드헬드 움직임을 온전히 계승하며, 보정하지 않고, 리타이밍하지 않고, 재구도하지 않는다. 튀어나오는 기차는 언제나 스크린과 영사관 공간에 정확히 고정되어, 올바른 시차, 가림, 지면 접촉 그림자를 유지한다. 사운드: 음악 없음, 실제 현장 효과음만 유지하며, @video1의 영사관 앰비언스(영사기 돌아가는 소리, 관객의 술렁임)를 계승하고, 천이 찢기는 소리, 증기가 쏟아지는 소리, 강철 바퀴의 기계적 굉음, 충격 공기 폭풍 소리를 더한다. 전체 길이는 @video1과 정확히 동일하다. 기차 자체와 그 물리적 상호작용, 스크린 찢김, 뚫는 순간의 색 전환 외에는 아무것도 추가하지 않는다. 슬로모션 없음, 마법적인 느낌 없음, 양식화된 공포 없음. 최종 결과물은 옛 영사관에서 실제 카메라로 우연히 포착한 "기차가 스크린을 뚫고 나오며 흑백이 순식간에 컬러로 바뀌는" 기이하면서도 현실적인 영상처럼 보여야 한다.
 ```
 
 <a id="category-5"></a>
 
-### Reference-Guided Tutorial (1)
+### 참조 기반 튜토리얼 (1)
 
-### No. 1: Capsule Coffee Machine Setup Tutorial (6 refs)
+### No. 1: 캡슐 커피 머신 설치 튜토리얼 (참조 6장)
 
-- **Category:** `Reference-Guided Tutorial`
+- **Category:** `참조 기반 튜토리얼`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ko`
@@ -533,21 +522,21 @@ Hyper-real cinematic realist style with photorealistic live-action texture, emph
 
 #### Description
 
-A 30-second setup-and-use tutorial for a capsule coffee machine, six reference-guided steps with voiceover — from installing the water tank to the first rinse.
+캡슐 커피 머신의 설치와 사용법을 담은 30초 튜토리얼, 보이스오버와 함께하는 참조 기반 6단계 — 물탱크 설치부터 첫 헹굼까지.
 
 #### Prompt
 
 ```text
-A 30-second tutorial video on installing and using a capsule coffee machine. 0-2s: the opening title card reads "seedance capsule coffee machine setup tutorial". 2-5s, Step 1: install the water tank, reference @image1, medium shot from a slightly high angle, rear of the machine body, align the water tank with the slot on the back of the body and push it straight down until it clicks firmly into place, clearly showing how the tank's bottom clips align with the body's slot, the water level line visible through the tank's transparent section, voiceover "First, install the water tank. Align the tank with the slot on the back of the machine; a click means it is locked in place.". 5-9s, Step 2: install the drip tray, reference @image2, close-up front view, front bottom of the body, slide the drip tray horizontally into the guide rails at the bottom until fully seated, voiceover "Next, install the drip tray. Align the tray with the bottom rails.". 9-13s, Step 3: install the used-capsule collection box, reference @image3, close-up from a slightly low angle, the cavity beneath the drip tray, align the collection box with the recess and push it in flush with the drip tray, voiceover "Then insert the capsule collection box. Used capsules will drop down here automatically.". 13-18s, Step 4: first fill with water, reference @image4, close-up side view, the water tank at the top/back of the body, open the tank lid and pour in clean water up to the MAX water level line, then close it, emphasizing the water level line, voiceover "Open the tank lid, pour in clean water, being careful not to exceed the maximum water level line, then close the tank lid.". 18-25s, Step 5: power on, reference @image5, medium shot front view, front of the body, plug in the power cord and press the power button; the indicator light goes from blinking to steady (preheating complete), voiceover "Connect the power and press the power button. The indicator light starts blinking, which means it is preheating. When the light turns steady, the machine is ready.". 25-30s, Step 6: first rinse (without a capsule), reference @image6, medium shot moving to a close-up front-side view, without inserting a capsule press the brew button directly so hot water flows out and rinses the lines, emphasizing the "no capsule needed" note, voiceover "The last step, the first rinse. Note that this step does not require a capsule; just press the brew button. Once the rinse is done, your coffee machine is ready to use."
+캡슐 커피 머신 설치 및 사용법에 관한 30초 튜토리얼 영상. 0-2s: 오프닝 타이틀 카드에 "seedance 캡슐 커피 머신 설치 튜토리얼"이 표시된다. 2-5s, Step 1: 물탱크 설치, 참조 @image1, 약간 높은 각도의 미디엄 샷, 본체 후면, 물탱크를 본체 뒤쪽 홈에 맞춰 딸깍 소리가 나며 확실히 고정될 때까지 수직으로 눌러 넣는다. 탱크 바닥의 걸쇠가 본체 홈에 어떻게 맞물리는지 명확히 보여주고, 탱크의 투명한 부분을 통해 수위선이 보인다. 보이스오버 "먼저 물탱크를 설치합니다. 탱크를 머신 뒤쪽 홈에 맞추세요. 딸깍 소리가 나면 제자리에 고정된 것입니다.". 5-9s, Step 2: 물받이 설치, 참조 @image2, 정면 클로즈업, 본체 하단 앞쪽, 물받이를 바닥의 가이드 레일에 수평으로 밀어 넣어 완전히 안착시킨다. 보이스오버 "다음으로 물받이를 설치합니다. 물받이를 하단 레일에 맞추세요.". 9-13s, Step 3: 사용한 캡슐 수거함 설치, 참조 @image3, 약간 낮은 각도의 클로즈업, 물받이 아래 공간, 수거함을 홈에 맞춰 물받이와 같은 높이가 되도록 밀어 넣는다. 보이스오버 "그런 다음 캡슐 수거함을 넣습니다. 사용한 캡슐은 여기로 자동으로 떨어집니다.". 13-18s, Step 4: 첫 급수, 참조 @image4, 측면 클로즈업, 본체 상단/후면의 물탱크, 탱크 뚜껑을 열고 MAX 수위선까지 깨끗한 물을 부은 뒤 닫는다. 수위선을 강조한다. 보이스오버 "탱크 뚜껑을 열고 최대 수위선을 넘지 않도록 주의하며 깨끗한 물을 부은 다음, 탱크 뚜껑을 닫습니다.". 18-25s, Step 5: 전원 켜기, 참조 @image5, 정면 미디엄 샷, 본체 앞쪽, 전원 코드를 꽂고 전원 버튼을 누른다. 표시등이 깜빡임에서 켜짐 상태로 바뀐다(예열 완료). 보이스오버 "전원을 연결하고 전원 버튼을 누릅니다. 표시등이 깜빡이기 시작하면 예열 중이라는 뜻입니다. 표시등이 켜진 상태로 유지되면 머신이 준비된 것입니다.". 25-30s, Step 6: 첫 헹굼(캡슐 없이), 참조 @image6, 미디엄 샷에서 정면 측면 클로즈업으로 이동, 캡슐을 넣지 않고 추출 버튼을 바로 눌러 뜨거운 물이 흘러나오며 관을 헹군다. "캡슐이 필요 없음"이라는 점을 강조한다. 보이스오버 "마지막 단계, 첫 헹굼입니다. 이 단계에서는 캡슐이 필요 없다는 점에 유의하세요. 추출 버튼만 누르면 됩니다. 헹굼이 끝나면 커피 머신을 사용할 준비가 완료됩니다.".
 ```
 
 <a id="category-6"></a>
 
-### Multimodal Reference (image+video) (1)
+### 멀티모달 참조 (이미지+비디오) (1)
 
-### No. 1: Fruity Cookie Commercial (image + 6 video refs)
+### No. 1: 과일 쿠키 광고 (이미지 + 비디오 참조 6장)
 
-- **Category:** `Multimodal Reference (image+video)`
+- **Category:** `멀티모달 참조 (이미지+비디오)`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ko`
@@ -568,21 +557,21 @@ A 30-second tutorial video on installing and using a capsule coffee machine. 0-2
 
 #### Description
 
-A bright, colorful commercial for fruity cookies in four flavors — strawberry, apple, grape, orange — built from one image reference and six motion/camera video references, cut hard to a driving beat.
+딸기, 사과, 포도, 오렌지 네 가지 맛 과일 쿠키를 위한 밝고 다채로운 광고. 이미지 참조 한 장과 움직임/카메라 비디오 참조 여섯 장으로 만들고, 강렬한 비트에 맞춰 하드컷한다.
 
 #### Prompt
 
 ```text
-A bright, colorful commercial style with fruity cookies as the hero, in four flavors — strawberry, apple, grape, and orange; strawberry flavor reference @image1. The cookies and their matching fruits are arranged in a strongly ordered geometric array; the overall frame is clean, premium, and high-energy. It opens with the fruits orbiting rapidly around the central cookie to quickly establish visual focus — reference the composition of @video1 — cutting in on a strong musical beat. Then cookies of different flavors advance toward the lens along spiral paths, forming clear spatial depth — reference the motion and camera work of @video2 — switching colors and flavors on the beat with the background music. The array of cookies pans left and right with fast plane-to-plane cuts, strawberry, apple, grape, and orange flavors alternating as the frame jump-cuts quickly to the rhythm — reference the movement of @video3. The mid-section adds up-and-down panning; the neat cookie array rises and falls vertically like a machine — reference the movement of @video4 — highlighting the beauty of order and the richness of the product. In the climax a cookie is snapped in two and the moment enters slow motion as the fruity filling bursts open, crumbs scattering, the juicy sensation and grainy impact amplified — reference the explosion effect of @video5 — then quickly returns to the fast-paced edit. The ending brings in the English text "Fresh on Seedance, made for viral vision", entering word by word in quick succession with strong rhythmic text motion and a product freeze-frame — reference @video6 — the four cookie flavors lined up neatly with the fruits bouncing in sync for a final brand-forward close, the frame full of a young, energetic, delicious, shareable ad atmosphere.
+과일 쿠키를 주인공으로 한 밝고 다채로운 광고 스타일, 딸기, 사과, 포도, 오렌지 네 가지 맛 — 딸기맛 참조 @image1. 쿠키와 그에 어울리는 과일들이 질서정연한 기하학적 배열로 놓여 있고, 전체 프레임은 깔끔하고 고급스러우며 에너지가 넘친다. 오프닝에서는 과일들이 중앙의 쿠키 주위를 빠르게 돌며 시선을 순식간에 집중시키고 — @video1의 구도를 참조 — 강한 음악 비트에 맞춰 컷인한다. 이어서 서로 다른 맛의 쿠키들이 나선형 경로를 따라 렌즈 쪽으로 다가오며 뚜렷한 공간감을 형성하고 — @video2의 움직임과 카메라워크를 참조 — 배경음악의 비트에 맞춰 색과 맛을 전환한다. 쿠키 배열이 평면에서 평면으로 빠르게 컷되며 좌우로 팬하고, 리듬에 맞춰 프레임이 빠르게 점프컷되면서 딸기, 사과, 포도, 오렌지맛이 번갈아 나타난다 — @video3의 움직임을 참조. 중반부에는 상하 패닝이 더해져, 정돈된 쿠키 배열이 기계처럼 수직으로 오르내리며 — @video4의 움직임을 참조 — 질서의 아름다움과 제품의 풍성함을 강조한다. 클라이맥스에서는 쿠키 하나가 두 동강 나고 그 순간 슬로모션으로 전환되며 과일 필링이 터져 나오고, 부스러기가 흩날리며 촉촉함과 알갱이의 임팩트가 증폭된다 — @video5의 폭발 효과를 참조 — 이후 빠른 템포의 편집으로 신속히 돌아온다. 엔딩에서는 영어 텍스트 "Fresh on Seedance, made for viral vision"이 강한 리듬감의 텍스트 모션과 함께 한 단어씩 빠르게 이어져 등장하고 제품이 정지 화면으로 멈춘다 — @video6를 참조 — 네 가지 쿠키맛이 가지런히 늘어서고 과일들이 싱크에 맞춰 통통 튀며 브랜드를 앞세운 마지막 장면으로 마무리되어, 프레임 전체가 젊고 활기차고 먹음직스러우며 공유하고 싶은 광고 분위기로 가득 찬다.
 ```
 
 <a id="category-7"></a>
 
-### Image Reference (1)
+### 이미지 참조 (1)
 
-### No. 1: Desert Horned Lizard & Grapefruit (3D ad)
+### No. 1: 사막뿔도마뱀과 자몽 (3D 광고)
 
-- **Category:** `Image Reference`
+- **Category:** `이미지 참조`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ko`
@@ -597,21 +586,21 @@ A bright, colorful commercial style with fruity cookies as the hero, in four fla
 
 #### Description
 
-A bright, glossy 3D animated commercial: a parched desert horned lizard finds a grapefruit, bites in, and a juice tsunami turns the desert into a summer sea. Built from one character reference.
+밝고 윤기 나는 3D 애니메이션 광고: 목마른 사막뿔도마뱀이 자몽을 발견해 한 입 베어 물자 과즙 쓰나미가 사막을 여름 바다로 바꿔 놓는다. 캐릭터 참조 한 장으로 제작.
 
 #### Prompt
 
 ```text
-A 3D animated commercial style, bright and translucent colors; the pulp and juice must feel intensely refreshing and impactful. The overall vibe is like a high-quality commercial animated short with a touch of exaggerated humor. The desert horned lizard character is cute, lively and expressive, reference @image1. The image texture references that soft natural light, delicate fuzz/skin texture, dreamy macro depth of field, and a realistic-yet-slightly-childlike feel from the reference image. 0-3s: a desert scorched by the blazing sun, the air shimmering with heat and the sand searing hot; a desert horned lizard lies on the scalding sand, tongue slightly out, eyes glazed, nearly dried out, swaying with every couple of steps as if about to "evaporate". 3-6s: it suddenly stops, its nose twitches, and looking down it spots a cool, plump, dew-covered grapefruit half-buried in the sand, glistening like a desert miracle; the lizard's eyes go wide in an instant. 6-8s: it pounces over, hugging the grapefruit tightly with both hands, pressing its whole face against the rind with a blissful "I'm finally alive" expression; the frame holds for 1 second, forming an exaggerated, funny memory beat. 8-11s: it looks up, opens its mouth and takes a big bite; the grapefruit rind splits open, the plump pulp shining with a translucent gloss, and the next moment the juice erupts like a tsunami. 11-16s: orange-pink, translucent, glistening grapefruit juice gushes out wildly, pouring down the dunes and rapidly flooding the entire desert; the dry yellow sand instantly turns into a cool, sparkling, fruit-scented summer sea, cacti, rocks and small dunes swallowed by the waves of juice, the lizard's expression turning from delight to terror. 16-20s: nearly drowned by the "grapefruit sea", it frantically clutches half a grapefruit like a life buoy and floats, poking its soaked head out looking dazed. 20-24s: cut to a white screen; the brand name and slogan appear dead-center: "Seedance Grapefruit — bite in for the pulp, what pours out is summer." The voiceover reads the whole line. 24-30s: cut back from white; the desert horned lizard is now lounging on the floating grapefruit, wearing tiny sunglasses and holding a cup with a straw, drifting leisurely on the "juice sea" on vacation, surrounded by floating orange pulp, little ice cubes, cool splashes and a clear blue sky; the mood shifts from "survival" to "vacation", and finally it leans back contentedly on the grapefruit as the camera pulls out and freezes on a refreshing, bright, playful summer frame.
+3D 애니메이션 광고 스타일, 밝고 투명한 색감. 과육과 과즙은 강렬하게 상쾌하고 임팩트 있게 느껴져야 한다. 전체적인 분위기는 과장된 유머가 살짝 가미된 고품질 광고 애니메이션 단편 같다. 사막뿔도마뱀 캐릭터는 귀엽고 발랄하며 표정이 풍부하다, 참조 @image1. 이미지 질감은 참조 이미지의 부드러운 자연광, 섬세한 솜털/피부 질감, 몽환적인 매크로 심도, 사실적이면서도 살짝 동화적인 느낌을 참조한다. 0-3s: 이글거리는 태양에 그을린 사막, 열기로 공기가 아른거리고 모래는 타는 듯이 뜨겁다. 사막뿔도마뱀 한 마리가 뜨거운 모래 위에 엎드려 혀를 살짝 내밀고 눈이 풀린 채 거의 말라붙어, 몇 걸음마다 곧 "증발"할 듯 휘청인다. 3-6s: 도마뱀이 갑자기 멈추고 코를 씰룩이더니, 아래를 내려다보다 모래에 반쯤 파묻힌 시원하고 탱글탱글한 이슬 맺힌 자몽을 발견한다. 사막의 기적처럼 반짝이는 그것을 보고 도마뱀의 눈이 순식간에 휘둥그레진다. 6-8s: 도마뱀이 달려들어 두 손으로 자몽을 꼭 껴안고 "드디어 살았다"는 듯한 행복한 표정으로 껍질에 얼굴을 통째로 비빈다. 화면이 1초간 멈추며 과장되고 우스꽝스러운 기억의 한 장면을 만든다. 8-11s: 도마뱀이 고개를 들고 입을 벌려 크게 한 입 베어 문다. 자몽 껍질이 쩍 갈라지며 탱글탱글한 과육이 반투명하게 윤기를 내고, 다음 순간 과즙이 쓰나미처럼 터져 나온다. 11-16s: 주황빛 분홍의 반투명하고 반짝이는 자몽 과즙이 미친 듯이 쏟아져 모래언덕을 타고 흘러내리며 순식간에 사막 전체를 뒤덮는다. 메마른 노란 모래가 순식간에 시원하고 반짝이며 과일 향 가득한 여름 바다로 변하고, 선인장과 바위, 작은 모래언덕이 과즙의 물결에 삼켜지며, 도마뱀의 표정은 기쁨에서 공포로 바뀐다. 16-20s: "자몽 바다"에 거의 빠져 죽을 뻔한 도마뱀이 반쪽짜리 자몽을 구명튜브처럼 필사적으로 붙들고 떠오르며, 흠뻑 젖은 머리를 내밀고 멍한 표정을 짓는다. 20-24s: 흰 화면으로 전환. 브랜드명과 슬로건이 정중앙에 나타난다: "Seedance 자몽 — 한 입 베어 물면 과육, 쏟아지는 건 여름." 보이스오버가 이 문구 전체를 읽는다. 24-30s: 흰 화면에서 다시 전환. 사막뿔도마뱀은 이제 물에 뜬 자몽 위에 느긋하게 누워, 작은 선글라스를 끼고 빨대가 꽂힌 컵을 들고서 "과즙 바다" 위를 유유히 떠다니며 휴가를 즐긴다. 주위엔 둥둥 떠다니는 주황빛 과육, 작은 얼음 조각, 시원한 물보라, 맑고 푸른 하늘. 분위기는 "생존"에서 "휴가"로 바뀌고, 마침내 도마뱀이 자몽에 만족스럽게 등을 기대는 가운데 카메라가 빠지며 상쾌하고 밝고 장난스러운 여름 장면에서 정지한다.
 ```
 
 <a id="category-8"></a>
 
-### Image Reference (Cinematic) (1)
+### 이미지 참조 (시네마틱) (1)
 
-### No. 1: Drunk Man's Rooftop Fall (black-comedy short)
+### No. 1: 취한 남자의 옥상 추락 (블랙코미디 단편)
 
-- **Category:** `Image Reference (Cinematic)`
+- **Category:** `이미지 참조 (시네마틱)`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ko`
@@ -626,2022 +615,12 @@ A 3D animated commercial style, bright and translucent colors; the pulp and juic
 
 #### Description
 
-A ~30s black-comedy cinematic short: a chubby, tipsy man topples off a rooftop, grabs a lifeline, crashes through a window, and simply falls asleep. Character from one reference image; built on hard cuts between roar and total silence.
+약 30초 분량의 블랙코미디 시네마틱 단편: 통통하고 술 취한 남자가 옥상에서 굴러떨어져 생명줄을 붙잡고 창문을 뚫고 들어와서는 그냥 잠들어 버린다. 캐릭터는 참조 이미지 한 장에서 가져오며, 굉음과 완전한 정적 사이의 하드컷으로 구성된다.
 
 #### Prompt
 
 ```text
-[Drunk Man's Rooftop Fright — falls off the edge — grabs a rope through the window — passes out on the spot | black-comedy short | about 30 seconds] One-line premise: a chubby, cute, drunk middle-aged man is eating a burger and drinking beer on the rooftop of a building; as he stands up and stretches he accidentally loses his footing and falls, in his panic grabs a lifesaving rope and immediately crashes through a window into an interior, is dazed and stunned for one second, then just lies down where he is and falls fast asleep. Reference image @image1 — a chubby, cute, drunk middle-aged man: round and stocky build with a big round beer belly, short in stature, movements loose, slow and wobbly from drinking; round face, double chin, drink-flushed cheeks and nose, eyes narrowed to slits with a bleary gaze, an untrimmed ring of short stubble, messy hair, a silly, cute, carefree expression; wearing a white tank-top undershirt stained with burger sauce hanging loosely over his round belly, old jeans, shuffling along in loose slippers, always clutching a half-eaten burger in his hand. There is only this one character in the whole film, a 100% match to the reference image. Overall look: a nighttime cyberpunk mega-city, a dense forest of glass-and-steel skyscrapers, neon signs (cyan / magenta / electric blue), holographic billboards, wet reflective ground, volumetric fog, distant flying-car light trails and drones. Real live-action texture, physical cinema lenses, no 3D rendering / game engine / anime feel. The camera mixes handheld with jib / drone; after the fall the camera plunges down with him as the building's exterior wall and the neon streak upward to convey speed, 24-35mm widescreen cinematic lens texture, 180-degree shutter motion blur. Sound design is the key to the black comedy: hard-cutting repeatedly between "a huge roar" and "total silence". Real gravity throughout. Storyboard (about 30 seconds): S1 (0-4s) opening chewing big close-up (with sound) the man's face fills the screen, chewing the burger in big bites, a satisfied drunken state; S2 (4-9s) pull to a wide shot, stretching -> losing footing and falling (with sound) he wobbles to his feet and stretches big, leans back, can't keep his balance, his foot slips and he tumbles backward over the edge of the rooftop, never letting go of the burger, with a panicked "Eh——!"; S3 (9-12s) cut to a startled facial close-up (a loud scream, huge roar) drunken eyes bulging round, double chin bunched up, mouth wide in a screaming "Ahh——!!", wind howling; S4 (12-16s) cut to a long shot at eye level (total silence) seen from the building across the way, a tiny white figure plummeting straight down from the high-rise, the neon city vast and indifferent, the total silence forming a black-comedy contrast with the huge roar a second earlier; S5 (16-21s) cut to a facial close-up (screaming) -> grabbing the rope, still screaming, hands flailing in the air, he suddenly grabs a lifesaving cable, the cable snapping taut and bending under his weight with a twang, the scream cutting off abruptly as he is jerked and swings out (a brief slow motion at the moment he grabs the rope); S6 (21-26s) cut to an interior angle (quiet) -> the glass shatters -> he crashes in, the interior first quiet with only the hum of the air conditioner, the next second the glass explosively bursts inward (a brief bullet time) as the drunk man, burger and all, smashes through the window, shards flying out radially, neon light streaming in, and he crashes heavily into the room onto the floor / sofa, broken glass clinking; S7 (26-30s) ending, a startled second -> falls asleep, the man sprawled spread-eagle on the floor, covered in broken glass, still clutching the burger, slowly opens his eyes, dazed, blank and startled for a full second, looking around as if thinking "where am I?", then the drunkenness takes over and, not caring at all, he smacks his lips, tucks the burger into his arms, rolls over, lies down right there and falls fast asleep, even snoring lightly, the camera pulls out and freezes, hard cut to black. Only on-set live sound, no music, no subtitles; the core is hard cuts repeatedly between "huge roar" and "silence".
-```
-
-<a id="category-9"></a>
-
-### Twitter Community (24)
-
-### No. 1: Veloce-X 뉴로 하이드레이션 스트립 광고
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Gilbert Odera | Your AI Plug🇰🇪
-- **Language:** `ko`
-- **Source Link:** [View](https://x.com/yourPlugAI/status/2064591659115905203)
-
-#### Description
-
-뉴로 하이드레이션 제품을 위한 15초 분량의 초현실적이고 고속의 시네마틱 광고 제작 프롬프트
-
-#### Prompt
-
-```text
-Create a 15-second ultra-realistic, high-speed cinematic image-to-video commercial for Veloce-X Neuro-Hydration Strips, utilizing the provided reference images as the absolute anchor for character, product design, color palette, and
-```
-
-### No. 2: 비 내리는 가면의 남자
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Xfeed24
-- **Language:** `ko`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064605968420261888/vid/avc1/1280x716/DknXfm6NuCMCohq9.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064605968420261888/vid/avc1/1280x716/DknXfm6NuCMCohq9.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/XfeedZ24/status/2064606040797171839)
-
-#### Description
-
-우울한 표정으로 비가 내리는 곳에 서 있는, 미래형 가면을 쓴 남자의 클로즈업입니다.
-
-#### Prompt
-
-```text
-close-up of a man in a futuristic mask, wet hair, rain falling, dark and moody lighting, cinematic shot
-```
-
-### No. 3: 커피의 힘
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** minchinEdits
-- **Language:** `ko`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064606538237710336/vid/avc1/720x1280/qcEBjR0LJuF4rgce.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064606538237710336/vid/avc1/720x1280/qcEBjR0LJuF4rgce.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/minchinEdits/status/2064606613865103832)
-
-#### Description
-
-한 여성이 커피에서 에너지를 발산하며, 활기찬 사무실 풍경들에 둘러싸여 있습니다.
-
-#### Prompt
-
-```text
-a vibrant animated scene of a woman surrounded by glowing golden energy, holding a coffee cup, with multiple versions of her and coworkers in an office environment, all expressing excitement and productivity, cinematic lighting, dynamic composition, 3D animation style
-```
-
-### No. 4: 실용 효과를 활용한 다크 판타지 전투
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Build Fast with AI
-- **Language:** `ko`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064395868787347456/vid/avc1/854x480/Nmuqe4FnZH5lRPZd.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064395868787347456/vid/avc1/854x480/Nmuqe4FnZH5lRPZd.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/BuildFastWithAI/status/2064595921443139684)
-
-#### Description
-
-낮은 선명도와 실용 효과적 미학을 가진 Seedance 2.0을 사용하여 15초 길이의 다크 판타지 전투 장면을 생성하기 위한 프롬프트입니다.
-
-#### Prompt
-
-```text
-15-second dark fantasy battle. Seedance 2.0. Zero post. Zero upscaling. Low sharpness + practical effect aesthetic.
-```
-
-### No. 5: 새끼 고양이 캐릭터 디자인
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** GPTProto Official
-- **Language:** `ko`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064599776021426176/vid/avc1/1080x1920/b4Mr5JDKiFBYrzOo.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064599776021426176/vid/avc1/1080x1920/b4Mr5JDKiFBYrzOo.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/gptproto/status/2064601178902814752)
-
-#### Description
-
-매력적인 주황색 새끼 고양이가 햇살이 드는 거실의 나무 탁자 위에 앉아 있고, 아래에는 그 3D 모델, 표정, 색상 팔레트를 보여주는 상세한 캐릭터 디자인 시트가 전시되어 있습니다.
-
-#### Prompt
-
-```text
-a cute orange tabby kitten with big eyes sitting on a wooden table in a cozy living room, surrounded by a tissue box, a glass of water, and a toy mouse, with detailed character design sheets below showing 3D model views, expressions, poses, and color references, soft natural lighting, warm atmosphere, cinematic depth of field
-```
-
-### No. 6: AI 컨퍼런스의 여성
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** CloudwiseAI
-- **Language:** `ko`
-- **Source Link:** [View](https://x.com/cloudwiseAI2026/status/2064591595991969879)
-
-#### Description
-
-축구 테마의 GenAI 컨퍼런스 웹사이트가 표시된 스크린 앞에서 마이크에 말하는 여성
-
-#### Prompt
-
-```text
-a woman speaking into a microphone in front of a large screen displaying a GenAI conference website with a soccer stadium background, natural lighting from windows, realistic details, medium shot
-```
-
-### No. 7: 도시 위의 소용돌이
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Pixmax
-- **Language:** `ko`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064593085431185408/vid/avc1/1080x720/dawSBFfVAweSgYmE.mp4?tag=14)
-
-<video src="https://video.twimg.com/amplify_video/2064593085431185408/vid/avc1/1080x720/dawSBFfVAweSgYmE.mp4?tag=14" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/Pixmax_ai/status/2064593399882432615)
-
-#### Description
-
-한 남자가 밤의 미래형 대도시 위에 떠 있는 빛나는 푸른 소용돌이를 올려다보고 있습니다.
-
-#### Prompt
-
-```text
-a man in a black jacket stands in a futuristic city at night, looking up at a massive glowing blue vortex in the sky, surrounded by towering skyscrapers with neon lights, cinematic lighting, wide-angle shot, dramatic perspective
-```
-
-### No. 8: 나루토 라이브 스펙터클
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** AIAI.COM
-- **Language:** `ko`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064592744111325184/vid/avc1/1920x1080/QMHtQZk7WlNnDcml.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064592744111325184/vid/avc1/1920x1080/QMHtQZk7WlNnDcml.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/Aiaicom09/status/2064592826290336125)
-
-#### Description
-
-상징적인 의상을 입은 나루토와 사스케가 등장하는 라이브 스테이지 공연으로, 관객들이 휴대폰으로 그 순간을 포착하고 있습니다.
-
-#### Prompt
-
-```text
-live stage performance of Naruto characters, Naruto Uzumaki and Sasuke Uchiha in full costume, standing on a stage with a crowd watching, bright daylight, realistic lighting, detailed costumes, dynamic pose, audience holding phones to record, Japanese text banner above stage reading 'LIVE SPECTACULAR NARUTO', wide shot, static camera
-```
-
-### No. 9: GlobalGPT AI 플랫폼 탐색
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Choya
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/prompt/seedance-2/x_2064988432590356506.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2064988432590356506.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/choyamymuna/status/2064988432590356506)
-
-#### Description
-
-이 영상은 이미지, 비디오, 오디오 생성을 위한 GlobalGPT 플랫폼의 다양한 AI 모델과 도구를 보여주는 상세한 화면 녹화를 담고 있습니다.
-
-#### Prompt
-
-```text
-A static screen recording of a desktop computer displaying the GlobalGPT website in a web browser. The cursor moves across the screen, clicking on navigation links and scrolling through lists of AI video, image, and audio generation models and tools. The background behind the browser window features an abstract, vibrant gradient of blue, purple, pink, and orange waves. The focus is entirely on the browser's UI and its interactive elements.
-```
-
-### No. 10: 초현실적 선수를 담은 시네마틱 축구 영상
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** auqib
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/prompt/seedance-2/x_2064989700738412551.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2064989700738412551.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/auqibhabib/status/2064989700738412551)
-
-#### Description
-
-현실적인 경기장 환경에 통합된 초현실적인 인간 축구 선수들을 특징으로 하는 믹스드 미디어 시네마틱 영상
-
-#### Prompt
-
-```text
-Mixed-media cinematic football video featuring ultra-realistic human football players inspired by Image1 and Image2, seamlessly integrated into the ultra-realistic football stadium environment from Image3. Same team, same
-```
-
-### No. 11: 황금 시간대의 영화적 투우
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** WasifAI
-- **Language:** `ko`
-- **Video:** [View](https://video.twimg.com/ext_tw_video/2064595743864737792/pu/vid/avc1/1920x1080/_o4DsXvAFcjPpDIc.mp4)
-
-<video src="https://video.twimg.com/ext_tw_video/2064595743864737792/pu/vid/avc1/1920x1080/_o4DsXvAFcjPpDIc.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/doctorwasif/status/2064595805906817115)
-
-#### Description
-
-황금 시간대 투우 경기장을 배경으로 한, 15초 동안 이어지는 영화적 장면을 위한 사실적인 비디오 프롬프트입니다.
-
-#### Prompt
-
-```text
-15s continuous cinematic Hollywood 60fps, photoreal Plaza de Toros at golden hour, packed crowd, dust in warm amber light. Consistent matador (@ Image1) in emerald-gold
-```
-
-### No. 12: 매혹적인 동화 수채화 애니메이션
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** OscarAI
-- **Language:** `ko`
-- **Source Link:** [View](https://x.com/Artedeingenio/status/2064985164116119665)
-
-#### Description
-
-컷이나 전환 없이 15초간 연속된 싱글 샷 영상으로, 기발하고 손으로 그린 수채화와 잉크 동화 애니메이션 스타일을 띱니다.
-
-#### Prompt
-
-```text
-15-second continuous single-shot. No cuts. No scene transitions. Style: enchanting fairy tale animation, hand-painted watercolor and ink illustration brought to life, whimsical
-```
-
-### No. 13: 운동 트랙 위의 공상과학 로봇 거미
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Avelyrah
-- **Language:** `ko`
-- **Video:** [View](https://video.twimg.com/ext_tw_video/2064608014934695936/pu/vid/avc1/1280x720/2Cwwi5g_SYa4kIy8.mp4)
-
-<video src="https://video.twimg.com/ext_tw_video/2064608014934695936/pu/vid/avc1/1280x720/2Cwwi5g_SYa4kIy8.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/AvelyrahnAI/status/2064608055908868501)
-
-#### Description
-
-트랙수트를 입은 금발 여성의 손목에서 로봇 거미가 확장되고 학생들이 도망치는, 빠른 템포의 공상과학 비디오 시퀀스입니다.
-
-#### Prompt
-
-```text
-A fast-paced sci-fi video sequence on a high school running track under a dark, overcast sky. A blonde woman in a navy and white tracksuit walks confidently forward as students flee. A robotic spider on her wrist rapidly expands
-```
-
-### No. 14: 함대를 내려다보는 병사
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Global Frontline News
-- **Language:** `ko`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064598715831398400/vid/avc1/1280x720/8wGHKWvZrRIK6fxS.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064598715831398400/vid/avc1/1280x720/8wGHKWvZrRIK6fxS.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/OmeyLad23/status/2064611393580757271)
-
-#### Description
-
-한 병사가 군용 항공기 후방에 서서, 아래 바다에 펼쳐진 방대한 함대를 바라보고 있습니다.
-
-#### Prompt
-
-```text
-a soldier in tactical gear stands at the open rear of a military transport aircraft, looking out over a fleet of naval ships on the ocean, cinematic lighting, wide shot from behind, high detail, realistic
-```
-
-### No. 15: 호그와트 퀴디치 비행
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Cyber AI Creator 🎨
-- **Language:** `ko`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064598185205731328/vid/avc1/720x806/RJuHUIc2jLdBY5Wy.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064598185205731328/vid/avc1/720x806/RJuHUIc2jLdBY5Wy.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/noman23761/status/2064598264528470051)
-
-#### Description
-
-호그와트 퀴디치 경기장 위를 빗자루를 타고 날아가는 1인칭 시점으로 시작해, 해질녘 성의 장엄한 조감도로 전환됩니다.
-
-#### Prompt
-
-```text
-first-person view of flying on a broomstick over the Quidditch field at Hogwarts, with golden hoops and castle in background, transitioning to an aerial wide shot of Hogwarts Castle at sunset with red trail showing flight path
-```
-
-### No. 16: 얼음 전사 컨셉 아트
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Cyber AI Creator 🎨
-- **Language:** `ko`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064597000713281536/vid/avc1/1140x1080/2ItRonsYxDE0Pyne.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064597000713281536/vid/avc1/1140x1080/2ItRonsYxDE0Pyne.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/noman23761/status/2064597123795173495)
-
-#### Description
-
-눈 덮인 환경 속 여성 전사와 얼음 골렘을 상세한 캐릭터 디자인과 함께 그린 컨셉 아트 일러스트입니다.
-
-#### Prompt
-
-```text
-concept art of a female warrior and an ice golem in a snowy landscape, detailed character designs with armor and weapons, anime style, wide shot, static camera
-```
-
-### No. 17: 빈티지 거리 산책
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** EdenWood
-- **Language:** `ko`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064592895923965952/vid/avc1/1280x720/8JlrIYiYHhKJtJ-_.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064592895923965952/vid/avc1/1280x720/8JlrIYiYHhKJtJ-_.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/EdenWood62747/status/2064592964366585994)
-
-#### Description
-
-한 남자가 배경에 전차가 있는 붐비는 빈티지 거리를 걸어가고 있으며, 영화적 디테일과 함께 흑백으로 포착되었습니다.
-
-#### Prompt
-
-```text
-black and white vintage street scene, a man in a white shirt walking toward the camera, old tram in the background, people walking on the street, colonial architecture, sepia tone, cinematic lighting, slow motion
-```
-
-### No. 18: 3D 렌더링 프레젠테이션
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** CloudwiseAI
-- **Language:** `ko`
-- **Source Link:** [View](https://x.com/cloudwiseAI2026/status/2064591627214356928)
-
-#### Description
-
-워크숍에서 3D로 렌더링된 구체를 보여주는 스크린을 가리키는 발표자
-
-#### Prompt
-
-```text
-a man giving a presentation in front of an audience, pointing at a large screen displaying a 3D rendering of two reflective spheres on a wooden table, with natural light coming through windows in the background
-```
-
-### No. 19: GlobalGPT 웹사이트 개요
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Rasel Hosen
-- **Language:** `ko`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064592725241184256/vid/avc1/1280x720/NI71SYLYLAoa66wB.mp4?tag=14)
-
-<video src="https://video.twimg.com/amplify_video/2064592725241184256/vid/avc1/1280x720/NI71SYLYLAoa66wB.mp4?tag=14" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/details_with_ai/status/2064592792354275730)
-
-#### Description
-
-생동감 넘치는 배경색과 AI 도구 옵션이 있는 GlobalGPT 웹사이트 홈페이지 스크린샷
-
-#### Prompt
-
-```text
-a screen recording of the GlobalGPT website homepage with a colorful abstract background, showing the navigation menu, AI model selection interface, and promotional banners, with a subtle zoom-in effect on the central content area
-```
-
-### No. 20: 햇살이 비추는 길의 모험
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** 💫Wigglenator💫
-- **Language:** `ko`
-- **Source Link:** [View](https://x.com/Wigglenatorr/status/2064608020701532188)
-
-#### Description
-
-뿔이 달린 어린 애니메이션 소녀가 황금빛 햇살을 받는 자갈길 위에 서 있습니다.
-
-#### Prompt
-
-```text
-anime girl with white hair and horns, wearing a red cloak, standing on a stone path in a sunlit garden, golden hour lighting, soft focus background, detailed character design, warm tones
-```
-
-### No. 21: 함대를 내려다보는 병사
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Global Frontline News
-- **Language:** `ko`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064598715831398400/vid/avc1/1280x720/8wGHKWvZrRIK6fxS.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064598715831398400/vid/avc1/1280x720/8wGHKWvZrRIK6fxS.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/OmeyLad23/status/2064606091951190378)
-
-#### Description
-
-한 병사가 군용 항공기 후방에 서서, 넓은 바다 위의 거대한 해군 함대를 바라보고 있습니다.
-
-#### Prompt
-
-```text
-a soldier in tactical gear stands at the open rear ramp of a military transport aircraft, looking out over a vast fleet of warships on the ocean, cinematic lighting, high detail, wide shot
-```
-
-### No. 22: 펑크 록 거실
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Cyber AI Creator 🎨
-- **Language:** `ko`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064595369720442880/vid/avc1/1080x1216/n-dxp79lHtiON4Wj.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064595369720442880/vid/avc1/1080x1216/n-dxp79lHtiON4Wj.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/noman23761/status/2064595569763639713)
-
-#### Description
-
-대안적 패션 스타일을 가진 다섯 명의 여성들이 보헤미안 아파트에서 휴식을 취하는 동안 하얀 고양이가 그들을 향해 걸어오는 캔디드 샷입니다.
-
-#### Prompt
-
-```text
-a group of five young women with punk rock style sitting on a couch in a cozy, cluttered living room filled with plants and music posters, a white cat walking away from the camera towards the group, warm ambient lighting, realistic photo style
-```
-
-### No. 23: 바다에서 다이버 하이파이브
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Ranveer Singh Sisodia
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/prompt/seedance-2/x_2064988239623225619.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2064988239623225619.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/sphereofai/status/2064988239623225619)
-
-#### Description
-
-밝은 하늘 아래 열린 바다에서 보트에 탄 다이버가 다른 다이버와 하이파이브를 합니다.
-
-#### Prompt
-
-```text
-first person view of a diver on a boat, high five with another diver, clear blue ocean, sunny day, wide angle lens
-```
-
-### No. 24: AI 프레젠테이션 데모
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** CloudwiseAI
-- **Language:** `ko`
-- **Source Link:** [View](https://x.com/cloudwiseAI2026/status/2064591614627189158)
-
-#### Description
-
-스크린에 반사되는 구체의 디지털 애니메이션을 보여주며 청중에게 이야기하는 발표자
-
-#### Prompt
-
-```text
-a man giving a presentation in front of an audience, holding a microphone, with a large screen displaying two reflective spheres on a dark surface, natural light from windows, indoor setting with plants and audio equipment
-```
-
-<a id="category-10"></a>
-
-### 오디오 & 음성 합성 (10)
-
-### No. 1: 고양이·강아지 로스트 배틀
-
-- **Category:** `오디오 & 음성 합성`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/1793c9e5-608e-435e-a72b-0e657bbb2d5c.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/1793c9e5-608e-435e-a72b-0e657bbb2d5c.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/35)
-
-#### Description
-
-표정 연기가 풍부한 동물 캐릭터의 위트 있는 토크쇼 코미디입니다.
-
-#### Prompt
-
-```text
-"고양이·강아지 토크룸"의 토크쇼 스타일 대화.
-고양이 MC: 털을 고르며 재치 있게 디스.
-강아지 MC: 고개를 갸웃하며 반박.
-감정 풍부하고 유머러스한 호흡으로 전개.
-```
-
-### No. 2: 오피스 빌딩 다큐멘터리
-
-- **Category:** `오디오 & 음성 합성`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/843a60ae-3df3-4c37-9fd4-2437f3ac2253.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/843a60ae-3df3-4c37-9fd4-2437f3ac2253.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/34)
-
-#### Description
-
-전문 내레이션을 결합한 영화형 부동산 다큐멘터리입니다.
-
-#### Prompt
-
-```text
-제공된 오피스 홍보 사진으로 15초 영화급 리얼 부동산 다큐를 제작. 2.35:1 와이드, 24fps, 섬세한 화질. 내레이션 톤은 @video1을 참고해 "오피스 생태"를 보여준다.
-```
-
-### No. 3: 어안 렌즈 말 코미디
-
-- **Category:** `오디오 & 음성 합성`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/26d450cd-23c4-499e-9fd6-1752dabbc8bd.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/26d450cd-23c4-499e-9fd6-1752dabbc8bd.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/33)
-
-#### Description
-
-어안 렌즈를 통해 동물 캐릭터의 대사와 음향을 동기화한 코미디 장면입니다.
-
-#### Prompt
-
-```text
-고정 카메라, 중앙 어안렌즈가 원형 구멍 너머 아래를 내려다본다. video1의 어안 느낌을 참고하고 @video2 말이 렌즈를 바라보게 한다. @video1의 말하기 동작, @video3 음향을 참고한다.
-```
-
-### No. 4: 다문화 가족 축하 장면
-
-- **Category:** `오디오 & 음성 합성`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/ac11aa46-e846-4167-af87-53f0be98df9e.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/ac11aa46-e846-4167-af87-53f0be98df9e.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/38)
-
-#### Description
-
-영어 대사와 라틴 음악이 어우러진 따뜻한 가족 축하 장면입니다.
-
-#### Prompt
-
-```text
-화면 중앙 모자를 쓴 소녀가 "I'm so proud of you"를 부드럽게 부른다. 온화한 표정과 부드러운 조명, 친밀한 분위기를 기타 반주와 함께 연출한다.
-```
-
-### No. 5: 아침 기상 대화
-
-- **Category:** `오디오 & 음성 합성`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/7744c998-76b7-436f-9066-6d4ef5f0ce7f.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/7744c998-76b7-436f-9066-6d4ef5f0ce7f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/40)
-
-#### Description
-
-자연스러운 음성 연기와 미묘한 감정을 담은 아침 커플 대화 장면입니다.
-
-#### Prompt
-
-```text
-0-3초: 알람 소리와 흐릿한 오프닝. 3-6초: 인물 기상, 기지개. 6-10초: 세면과 옷차림. 10-15초: 외출하며 경쾌한 BGM으로 일상 시작을 표현.
-```
-
-### No. 6: 전술팀 스페인어 브리핑
-
-- **Category:** `오디오 & 음성 합성`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/cda3c348-80c8-445b-8d85-d1eefe36e0b2.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/cda3c348-80c8-445b-8d85-d1eefe36e0b2.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/39)
-
-#### Description
-
-스페인어 브리핑과 장비 사운드가 결합된 전술 팀 장면입니다.
-
-#### Prompt
-
-```text
-고정 샷. 서 있는 건장한 남성(대장)이 주먹을 쥐고 엄숙한 표정으로 카메라를 향해 "작전 준비!"라고 말한다. 군사 테마의 긴장감을 강조한다.
-```
-
-### No. 7: 중국 전통극 퍼포먼스
-
-- **Category:** `오디오 & 음성 합성`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/6f6ea681-2e7b-4e35-9126-a72d2046bc1f.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/6f6ea681-2e7b-4e35-9126-a72d2046bc1f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/36)
-
-#### Description
-
-정통 창법과 긴장감을 담은 전통 하남극 퍼포먼스입니다.
-
-#### Prompt
-
-```text
-허난극 클래식 반주가 흐르고 @image1의 극 배우가 등장한다. 창법과 몸짓은 우아하고 전통 무대 연기를 조명 효과와 함께 표현한다.
-```
-
-### No. 8: 사천 방언 버블티 장면
-
-- **Category:** `오디오 & 음성 합성`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/4f4d9b27-1962-494e-b1fa-5191ede1b500.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/4f4d9b27-1962-494e-b1fa-5191ede1b500.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/41)
-
-#### Description
-
-사천 방언의 리얼함을 살린 캐릭터 코미디 상호작용 장면입니다.
-
-#### Prompt
-
-```text
-@image1 원숭이가 버블티 카운터로 가서 사투리로 "사장님, 펄 밀크티 한 잔!"이라고 주문. 직원의 놀란 표정과 유머 대화로 코미디 연출.
-```
-
-### No. 9: 서유기 스토리텔링
-
-- **Category:** `오디오 & 음성 합성`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/14269628-c801-4b26-b400-38b2c7d2d97a.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/14269628-c801-4b26-b400-38b2c7d2d97a.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/42)
-
-#### Description
-
-고전 중국 문학을 다큐 보이스오버로 설명하는 교육형 콘텐츠입니다.
-
-#### Prompt
-
-```text
-다큐멘터리 스타일 내레이션으로 @image1-5 내용을 전개하며 중국 고전문학의 매력을 설명한다. 고전 음악으로 교육성과 예술성을 결합한다.
-```
-
-### No. 10: 시네마틱 로드트립 MV
-
-- **Category:** `오디오 & 음성 합성`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/f9f34a78-6001-4013-8e9a-a413ca727f00.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/f9f34a78-6001-4013-8e9a-a413ca727f00.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/37)
-
-#### Description
-
-특정 촬영 키워드와 분위기 사운드로 구성한 시네마틱 뮤직비디오입니다.
-
-#### Prompt
-
-```text
-15초 MV 생성. 키워드: 안정적 구도, 영화감, 여행, 풍경. 장엄한 자연을 보여주고 서정 음악으로 자유와 탐험의 주제를 전달한다.
-```
-
-<a id="category-11"></a>
-
-### 고급 카메라워크 (13)
-
-### No. 1: IMAX 사막 모래폭풍, 드니 빌뇌브 미학
-
-- **Category:** `고급 카메라워크`
-- **Source:** `twitter`
-- **Author:** John (@johnAGI168)
-- **Language:** `ko`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/c3e4c06f-da7d-4127-ad68-7ed1656e2472.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/c3e4c06f-da7d-4127-ad68-7ed1656e2472.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/johnAGI168/status/2020989515939148146)
-
-#### Description
-
-IMAX 스타일 사막 폭풍 장면을 타임스탬프 멀티샷으로 구성합니다.
-
-#### Prompt
-
-```text
-스타일: IMAX 70mm, 저채도 고대비, 장대한 스케일. [00-05초] 초광각: 거대한 모래폭풍 벽과 도주하는 장갑 차량 행렬. [05-10초] 콕핏 시점: 심한 진동, 모래 충돌, 경고등 점멸, 긴박한 외침. [10-15초] 슬로모션 클라이맥스: 선두 차량이 사구를 넘어 점프하고 번개가 치며 파편이 렌즈를 스친 뒤 블랙아웃.
-```
-
-### No. 2: 단일 프롬프트로 만든 남인도 영화풍 외계인 장면
-
-- **Category:** `고급 카메라워크`
-- **Source:** `twitter`
-- **Author:** rohan anil (@_arohan_)
-- **Language:** `ko`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/068af607-5e54-4331-9c25-3afc190d1a53.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/068af607-5e54-4331-9c25-3afc190d1a53.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/_arohan_/status/2021369768004161783)
-
-#### Description
-
-남인도 상업영화 감성의 외계인 액션 장면을 생성합니다.
-
-#### Prompt
-
-```text
-남인도 블록버스터 스타일: 고채도 색감, 영웅 로우 앵글, 과장된 슬로모션으로 외계 침공 액션을 연출한다. 광장에 우주선이 내려오며 스케일을 보여주고, 주인공 등장 후 와이드-미디엄-클로즈업을 넘나들며 전투를 전개한다. 연기, 불꽃, 먼지, 렌즈 플레어를 사용해 강한 극장형 에너지를 만든다.
-```
-
-### No. 3: 도시전 속 불타는 장갑차 항공 샷
-
-- **Category:** `고급 카메라워크`
-- **Source:** `twitter`
-- **Author:** Carlos Santana (@DotCSV)
-- **Language:** `ko`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/81bd1286-8024-4a62-a77a-0873d8137ae6.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/81bd1286-8024-4a62-a77a-0873d8137ae6.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/DotCSV/status/2020519499082969142)
-
-#### Description
-
-도시 전투 직후의 현장을 영화적인 드론 샷으로 보여줍니다. 파괴 디테일과 분위기 표현을 강조합니다.
-
-#### Prompt
-
-```text
-전쟁으로 파괴된 도심 교차로를 고공 드론으로 촬영한다. 중앙의 장갑차는 계속 불타며 검은 연기가 치솟고, 도로에는 잔해와 금속 파편이 흩어져 있다. 고도 높은 와이드에서 시작해 천천히 하강하며 파괴 규모를 보여주고, 채도는 낮춰 다큐멘터리 같은 사실감을 유지한다.
-```
-
-### No. 4: 에픽 판타지 배틀
-
-- **Category:** `고급 카메라워크`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/a15ec27b-9b38-407d-aa7a-460c9ed17e7f.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/a15ec27b-9b38-407d-aa7a-460c9ed17e7f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/16)
-
-#### Description
-
-오비탈 카메라와 파티클 효과를 결합한 시네마틱 판타지 전투입니다.
-
-#### Prompt
-
-```text
-video1의 캐릭터 동작과 @image1/@image2 환경을 참고해 판타지 전투를 생성. 마법 스킬과 파티클 효과를 넣고 역동적 카메라로 추적한다.
-```
-
-### No. 5: 자동차 광고 시네마토그래피
-
-- **Category:** `고급 카메라워크`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d1fe2d82-6f01-4e04-a732-a949028a09d3.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d1fe2d82-6f01-4e04-a732-a949028a09d3.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/17)
-
-#### Description
-
-다이내믹 카메라 무빙과 장면 전환을 갖춘 자동차 상업 촬영 스타일입니다.
-
-#### Prompt
-
-```text
-@video1의 카메라 리듬과 장면 전환을 참고해 @image1을 시작점으로 도시, 산길, 해변을 달리는 자동차 장면을 유려하게 연결한다.
-```
-
-### No. 6: 회전 태블릿 쇼케이스
-
-- **Category:** `고급 카메라워크`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/2f9e5701-3cbe-4855-84a8-3ba0cd72b329.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/2f9e5701-3cbe-4855-84a8-3ba0cd72b329.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/13)
-
-#### Description
-
-회전 카메라와 환경 변환을 결합한 제품 쇼케이스입니다.
-
-#### Prompt
-
-```text
-@image1 태블릿을 주제로 @video1을 참고해 탑뷰에서 천천히 하강. 화면이 켜지며 UI가 나타나고, 회전 쇼트로 제품 디테일을 보여준다.
-```
-
-### No. 7: 복잡한 복도 추격
-
-- **Category:** `고급 카메라워크`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c1288035-fc08-4465-bee0-a1857f94c7c1.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/c1288035-fc08-4465-bee0-a1857f94c7c1.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/12)
-
-#### Description
-
-빠른 시점 전환과 다각도 추적으로 구성한 복도 추격 촬영입니다.
-
-#### Prompt
-
-```text
-@image1 남성을 @image2 복도에 배치해 @video1의 운용을 참고한다. 코너를 달리고 @image3 긴 복도에서 후면 추적에서 저각 회전으로 정면까지 이어간다.
-```
-
-### No. 8: 무술 전투 장면
-
-- **Category:** `고급 카메라워크`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/e62ddd7b-da6a-4b26-be8a-aba6e74dd854.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/e62ddd7b-da6a-4b26-be8a-aba6e74dd854.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/15)
-
-#### Description
-
-역동적 환경에서 다수 캐릭터와 무기를 활용한 액션 안무 장면입니다.
-
-#### Prompt
-
-```text
-@image1/@image2의 창 캐릭터와 @image3/@image4 장면을 참고해 무술 액션을 생성. 다각도 추적으로 연속 창술의 힘과 미감을 보여준다.
-```
-
-### No. 9: 엘리베이터 히치콕 줌
-
-- **Category:** `고급 카메라워크`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/4be02035-a101-4c2c-bb20-c2fe59771de9.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/4be02035-a101-4c2c-bb20-c2fe59771de9.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/11)
-
-#### Description
-
-밀폐 공간에서 히치콕 효과와 복합 카메라 무빙을 결합한 서스펜스 연출입니다.
-
-#### Prompt
-
-```text
-@image1 남성을 @image2 엘리베이터에 배치하고 @video1의 카메라워크/표정을 참고한다. 공포 순간에는 히치콕 줌을 사용하고, 내부 원형 쇼트 후 문이 열리면 따라 나간다. @image3 외부 장면에서 다각도 추적으로 시선을 따라간다.
-```
-
-### No. 10: 리드미컬 댄스 푸시-풀
-
-- **Category:** `고급 카메라워크`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/33ffc8e5-255c-46b2-8877-ad8a9100f6d4.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/33ffc8e5-255c-46b2-8877-ad8a9100f6d4.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/14)
-
-#### Description
-
-댄스 안무 리듬에 맞춘 푸시-풀 카메라 동기화 연출입니다.
-
-#### Prompt
-
-```text
-@image1 여성 스타를 주인공으로 @video1 카메라 흐름을 참고해 원경에서 클로즈업으로 이동. 우아한 춤 동작을 회전 추적으로 포착한다.
-```
-
-### No. 11: 5분 만에 1분 영화급 전쟁 영상, 4샷 각 15초
-
-- **Category:** `고급 카메라워크`
-- **Source:** `twitter`
-- **Author:** Min Choi (@minchoi)
-- **Language:** `ko`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/52680ae8-705d-4b26-9d49-1b573ab4f56f.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/52680ae8-705d-4b26-9d49-1b573ab4f56f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/minchoi/status/2020878278475518152)
-
-#### Description
-
-5분 만에 1분 길이의 영화급 전쟁 영상을 생성합니다. 중동 사막 마을 보병 전투를 15초씩 4개 샷으로 구성합니다.
-
-#### Prompt
-
-```text
-전체 톤: 현대 중동 사막 마을, 사실적인 전쟁 다큐 영화 질감, 모래색과 회갈색 팔레트, 강한 햇빛과 먼지·연기. 샷1(0-15초): 좁은 골목으로 분대가 낮은 자세로 전진하는 로우 앵글 추적. 샷2(15-30초): 모퉁이에서 근거리 교전이 터지고 벽 파편과 총구 화염이 짧게 번쩍이는 긴박한 패닝. 샷3(30-45초): 반파된 건물 내부 진입, 빛줄기 속 먼지와 손신호로 긴장 유지. 샷4(45-60초): 파손된 옥상에서 마을을 내려다보는 실루엣, 슬로우 풀백으로 미해결 긴장감 마무리.
-```
-
-### No. 12: 사막 지형을 전진하는 병사 지상 전투 샷
-
-- **Category:** `고급 카메라워크`
-- **Source:** `twitter`
-- **Author:** Chetaslua (@chetaslua)
-- **Language:** `ko`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/0d332613-93bc-4d5e-b4f8-6cacc05871ef.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/0d332613-93bc-4d5e-b4f8-6cacc05871ef.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/chetaslua)
-
-#### Description
-
-긴장감 있는 1인칭 느낌의 전술 이동 장면으로, 환경 디테일을 강조합니다.
-
-#### Prompt
-
-```text
-지면에 가까운 전쟁 다큐 시점으로 사막 전투 구역을 전진하는 분대를 따라간다. 군화, 장비 흔들림, 무기 디테일, 대형 변화에 초점을 맞추고, 강한 햇빛·열기 흔들림·먼지 입자·원거리 총성을 함께 표현한다. 얕은 심도와 절제된 핸드헬드로 현실적인 압박감을 유지한다.
-```
-
-### No. 13: 참고 이미지 3장과 간단 프롬프트로 멀티샷 격투 생성
-
-- **Category:** `고급 카메라워크`
-- **Source:** `twitter`
-- **Author:** el.cine (@EHuanglu)
-- **Language:** `ko`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e287a176-2ba0-4f64-ad86-ed779cd3d8d3.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e287a176-2ba0-4f64-ad86-ed779cd3d8d3.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/EHuanglu/status/2020828503810445785)
-
-#### Description
-
-현대 도시에서 두 여성의 강렬한 무술 격투 장면입니다.
-
-#### Prompt
-
-```text
-현대 도심 야간 배경의 여성 2인 무술 대결. 와이드로 거리와 동선을 보여주고, 미디엄 추적으로 공방 리듬을 살리며, 타격 순간은 클로즈업으로 호흡·근육·충격을 강조한다. 로우 앵글 회전, 숄더 샷, 빠른 측면 이동을 섞되 방향성은 명확하게 유지한다. 동작은 물리적으로 자연스럽고 무게감 있게 표현한다.
-```
-
-<a id="category-12"></a>
-
-### 영상 편집 & 리믹스 (5)
-
-### No. 1: 진지한 비즈니스에서 스낵 딜로
-
-- **Category:** `영상 편집 & 리믹스`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/f11c41ac-ee4b-4f37-b569-d6a4725866b3.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/f11c41ac-ee4b-4f37-b569-d6a4725866b3.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/49)
-
-#### Description
-
-긴장된 비즈니스 장면을 스낵 광고 코미디로 전환하는 리믹스입니다.
-
-#### Prompt
-
-```text
-@video1 전체 반전.
-0-3초: 정장 남성이 바에 침착하게 앉아 있음.
-3-6초: 뒤의 여성이 긴장해 "얼마나 큰데?"라고 질문.
-6-9초: 남성이 테이블 아래서 과장된 대형 스낵 선물팩을 꺼냄.
-13-15초: 자막 "바빠도 간식은 챙겨 먹자~"
-```
-
-### No. 2: 치킨 브랜드 통합
-
-- **Category:** `영상 편집 & 리믹스`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/af84d3d1-5659-49bd-a7a8-c2db96918415.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/af84d3d1-5659-49bd-a7a8-c2db96918415.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/52)
-
-#### Description
-
-기존 식당 장면에 브랜드 패키징을 자연스럽게 통합합니다.
-
-#### Prompt
-
-```text
-video1 카메라가 오른쪽으로 이동하며 치킨집 사장이 바쁘게 주문을 처리한다. 갑자기 @image1 브랜드 로고가 포장 박스에 등장하는 자연스러운 PPL 장면.
-```
-
-### No. 3: 타이타닉 다크 트위스트
-
-- **Category:** `영상 편집 & 리믹스`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/19cb9c31-9a1e-4c2e-ae17-b03f6a88c20b.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/19cb9c31-9a1e-4c2e-ae17-b03f6a88c20b.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/48)
-
-#### Description
-
-로맨틱 장면을 배신 스릴러로 뒤집는 극적 편집 변주입니다.
-
-#### Prompt
-
-```text
-@video1의 줄거리를 반전. 남자의 눈빛이 다정함에서 냉혹함으로 바뀌고, 무방비한 여주를 다리 밖으로 밀어 물에 빠뜨린다. 망설임 없는 행동으로 원래 캐릭터 설정을 뒤집는다.
-```
-
-### No. 4: 밴드 보컬 성별 전환
-
-- **Category:** `영상 편집 & 리믹스`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d3c9e15c-37fa-4603-b5a7-7577a9652d2d.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d3c9e15c-37fa-4603-b5a7-7577a9652d2d.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/50)
-
-#### Description
-
-모든 동작을 유지한 채 여성 보컬을 남성 보컬로 교체합니다.
-
-#### Prompt
-
-```text
-video1의 여자 보컬을 @image1 남자 보컬로 교체. 기존 무대 퍼포먼스, 조명, 음악 리듬은 유지하고 성별만 전환한다.
-```
-
-### No. 5: 상어 포토밤
-
-- **Category:** `영상 편집 & 리믹스`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/06a8c86e-1b58-4088-8caa-25202eec77aa.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/06a8c86e-1b58-4088-8caa-25202eec77aa.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/51)
-
-#### Description
-
-평온한 장면에 위협 요소를 추가해 분위기를 반전합니다.
-
-#### Prompt
-
-```text
-video1 여성의 헤어를 빨간 긴 머리로 변경하고 클로즈업으로 새 헤어스타일을 강조한다. 다른 요소는 유지한다.
-```
-
-<a id="category-13"></a>
-
-### 캐릭터 & 장면 일관성 (6)
-
-### No. 1: 오페라 무대 변환
-
-- **Category:** `캐릭터 & 장면 일관성`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/fffd7fd2-9752-4226-bd04-84101f206938.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/fffd7fd2-9752-4226-bd04-84101f206938.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/6)
-
-#### Description
-
-레퍼런스 영상의 카메라 무빙·전환을 유지하면서 캐릭터만 교체하는 연출입니다.
-
-#### Prompt
-
-```text
-@video1의 여성을 경극 화단 캐릭터로 교체하고, 정교한 무대에서 @video1의 카메라워크와 전환을 참고해 동작 매칭 연출을 만든다.
-```
-
-### No. 2: 호러 1인칭 탐색
-
-- **Category:** `캐릭터 & 장면 일관성`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c4802cca-4ef9-4ba9-b8cc-ed5bdecb88e6.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/c4802cca-4ef9-4ba9-b8cc-ed5bdecb88e6.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/10)
-
-#### Description
-
-여러 환경에서 장면 일관성을 유지하는 1인칭 호러 탐색 연출입니다.
-
-#### Prompt
-
-```text
-@image1을 첫 프레임으로 사용한 1인칭 시점. 어두운 복도를 천천히 전진하며 벽의 수상한 그림자와 멀리서 들리는 낮은 숨소리로 긴장감을 만든다.
-```
-
-### No. 3: 원테이크 심리스 전환
-
-- **Category:** `캐릭터 & 장면 일관성`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/27a03978-e3c0-4750-9b0d-c1a802db8af6.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/27a03978-e3c0-4750-9b0d-c1a802db8af6.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/7)
-
-#### Description
-
-여러 장면 전환을 하나의 롱테이크로 연결해 시각적 일관성을 유지하는 고난도 구성입니다.
-
-#### Prompt
-
-```text
-@video1의 전환과 카메라워크를 참고한 원테이크. 바둑판에서 시작해 노란 모래 바닥, 해변, 발자국, 흰 옷의 여성을 거쳐 상공 시점의 파도로 이어진다. 파도는 커튼으로 자연스럽게 전환되고 마지막에 얼굴 클로즈업으로 마무리한다.
-```
-
-### No. 4: 럭셔리 핸드백 광고
-
-- **Category:** `캐릭터 & 장면 일관성`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d62bd403-fcd1-4abd-8f23-c57063660ed0.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d62bd403-fcd1-4abd-8f23-c57063660ed0.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/9)
-
-#### Description
-
-여러 레퍼런스 이미지의 디테일을 일관되게 유지하는 제품 쇼케이스입니다.
-
-#### Prompt
-
-```text
-@image1 핸드백을 하이엔드 패션 스타일의 상업 영상으로 제작. 카메라가 천천히 제품을 둘러가며 가죽 질감, 금속 장식, 내부 구조를 보여준다. 부드러운 조명으로 고급감과 디테일을 강조한다.
-```
-
-### No. 5: 퇴근 후 귀가 서사
-
-- **Category:** `캐릭터 & 장면 일관성`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d66a205c-4470-4d71-9122-2d0bf0694c9c.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d66a205c-4470-4d71-9122-2d0bf0694c9c.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/5)
-
-#### Description
-
-사무실 복도부터 집까지 캐릭터 일관성을 유지하며 감정 변화와 가족 교감을 이어가는 연속 서사입니다.
-
-#### Prompt
-
-```text
-@image1의 남성이 퇴근 후 지친 걸음으로 복도를 걷다가 집 문 앞에서 멈춘다. 얼굴 클로즈업에서 깊게 숨 쉬며 감정을 정리한다. 열쇠를 찾아 문을 열고 들어가면 딸과 반려견이 달려와 안긴다. 따뜻한 실내 분위기와 자연스러운 대사를 유지한다.
-```
-
-### No. 6: 자석 리본 제품 쇼케이스
-
-- **Category:** `캐릭터 & 장면 일관성`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/74458d90-1c7a-487c-acc2-454558810520.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/74458d90-1c7a-487c-acc2-454558810520.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/8)
-
-#### Description
-
-브랜드 일관성과 멀티 장면 데모를 결합한 한국형 제품 광고 장면입니다.
-
-#### Prompt
-
-```text
-0-2초: 4분할 플래시 컷(빨강/핑크/보라/파랑), @image1 제품이 중앙에서 회전. 2-4초: 제품 360도 클로즈업으로 디테일 강조. 4-6초: 로고 클로즈업과 브랜드명 페이드 인. 전체는 강한 전자음악 리듬에 맞춘다.
-```
-
-<a id="category-14"></a>
-
-### 크리에이티브 시각효과 (11)
-
-### No. 1: 매지컬 변환 시퀀스
-
-- **Category:** `크리에이티브 시각효과`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/af14ed46-358b-4202-a6d5-07cfcbcdff10.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/af14ed46-358b-4202-a6d5-07cfcbcdff10.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/22)
-
-#### Description
-
-유기적 성장과 파티클 소멸을 결합한 캐릭터 변환 시퀀스입니다.
-
-#### Prompt
-
-```text
-@video1 첫 프레임 인물을 @image1로 교체. 몸이 파티클로 흩어졌다가 다른 장면에서 재결합하는 마법 텔레포트 연출을 만든다.
-```
-
-### No. 2: 수달이 거대 메카에 탑승하는 애니 장면
-
-- **Category:** `크리에이티브 시각효과`
-- **Source:** `twitter`
-- **Author:** Andrey Kurenkov (@andrey_kurenkov)
-- **Language:** `ko`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/8bc7ca8d-7344-4be7-ae6d-cd2701702b77.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/8bc7ca8d-7344-4be7-ae6d-cd2701702b77.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/andrey_kurenkov/status/2021435749401514131)
-
-#### Description
-
-기계 디테일 샷이 포함된 수달 메카 탑승 시퀀스입니다.
-
-#### Prompt
-
-```text
-메카 애니 연출: 의인화된 수달 파일럿이 거대 메카에 탑승한다. 격납고 와이드로 시작해 증기와 경고등을 보여주고, 기어 회전·유압 작동·해치 개방의 기계 몽타주를 이어간다. 수달이 조종석에 들어가고 HUD가 점등되며, 마지막에 메카 바이저가 켜지고 엄지 제스처로 마무리한다.
-```
-
-### No. 3: 다운재킷 스완 메타포
-
-- **Category:** `크리에이티브 시각효과`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d35cad32-b340-4394-b98d-8934aa6a1fc8.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d35cad32-b340-4394-b98d-8934aa6a1fc8.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/20)
-
-#### Description
-
-제품 이미지와 자연 메타포, 중국어 보이스오버를 결합한 창의적 광고입니다.
-
-#### Prompt
-
-```text
-영상 광고 아이디어를 참고해 제공된 패딩 이미지와 거위털/백조 이미지를 결합하고, 지정 카피를 넣어 새로운 패딩 광고 영상을 만든다.
-```
-
-### No. 4: 윌 스미스가 스파게티를 먹는 장면
-
-- **Category:** `크리에이티브 시각효과`
-- **Source:** `twitter`
-- **Author:** levelsio (@levelsio)
-- **Language:** `ko`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/eee95836-ac7d-4510-97f5-f6b1f2743aae.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/eee95836-ac7d-4510-97f5-f6b1f2743aae.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/levelsio/status/2021403820702552331)
-
-#### Description
-
-윌 스미스가 현대적인 가정용 주방에서 스파게티를 먹는 장면.
-
-#### Prompt
-
-```text
-포토리얼 중근경 샷. 윌 스미스가 현대적인 홈 키친의 흰색 아일랜드 조리대 앞에서 스파게티를 먹는다. 배경에는 중앙의 스테인리스 냉장고, 흰색 캐비닛, 조리대 소형 가전, 측면 창의 자연광이 보인다. 검은 티셔츠를 입고 정면을 향해 자연스럽게 면을 말아 먹는다. 카메라는 대부분 고정하고 아주 약한 푸시인만 사용한다. 손동작, 표정, 음식 질감을 사실적으로 유지하고 과장된 변형 없이 24fps 시네마틱 리얼리즘으로 표현한다.
-```
-
-### No. 5: 원작을 뛰어넘는 원펀맨 애니메이션
-
-- **Category:** `크리에이티브 시각효과`
-- **Source:** `twitter`
-- **Author:** Chetaslua (@chetaslua)
-- **Language:** `ko`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/fada7cb9-0f74-43fc-ba6a-b98be8be7c16.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/fada7cb9-0f74-43fc-ba6a-b98be8be7c16.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/chetaslua)
-
-#### Description
-
-원작 이상의 퀄리티를 목표로 한 원펀맨 스타일 전투 애니메이션입니다.
-
-#### Prompt
-
-```text
-극장급 일본 애니 전투 연출: 고프레임의 부드러운 움직임, 속도선, 임팩트 프레임, 과감한 카메라 줌과 폭발 이펙트를 사용한다. 원거리 전장 구축 → 중거리 연속 공방 → 근접 필살 타격 → 잔해와 먼지 정리의 흐름으로 구성한다. 배경 파괴, 충격파, 조명 대비를 분명히 하여 강한 타격감을 만든다.
-```
-
-### No. 6: VR 글래스 유니버스 저니
-
-- **Category:** `크리에이티브 시각효과`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/dddb1fb2-d73a-4b6a-a2bf-bf416be652c6.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/dddb1fb2-d73a-4b6a-a2bf-bf416be652c6.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/18)
-
-#### Description
-
-현실에서 VR 인터페이스를 거쳐 다중 디지털 공간으로 이동하는 몰입형 주관 시점 전환입니다.
-
-#### Prompt
-
-```text
-@video1 인물을 @image1로 교체하고 @image1을 첫 프레임으로 사용. 근접 오비탈 쇼트와 3인칭→주관 시점 전환으로 AI 고글 공간을 통과해 @image2의 깊은 푸른 우주로 이동, 여러 우주선이 멀리 비행한다.
-```
-
-### No. 7: 추상 인스턴트 누들 장면
-
-- **Category:** `크리에이티브 시각효과`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/2665a1ba-4ae8-474e-ba72-a2bf94326054.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/2665a1ba-4ae8-474e-ba72-a2bf94326054.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/25)
-
-#### Description
-
-일상 행동을 과장된 표정으로 초현실적으로 해석한 장면입니다.
-
-#### Prompt
-
-```text
-@image1 캐릭터가 @video1의 동작/표정을 참고해 @image2 장면에서 과장된 코미디 연기를 한다. 익살스러운 음향을 함께 사용한다.
-```
-
-### No. 8: 패션 퀵체인지 광고
-
-- **Category:** `크리에이티브 시각효과`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/781e9493-6578-4aba-9d21-44aff3a7d555.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/781e9493-6578-4aba-9d21-44aff3a7d555.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/19)
-
-#### Description
-
-어안 렌즈와 글리치 전환을 활용한 빠른 템포의 패션 광고입니다.
-
-#### Prompt
-
-```text
-첫 이미지 모델의 얼굴 특징을 기준으로 2-6번 레퍼런스 의상을 번갈아 입고 카메라에 접근한다. 장난기/쿨/귀여움/놀람 포즈를 컷 전환하며 어안렌즈와 잔상 글리치 효과를 넣는다.
-```
-
-### No. 9: 퍼즐 전환 로고
-
-- **Category:** `크리에이티브 시각효과`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d8aab6d9-e006-4012-aa41-55ad02a41572.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d8aab6d9-e006-4012-aa41-55ad02a41572.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/23)
-
-#### Description
-
-퍼즐 분해/조합 효과로 구현하는 다이내믹 로고 리빌입니다.
-
-#### Prompt
-
-```text
-@image1 천장에서 시작해 퍼즐 스타일 전환을 사용. 카메라를 아래로 내리며 퍼즐 조각들이 점차 맞춰져 실내 전경이 완성되게 한다.
-```
-
-### No. 10: 골든 파티클 타이틀 리빌
-
-- **Category:** `크리에이티브 시각효과`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/3854856c-478d-40f1-8534-cb240e6a1706.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/3854856c-478d-40f1-8534-cb240e6a1706.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/24)
-
-#### Description
-
-흐르는 황금 입자로 구성한 영화형 타이틀 오프닝입니다.
-
-#### Prompt
-
-```text
-블랙 스크린 오프닝. @video1의 파티클과 카메라 움직임을 참고해 중심에서 입자가 폭발하고 점차 브랜드 로고를 형성한다. 강렬한 효과음을 더한다.
-```
-
-### No. 11: 수묵 태극 퍼포먼스
-
-- **Category:** `크리에이티브 시각효과`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/210c571d-e67f-4bbc-819b-f91bd8925c7b.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/210c571d-e67f-4bbc-819b-f91bd8925c7b.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/21)
-
-#### Description
-
-중국 수묵화 미학으로 재해석한 전통 무술 퍼포먼스입니다.
-
-#### Prompt
-
-```text
-흑백 수묵화 스타일. @image1 캐릭터가 @video1 동작을 참고해 수묵 산수 배경에서 무술을 펼친다. 먹물 튐 효과로 전통과 현대를 결합한다.
-```
-
-<a id="category-15"></a>
-
-### 초현실적 영상 생성 (5)
-
-### No. 1: 장애물이 있는 추격 장면
-
-- **Category:** `초현실적 영상 생성`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/97438ef1-9ee8-4b6f-b064-05e1a0216c33.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/97438ef1-9ee8-4b6f-b064-05e1a0216c33.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/4)
-
-#### Description
-
-충돌 물리와 군중의 패닉이 강조된 강렬한 추격 시퀀스입니다.
-
-#### Prompt
-
-```text
-검은 옷의 남자를 추적하는 도주 장면. 뒤에서 사람들이 쫓아오고 카메라는 측면 트래킹으로 전환된다. 남자가 과일 노점을 들이받고 넘어졌다가 다시 도망친다. 군중의 혼란스러운 소리를 넣는다.
-```
-
-### No. 2: 빅토리아 시대 거리 장면
-
-- **Category:** `초현실적 영상 생성`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/b0409f93-9857-4465-9a2d-50a30937a9db.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/b0409f93-9857-4465-9a2d-50a30937a9db.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/3)
-
-#### Description
-
-19세기 런던을 배경으로 환경 디테일과 인물 반응을 사실적으로 담은 시대극 장면입니다.
-
-#### Prompt
-
-```text
-카메라를 약하게 뒤로 빼며 거리 전경을 보여주고 여주를 따라간다. 바람에 치맛자락이 흔들리고, 19세기 런던 거리에서 증기차가 빠르게 지나가며 여주가 놀라 치마를 붙잡는다. 발걸음, 군중, 차량 소리를 추가한다.
-```
-
-### No. 3: 윌 스미스가 스파게티를 먹는 장면
-
-- **Category:** `초현실적 영상 생성`
-- **Source:** `twitter`
-- **Author:** levelsio (@levelsio)
-- **Language:** `ko`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e55ed973-0bcf-4d50-8b5d-3a831e7e9d68.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e55ed973-0bcf-4d50-8b5d-3a831e7e9d68.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/levelsio/status/2021403820702552331)
-
-#### Description
-
-윌 스미스가 현대적인 가정용 주방에서 스파게티를 먹는 장면.
-
-#### Prompt
-
-```text
-포토리얼 중근경 샷. 윌 스미스가 현대적인 홈 키친의 흰색 아일랜드 조리대 앞에서 스파게티를 먹는다. 배경에는 중앙의 스테인리스 냉장고, 흰색 캐비닛, 조리대 소형 가전, 측면 창의 자연광이 보인다. 검은 티셔츠를 입고 정면을 향해 자연스럽게 면을 말아 먹는다. 카메라는 대부분 고정하고 아주 약한 푸시인만 사용한다. 손동작, 표정, 음식 질감을 사실적으로 유지하고 과장된 변형 없이 24fps 시네마틱 리얼리즘으로 표현한다.
-```
-
-### No. 4: 살아난 그림 속 캐릭터
-
-- **Category:** `초현실적 영상 생성`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d6e3a17d-f4a7-49e3-850c-2cfc68b4a6a4.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d6e3a17d-f4a7-49e3-850c-2cfc68b4a6a4.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/2)
-
-#### Description
-
-그림 속 캐릭터가 살아 움직이며 몰래 콜라를 마시는 유머러스한 광고형 연출입니다.
-
-#### Prompt
-
-```text
-그림 속 인물이 눈치를 보며 좌우를 살피고 액자 밖으로 손을 뻗어 콜라를 집어 한 모금 마신다. 만족한 표정을 짓는 순간 발소리가 들리고, 급히 콜라를 제자리에 둔다. 이후 카우보이가 콜라를 가져가고, 마지막에는 검은 배경에서 캔 콜라만 탑라이트로 비춘다. 화면 하단에 예술 자막과 내레이션을 넣는다.
-```
-
-### No. 5: 우아한 빨래 장면
-
-- **Category:** `초현실적 영상 생성`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/b6b7f78a-f9a7-4c09-a3ac-6f0f694b1263.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/b6b7f78a-f9a7-4c09-a3ac-6f0f694b1263.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/1)
-
-#### Description
-
-여성이 빨래를 우아하게 널고, 바구니에서 다른 옷을 꺼내 자연스럽게 털어내는 장면입니다.
-
-#### Prompt
-
-```text
-고정 카메라. 소녀가 우아하게 빨래를 널고, 끝나면 바구니에서 다른 옷을 꺼내 힘 있게 턴다.
-```
-
-<a id="category-16"></a>
-
-### 감정 연기 (3)
-
-### No. 1: 드라마틱 포효 클로즈업
-
-- **Category:** `감정 연기`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/1b870eee-b748-48a7-84b6-cd56e0c925f9.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/1b870eee-b748-48a7-84b6-cd56e0c925f9.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/59)
-
-#### Description
-
-과장된 표정과 연기로 완성하는 코믹 드라마틱 클로즈업입니다.
-
-#### Prompt
-
-```text
-@image1을 첫 프레임으로 카메라를 회전하며 전진. 캐릭터가 과장된 놀람 표정을 보여주고 코믹한 효과음을 더한다.
-```
-
-### No. 2: 요리 대비 코미디
-
-- **Category:** `감정 연기`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/a9a3d3ad-2aec-4a14-8bb5-2ca7736e09ae.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/a9a3d3ad-2aec-4a14-8bb5-2ca7736e09ae.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/58)
-
-#### Description
-
-차분함과 혼란을 대비시킨 코미디 요리 장면입니다.
-
-#### Prompt
-
-```text
-레인지후드 광고. @image1을 첫 프레임으로 한 주방에서 후드가 작동해 연기를 강하게 흡입한다. 기능을 클로즈업으로 보여주고 마지막에 브랜드 로고를 노출한다.
-```
-
-### No. 3: 거울 앞 붕괴
-
-- **Category:** `감정 연기`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/095be254-151d-4149-b50a-ad054c154758.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/095be254-151d-4149-b50a-ad054c154758.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/57)
-
-#### Description
-
-감정이 단계적으로 고조되는 심리적 붕괴 장면입니다.
-
-#### Prompt
-
-```text
-@image1의 여성이 거울 앞으로 가서 자신을 바라본다. 표정이 평온에서 슬픔으로 변하고 눈물이 흐르며 감정이 무너지는 심리극을 연출한다.
-```
-
-<a id="category-17"></a>
-
-### 스토리 전개 & 확장 (8)
-
-### No. 1: 피트니스 동기부여 광고
-
-- **Category:** `스토리 전개 & 확장`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/65689cf8-c5c9-4624-9136-adac7bc3cc10.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/65689cf8-c5c9-4624-9136-adac7bc3cc10.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/30)
-
-#### Description
-
-역동적 피트니스 장면과 동기부여 메시지로 영상을 확장합니다.
-
-#### Prompt
-
-```text
-영상을 6초 연장. 일렉 기타가 등장하고 "JUST DO IT" 텍스트가 중앙에 나타났다 페이드아웃. 카메라는 천장으로 이동, 근육질 남성이 링에서 턱걸이. @image1 피트니스 의상, @image2 "Fitness" 로고. 마지막에 "DO SOME SPORT" 텍스트 표시.
-```
-
-### No. 2: 감정 여정 영상
-
-- **Category:** `스토리 전개 & 확장`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/0ae0f676-8f49-4b97-88d2-4afaaa5e5424.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/0ae0f676-8f49-4b97-88d2-4afaaa5e5424.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/28)
-
-#### Description
-
-여러 이미지와 오디오를 기반으로 감정 흐름 중심의 분위기 영상을 제작합니다.
-
-#### Prompt
-
-```text
-video1의 오디오를 참고해 이미지 1~5 기반 15초 감성 단편을 생성. 외로움에서 따뜻함으로 변하는 감정 흐름을 힐링 음악과 함께 표현한다.
-```
-
-### No. 3: 커피 모닝 캠페인
-
-- **Category:** `스토리 전개 & 확장`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/94fc9706-187d-4667-a8e4-62692cb256dd.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/94fc9706-187d-4667-a8e4-62692cb256dd.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/31)
-
-#### Description
-
-분위기 조명과 텍스트 리빌을 활용한 커피 캠페인 확장입니다.
-
-#### Prompt
-
-```text
-@video1을 15초 연장. 1-5초: 빛과 그림자가 아침에서 정오로 변화. 5-10초: 인물이 몸을 일으켜 스트레칭. 10-15초: 창가로 가서 먼 곳을 바라보는 따뜻한 생활 분위기.
-```
-
-### No. 4: 당나귀 오토바이 스턴트 광고
-
-- **Category:** `스토리 전개 & 확장`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/67c79521-0cb4-498f-bd74-e0ed9aab81e8.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/67c79521-0cb4-498f-bd74-e0ed9aab81e8.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/29)
-
-#### Description
-
-동물 캐릭터를 활용한 초현실 제품 광고로 기존 영상을 확장합니다.
-
-#### Prompt
-
-```text
-15초 연장. 당나귀 바이크가 사막, 설산, 도시를 가로지르는 초현실 광고 장면을 추가하고, 마지막에 노을 아래 정차하며 카피를 노출한다.
-```
-
-### No. 5: 코믹 패널 애니메이션
-
-- **Category:** `스토리 전개 & 확장`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c939610e-a182-40ad-89a5-254c1515ac24.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/c939610e-a182-40ad-89a5-254c1515ac24.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/26)
-
-#### Description
-
-정적인 코믹 패널을 사운드와 함께 살아있는 애니메이션으로 확장합니다.
-
-#### Prompt
-
-```text
-15초 연장. @image1, @image2의 당나귀 오토바이 이미지를 참고해 기발한 광고 장면을 추가.
-장면1: 측면 고정, 당나귀가 우리를 박차고 나오고 닭이 놀란다.
-장면2: 모래 지면에서 선회, 타이어 클로즈업 후 공중 탑샷.
-장면3: 설산 배경 점프, 카피 "Inspire Creativity, Enrich Life" 노출.
-```
-
-### No. 6: 해바라기 스케이트보드 스토리
-
-- **Category:** `스토리 전개 & 확장`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/30e27ffa-53bc-4655-b405-d017c699ed87.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/30e27ffa-53bc-4655-b405-d017c699ed87.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/32)
-
-#### Description
-
-따뜻한 오후 감성의 일상 서사로 영상을 확장합니다.
-
-#### Prompt
-
-```text
-앞으로 10초 연장. 따뜻한 오후 햇살 아래 테이블의 커피잔에서 시작해 천천히 줌아웃하며 아늑한 카페와 여유로운 대화를 보여준다.
-```
-
-### No. 7: 여성이 비행기를 조종하는 복합 액션 장면 테스트
-
-- **Category:** `스토리 전개 & 확장`
-- **Source:** `twitter`
-- **Author:** Janek Mann (@janekm)
-- **Language:** `ko`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/dc27ff9d-d357-423c-88b8-65e4646c5659.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/dc27ff9d-d357-423c-88b8-65e4646c5659.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/janekm/status/2020388244802740728)
-
-#### Description
-
-여성이 조종사 실종을 발견하고 위기 속에서 항공기를 제어합니다.
-
-#### Prompt
-
-```text
-재난 스릴러 스타일: 난기류 중 여성이 조종석으로 뛰어가자 기장이 사라진 상황을 발견한다. 기내에서는 승객 혼란과 경고등을 핸드헬드로 따라가고, 조종석에서는 계기판·조종간·눈빛을 빠르게 컷 전환한다. 외부 와이드에서 급강하 후 회복 장면을 보여주고, 마지막에 주인공이 기체를 안정화하며 긴장을 유지한다.
-```
-
-### No. 8: 어린 시절 사계절 다큐 오프닝
-
-- **Category:** `스토리 전개 & 확장`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/41aab229-bca0-4387-a4b1-08e88dde89a2.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/41aab229-bca0-4387-a4b1-08e88dde89a2.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/27)
-
-#### Description
-
-스토리보드를 기반으로 한 힐링 다큐 오프닝 시퀀스 제작입니다.
-
-#### Prompt
-
-```text
-영상을 6초 연장. 강한 일렉 기타가 나오고 중앙에 "JUST DO IT" 텍스트가 나타났다 사라진다. 카메라가 천장으로 올라가고, 건장한 남성이 링 운동을 한다. 상의는 @image1, 등에는 @image2의 "Fitness" 로고.
-```
-
-<a id="category-18"></a>
-
-### 음악 싱크 (4)
-
-### No. 1: 애니 체스 배틀 스토리보드
-
-- **Category:** `음악 싱크`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/efe4a014-a97b-4f4b-baa6-77d477b7024f.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/efe4a014-a97b-4f4b-baa6-77d477b7024f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/56)
-
-#### Description
-
-극적 타이밍을 갖춘 애니메이션 체스 배틀 스토리보드입니다.
-
-#### Prompt
-
-```text
-8초 지략 대결 스타일 애니 전투 장면. 긴장감 있는 음악 비트에 맞춰 빠른 액션과 컷 전환으로 애니메이션 비주얼 임팩트를 만든다.
-```
-
-### No. 2: 패션 비트 드롭
-
-- **Category:** `음악 싱크`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/5ae0578e-e6c8-4ff1-a03a-e19b5ac2f5c1.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/5ae0578e-e6c8-4ff1-a03a-e19b5ac2f5c1.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/53)
-
-#### Description
-
-패션 변신을 음악 비트에 정확히 싱크한 클립입니다.
-
-#### Prompt
-
-```text
-포스터 속 소녀가 계속 의상을 교체한다. @image1-6 의상을 참고하고 음악 비트에 맞춰 빠르게 전환해 강한 패션 무드를 만든다.
-```
-
-### No. 3: 다이내믹 인물 비트 싱크
-
-- **Category:** `음악 싱크`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/11a4251f-cb41-41b1-b6a7-8ac19d340956.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/11a4251f-cb41-41b1-b6a7-8ac19d340956.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/54)
-
-#### Description
-
-음악 키프레임에 맞춰 인물 포트레이트를 역동적으로 전개합니다.
-
-#### Prompt
-
-```text
-@image1 @image2 @image3 @image4 @image5 @image6 @image7 이미지 시퀀스를 음악 리듬에 맞춰 1-2초씩 보여주며 인물 감정 변화를 표현하는 다이내믹 앨범 효과를 만든다.
-```
-
-### No. 4: 풍경 전환 뮤직비디오
-
-- **Category:** `음악 싱크`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/6b0fbeb4-51df-4094-8252-d2dfb8631776.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/6b0fbeb4-51df-4094-8252-d2dfb8631776.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/55)
-
-#### Description
-
-풍경 전환을 음악 리듬에 정밀하게 맞춘 뮤직비디오 구성입니다.
-
-#### Prompt
-
-```text
-@image1 @image2 @image3 @image4 @image5 @image6 풍경 이미지를 음악 전환에 맞춰 일출에서 일몰까지 이어지는 MV 스타일로 구성한다.
-```
-
-<a id="category-19"></a>
-
-### 원테이크 촬영 (5)
-
-### No. 1: 롤러코스터 POV
-
-- **Category:** `원테이크 촬영`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/fabf98a8-432c-479a-bcd3-3736677190b2.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/fabf98a8-432c-479a-bcd3-3736677190b2.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/47)
-
-#### Description
-
-점점 속도가 높아지는 롤러코스터 1인칭 체험 연출입니다.
-
-#### Prompt
-
-```text
-@image1 @image2 @image3 @image4 @image5, 주관 시점 롤러코스터 체험. 급강하, 회전, 상승을 빠르게 반복해 강한 몰입감을 준다.
-```
-
-### No. 2: 아늑한 오두막 티타임
-
-- **Category:** `원테이크 촬영`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d1d1c955-c271-44ba-bd3e-1537e33a2e29.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d1d1c955-c271-44ba-bd3e-1537e33a2e29.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/46)
-
-#### Description
-
-따뜻한 실내로 진입하는 1인칭 원테이크 장면입니다.
-
-#### Prompt
-
-```text
-@image1 외관 기반 1인칭 시점으로 실내에 들어가 주변을 둘러본다. 아늑한 집 분위기와 공간 배치를 원테이크로 보여준다.
-```
-
-### No. 3: 스파이 스릴러 추적
-
-- **Category:** `원테이크 촬영`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/873ead10-156a-4f5f-aafc-1a0a743c3ef7.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/873ead10-156a-4f5f-aafc-1a0a743c3ef7.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/45)
-
-#### Description
-
-도시 공간을 가로지르는 비밀요원을 긴장감 있게 추적하는 원테이크입니다.
-
-#### Prompt
-
-```text
-스파이 스릴러 스타일. @image1을 시작 프레임으로, 정면 추적으로 거리·계단·옥상을 빠르게 통과하는 긴장감 있는 원테이크 추격 장면을 만든다.
-```
-
-### No. 4: 비행기 창문 아이스크림 드림
-
-- **Category:** `원테이크 촬영`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/3421ca69-533f-4ef7-aef2-2aabad3d53fe.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/3421ca69-533f-4ef7-aef2-2aabad3d53fe.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/44)
-
-#### Description
-
-비행기 창문에서 시작해 초현실적 상호작용으로 이어지는 원테이크입니다.
-
-#### Prompt
-
-```text
-@image1을 첫 프레임으로 시작해 비행기 창밖으로 확대. 구름이 천천히 들어오고, 중앙의 컬러 캔디 구름이 @image2 아이스크림으로 변형된다.
-```
-
-### No. 5: 파쿠르 추격 시퀀스
-
-- **Category:** `원테이크 촬영`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ko`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c8b0a7bb-eae5-417f-bf63-e3a114a1364f.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/c8b0a7bb-eae5-417f-bf63-e3a114a1364f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ko/seedance-2-prompt/43)
-
-#### Description
-
-여러 환경을 통과하는 러너를 한 번에 따라가는 역동적 원테이크입니다.
-
-#### Prompt
-
-```text
-@image1@image2@image3@image4@image5, 원테이크 추적. 거리에서 계단, 복도, 옥상까지 러너를 따라가고 마지막에 도시를 내려다본다.
+[취한 남자의 옥상 소동 — 가장자리에서 추락 — 창문을 통해 밧줄을 붙잡음 — 그 자리에서 기절 | 블랙코미디 단편 | 약 30초] 한 줄 개요: 통통하고 귀여운 술 취한 중년 남자가 건물 옥상에서 버거를 먹으며 맥주를 마시다가, 일어나 기지개를 켜던 중 실수로 발을 헛디뎌 떨어지고, 당황한 나머지 생명줄을 붙잡아 곧장 창문을 뚫고 실내로 들어와, 1초간 멍하니 얼떨떨해하다가, 그냥 그 자리에 드러누워 곤히 잠들어 버린다. 참조 이미지 @image1 — 통통하고 귀여운 술 취한 중년 남자: 둥글고 다부진 체격에 커다랗고 둥근 맥주배, 작은 키, 술에 취해 흐느적거리고 느릿하며 비틀거리는 동작. 둥근 얼굴, 이중 턱, 술기운에 붉어진 볼과 코, 실눈을 뜨고 게슴츠레한 눈빛, 다듬지 않은 짧은 수염 자국, 헝클어진 머리, 어리숙하고 귀엽고 태평한 표정. 버거 소스가 묻은 흰 러닝셔츠가 둥근 배 위로 헐렁하게 늘어져 있고, 낡은 청바지에 헐렁한 슬리퍼를 끌며, 늘 한 손에 먹다 만 버거를 쥐고 있다. 영상 전체에 등장하는 인물은 이 한 명뿐이며, 참조 이미지와 100% 일치한다. 전체적인 룩: 밤의 사이버펑크 메가시티, 유리와 강철로 된 빽빽한 마천루 숲, 네온사인(시안/마젠타/일렉트릭 블루), 홀로그램 광고판, 젖어서 반사되는 바닥, 볼류메트릭 안개, 멀리 하늘을 나는 자동차의 라이트 트레일과 드론. 실사 질감, 실제 시네마 렌즈, 3D 렌더링/게임 엔진/애니메이션 느낌 없음. 카메라는 핸드헬드와 지브/드론을 섞어 쓴다. 추락 후에는 카메라가 남자와 함께 곤두박질치며 건물 외벽과 네온이 위로 솟구쳐 속도감을 전한다. 24-35mm 와이드스크린 시네마 렌즈 질감, 180도 셔터 모션 블러. 사운드 디자인이 블랙코미디의 핵심이다: "거대한 굉음"과 "완전한 정적" 사이를 반복적으로 하드컷한다. 처음부터 끝까지 실제 중력을 유지한다. 스토리보드(약 30초): S1 (0-4s) 오프닝 씹는 장면 빅 클로즈업(소리 있음) 남자의 얼굴이 화면을 가득 채우고, 버거를 큼직하게 베어 물며 만족스러운 취기 상태. S2 (4-9s) 와이드 샷으로 빠지며, 기지개 -> 발을 헛디뎌 추락(소리 있음) 남자가 비틀비틀 일어나 크게 기지개를 켜고 몸을 뒤로 젖히다 균형을 잃고, 발이 미끄러지며 옥상 가장자리 너머로 뒤로 굴러떨어진다. 버거는 끝까지 놓지 않으며 당황한 "어——!" 소리. S3 (9-12s) 놀란 얼굴 클로즈업으로 컷(큰 비명, 거대한 굉음) 취한 눈이 동그랗게 튀어나오고, 이중 턱이 잔뜩 접히며, 입을 크게 벌려 "으아——!!" 비명을 지르고, 바람이 세차게 몰아친다. S4 (12-16s) 눈높이 롱 샷으로 컷(완전한 정적) 맞은편 건물에서 바라본 시점, 고층 빌딩에서 곧장 곤두박질치는 작고 하얀 형체, 광활하고 무심한 네온 도시, 완전한 정적이 1초 전의 거대한 굉음과 블랙코미디적 대비를 이룬다. S5 (16-21s) 얼굴 클로즈업으로 컷(비명) -> 밧줄을 붙잡음, 여전히 비명을 지르며 허공에서 두 손을 허우적대다, 갑자기 생명줄 케이블을 붙잡고, 케이블이 그의 무게에 팽팽히 당겨지며 튕기는 소리와 함께 휘어지고, 홱 잡아채여 밖으로 흔들리며 비명이 뚝 끊긴다(밧줄을 붙잡는 순간 짧은 슬로모션). S6 (21-26s) 실내 앵글로 컷(조용함) -> 유리 깨짐 -> 남자가 들이닥침, 실내는 처음엔 에어컨 소리만 나며 조용하다가, 다음 순간 유리가 안쪽으로 폭발하듯 부서지며(짧은 불릿타임) 취한 남자가 버거째로 창문을 뚫고 들어오고, 파편이 방사형으로 튀며 네온 빛이 쏟아져 들어오고, 그가 바닥/소파로 육중하게 처박히며 깨진 유리가 짤랑거린다. S7 (26-30s) 엔딩, 놀란 한순간 -> 잠들다, 남자가 깨진 유리를 뒤집어쓴 채 바닥에 대자로 뻗어 여전히 버거를 움켜쥐고, 천천히 눈을 뜨고, 멍하니 넋 나간 채 온전히 1초간 놀란 표정으로 "여기가 어디지?" 하듯 주위를 둘러보다가, 이내 취기가 몰려와 전혀 개의치 않고 입맛을 다시며 버거를 품에 끌어안고 돌아누워, 바로 그 자리에 드러누워 곤히 잠들어 가볍게 코까지 곤다. 카메라가 빠지며 정지하고, 검은 화면으로 하드컷. 현장 라이브 사운드만 사용, 음악 없음, 자막 없음. 핵심은 "거대한 굉음"과 "정적" 사이의 반복적인 하드컷이다.
 ```
 
 ## Local Usage
@@ -2665,4 +644,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-07-21T04:39:05.278Z
+> This README is auto-generated. 2026-07-21T07:52:08.402Z

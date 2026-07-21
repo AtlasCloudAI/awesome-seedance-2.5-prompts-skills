@@ -4,7 +4,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedance-2.5-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-105%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-11%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 > A curated collection of Seedance 2.5 video prompts — each with real previews via Atlas Cloud. 30s native clips · 50 multimodal references · flexible region editing. Cinematic, anime, UGC, ads, meme & more.
 
@@ -68,38 +68,27 @@ Seedance 2.5 is a major upgrade to Seedance 2.0 with three big gains: 30-second 
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **105** |
-| Categories | **19** |
-| Preview Videos | **99** |
-| Last Updated | **2026-07-21T04:39:05.279Z** |
+| Total Prompts | **11** |
+| Categories | **8** |
+| Preview Videos | **11** |
+| Last Updated | **2026-07-21T07:52:08.402Z** |
 
 ## 🏷️ Browse by Category
 
-- [`Match-Cut & Creative Effects`](#category-1): **1**
-- [`One-Take Cinematography`](#category-2): **1**
-- [`Multi-Image Reference`](#category-3): **3**
-- [`Video Editing`](#category-4): **2**
-- [`Reference-Guided Tutorial`](#category-5): **1**
-- [`Multimodal Reference (image+video)`](#category-6): **1**
-- [`Image Reference`](#category-7): **1**
-- [`Image Reference (Cinematic)`](#category-8): **1**
-- [`Twitter Community`](#category-9): **24**
-- [`เสียงและการสังเคราะห์เสียงพูด`](#category-10): **10**
-- [`การเคลื่อนไหวกล้องขั้นสูง`](#category-11): **13**
-- [`การตัดต่อและรีมิกซ์วิดีโอ`](#category-12): **5**
-- [`ความสม่ำเสมอของตัวละครและฉาก`](#category-13): **6**
-- [`เอฟเฟกต์ภาพสร้างสรรค์`](#category-14): **11**
-- [`การสร้างวิดีโอสมจริงขั้นสูง`](#category-15): **5**
-- [`การแสดงอารมณ์`](#category-16): **3**
-- [`การพัฒนาและต่อยอดเรื่องราว`](#category-17): **8**
-- [`การซิงก์ดนตรี`](#category-18): **4**
-- [`ภาพยนตร์เทคเดียว`](#category-19): **5**
+- [`แมตช์คัต & เอฟเฟกต์สร้างสรรค์`](#category-1): **1**
+- [`การถ่ายทำแบบวันเทค`](#category-2): **1**
+- [`การอ้างอิงหลายภาพ`](#category-3): **3**
+- [`การตัดต่อวิดีโอ`](#category-4): **2**
+- [`บทเรียนแบบมีภาพอ้างอิง`](#category-5): **1**
+- [`การอ้างอิงหลายรูปแบบ (ภาพ+วิดีโอ)`](#category-6): **1**
+- [`การอ้างอิงภาพ`](#category-7): **1**
+- [`การอ้างอิงภาพ (สไตล์ภาพยนตร์)`](#category-8): **1**
 
 ## 🔥 Featured Prompts
 
-### No. 1: Crystal Ball Match-Cut Beat Film
+### No. 1: หนังแมตช์คัตลูกแก้วตามจังหวะบีต
 
-- **Category:** `Match-Cut & Creative Effects`
+- **Category:** `แมตช์คัต & เอฟเฟกต์สร้างสรรค์`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `th`
@@ -110,17 +99,17 @@ Seedance 2.5 is a major upgrade to Seedance 2.0 with three big gains: 30-second 
 
 #### Description
 
-A beat-synced match-cut film: one crystal ball etched with a glowing 'seedance' logo stays centered while eight scenes cut seamlessly behind it.
+หนังแมตช์คัตที่ซิงก์กับจังหวะ: ลูกแก้วใบหนึ่งที่สลักโลโก้ 'seedance' เรืองแสงอยู่ตรงกลางเฟรมตลอด ขณะที่แปดฉากด้านหลังตัดสลับกันอย่างไร้รอยต่อ
 
 #### Prompt
 
 ```text
-A fast-paced, cinematic Match-cut short film synced to a driving electronic beat. A flawless crystal ball stays fixed dead-center throughout, a glowing "seedance" logo etched inside it. The ball holds razor-sharp focus while, on every strong musical beat, the background match-cuts seamlessly: Scene 1: macro close-up, cinematic water splashing around the ball, refracting intricate light. Scene 2: a vintage morning cafe, the ball on a raw-wood table, rising coffee steam and blurred commuters beyond the window. Scene 3: golden-hour dusk, a skater youth tosses and catches the ball one-handed, street racing backward behind them in gorgeous backlit sunset. Scene 4: a frenzied music festival, hands raise the ball high, refracting dazzling stage lasers. Scene 5: a lively family party table, the ball resting center-frame, blurred figures toasting and reaching for food. Scene 6: a dim cinema, hands cupping the ball as the giant screen's faint glow drifts across its surface. Scene 7: the ball on a violently vibrating speaker diaphragm, match-cutting on the climax to a spinning DJ turntable center. Scene 8: an outdoor camping night, background becoming warm bonfire and swaying string-light bokeh. Finale: on the final downbeat the ball is hurled up out of frame; cut to pure black, a minimal white-on-black "seedance" appearing dead-center. Beat-synced match-cut editing, top-tier cinematic color grading, photoreal glass refraction, ray tracing, global illumination. Subject razor-sharp, background heavy motion blur.
+หนังสั้นแมตช์คัตสไตล์ภาพยนตร์จังหวะกระชับ ซิงก์กับบีตอิเล็กทรอนิกส์ที่เร่งเร้า ลูกแก้วไร้ตำหนิถูกตรึงไว้ตรงกลางเฟรมตลอดทั้งเรื่อง ภายในสลักโลโก้ "seedance" เรืองแสง ลูกแก้วคงโฟกัสคมกริบ ขณะที่ทุกจังหวะบีตหนักแน่นทางดนตรี ฉากหลังจะแมตช์คัตอย่างไร้รอยต่อ: Scene 1: โคลสอัปมาโคร น้ำกระเซ็นรอบลูกแก้วแบบภาพยนตร์ หักเหแสงอันซับซ้อน Scene 2: คาเฟ่ยามเช้าสไตล์วินเทจ ลูกแก้ววางบนโต๊ะไม้ดิบ ไอกาแฟลอยขึ้น และผู้คนเดินทางเบลอ ๆ นอกหน้าต่าง Scene 3: สนธยายามโกลเดนอาวร์ วัยรุ่นสเก็ตเตอร์โยนแล้วรับลูกแก้วด้วยมือเดียว ถนนพุ่งถอยหลังด้านหลังในแสงย้อนพระอาทิตย์ตกอันงดงาม Scene 4: เทศกาลดนตรีที่คลั่งไคล้ มือหลายมือชูลูกแก้วสูงขึ้น หักเหแสงเลเซอร์เวทีอันตระการตา Scene 5: โต๊ะปาร์ตี้ครอบครัวที่คึกคัก ลูกแก้ววางกลางเฟรม ผู้คนเบลอ ๆ ชนแก้วและเอื้อมหยิบอาหาร Scene 6: โรงหนังสลัว มือประคองลูกแก้วขณะแสงจาง ๆ จากจอยักษ์เคลื่อนผ่านผิวของมัน Scene 7: ลูกแก้ววางบนไดอะแฟรมลำโพงที่สั่นสะเทือนรุนแรง แมตช์คัตในช่วงไคลแมกซ์ไปยังเทิร์นเทเบิลดีเจที่หมุนอยู่ตรงกลาง Scene 8: ค่ำคืนตั้งแคมป์กลางแจ้ง ฉากหลังกลายเป็นกองไฟอบอุ่นและโบเก้ไฟสายที่แกว่งไกว ตอนจบ: ในจังหวะดาวน์บีตสุดท้าย ลูกแก้วถูกโยนขึ้นออกนอกเฟรม ตัดไปที่จอดำสนิท คำว่า "seedance" สีขาวบนพื้นดำแบบมินิมอลปรากฏตรงกลางเฟรม การตัดต่อแมตช์คัตซิงก์กับบีต การเกรดสีระดับภาพยนตร์ชั้นยอด การหักเหของแก้วสมจริง เรย์เทรซซิง โกลบอลอิลลูมิเนชัน วัตถุคมกริบ ฉากหลังโมชันเบลอหนัก
 ```
 
-### No. 2: Steampunk Clockwork — 30s One-Take
+### No. 2: กลไกนาฬิกาสตีมพังก์ — วันเทก 30 วินาที
 
-- **Category:** `One-Take Cinematography`
+- **Category:** `การถ่ายทำแบบวันเทค`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `th`
@@ -131,17 +120,17 @@ A fast-paced, cinematic Match-cut short film synced to a driving electronic beat
 
 #### Description
 
-A 30-second steampunk miniature 3D sequence with continuous orbiting, pass-through camera moves.
+ซีเควนซ์ 3D จิ๋วสไตล์สตีมพังก์ 30 วินาที ด้วยการโคจรต่อเนื่องและการเคลื่อนกล้องทะลุผ่าน
 
 #### Prompt
 
 ```text
-A high-end, deeply cinematic 30-second 3D motion-graphics sequence in refined steampunk and vintage-miniature style, with continuous fluid orbiting and pass-through camera moves. [0-10s] Macro close-up of an antique brass clock face that unfolds layer by layer into meshing rotating gear rings and volumetric fog. The camera pierces down through the gears; a mechanical ornithopter spirals up from a miniature canyon of stacked weathered old books. [10-20s] The camera glides forward tracking the ornithopter, seamlessly passing into a fast-spinning ornate brass zoetrope projecting galloping mechanical-horse light. The light leaps out and the scene becomes a brass floating cable car on glimmering copper rails through a forest of gears, bathed in cinematic golden-hour light. [20-30s] The camera pans elegantly down; below appears an exquisite clockwork wooden sailing ship cutting deep-blue glass-textured waves, which morph into a glowing giant moon with lantern-holding explorer silhouettes trekking a crystal-vein ridge under stars. The camera spirals smoothly back through ethereal clouds to the ticking brass clock face. Hyper-real mechanical textures, rich brass and gold tones, cinematic shallow depth of field, smooth seamless pass-through camerawork, epic fantastical adventure atmosphere.
+ซีเควนซ์โมชันกราฟิก 3D ระดับพรีเมียมสไตล์ภาพยนตร์ลึกล้ำ ความยาว 30 วินาที ในสไตล์สตีมพังก์ประณีตและโมเดลจิ๋ววินเทจ ด้วยการโคจรลื่นไหลต่อเนื่องและการเคลื่อนกล้องทะลุผ่าน [0-10s] โคลสอัปมาโครของหน้าปัดนาฬิกาทองเหลืองโบราณที่คลี่ออกทีละชั้นกลายเป็นวงเฟืองหมุนขบกันและหมอกหนา กล้องเจาะทะลุลงไประหว่างเฟือง เครื่องบินปีกกลไก (ornithopter) ทะยานหมุนวนขึ้นจากหุบเขาจิ๋วที่ทำจากหนังสือเก่าทรุดโทรมซ้อนกัน [10-20s] กล้องเลื่อนไปข้างหน้าตามเครื่องบินปีกกลไก ผ่านเข้าไปอย่างไร้รอยต่อสู่ซูโอโทรป (zoetrope) ทองเหลืองประดับประดาที่หมุนเร็วฉายแสงเป็นรูปม้ากลไกควบตะบึง แสงนั้นกระโจนออกมาและฉากกลายเป็นกระเช้าลอยฟ้าทองเหลืองบนรางทองแดงระยิบระยับที่แล่นผ่านป่าเฟือง อาบด้วยแสงโกลเดนอาวร์แบบภาพยนตร์ [20-30s] กล้องแพนลงอย่างสง่างาม ด้านล่างปรากฏเรือใบไม้กลไกอันวิจิตรที่แล่นตัดคลื่นสีน้ำเงินเข้มผิวคล้ายแก้ว ซึ่งแปรเปลี่ยนเป็นดวงจันทร์ยักษ์เรืองแสง โดยมีเงาของนักสำรวจถือโคมไฟเดินป่ายไปตามสันเขาแนวผลึกใต้แสงดาว กล้องหมุนวนอย่างนุ่มนวลย้อนกลับผ่านหมู่เมฆพิสุทธิ์สู่หน้าปัดนาฬิกาทองเหลืองที่เดินติ๊กต่อก เท็กซ์เจอร์กลไกเหนือจริง โทนทองเหลืองและทองคำเข้มข้น ระยะชัดตื้นแบบภาพยนตร์ การเคลื่อนกล้องทะลุผ่านลื่นไหลไร้รอยต่อ บรรยากาศการผจญภัยแฟนตาซีอันยิ่งใหญ่
 ```
 
-### No. 3: Windows Through Worlds (5 refs)
+### No. 3: หน้าต่างสู่หลากโลก (ภาพอ้างอิง 5 ภาพ)
 
-- **Category:** `Multi-Image Reference`
+- **Category:** `การอ้างอิงหลายภาพ`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `th`
@@ -160,17 +149,17 @@ A high-end, deeply cinematic 30-second 3D motion-graphics sequence in refined st
 
 #### Description
 
-A brand concept short driven by 5 reference images, gliding through windows into different worlds.
+หนังสั้นคอนเซปต์แบรนด์ที่ขับเคลื่อนด้วยภาพอ้างอิง 5 ภาพ ล่องผ่านหน้าต่างเข้าสู่โลกที่แตกต่างกัน
 
 #### Prompt
 
 ```text
-A cinematic brand concept short. @image1 is the first frame; the picture trembles slightly, the camera pushes in to tree shadows rushing backward outside the window, their retreat accelerating, then abruptly cuts to @image2, speed easing as the camera glides slowly along a stream, birdsong and blossoms. The camera drops underwater — bubble sounds — as orange jellyfish drift gracefully past the lens @image3; the camera pulls back as small fish flit past and swim from the water into the window @image4, a girl looking around, watching them. The camera pulls back, defocuses, then refocuses sharp, switching to the music's rhythm: a Chinese-garden lattice window @image5 with light circling, church stained glass, an airplane porthole, a dome skylight, a bay window, louver blinds, a European dormer, a door peephole, a camera viewfinder, a bird's eye, a human eye close-up. It settles on the human eye; the eye closes, screen black, then suddenly opens — "seedance" appearing in the center of the eye on the accent beat.
+หนังสั้นคอนเซปต์แบรนด์สไตล์ภาพยนตร์ @image1 คือเฟรมแรก ภาพสั่นเล็กน้อย กล้องดันเข้าหาเงาต้นไม้ที่พุ่งถอยหลังนอกหน้าต่าง การถอยของมันเร่งเร็วขึ้น แล้วตัดฉับไปที่ @image2 ความเร็วผ่อนลงขณะกล้องล่องช้า ๆ ไปตามลำธาร มีเสียงนกร้องและดอกไม้บาน กล้องดำดิ่งลงใต้น้ำ — เสียงฟองอากาศ — ขณะแมงกะพรุนสีส้มล่องลอยอย่างสง่างามผ่านหน้าเลนส์ @image3 กล้องถอยออกขณะปลาเล็กแวบผ่านและว่ายจากน้ำเข้าไปในหน้าต่าง @image4 เด็กหญิงคนหนึ่งมองไปรอบ ๆ เฝ้าดูพวกมัน กล้องถอยออก โฟกัสเบลอ แล้วปรับกลับมาคมชัด สลับไปตามจังหวะดนตรี: หน้าต่างลายฉลุแบบสวนจีน @image5 ที่มีแสงวนรอบ กระจกสีโบสถ์ ช่องหน้าต่างเครื่องบิน สกายไลต์ทรงโดม หน้าต่างโค้งยื่น มู่ลี่เกล็ด หน้าต่างหลังคาแบบยุโรป ช่องมองประตู ช่องมองภาพกล้อง ตานก และโคลสอัปตามนุษย์ ภาพหยุดนิ่งที่ตามนุษย์ ตาหลับลง จอดำ แล้วจู่ ๆ ก็ลืมตาขึ้น — "seedance" ปรากฏตรงกลางดวงตาในจังหวะเน้น
 ```
 
-### No. 4: One-Take Through Six Rooms (8 refs)
+### No. 4: วันเทกผ่านหกห้อง (ภาพอ้างอิง 8 ภาพ)
 
-- **Category:** `Multi-Image Reference`
+- **Category:** `การอ้างอิงหลายภาพ`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `th`
@@ -192,17 +181,17 @@ A cinematic brand concept short. @image1 is the first frame; the picture tremble
 
 #### Description
 
-One continuous take following a figure through six mood-shifting rooms, driven by 8 reference images.
+ลองเทกต่อเนื่องเดียวที่ติดตามบุคคลหนึ่งผ่านหกห้องที่อารมณ์แปรเปลี่ยน ขับเคลื่อนด้วยภาพอ้างอิง 8 ภาพ
 
 #### Prompt
 
 ```text
-One continuous take. The camera smoothly follows a person in a black coat (reference @image1) moving left to right through six connected rooms of different tones and moods. Every room shares the same structure: white walls, light herringbone wood floor, French floor-to-ceiling windows, white sheer curtains (reference @image2) but the outside view and mood differ each time. The protagonist walks at a constant pace, passing through every open door. 0-5s room one, American-comic fight: the protagonist fights a character (@image3), who is defeated; 5-10s room two, warmth, felt-craft style, window view a sunflower field (@image4), warm-orange soft light, a painter painting sunflowers (@image5), the protagonist turning felt-style on entering; 10-15s room three, sorrow, black-and-white comic stop-motion, rain outside, cold-grey light, a person alone on the floor hugging their knees, a phone glowing with an unanswered call; on entering, the light blinks off then on, the room turns color, flowers bursting into bloom; 15-20s room four, joy, a room submerged in the sea (reference @image6), the protagonist turning transparent among coral and fish; 20-25s room five, surprise, window view a sky of fireworks (reference @image7), colorful flickering light, the protagonist swept up in a cheering crowd; 25-30s a blank white room, the protagonist snaps their fingers — snap SFX — frame goes black, "seedance" in the middle (reference @image8). Cinematic quality, high-fashion advertising style, lighting entirely determined by the window views for strong emotional contrast, no text in frame.
+ลองเทกต่อเนื่องเดียว กล้องติดตามบุคคลในเสื้อโค้ตสีดำ (อ้างอิง @image1) อย่างนุ่มนวลขณะเคลื่อนจากซ้ายไปขวาผ่านหกห้องที่เชื่อมต่อกันซึ่งมีโทนและอารมณ์ต่างกัน ทุกห้องมีโครงสร้างเดียวกัน: ผนังขาว พื้นไม้ลายก้างปลาสีอ่อน หน้าต่างฝรั่งเศสสูงจรดเพดาน ผ้าม่านโปร่งสีขาว (อ้างอิง @image2) แต่วิวและอารมณ์ภายนอกต่างกันทุกครั้ง ตัวเอกเดินด้วยจังหวะคงที่ ผ่านทุกประตูที่เปิดอยู่ 0-5s ห้องแรก ฉากต่อสู้สไตล์การ์ตูนอเมริกัน: ตัวเอกต่อสู้กับตัวละครหนึ่ง (@image3) ซึ่งพ่ายแพ้ 5-10s ห้องที่สอง ความอบอุ่น สไตล์งานสักหลาด วิวนอกหน้าต่างเป็นทุ่งทานตะวัน (@image4) แสงนุ่มสีส้มอบอุ่น จิตรกรกำลังวาดดอกทานตะวัน (@image5) ตัวเอกกลายเป็นสไตล์สักหลาดเมื่อก้าวเข้าไป 10-15s ห้องที่สาม ความเศร้า สต็อปโมชันการ์ตูนขาวดำ ฝนตกนอกหน้าต่าง แสงสีเทาเย็น มีคนนั่งกอดเข่าอยู่คนเดียวบนพื้น โทรศัพท์เรืองแสงด้วยสายที่ไม่มีใครรับ เมื่อก้าวเข้าไป ไฟกะพริบดับแล้วติด ห้องกลับมีสีสัน ดอกไม้ผลิบานสะพรั่ง 15-20s ห้องที่สี่ ความสุข ห้องที่จมอยู่ใต้ทะเล (อ้างอิง @image6) ตัวเอกกลายเป็นโปร่งใสท่ามกลางปะการังและฝูงปลา 20-25s ห้องที่ห้า ความประหลาดใจ วิวนอกหน้าต่างเป็นท้องฟ้าที่เต็มไปด้วยพลุ (อ้างอิง @image7) แสงวูบวาบหลากสี ตัวเอกถูกฝูงชนที่โห่ร้องโอบล้อมพาไป 25-30s ห้องขาวว่างเปล่า ตัวเอกดีดนิ้ว — เสียงเอฟเฟกต์ดีดนิ้ว — เฟรมกลายเป็นสีดำ "seedance" อยู่ตรงกลาง (อ้างอิง @image8) คุณภาพระดับภาพยนตร์ สไตล์โฆษณาไฮแฟชัน แสงถูกกำหนดโดยวิวนอกหน้าต่างทั้งหมดเพื่อสร้างความคอนทราสต์ทางอารมณ์ที่รุนแรง ไม่มีข้อความในเฟรม
 ```
 
-### No. 5: Video Edit — Remove All But the Lead
+### No. 5: ตัดต่อวิดีโอ — ลบทุกคนเหลือแค่ตัวเอก
 
-- **Category:** `Video Editing`
+- **Category:** `การตัดต่อวิดีโอ`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `th`
@@ -217,17 +206,17 @@ One continuous take. The camera smoothly follows a person in a black coat (refer
 
 #### Description
 
-Reference-video editing: erase everyone except the protagonist from a source clip.
+การตัดต่อด้วยวิดีโออ้างอิง: ลบทุกคนออกจากคลิปต้นฉบับ ยกเว้นตัวเอก
 
 #### Prompt
 
 ```text
-Video editing: remove everyone in @video1 except the protagonist.
+การตัดต่อวิดีโอ: ลบทุกคนใน @video1 ออก ยกเว้นตัวเอก
 ```
 
-### No. 6: Multilingual Hip-Hop 'Hello' MV
+### No. 6: เอ็มวีฮิปฮอป 'Hello' หลายภาษา
 
-- **Category:** `Multi-Image Reference`
+- **Category:** `การอ้างอิงหลายภาพ`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `th`
@@ -242,17 +231,17 @@ Video editing: remove everyone in @video1 except the protagonist.
 
 #### Description
 
-A seaside hip-hop MV built from one reference image; the lead raps 'hello' in 8 languages, lip-synced, hard cuts on the beat.
+เอ็มวีฮิปฮอปริมทะเลที่สร้างจากภาพอ้างอิงภาพเดียว นักร้องนำแร็ปคำว่า 'hello' ใน 8 ภาษา ลิปซิงก์ ตัดฉับตามจังหวะบีต
 
 #### Prompt
 
 ```text
-Cinematic hip-hop / rap music video, photoreal quality, high-end tone, seaside setting. Build the frame from @image1: a band performs at a golden sand beach with crashing waves — a lead vocalist gripping a mic on a stand in the wet sand, one guitarist left, one right, a drummer at the back; a vast coastline behind, rolling waves, a warm golden-hour sun shimmering on the water, sea mist in the air. The lead in a red tracksuit raps to camera — lips and jaw precisely synced to every word, head punching to the beat. Bright, punchy, fast, confident rap. HARD CUT on the beat, each switch a double contrast (shot size and type change together). Lyrics (the lead sings 'hello' in each language in turn, precisely lip-synced): English "Hello", Chinese "你好", Japanese "こんにちは", Korean "안녕하세요", Portuguese "Olá", Thai "สวัสดี", Spanish "Hola", Arabic "مرحبا". 8 hard-cut shots (low-angle wide establishing; close-up rap to camera; macro guitar-string insert; 3/4 prowling orbit; lateral track at shore; drummer tilt-up; tight push on the lead; heroic full-band push-in), one language per shot. White balance 4000K, teal-and-amber grade, 35mm, shallow depth of field, film grain, sea mist, golden-hour flare. Premium feel, precise lip-sync, no subtitles, no text overlays, hard cuts only, total 20 seconds.
+มิวสิกวิดีโอฮิปฮอป/แร็ปสไตล์ภาพยนตร์ คุณภาพเสมือนจริง โทนพรีเมียม ฉากริมทะเล สร้างเฟรมจาก @image1: วงดนตรีเล่นที่หาดทรายสีทองที่มีคลื่นซัดสาด — นักร้องนำกำไมค์บนขาตั้งในทรายเปียก มือกีตาร์คนหนึ่งอยู่ซ้าย อีกคนอยู่ขวา มือกลองอยู่ด้านหลัง ด้านหลังเป็นแนวชายฝั่งกว้างใหญ่ คลื่นซัดม้วน แสงอาทิตย์โกลเดนอาวร์อบอุ่นระยิบระยับบนผืนน้ำ ละอองไอทะเลลอยในอากาศ นักร้องนำในชุดวอร์มสีแดงแร็ปใส่กล้อง — ริมฝีปากและกรามซิงก์กับทุกคำอย่างแม่นยำ ศีรษะกระแทกตามบีต แร็ปสดใส หนักแน่น เร็ว มั่นใจ ตัดฉับตามบีต ทุกการสลับเป็นคอนทราสต์คู่ (ขนาดช็อตและประเภทช็อตเปลี่ยนพร้อมกัน) เนื้อร้อง (นักร้องนำร้องคำว่า 'hello' ในแต่ละภาษาตามลำดับ ลิปซิงก์อย่างแม่นยำ): อังกฤษ "Hello", จีน "你好", ญี่ปุ่น "こんにちは", เกาหลี "안녕하세요", โปรตุเกส "Olá", ไทย "สวัสดี", สเปน "Hola", อาหรับ "مرحبا" 8 ช็อตตัดฉับ (ภาพมุมต่ำกว้างปูเรื่อง โคลสอัปแร็ปใส่กล้อง ภาพแทรกมาโครสายกีตาร์ ออร์บิตวนเฉียง 3/4 แทร็กด้านข้างที่ชายหาด ทิลต์อัปมือกลอง ดันเข้าใกล้ตัวนักร้องนำ ดันเข้าหาวงเต็มวงอย่างยิ่งใหญ่) หนึ่งภาษาต่อหนึ่งช็อต ไวต์บาลานซ์ 4000K เกรดสีเทียล-แอมเบอร์ 35mm ระยะชัดตื้น ฟิล์มเกรน ละอองไอทะเล แสงแฟลร์โกลเดนอาวร์ ให้ความรู้สึกพรีเมียม ลิปซิงก์แม่นยำ ไม่มีซับไตเติล ไม่มีข้อความซ้อน ใช้การตัดฉับเท่านั้น รวม 20 วินาที
 ```
 
-### No. 7: Capsule Coffee Machine Setup Tutorial (6 refs)
+### No. 7: บทเรียนติดตั้งเครื่องชงกาแฟแคปซูล (ภาพอ้างอิง 6 ภาพ)
 
-- **Category:** `Reference-Guided Tutorial`
+- **Category:** `บทเรียนแบบมีภาพอ้างอิง`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `th`
@@ -272,17 +261,17 @@ Cinematic hip-hop / rap music video, photoreal quality, high-end tone, seaside s
 
 #### Description
 
-A 30-second setup-and-use tutorial for a capsule coffee machine, six reference-guided steps with voiceover — from installing the water tank to the first rinse.
+บทเรียน 30 วินาทีว่าด้วยการติดตั้งและใช้งานเครื่องชงกาแฟแคปซูล หกขั้นตอนแบบมีภาพอ้างอิงพร้อมเสียงบรรยาย — ตั้งแต่ติดตั้งถังน้ำจนถึงการล้างครั้งแรก
 
 #### Prompt
 
 ```text
-A 30-second tutorial video on installing and using a capsule coffee machine. 0-2s: the opening title card reads "seedance capsule coffee machine setup tutorial". 2-5s, Step 1: install the water tank, reference @image1, medium shot from a slightly high angle, rear of the machine body, align the water tank with the slot on the back of the body and push it straight down until it clicks firmly into place, clearly showing how the tank's bottom clips align with the body's slot, the water level line visible through the tank's transparent section, voiceover "First, install the water tank. Align the tank with the slot on the back of the machine; a click means it is locked in place.". 5-9s, Step 2: install the drip tray, reference @image2, close-up front view, front bottom of the body, slide the drip tray horizontally into the guide rails at the bottom until fully seated, voiceover "Next, install the drip tray. Align the tray with the bottom rails.". 9-13s, Step 3: install the used-capsule collection box, reference @image3, close-up from a slightly low angle, the cavity beneath the drip tray, align the collection box with the recess and push it in flush with the drip tray, voiceover "Then insert the capsule collection box. Used capsules will drop down here automatically.". 13-18s, Step 4: first fill with water, reference @image4, close-up side view, the water tank at the top/back of the body, open the tank lid and pour in clean water up to the MAX water level line, then close it, emphasizing the water level line, voiceover "Open the tank lid, pour in clean water, being careful not to exceed the maximum water level line, then close the tank lid.". 18-25s, Step 5: power on, reference @image5, medium shot front view, front of the body, plug in the power cord and press the power button; the indicator light goes from blinking to steady (preheating complete), voiceover "Connect the power and press the power button. The indicator light starts blinking, which means it is preheating. When the light turns steady, the machine is ready.". 25-30s, Step 6: first rinse (without a capsule), reference @image6, medium shot moving to a close-up front-side view, without inserting a capsule press the brew button directly so hot water flows out and rinses the lines, emphasizing the "no capsule needed" note, voiceover "The last step, the first rinse. Note that this step does not require a capsule; just press the brew button. Once the rinse is done, your coffee machine is ready to use."
+วิดีโอบทเรียน 30 วินาทีว่าด้วยการติดตั้งและใช้งานเครื่องชงกาแฟแคปซูล 0-2s: การ์ดชื่อเรื่องเปิดระบุว่า "บทเรียนติดตั้งเครื่องชงกาแฟแคปซูล seedance" 2-5s, Step 1: ติดตั้งถังน้ำ อ้างอิง @image1 ภาพมีเดียมช็อตจากมุมสูงเล็กน้อย ด้านหลังตัวเครื่อง จัดถังน้ำให้ตรงกับช่องด้านหลังตัวเครื่องแล้วกดลงตรง ๆ จนคลิกล็อกเข้าที่แน่นหนา แสดงให้เห็นชัดว่าตัวล็อกก้นถังตรงกับช่องของตัวเครื่องอย่างไร มองเห็นเส้นระดับน้ำผ่านส่วนโปร่งใสของถัง เสียงบรรยาย "ขั้นแรก ติดตั้งถังน้ำ จัดถังให้ตรงกับช่องด้านหลังเครื่อง เสียงคลิกหมายความว่าล็อกเข้าที่แล้ว" 5-9s, Step 2: ติดตั้งถาดรองน้ำหยด อ้างอิง @image2 โคลสอัปมุมมองด้านหน้า ด้านล่างหน้าตัวเครื่อง เลื่อนถาดรองน้ำหยดในแนวนอนเข้าไปในรางนำที่ด้านล่างจนเข้าที่สนิท เสียงบรรยาย "ต่อไป ติดตั้งถาดรองน้ำหยด จัดถาดให้ตรงกับรางด้านล่าง" 9-13s, Step 3: ติดตั้งกล่องเก็บแคปซูลใช้แล้ว อ้างอิง @image3 โคลสอัปจากมุมต่ำเล็กน้อย ช่องว่างใต้ถาดรองน้ำหยด จัดกล่องเก็บให้ตรงกับช่องเว้าแล้วดันเข้าไปให้เสมอกับถาดรองน้ำหยด เสียงบรรยาย "จากนั้นใส่กล่องเก็บแคปซูล แคปซูลใช้แล้วจะตกลงมาที่นี่โดยอัตโนมัติ" 13-18s, Step 4: เติมน้ำครั้งแรก อ้างอิง @image4 โคลสอัปมุมมองด้านข้าง ถังน้ำที่ด้านบน/ด้านหลังตัวเครื่อง เปิดฝาถังแล้วเทน้ำสะอาดลงไปจนถึงเส้นระดับน้ำ MAX แล้วปิด เน้นที่เส้นระดับน้ำ เสียงบรรยาย "เปิดฝาถัง เทน้ำสะอาดลงไป ระวังอย่าให้เกินเส้นระดับน้ำสูงสุด แล้วปิดฝาถัง" 18-25s, Step 5: เปิดเครื่อง อ้างอิง @image5 มีเดียมช็อตมุมมองด้านหน้า ด้านหน้าตัวเครื่อง เสียบสายไฟแล้วกดปุ่มเปิดเครื่อง ไฟแสดงสถานะเปลี่ยนจากกะพริบเป็นติดค้าง (อุ่นเครื่องเสร็จ) เสียงบรรยาย "ต่อสายไฟแล้วกดปุ่มเปิดเครื่อง ไฟแสดงสถานะเริ่มกะพริบ หมายความว่ากำลังอุ่นเครื่อง เมื่อไฟติดค้าง เครื่องก็พร้อมใช้งาน" 25-30s, Step 6: ล้างครั้งแรก (โดยไม่ใส่แคปซูล) อ้างอิง @image6 มีเดียมช็อตเคลื่อนไปสู่โคลสอัปมุมมองด้านหน้า-ข้าง โดยไม่ใส่แคปซูล กดปุ่มชงโดยตรงเพื่อให้น้ำร้อนไหลออกมาล้างท่อ เน้นข้อความ "ไม่ต้องใส่แคปซูล" เสียงบรรยาย "ขั้นตอนสุดท้าย การล้างครั้งแรก โปรดทราบว่าขั้นตอนนี้ไม่ต้องใช้แคปซูล เพียงกดปุ่มชง เมื่อล้างเสร็จ เครื่องชงกาแฟของคุณก็พร้อมใช้งาน"
 ```
 
-### No. 8: Fruity Cookie Commercial (image + 6 video refs)
+### No. 8: โฆษณาคุกกี้รสผลไม้ (ภาพ + วิดีโออ้างอิง 6 คลิป)
 
-- **Category:** `Multimodal Reference (image+video)`
+- **Category:** `การอ้างอิงหลายรูปแบบ (ภาพ+วิดีโอ)`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `th`
@@ -303,23 +292,23 @@ A 30-second tutorial video on installing and using a capsule coffee machine. 0-2
 
 #### Description
 
-A bright, colorful commercial for fruity cookies in four flavors — strawberry, apple, grape, orange — built from one image reference and six motion/camera video references, cut hard to a driving beat.
+โฆษณาสดใสหลากสีสำหรับคุกกี้รสผลไม้สี่รส — สตรอว์เบอร์รี แอปเปิล องุ่น ส้ม — สร้างจากภาพอ้างอิงหนึ่งภาพและวิดีโออ้างอิงด้านการเคลื่อนไหว/กล้องหกคลิป ตัดฉับตามจังหวะบีตที่เร่งเร้า
 
 #### Prompt
 
 ```text
-A bright, colorful commercial style with fruity cookies as the hero, in four flavors — strawberry, apple, grape, and orange; strawberry flavor reference @image1. The cookies and their matching fruits are arranged in a strongly ordered geometric array; the overall frame is clean, premium, and high-energy. It opens with the fruits orbiting rapidly around the central cookie to quickly establish visual focus — reference the composition of @video1 — cutting in on a strong musical beat. Then cookies of different flavors advance toward the lens along spiral paths, forming clear spatial depth — reference the motion and camera work of @video2 — switching colors and flavors on the beat with the background music. The array of cookies pans left and right with fast plane-to-plane cuts, strawberry, apple, grape, and orange flavors alternating as the frame jump-cuts quickly to the rhythm — reference the movement of @video3. The mid-section adds up-and-down panning; the neat cookie array rises and falls vertically like a machine — reference the movement of @video4 — highlighting the beauty of order and the richness of the product. In the climax a cookie is snapped in two and the moment enters slow motion as the fruity filling bursts open, crumbs scattering, the juicy sensation and grainy impact amplified — reference the explosion effect of @video5 — then quickly returns to the fast-paced edit. The ending brings in the English text "Fresh on Seedance, made for viral vision", entering word by word in quick succession with strong rhythmic text motion and a product freeze-frame — reference @video6 — the four cookie flavors lined up neatly with the fruits bouncing in sync for a final brand-forward close, the frame full of a young, energetic, delicious, shareable ad atmosphere.
+สไตล์โฆษณาสดใสหลากสีที่มีคุกกี้รสผลไม้เป็นพระเอก สี่รส — สตรอว์เบอร์รี แอปเปิล องุ่น และส้ม รสสตรอว์เบอร์รีอ้างอิง @image1 คุกกี้และผลไม้ที่เข้าคู่กันถูกจัดเรียงเป็นอาร์เรย์เรขาคณิตที่เป็นระเบียบอย่างชัดเจน เฟรมโดยรวมสะอาดตา พรีเมียม และเปี่ยมพลัง เปิดเรื่องด้วยผลไม้ที่โคจรอย่างรวดเร็วรอบคุกกี้ตรงกลางเพื่อดึงจุดสนใจทางสายตาอย่างฉับไว — อ้างอิงองค์ประกอบภาพของ @video1 — ตัดเข้าในจังหวะบีตหนักแน่นทางดนตรี จากนั้นคุกกี้รสต่าง ๆ เคลื่อนเข้าหาเลนส์ตามเส้นทางเกลียว ก่อเกิดมิติเชิงพื้นที่ที่ชัดเจน — อ้างอิงการเคลื่อนไหวและการทำงานของกล้องจาก @video2 — สลับสีและรสตามบีตของเพลงประกอบ อาร์เรย์คุกกี้แพนซ้ายขวาด้วยการตัดจากระนาบสู่ระนาบอย่างรวดเร็ว รสสตรอว์เบอร์รี แอปเปิล องุ่น และส้มสลับกันไปขณะเฟรมจัมป์คัตอย่างรวดเร็วตามจังหวะ — อ้างอิงการเคลื่อนไหวของ @video3 ช่วงกลางเพิ่มการแพนขึ้นลง อาร์เรย์คุกกี้ที่เป็นระเบียบขึ้นลงในแนวตั้งเหมือนเครื่องจักร — อ้างอิงการเคลื่อนไหวของ @video4 — เน้นความงามของความเป็นระเบียบและความอุดมของสินค้า ในช่วงไคลแมกซ์ คุกกี้ชิ้นหนึ่งถูกหักเป็นสองท่อน และช่วงเวลานั้นเข้าสู่สโลว์โมชันขณะไส้ผลไม้ระเบิดออก เศษคุกกี้กระจาย ความฉ่ำและแรงปะทะของเนื้อสัมผัสถูกขยายให้เด่นชัด — อ้างอิงเอฟเฟกต์การระเบิดของ @video5 — แล้วกลับสู่การตัดต่อจังหวะเร็วอย่างรวดเร็ว ตอนจบนำข้อความภาษาอังกฤษ "Fresh on Seedance, made for viral vision" เข้ามา ปรากฏทีละคำต่อเนื่องอย่างรวดเร็วด้วยโมชันข้อความที่มีจังหวะหนักแน่นและภาพสินค้าหยุดนิ่ง — อ้างอิง @video6 — คุกกี้สี่รสเรียงกันอย่างเป็นระเบียบพร้อมผลไม้เด้งดึ๋งเข้าจังหวะเพื่อปิดท้ายที่ชูแบรนด์เป็นหลัก เฟรมเต็มไปด้วยบรรยากาศโฆษณาที่ดูอ่อนเยาว์ เปี่ยมพลัง น่ากิน และน่าแชร์
 ```
 
 ## 📋 All Prompts
 
 <a id="category-1"></a>
 
-### Match-Cut & Creative Effects (1)
+### แมตช์คัต & เอฟเฟกต์สร้างสรรค์ (1)
 
-### No. 1: Crystal Ball Match-Cut Beat Film
+### No. 1: หนังแมตช์คัตลูกแก้วตามจังหวะบีต
 
-- **Category:** `Match-Cut & Creative Effects`
+- **Category:** `แมตช์คัต & เอฟเฟกต์สร้างสรรค์`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `th`
@@ -330,21 +319,21 @@ A bright, colorful commercial style with fruity cookies as the hero, in four fla
 
 #### Description
 
-A beat-synced match-cut film: one crystal ball etched with a glowing 'seedance' logo stays centered while eight scenes cut seamlessly behind it.
+หนังแมตช์คัตที่ซิงก์กับจังหวะ: ลูกแก้วใบหนึ่งที่สลักโลโก้ 'seedance' เรืองแสงอยู่ตรงกลางเฟรมตลอด ขณะที่แปดฉากด้านหลังตัดสลับกันอย่างไร้รอยต่อ
 
 #### Prompt
 
 ```text
-A fast-paced, cinematic Match-cut short film synced to a driving electronic beat. A flawless crystal ball stays fixed dead-center throughout, a glowing "seedance" logo etched inside it. The ball holds razor-sharp focus while, on every strong musical beat, the background match-cuts seamlessly: Scene 1: macro close-up, cinematic water splashing around the ball, refracting intricate light. Scene 2: a vintage morning cafe, the ball on a raw-wood table, rising coffee steam and blurred commuters beyond the window. Scene 3: golden-hour dusk, a skater youth tosses and catches the ball one-handed, street racing backward behind them in gorgeous backlit sunset. Scene 4: a frenzied music festival, hands raise the ball high, refracting dazzling stage lasers. Scene 5: a lively family party table, the ball resting center-frame, blurred figures toasting and reaching for food. Scene 6: a dim cinema, hands cupping the ball as the giant screen's faint glow drifts across its surface. Scene 7: the ball on a violently vibrating speaker diaphragm, match-cutting on the climax to a spinning DJ turntable center. Scene 8: an outdoor camping night, background becoming warm bonfire and swaying string-light bokeh. Finale: on the final downbeat the ball is hurled up out of frame; cut to pure black, a minimal white-on-black "seedance" appearing dead-center. Beat-synced match-cut editing, top-tier cinematic color grading, photoreal glass refraction, ray tracing, global illumination. Subject razor-sharp, background heavy motion blur.
+หนังสั้นแมตช์คัตสไตล์ภาพยนตร์จังหวะกระชับ ซิงก์กับบีตอิเล็กทรอนิกส์ที่เร่งเร้า ลูกแก้วไร้ตำหนิถูกตรึงไว้ตรงกลางเฟรมตลอดทั้งเรื่อง ภายในสลักโลโก้ "seedance" เรืองแสง ลูกแก้วคงโฟกัสคมกริบ ขณะที่ทุกจังหวะบีตหนักแน่นทางดนตรี ฉากหลังจะแมตช์คัตอย่างไร้รอยต่อ: Scene 1: โคลสอัปมาโคร น้ำกระเซ็นรอบลูกแก้วแบบภาพยนตร์ หักเหแสงอันซับซ้อน Scene 2: คาเฟ่ยามเช้าสไตล์วินเทจ ลูกแก้ววางบนโต๊ะไม้ดิบ ไอกาแฟลอยขึ้น และผู้คนเดินทางเบลอ ๆ นอกหน้าต่าง Scene 3: สนธยายามโกลเดนอาวร์ วัยรุ่นสเก็ตเตอร์โยนแล้วรับลูกแก้วด้วยมือเดียว ถนนพุ่งถอยหลังด้านหลังในแสงย้อนพระอาทิตย์ตกอันงดงาม Scene 4: เทศกาลดนตรีที่คลั่งไคล้ มือหลายมือชูลูกแก้วสูงขึ้น หักเหแสงเลเซอร์เวทีอันตระการตา Scene 5: โต๊ะปาร์ตี้ครอบครัวที่คึกคัก ลูกแก้ววางกลางเฟรม ผู้คนเบลอ ๆ ชนแก้วและเอื้อมหยิบอาหาร Scene 6: โรงหนังสลัว มือประคองลูกแก้วขณะแสงจาง ๆ จากจอยักษ์เคลื่อนผ่านผิวของมัน Scene 7: ลูกแก้ววางบนไดอะแฟรมลำโพงที่สั่นสะเทือนรุนแรง แมตช์คัตในช่วงไคลแมกซ์ไปยังเทิร์นเทเบิลดีเจที่หมุนอยู่ตรงกลาง Scene 8: ค่ำคืนตั้งแคมป์กลางแจ้ง ฉากหลังกลายเป็นกองไฟอบอุ่นและโบเก้ไฟสายที่แกว่งไกว ตอนจบ: ในจังหวะดาวน์บีตสุดท้าย ลูกแก้วถูกโยนขึ้นออกนอกเฟรม ตัดไปที่จอดำสนิท คำว่า "seedance" สีขาวบนพื้นดำแบบมินิมอลปรากฏตรงกลางเฟรม การตัดต่อแมตช์คัตซิงก์กับบีต การเกรดสีระดับภาพยนตร์ชั้นยอด การหักเหของแก้วสมจริง เรย์เทรซซิง โกลบอลอิลลูมิเนชัน วัตถุคมกริบ ฉากหลังโมชันเบลอหนัก
 ```
 
 <a id="category-2"></a>
 
-### One-Take Cinematography (1)
+### การถ่ายทำแบบวันเทค (1)
 
-### No. 1: Steampunk Clockwork — 30s One-Take
+### No. 1: กลไกนาฬิกาสตีมพังก์ — วันเทก 30 วินาที
 
-- **Category:** `One-Take Cinematography`
+- **Category:** `การถ่ายทำแบบวันเทค`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `th`
@@ -355,21 +344,21 @@ A fast-paced, cinematic Match-cut short film synced to a driving electronic beat
 
 #### Description
 
-A 30-second steampunk miniature 3D sequence with continuous orbiting, pass-through camera moves.
+ซีเควนซ์ 3D จิ๋วสไตล์สตีมพังก์ 30 วินาที ด้วยการโคจรต่อเนื่องและการเคลื่อนกล้องทะลุผ่าน
 
 #### Prompt
 
 ```text
-A high-end, deeply cinematic 30-second 3D motion-graphics sequence in refined steampunk and vintage-miniature style, with continuous fluid orbiting and pass-through camera moves. [0-10s] Macro close-up of an antique brass clock face that unfolds layer by layer into meshing rotating gear rings and volumetric fog. The camera pierces down through the gears; a mechanical ornithopter spirals up from a miniature canyon of stacked weathered old books. [10-20s] The camera glides forward tracking the ornithopter, seamlessly passing into a fast-spinning ornate brass zoetrope projecting galloping mechanical-horse light. The light leaps out and the scene becomes a brass floating cable car on glimmering copper rails through a forest of gears, bathed in cinematic golden-hour light. [20-30s] The camera pans elegantly down; below appears an exquisite clockwork wooden sailing ship cutting deep-blue glass-textured waves, which morph into a glowing giant moon with lantern-holding explorer silhouettes trekking a crystal-vein ridge under stars. The camera spirals smoothly back through ethereal clouds to the ticking brass clock face. Hyper-real mechanical textures, rich brass and gold tones, cinematic shallow depth of field, smooth seamless pass-through camerawork, epic fantastical adventure atmosphere.
+ซีเควนซ์โมชันกราฟิก 3D ระดับพรีเมียมสไตล์ภาพยนตร์ลึกล้ำ ความยาว 30 วินาที ในสไตล์สตีมพังก์ประณีตและโมเดลจิ๋ววินเทจ ด้วยการโคจรลื่นไหลต่อเนื่องและการเคลื่อนกล้องทะลุผ่าน [0-10s] โคลสอัปมาโครของหน้าปัดนาฬิกาทองเหลืองโบราณที่คลี่ออกทีละชั้นกลายเป็นวงเฟืองหมุนขบกันและหมอกหนา กล้องเจาะทะลุลงไประหว่างเฟือง เครื่องบินปีกกลไก (ornithopter) ทะยานหมุนวนขึ้นจากหุบเขาจิ๋วที่ทำจากหนังสือเก่าทรุดโทรมซ้อนกัน [10-20s] กล้องเลื่อนไปข้างหน้าตามเครื่องบินปีกกลไก ผ่านเข้าไปอย่างไร้รอยต่อสู่ซูโอโทรป (zoetrope) ทองเหลืองประดับประดาที่หมุนเร็วฉายแสงเป็นรูปม้ากลไกควบตะบึง แสงนั้นกระโจนออกมาและฉากกลายเป็นกระเช้าลอยฟ้าทองเหลืองบนรางทองแดงระยิบระยับที่แล่นผ่านป่าเฟือง อาบด้วยแสงโกลเดนอาวร์แบบภาพยนตร์ [20-30s] กล้องแพนลงอย่างสง่างาม ด้านล่างปรากฏเรือใบไม้กลไกอันวิจิตรที่แล่นตัดคลื่นสีน้ำเงินเข้มผิวคล้ายแก้ว ซึ่งแปรเปลี่ยนเป็นดวงจันทร์ยักษ์เรืองแสง โดยมีเงาของนักสำรวจถือโคมไฟเดินป่ายไปตามสันเขาแนวผลึกใต้แสงดาว กล้องหมุนวนอย่างนุ่มนวลย้อนกลับผ่านหมู่เมฆพิสุทธิ์สู่หน้าปัดนาฬิกาทองเหลืองที่เดินติ๊กต่อก เท็กซ์เจอร์กลไกเหนือจริง โทนทองเหลืองและทองคำเข้มข้น ระยะชัดตื้นแบบภาพยนตร์ การเคลื่อนกล้องทะลุผ่านลื่นไหลไร้รอยต่อ บรรยากาศการผจญภัยแฟนตาซีอันยิ่งใหญ่
 ```
 
 <a id="category-3"></a>
 
-### Multi-Image Reference (3)
+### การอ้างอิงหลายภาพ (3)
 
-### No. 1: Windows Through Worlds (5 refs)
+### No. 1: หน้าต่างสู่หลากโลก (ภาพอ้างอิง 5 ภาพ)
 
-- **Category:** `Multi-Image Reference`
+- **Category:** `การอ้างอิงหลายภาพ`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `th`
@@ -388,17 +377,17 @@ A high-end, deeply cinematic 30-second 3D motion-graphics sequence in refined st
 
 #### Description
 
-A brand concept short driven by 5 reference images, gliding through windows into different worlds.
+หนังสั้นคอนเซปต์แบรนด์ที่ขับเคลื่อนด้วยภาพอ้างอิง 5 ภาพ ล่องผ่านหน้าต่างเข้าสู่โลกที่แตกต่างกัน
 
 #### Prompt
 
 ```text
-A cinematic brand concept short. @image1 is the first frame; the picture trembles slightly, the camera pushes in to tree shadows rushing backward outside the window, their retreat accelerating, then abruptly cuts to @image2, speed easing as the camera glides slowly along a stream, birdsong and blossoms. The camera drops underwater — bubble sounds — as orange jellyfish drift gracefully past the lens @image3; the camera pulls back as small fish flit past and swim from the water into the window @image4, a girl looking around, watching them. The camera pulls back, defocuses, then refocuses sharp, switching to the music's rhythm: a Chinese-garden lattice window @image5 with light circling, church stained glass, an airplane porthole, a dome skylight, a bay window, louver blinds, a European dormer, a door peephole, a camera viewfinder, a bird's eye, a human eye close-up. It settles on the human eye; the eye closes, screen black, then suddenly opens — "seedance" appearing in the center of the eye on the accent beat.
+หนังสั้นคอนเซปต์แบรนด์สไตล์ภาพยนตร์ @image1 คือเฟรมแรก ภาพสั่นเล็กน้อย กล้องดันเข้าหาเงาต้นไม้ที่พุ่งถอยหลังนอกหน้าต่าง การถอยของมันเร่งเร็วขึ้น แล้วตัดฉับไปที่ @image2 ความเร็วผ่อนลงขณะกล้องล่องช้า ๆ ไปตามลำธาร มีเสียงนกร้องและดอกไม้บาน กล้องดำดิ่งลงใต้น้ำ — เสียงฟองอากาศ — ขณะแมงกะพรุนสีส้มล่องลอยอย่างสง่างามผ่านหน้าเลนส์ @image3 กล้องถอยออกขณะปลาเล็กแวบผ่านและว่ายจากน้ำเข้าไปในหน้าต่าง @image4 เด็กหญิงคนหนึ่งมองไปรอบ ๆ เฝ้าดูพวกมัน กล้องถอยออก โฟกัสเบลอ แล้วปรับกลับมาคมชัด สลับไปตามจังหวะดนตรี: หน้าต่างลายฉลุแบบสวนจีน @image5 ที่มีแสงวนรอบ กระจกสีโบสถ์ ช่องหน้าต่างเครื่องบิน สกายไลต์ทรงโดม หน้าต่างโค้งยื่น มู่ลี่เกล็ด หน้าต่างหลังคาแบบยุโรป ช่องมองประตู ช่องมองภาพกล้อง ตานก และโคลสอัปตามนุษย์ ภาพหยุดนิ่งที่ตามนุษย์ ตาหลับลง จอดำ แล้วจู่ ๆ ก็ลืมตาขึ้น — "seedance" ปรากฏตรงกลางดวงตาในจังหวะเน้น
 ```
 
-### No. 2: One-Take Through Six Rooms (8 refs)
+### No. 2: วันเทกผ่านหกห้อง (ภาพอ้างอิง 8 ภาพ)
 
-- **Category:** `Multi-Image Reference`
+- **Category:** `การอ้างอิงหลายภาพ`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `th`
@@ -420,17 +409,17 @@ A cinematic brand concept short. @image1 is the first frame; the picture tremble
 
 #### Description
 
-One continuous take following a figure through six mood-shifting rooms, driven by 8 reference images.
+ลองเทกต่อเนื่องเดียวที่ติดตามบุคคลหนึ่งผ่านหกห้องที่อารมณ์แปรเปลี่ยน ขับเคลื่อนด้วยภาพอ้างอิง 8 ภาพ
 
 #### Prompt
 
 ```text
-One continuous take. The camera smoothly follows a person in a black coat (reference @image1) moving left to right through six connected rooms of different tones and moods. Every room shares the same structure: white walls, light herringbone wood floor, French floor-to-ceiling windows, white sheer curtains (reference @image2) but the outside view and mood differ each time. The protagonist walks at a constant pace, passing through every open door. 0-5s room one, American-comic fight: the protagonist fights a character (@image3), who is defeated; 5-10s room two, warmth, felt-craft style, window view a sunflower field (@image4), warm-orange soft light, a painter painting sunflowers (@image5), the protagonist turning felt-style on entering; 10-15s room three, sorrow, black-and-white comic stop-motion, rain outside, cold-grey light, a person alone on the floor hugging their knees, a phone glowing with an unanswered call; on entering, the light blinks off then on, the room turns color, flowers bursting into bloom; 15-20s room four, joy, a room submerged in the sea (reference @image6), the protagonist turning transparent among coral and fish; 20-25s room five, surprise, window view a sky of fireworks (reference @image7), colorful flickering light, the protagonist swept up in a cheering crowd; 25-30s a blank white room, the protagonist snaps their fingers — snap SFX — frame goes black, "seedance" in the middle (reference @image8). Cinematic quality, high-fashion advertising style, lighting entirely determined by the window views for strong emotional contrast, no text in frame.
+ลองเทกต่อเนื่องเดียว กล้องติดตามบุคคลในเสื้อโค้ตสีดำ (อ้างอิง @image1) อย่างนุ่มนวลขณะเคลื่อนจากซ้ายไปขวาผ่านหกห้องที่เชื่อมต่อกันซึ่งมีโทนและอารมณ์ต่างกัน ทุกห้องมีโครงสร้างเดียวกัน: ผนังขาว พื้นไม้ลายก้างปลาสีอ่อน หน้าต่างฝรั่งเศสสูงจรดเพดาน ผ้าม่านโปร่งสีขาว (อ้างอิง @image2) แต่วิวและอารมณ์ภายนอกต่างกันทุกครั้ง ตัวเอกเดินด้วยจังหวะคงที่ ผ่านทุกประตูที่เปิดอยู่ 0-5s ห้องแรก ฉากต่อสู้สไตล์การ์ตูนอเมริกัน: ตัวเอกต่อสู้กับตัวละครหนึ่ง (@image3) ซึ่งพ่ายแพ้ 5-10s ห้องที่สอง ความอบอุ่น สไตล์งานสักหลาด วิวนอกหน้าต่างเป็นทุ่งทานตะวัน (@image4) แสงนุ่มสีส้มอบอุ่น จิตรกรกำลังวาดดอกทานตะวัน (@image5) ตัวเอกกลายเป็นสไตล์สักหลาดเมื่อก้าวเข้าไป 10-15s ห้องที่สาม ความเศร้า สต็อปโมชันการ์ตูนขาวดำ ฝนตกนอกหน้าต่าง แสงสีเทาเย็น มีคนนั่งกอดเข่าอยู่คนเดียวบนพื้น โทรศัพท์เรืองแสงด้วยสายที่ไม่มีใครรับ เมื่อก้าวเข้าไป ไฟกะพริบดับแล้วติด ห้องกลับมีสีสัน ดอกไม้ผลิบานสะพรั่ง 15-20s ห้องที่สี่ ความสุข ห้องที่จมอยู่ใต้ทะเล (อ้างอิง @image6) ตัวเอกกลายเป็นโปร่งใสท่ามกลางปะการังและฝูงปลา 20-25s ห้องที่ห้า ความประหลาดใจ วิวนอกหน้าต่างเป็นท้องฟ้าที่เต็มไปด้วยพลุ (อ้างอิง @image7) แสงวูบวาบหลากสี ตัวเอกถูกฝูงชนที่โห่ร้องโอบล้อมพาไป 25-30s ห้องขาวว่างเปล่า ตัวเอกดีดนิ้ว — เสียงเอฟเฟกต์ดีดนิ้ว — เฟรมกลายเป็นสีดำ "seedance" อยู่ตรงกลาง (อ้างอิง @image8) คุณภาพระดับภาพยนตร์ สไตล์โฆษณาไฮแฟชัน แสงถูกกำหนดโดยวิวนอกหน้าต่างทั้งหมดเพื่อสร้างความคอนทราสต์ทางอารมณ์ที่รุนแรง ไม่มีข้อความในเฟรม
 ```
 
-### No. 3: Multilingual Hip-Hop 'Hello' MV
+### No. 3: เอ็มวีฮิปฮอป 'Hello' หลายภาษา
 
-- **Category:** `Multi-Image Reference`
+- **Category:** `การอ้างอิงหลายภาพ`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `th`
@@ -445,21 +434,21 @@ One continuous take. The camera smoothly follows a person in a black coat (refer
 
 #### Description
 
-A seaside hip-hop MV built from one reference image; the lead raps 'hello' in 8 languages, lip-synced, hard cuts on the beat.
+เอ็มวีฮิปฮอปริมทะเลที่สร้างจากภาพอ้างอิงภาพเดียว นักร้องนำแร็ปคำว่า 'hello' ใน 8 ภาษา ลิปซิงก์ ตัดฉับตามจังหวะบีต
 
 #### Prompt
 
 ```text
-Cinematic hip-hop / rap music video, photoreal quality, high-end tone, seaside setting. Build the frame from @image1: a band performs at a golden sand beach with crashing waves — a lead vocalist gripping a mic on a stand in the wet sand, one guitarist left, one right, a drummer at the back; a vast coastline behind, rolling waves, a warm golden-hour sun shimmering on the water, sea mist in the air. The lead in a red tracksuit raps to camera — lips and jaw precisely synced to every word, head punching to the beat. Bright, punchy, fast, confident rap. HARD CUT on the beat, each switch a double contrast (shot size and type change together). Lyrics (the lead sings 'hello' in each language in turn, precisely lip-synced): English "Hello", Chinese "你好", Japanese "こんにちは", Korean "안녕하세요", Portuguese "Olá", Thai "สวัสดี", Spanish "Hola", Arabic "مرحبا". 8 hard-cut shots (low-angle wide establishing; close-up rap to camera; macro guitar-string insert; 3/4 prowling orbit; lateral track at shore; drummer tilt-up; tight push on the lead; heroic full-band push-in), one language per shot. White balance 4000K, teal-and-amber grade, 35mm, shallow depth of field, film grain, sea mist, golden-hour flare. Premium feel, precise lip-sync, no subtitles, no text overlays, hard cuts only, total 20 seconds.
+มิวสิกวิดีโอฮิปฮอป/แร็ปสไตล์ภาพยนตร์ คุณภาพเสมือนจริง โทนพรีเมียม ฉากริมทะเล สร้างเฟรมจาก @image1: วงดนตรีเล่นที่หาดทรายสีทองที่มีคลื่นซัดสาด — นักร้องนำกำไมค์บนขาตั้งในทรายเปียก มือกีตาร์คนหนึ่งอยู่ซ้าย อีกคนอยู่ขวา มือกลองอยู่ด้านหลัง ด้านหลังเป็นแนวชายฝั่งกว้างใหญ่ คลื่นซัดม้วน แสงอาทิตย์โกลเดนอาวร์อบอุ่นระยิบระยับบนผืนน้ำ ละอองไอทะเลลอยในอากาศ นักร้องนำในชุดวอร์มสีแดงแร็ปใส่กล้อง — ริมฝีปากและกรามซิงก์กับทุกคำอย่างแม่นยำ ศีรษะกระแทกตามบีต แร็ปสดใส หนักแน่น เร็ว มั่นใจ ตัดฉับตามบีต ทุกการสลับเป็นคอนทราสต์คู่ (ขนาดช็อตและประเภทช็อตเปลี่ยนพร้อมกัน) เนื้อร้อง (นักร้องนำร้องคำว่า 'hello' ในแต่ละภาษาตามลำดับ ลิปซิงก์อย่างแม่นยำ): อังกฤษ "Hello", จีน "你好", ญี่ปุ่น "こんにちは", เกาหลี "안녕하세요", โปรตุเกส "Olá", ไทย "สวัสดี", สเปน "Hola", อาหรับ "مرحبا" 8 ช็อตตัดฉับ (ภาพมุมต่ำกว้างปูเรื่อง โคลสอัปแร็ปใส่กล้อง ภาพแทรกมาโครสายกีตาร์ ออร์บิตวนเฉียง 3/4 แทร็กด้านข้างที่ชายหาด ทิลต์อัปมือกลอง ดันเข้าใกล้ตัวนักร้องนำ ดันเข้าหาวงเต็มวงอย่างยิ่งใหญ่) หนึ่งภาษาต่อหนึ่งช็อต ไวต์บาลานซ์ 4000K เกรดสีเทียล-แอมเบอร์ 35mm ระยะชัดตื้น ฟิล์มเกรน ละอองไอทะเล แสงแฟลร์โกลเดนอาวร์ ให้ความรู้สึกพรีเมียม ลิปซิงก์แม่นยำ ไม่มีซับไตเติล ไม่มีข้อความซ้อน ใช้การตัดฉับเท่านั้น รวม 20 วินาที
 ```
 
 <a id="category-4"></a>
 
-### Video Editing (2)
+### การตัดต่อวิดีโอ (2)
 
-### No. 1: Video Edit — Remove All But the Lead
+### No. 1: ตัดต่อวิดีโอ — ลบทุกคนเหลือแค่ตัวเอก
 
-- **Category:** `Video Editing`
+- **Category:** `การตัดต่อวิดีโอ`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `th`
@@ -474,17 +463,17 @@ Cinematic hip-hop / rap music video, photoreal quality, high-end tone, seaside s
 
 #### Description
 
-Reference-video editing: erase everyone except the protagonist from a source clip.
+การตัดต่อด้วยวิดีโออ้างอิง: ลบทุกคนออกจากคลิปต้นฉบับ ยกเว้นตัวเอก
 
 #### Prompt
 
 ```text
-Video editing: remove everyone in @video1 except the protagonist.
+การตัดต่อวิดีโอ: ลบทุกคนใน @video1 ออก ยกเว้นตัวเอก
 ```
 
-### No. 2: Steam Train Bursts the Screen (video edit)
+### No. 2: รถไฟไอน้ำทะลุจอ (ตัดต่อวิดีโอ)
 
-- **Category:** `Video Editing`
+- **Category:** `การตัดต่อวิดีโอ`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `th`
@@ -499,21 +488,21 @@ Video editing: remove everyone in @video1 except the protagonist.
 
 #### Description
 
-A video edit that keeps the original @video1 old-cinema clip intact and adds only a steam locomotive bursting through the screen, tearing the fabric, with black-and-white snapping to full color at the moment of impact.
+การตัดต่อวิดีโอที่คงคลิปโรงหนังเก่าต้นฉบับ @video1 ไว้ครบถ้วน และเพิ่มเพียงหัวรถจักรไอน้ำที่พุ่งทะลุจอ ฉีกผืนผ้า โดยภาพขาวดำเปลี่ยนเป็นสีเต็มในวินาทีที่พุ่งชน
 
 #### Prompt
 
 ```text
-Hyper-real cinematic realist style with photorealistic live-action texture, emphasizing the real-world plausibility of the physical object bursting out (the steam train); no CGI gloss / game engine / stylized 3D. Preserve @video1's original composition, projection-hall lighting, handheld camera state and natural imperfections. Source video locked: keep @video1 fully intact as the base image (the old-fashioned projection hall, the rows of hat-wearing audience seen from behind, the projector's conical beam, the screen, the ambient light, the color tone and the handheld movement all unchanged); the only additions: the train bursting out of the screen, the changes in light and shadow it brings, the tearing of the screen, and the slight physical impact on the hall and the front-row audience. Color-shift rule (the core addition): at the start strictly keep @video1's original black-and-white old-film texture (grain / scratches / flicker / monochrome); at the exact moment the locomotive truly breaks through the screen and bursts into reality, the image abruptly shifts from black-and-white to full, real color, the color spreading across the whole frame like a shockwave centered on the point where the train breaks out (the train's black steel body, the red-copper boiler, the orange-yellow steam-lamp glow, the warm brown of the wooden carriage, the white-grey steam, and the warm brown of the projection hall all coming into color accordingly); the color shift is precisely synchronized with the screen-breaking burst, after which photorealistic color is maintained to the end. Screen-tearing locked: the screen is a real white projection cloth with genuine fabric tension; as the train bursts out it is forcibly torn open along the contour of the locomotive's front, with radial rips whose edges curl back and shredded cloth fibers flying. Subject: an old-fashioned steam locomotive front bursting forcibly out of the screen, a black steel body, a cylindrical boiler, a front cowcatcher, a chimney venting white-grey steam, a bright headlamp, the metal surfaces with real wear, oil grime, rivets and wet reflections, charging forward with immense weight and inertia. Camera: fully inherits @video1's original handheld movement, not smoothed, not re-timed, not re-composed; the bursting train stays correctly locked into the screen and the hall space at all times, maintaining correct parallax, occlusion and ground-contact shadow. Sound: no music, keep only real on-scene sound effects, inheriting @video1's projection-hall ambience (the projector's clatter, the audience's stirring) and adding the sound of the cloth tearing, steam gushing, the mechanical roar of steel wheels, and the impact air blast. Total duration exactly the same as @video1; add nothing other than the train itself and its physical interactions, the screen tearing, and the color shift at the moment of the break. No slow motion, no sense of magic, no stylized horror; the final result should look like an eerie yet real image of "a train smashing through the screen, black-and-white instantly turning to color" captured by chance by a real camera in an old projection hall.
+สไตล์สัจนิยมภาพยนตร์เหนือจริงพร้อมเท็กซ์เจอร์แบบถ่ายจริงเสมือนจริง เน้นความสมจริงเชิงกายภาพของวัตถุที่พุ่งทะลุออกมา (รถไฟไอน้ำ) ไม่มีความมันวาวแบบ CGI/เกมเอนจิน/3D ที่ปรุงแต่ง คงองค์ประกอบภาพต้นฉบับของ @video1 แสงในโรงฉาย สภาพกล้องแฮนด์เฮลด์ และความไม่สมบูรณ์ตามธรรมชาติไว้ ล็อกวิดีโอต้นฉบับ: คง @video1 ไว้ครบถ้วนเป็นภาพฐาน (โรงฉายแบบเก่า แถวผู้ชมสวมหมวกที่เห็นจากด้านหลัง ลำแสงทรงกรวยของเครื่องฉาย จอ แสงแวดล้อม โทนสี และการเคลื่อนกล้องแฮนด์เฮลด์ ทั้งหมดไม่เปลี่ยนแปลง) สิ่งที่เพิ่มเข้ามาเท่านั้น: รถไฟที่พุ่งทะลุจอ การเปลี่ยนแปลงของแสงและเงาที่มันนำมา การฉีกขาดของจอ และแรงกระแทกทางกายภาพเล็กน้อยต่อโรงฉายและผู้ชมแถวหน้า กฎการเปลี่ยนสี (ส่วนที่เพิ่มหลัก): ในตอนเริ่มต้นคงเท็กซ์เจอร์ฟิล์มขาวดำเก่าต้นฉบับของ @video1 ไว้อย่างเคร่งครัด (เกรน/รอยขีดข่วน/การกะพริบ/โมโนโครม) ในวินาทีที่หัวรถจักรทะลุจอออกมาสู่ความจริงจริง ๆ ภาพเปลี่ยนจากขาวดำเป็นสีจริงเต็มอย่างฉับพลัน สีแผ่ไปทั่วทั้งเฟรมราวคลื่นกระแทกที่มีจุดศูนย์กลางอยู่ที่จุดที่รถไฟทะลุออกมา (ตัวถังเหล็กสีดำของรถไฟ หม้อน้ำสีทองแดงแดง แสงเรืองสีส้มเหลืองของตะเกียงไอน้ำ สีน้ำตาลอบอุ่นของตู้โดยสารไม้ ไอน้ำสีขาวเทา และสีน้ำตาลอบอุ่นของโรงฉาย ล้วนกลับมามีสีตามลำดับ) การเปลี่ยนสีซิงก์กับการพุ่งทะลุจออย่างแม่นยำ หลังจากนั้นคงสีสมจริงไว้จนจบ ล็อกการฉีกขาดของจอ: จอเป็นผ้าฉายสีขาวจริงที่มีแรงตึงของผ้าจริง ขณะรถไฟพุ่งทะลุออกมามันถูกฉีกขาดออกอย่างรุนแรงตามเส้นรูปร่างส่วนหน้าของหัวรถจักร ด้วยรอยฉีกเป็นรัศมีที่ขอบม้วนกลับและเส้นใยผ้าขาดกระจายปลิว วัตถุ: ส่วนหน้าของหัวรถจักรไอน้ำแบบเก่าที่พุ่งทะลุจอออกมาอย่างรุนแรง ตัวถังเหล็กสีดำ หม้อน้ำทรงกระบอก ที่กันวัวด้านหน้า (cowcatcher) ปล่องที่พ่นไอน้ำสีขาวเทา ไฟหน้าสว่างจ้า พื้นผิวโลหะที่มีร่องรอยสึกหรอจริง คราบน้ำมัน หมุดย้ำ และการสะท้อนแบบเปียก พุ่งไปข้างหน้าด้วยน้ำหนักและแรงเฉื่อยมหาศาล กล้อง: สืบทอดการเคลื่อนกล้องแฮนด์เฮลด์ต้นฉบับของ @video1 อย่างเต็มที่ ไม่ปรับให้เรียบ ไม่ปรับจังหวะเวลาใหม่ ไม่จัดองค์ประกอบใหม่ รถไฟที่พุ่งออกมายังคงถูกล็อกเข้ากับจอและพื้นที่ของโรงฉายอย่างถูกต้องตลอดเวลา คงพารัลแลกซ์ การบดบัง และเงาสัมผัสพื้นที่ถูกต้อง เสียง: ไม่มีดนตรี คงไว้เพียงเสียงเอฟเฟกต์จริงในสถานที่ สืบทอดบรรยากาศโรงฉายของ @video1 (เสียงกึกกักของเครื่องฉาย เสียงผู้ชมขยับตัว) และเพิ่มเสียงผ้าฉีกขาด เสียงไอน้ำพวยพุ่ง เสียงคำรามเชิงกลของล้อเหล็ก และเสียงลมกระแทก ความยาวรวมเท่ากับ @video1 ทุกประการ ไม่เพิ่มสิ่งใดนอกจากตัวรถไฟเองและปฏิสัมพันธ์ทางกายภาพของมัน การฉีกขาดของจอ และการเปลี่ยนสีในวินาทีที่พุ่งทะลุ ไม่มีสโลว์โมชัน ไม่มีความรู้สึกมหัศจรรย์ ไม่มีความสยองขวัญที่ปรุงแต่ง ผลลัพธ์สุดท้ายควรดูเหมือนภาพที่ชวนขนลุกแต่สมจริงของ "รถไฟที่พุ่งทะลุจอ ขาวดำกลายเป็นสีในทันที" ที่ถูกกล้องจริงบันทึกได้โดยบังเอิญในโรงฉายเก่า
 ```
 
 <a id="category-5"></a>
 
-### Reference-Guided Tutorial (1)
+### บทเรียนแบบมีภาพอ้างอิง (1)
 
-### No. 1: Capsule Coffee Machine Setup Tutorial (6 refs)
+### No. 1: บทเรียนติดตั้งเครื่องชงกาแฟแคปซูล (ภาพอ้างอิง 6 ภาพ)
 
-- **Category:** `Reference-Guided Tutorial`
+- **Category:** `บทเรียนแบบมีภาพอ้างอิง`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `th`
@@ -533,21 +522,21 @@ Hyper-real cinematic realist style with photorealistic live-action texture, emph
 
 #### Description
 
-A 30-second setup-and-use tutorial for a capsule coffee machine, six reference-guided steps with voiceover — from installing the water tank to the first rinse.
+บทเรียน 30 วินาทีว่าด้วยการติดตั้งและใช้งานเครื่องชงกาแฟแคปซูล หกขั้นตอนแบบมีภาพอ้างอิงพร้อมเสียงบรรยาย — ตั้งแต่ติดตั้งถังน้ำจนถึงการล้างครั้งแรก
 
 #### Prompt
 
 ```text
-A 30-second tutorial video on installing and using a capsule coffee machine. 0-2s: the opening title card reads "seedance capsule coffee machine setup tutorial". 2-5s, Step 1: install the water tank, reference @image1, medium shot from a slightly high angle, rear of the machine body, align the water tank with the slot on the back of the body and push it straight down until it clicks firmly into place, clearly showing how the tank's bottom clips align with the body's slot, the water level line visible through the tank's transparent section, voiceover "First, install the water tank. Align the tank with the slot on the back of the machine; a click means it is locked in place.". 5-9s, Step 2: install the drip tray, reference @image2, close-up front view, front bottom of the body, slide the drip tray horizontally into the guide rails at the bottom until fully seated, voiceover "Next, install the drip tray. Align the tray with the bottom rails.". 9-13s, Step 3: install the used-capsule collection box, reference @image3, close-up from a slightly low angle, the cavity beneath the drip tray, align the collection box with the recess and push it in flush with the drip tray, voiceover "Then insert the capsule collection box. Used capsules will drop down here automatically.". 13-18s, Step 4: first fill with water, reference @image4, close-up side view, the water tank at the top/back of the body, open the tank lid and pour in clean water up to the MAX water level line, then close it, emphasizing the water level line, voiceover "Open the tank lid, pour in clean water, being careful not to exceed the maximum water level line, then close the tank lid.". 18-25s, Step 5: power on, reference @image5, medium shot front view, front of the body, plug in the power cord and press the power button; the indicator light goes from blinking to steady (preheating complete), voiceover "Connect the power and press the power button. The indicator light starts blinking, which means it is preheating. When the light turns steady, the machine is ready.". 25-30s, Step 6: first rinse (without a capsule), reference @image6, medium shot moving to a close-up front-side view, without inserting a capsule press the brew button directly so hot water flows out and rinses the lines, emphasizing the "no capsule needed" note, voiceover "The last step, the first rinse. Note that this step does not require a capsule; just press the brew button. Once the rinse is done, your coffee machine is ready to use."
+วิดีโอบทเรียน 30 วินาทีว่าด้วยการติดตั้งและใช้งานเครื่องชงกาแฟแคปซูล 0-2s: การ์ดชื่อเรื่องเปิดระบุว่า "บทเรียนติดตั้งเครื่องชงกาแฟแคปซูล seedance" 2-5s, Step 1: ติดตั้งถังน้ำ อ้างอิง @image1 ภาพมีเดียมช็อตจากมุมสูงเล็กน้อย ด้านหลังตัวเครื่อง จัดถังน้ำให้ตรงกับช่องด้านหลังตัวเครื่องแล้วกดลงตรง ๆ จนคลิกล็อกเข้าที่แน่นหนา แสดงให้เห็นชัดว่าตัวล็อกก้นถังตรงกับช่องของตัวเครื่องอย่างไร มองเห็นเส้นระดับน้ำผ่านส่วนโปร่งใสของถัง เสียงบรรยาย "ขั้นแรก ติดตั้งถังน้ำ จัดถังให้ตรงกับช่องด้านหลังเครื่อง เสียงคลิกหมายความว่าล็อกเข้าที่แล้ว" 5-9s, Step 2: ติดตั้งถาดรองน้ำหยด อ้างอิง @image2 โคลสอัปมุมมองด้านหน้า ด้านล่างหน้าตัวเครื่อง เลื่อนถาดรองน้ำหยดในแนวนอนเข้าไปในรางนำที่ด้านล่างจนเข้าที่สนิท เสียงบรรยาย "ต่อไป ติดตั้งถาดรองน้ำหยด จัดถาดให้ตรงกับรางด้านล่าง" 9-13s, Step 3: ติดตั้งกล่องเก็บแคปซูลใช้แล้ว อ้างอิง @image3 โคลสอัปจากมุมต่ำเล็กน้อย ช่องว่างใต้ถาดรองน้ำหยด จัดกล่องเก็บให้ตรงกับช่องเว้าแล้วดันเข้าไปให้เสมอกับถาดรองน้ำหยด เสียงบรรยาย "จากนั้นใส่กล่องเก็บแคปซูล แคปซูลใช้แล้วจะตกลงมาที่นี่โดยอัตโนมัติ" 13-18s, Step 4: เติมน้ำครั้งแรก อ้างอิง @image4 โคลสอัปมุมมองด้านข้าง ถังน้ำที่ด้านบน/ด้านหลังตัวเครื่อง เปิดฝาถังแล้วเทน้ำสะอาดลงไปจนถึงเส้นระดับน้ำ MAX แล้วปิด เน้นที่เส้นระดับน้ำ เสียงบรรยาย "เปิดฝาถัง เทน้ำสะอาดลงไป ระวังอย่าให้เกินเส้นระดับน้ำสูงสุด แล้วปิดฝาถัง" 18-25s, Step 5: เปิดเครื่อง อ้างอิง @image5 มีเดียมช็อตมุมมองด้านหน้า ด้านหน้าตัวเครื่อง เสียบสายไฟแล้วกดปุ่มเปิดเครื่อง ไฟแสดงสถานะเปลี่ยนจากกะพริบเป็นติดค้าง (อุ่นเครื่องเสร็จ) เสียงบรรยาย "ต่อสายไฟแล้วกดปุ่มเปิดเครื่อง ไฟแสดงสถานะเริ่มกะพริบ หมายความว่ากำลังอุ่นเครื่อง เมื่อไฟติดค้าง เครื่องก็พร้อมใช้งาน" 25-30s, Step 6: ล้างครั้งแรก (โดยไม่ใส่แคปซูล) อ้างอิง @image6 มีเดียมช็อตเคลื่อนไปสู่โคลสอัปมุมมองด้านหน้า-ข้าง โดยไม่ใส่แคปซูล กดปุ่มชงโดยตรงเพื่อให้น้ำร้อนไหลออกมาล้างท่อ เน้นข้อความ "ไม่ต้องใส่แคปซูล" เสียงบรรยาย "ขั้นตอนสุดท้าย การล้างครั้งแรก โปรดทราบว่าขั้นตอนนี้ไม่ต้องใช้แคปซูล เพียงกดปุ่มชง เมื่อล้างเสร็จ เครื่องชงกาแฟของคุณก็พร้อมใช้งาน"
 ```
 
 <a id="category-6"></a>
 
-### Multimodal Reference (image+video) (1)
+### การอ้างอิงหลายรูปแบบ (ภาพ+วิดีโอ) (1)
 
-### No. 1: Fruity Cookie Commercial (image + 6 video refs)
+### No. 1: โฆษณาคุกกี้รสผลไม้ (ภาพ + วิดีโออ้างอิง 6 คลิป)
 
-- **Category:** `Multimodal Reference (image+video)`
+- **Category:** `การอ้างอิงหลายรูปแบบ (ภาพ+วิดีโอ)`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `th`
@@ -568,21 +557,21 @@ A 30-second tutorial video on installing and using a capsule coffee machine. 0-2
 
 #### Description
 
-A bright, colorful commercial for fruity cookies in four flavors — strawberry, apple, grape, orange — built from one image reference and six motion/camera video references, cut hard to a driving beat.
+โฆษณาสดใสหลากสีสำหรับคุกกี้รสผลไม้สี่รส — สตรอว์เบอร์รี แอปเปิล องุ่น ส้ม — สร้างจากภาพอ้างอิงหนึ่งภาพและวิดีโออ้างอิงด้านการเคลื่อนไหว/กล้องหกคลิป ตัดฉับตามจังหวะบีตที่เร่งเร้า
 
 #### Prompt
 
 ```text
-A bright, colorful commercial style with fruity cookies as the hero, in four flavors — strawberry, apple, grape, and orange; strawberry flavor reference @image1. The cookies and their matching fruits are arranged in a strongly ordered geometric array; the overall frame is clean, premium, and high-energy. It opens with the fruits orbiting rapidly around the central cookie to quickly establish visual focus — reference the composition of @video1 — cutting in on a strong musical beat. Then cookies of different flavors advance toward the lens along spiral paths, forming clear spatial depth — reference the motion and camera work of @video2 — switching colors and flavors on the beat with the background music. The array of cookies pans left and right with fast plane-to-plane cuts, strawberry, apple, grape, and orange flavors alternating as the frame jump-cuts quickly to the rhythm — reference the movement of @video3. The mid-section adds up-and-down panning; the neat cookie array rises and falls vertically like a machine — reference the movement of @video4 — highlighting the beauty of order and the richness of the product. In the climax a cookie is snapped in two and the moment enters slow motion as the fruity filling bursts open, crumbs scattering, the juicy sensation and grainy impact amplified — reference the explosion effect of @video5 — then quickly returns to the fast-paced edit. The ending brings in the English text "Fresh on Seedance, made for viral vision", entering word by word in quick succession with strong rhythmic text motion and a product freeze-frame — reference @video6 — the four cookie flavors lined up neatly with the fruits bouncing in sync for a final brand-forward close, the frame full of a young, energetic, delicious, shareable ad atmosphere.
+สไตล์โฆษณาสดใสหลากสีที่มีคุกกี้รสผลไม้เป็นพระเอก สี่รส — สตรอว์เบอร์รี แอปเปิล องุ่น และส้ม รสสตรอว์เบอร์รีอ้างอิง @image1 คุกกี้และผลไม้ที่เข้าคู่กันถูกจัดเรียงเป็นอาร์เรย์เรขาคณิตที่เป็นระเบียบอย่างชัดเจน เฟรมโดยรวมสะอาดตา พรีเมียม และเปี่ยมพลัง เปิดเรื่องด้วยผลไม้ที่โคจรอย่างรวดเร็วรอบคุกกี้ตรงกลางเพื่อดึงจุดสนใจทางสายตาอย่างฉับไว — อ้างอิงองค์ประกอบภาพของ @video1 — ตัดเข้าในจังหวะบีตหนักแน่นทางดนตรี จากนั้นคุกกี้รสต่าง ๆ เคลื่อนเข้าหาเลนส์ตามเส้นทางเกลียว ก่อเกิดมิติเชิงพื้นที่ที่ชัดเจน — อ้างอิงการเคลื่อนไหวและการทำงานของกล้องจาก @video2 — สลับสีและรสตามบีตของเพลงประกอบ อาร์เรย์คุกกี้แพนซ้ายขวาด้วยการตัดจากระนาบสู่ระนาบอย่างรวดเร็ว รสสตรอว์เบอร์รี แอปเปิล องุ่น และส้มสลับกันไปขณะเฟรมจัมป์คัตอย่างรวดเร็วตามจังหวะ — อ้างอิงการเคลื่อนไหวของ @video3 ช่วงกลางเพิ่มการแพนขึ้นลง อาร์เรย์คุกกี้ที่เป็นระเบียบขึ้นลงในแนวตั้งเหมือนเครื่องจักร — อ้างอิงการเคลื่อนไหวของ @video4 — เน้นความงามของความเป็นระเบียบและความอุดมของสินค้า ในช่วงไคลแมกซ์ คุกกี้ชิ้นหนึ่งถูกหักเป็นสองท่อน และช่วงเวลานั้นเข้าสู่สโลว์โมชันขณะไส้ผลไม้ระเบิดออก เศษคุกกี้กระจาย ความฉ่ำและแรงปะทะของเนื้อสัมผัสถูกขยายให้เด่นชัด — อ้างอิงเอฟเฟกต์การระเบิดของ @video5 — แล้วกลับสู่การตัดต่อจังหวะเร็วอย่างรวดเร็ว ตอนจบนำข้อความภาษาอังกฤษ "Fresh on Seedance, made for viral vision" เข้ามา ปรากฏทีละคำต่อเนื่องอย่างรวดเร็วด้วยโมชันข้อความที่มีจังหวะหนักแน่นและภาพสินค้าหยุดนิ่ง — อ้างอิง @video6 — คุกกี้สี่รสเรียงกันอย่างเป็นระเบียบพร้อมผลไม้เด้งดึ๋งเข้าจังหวะเพื่อปิดท้ายที่ชูแบรนด์เป็นหลัก เฟรมเต็มไปด้วยบรรยากาศโฆษณาที่ดูอ่อนเยาว์ เปี่ยมพลัง น่ากิน และน่าแชร์
 ```
 
 <a id="category-7"></a>
 
-### Image Reference (1)
+### การอ้างอิงภาพ (1)
 
-### No. 1: Desert Horned Lizard & Grapefruit (3D ad)
+### No. 1: กิ้งก่าเขาทะเลทรายกับเกรปฟรุต (โฆษณา 3D)
 
-- **Category:** `Image Reference`
+- **Category:** `การอ้างอิงภาพ`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `th`
@@ -597,21 +586,21 @@ A bright, colorful commercial style with fruity cookies as the hero, in four fla
 
 #### Description
 
-A bright, glossy 3D animated commercial: a parched desert horned lizard finds a grapefruit, bites in, and a juice tsunami turns the desert into a summer sea. Built from one character reference.
+โฆษณาแอนิเมชัน 3D สดใสเงางาม: กิ้งก่าเขาทะเลทรายที่กระหายน้ำเจอเกรปฟรุต กัดเข้าไป แล้วคลื่นยักษ์น้ำผลไม้เปลี่ยนทะเลทรายให้กลายเป็นทะเลหน้าร้อน สร้างจากภาพอ้างอิงตัวละครหนึ่งภาพ
 
 #### Prompt
 
 ```text
-A 3D animated commercial style, bright and translucent colors; the pulp and juice must feel intensely refreshing and impactful. The overall vibe is like a high-quality commercial animated short with a touch of exaggerated humor. The desert horned lizard character is cute, lively and expressive, reference @image1. The image texture references that soft natural light, delicate fuzz/skin texture, dreamy macro depth of field, and a realistic-yet-slightly-childlike feel from the reference image. 0-3s: a desert scorched by the blazing sun, the air shimmering with heat and the sand searing hot; a desert horned lizard lies on the scalding sand, tongue slightly out, eyes glazed, nearly dried out, swaying with every couple of steps as if about to "evaporate". 3-6s: it suddenly stops, its nose twitches, and looking down it spots a cool, plump, dew-covered grapefruit half-buried in the sand, glistening like a desert miracle; the lizard's eyes go wide in an instant. 6-8s: it pounces over, hugging the grapefruit tightly with both hands, pressing its whole face against the rind with a blissful "I'm finally alive" expression; the frame holds for 1 second, forming an exaggerated, funny memory beat. 8-11s: it looks up, opens its mouth and takes a big bite; the grapefruit rind splits open, the plump pulp shining with a translucent gloss, and the next moment the juice erupts like a tsunami. 11-16s: orange-pink, translucent, glistening grapefruit juice gushes out wildly, pouring down the dunes and rapidly flooding the entire desert; the dry yellow sand instantly turns into a cool, sparkling, fruit-scented summer sea, cacti, rocks and small dunes swallowed by the waves of juice, the lizard's expression turning from delight to terror. 16-20s: nearly drowned by the "grapefruit sea", it frantically clutches half a grapefruit like a life buoy and floats, poking its soaked head out looking dazed. 20-24s: cut to a white screen; the brand name and slogan appear dead-center: "Seedance Grapefruit — bite in for the pulp, what pours out is summer." The voiceover reads the whole line. 24-30s: cut back from white; the desert horned lizard is now lounging on the floating grapefruit, wearing tiny sunglasses and holding a cup with a straw, drifting leisurely on the "juice sea" on vacation, surrounded by floating orange pulp, little ice cubes, cool splashes and a clear blue sky; the mood shifts from "survival" to "vacation", and finally it leans back contentedly on the grapefruit as the camera pulls out and freezes on a refreshing, bright, playful summer frame.
+สไตล์โฆษณาแอนิเมชัน 3D สีสันสดใสโปร่งแสง เนื้อและน้ำผลไม้ต้องให้ความรู้สึกสดชื่นและกระแทกใจอย่างเข้มข้น บรรยากาศโดยรวมเหมือนหนังแอนิเมชันโฆษณาคุณภาพสูงที่แฝงอารมณ์ขันเกินจริงเล็กน้อย ตัวละครกิ้งก่าเขาทะเลทรายน่ารัก มีชีวิตชีวา และแสดงอารมณ์ได้ดี อ้างอิง @image1 เท็กซ์เจอร์ของภาพอ้างอิงจากแสงธรรมชาตินุ่มนวล เท็กซ์เจอร์ขนอ่อน/ผิวอันละเอียดอ่อน ระยะชัดมาโครชวนฝัน และความรู้สึกสมจริงแต่แฝงความเป็นเด็กเล็กน้อยจากภาพอ้างอิง 0-3s: ทะเลทรายที่ถูกแดดแผดเผา อากาศระยิบระยับด้วยไอความร้อนและทรายร้อนระอุ กิ้งก่าเขาทะเลทรายตัวหนึ่งนอนแผ่บนทรายที่ร้อนลวก ลิ้นแลบออกเล็กน้อย ดวงตาเลื่อนลอย เกือบแห้งเหี่ยว โซซัดโซเซทุกสองสามก้าวราวกับกำลังจะ "ระเหย" 3-6s: มันหยุดกึกทันใด จมูกกระตุก และเมื่อก้มมองลงไปก็เห็นเกรปฟรุตลูกอวบเย็นฉ่ำเคลือบหยดน้ำค้างครึ่งจมอยู่ในทราย ส่องประกายราวปาฏิหาริย์กลางทะเลทราย ดวงตาของกิ้งก่าเบิกกว้างในพริบตา 6-8s: มันพุ่งเข้าใส่ กอดเกรปฟรุตไว้แน่นด้วยสองมือ เอาใบหน้าทั้งหน้าแนบกับเปลือกด้วยสีหน้าเปี่ยมสุข "ในที่สุดฉันก็รอด" เฟรมค้างไว้ 1 วินาที ก่อเกิดช่วงความทรงจำที่เกินจริงและน่าขัน 8-11s: มันเงยหน้าขึ้น อ้าปากกัดคำโต ๆ เปลือกเกรปฟรุตปริแยกออก เนื้ออวบส่องประกายเงางามโปร่งแสง และวินาทีถัดมาน้ำผลไม้ก็พวยพุ่งออกมาราวคลื่นสึนามิ 11-16s: น้ำเกรปฟรุตสีส้มอมชมพู โปร่งแสง เป็นประกาย หลั่งไหลออกมาอย่างบ้าคลั่ง ไหลบ่าลงเนินทรายและท่วมทะเลทรายทั้งหมดอย่างรวดเร็ว ทรายเหลืองแห้งกลายเป็นทะเลหน้าร้อนที่เย็นฉ่ำ ระยิบระยับ หอมกลิ่นผลไม้ในทันที ต้นกระบองเพชร ก้อนหิน และเนินทรายเล็ก ๆ ถูกกลืนหายไปในคลื่นน้ำผลไม้ สีหน้าของกิ้งก่าเปลี่ยนจากดีใจเป็นหวาดกลัว 16-20s: เกือบจมน้ำใน "ทะเลเกรปฟรุต" มันคว้าเกรปฟรุตครึ่งลูกไว้แน่นราวห่วงชูชีพอย่างลนลานและลอยตัว โผล่หัวที่เปียกโชกขึ้นมาด้วยสีหน้างุนงง 20-24s: ตัดไปที่จอขาว ชื่อแบรนด์และสโลแกนปรากฏตรงกลางเฟรม: "Seedance เกรปฟรุต — กัดเข้าไปเจอเนื้อ สิ่งที่หลั่งออกมาคือหน้าร้อน" เสียงบรรยายอ่านประโยคทั้งหมด 24-30s: ตัดกลับจากจอขาว กิ้งก่าเขาทะเลทรายตอนนี้เอนกายอยู่บนเกรปฟรุตที่ลอยน้ำ สวมแว่นกันแดดตัวจิ๋วและถือแก้วที่มีหลอด ล่องลอยอย่างสบายอารมณ์บน "ทะเลน้ำผลไม้" ราวไปพักร้อน รายล้อมด้วยเนื้อส้มที่ลอยฟ่อง ก้อนน้ำแข็งเล็ก ๆ ละอองน้ำเย็นฉ่ำ และท้องฟ้าสีครามใส อารมณ์เปลี่ยนจาก "การเอาตัวรอด" สู่ "การพักร้อน" และในที่สุดมันก็เอนหลังพิงเกรปฟรุตอย่างพึงพอใจขณะกล้องถอยออกและหยุดนิ่งที่เฟรมหน้าร้อนอันสดชื่น สดใส และขี้เล่น
 ```
 
 <a id="category-8"></a>
 
-### Image Reference (Cinematic) (1)
+### การอ้างอิงภาพ (สไตล์ภาพยนตร์) (1)
 
-### No. 1: Drunk Man's Rooftop Fall (black-comedy short)
+### No. 1: ชายเมาร่วงจากดาดฟ้า (หนังสั้นตลกร้าย)
 
-- **Category:** `Image Reference (Cinematic)`
+- **Category:** `การอ้างอิงภาพ (สไตล์ภาพยนตร์)`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `th`
@@ -626,2012 +615,12 @@ A 3D animated commercial style, bright and translucent colors; the pulp and juic
 
 #### Description
 
-A ~30s black-comedy cinematic short: a chubby, tipsy man topples off a rooftop, grabs a lifeline, crashes through a window, and simply falls asleep. Character from one reference image; built on hard cuts between roar and total silence.
+หนังสั้นสไตล์ภาพยนตร์ตลกร้ายยาวราว 30 วินาที: ชายอ้วนเมาคนหนึ่งร่วงตกจากดาดฟ้า คว้าเชือกชูชีพไว้ได้ พุ่งทะลุหน้าต่างเข้าไป แล้วก็หลับไปดื้อ ๆ ตัวละครมาจากภาพอ้างอิงหนึ่งภาพ สร้างขึ้นบนการตัดฉับระหว่างเสียงกึกก้องกับความเงียบสนิท
 
 #### Prompt
 
 ```text
-[Drunk Man's Rooftop Fright — falls off the edge — grabs a rope through the window — passes out on the spot | black-comedy short | about 30 seconds] One-line premise: a chubby, cute, drunk middle-aged man is eating a burger and drinking beer on the rooftop of a building; as he stands up and stretches he accidentally loses his footing and falls, in his panic grabs a lifesaving rope and immediately crashes through a window into an interior, is dazed and stunned for one second, then just lies down where he is and falls fast asleep. Reference image @image1 — a chubby, cute, drunk middle-aged man: round and stocky build with a big round beer belly, short in stature, movements loose, slow and wobbly from drinking; round face, double chin, drink-flushed cheeks and nose, eyes narrowed to slits with a bleary gaze, an untrimmed ring of short stubble, messy hair, a silly, cute, carefree expression; wearing a white tank-top undershirt stained with burger sauce hanging loosely over his round belly, old jeans, shuffling along in loose slippers, always clutching a half-eaten burger in his hand. There is only this one character in the whole film, a 100% match to the reference image. Overall look: a nighttime cyberpunk mega-city, a dense forest of glass-and-steel skyscrapers, neon signs (cyan / magenta / electric blue), holographic billboards, wet reflective ground, volumetric fog, distant flying-car light trails and drones. Real live-action texture, physical cinema lenses, no 3D rendering / game engine / anime feel. The camera mixes handheld with jib / drone; after the fall the camera plunges down with him as the building's exterior wall and the neon streak upward to convey speed, 24-35mm widescreen cinematic lens texture, 180-degree shutter motion blur. Sound design is the key to the black comedy: hard-cutting repeatedly between "a huge roar" and "total silence". Real gravity throughout. Storyboard (about 30 seconds): S1 (0-4s) opening chewing big close-up (with sound) the man's face fills the screen, chewing the burger in big bites, a satisfied drunken state; S2 (4-9s) pull to a wide shot, stretching -> losing footing and falling (with sound) he wobbles to his feet and stretches big, leans back, can't keep his balance, his foot slips and he tumbles backward over the edge of the rooftop, never letting go of the burger, with a panicked "Eh——!"; S3 (9-12s) cut to a startled facial close-up (a loud scream, huge roar) drunken eyes bulging round, double chin bunched up, mouth wide in a screaming "Ahh——!!", wind howling; S4 (12-16s) cut to a long shot at eye level (total silence) seen from the building across the way, a tiny white figure plummeting straight down from the high-rise, the neon city vast and indifferent, the total silence forming a black-comedy contrast with the huge roar a second earlier; S5 (16-21s) cut to a facial close-up (screaming) -> grabbing the rope, still screaming, hands flailing in the air, he suddenly grabs a lifesaving cable, the cable snapping taut and bending under his weight with a twang, the scream cutting off abruptly as he is jerked and swings out (a brief slow motion at the moment he grabs the rope); S6 (21-26s) cut to an interior angle (quiet) -> the glass shatters -> he crashes in, the interior first quiet with only the hum of the air conditioner, the next second the glass explosively bursts inward (a brief bullet time) as the drunk man, burger and all, smashes through the window, shards flying out radially, neon light streaming in, and he crashes heavily into the room onto the floor / sofa, broken glass clinking; S7 (26-30s) ending, a startled second -> falls asleep, the man sprawled spread-eagle on the floor, covered in broken glass, still clutching the burger, slowly opens his eyes, dazed, blank and startled for a full second, looking around as if thinking "where am I?", then the drunkenness takes over and, not caring at all, he smacks his lips, tucks the burger into his arms, rolls over, lies down right there and falls fast asleep, even snoring lightly, the camera pulls out and freezes, hard cut to black. Only on-set live sound, no music, no subtitles; the core is hard cuts repeatedly between "huge roar" and "silence".
-```
-
-<a id="category-9"></a>
-
-### Twitter Community (24)
-
-### No. 1: โฆษณา Veloce-X Neuro-Hydration Strips
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Gilbert Odera | Your AI Plug🇰🇪
-- **Language:** `th`
-- **Source Link:** [View](https://x.com/yourPlugAI/status/2064591659115905203)
-
-#### Description
-
-คำแนะนำสำหรับการสร้างโฆษณาเชิงภาพยนตร์ความเร็วสูง แบบสมจริงสูง ความยาว 15 วินาที สำหรับผลิตภัณฑ์เสริมความชุ่มชื่นระบบประสาท
-
-#### Prompt
-
-```text
-Create a 15-second ultra-realistic, high-speed cinematic image-to-video commercial for Veloce-X Neuro-Hydration Strips, utilizing the provided reference images as the absolute anchor for character, product design, color palette, and
-```
-
-### No. 2: ชายในหน้ากากใต้สายฝน
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Xfeed24
-- **Language:** `th`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064605968420261888/vid/avc1/1280x716/DknXfm6NuCMCohq9.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064605968420261888/vid/avc1/1280x716/DknXfm6NuCMCohq9.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/XfeedZ24/status/2064606040797171839)
-
-#### Description
-
-ภาพระยะใกล้ของชายที่สวมหน้ากากอนาคตนิยมยืนอยู่กลางสายฝนด้วยสีหน้าที่เศร้าหมอง
-
-#### Prompt
-
-```text
-close-up of a man in a futuristic mask, wet hair, rain falling, dark and moody lighting, cinematic shot
-```
-
-### No. 3: พลังแห่งกาแฟ
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** minchinEdits
-- **Language:** `th`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064606538237710336/vid/avc1/720x1280/qcEBjR0LJuF4rgce.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064606538237710336/vid/avc1/720x1280/qcEBjR0LJuF4rgce.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/minchinEdits/status/2064606613865103832)
-
-#### Description
-
-ผู้หญิงคนหนึ่งแผ่พลังงานออกมาจากกาแฟ ล้อมรอบไปด้วยฉากในออฟฟิศที่เต็มไปด้วยพลัง
-
-#### Prompt
-
-```text
-a vibrant animated scene of a woman surrounded by glowing golden energy, holding a coffee cup, with multiple versions of her and coworkers in an office environment, all expressing excitement and productivity, cinematic lighting, dynamic composition, 3D animation style
-```
-
-### No. 4: ศึกแฟนตาซีมืดด้วยเอฟเฟกต์ปฏิบัติการ
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Build Fast with AI
-- **Language:** `th`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064395868787347456/vid/avc1/854x480/Nmuqe4FnZH5lRPZd.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064395868787347456/vid/avc1/854x480/Nmuqe4FnZH5lRPZd.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/BuildFastWithAI/status/2064595921443139684)
-
-#### Description
-
-พรอมต์สำหรับสร้างฉากการต่อสู้แฟนตาซีมืดความยาว 15 วินาทีโดยใช้ Seedance 2.0 ด้วยสุนทรียภาพเอฟเฟกต์ปฏิบัติการและความคมชัดต่ำ
-
-#### Prompt
-
-```text
-15-second dark fantasy battle. Seedance 2.0. Zero post. Zero upscaling. Low sharpness + practical effect aesthetic.
-```
-
-### No. 5: ดีไซน์ตัวละครลูกแมว
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** GPTProto Official
-- **Language:** `th`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064599776021426176/vid/avc1/1080x1920/b4Mr5JDKiFBYrzOo.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064599776021426176/vid/avc1/1080x1920/b4Mr5JDKiFBYrzOo.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/gptproto/status/2064601178902814752)
-
-#### Description
-
-ลูกแมวสีส้มน่ารักนั่งอยู่บนโต๊ะไม้ในห้องนั่งเล่นที่สว่างไสวด้วยแสงแดด พร้อมแผ่นดีไซน์ตัวละครที่แสดงโมเดล 3D, การแสดงอารมณ์ และแผงสีวางอยู่ด้านล่าง
-
-#### Prompt
-
-```text
-a cute orange tabby kitten with big eyes sitting on a wooden table in a cozy living room, surrounded by a tissue box, a glass of water, and a toy mouse, with detailed character design sheets below showing 3D model views, expressions, poses, and color references, soft natural lighting, warm atmosphere, cinematic depth of field
-```
-
-### No. 6: ผู้หญิงในงานประชุม AI
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** CloudwiseAI
-- **Language:** `th`
-- **Source Link:** [View](https://x.com/cloudwiseAI2026/status/2064591595991969879)
-
-#### Description
-
-ผู้หญิงพูดเข้าอุปกรณ์ไมโครโฟน ด้านหน้าจอแสดงเว็บไซต์การประชุม GenAI ในธีมฟุตบอล
-
-#### Prompt
-
-```text
-a woman speaking into a microphone in front of a large screen displaying a GenAI conference website with a soccer stadium background, natural lighting from windows, realistic details, medium shot
-```
-
-### No. 7: วอร์เท็กซ์เหนือเมือง
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Pixmax
-- **Language:** `th`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064593085431185408/vid/avc1/1080x720/dawSBFfVAweSgYmE.mp4?tag=14)
-
-<video src="https://video.twimg.com/amplify_video/2064593085431185408/vid/avc1/1080x720/dawSBFfVAweSgYmE.mp4?tag=14" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/Pixmax_ai/status/2064593399882432615)
-
-#### Description
-
-ชายคนหนึ่งแหงนมองขึ้นไปยังวอร์เท็กซ์สีฟ้าเรืองแสงที่ลอยอยู่เหนือมหานครอนาคตนิยมในยามค่ำคืน
-
-#### Prompt
-
-```text
-a man in a black jacket stands in a futuristic city at night, looking up at a massive glowing blue vortex in the sky, surrounded by towering skyscrapers with neon lights, cinematic lighting, wide-angle shot, dramatic perspective
-```
-
-### No. 8: Naruto Live สเปกตากูลาร์
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** AIAI.COM
-- **Language:** `th`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064592744111325184/vid/avc1/1920x1080/QMHtQZk7WlNnDcml.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064592744111325184/vid/avc1/1920x1080/QMHtQZk7WlNnDcml.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/Aiaicom09/status/2064592826290336125)
-
-#### Description
-
-การแสดงสดบนเวทีที่มีนารูโตะและซาสึเกะในชุดคอสตูมที่เป็นเอกลักษณ์ พร้อมผู้ชมที่กำลังบันทึกช่วงเวลานั้นด้วยโทรศัพท์ของพวกเขา
-
-#### Prompt
-
-```text
-live stage performance of Naruto characters, Naruto Uzumaki and Sasuke Uchiha in full costume, standing on a stage with a crowd watching, bright daylight, realistic lighting, detailed costumes, dynamic pose, audience holding phones to record, Japanese text banner above stage reading 'LIVE SPECTACULAR NARUTO', wide shot, static camera
-```
-
-### No. 9: สำรวจแพลตฟอร์ม AI GlobalGPT
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Choya
-- **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/prompt/seedance-2/x_2064988432590356506.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2064988432590356506.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/choyamymuna/status/2064988432590356506)
-
-#### Description
-
-วิดีโอนี้บันทึกภาพหน้าจอโดยละเอียด แสดงให้เห็นโมเดลและเครื่องมือ AI ที่หลากหลายของแพลตฟอร์ม GlobalGPT สำหรับการสร้างภาพ วิดีโอ และเสียง
-
-#### Prompt
-
-```text
-A static screen recording of a desktop computer displaying the GlobalGPT website in a web browser. The cursor moves across the screen, clicking on navigation links and scrolling through lists of AI video, image, and audio generation models and tools. The background behind the browser window features an abstract, vibrant gradient of blue, purple, pink, and orange waves. The focus is entirely on the browser's UI and its interactive elements.
-```
-
-### No. 10: วิดีโอฟุตบอลเชิงภาพยนตร์พร้อมผู้เล่นสมจริงสูง
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** auqib
-- **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/prompt/seedance-2/x_2064989700738412551.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2064989700738412551.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/auqibhabib/status/2064989700738412551)
-
-#### Description
-
-วิดีโอเชิงภาพยนตร์สื่อผสม ที่มีนักฟุตบอลมนุษย์สมจริงสูง ถูกผสานเข้ากับสภาพแวดล้อมสนามกีฬาที่สมจริง
-
-#### Prompt
-
-```text
-Mixed-media cinematic football video featuring ultra-realistic human football players inspired by Image1 and Image2, seamlessly integrated into the ultra-realistic football stadium environment from Image3. Same team, same
-```
-
-### No. 11: การสู้วัวกระทิงในยามโกลด์เด้น์อาวร์แบบภาพยนตร์
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** WasifAI
-- **Language:** `th`
-- **Video:** [View](https://video.twimg.com/ext_tw_video/2064595743864737792/pu/vid/avc1/1920x1080/_o4DsXvAFcjPpDIc.mp4)
-
-<video src="https://video.twimg.com/ext_tw_video/2064595743864737792/pu/vid/avc1/1920x1080/_o4DsXvAFcjPpDIc.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/doctorwasif/status/2064595805906817115)
-
-#### Description
-
-พรอมต์วิดีโอโฟโตเรียลลิสติกสำหรับฉากภาพยนตร์ต่อเนื่องความยาว 15 วินาทีที่ตั้งอยู่ในสนามสู้วัวกระทิงในช่วงเวลาทอง (โกลด์เด้น์อาวร์)
-
-#### Prompt
-
-```text
-15s continuous cinematic Hollywood 60fps, photoreal Plaza de Toros at golden hour, packed crowd, dust in warm amber light. Consistent matador (@ Image1) in emerald-gold
-```
-
-### No. 12: อนิเมชั่นเทพนิยายสีน้ำอันน่าหลงใหล
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** OscarAI
-- **Language:** `th`
-- **Source Link:** [View](https://x.com/Artedeingenio/status/2064985164116119665)
-
-#### Description
-
-วิดีโอต่อเนื่องยาว 15 วินาที แบบช็อตเดียว ไม่มีการตัดต่อหรือเปลี่ยนฉาก มีสไตล์เป็นอนิเมชั่นเทพนิยายแบบวาดมือด้วยสีน้ำและหมึกที่แสนวิเศษ
-
-#### Prompt
-
-```text
-15-second continuous single-shot. No cuts. No scene transitions. Style: enchanting fairy tale animation, hand-painted watercolor and ink illustration brought to life, whimsical
-```
-
-### No. 13: แมงมุมหุ่นยนต์ไซไฟบนลู่วิ่ง
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Avelyrah
-- **Language:** `th`
-- **Video:** [View](https://video.twimg.com/ext_tw_video/2064608014934695936/pu/vid/avc1/1280x720/2Cwwi5g_SYa4kIy8.mp4)
-
-<video src="https://video.twimg.com/ext_tw_video/2064608014934695936/pu/vid/avc1/1280x720/2Cwwi5g_SYa4kIy8.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/AvelyrahnAI/status/2064608055908868501)
-
-#### Description
-
-ซีเควนซ์วิดีโอไซไฟจังหวะเร็วที่มีผู้หญิงผมบลอนด์ในชุดวอร์ม ขณะที่แมงมุมหุ่นยนต์ขยายตัวออกจากข้อมือเธอในขณะที่นักเรียนวิ่งหนี
-
-#### Prompt
-
-```text
-A fast-paced sci-fi video sequence on a high school running track under a dark, overcast sky. A blonde woman in a navy and white tracksuit walks confidently forward as students flee. A robotic spider on her wrist rapidly expands
-```
-
-### No. 14: ทหารมองดูกองเรือ
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Global Frontline News
-- **Language:** `th`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064598715831398400/vid/avc1/1280x720/8wGHKWvZrRIK6fxS.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064598715831398400/vid/avc1/1280x720/8wGHKWvZrRIK6fxS.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/OmeyLad23/status/2064611393580757271)
-
-#### Description
-
-ทหารคนหนึ่งยืนอยู่ท้ายเครื่องบินทหาร มองออกไปยังกองเรือขนาดใหญ่ที่ลอยลำอยู่บนมหาสมุทรเบื้องล่าง
-
-#### Prompt
-
-```text
-a soldier in tactical gear stands at the open rear of a military transport aircraft, looking out over a fleet of naval ships on the ocean, cinematic lighting, wide shot from behind, high detail, realistic
-```
-
-### No. 15: การบินควิดดิชที่ฮอกวอตส์
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Cyber AI Creator 🎨
-- **Language:** `th`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064598185205731328/vid/avc1/720x806/RJuHUIc2jLdBY5Wy.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064598185205731328/vid/avc1/720x806/RJuHUIc2jLdBY5Wy.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/noman23761/status/2064598264528470051)
-
-#### Description
-
-มุมมองบุคคลที่หนึ่งของการบินบนไม้กวาดเหนือสนามควิดดิชที่ฮอกวอตส์ ก่อนเปลี่ยนเป็นมุมมองทางอากาศที่กว้างไกลของปราสาทในยามอาทิตย์อัสดง
-
-#### Prompt
-
-```text
-first-person view of flying on a broomstick over the Quidditch field at Hogwarts, with golden hoops and castle in background, transitioning to an aerial wide shot of Hogwarts Castle at sunset with red trail showing flight path
-```
-
-### No. 16: คอนเซปต์อาร์ตนักรบน้ำแข็ง
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Cyber AI Creator 🎨
-- **Language:** `th`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064597000713281536/vid/avc1/1140x1080/2ItRonsYxDE0Pyne.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064597000713281536/vid/avc1/1140x1080/2ItRonsYxDE0Pyne.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/noman23761/status/2064597123795173495)
-
-#### Description
-
-ภาพประกอบคอนเซปต์อาร์ตที่แสดงนักรบหญิงและโกเลมน้ำแข็งในสภาพแวดล้อมหิมะ พร้อมดีไซน์ตัวละครที่มีรายละเอียด
-
-#### Prompt
-
-```text
-concept art of a female warrior and an ice golem in a snowy landscape, detailed character designs with armor and weapons, anime style, wide shot, static camera
-```
-
-### No. 17: การเดินบนถนนย้อนยุค
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** EdenWood
-- **Language:** `th`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064592895923965952/vid/avc1/1280x720/8JlrIYiYHhKJtJ-_.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064592895923965952/vid/avc1/1280x720/8JlrIYiYHhKJtJ-_.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/EdenWood62747/status/2064592964366585994)
-
-#### Description
-
-ชายคนหนึ่งเดินลงมาตามถนนย้อนยุคที่คึกคัก มีรถรางอยู่ด้านหลัง ถูกบันทึกไว้ในภาพขาวดำด้วยรายละเอียดแบบภาพยนตร์
-
-#### Prompt
-
-```text
-black and white vintage street scene, a man in a white shirt walking toward the camera, old tram in the background, people walking on the street, colonial architecture, sepia tone, cinematic lighting, slow motion
-```
-
-### No. 18: การนำเสนอเรื่องการเรนเดอร์ 3 มิติ
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** CloudwiseAI
-- **Language:** `th`
-- **Source Link:** [View](https://x.com/cloudwiseAI2026/status/2064591627214356928)
-
-#### Description
-
-ผู้บรรยายชี้ไปที่หน้าจอที่แสดงทรงกลมเรนเดอร์ 3 มิติ ระหว่างการเวิร์กช็อป
-
-#### Prompt
-
-```text
-a man giving a presentation in front of an audience, pointing at a large screen displaying a 3D rendering of two reflective spheres on a wooden table, with natural light coming through windows in the background
-```
-
-### No. 19: ภาพรวมเว็บไซต์ GlobalGPT
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Rasel Hosen
-- **Language:** `th`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064592725241184256/vid/avc1/1280x720/NI71SYLYLAoa66wB.mp4?tag=14)
-
-<video src="https://video.twimg.com/amplify_video/2064592725241184256/vid/avc1/1280x720/NI71SYLYLAoa66wB.mp4?tag=14" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/details_with_ai/status/2064592792354275730)
-
-#### Description
-
-ภาพหน้าจอของหน้าแรกเว็บไซต์ GlobalGPT พร้อมพื้นหลังสีสันสดใสและตัวเลือกเครื่องมือ AI
-
-#### Prompt
-
-```text
-a screen recording of the GlobalGPT website homepage with a colorful abstract background, showing the navigation menu, AI model selection interface, and promotional banners, with a subtle zoom-in effect on the central content area
-```
-
-### No. 20: การผจญภัยบนทางเดินใต้แสงอาทิตย์
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** 💫Wigglenator💫
-- **Language:** `th`
-- **Source Link:** [View](https://x.com/Wigglenatorr/status/2064608020701532188)
-
-#### Description
-
-เด็กสาวอนิเมะที่มีเขา ยืนอยู่บนทางเดินหินกรวดที่อาบด้วยแสงอาทิตย์สีทอง
-
-#### Prompt
-
-```text
-anime girl with white hair and horns, wearing a red cloak, standing on a stone path in a sunlit garden, golden hour lighting, soft focus background, detailed character design, warm tones
-```
-
-### No. 21: ทหารมองดูกองเรือ
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Global Frontline News
-- **Language:** `th`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064598715831398400/vid/avc1/1280x720/8wGHKWvZrRIK6fxS.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064598715831398400/vid/avc1/1280x720/8wGHKWvZrRIK6fxS.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/OmeyLad23/status/2064606091951190378)
-
-#### Description
-
-ทหารคนหนึ่งยืนอยู่ท้ายเครื่องบินทหาร มองออกไปยังกองเรือรบขนาดมหึมาบนทะเลเปิด
-
-#### Prompt
-
-```text
-a soldier in tactical gear stands at the open rear ramp of a military transport aircraft, looking out over a vast fleet of warships on the ocean, cinematic lighting, high detail, wide shot
-```
-
-### No. 22: ห้องนั่งเล่นสไตล์พังก์ร็อก
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Cyber AI Creator 🎨
-- **Language:** `th`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064595369720442880/vid/avc1/1080x1216/n-dxp79lHtiON4Wj.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064595369720442880/vid/avc1/1080x1216/n-dxp79lHtiON4Wj.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/noman23761/status/2064595569763639713)
-
-#### Description
-
-ภาพแคนดิดของหญิงห้าคนที่มีสไตล์แฟชั่นทางเลือกกำลังผ่อนคลายในอพาร์ตเมนต์สไตล์โบฮีเมียน ขณะที่แมวสีขาวเดินเข้ามาหาพวกเธอ
-
-#### Prompt
-
-```text
-a group of five young women with punk rock style sitting on a couch in a cozy, cluttered living room filled with plants and music posters, a white cat walking away from the camera towards the group, warm ambient lighting, realistic photo style
-```
-
-### No. 23: นักดำน้ำทักทายกันกลางทะเล
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Ranveer Singh Sisodia
-- **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/prompt/seedance-2/x_2064988239623225619.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2064988239623225619.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/sphereofai/status/2064988239623225619)
-
-#### Description
-
-นักดำน้ำบนเรือทักทายด้วยการตีมือ (ไฮไฟว์) กับนักดำน้ำอีกคนในทะเลเปิดใต้ท้องฟ้าสดใส
-
-#### Prompt
-
-```text
-first person view of a diver on a boat, high five with another diver, clear blue ocean, sunny day, wide angle lens
-```
-
-### No. 24: สาธิตการนำเสนอด้วย AI
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** CloudwiseAI
-- **Language:** `th`
-- **Source Link:** [View](https://x.com/cloudwiseAI2026/status/2064591614627189158)
-
-#### Description
-
-ผู้บรรยายพูดกับผู้ชม พร้อมแสดงภาพเคลื่อนไหวดิจิทัลของทรงกลมสะท้อนแสงบนหน้าจอ
-
-#### Prompt
-
-```text
-a man giving a presentation in front of an audience, holding a microphone, with a large screen displaying two reflective spheres on a dark surface, natural light from windows, indoor setting with plants and audio equipment
-```
-
-<a id="category-10"></a>
-
-### เสียงและการสังเคราะห์เสียงพูด (10)
-
-### No. 1: แมวและสุนัข ศึกโต้คม
-
-- **Category:** `เสียงและการสังเคราะห์เสียงพูด`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/1793c9e5-608e-435e-a72b-0e657bbb2d5c.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/1793c9e5-608e-435e-a72b-0e657bbb2d5c.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/35)
-
-#### Description
-
-ฉากวิดีโอในธีม: แมวและสุนัข ศึกโต้คม
-
-#### Prompt
-
-```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: แมวและสุนัข ศึกโต้คม
-```
-
-### No. 2: ออฟฟิศ อาคาร สารคดี
-
-- **Category:** `เสียงและการสังเคราะห์เสียงพูด`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/843a60ae-3df3-4c37-9fd4-2437f3ac2253.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/843a60ae-3df3-4c37-9fd4-2437f3ac2253.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/34)
-
-#### Description
-
-ฉากวิดีโอในธีม: ออฟฟิศ อาคาร สารคดี
-
-#### Prompt
-
-```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: ออฟฟิศ อาคาร สารคดี
-```
-
-### No. 3: ฟิชอาย ม้า คอมเมดี้
-
-- **Category:** `เสียงและการสังเคราะห์เสียงพูด`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/26d450cd-23c4-499e-9fd6-1752dabbc8bd.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/26d450cd-23c4-499e-9fd6-1752dabbc8bd.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/33)
-
-#### Description
-
-ฉากวิดีโอในธีม: ฟิชอาย ม้า คอมเมดี้
-
-#### Prompt
-
-```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: ฟิชอาย ม้า คอมเมดี้
-```
-
-### No. 4: พหุวัฒนธรรม ครอบครัว เฉลิมฉลอง
-
-- **Category:** `เสียงและการสังเคราะห์เสียงพูด`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/ac11aa46-e846-4167-af87-53f0be98df9e.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/ac11aa46-e846-4167-af87-53f0be98df9e.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/38)
-
-#### Description
-
-ฉากวิดีโอในธีม: พหุวัฒนธรรม ครอบครัว เฉลิมฉลอง
-
-#### Prompt
-
-```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: พหุวัฒนธรรม ครอบครัว เฉลิมฉลอง
-```
-
-### No. 5: เช้า ปลุกตอนเช้า บทสนทนา
-
-- **Category:** `เสียงและการสังเคราะห์เสียงพูด`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/7744c998-76b7-436f-9066-6d4ef5f0ce7f.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/7744c998-76b7-436f-9066-6d4ef5f0ce7f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/40)
-
-#### Description
-
-ฉากวิดีโอในธีม: เช้า ปลุกตอนเช้า บทสนทนา
-
-#### Prompt
-
-```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: เช้า ปลุกตอนเช้า บทสนทนา
-```
-
-### No. 6: ยุทธวิธี ทีม สเปน บรีฟภารกิจ
-
-- **Category:** `เสียงและการสังเคราะห์เสียงพูด`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/cda3c348-80c8-445b-8d85-d1eefe36e0b2.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/cda3c348-80c8-445b-8d85-d1eefe36e0b2.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/39)
-
-#### Description
-
-ฉากวิดีโอในธีม: ยุทธวิธี ทีม สเปน บรีฟภารกิจ
-
-#### Prompt
-
-```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: ยุทธวิธี ทีม สเปน บรีฟภารกิจ
-```
-
-### No. 7: จีน โอเปรา การแสดง
-
-- **Category:** `เสียงและการสังเคราะห์เสียงพูด`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/6f6ea681-2e7b-4e35-9126-a72d2046bc1f.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/6f6ea681-2e7b-4e35-9126-a72d2046bc1f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/36)
-
-#### Description
-
-ฉากวิดีโอในธีม: จีน โอเปรา การแสดง
-
-#### Prompt
-
-```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: จีน โอเปรา การแสดง
-```
-
-### No. 8: เสฉวน Dialect ชานมไข่มุก
-
-- **Category:** `เสียงและการสังเคราะห์เสียงพูด`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/4f4d9b27-1962-494e-b1fa-5191ede1b500.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/4f4d9b27-1962-494e-b1fa-5191ede1b500.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/41)
-
-#### Description
-
-ฉากวิดีโอในธีม: เสฉวน Dialect ชานมไข่มุก
-
-#### Prompt
-
-```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: เสฉวน Dialect ชานมไข่มุก
-```
-
-### No. 9: ไซอิ๋ว เล่าเรื่อง
-
-- **Category:** `เสียงและการสังเคราะห์เสียงพูด`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/14269628-c801-4b26-b400-38b2c7d2d97a.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/14269628-c801-4b26-b400-38b2c7d2d97a.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/42)
-
-#### Description
-
-ฉากวิดีโอในธีม: ไซอิ๋ว เล่าเรื่อง
-
-#### Prompt
-
-```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: ไซอิ๋ว เล่าเรื่อง
-```
-
-### No. 10: Cinematic โร้ดทริป MV
-
-- **Category:** `เสียงและการสังเคราะห์เสียงพูด`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/f9f34a78-6001-4013-8e9a-a413ca727f00.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/f9f34a78-6001-4013-8e9a-a413ca727f00.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/37)
-
-#### Description
-
-ฉากวิดีโอในธีม: Cinematic โร้ดทริป MV
-
-#### Prompt
-
-```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: Cinematic โร้ดทริป MV
-```
-
-<a id="category-11"></a>
-
-### การเคลื่อนไหวกล้องขั้นสูง (13)
-
-### No. 1: IMAX-Style Desert Sandstorm Scene with Denis Villeneuve Aesthetic
-
-- **Category:** `การเคลื่อนไหวกล้องขั้นสูง`
-- **Source:** `twitter`
-- **Author:** John (@johnAGI168)
-- **Language:** `th`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/c3e4c06f-da7d-4127-ad68-7ed1656e2472.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/c3e4c06f-da7d-4127-ad68-7ed1656e2472.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/johnAGI168/status/2020989515939148146)
-
-#### Description
-
-IMAX-style desert sandstorm scene with Denis Villeneuve aesthetic. Features timestamped multi-shot structure.
-
-#### Prompt
-
-```text
-Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low saturation. Multi-shot structure. Extreme wide shot: a colossal sand wall consumes the horizon while an armored convoy races across open desert. Emphasize terrifying scale and human fragility. Cockpit POV: violent vibration inside the lead vehicle, sand blasting the windshield, red warning lights pulsing, urgent shouted commands. Climax in slow motion: lead rover launches off a dune, silhouetted against a dark storm front; lightning flickers inside the dust cloud; debris streaks past lens; hard cut to black on impact. Keep transitions clean and escalation continuous.
-```
-
-### No. 2: South Indian Cinema Alien Scene Generated from Single Prompt
-
-- **Category:** `การเคลื่อนไหวกล้องขั้นสูง`
-- **Source:** `twitter`
-- **Author:** rohan anil (@_arohan_)
-- **Language:** `th`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/068af607-5e54-4331-9c25-3afc190d1a53.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/068af607-5e54-4331-9c25-3afc190d1a53.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/_arohan_/status/2021369768004161783)
-
-#### Description
-
-South Indian cinema alien scene generated from a single prompt. Demonstrates cross-cultural filmmaking capabilities.
-
-#### Prompt
-
-```text
-Create a South Indian commercial-cinema style alien invasion action scene. Visuals should feature saturated colors, dramatic backlight, stylized slow motion, and heroic framing. Open with a large-scale city plaza reveal as alien craft descend, then cut to low-angle hero entrance with wind-swept costume details. Move into multi-angle confrontation: wides for scale, mediums for combo choreography, close-ups for emotional intensity and impact peaks. Blend dust, sparks, smoke, and lens flares for high-energy theatrical presentation while keeping motion readable.
-```
-
-### No. 3: Aerial Shot of Burning Military Vehicle in Urban Warfare
-
-- **Category:** `การเคลื่อนไหวกล้องขั้นสูง`
-- **Source:** `twitter`
-- **Author:** Carlos Santana (@DotCSV)
-- **Language:** `th`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/81bd1286-8024-4a62-a77a-0873d8137ae6.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/81bd1286-8024-4a62-a77a-0873d8137ae6.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/DotCSV/status/2020519499082969142)
-
-#### Description
-
-Cinematic drone footage capturing the aftermath of urban battle. Showcases Seedance 2.0's ability to generate realistic war scenes with detailed destruction effects and atmospheric rendering.
-
-#### Prompt
-
-```text
-A cinematic drone sequence over a war-torn city intersection. At the center, a destroyed armored vehicle burns continuously, emitting thick black smoke that climbs into an overcast sky. Streets are littered with rubble, twisted metal, and shattered concrete; nearby buildings show blown-out windows, scorched facades, and structural damage. Start with a high establishing aerial shot, then descend slowly into a medium-high orbit while preserving spatial scale and destruction detail. Keep color grading desaturated with documentary realism, add subtle film grain, and ensure physically believable fire, smoke turbulence, heat distortion, and airborne dust.
-```
-
-### No. 4: มหากาพย์ แฟนตาซี ศึก
-
-- **Category:** `การเคลื่อนไหวกล้องขั้นสูง`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/a15ec27b-9b38-407d-aa7a-460c9ed17e7f.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/a15ec27b-9b38-407d-aa7a-460c9ed17e7f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/16)
-
-#### Description
-
-ฉากวิดีโอในธีม: มหากาพย์ แฟนตาซี ศึก
-
-#### Prompt
-
-```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: มหากาพย์ แฟนตาซี ศึก
-```
-
-### No. 5: รถยนต์ โฆษณา ภาพยนตร์
-
-- **Category:** `การเคลื่อนไหวกล้องขั้นสูง`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d1fe2d82-6f01-4e04-a732-a949028a09d3.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d1fe2d82-6f01-4e04-a732-a949028a09d3.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/17)
-
-#### Description
-
-ฉากวิดีโอในธีม: รถยนต์ โฆษณา ภาพยนตร์
-
-#### Prompt
-
-```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: รถยนต์ โฆษณา ภาพยนตร์
-```
-
-### No. 6: หมุน แท็บเล็ต โชว์เคส
-
-- **Category:** `การเคลื่อนไหวกล้องขั้นสูง`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/2f9e5701-3cbe-4855-84a8-3ba0cd72b329.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/2f9e5701-3cbe-4855-84a8-3ba0cd72b329.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/13)
-
-#### Description
-
-ฉากวิดีโอในธีม: หมุน แท็บเล็ต โชว์เคส
-
-#### Prompt
-
-```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: หมุน แท็บเล็ต โชว์เคส
-```
-
-### No. 7: ซับซ้อน ทางเดิน ไล่ล่า
-
-- **Category:** `การเคลื่อนไหวกล้องขั้นสูง`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c1288035-fc08-4465-bee0-a1857f94c7c1.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/c1288035-fc08-4465-bee0-a1857f94c7c1.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/12)
-
-#### Description
-
-ฉากวิดีโอในธีม: ซับซ้อน ทางเดิน ไล่ล่า
-
-#### Prompt
-
-```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: ซับซ้อน ทางเดิน ไล่ล่า
-```
-
-### No. 8: ศิลปะการต่อสู้ การต่อสู้ ฉาก
-
-- **Category:** `การเคลื่อนไหวกล้องขั้นสูง`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/e62ddd7b-da6a-4b26-be8a-aba6e74dd854.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/e62ddd7b-da6a-4b26-be8a-aba6e74dd854.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/15)
-
-#### Description
-
-ฉากวิดีโอในธีม: ศิลปะการต่อสู้ การต่อสู้ ฉาก
-
-#### Prompt
-
-```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: ศิลปะการต่อสู้ การต่อสู้ ฉาก
-```
-
-### No. 9: ฮิตช์ค็อก ซูม in ลิฟต์
-
-- **Category:** `การเคลื่อนไหวกล้องขั้นสูง`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/4be02035-a101-4c2c-bb20-c2fe59771de9.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/4be02035-a101-4c2c-bb20-c2fe59771de9.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/11)
-
-#### Description
-
-ฉากวิดีโอในธีม: ฮิตช์ค็อก ซูม in ลิฟต์
-
-#### Prompt
-
-```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: ฮิตช์ค็อก ซูม in ลิฟต์
-```
-
-### No. 10: เป็นจังหวะ เต้น ดัน-ดึง
-
-- **Category:** `การเคลื่อนไหวกล้องขั้นสูง`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/33ffc8e5-255c-46b2-8877-ad8a9100f6d4.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/33ffc8e5-255c-46b2-8877-ad8a9100f6d4.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/14)
-
-#### Description
-
-ฉากวิดีโอในธีม: เป็นจังหวะ เต้น ดัน-ดึง
-
-#### Prompt
-
-```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: เป็นจังหวะ เต้น ดัน-ดึง
-```
-
-### No. 11: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure
-
-- **Category:** `การเคลื่อนไหวกล้องขั้นสูง`
-- **Source:** `twitter`
-- **Author:** Min Choi (@minchoi)
-- **Language:** `th`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/52680ae8-705d-4b26-9d49-1b573ab4f56f.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/52680ae8-705d-4b26-9d49-1b573ab4f56f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/minchoi/status/2020878278475518152)
-
-#### Description
-
-Generate a 1-minute cinematic war video in 5 minutes with a multi-shot structure. Realistic Middle Eastern desert village infantry combat scene.
-
-#### Prompt
-
-```text
-Consistent style guideline for all shots: realistic cinematic war footage in a modern Middle Eastern desert village; dominant sandy yellow and gray-brown palette; harsh noon sunlight with hard shadows; drifting dust and gunpowder smoke; subtle handheld vibration; low-angle and ground-level framing to maximize tension and realism; modern light infantry gear without visible national identifiers; restrained, tense, and brutal atmosphere. Shot 1 : A modern infantry squad advances through narrow alleys between low adobe houses and damaged concrete walls. The camera tracks from behind at knee level, pushing forward as soldiers hug the walls and aim toward an unseen corner. Wind, distant metal clinks, and suspended dust establish dread. Shot 2 : A sudden close-quarters firefight erupts at the alley corner. Soldiers drop and press against the wall as rounds impact masonry, kicking up debris. Fast lateral camera pan with controlled shake, intermittent muzzle flashes, and silhouettes in broken windows increase claustrophobia and urgency. Shot 3 : The squad regains formation and enters a half-collapsed building. Over-shoulder follow shot into dim interior where shafts of sunlight cut through breached walls. Dust particles float in the beams; hand signals replace speech; distant gunfire echoes. Tone shifts from chaos to hyper-alert silence. Shot 4 : From a damaged rooftop, the squad secures a high vantage point over the village grid. Slow pullback in backlight, soldiers in silhouette with rifles still trained on unknown threats. Dust swirls in warm light; no clear victory or defeat. End on unresolved tension.
-```
-
-### No. 12: Ground Combat Shot of Soldiers Traversing Desert Terrain
-
-- **Category:** `การเคลื่อนไหวกล้องขั้นสูง`
-- **Source:** `twitter`
-- **Author:** Chetaslua (@chetaslua)
-- **Language:** `th`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/0d332613-93bc-4d5e-b4f8-6cacc05871ef.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/0d332613-93bc-4d5e-b4f8-6cacc05871ef.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/chetaslua)
-
-#### Description
-
-Tense first-person perspective of military squad advancing. Showcases realistic tactical movement and environmental details.
-
-#### Prompt
-
-```text
-Ground-level war footage with documentary realism: a soldier squad advances through a desert combat zone. Keep camera low and close to boots, gear sway, weapon details, and formation changes while moving over loose sand and debris. Harsh sunlight, visible heat haze, suspended dust, and distant intermittent gunfire should shape the atmosphere. Use controlled handheld movement with shallow depth of field, foreground clarity, and slight background softening. Color palette stays sandy beige and muted brown, emphasizing tactical discipline and persistent tension.
-```
-
-### No. 13: Multi-Shot Fight Scene Generated with Only 3 Reference Images and Simple Prompt
-
-- **Category:** `การเคลื่อนไหวกล้องขั้นสูง`
-- **Source:** `twitter`
-- **Author:** el.cine (@EHuanglu)
-- **Language:** `th`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e287a176-2ba0-4f64-ad86-ed779cd3d8d3.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e287a176-2ba0-4f64-ad86-ed779cd3d8d3.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/EHuanglu/status/2020828503810445785)
-
-#### Description
-
-Intense martial arts fight between two women in modern urban environment.
-
-#### Prompt
-
-```text
-A grounded martial arts duel between two women in a modern urban night setting. Build with clear shot variation: wide shot to establish spacing and intent, medium tracking shots for exchange tempo, close-up inserts for impact, breathing, and footwork. Include low-angle circling moves, over-shoulder counters, and quick lateral camera motions to preserve directional clarity. Movements must follow realistic weight transfer, momentum, and recovery. Use practical street lighting, neon reflections, slight wet pavement sheen, and gritty cinematic texture.
-```
-
-<a id="category-12"></a>
-
-### การตัดต่อและรีมิกซ์วิดีโอ (5)
-
-### No. 1: จริงจัง ธุรกิจ to ขนม ดีล
-
-- **Category:** `การตัดต่อและรีมิกซ์วิดีโอ`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/f11c41ac-ee4b-4f37-b569-d6a4725866b3.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/f11c41ac-ee4b-4f37-b569-d6a4725866b3.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/49)
-
-#### Description
-
-ฉากวิดีโอในธีม: จริงจัง ธุรกิจ to ขนม ดีล
-
-#### Prompt
-
-```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: จริงจัง ธุรกิจ to ขนม ดีล
-```
-
-### No. 2: ไก่ทอด แบรนด์ ผสานแบรนด์
-
-- **Category:** `การตัดต่อและรีมิกซ์วิดีโอ`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/af84d3d1-5659-49bd-a7a8-c2db96918415.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/af84d3d1-5659-49bd-a7a8-c2db96918415.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/52)
-
-#### Description
-
-ฉากวิดีโอในธีม: ไก่ทอด แบรนด์ ผสานแบรนด์
-
-#### Prompt
-
-```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: ไก่ทอด แบรนด์ ผสานแบรนด์
-```
-
-### No. 3: ไททานิก มืดหม่น หักมุม
-
-- **Category:** `การตัดต่อและรีมิกซ์วิดีโอ`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/19cb9c31-9a1e-4c2e-ae17-b03f6a88c20b.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/19cb9c31-9a1e-4c2e-ae17-b03f6a88c20b.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/48)
-
-#### Description
-
-ฉากวิดีโอในธีม: ไททานิก มืดหม่น หักมุม
-
-#### Prompt
-
-```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: ไททานิก มืดหม่น หักมุม
-```
-
-### No. 4: วงดนตรี นักร้อง เพศ สลับ
-
-- **Category:** `การตัดต่อและรีมิกซ์วิดีโอ`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d3c9e15c-37fa-4603-b5a7-7577a9652d2d.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d3c9e15c-37fa-4603-b5a7-7577a9652d2d.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/50)
-
-#### Description
-
-ฉากวิดีโอในธีม: วงดนตรี นักร้อง เพศ สลับ
-
-#### Prompt
-
-```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: วงดนตรี นักร้อง เพศ สลับ
-```
-
-### No. 5: ฉลาม โฟโตบอมบ์
-
-- **Category:** `การตัดต่อและรีมิกซ์วิดีโอ`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/06a8c86e-1b58-4088-8caa-25202eec77aa.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/06a8c86e-1b58-4088-8caa-25202eec77aa.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/51)
-
-#### Description
-
-ฉากวิดีโอในธีม: ฉลาม โฟโตบอมบ์
-
-#### Prompt
-
-```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: ฉลาม โฟโตบอมบ์
-```
-
-<a id="category-13"></a>
-
-### ความสม่ำเสมอของตัวละครและฉาก (6)
-
-### No. 1: โอเปรา เวที การแปลงร่าง
-
-- **Category:** `ความสม่ำเสมอของตัวละครและฉาก`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/fffd7fd2-9752-4226-bd04-84101f206938.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/fffd7fd2-9752-4226-bd04-84101f206938.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/6)
-
-#### Description
-
-ฉากวิดีโอในธีม: โอเปรา เวที การแปลงร่าง
-
-#### Prompt
-
-```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: โอเปรา เวที การแปลงร่าง
-```
-
-### No. 2: สยองขวัญ มุมมองบุคคลที่หนึ่ง สำรวจ
-
-- **Category:** `ความสม่ำเสมอของตัวละครและฉาก`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c4802cca-4ef9-4ba9-b8cc-ed5bdecb88e6.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/c4802cca-4ef9-4ba9-b8cc-ed5bdecb88e6.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/10)
-
-#### Description
-
-ฉากวิดีโอในธีม: สยองขวัญ มุมมองบุคคลที่หนึ่ง สำรวจ
-
-#### Prompt
-
-```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: สยองขวัญ มุมมองบุคคลที่หนึ่ง สำรวจ
-```
-
-### No. 3: เทคเดียว ไร้รอยต่อ ทรานซิชัน
-
-- **Category:** `ความสม่ำเสมอของตัวละครและฉาก`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/27a03978-e3c0-4750-9b0d-c1a802db8af6.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/27a03978-e3c0-4750-9b0d-c1a802db8af6.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/7)
-
-#### Description
-
-ฉากวิดีโอในธีม: เทคเดียว ไร้รอยต่อ ทรานซิชัน
-
-#### Prompt
-
-```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: เทคเดียว ไร้รอยต่อ ทรานซิชัน
-```
-
-### No. 4: หรูหรา กระเป๋าถือ โฆษณา
-
-- **Category:** `ความสม่ำเสมอของตัวละครและฉาก`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d62bd403-fcd1-4abd-8f23-c57063660ed0.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d62bd403-fcd1-4abd-8f23-c57063660ed0.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/9)
-
-#### Description
-
-ฉากวิดีโอในธีม: หรูหรา กระเป๋าถือ โฆษณา
-
-#### Prompt
-
-```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: หรูหรา กระเป๋าถือ โฆษณา
-```
-
-### No. 5: หลังเลิกงาน กลับบ้าน
-
-- **Category:** `ความสม่ำเสมอของตัวละครและฉาก`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d66a205c-4470-4d71-9122-2d0bf0694c9c.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d66a205c-4470-4d71-9122-2d0bf0694c9c.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/5)
-
-#### Description
-
-ฉากวิดีโอในธีม: หลังเลิกงาน กลับบ้าน
-
-#### Prompt
-
-```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: หลังเลิกงาน กลับบ้าน
-```
-
-### No. 6: แม่เหล็ก Bow สินค้า โชว์เคส
-
-- **Category:** `ความสม่ำเสมอของตัวละครและฉาก`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/74458d90-1c7a-487c-acc2-454558810520.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/74458d90-1c7a-487c-acc2-454558810520.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/8)
-
-#### Description
-
-ฉากวิดีโอในธีม: แม่เหล็ก Bow สินค้า โชว์เคส
-
-#### Prompt
-
-```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: แม่เหล็ก Bow สินค้า โชว์เคส
-```
-
-<a id="category-14"></a>
-
-### เอฟเฟกต์ภาพสร้างสรรค์ (11)
-
-### No. 1: เวทมนตร์ การแปลงร่าง ลำดับภาพ
-
-- **Category:** `เอฟเฟกต์ภาพสร้างสรรค์`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/af14ed46-358b-4202-a6d5-07cfcbcdff10.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/af14ed46-358b-4202-a6d5-07cfcbcdff10.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/22)
-
-#### Description
-
-ฉากวิดีโอในธีม: เวทมนตร์ การแปลงร่าง ลำดับภาพ
-
-#### Prompt
-
-```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: เวทมนตร์ การแปลงร่าง ลำดับภาพ
-```
-
-### No. 2: Otter Entering Giant Mecha Animation Scene with Detailed Mechanical Shots
-
-- **Category:** `เอฟเฟกต์ภาพสร้างสรรค์`
-- **Source:** `twitter`
-- **Author:** Andrey Kurenkov (@andrey_kurenkov)
-- **Language:** `th`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/8bc7ca8d-7344-4be7-ae6d-cd2701702b77.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/8bc7ca8d-7344-4be7-ae6d-cd2701702b77.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/andrey_kurenkov/status/2021435749401514131)
-
-#### Description
-
-Otter entering giant mecha animation scene with detailed mechanical shots. Demonstrates creative storytelling capabilities.
-
-#### Prompt
-
-```text
-Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant combat mech. Shot 1: wide hangar reveal with backlit mech silhouette, steam, and warning beacons. Shot 2: mechanical montage of gears rotating, hydraulics extending, power lines activating, and cockpit hatch unlocking. Shot 3: otter climbs into the cockpit, with close-ups on focused eyes and control gestures. Shot 4: hatch seals, HUD lights up, mech visor ignites, and otter gives a confident thumbs-up. Emphasize dense mechanical detail, coherent machine motion logic, and cinematic anime pacing.
-```
-
-### No. 3: เสื้อขนเป็ด หงส์ อุปมา
-
-- **Category:** `เอฟเฟกต์ภาพสร้างสรรค์`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d35cad32-b340-4394-b98d-8934aa6a1fc8.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d35cad32-b340-4394-b98d-8934aa6a1fc8.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/20)
-
-#### Description
-
-ฉากวิดีโอในธีม: เสื้อขนเป็ด หงส์ อุปมา
-
-#### Prompt
-
-```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: เสื้อขนเป็ด หงส์ อุปมา
-```
-
-### No. 4: Will Smith Eating Spaghetti
-
-- **Category:** `เอฟเฟกต์ภาพสร้างสรรค์`
-- **Source:** `twitter`
-- **Author:** levelsio (@levelsio)
-- **Language:** `th`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/eee95836-ac7d-4510-97f5-f6b1f2743aae.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/eee95836-ac7d-4510-97f5-f6b1f2743aae.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/levelsio/status/2021403820702552331)
-
-#### Description
-
-Will Smith eating spaghetti in a modern home kitchen.
-
-#### Prompt
-
-```text
-Photorealistic medium close shot of Will Smith eating spaghetti at a white kitchen island in a modern home kitchen. Background includes a centered stainless-steel refrigerator, white cabinets, and small countertop appliances, with natural daylight from a side window. He faces the camera in a plain black T-shirt, twirls and eats spaghetti naturally. Keep the camera mostly static with a subtle push-in. Preserve realistic hand motion, facial expression, food texture, and clean 24fps cinematic realism; avoid exaggerated deformation.
-```
-
-### No. 5: One Punch Man Animation Surpassing Original Quality
-
-- **Category:** `เอฟเฟกต์ภาพสร้างสรรค์`
-- **Source:** `twitter`
-- **Author:** Chetaslua (@chetaslua)
-- **Language:** `th`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/fada7cb9-0f74-43fc-ba6a-b98be8be7c16.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/fada7cb9-0f74-43fc-ba6a-b98be8be7c16.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/chetaslua)
-
-#### Description
-
-One Punch Man animation surpassing original quality. Demonstrates Seedance 2.0's animation production capabilities.
-
-#### Prompt
-
-```text
-Produce a premium anime battle sequence inspired by One Punch Man energy and staging. Require fluid high-frame animation, strong speed lines, impact frames, dramatic lens pulls, and explosive effect timing. Use progression: wide battlefield setup, mid-range combat exchanges, close-up finishing blow, then debris and dust settle. Background destruction should include cracking structures, flying fragments, smoke layers, and shockwave distortion. Character silhouettes remain crisp through motion blur, with strong light-shadow separation and theatrical composition.
-```
-
-### No. 6: VR แว่น จักรวาล การเดินทาง
-
-- **Category:** `เอฟเฟกต์ภาพสร้างสรรค์`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/dddb1fb2-d73a-4b6a-a2bf-bf416be652c6.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/dddb1fb2-d73a-4b6a-a2bf-bf416be652c6.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/18)
-
-#### Description
-
-ฉากวิดีโอในธีม: VR แว่น จักรวาล การเดินทาง
-
-#### Prompt
-
-```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: VR แว่น จักรวาล การเดินทาง
-```
-
-### No. 7: นามธรรม บะหมี่กึ่งสำเร็จรูป
-
-- **Category:** `เอฟเฟกต์ภาพสร้างสรรค์`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/2665a1ba-4ae8-474e-ba72-a2bf94326054.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/2665a1ba-4ae8-474e-ba72-a2bf94326054.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/25)
-
-#### Description
-
-ฉากวิดีโอในธีม: นามธรรม บะหมี่กึ่งสำเร็จรูป
-
-#### Prompt
-
-```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: นามธรรม บะหมี่กึ่งสำเร็จรูป
-```
-
-### No. 8: แฟชั่น เปลี่ยนชุดเร็ว โฆษณา
-
-- **Category:** `เอฟเฟกต์ภาพสร้างสรรค์`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/781e9493-6578-4aba-9d21-44aff3a7d555.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/781e9493-6578-4aba-9d21-44aff3a7d555.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/19)
-
-#### Description
-
-ฉากวิดีโอในธีม: แฟชั่น เปลี่ยนชุดเร็ว โฆษณา
-
-#### Prompt
-
-```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: แฟชั่น เปลี่ยนชุดเร็ว โฆษณา
-```
-
-### No. 9: ชิ้นพัซเซิล ทรานซิชัน โลโก้
-
-- **Category:** `เอฟเฟกต์ภาพสร้างสรรค์`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d8aab6d9-e006-4012-aa41-55ad02a41572.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d8aab6d9-e006-4012-aa41-55ad02a41572.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/23)
-
-#### Description
-
-ฉากวิดีโอในธีม: ชิ้นพัซเซิล ทรานซิชัน โลโก้
-
-#### Prompt
-
-```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: ชิ้นพัซเซิล ทรานซิชัน โลโก้
-```
-
-### No. 10: สีทอง อนุภาค ไตเติล เผยโฉม
-
-- **Category:** `เอฟเฟกต์ภาพสร้างสรรค์`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/3854856c-478d-40f1-8534-cb240e6a1706.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/3854856c-478d-40f1-8534-cb240e6a1706.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/24)
-
-#### Description
-
-ฉากวิดีโอในธีม: สีทอง อนุภาค ไตเติล เผยโฉม
-
-#### Prompt
-
-```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: สีทอง อนุภาค ไตเติล เผยโฉม
-```
-
-### No. 11: หมึกจีน ไทเก๊ก
-
-- **Category:** `เอฟเฟกต์ภาพสร้างสรรค์`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/210c571d-e67f-4bbc-819b-f91bd8925c7b.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/210c571d-e67f-4bbc-819b-f91bd8925c7b.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/21)
-
-#### Description
-
-ฉากวิดีโอในธีม: หมึกจีน ไทเก๊ก
-
-#### Prompt
-
-```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: หมึกจีน ไทเก๊ก
-```
-
-<a id="category-15"></a>
-
-### การสร้างวิดีโอสมจริงขั้นสูง (5)
-
-### No. 1: ไล่ล่า ฉาก with สิ่งกีดขวาง
-
-- **Category:** `การสร้างวิดีโอสมจริงขั้นสูง`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/97438ef1-9ee8-4b6f-b064-05e1a0216c33.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/97438ef1-9ee8-4b6f-b064-05e1a0216c33.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/4)
-
-#### Description
-
-ฉากวิดีโอในธีม: ไล่ล่า ฉาก with สิ่งกีดขวาง
-
-#### Prompt
-
-```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: ไล่ล่า ฉาก with สิ่งกีดขวาง
-```
-
-### No. 2: ยุควิกตอเรียน ถนน ฉาก
-
-- **Category:** `การสร้างวิดีโอสมจริงขั้นสูง`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/b0409f93-9857-4465-9a2d-50a30937a9db.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/b0409f93-9857-4465-9a2d-50a30937a9db.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/3)
-
-#### Description
-
-ฉากวิดีโอในธีม: ยุควิกตอเรียน ถนน ฉาก
-
-#### Prompt
-
-```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: ยุควิกตอเรียน ถนน ฉาก
-```
-
-### No. 3: Will Smith Eating Spaghetti
-
-- **Category:** `การสร้างวิดีโอสมจริงขั้นสูง`
-- **Source:** `twitter`
-- **Author:** levelsio (@levelsio)
-- **Language:** `th`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e55ed973-0bcf-4d50-8b5d-3a831e7e9d68.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e55ed973-0bcf-4d50-8b5d-3a831e7e9d68.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/levelsio/status/2021403820702552331)
-
-#### Description
-
-Will Smith eating spaghetti in a modern home kitchen.
-
-#### Prompt
-
-```text
-Photorealistic medium close shot of Will Smith eating spaghetti at a white kitchen island in a modern home kitchen. Background includes a centered stainless-steel refrigerator, white cabinets, and small countertop appliances, with natural daylight from a side window. He faces the camera in a plain black T-shirt, twirls and eats spaghetti naturally. Keep the camera mostly static with a subtle push-in. Preserve realistic hand motion, facial expression, food texture, and clean 24fps cinematic realism; avoid exaggerated deformation.
-```
-
-### No. 4: อินเทอร์แอกทีฟ ภาพวาด ตัวละคร
-
-- **Category:** `การสร้างวิดีโอสมจริงขั้นสูง`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d6e3a17d-f4a7-49e3-850c-2cfc68b4a6a4.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d6e3a17d-f4a7-49e3-850c-2cfc68b4a6a4.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/2)
-
-#### Description
-
-ฉากวิดีโอในธีม: อินเทอร์แอกทีฟ ภาพวาด ตัวละคร
-
-#### Prompt
-
-```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: อินเทอร์แอกทีฟ ภาพวาด ตัวละคร
-```
-
-### No. 5: สง่างาม ซักผ้า ฉาก
-
-- **Category:** `การสร้างวิดีโอสมจริงขั้นสูง`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/b6b7f78a-f9a7-4c09-a3ac-6f0f694b1263.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/b6b7f78a-f9a7-4c09-a3ac-6f0f694b1263.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/1)
-
-#### Description
-
-ฉากวิดีโอในธีม: สง่างาม ซักผ้า ฉาก
-
-#### Prompt
-
-```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: สง่างาม ซักผ้า ฉาก
-```
-
-<a id="category-16"></a>
-
-### การแสดงอารมณ์ (3)
-
-### No. 1: ดราม่าtic คำราม โคลสอัป
-
-- **Category:** `การแสดงอารมณ์`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/1b870eee-b748-48a7-84b6-cd56e0c925f9.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/1b870eee-b748-48a7-84b6-cd56e0c925f9.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/59)
-
-#### Description
-
-ฉากวิดีโอในธีม: ดราม่าtic คำราม โคลสอัป
-
-#### Prompt
-
-```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: ดราม่าtic คำราม โคลสอัป
-```
-
-### No. 2: ทำอาหาร ความต่าง คอมเมดี้
-
-- **Category:** `การแสดงอารมณ์`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/a9a3d3ad-2aec-4a14-8bb5-2ca7736e09ae.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/a9a3d3ad-2aec-4a14-8bb5-2ca7736e09ae.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/58)
-
-#### Description
-
-ฉากวิดีโอในธีม: ทำอาหาร ความต่าง คอมเมดี้
-
-#### Prompt
-
-```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: ทำอาหาร ความต่าง คอมเมดี้
-```
-
-### No. 3: กระจก แตกสลาย
-
-- **Category:** `การแสดงอารมณ์`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/095be254-151d-4149-b50a-ad054c154758.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/095be254-151d-4149-b50a-ad054c154758.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/57)
-
-#### Description
-
-ฉากวิดีโอในธีม: กระจก แตกสลาย
-
-#### Prompt
-
-```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: กระจก แตกสลาย
-```
-
-<a id="category-17"></a>
-
-### การพัฒนาและต่อยอดเรื่องราว (8)
-
-### No. 1: ฟิตเนส แรงบันดาลใจ โฆษณา
-
-- **Category:** `การพัฒนาและต่อยอดเรื่องราว`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/65689cf8-c5c9-4624-9136-adac7bc3cc10.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/65689cf8-c5c9-4624-9136-adac7bc3cc10.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/30)
-
-#### Description
-
-ฉากวิดีโอในธีม: ฟิตเนส แรงบันดาลใจ โฆษณา
-
-#### Prompt
-
-```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: ฟิตเนส แรงบันดาลใจ โฆษณา
-```
-
-### No. 2: อารมณ์ การเดินทาง วิดีโอ
-
-- **Category:** `การพัฒนาและต่อยอดเรื่องราว`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/0ae0f676-8f49-4b97-88d2-4afaaa5e5424.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/0ae0f676-8f49-4b97-88d2-4afaaa5e5424.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/28)
-
-#### Description
-
-ฉากวิดีโอในธีม: อารมณ์ การเดินทาง วิดีโอ
-
-#### Prompt
-
-```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: อารมณ์ การเดินทาง วิดีโอ
-```
-
-### No. 3: กาแฟ เช้า แคมเปญ
-
-- **Category:** `การพัฒนาและต่อยอดเรื่องราว`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/94fc9706-187d-4667-a8e4-62692cb256dd.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/94fc9706-187d-4667-a8e4-62692cb256dd.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/31)
-
-#### Description
-
-ฉากวิดีโอในธีม: กาแฟ เช้า แคมเปญ
-
-#### Prompt
-
-```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: กาแฟ เช้า แคมเปญ
-```
-
-### No. 4: ลา มอเตอร์ไซค์ สตันต์ โฆษณา
-
-- **Category:** `การพัฒนาและต่อยอดเรื่องราว`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/67c79521-0cb4-498f-bd74-e0ed9aab81e8.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/67c79521-0cb4-498f-bd74-e0ed9aab81e8.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/29)
-
-#### Description
-
-ฉากวิดีโอในธีม: ลา มอเตอร์ไซค์ สตันต์ โฆษณา
-
-#### Prompt
-
-```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: ลา มอเตอร์ไซค์ สตันต์ โฆษณา
-```
-
-### No. 5: คอมิก ช่องภาพ แอนิเมชัน
-
-- **Category:** `การพัฒนาและต่อยอดเรื่องราว`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c939610e-a182-40ad-89a5-254c1515ac24.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/c939610e-a182-40ad-89a5-254c1515ac24.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/26)
-
-#### Description
-
-ฉากวิดีโอในธีม: คอมิก ช่องภาพ แอนิเมชัน
-
-#### Prompt
-
-```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: คอมิก ช่องภาพ แอนิเมชัน
-```
-
-### No. 6: ทานตะวัน สเกตบอร์ด เรื่องราว
-
-- **Category:** `การพัฒนาและต่อยอดเรื่องราว`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/30e27ffa-53bc-4655-b405-d017c699ed87.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/30e27ffa-53bc-4655-b405-d017c699ed87.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/32)
-
-#### Description
-
-ฉากวิดีโอในธีม: ทานตะวัน สเกตบอร์ด เรื่องราว
-
-#### Prompt
-
-```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: ทานตะวัน สเกตบอร์ด เรื่องราว
-```
-
-### No. 7: Quick Test of Female Controlling Plane in Complex Action Scene
-
-- **Category:** `การพัฒนาและต่อยอดเรื่องราว`
-- **Source:** `twitter`
-- **Author:** Janek Mann (@janekm)
-- **Language:** `th`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/dc27ff9d-d357-423c-88b8-65e4646c5659.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/dc27ff9d-d357-423c-88b8-65e4646c5659.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/janekm/status/2020388244802740728)
-
-#### Description
-
-Woman suddenly realizes pilot has disappeared and controls the plane in crisis.
-
-#### Prompt
-
-```text
-Create a high-pressure disaster-action sequence: during turbulent flight, a woman rushes toward the cockpit and discovers both pilots are gone. Shot 1: handheld tracking through a chaotic cabin with panicked passengers, swinging oxygen masks, and flashing emergency lights. Shot 2: cockpit close-up montage of shaking controls, warning indicators, and her focused expression as she takes command. Shot 3: exterior wide shot of the aircraft dipping through heavy clouds before recovery. Shot 4: back inside the cockpit, she stabilizes the plane with determined, precise movements. Keep pace fast, stakes clear, and editing tight.
-```
-
-### No. 8: วัยเด็ก ฤดูกาล สารคดี
-
-- **Category:** `การพัฒนาและต่อยอดเรื่องราว`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/41aab229-bca0-4387-a4b1-08e88dde89a2.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/41aab229-bca0-4387-a4b1-08e88dde89a2.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/27)
-
-#### Description
-
-ฉากวิดีโอในธีม: วัยเด็ก ฤดูกาล สารคดี
-
-#### Prompt
-
-```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: วัยเด็ก ฤดูกาล สารคดี
-```
-
-<a id="category-18"></a>
-
-### การซิงก์ดนตรี (4)
-
-### No. 1: อนิเมะ หมากรุก ศึก สตอรี่บอร์ด
-
-- **Category:** `การซิงก์ดนตรี`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/efe4a014-a97b-4f4b-baa6-77d477b7024f.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/efe4a014-a97b-4f4b-baa6-77d477b7024f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/56)
-
-#### Description
-
-ฉากวิดีโอในธีม: อนิเมะ หมากรุก ศึก สตอรี่บอร์ด
-
-#### Prompt
-
-```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: อนิเมะ หมากรุก ศึก สตอรี่บอร์ด
-```
-
-### No. 2: แฟชั่น ดรอปบีต
-
-- **Category:** `การซิงก์ดนตรี`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/5ae0578e-e6c8-4ff1-a03a-e19b5ac2f5c1.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/5ae0578e-e6c8-4ff1-a03a-e19b5ac2f5c1.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/53)
-
-#### Description
-
-ฉากวิดีโอในธีม: แฟชั่น ดรอปบีต
-
-#### Prompt
-
-```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: แฟชั่น ดรอปบีต
-```
-
-### No. 3: ไดนามิก ภาพบุคคล บีต ซิงก์
-
-- **Category:** `การซิงก์ดนตรี`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/11a4251f-cb41-41b1-b6a7-8ac19d340956.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/11a4251f-cb41-41b1-b6a7-8ac19d340956.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/54)
-
-#### Description
-
-ฉากวิดีโอในธีม: ไดนามิก ภาพบุคคล บีต ซิงก์
-
-#### Prompt
-
-```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: ไดนามิก ภาพบุคคล บีต ซิงก์
-```
-
-### No. 4: ภูมิทัศน์ ทรานซิชัน ดนตรี วิดีโอ
-
-- **Category:** `การซิงก์ดนตรี`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/6b0fbeb4-51df-4094-8252-d2dfb8631776.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/6b0fbeb4-51df-4094-8252-d2dfb8631776.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/55)
-
-#### Description
-
-ฉากวิดีโอในธีม: ภูมิทัศน์ ทรานซิชัน ดนตรี วิดีโอ
-
-#### Prompt
-
-```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: ภูมิทัศน์ ทรานซิชัน ดนตรี วิดีโอ
-```
-
-<a id="category-19"></a>
-
-### ภาพยนตร์เทคเดียว (5)
-
-### No. 1: รถไฟเหาะ POV
-
-- **Category:** `ภาพยนตร์เทคเดียว`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/fabf98a8-432c-479a-bcd3-3736677190b2.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/fabf98a8-432c-479a-bcd3-3736677190b2.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/47)
-
-#### Description
-
-ฉากวิดีโอในธีม: รถไฟเหาะ POV
-
-#### Prompt
-
-```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: รถไฟเหาะ POV
-```
-
-### No. 2: อบอุ่น เคบิน เวลาน้ำชา
-
-- **Category:** `ภาพยนตร์เทคเดียว`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d1d1c955-c271-44ba-bd3e-1537e33a2e29.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d1d1c955-c271-44ba-bd3e-1537e33a2e29.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/46)
-
-#### Description
-
-ฉากวิดีโอในธีม: อบอุ่น เคบิน เวลาน้ำชา
-
-#### Prompt
-
-```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: อบอุ่น เคบิน เวลาน้ำชา
-```
-
-### No. 3: สายลับ ทริลเลอร์ ติดตาม
-
-- **Category:** `ภาพยนตร์เทคเดียว`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/873ead10-156a-4f5f-aafc-1a0a743c3ef7.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/873ead10-156a-4f5f-aafc-1a0a743c3ef7.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/45)
-
-#### Description
-
-ฉากวิดีโอในธีม: สายลับ ทริลเลอร์ ติดตาม
-
-#### Prompt
-
-```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: สายลับ ทริลเลอร์ ติดตาม
-```
-
-### No. 4: เครื่องบิน หน้าต่าง ไอศกรีม ความฝัน
-
-- **Category:** `ภาพยนตร์เทคเดียว`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/3421ca69-533f-4ef7-aef2-2aabad3d53fe.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/3421ca69-533f-4ef7-aef2-2aabad3d53fe.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/44)
-
-#### Description
-
-ฉากวิดีโอในธีม: เครื่องบิน หน้าต่าง ไอศกรีม ความฝัน
-
-#### Prompt
-
-```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: เครื่องบิน หน้าต่าง ไอศกรีม ความฝัน
-```
-
-### No. 5: ปาร์กัวร์ ไล่ล่า ลำดับภาพ
-
-- **Category:** `ภาพยนตร์เทคเดียว`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `th`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c8b0a7bb-eae5-417f-bf63-e3a114a1364f.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/c8b0a7bb-eae5-417f-bf63-e3a114a1364f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/43)
-
-#### Description
-
-ฉากวิดีโอในธีม: ปาร์กัวร์ ไล่ล่า ลำดับภาพ
-
-#### Prompt
-
-```text
-สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: ปาร์กัวร์ ไล่ล่า ลำดับภาพ
+[ชายเมาผวาบนดาดฟ้า — ร่วงตกจากขอบ — คว้าเชือกผ่านหน้าต่าง — สลบคาที่ | หนังสั้นตลกร้าย | ประมาณ 30 วินาที] เรื่องย่อหนึ่งบรรทัด: ชายวัยกลางคนอ้วนน่ารักเมา ๆ กำลังกินเบอร์เกอร์และดื่มเบียร์บนดาดฟ้าของอาคาร ขณะลุกขึ้นยืดเส้นยืดสายเขาพลาดเสียหลักและร่วงตก ในความตื่นตระหนกเขาคว้าเชือกชูชีพไว้ได้แล้วพุ่งทะลุหน้าต่างเข้าไปในห้องทันที มึนงงตะลึงหนึ่งวินาที จากนั้นก็ล้มตัวลงนอนตรงนั้นแล้วหลับสนิท ภาพอ้างอิง @image1 — ชายวัยกลางคนอ้วนน่ารักเมา ๆ: รูปร่างกลมล่ำสันมีพุงเบียร์กลมโต ตัวเตี้ย เคลื่อนไหวเชื่องช้าย้วยเยกและโซเซจากฤทธิ์สุรา ใบหน้ากลม คางสองชั้น แก้มและจมูกแดงเรื่อจากการดื่ม ตาหรี่เป็นเส้นด้วยสายตาปรือ ๆ หนวดเคราสั้นขึ้นรุงรังไม่ได้โกน ผมยุ่ง สีหน้าซื่อ ๆ น่ารัก ไร้กังวล สวมเสื้อกล้ามสีขาวเปื้อนซอสเบอร์เกอร์ห้อยหลวม ๆ คลุมพุงกลม กางเกงยีนส์เก่า ลากรองเท้าแตะหลวม ๆ เดินต้วมเตี้ยม มือกำเบอร์เกอร์ที่กินไปครึ่งลูกอยู่เสมอ ทั้งเรื่องมีตัวละครเพียงคนนี้คนเดียว ตรงกับภาพอ้างอิง 100% ลุคโดยรวม: มหานครไซเบอร์พังก์ยามค่ำคืน ป่าตึกระฟ้ากระจกและเหล็กหนาแน่น ป้ายนีออน (ฟ้าครามอมเขียว/ม่วงแดง/น้ำเงินสดใส) ป้ายโฆษณาโฮโลแกรม พื้นเปียกสะท้อนแสง หมอกหนา แสงไฟรถบินและโดรนเป็นทางในระยะไกล เท็กซ์เจอร์แบบถ่ายจริง เลนส์ภาพยนตร์จริง ไม่มีความรู้สึกแบบเรนเดอร์ 3D/เกมเอนจิน/อนิเมะ กล้องผสมระหว่างแฮนด์เฮลด์กับจิบ/โดรน หลังจากการร่วงตก กล้องดิ่งลงไปพร้อมกับเขาขณะที่ผนังภายนอกอาคารและนีออนพุ่งขึ้นเพื่อสื่อความเร็ว เท็กซ์เจอร์เลนส์ภาพยนตร์จอกว้าง 24-35mm โมชันเบลอชัตเตอร์ 180 องศา การออกแบบเสียงคือหัวใจของความตลกร้าย: ตัดฉับซ้ำ ๆ ระหว่าง "เสียงกึกก้อง" กับ "ความเงียบสนิท" คงแรงโน้มถ่วงจริงตลอดทั้งเรื่อง สตอรีบอร์ด (ประมาณ 30 วินาที): S1 (0-4s) เปิดด้วยโคลสอัปใหญ่ตอนเคี้ยว (มีเสียง) ใบหน้าของชายเต็มจอ เคี้ยวเบอร์เกอร์คำโต ๆ ในสภาพเมาที่พึงพอใจ S2 (4-9s) ถอยไปเป็นภาพกว้าง ยืดเส้น -> เสียหลักและร่วงตก (มีเสียง) เขาลุกขึ้นยืนอย่างโซเซและยืดเส้นเต็มที่ เอนไปข้างหลัง ทรงตัวไม่อยู่ เท้าลื่นและตีลังกาถอยหลังข้ามขอบดาดฟ้าไป โดยไม่ปล่อยเบอร์เกอร์เลย พร้อมเสียงตกใจ "เอ๊ะ——!" S3 (9-12s) ตัดไปที่โคลสอัปใบหน้าที่ตกใจ (เสียงกรีดร้องดัง เสียงกึกก้อง) ดวงตาเมากลมโปน คางสองชั้นย่นเป็นก้อน ปากอ้ากว้างกรีดร้อง "อ๊าา——!!" ลมหวีดหวิว S4 (12-16s) ตัดไปที่ภาพลองช็อตระดับสายตา (เงียบสนิท) มองจากอาคารฝั่งตรงข้าม ร่างสีขาวเล็กจิ๋วดิ่งลงตรง ๆ จากตึกสูง เมืองนีออนกว้างใหญ่และเฉยเมย ความเงียบสนิทก่อเกิดความคอนทราสต์แบบตลกร้ายกับเสียงกึกก้องเมื่อวินาทีก่อน S5 (16-21s) ตัดไปที่โคลสอัปใบหน้า (กรีดร้อง) -> คว้าเชือก ยังคงกรีดร้อง สองมือฟาดฟันในอากาศ จู่ ๆ เขาก็คว้าสายเคเบิลชูชีพไว้ได้ สายเคเบิลตึงเปรี๊ยะและโค้งงอใต้น้ำหนักของเขาพร้อมเสียงดีดสะบัด เสียงกรีดร้องขาดหายไปทันทีขณะเขาถูกกระชากและเหวี่ยงออก (สโลว์โมชันสั้น ๆ ในจังหวะที่เขาคว้าเชือก) S6 (21-26s) ตัดไปที่มุมภายในห้อง (เงียบ) -> กระจกแตก -> เขาพุ่งเข้ามา ภายในห้องแรกเริ่มเงียบมีเพียงเสียงหึ่งของเครื่องปรับอากาศ วินาทีถัดมากระจกระเบิดแตกเข้าด้านใน (บูลเลตไทม์สั้น ๆ) ขณะชายเมาพร้อมเบอร์เกอร์พุ่งทะลุหน้าต่างเข้ามา เศษกระจกกระเด็นออกเป็นรัศมี แสงนีออนสาดเข้ามา และเขากระแทกลงในห้องอย่างหนักลงบนพื้น/โซฟา เศษกระจกดังกรุ๊งกริ๊ง S7 (26-30s) ตอนจบ ตกใจหนึ่งวินาที -> หลับไป ชายนอนแผ่หราบนพื้นเกลื่อนเศษกระจก ยังกำเบอร์เกอร์ไว้ ค่อย ๆ ลืมตาขึ้น มึนงง ตะลึงเหม่อลอยเต็มหนึ่งวินาที มองไปรอบ ๆ ราวกับคิดว่า "ฉันอยู่ที่ไหน?" จากนั้นฤทธิ์สุราก็เข้าครอบงำ และไม่แยแสอะไรเลย เขาเลียริมฝีปาก กอดเบอร์เกอร์เข้าอก พลิกตัว ล้มตัวลงนอนตรงนั้นแล้วหลับสนิท ถึงขั้นกรนเบา ๆ กล้องถอยออกและหยุดนิ่ง ตัดฉับเป็นจอดำ ใช้เสียงสดในสถานที่จริงเท่านั้น ไม่มีดนตรี ไม่มีซับไตเติล หัวใจคือการตัดฉับซ้ำ ๆ ระหว่าง "เสียงกึกก้อง" กับ "ความเงียบ"
 ```
 
 ## Local Usage
@@ -2655,4 +644,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-07-21T04:39:05.279Z
+> This README is auto-generated. 2026-07-21T07:52:08.402Z

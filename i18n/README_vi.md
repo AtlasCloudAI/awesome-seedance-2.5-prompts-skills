@@ -4,7 +4,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedance-2.5-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-105%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-11%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 > A curated collection of Seedance 2.5 video prompts — each with real previews via Atlas Cloud. 30s native clips · 50 multimodal references · flexible region editing. Cinematic, anime, UGC, ads, meme & more.
 
@@ -68,38 +68,27 @@ Seedance 2.5 is a major upgrade to Seedance 2.0 with three big gains: 30-second 
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **105** |
-| Categories | **19** |
-| Preview Videos | **99** |
-| Last Updated | **2026-07-21T04:39:05.280Z** |
+| Total Prompts | **11** |
+| Categories | **8** |
+| Preview Videos | **11** |
+| Last Updated | **2026-07-21T07:52:08.403Z** |
 
 ## 🏷️ Browse by Category
 
-- [`Match-Cut & Creative Effects`](#category-1): **1**
-- [`One-Take Cinematography`](#category-2): **1**
-- [`Multi-Image Reference`](#category-3): **3**
-- [`Video Editing`](#category-4): **2**
-- [`Reference-Guided Tutorial`](#category-5): **1**
-- [`Multimodal Reference (image+video)`](#category-6): **1**
-- [`Image Reference`](#category-7): **1**
-- [`Image Reference (Cinematic)`](#category-8): **1**
-- [`Twitter Community`](#category-9): **24**
-- [`Âm thanh & tổng hợp giọng nói`](#category-10): **10**
-- [`Chuyển động camera nâng cao`](#category-11): **13**
-- [`Chỉnh sửa & remix video`](#category-12): **5**
-- [`Nhất quán nhân vật & bối cảnh`](#category-13): **6**
-- [`Hiệu ứng hình ảnh sáng tạo`](#category-14): **11**
-- [`Tạo video siêu chân thực`](#category-15): **5**
-- [`Biểu đạt cảm xúc`](#category-16): **3**
-- [`Phát triển & mở rộng câu chuyện`](#category-17): **8**
-- [`Đồng bộ âm nhạc`](#category-18): **4**
-- [`Điện ảnh one-take`](#category-19): **5**
+- [`Match-Cut & Hiệu ứng sáng tạo`](#category-1): **1**
+- [`Quay một cú máy liên tục`](#category-2): **1**
+- [`Tham chiếu nhiều ảnh`](#category-3): **3**
+- [`Chỉnh sửa video`](#category-4): **2**
+- [`Hướng dẫn theo ảnh tham chiếu`](#category-5): **1**
+- [`Tham chiếu đa phương thức (ảnh+video)`](#category-6): **1**
+- [`Tham chiếu ảnh`](#category-7): **1**
+- [`Tham chiếu ảnh (Điện ảnh)`](#category-8): **1**
 
 ## 🔥 Featured Prompts
 
-### No. 1: Crystal Ball Match-Cut Beat Film
+### No. 1: Phim Match-Cut Quả Cầu Pha Lê Theo Nhịp
 
-- **Category:** `Match-Cut & Creative Effects`
+- **Category:** `Match-Cut & Hiệu ứng sáng tạo`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `vi`
@@ -110,17 +99,17 @@ Seedance 2.5 is a major upgrade to Seedance 2.0 with three big gains: 30-second 
 
 #### Description
 
-A beat-synced match-cut film: one crystal ball etched with a glowing 'seedance' logo stays centered while eight scenes cut seamlessly behind it.
+Một bộ phim match-cut đồng bộ theo nhịp: một quả cầu pha lê khắc logo 'seedance' phát sáng luôn nằm chính giữa trong khi tám cảnh phía sau chuyển tiếp liền mạch.
 
 #### Prompt
 
 ```text
-A fast-paced, cinematic Match-cut short film synced to a driving electronic beat. A flawless crystal ball stays fixed dead-center throughout, a glowing "seedance" logo etched inside it. The ball holds razor-sharp focus while, on every strong musical beat, the background match-cuts seamlessly: Scene 1: macro close-up, cinematic water splashing around the ball, refracting intricate light. Scene 2: a vintage morning cafe, the ball on a raw-wood table, rising coffee steam and blurred commuters beyond the window. Scene 3: golden-hour dusk, a skater youth tosses and catches the ball one-handed, street racing backward behind them in gorgeous backlit sunset. Scene 4: a frenzied music festival, hands raise the ball high, refracting dazzling stage lasers. Scene 5: a lively family party table, the ball resting center-frame, blurred figures toasting and reaching for food. Scene 6: a dim cinema, hands cupping the ball as the giant screen's faint glow drifts across its surface. Scene 7: the ball on a violently vibrating speaker diaphragm, match-cutting on the climax to a spinning DJ turntable center. Scene 8: an outdoor camping night, background becoming warm bonfire and swaying string-light bokeh. Finale: on the final downbeat the ball is hurled up out of frame; cut to pure black, a minimal white-on-black "seedance" appearing dead-center. Beat-synced match-cut editing, top-tier cinematic color grading, photoreal glass refraction, ray tracing, global illumination. Subject razor-sharp, background heavy motion blur.
+Một phim ngắn match-cut mang phong cách điện ảnh, nhịp độ nhanh, đồng bộ với một nhịp electronic dồn dập. Một quả cầu pha lê hoàn hảo luôn cố định ngay chính giữa suốt cả phim, bên trong khắc logo "seedance" phát sáng. Quả cầu giữ độ nét sắc như dao, trong khi cứ mỗi nhịp nhạc mạnh, hậu cảnh lại match-cut liền mạch: Scene 1: cận cảnh macro, nước bắn tung quanh quả cầu đầy chất điện ảnh, khúc xạ ánh sáng tinh xảo. Scene 2: một quán cà phê buổi sáng phong cách vintage, quả cầu đặt trên bàn gỗ mộc, hơi cà phê bốc lên và những người đi làm mờ nhòe bên ngoài cửa sổ. Scene 3: hoàng hôn giờ vàng, một thanh niên chơi ván trượt tung rồi bắt quả cầu bằng một tay, con phố lao ngược về phía sau trong ánh nắng ngược tuyệt đẹp. Scene 4: một lễ hội âm nhạc cuồng nhiệt, những bàn tay nâng quả cầu lên cao, khúc xạ ánh laser sân khấu chói lóa. Scene 5: một bàn tiệc gia đình rộn ràng, quả cầu đặt giữa khung hình, những bóng người mờ nhòe nâng ly và với tay lấy đồ ăn. Scene 6: một rạp chiếu phim tối mờ, đôi tay khum lấy quả cầu khi ánh sáng mờ nhạt từ màn hình khổng lồ lướt qua bề mặt của nó. Scene 7: quả cầu trên màng loa đang rung dữ dội, match-cut vào cao trào tới một bàn xoay DJ đang quay tít ở chính giữa. Scene 8: một đêm cắm trại ngoài trời, hậu cảnh biến thành ánh lửa trại ấm áp và bokeh dây đèn đung đưa. Cao trào kết: vào nhịp mạnh cuối cùng, quả cầu bị tung lên khỏi khung hình; cắt sang màn đen tuyền, dòng chữ "seedance" trắng trên nền đen tối giản hiện ra ngay chính giữa. Dựng match-cut đồng bộ theo nhịp, chỉnh màu điện ảnh đỉnh cao, khúc xạ thủy tinh chân thực như ảnh chụp, ray tracing, global illumination. Chủ thể sắc như dao, hậu cảnh nhòe chuyển động mạnh.
 ```
 
-### No. 2: Steampunk Clockwork — 30s One-Take
+### No. 2: Cơ Cấu Đồng Hồ Steampunk — Một Cú Máy 30 Giây
 
-- **Category:** `One-Take Cinematography`
+- **Category:** `Quay một cú máy liên tục`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `vi`
@@ -131,17 +120,17 @@ A fast-paced, cinematic Match-cut short film synced to a driving electronic beat
 
 #### Description
 
-A 30-second steampunk miniature 3D sequence with continuous orbiting, pass-through camera moves.
+Một chuỗi 3D mô hình thu nhỏ phong cách steampunk dài 30 giây với chuyển động máy quay xoay quanh và xuyên qua liên tục.
 
 #### Prompt
 
 ```text
-A high-end, deeply cinematic 30-second 3D motion-graphics sequence in refined steampunk and vintage-miniature style, with continuous fluid orbiting and pass-through camera moves. [0-10s] Macro close-up of an antique brass clock face that unfolds layer by layer into meshing rotating gear rings and volumetric fog. The camera pierces down through the gears; a mechanical ornithopter spirals up from a miniature canyon of stacked weathered old books. [10-20s] The camera glides forward tracking the ornithopter, seamlessly passing into a fast-spinning ornate brass zoetrope projecting galloping mechanical-horse light. The light leaps out and the scene becomes a brass floating cable car on glimmering copper rails through a forest of gears, bathed in cinematic golden-hour light. [20-30s] The camera pans elegantly down; below appears an exquisite clockwork wooden sailing ship cutting deep-blue glass-textured waves, which morph into a glowing giant moon with lantern-holding explorer silhouettes trekking a crystal-vein ridge under stars. The camera spirals smoothly back through ethereal clouds to the ticking brass clock face. Hyper-real mechanical textures, rich brass and gold tones, cinematic shallow depth of field, smooth seamless pass-through camerawork, epic fantastical adventure atmosphere.
+Một chuỗi motion-graphics 3D cao cấp, đậm chất điện ảnh, dài 30 giây theo phong cách steampunk tinh tế và mô hình thu nhỏ vintage, với chuyển động máy quay xoay quanh mượt mà và xuyên qua liên tục. [0-10s] Cận cảnh macro mặt đồng hồ đồng thau cổ, dần dần bung ra từng lớp thành các vòng bánh răng xoay ăn khớp và làn sương thể tích. Máy quay xuyên xuống qua các bánh răng; một chiếc máy bay cánh vỗ cơ khí (ornithopter) xoáy bay lên từ một hẻm núi thu nhỏ chất đầy những cuốn sách cũ sờn rách. [10-20s] Máy quay lướt tới bám theo chiếc máy bay cánh vỗ, xuyên liền mạch vào một chiếc zoetrope đồng thau chạm trổ đang quay tít chiếu ra ánh sáng hình những con ngựa cơ khí phi nước đại. Ánh sáng ấy bật ra và khung cảnh biến thành một chiếc cáp treo đồng thau lơ lửng trên đường ray đồng lấp lánh băng qua một khu rừng bánh răng, tắm trong ánh sáng giờ vàng đầy chất điện ảnh. [20-30s] Máy quay lia xuống một cách thanh thoát; bên dưới hiện ra một chiếc thuyền buồm gỗ cơ cấu đồng hồ tinh xảo rẽ những con sóng xanh thẫm có kết cấu như thủy tinh, những con sóng ấy hóa thành một vầng trăng khổng lồ phát sáng với bóng dáng những nhà thám hiểm cầm đèn lồng băng qua một sống núi vân pha lê dưới trời sao. Máy quay xoáy mượt mà ngược trở lại qua những đám mây huyền ảo về với mặt đồng hồ đồng thau đang tích tắc. Kết cấu cơ khí siêu thực, tông đồng thau và vàng đậm đà, độ sâu trường ảnh nông đầy chất điện ảnh, chuyển động máy quay xuyên qua mượt mà liền mạch, không khí phiêu lưu kỳ ảo hùng tráng.
 ```
 
-### No. 3: Windows Through Worlds (5 refs)
+### No. 3: Những Ô Cửa Xuyên Thế Giới (5 ảnh tham chiếu)
 
-- **Category:** `Multi-Image Reference`
+- **Category:** `Tham chiếu nhiều ảnh`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `vi`
@@ -160,17 +149,17 @@ A high-end, deeply cinematic 30-second 3D motion-graphics sequence in refined st
 
 #### Description
 
-A brand concept short driven by 5 reference images, gliding through windows into different worlds.
+Một phim ngắn ý tưởng thương hiệu dẫn dắt bởi 5 ảnh tham chiếu, lướt qua những ô cửa vào các thế giới khác nhau.
 
 #### Prompt
 
 ```text
-A cinematic brand concept short. @image1 is the first frame; the picture trembles slightly, the camera pushes in to tree shadows rushing backward outside the window, their retreat accelerating, then abruptly cuts to @image2, speed easing as the camera glides slowly along a stream, birdsong and blossoms. The camera drops underwater — bubble sounds — as orange jellyfish drift gracefully past the lens @image3; the camera pulls back as small fish flit past and swim from the water into the window @image4, a girl looking around, watching them. The camera pulls back, defocuses, then refocuses sharp, switching to the music's rhythm: a Chinese-garden lattice window @image5 with light circling, church stained glass, an airplane porthole, a dome skylight, a bay window, louver blinds, a European dormer, a door peephole, a camera viewfinder, a bird's eye, a human eye close-up. It settles on the human eye; the eye closes, screen black, then suddenly opens — "seedance" appearing in the center of the eye on the accent beat.
+Một phim ngắn ý tưởng thương hiệu đậm chất điện ảnh. @image1 là khung hình đầu tiên; hình ảnh khẽ rung, máy quay đẩy vào những bóng cây lao ngược về phía sau bên ngoài cửa sổ, sự lùi lại của chúng ngày càng nhanh, rồi đột ngột cắt sang @image2, tốc độ dịu lại khi máy quay lướt chậm dọc theo một dòng suối, có tiếng chim hót và hoa nở. Máy quay chìm xuống dưới nước — tiếng bong bóng — khi những con sứa màu cam trôi duyên dáng qua trước ống kính @image3; máy quay lùi ra khi những chú cá nhỏ vụt qua và bơi từ nước vào trong cửa sổ @image4, một cô gái nhìn quanh, ngắm chúng. Máy quay lùi ra, mất nét, rồi lấy nét lại sắc gọn, chuyển theo nhịp điệu của nhạc: một ô cửa sổ chấn song kiểu vườn Trung Hoa @image5 với ánh sáng xoay vòng, kính màu nhà thờ, cửa sổ tròn máy bay, giếng trời mái vòm, cửa sổ lồi, rèm lá sách, cửa sổ mái kiểu châu Âu, lỗ nhòm cửa, khung ngắm máy ảnh, mắt chim, cận cảnh mắt người. Nó dừng lại ở mắt người; mắt nhắm lại, màn hình đen, rồi bất chợt mở ra — "seedance" hiện ra ngay giữa con mắt vào nhịp nhấn.
 ```
 
-### No. 4: One-Take Through Six Rooms (8 refs)
+### No. 4: Một Cú Máy Qua Sáu Căn Phòng (8 ảnh tham chiếu)
 
-- **Category:** `Multi-Image Reference`
+- **Category:** `Tham chiếu nhiều ảnh`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `vi`
@@ -192,17 +181,17 @@ A cinematic brand concept short. @image1 is the first frame; the picture tremble
 
 #### Description
 
-One continuous take following a figure through six mood-shifting rooms, driven by 8 reference images.
+Một cú máy liên tục theo chân một nhân vật qua sáu căn phòng chuyển đổi tâm trạng, dẫn dắt bởi 8 ảnh tham chiếu.
 
 #### Prompt
 
 ```text
-One continuous take. The camera smoothly follows a person in a black coat (reference @image1) moving left to right through six connected rooms of different tones and moods. Every room shares the same structure: white walls, light herringbone wood floor, French floor-to-ceiling windows, white sheer curtains (reference @image2) but the outside view and mood differ each time. The protagonist walks at a constant pace, passing through every open door. 0-5s room one, American-comic fight: the protagonist fights a character (@image3), who is defeated; 5-10s room two, warmth, felt-craft style, window view a sunflower field (@image4), warm-orange soft light, a painter painting sunflowers (@image5), the protagonist turning felt-style on entering; 10-15s room three, sorrow, black-and-white comic stop-motion, rain outside, cold-grey light, a person alone on the floor hugging their knees, a phone glowing with an unanswered call; on entering, the light blinks off then on, the room turns color, flowers bursting into bloom; 15-20s room four, joy, a room submerged in the sea (reference @image6), the protagonist turning transparent among coral and fish; 20-25s room five, surprise, window view a sky of fireworks (reference @image7), colorful flickering light, the protagonist swept up in a cheering crowd; 25-30s a blank white room, the protagonist snaps their fingers — snap SFX — frame goes black, "seedance" in the middle (reference @image8). Cinematic quality, high-fashion advertising style, lighting entirely determined by the window views for strong emotional contrast, no text in frame.
+Một cú máy liên tục. Máy quay theo chân một người mặc áo khoác đen (tham chiếu @image1) di chuyển từ trái sang phải qua sáu căn phòng nối liền nhau với tông màu và tâm trạng khác nhau. Mọi căn phòng đều có chung cấu trúc: tường trắng, sàn gỗ xương cá màu sáng, cửa sổ kiểu Pháp cao từ sàn tới trần, rèm voan trắng (tham chiếu @image2) nhưng khung cảnh bên ngoài và tâm trạng mỗi lần một khác. Nhân vật chính bước đi với nhịp độ đều đặn, đi qua mọi cánh cửa mở. 0-5s phòng một, cảnh đánh nhau kiểu truyện tranh Mỹ: nhân vật chính đấu với một nhân vật (@image3) và hạ gục hắn; 5-10s phòng hai, ấm áp, phong cách thủ công bằng nỉ, khung cảnh ngoài cửa sổ là một cánh đồng hoa hướng dương (@image4), ánh sáng dịu màu cam ấm, một họa sĩ đang vẽ hoa hướng dương (@image5), nhân vật chính chuyển sang phong cách nỉ khi bước vào; 10-15s phòng ba, buồn bã, hoạt hình đen trắng stop-motion, ngoài trời mưa, ánh sáng xám lạnh, một người ngồi co ro ôm gối một mình trên sàn, một chiếc điện thoại sáng lên với cuộc gọi nhỡ; khi bước vào, đèn chớp tắt rồi sáng, căn phòng chuyển sang có màu, hoa bừng nở; 15-20s phòng bốn, niềm vui, một căn phòng chìm dưới biển (tham chiếu @image6), nhân vật chính trở nên trong suốt giữa san hô và đàn cá; 20-25s phòng năm, bất ngờ, khung cảnh ngoài cửa sổ là một bầu trời pháo hoa (tham chiếu @image7), ánh sáng nhấp nháy rực rỡ, nhân vật chính bị cuốn vào một đám đông đang hò reo; 25-30s một căn phòng trắng trống trơn, nhân vật chính búng tay — hiệu ứng âm thanh búng tay — khung hình chuyển đen, "seedance" ở chính giữa (tham chiếu @image8). Chất lượng điện ảnh, phong cách quảng cáo thời trang cao cấp, ánh sáng hoàn toàn do khung cảnh ngoài cửa sổ quyết định để tạo tương phản cảm xúc mạnh mẽ, không có chữ trong khung hình.
 ```
 
-### No. 5: Video Edit — Remove All But the Lead
+### No. 5: Chỉnh Sửa Video — Xóa Tất Cả Trừ Nhân Vật Chính
 
-- **Category:** `Video Editing`
+- **Category:** `Chỉnh sửa video`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `vi`
@@ -217,17 +206,17 @@ One continuous take. The camera smoothly follows a person in a black coat (refer
 
 #### Description
 
-Reference-video editing: erase everyone except the protagonist from a source clip.
+Chỉnh sửa bằng video tham chiếu: xóa mọi người khỏi clip gốc, chỉ chừa lại nhân vật chính.
 
 #### Prompt
 
 ```text
-Video editing: remove everyone in @video1 except the protagonist.
+Chỉnh sửa video: xóa mọi người trong @video1, chỉ chừa lại nhân vật chính.
 ```
 
-### No. 6: Multilingual Hip-Hop 'Hello' MV
+### No. 6: MV Hip-Hop 'Hello' Đa Ngôn Ngữ
 
-- **Category:** `Multi-Image Reference`
+- **Category:** `Tham chiếu nhiều ảnh`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `vi`
@@ -242,17 +231,17 @@ Video editing: remove everyone in @video1 except the protagonist.
 
 #### Description
 
-A seaside hip-hop MV built from one reference image; the lead raps 'hello' in 8 languages, lip-synced, hard cuts on the beat.
+Một MV hip-hop bên bờ biển dựng từ một ảnh tham chiếu; ca sĩ chính rap từ 'hello' bằng 8 thứ tiếng, khớp khẩu hình, cắt cứng theo nhịp.
 
 #### Prompt
 
 ```text
-Cinematic hip-hop / rap music video, photoreal quality, high-end tone, seaside setting. Build the frame from @image1: a band performs at a golden sand beach with crashing waves — a lead vocalist gripping a mic on a stand in the wet sand, one guitarist left, one right, a drummer at the back; a vast coastline behind, rolling waves, a warm golden-hour sun shimmering on the water, sea mist in the air. The lead in a red tracksuit raps to camera — lips and jaw precisely synced to every word, head punching to the beat. Bright, punchy, fast, confident rap. HARD CUT on the beat, each switch a double contrast (shot size and type change together). Lyrics (the lead sings 'hello' in each language in turn, precisely lip-synced): English "Hello", Chinese "你好", Japanese "こんにちは", Korean "안녕하세요", Portuguese "Olá", Thai "สวัสดี", Spanish "Hola", Arabic "مرحبا". 8 hard-cut shots (low-angle wide establishing; close-up rap to camera; macro guitar-string insert; 3/4 prowling orbit; lateral track at shore; drummer tilt-up; tight push on the lead; heroic full-band push-in), one language per shot. White balance 4000K, teal-and-amber grade, 35mm, shallow depth of field, film grain, sea mist, golden-hour flare. Premium feel, precise lip-sync, no subtitles, no text overlays, hard cuts only, total 20 seconds.
+Video ca nhạc hip-hop/rap đậm chất điện ảnh, chất lượng chân thực như ảnh chụp, tông cao cấp, bối cảnh bờ biển. Dựng khung hình từ @image1: một ban nhạc biểu diễn trên bãi cát vàng với những con sóng vỗ bờ — một ca sĩ chính nắm micro trên chân đế cắm trong cát ướt, một tay guitar bên trái, một tay bên phải, một tay trống phía sau; phía sau là một đường bờ biển bao la, những con sóng cuộn, mặt trời giờ vàng ấm áp lấp lánh trên mặt nước, sương biển lơ lửng trong không khí. Ca sĩ chính mặc bộ đồ thể thao đỏ rap thẳng vào máy quay — môi và hàm khớp chính xác từng chữ, đầu bổ theo nhịp. Rap tươi sáng, dồn dập, nhanh, tự tin. CẮT CỨNG theo nhịp, mỗi lần chuyển là một tương phản kép (cỡ cảnh và kiểu cảnh thay đổi cùng lúc). Lời (ca sĩ chính lần lượt hát 'hello' bằng mỗi thứ tiếng, khớp khẩu hình chính xác): tiếng Anh "Hello", tiếng Trung "你好", tiếng Nhật "こんにちは", tiếng Hàn "안녕하세요", tiếng Bồ Đào Nha "Olá", tiếng Thái "สวัสดี", tiếng Tây Ban Nha "Hola", tiếng Ả Rập "مرحبا". 8 cú cắt cứng (toàn cảnh góc thấp giới thiệu; cận cảnh rap vào máy quay; chèn macro dây đàn guitar; xoay quanh 3/4 kiểu rình rập; ray ngang dọc bờ biển; hất máy lên tay trống; đẩy sát vào ca sĩ chính; đẩy vào cả ban nhạc đầy hùng tráng), mỗi cảnh một thứ tiếng. Cân bằng trắng 4000K, chỉnh màu teal-and-amber, 35mm, độ sâu trường ảnh nông, hạt phim, sương biển, lóa sáng giờ vàng. Cảm giác cao cấp, khớp khẩu hình chính xác, không phụ đề, không chữ chèn, chỉ dùng cắt cứng, tổng cộng 20 giây.
 ```
 
-### No. 7: Capsule Coffee Machine Setup Tutorial (6 refs)
+### No. 7: Hướng Dẫn Lắp Đặt Máy Pha Cà Phê Viên Nén (6 ảnh tham chiếu)
 
-- **Category:** `Reference-Guided Tutorial`
+- **Category:** `Hướng dẫn theo ảnh tham chiếu`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `vi`
@@ -272,17 +261,17 @@ Cinematic hip-hop / rap music video, photoreal quality, high-end tone, seaside s
 
 #### Description
 
-A 30-second setup-and-use tutorial for a capsule coffee machine, six reference-guided steps with voiceover — from installing the water tank to the first rinse.
+Một video hướng dẫn 30 giây về cách lắp đặt và sử dụng máy pha cà phê viên nén, sáu bước có ảnh tham chiếu kèm lời thuyết minh — từ lắp bình nước đến lần súc rửa đầu tiên.
 
 #### Prompt
 
 ```text
-A 30-second tutorial video on installing and using a capsule coffee machine. 0-2s: the opening title card reads "seedance capsule coffee machine setup tutorial". 2-5s, Step 1: install the water tank, reference @image1, medium shot from a slightly high angle, rear of the machine body, align the water tank with the slot on the back of the body and push it straight down until it clicks firmly into place, clearly showing how the tank's bottom clips align with the body's slot, the water level line visible through the tank's transparent section, voiceover "First, install the water tank. Align the tank with the slot on the back of the machine; a click means it is locked in place.". 5-9s, Step 2: install the drip tray, reference @image2, close-up front view, front bottom of the body, slide the drip tray horizontally into the guide rails at the bottom until fully seated, voiceover "Next, install the drip tray. Align the tray with the bottom rails.". 9-13s, Step 3: install the used-capsule collection box, reference @image3, close-up from a slightly low angle, the cavity beneath the drip tray, align the collection box with the recess and push it in flush with the drip tray, voiceover "Then insert the capsule collection box. Used capsules will drop down here automatically.". 13-18s, Step 4: first fill with water, reference @image4, close-up side view, the water tank at the top/back of the body, open the tank lid and pour in clean water up to the MAX water level line, then close it, emphasizing the water level line, voiceover "Open the tank lid, pour in clean water, being careful not to exceed the maximum water level line, then close the tank lid.". 18-25s, Step 5: power on, reference @image5, medium shot front view, front of the body, plug in the power cord and press the power button; the indicator light goes from blinking to steady (preheating complete), voiceover "Connect the power and press the power button. The indicator light starts blinking, which means it is preheating. When the light turns steady, the machine is ready.". 25-30s, Step 6: first rinse (without a capsule), reference @image6, medium shot moving to a close-up front-side view, without inserting a capsule press the brew button directly so hot water flows out and rinses the lines, emphasizing the "no capsule needed" note, voiceover "The last step, the first rinse. Note that this step does not require a capsule; just press the brew button. Once the rinse is done, your coffee machine is ready to use."
+Một video hướng dẫn 30 giây về cách lắp đặt và sử dụng máy pha cà phê viên nén. 0-2s: thẻ tiêu đề mở đầu ghi "hướng dẫn lắp đặt máy pha cà phê viên nén seedance". 2-5s, Step 1: lắp bình nước, tham chiếu @image1, cảnh trung từ góc hơi cao, mặt sau thân máy, canh bình nước thẳng với khe ở phía sau thân máy rồi ấn thẳng xuống cho đến khi nghe tiếng "cạch" khóa chắc vào vị trí, thể hiện rõ cách các ngàm ở đáy bình khớp với khe của thân máy, nhìn thấy vạch mực nước qua phần trong suốt của bình, lời thuyết minh "Đầu tiên, hãy lắp bình nước. Canh bình thẳng với khe ở phía sau máy; một tiếng 'cạch' nghĩa là đã khóa vào vị trí.". 5-9s, Step 2: lắp khay hứng nước nhỏ giọt, tham chiếu @image2, cận cảnh nhìn từ phía trước, phần dưới mặt trước thân máy, trượt khay hứng nước theo phương ngang vào các thanh ray dẫn hướng ở đáy cho đến khi vào khít hoàn toàn, lời thuyết minh "Tiếp theo, hãy lắp khay hứng nước. Canh khay thẳng với các thanh ray ở đáy.". 9-13s, Step 3: lắp hộp thu gom viên nén đã dùng, tham chiếu @image3, cận cảnh từ góc hơi thấp, khoang trống bên dưới khay hứng nước, canh hộp thu gom thẳng với hốc lõm rồi đẩy vào cho ngang bằng với khay hứng nước, lời thuyết minh "Sau đó lắp hộp thu gom viên nén. Viên nén đã dùng sẽ tự động rơi xuống đây.". 13-18s, Step 4: đổ nước lần đầu, tham chiếu @image4, cận cảnh nhìn từ bên hông, bình nước ở phía trên/phía sau thân máy, mở nắp bình và rót nước sạch vào tới vạch mực nước MAX, rồi đậy lại, nhấn mạnh vạch mực nước, lời thuyết minh "Mở nắp bình, rót nước sạch vào, chú ý không vượt quá vạch mực nước tối đa, rồi đậy nắp bình lại.". 18-25s, Step 5: bật nguồn, tham chiếu @image5, cảnh trung nhìn từ phía trước, mặt trước thân máy, cắm dây nguồn và nhấn nút nguồn; đèn báo chuyển từ nhấp nháy sang sáng ổn định (đã làm nóng xong), lời thuyết minh "Cắm nguồn và nhấn nút nguồn. Đèn báo bắt đầu nhấp nháy, nghĩa là máy đang làm nóng. Khi đèn sáng ổn định, máy đã sẵn sàng.". 25-30s, Step 6: súc rửa lần đầu (không có viên nén), tham chiếu @image6, cảnh trung chuyển sang cận cảnh nhìn từ phía trước-bên hông, không lắp viên nén mà nhấn thẳng nút pha để nước nóng chảy ra súc rửa đường ống, nhấn mạnh lưu ý "không cần viên nén", lời thuyết minh "Bước cuối cùng, súc rửa lần đầu. Lưu ý bước này không cần viên nén; chỉ cần nhấn nút pha. Khi súc rửa xong, máy pha cà phê của bạn đã sẵn sàng để dùng.".
 ```
 
-### No. 8: Fruity Cookie Commercial (image + 6 video refs)
+### No. 8: Quảng Cáo Bánh Quy Trái Cây (ảnh + 6 video tham chiếu)
 
-- **Category:** `Multimodal Reference (image+video)`
+- **Category:** `Tham chiếu đa phương thức (ảnh+video)`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `vi`
@@ -303,23 +292,23 @@ A 30-second tutorial video on installing and using a capsule coffee machine. 0-2
 
 #### Description
 
-A bright, colorful commercial for fruity cookies in four flavors — strawberry, apple, grape, orange — built from one image reference and six motion/camera video references, cut hard to a driving beat.
+Một quảng cáo tươi sáng, đầy màu sắc cho bánh quy trái cây bốn vị — dâu, táo, nho, cam — dựng từ một ảnh tham chiếu và sáu video tham chiếu về chuyển động/máy quay, cắt cứng theo một nhịp dồn dập.
 
 #### Prompt
 
 ```text
-A bright, colorful commercial style with fruity cookies as the hero, in four flavors — strawberry, apple, grape, and orange; strawberry flavor reference @image1. The cookies and their matching fruits are arranged in a strongly ordered geometric array; the overall frame is clean, premium, and high-energy. It opens with the fruits orbiting rapidly around the central cookie to quickly establish visual focus — reference the composition of @video1 — cutting in on a strong musical beat. Then cookies of different flavors advance toward the lens along spiral paths, forming clear spatial depth — reference the motion and camera work of @video2 — switching colors and flavors on the beat with the background music. The array of cookies pans left and right with fast plane-to-plane cuts, strawberry, apple, grape, and orange flavors alternating as the frame jump-cuts quickly to the rhythm — reference the movement of @video3. The mid-section adds up-and-down panning; the neat cookie array rises and falls vertically like a machine — reference the movement of @video4 — highlighting the beauty of order and the richness of the product. In the climax a cookie is snapped in two and the moment enters slow motion as the fruity filling bursts open, crumbs scattering, the juicy sensation and grainy impact amplified — reference the explosion effect of @video5 — then quickly returns to the fast-paced edit. The ending brings in the English text "Fresh on Seedance, made for viral vision", entering word by word in quick succession with strong rhythmic text motion and a product freeze-frame — reference @video6 — the four cookie flavors lined up neatly with the fruits bouncing in sync for a final brand-forward close, the frame full of a young, energetic, delicious, shareable ad atmosphere.
+Phong cách quảng cáo tươi sáng, đầy màu sắc với bánh quy trái cây làm nhân vật chính, bốn vị — dâu, táo, nho và cam; vị dâu tham chiếu @image1. Những chiếc bánh quy và trái cây tương ứng được sắp thành một mảng hình học có trật tự chặt chẽ; tổng thể khung hình sạch sẽ, cao cấp và tràn đầy năng lượng. Mở đầu với những trái cây xoay nhanh quanh chiếc bánh quy ở trung tâm để nhanh chóng thiết lập tiêu điểm thị giác — tham chiếu bố cục của @video1 — cắt vào theo một nhịp nhạc mạnh. Rồi những chiếc bánh quy vị khác nhau tiến về phía ống kính theo các đường xoắn ốc, tạo chiều sâu không gian rõ rệt — tham chiếu chuyển động và cách quay của @video2 — đổi màu và đổi vị theo nhịp của nhạc nền. Mảng bánh quy lia trái phải với những cú cắt nhanh từ mặt phẳng này sang mặt phẳng khác, các vị dâu, táo, nho và cam luân phiên khi khung hình jump-cut nhanh theo nhịp — tham chiếu chuyển động của @video3. Đoạn giữa thêm lia lên xuống; mảng bánh quy ngay ngắn dâng lên hạ xuống theo phương thẳng đứng như một cỗ máy — tham chiếu chuyển động của @video4 — làm nổi bật vẻ đẹp của sự trật tự và sự phong phú của sản phẩm. Ở cao trào, một chiếc bánh quy bị bẻ làm đôi và khoảnh khắc ấy chuyển sang quay chậm khi phần nhân trái cây vỡ bung, vụn bánh văng tứ tung, cảm giác mọng nước và sức va chạm của kết cấu được khuếch đại — tham chiếu hiệu ứng nổ tung của @video5 — rồi nhanh chóng trở lại lối dựng nhịp nhanh. Đoạn kết đưa vào dòng chữ tiếng Anh "Fresh on Seedance, made for viral vision", xuất hiện từng chữ nối tiếp nhau thật nhanh với chuyển động chữ giàu nhịp điệu và một khung hình sản phẩm đứng hình — tham chiếu @video6 — bốn vị bánh quy xếp ngay ngắn cùng những trái cây nảy lên đồng bộ để khép lại đầy tính thương hiệu, khung hình tràn ngập bầu không khí quảng cáo trẻ trung, tràn đầy năng lượng, ngon lành và đáng chia sẻ.
 ```
 
 ## 📋 All Prompts
 
 <a id="category-1"></a>
 
-### Match-Cut & Creative Effects (1)
+### Match-Cut & Hiệu ứng sáng tạo (1)
 
-### No. 1: Crystal Ball Match-Cut Beat Film
+### No. 1: Phim Match-Cut Quả Cầu Pha Lê Theo Nhịp
 
-- **Category:** `Match-Cut & Creative Effects`
+- **Category:** `Match-Cut & Hiệu ứng sáng tạo`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `vi`
@@ -330,21 +319,21 @@ A bright, colorful commercial style with fruity cookies as the hero, in four fla
 
 #### Description
 
-A beat-synced match-cut film: one crystal ball etched with a glowing 'seedance' logo stays centered while eight scenes cut seamlessly behind it.
+Một bộ phim match-cut đồng bộ theo nhịp: một quả cầu pha lê khắc logo 'seedance' phát sáng luôn nằm chính giữa trong khi tám cảnh phía sau chuyển tiếp liền mạch.
 
 #### Prompt
 
 ```text
-A fast-paced, cinematic Match-cut short film synced to a driving electronic beat. A flawless crystal ball stays fixed dead-center throughout, a glowing "seedance" logo etched inside it. The ball holds razor-sharp focus while, on every strong musical beat, the background match-cuts seamlessly: Scene 1: macro close-up, cinematic water splashing around the ball, refracting intricate light. Scene 2: a vintage morning cafe, the ball on a raw-wood table, rising coffee steam and blurred commuters beyond the window. Scene 3: golden-hour dusk, a skater youth tosses and catches the ball one-handed, street racing backward behind them in gorgeous backlit sunset. Scene 4: a frenzied music festival, hands raise the ball high, refracting dazzling stage lasers. Scene 5: a lively family party table, the ball resting center-frame, blurred figures toasting and reaching for food. Scene 6: a dim cinema, hands cupping the ball as the giant screen's faint glow drifts across its surface. Scene 7: the ball on a violently vibrating speaker diaphragm, match-cutting on the climax to a spinning DJ turntable center. Scene 8: an outdoor camping night, background becoming warm bonfire and swaying string-light bokeh. Finale: on the final downbeat the ball is hurled up out of frame; cut to pure black, a minimal white-on-black "seedance" appearing dead-center. Beat-synced match-cut editing, top-tier cinematic color grading, photoreal glass refraction, ray tracing, global illumination. Subject razor-sharp, background heavy motion blur.
+Một phim ngắn match-cut mang phong cách điện ảnh, nhịp độ nhanh, đồng bộ với một nhịp electronic dồn dập. Một quả cầu pha lê hoàn hảo luôn cố định ngay chính giữa suốt cả phim, bên trong khắc logo "seedance" phát sáng. Quả cầu giữ độ nét sắc như dao, trong khi cứ mỗi nhịp nhạc mạnh, hậu cảnh lại match-cut liền mạch: Scene 1: cận cảnh macro, nước bắn tung quanh quả cầu đầy chất điện ảnh, khúc xạ ánh sáng tinh xảo. Scene 2: một quán cà phê buổi sáng phong cách vintage, quả cầu đặt trên bàn gỗ mộc, hơi cà phê bốc lên và những người đi làm mờ nhòe bên ngoài cửa sổ. Scene 3: hoàng hôn giờ vàng, một thanh niên chơi ván trượt tung rồi bắt quả cầu bằng một tay, con phố lao ngược về phía sau trong ánh nắng ngược tuyệt đẹp. Scene 4: một lễ hội âm nhạc cuồng nhiệt, những bàn tay nâng quả cầu lên cao, khúc xạ ánh laser sân khấu chói lóa. Scene 5: một bàn tiệc gia đình rộn ràng, quả cầu đặt giữa khung hình, những bóng người mờ nhòe nâng ly và với tay lấy đồ ăn. Scene 6: một rạp chiếu phim tối mờ, đôi tay khum lấy quả cầu khi ánh sáng mờ nhạt từ màn hình khổng lồ lướt qua bề mặt của nó. Scene 7: quả cầu trên màng loa đang rung dữ dội, match-cut vào cao trào tới một bàn xoay DJ đang quay tít ở chính giữa. Scene 8: một đêm cắm trại ngoài trời, hậu cảnh biến thành ánh lửa trại ấm áp và bokeh dây đèn đung đưa. Cao trào kết: vào nhịp mạnh cuối cùng, quả cầu bị tung lên khỏi khung hình; cắt sang màn đen tuyền, dòng chữ "seedance" trắng trên nền đen tối giản hiện ra ngay chính giữa. Dựng match-cut đồng bộ theo nhịp, chỉnh màu điện ảnh đỉnh cao, khúc xạ thủy tinh chân thực như ảnh chụp, ray tracing, global illumination. Chủ thể sắc như dao, hậu cảnh nhòe chuyển động mạnh.
 ```
 
 <a id="category-2"></a>
 
-### One-Take Cinematography (1)
+### Quay một cú máy liên tục (1)
 
-### No. 1: Steampunk Clockwork — 30s One-Take
+### No. 1: Cơ Cấu Đồng Hồ Steampunk — Một Cú Máy 30 Giây
 
-- **Category:** `One-Take Cinematography`
+- **Category:** `Quay một cú máy liên tục`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `vi`
@@ -355,21 +344,21 @@ A fast-paced, cinematic Match-cut short film synced to a driving electronic beat
 
 #### Description
 
-A 30-second steampunk miniature 3D sequence with continuous orbiting, pass-through camera moves.
+Một chuỗi 3D mô hình thu nhỏ phong cách steampunk dài 30 giây với chuyển động máy quay xoay quanh và xuyên qua liên tục.
 
 #### Prompt
 
 ```text
-A high-end, deeply cinematic 30-second 3D motion-graphics sequence in refined steampunk and vintage-miniature style, with continuous fluid orbiting and pass-through camera moves. [0-10s] Macro close-up of an antique brass clock face that unfolds layer by layer into meshing rotating gear rings and volumetric fog. The camera pierces down through the gears; a mechanical ornithopter spirals up from a miniature canyon of stacked weathered old books. [10-20s] The camera glides forward tracking the ornithopter, seamlessly passing into a fast-spinning ornate brass zoetrope projecting galloping mechanical-horse light. The light leaps out and the scene becomes a brass floating cable car on glimmering copper rails through a forest of gears, bathed in cinematic golden-hour light. [20-30s] The camera pans elegantly down; below appears an exquisite clockwork wooden sailing ship cutting deep-blue glass-textured waves, which morph into a glowing giant moon with lantern-holding explorer silhouettes trekking a crystal-vein ridge under stars. The camera spirals smoothly back through ethereal clouds to the ticking brass clock face. Hyper-real mechanical textures, rich brass and gold tones, cinematic shallow depth of field, smooth seamless pass-through camerawork, epic fantastical adventure atmosphere.
+Một chuỗi motion-graphics 3D cao cấp, đậm chất điện ảnh, dài 30 giây theo phong cách steampunk tinh tế và mô hình thu nhỏ vintage, với chuyển động máy quay xoay quanh mượt mà và xuyên qua liên tục. [0-10s] Cận cảnh macro mặt đồng hồ đồng thau cổ, dần dần bung ra từng lớp thành các vòng bánh răng xoay ăn khớp và làn sương thể tích. Máy quay xuyên xuống qua các bánh răng; một chiếc máy bay cánh vỗ cơ khí (ornithopter) xoáy bay lên từ một hẻm núi thu nhỏ chất đầy những cuốn sách cũ sờn rách. [10-20s] Máy quay lướt tới bám theo chiếc máy bay cánh vỗ, xuyên liền mạch vào một chiếc zoetrope đồng thau chạm trổ đang quay tít chiếu ra ánh sáng hình những con ngựa cơ khí phi nước đại. Ánh sáng ấy bật ra và khung cảnh biến thành một chiếc cáp treo đồng thau lơ lửng trên đường ray đồng lấp lánh băng qua một khu rừng bánh răng, tắm trong ánh sáng giờ vàng đầy chất điện ảnh. [20-30s] Máy quay lia xuống một cách thanh thoát; bên dưới hiện ra một chiếc thuyền buồm gỗ cơ cấu đồng hồ tinh xảo rẽ những con sóng xanh thẫm có kết cấu như thủy tinh, những con sóng ấy hóa thành một vầng trăng khổng lồ phát sáng với bóng dáng những nhà thám hiểm cầm đèn lồng băng qua một sống núi vân pha lê dưới trời sao. Máy quay xoáy mượt mà ngược trở lại qua những đám mây huyền ảo về với mặt đồng hồ đồng thau đang tích tắc. Kết cấu cơ khí siêu thực, tông đồng thau và vàng đậm đà, độ sâu trường ảnh nông đầy chất điện ảnh, chuyển động máy quay xuyên qua mượt mà liền mạch, không khí phiêu lưu kỳ ảo hùng tráng.
 ```
 
 <a id="category-3"></a>
 
-### Multi-Image Reference (3)
+### Tham chiếu nhiều ảnh (3)
 
-### No. 1: Windows Through Worlds (5 refs)
+### No. 1: Những Ô Cửa Xuyên Thế Giới (5 ảnh tham chiếu)
 
-- **Category:** `Multi-Image Reference`
+- **Category:** `Tham chiếu nhiều ảnh`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `vi`
@@ -388,17 +377,17 @@ A high-end, deeply cinematic 30-second 3D motion-graphics sequence in refined st
 
 #### Description
 
-A brand concept short driven by 5 reference images, gliding through windows into different worlds.
+Một phim ngắn ý tưởng thương hiệu dẫn dắt bởi 5 ảnh tham chiếu, lướt qua những ô cửa vào các thế giới khác nhau.
 
 #### Prompt
 
 ```text
-A cinematic brand concept short. @image1 is the first frame; the picture trembles slightly, the camera pushes in to tree shadows rushing backward outside the window, their retreat accelerating, then abruptly cuts to @image2, speed easing as the camera glides slowly along a stream, birdsong and blossoms. The camera drops underwater — bubble sounds — as orange jellyfish drift gracefully past the lens @image3; the camera pulls back as small fish flit past and swim from the water into the window @image4, a girl looking around, watching them. The camera pulls back, defocuses, then refocuses sharp, switching to the music's rhythm: a Chinese-garden lattice window @image5 with light circling, church stained glass, an airplane porthole, a dome skylight, a bay window, louver blinds, a European dormer, a door peephole, a camera viewfinder, a bird's eye, a human eye close-up. It settles on the human eye; the eye closes, screen black, then suddenly opens — "seedance" appearing in the center of the eye on the accent beat.
+Một phim ngắn ý tưởng thương hiệu đậm chất điện ảnh. @image1 là khung hình đầu tiên; hình ảnh khẽ rung, máy quay đẩy vào những bóng cây lao ngược về phía sau bên ngoài cửa sổ, sự lùi lại của chúng ngày càng nhanh, rồi đột ngột cắt sang @image2, tốc độ dịu lại khi máy quay lướt chậm dọc theo một dòng suối, có tiếng chim hót và hoa nở. Máy quay chìm xuống dưới nước — tiếng bong bóng — khi những con sứa màu cam trôi duyên dáng qua trước ống kính @image3; máy quay lùi ra khi những chú cá nhỏ vụt qua và bơi từ nước vào trong cửa sổ @image4, một cô gái nhìn quanh, ngắm chúng. Máy quay lùi ra, mất nét, rồi lấy nét lại sắc gọn, chuyển theo nhịp điệu của nhạc: một ô cửa sổ chấn song kiểu vườn Trung Hoa @image5 với ánh sáng xoay vòng, kính màu nhà thờ, cửa sổ tròn máy bay, giếng trời mái vòm, cửa sổ lồi, rèm lá sách, cửa sổ mái kiểu châu Âu, lỗ nhòm cửa, khung ngắm máy ảnh, mắt chim, cận cảnh mắt người. Nó dừng lại ở mắt người; mắt nhắm lại, màn hình đen, rồi bất chợt mở ra — "seedance" hiện ra ngay giữa con mắt vào nhịp nhấn.
 ```
 
-### No. 2: One-Take Through Six Rooms (8 refs)
+### No. 2: Một Cú Máy Qua Sáu Căn Phòng (8 ảnh tham chiếu)
 
-- **Category:** `Multi-Image Reference`
+- **Category:** `Tham chiếu nhiều ảnh`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `vi`
@@ -420,17 +409,17 @@ A cinematic brand concept short. @image1 is the first frame; the picture tremble
 
 #### Description
 
-One continuous take following a figure through six mood-shifting rooms, driven by 8 reference images.
+Một cú máy liên tục theo chân một nhân vật qua sáu căn phòng chuyển đổi tâm trạng, dẫn dắt bởi 8 ảnh tham chiếu.
 
 #### Prompt
 
 ```text
-One continuous take. The camera smoothly follows a person in a black coat (reference @image1) moving left to right through six connected rooms of different tones and moods. Every room shares the same structure: white walls, light herringbone wood floor, French floor-to-ceiling windows, white sheer curtains (reference @image2) but the outside view and mood differ each time. The protagonist walks at a constant pace, passing through every open door. 0-5s room one, American-comic fight: the protagonist fights a character (@image3), who is defeated; 5-10s room two, warmth, felt-craft style, window view a sunflower field (@image4), warm-orange soft light, a painter painting sunflowers (@image5), the protagonist turning felt-style on entering; 10-15s room three, sorrow, black-and-white comic stop-motion, rain outside, cold-grey light, a person alone on the floor hugging their knees, a phone glowing with an unanswered call; on entering, the light blinks off then on, the room turns color, flowers bursting into bloom; 15-20s room four, joy, a room submerged in the sea (reference @image6), the protagonist turning transparent among coral and fish; 20-25s room five, surprise, window view a sky of fireworks (reference @image7), colorful flickering light, the protagonist swept up in a cheering crowd; 25-30s a blank white room, the protagonist snaps their fingers — snap SFX — frame goes black, "seedance" in the middle (reference @image8). Cinematic quality, high-fashion advertising style, lighting entirely determined by the window views for strong emotional contrast, no text in frame.
+Một cú máy liên tục. Máy quay theo chân một người mặc áo khoác đen (tham chiếu @image1) di chuyển từ trái sang phải qua sáu căn phòng nối liền nhau với tông màu và tâm trạng khác nhau. Mọi căn phòng đều có chung cấu trúc: tường trắng, sàn gỗ xương cá màu sáng, cửa sổ kiểu Pháp cao từ sàn tới trần, rèm voan trắng (tham chiếu @image2) nhưng khung cảnh bên ngoài và tâm trạng mỗi lần một khác. Nhân vật chính bước đi với nhịp độ đều đặn, đi qua mọi cánh cửa mở. 0-5s phòng một, cảnh đánh nhau kiểu truyện tranh Mỹ: nhân vật chính đấu với một nhân vật (@image3) và hạ gục hắn; 5-10s phòng hai, ấm áp, phong cách thủ công bằng nỉ, khung cảnh ngoài cửa sổ là một cánh đồng hoa hướng dương (@image4), ánh sáng dịu màu cam ấm, một họa sĩ đang vẽ hoa hướng dương (@image5), nhân vật chính chuyển sang phong cách nỉ khi bước vào; 10-15s phòng ba, buồn bã, hoạt hình đen trắng stop-motion, ngoài trời mưa, ánh sáng xám lạnh, một người ngồi co ro ôm gối một mình trên sàn, một chiếc điện thoại sáng lên với cuộc gọi nhỡ; khi bước vào, đèn chớp tắt rồi sáng, căn phòng chuyển sang có màu, hoa bừng nở; 15-20s phòng bốn, niềm vui, một căn phòng chìm dưới biển (tham chiếu @image6), nhân vật chính trở nên trong suốt giữa san hô và đàn cá; 20-25s phòng năm, bất ngờ, khung cảnh ngoài cửa sổ là một bầu trời pháo hoa (tham chiếu @image7), ánh sáng nhấp nháy rực rỡ, nhân vật chính bị cuốn vào một đám đông đang hò reo; 25-30s một căn phòng trắng trống trơn, nhân vật chính búng tay — hiệu ứng âm thanh búng tay — khung hình chuyển đen, "seedance" ở chính giữa (tham chiếu @image8). Chất lượng điện ảnh, phong cách quảng cáo thời trang cao cấp, ánh sáng hoàn toàn do khung cảnh ngoài cửa sổ quyết định để tạo tương phản cảm xúc mạnh mẽ, không có chữ trong khung hình.
 ```
 
-### No. 3: Multilingual Hip-Hop 'Hello' MV
+### No. 3: MV Hip-Hop 'Hello' Đa Ngôn Ngữ
 
-- **Category:** `Multi-Image Reference`
+- **Category:** `Tham chiếu nhiều ảnh`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `vi`
@@ -445,21 +434,21 @@ One continuous take. The camera smoothly follows a person in a black coat (refer
 
 #### Description
 
-A seaside hip-hop MV built from one reference image; the lead raps 'hello' in 8 languages, lip-synced, hard cuts on the beat.
+Một MV hip-hop bên bờ biển dựng từ một ảnh tham chiếu; ca sĩ chính rap từ 'hello' bằng 8 thứ tiếng, khớp khẩu hình, cắt cứng theo nhịp.
 
 #### Prompt
 
 ```text
-Cinematic hip-hop / rap music video, photoreal quality, high-end tone, seaside setting. Build the frame from @image1: a band performs at a golden sand beach with crashing waves — a lead vocalist gripping a mic on a stand in the wet sand, one guitarist left, one right, a drummer at the back; a vast coastline behind, rolling waves, a warm golden-hour sun shimmering on the water, sea mist in the air. The lead in a red tracksuit raps to camera — lips and jaw precisely synced to every word, head punching to the beat. Bright, punchy, fast, confident rap. HARD CUT on the beat, each switch a double contrast (shot size and type change together). Lyrics (the lead sings 'hello' in each language in turn, precisely lip-synced): English "Hello", Chinese "你好", Japanese "こんにちは", Korean "안녕하세요", Portuguese "Olá", Thai "สวัสดี", Spanish "Hola", Arabic "مرحبا". 8 hard-cut shots (low-angle wide establishing; close-up rap to camera; macro guitar-string insert; 3/4 prowling orbit; lateral track at shore; drummer tilt-up; tight push on the lead; heroic full-band push-in), one language per shot. White balance 4000K, teal-and-amber grade, 35mm, shallow depth of field, film grain, sea mist, golden-hour flare. Premium feel, precise lip-sync, no subtitles, no text overlays, hard cuts only, total 20 seconds.
+Video ca nhạc hip-hop/rap đậm chất điện ảnh, chất lượng chân thực như ảnh chụp, tông cao cấp, bối cảnh bờ biển. Dựng khung hình từ @image1: một ban nhạc biểu diễn trên bãi cát vàng với những con sóng vỗ bờ — một ca sĩ chính nắm micro trên chân đế cắm trong cát ướt, một tay guitar bên trái, một tay bên phải, một tay trống phía sau; phía sau là một đường bờ biển bao la, những con sóng cuộn, mặt trời giờ vàng ấm áp lấp lánh trên mặt nước, sương biển lơ lửng trong không khí. Ca sĩ chính mặc bộ đồ thể thao đỏ rap thẳng vào máy quay — môi và hàm khớp chính xác từng chữ, đầu bổ theo nhịp. Rap tươi sáng, dồn dập, nhanh, tự tin. CẮT CỨNG theo nhịp, mỗi lần chuyển là một tương phản kép (cỡ cảnh và kiểu cảnh thay đổi cùng lúc). Lời (ca sĩ chính lần lượt hát 'hello' bằng mỗi thứ tiếng, khớp khẩu hình chính xác): tiếng Anh "Hello", tiếng Trung "你好", tiếng Nhật "こんにちは", tiếng Hàn "안녕하세요", tiếng Bồ Đào Nha "Olá", tiếng Thái "สวัสดี", tiếng Tây Ban Nha "Hola", tiếng Ả Rập "مرحبا". 8 cú cắt cứng (toàn cảnh góc thấp giới thiệu; cận cảnh rap vào máy quay; chèn macro dây đàn guitar; xoay quanh 3/4 kiểu rình rập; ray ngang dọc bờ biển; hất máy lên tay trống; đẩy sát vào ca sĩ chính; đẩy vào cả ban nhạc đầy hùng tráng), mỗi cảnh một thứ tiếng. Cân bằng trắng 4000K, chỉnh màu teal-and-amber, 35mm, độ sâu trường ảnh nông, hạt phim, sương biển, lóa sáng giờ vàng. Cảm giác cao cấp, khớp khẩu hình chính xác, không phụ đề, không chữ chèn, chỉ dùng cắt cứng, tổng cộng 20 giây.
 ```
 
 <a id="category-4"></a>
 
-### Video Editing (2)
+### Chỉnh sửa video (2)
 
-### No. 1: Video Edit — Remove All But the Lead
+### No. 1: Chỉnh Sửa Video — Xóa Tất Cả Trừ Nhân Vật Chính
 
-- **Category:** `Video Editing`
+- **Category:** `Chỉnh sửa video`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `vi`
@@ -474,17 +463,17 @@ Cinematic hip-hop / rap music video, photoreal quality, high-end tone, seaside s
 
 #### Description
 
-Reference-video editing: erase everyone except the protagonist from a source clip.
+Chỉnh sửa bằng video tham chiếu: xóa mọi người khỏi clip gốc, chỉ chừa lại nhân vật chính.
 
 #### Prompt
 
 ```text
-Video editing: remove everyone in @video1 except the protagonist.
+Chỉnh sửa video: xóa mọi người trong @video1, chỉ chừa lại nhân vật chính.
 ```
 
-### No. 2: Steam Train Bursts the Screen (video edit)
+### No. 2: Đầu Máy Hơi Nước Xé Toạc Màn Chiếu (chỉnh sửa video)
 
-- **Category:** `Video Editing`
+- **Category:** `Chỉnh sửa video`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `vi`
@@ -499,21 +488,21 @@ Video editing: remove everyone in @video1 except the protagonist.
 
 #### Description
 
-A video edit that keeps the original @video1 old-cinema clip intact and adds only a steam locomotive bursting through the screen, tearing the fabric, with black-and-white snapping to full color at the moment of impact.
+Một bản chỉnh sửa video giữ nguyên vẹn clip rạp chiếu cũ gốc @video1 và chỉ thêm vào một đầu máy hơi nước lao xuyên qua màn chiếu, xé toạc tấm vải, với cảnh đen trắng chuyển phắt sang màu đầy đủ ngay khoảnh khắc va chạm.
 
 #### Prompt
 
 ```text
-Hyper-real cinematic realist style with photorealistic live-action texture, emphasizing the real-world plausibility of the physical object bursting out (the steam train); no CGI gloss / game engine / stylized 3D. Preserve @video1's original composition, projection-hall lighting, handheld camera state and natural imperfections. Source video locked: keep @video1 fully intact as the base image (the old-fashioned projection hall, the rows of hat-wearing audience seen from behind, the projector's conical beam, the screen, the ambient light, the color tone and the handheld movement all unchanged); the only additions: the train bursting out of the screen, the changes in light and shadow it brings, the tearing of the screen, and the slight physical impact on the hall and the front-row audience. Color-shift rule (the core addition): at the start strictly keep @video1's original black-and-white old-film texture (grain / scratches / flicker / monochrome); at the exact moment the locomotive truly breaks through the screen and bursts into reality, the image abruptly shifts from black-and-white to full, real color, the color spreading across the whole frame like a shockwave centered on the point where the train breaks out (the train's black steel body, the red-copper boiler, the orange-yellow steam-lamp glow, the warm brown of the wooden carriage, the white-grey steam, and the warm brown of the projection hall all coming into color accordingly); the color shift is precisely synchronized with the screen-breaking burst, after which photorealistic color is maintained to the end. Screen-tearing locked: the screen is a real white projection cloth with genuine fabric tension; as the train bursts out it is forcibly torn open along the contour of the locomotive's front, with radial rips whose edges curl back and shredded cloth fibers flying. Subject: an old-fashioned steam locomotive front bursting forcibly out of the screen, a black steel body, a cylindrical boiler, a front cowcatcher, a chimney venting white-grey steam, a bright headlamp, the metal surfaces with real wear, oil grime, rivets and wet reflections, charging forward with immense weight and inertia. Camera: fully inherits @video1's original handheld movement, not smoothed, not re-timed, not re-composed; the bursting train stays correctly locked into the screen and the hall space at all times, maintaining correct parallax, occlusion and ground-contact shadow. Sound: no music, keep only real on-scene sound effects, inheriting @video1's projection-hall ambience (the projector's clatter, the audience's stirring) and adding the sound of the cloth tearing, steam gushing, the mechanical roar of steel wheels, and the impact air blast. Total duration exactly the same as @video1; add nothing other than the train itself and its physical interactions, the screen tearing, and the color shift at the moment of the break. No slow motion, no sense of magic, no stylized horror; the final result should look like an eerie yet real image of "a train smashing through the screen, black-and-white instantly turning to color" captured by chance by a real camera in an old projection hall.
+Phong cách hiện thực điện ảnh siêu thực với kết cấu quay thực tế chân thực như ảnh chụp, nhấn mạnh tính khả tín trong thế giới thực của vật thể lao ra (đầu máy hơi nước); không có độ bóng CGI/game engine/3D cách điệu. Giữ nguyên bố cục gốc của @video1, ánh sáng phòng chiếu, trạng thái máy quay cầm tay và những khiếm khuyết tự nhiên. Khóa video nguồn: giữ @video1 nguyên vẹn hoàn toàn làm hình nền (phòng chiếu kiểu cũ, những hàng khán giả đội mũ nhìn từ phía sau, chùm sáng hình nón của máy chiếu, màn chiếu, ánh sáng môi trường, tông màu và chuyển động cầm tay đều không đổi); những thứ duy nhất được thêm vào: đoàn tàu lao ra khỏi màn chiếu, những thay đổi về ánh sáng và bóng đổ mà nó mang lại, sự xé rách của màn chiếu, và tác động vật lý nhẹ lên phòng chiếu và khán giả hàng đầu. Quy tắc chuyển màu (phần thêm vào cốt lõi): lúc đầu giữ nghiêm ngặt kết cấu phim cũ đen trắng gốc của @video1 (hạt/vết xước/nhấp nháy/đơn sắc); vào đúng khoảnh khắc đầu máy thực sự phá xuyên qua màn chiếu và lao vào hiện thực, hình ảnh đột ngột chuyển từ đen trắng sang màu thật đầy đủ, màu sắc lan khắp khung hình như một cơn sóng xung kích lấy tâm là điểm đoàn tàu phá ra (thân thép đen của đoàn tàu, nồi hơi đồng đỏ, ánh sáng cam-vàng của đèn hơi, màu nâu ấm của toa gỗ, hơi nước trắng-xám, và màu nâu ấm của phòng chiếu đều lên màu tương ứng); sự chuyển màu được đồng bộ chính xác với cú lao xé màn, sau đó màu chân thực được duy trì cho tới hết. Khóa cảnh xé màn: màn chiếu là một tấm vải chiếu trắng thật với độ căng vải thực; khi đoàn tàu lao ra, nó bị xé toạc cưỡng bức dọc theo đường viền phần đầu của đầu máy, với những vết rách hình tia có mép cuộn ngược lại và những sợi vải vụn bay tứ tung. Chủ thể: phần đầu của một đầu máy hơi nước kiểu cũ lao xuyên cưỡng bức ra khỏi màn chiếu, thân thép đen, nồi hơi hình trụ, tấm hất chướng ngại phía trước (cowcatcher), ống khói phun hơi nước trắng-xám, đèn pha sáng rực, các bề mặt kim loại với vết mòn thật, vết dầu cáu bẩn, đinh tán và những phản chiếu ẩm ướt, lao về phía trước với trọng lượng và quán tính khổng lồ. Máy quay: kế thừa hoàn toàn chuyển động cầm tay gốc của @video1, không làm mượt, không định thời lại, không bố cục lại; đoàn tàu lao ra luôn được khóa đúng vào màn chiếu và không gian phòng chiếu ở mọi thời điểm, duy trì thị sai, che khuất và bóng tiếp đất chính xác. Âm thanh: không nhạc, chỉ giữ những hiệu ứng âm thanh thật tại hiện trường, kế thừa không khí phòng chiếu của @video1 (tiếng lạch cạch của máy chiếu, tiếng khán giả xì xào) và thêm tiếng vải xé rách, tiếng hơi nước phun trào, tiếng gầm cơ khí của bánh xe thép, và luồng khí va đập. Tổng thời lượng giống hệt @video1; không thêm bất cứ thứ gì ngoài bản thân đoàn tàu và những tương tác vật lý của nó, cảnh xé màn, và sự chuyển màu vào khoảnh khắc phá ra. Không quay chậm, không cảm giác phép thuật, không kinh dị cách điệu; kết quả cuối cùng phải trông giống một hình ảnh kỳ dị nhưng chân thực về "một đoàn tàu đâm xuyên qua màn chiếu, đen trắng lập tức chuyển thành màu" được một chiếc máy quay thật tình cờ ghi lại trong một phòng chiếu cũ.
 ```
 
 <a id="category-5"></a>
 
-### Reference-Guided Tutorial (1)
+### Hướng dẫn theo ảnh tham chiếu (1)
 
-### No. 1: Capsule Coffee Machine Setup Tutorial (6 refs)
+### No. 1: Hướng Dẫn Lắp Đặt Máy Pha Cà Phê Viên Nén (6 ảnh tham chiếu)
 
-- **Category:** `Reference-Guided Tutorial`
+- **Category:** `Hướng dẫn theo ảnh tham chiếu`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `vi`
@@ -533,21 +522,21 @@ Hyper-real cinematic realist style with photorealistic live-action texture, emph
 
 #### Description
 
-A 30-second setup-and-use tutorial for a capsule coffee machine, six reference-guided steps with voiceover — from installing the water tank to the first rinse.
+Một video hướng dẫn 30 giây về cách lắp đặt và sử dụng máy pha cà phê viên nén, sáu bước có ảnh tham chiếu kèm lời thuyết minh — từ lắp bình nước đến lần súc rửa đầu tiên.
 
 #### Prompt
 
 ```text
-A 30-second tutorial video on installing and using a capsule coffee machine. 0-2s: the opening title card reads "seedance capsule coffee machine setup tutorial". 2-5s, Step 1: install the water tank, reference @image1, medium shot from a slightly high angle, rear of the machine body, align the water tank with the slot on the back of the body and push it straight down until it clicks firmly into place, clearly showing how the tank's bottom clips align with the body's slot, the water level line visible through the tank's transparent section, voiceover "First, install the water tank. Align the tank with the slot on the back of the machine; a click means it is locked in place.". 5-9s, Step 2: install the drip tray, reference @image2, close-up front view, front bottom of the body, slide the drip tray horizontally into the guide rails at the bottom until fully seated, voiceover "Next, install the drip tray. Align the tray with the bottom rails.". 9-13s, Step 3: install the used-capsule collection box, reference @image3, close-up from a slightly low angle, the cavity beneath the drip tray, align the collection box with the recess and push it in flush with the drip tray, voiceover "Then insert the capsule collection box. Used capsules will drop down here automatically.". 13-18s, Step 4: first fill with water, reference @image4, close-up side view, the water tank at the top/back of the body, open the tank lid and pour in clean water up to the MAX water level line, then close it, emphasizing the water level line, voiceover "Open the tank lid, pour in clean water, being careful not to exceed the maximum water level line, then close the tank lid.". 18-25s, Step 5: power on, reference @image5, medium shot front view, front of the body, plug in the power cord and press the power button; the indicator light goes from blinking to steady (preheating complete), voiceover "Connect the power and press the power button. The indicator light starts blinking, which means it is preheating. When the light turns steady, the machine is ready.". 25-30s, Step 6: first rinse (without a capsule), reference @image6, medium shot moving to a close-up front-side view, without inserting a capsule press the brew button directly so hot water flows out and rinses the lines, emphasizing the "no capsule needed" note, voiceover "The last step, the first rinse. Note that this step does not require a capsule; just press the brew button. Once the rinse is done, your coffee machine is ready to use."
+Một video hướng dẫn 30 giây về cách lắp đặt và sử dụng máy pha cà phê viên nén. 0-2s: thẻ tiêu đề mở đầu ghi "hướng dẫn lắp đặt máy pha cà phê viên nén seedance". 2-5s, Step 1: lắp bình nước, tham chiếu @image1, cảnh trung từ góc hơi cao, mặt sau thân máy, canh bình nước thẳng với khe ở phía sau thân máy rồi ấn thẳng xuống cho đến khi nghe tiếng "cạch" khóa chắc vào vị trí, thể hiện rõ cách các ngàm ở đáy bình khớp với khe của thân máy, nhìn thấy vạch mực nước qua phần trong suốt của bình, lời thuyết minh "Đầu tiên, hãy lắp bình nước. Canh bình thẳng với khe ở phía sau máy; một tiếng 'cạch' nghĩa là đã khóa vào vị trí.". 5-9s, Step 2: lắp khay hứng nước nhỏ giọt, tham chiếu @image2, cận cảnh nhìn từ phía trước, phần dưới mặt trước thân máy, trượt khay hứng nước theo phương ngang vào các thanh ray dẫn hướng ở đáy cho đến khi vào khít hoàn toàn, lời thuyết minh "Tiếp theo, hãy lắp khay hứng nước. Canh khay thẳng với các thanh ray ở đáy.". 9-13s, Step 3: lắp hộp thu gom viên nén đã dùng, tham chiếu @image3, cận cảnh từ góc hơi thấp, khoang trống bên dưới khay hứng nước, canh hộp thu gom thẳng với hốc lõm rồi đẩy vào cho ngang bằng với khay hứng nước, lời thuyết minh "Sau đó lắp hộp thu gom viên nén. Viên nén đã dùng sẽ tự động rơi xuống đây.". 13-18s, Step 4: đổ nước lần đầu, tham chiếu @image4, cận cảnh nhìn từ bên hông, bình nước ở phía trên/phía sau thân máy, mở nắp bình và rót nước sạch vào tới vạch mực nước MAX, rồi đậy lại, nhấn mạnh vạch mực nước, lời thuyết minh "Mở nắp bình, rót nước sạch vào, chú ý không vượt quá vạch mực nước tối đa, rồi đậy nắp bình lại.". 18-25s, Step 5: bật nguồn, tham chiếu @image5, cảnh trung nhìn từ phía trước, mặt trước thân máy, cắm dây nguồn và nhấn nút nguồn; đèn báo chuyển từ nhấp nháy sang sáng ổn định (đã làm nóng xong), lời thuyết minh "Cắm nguồn và nhấn nút nguồn. Đèn báo bắt đầu nhấp nháy, nghĩa là máy đang làm nóng. Khi đèn sáng ổn định, máy đã sẵn sàng.". 25-30s, Step 6: súc rửa lần đầu (không có viên nén), tham chiếu @image6, cảnh trung chuyển sang cận cảnh nhìn từ phía trước-bên hông, không lắp viên nén mà nhấn thẳng nút pha để nước nóng chảy ra súc rửa đường ống, nhấn mạnh lưu ý "không cần viên nén", lời thuyết minh "Bước cuối cùng, súc rửa lần đầu. Lưu ý bước này không cần viên nén; chỉ cần nhấn nút pha. Khi súc rửa xong, máy pha cà phê của bạn đã sẵn sàng để dùng.".
 ```
 
 <a id="category-6"></a>
 
-### Multimodal Reference (image+video) (1)
+### Tham chiếu đa phương thức (ảnh+video) (1)
 
-### No. 1: Fruity Cookie Commercial (image + 6 video refs)
+### No. 1: Quảng Cáo Bánh Quy Trái Cây (ảnh + 6 video tham chiếu)
 
-- **Category:** `Multimodal Reference (image+video)`
+- **Category:** `Tham chiếu đa phương thức (ảnh+video)`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `vi`
@@ -568,21 +557,21 @@ A 30-second tutorial video on installing and using a capsule coffee machine. 0-2
 
 #### Description
 
-A bright, colorful commercial for fruity cookies in four flavors — strawberry, apple, grape, orange — built from one image reference and six motion/camera video references, cut hard to a driving beat.
+Một quảng cáo tươi sáng, đầy màu sắc cho bánh quy trái cây bốn vị — dâu, táo, nho, cam — dựng từ một ảnh tham chiếu và sáu video tham chiếu về chuyển động/máy quay, cắt cứng theo một nhịp dồn dập.
 
 #### Prompt
 
 ```text
-A bright, colorful commercial style with fruity cookies as the hero, in four flavors — strawberry, apple, grape, and orange; strawberry flavor reference @image1. The cookies and their matching fruits are arranged in a strongly ordered geometric array; the overall frame is clean, premium, and high-energy. It opens with the fruits orbiting rapidly around the central cookie to quickly establish visual focus — reference the composition of @video1 — cutting in on a strong musical beat. Then cookies of different flavors advance toward the lens along spiral paths, forming clear spatial depth — reference the motion and camera work of @video2 — switching colors and flavors on the beat with the background music. The array of cookies pans left and right with fast plane-to-plane cuts, strawberry, apple, grape, and orange flavors alternating as the frame jump-cuts quickly to the rhythm — reference the movement of @video3. The mid-section adds up-and-down panning; the neat cookie array rises and falls vertically like a machine — reference the movement of @video4 — highlighting the beauty of order and the richness of the product. In the climax a cookie is snapped in two and the moment enters slow motion as the fruity filling bursts open, crumbs scattering, the juicy sensation and grainy impact amplified — reference the explosion effect of @video5 — then quickly returns to the fast-paced edit. The ending brings in the English text "Fresh on Seedance, made for viral vision", entering word by word in quick succession with strong rhythmic text motion and a product freeze-frame — reference @video6 — the four cookie flavors lined up neatly with the fruits bouncing in sync for a final brand-forward close, the frame full of a young, energetic, delicious, shareable ad atmosphere.
+Phong cách quảng cáo tươi sáng, đầy màu sắc với bánh quy trái cây làm nhân vật chính, bốn vị — dâu, táo, nho và cam; vị dâu tham chiếu @image1. Những chiếc bánh quy và trái cây tương ứng được sắp thành một mảng hình học có trật tự chặt chẽ; tổng thể khung hình sạch sẽ, cao cấp và tràn đầy năng lượng. Mở đầu với những trái cây xoay nhanh quanh chiếc bánh quy ở trung tâm để nhanh chóng thiết lập tiêu điểm thị giác — tham chiếu bố cục của @video1 — cắt vào theo một nhịp nhạc mạnh. Rồi những chiếc bánh quy vị khác nhau tiến về phía ống kính theo các đường xoắn ốc, tạo chiều sâu không gian rõ rệt — tham chiếu chuyển động và cách quay của @video2 — đổi màu và đổi vị theo nhịp của nhạc nền. Mảng bánh quy lia trái phải với những cú cắt nhanh từ mặt phẳng này sang mặt phẳng khác, các vị dâu, táo, nho và cam luân phiên khi khung hình jump-cut nhanh theo nhịp — tham chiếu chuyển động của @video3. Đoạn giữa thêm lia lên xuống; mảng bánh quy ngay ngắn dâng lên hạ xuống theo phương thẳng đứng như một cỗ máy — tham chiếu chuyển động của @video4 — làm nổi bật vẻ đẹp của sự trật tự và sự phong phú của sản phẩm. Ở cao trào, một chiếc bánh quy bị bẻ làm đôi và khoảnh khắc ấy chuyển sang quay chậm khi phần nhân trái cây vỡ bung, vụn bánh văng tứ tung, cảm giác mọng nước và sức va chạm của kết cấu được khuếch đại — tham chiếu hiệu ứng nổ tung của @video5 — rồi nhanh chóng trở lại lối dựng nhịp nhanh. Đoạn kết đưa vào dòng chữ tiếng Anh "Fresh on Seedance, made for viral vision", xuất hiện từng chữ nối tiếp nhau thật nhanh với chuyển động chữ giàu nhịp điệu và một khung hình sản phẩm đứng hình — tham chiếu @video6 — bốn vị bánh quy xếp ngay ngắn cùng những trái cây nảy lên đồng bộ để khép lại đầy tính thương hiệu, khung hình tràn ngập bầu không khí quảng cáo trẻ trung, tràn đầy năng lượng, ngon lành và đáng chia sẻ.
 ```
 
 <a id="category-7"></a>
 
-### Image Reference (1)
+### Tham chiếu ảnh (1)
 
-### No. 1: Desert Horned Lizard & Grapefruit (3D ad)
+### No. 1: Thằn Lằn Sừng Sa Mạc & Bưởi Chùm (quảng cáo 3D)
 
-- **Category:** `Image Reference`
+- **Category:** `Tham chiếu ảnh`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `vi`
@@ -597,21 +586,21 @@ A bright, colorful commercial style with fruity cookies as the hero, in four fla
 
 #### Description
 
-A bright, glossy 3D animated commercial: a parched desert horned lizard finds a grapefruit, bites in, and a juice tsunami turns the desert into a summer sea. Built from one character reference.
+Một quảng cáo hoạt hình 3D tươi sáng, bóng bẩy: một chú thằn lằn sừng sa mạc khô khát tìm thấy một quả bưởi chùm, cắn vào, và một cơn sóng thần nước ép biến sa mạc thành biển mùa hè. Dựng từ một ảnh tham chiếu nhân vật.
 
 #### Prompt
 
 ```text
-A 3D animated commercial style, bright and translucent colors; the pulp and juice must feel intensely refreshing and impactful. The overall vibe is like a high-quality commercial animated short with a touch of exaggerated humor. The desert horned lizard character is cute, lively and expressive, reference @image1. The image texture references that soft natural light, delicate fuzz/skin texture, dreamy macro depth of field, and a realistic-yet-slightly-childlike feel from the reference image. 0-3s: a desert scorched by the blazing sun, the air shimmering with heat and the sand searing hot; a desert horned lizard lies on the scalding sand, tongue slightly out, eyes glazed, nearly dried out, swaying with every couple of steps as if about to "evaporate". 3-6s: it suddenly stops, its nose twitches, and looking down it spots a cool, plump, dew-covered grapefruit half-buried in the sand, glistening like a desert miracle; the lizard's eyes go wide in an instant. 6-8s: it pounces over, hugging the grapefruit tightly with both hands, pressing its whole face against the rind with a blissful "I'm finally alive" expression; the frame holds for 1 second, forming an exaggerated, funny memory beat. 8-11s: it looks up, opens its mouth and takes a big bite; the grapefruit rind splits open, the plump pulp shining with a translucent gloss, and the next moment the juice erupts like a tsunami. 11-16s: orange-pink, translucent, glistening grapefruit juice gushes out wildly, pouring down the dunes and rapidly flooding the entire desert; the dry yellow sand instantly turns into a cool, sparkling, fruit-scented summer sea, cacti, rocks and small dunes swallowed by the waves of juice, the lizard's expression turning from delight to terror. 16-20s: nearly drowned by the "grapefruit sea", it frantically clutches half a grapefruit like a life buoy and floats, poking its soaked head out looking dazed. 20-24s: cut to a white screen; the brand name and slogan appear dead-center: "Seedance Grapefruit — bite in for the pulp, what pours out is summer." The voiceover reads the whole line. 24-30s: cut back from white; the desert horned lizard is now lounging on the floating grapefruit, wearing tiny sunglasses and holding a cup with a straw, drifting leisurely on the "juice sea" on vacation, surrounded by floating orange pulp, little ice cubes, cool splashes and a clear blue sky; the mood shifts from "survival" to "vacation", and finally it leans back contentedly on the grapefruit as the camera pulls out and freezes on a refreshing, bright, playful summer frame.
+Phong cách quảng cáo hoạt hình 3D, màu sắc tươi sáng và trong trẻo; phần thịt và nước ép phải cho cảm giác sảng khoái và ấn tượng mãnh liệt. Không khí tổng thể như một phim hoạt hình quảng cáo ngắn chất lượng cao pha chút hài hước phóng đại. Nhân vật thằn lằn sừng sa mạc dễ thương, sống động và giàu biểu cảm, tham chiếu @image1. Kết cấu hình ảnh tham chiếu theo ánh sáng tự nhiên dịu, kết cấu lông tơ/da tinh tế, độ sâu trường ảnh macro mộng mơ, và cảm giác chân thực-mà-hơi-trẻ-con từ ảnh tham chiếu. 0-3s: một sa mạc bị mặt trời gay gắt thiêu đốt, không khí lung linh vì hơi nóng và cát nóng bỏng; một chú thằn lằn sừng sa mạc nằm bẹp trên cát bỏng rát, lưỡi thè ra một chút, mắt lờ đờ, gần như khô kiệt, cứ vài bước lại lảo đảo như sắp "bốc hơi". 3-6s: nó đột nhiên dừng lại, mũi khịt khịt, và khi nhìn xuống thì phát hiện một quả bưởi chùm mát lạnh, căng mọng, phủ sương nửa vùi trong cát, lấp lánh như một phép màu giữa sa mạc; đôi mắt của chú thằn lằn mở to trong tích tắc. 6-8s: nó lao tới, ôm chặt quả bưởi bằng cả hai tay, áp cả khuôn mặt vào vỏ với vẻ mặt hạnh phúc "cuối cùng thì mình cũng sống rồi"; khung hình dừng lại 1 giây, tạo nên một nhịp hồi tưởng phóng đại và hài hước. 8-11s: nó ngẩng lên, há miệng cắn một miếng thật to; vỏ bưởi nứt toác ra, phần thịt căng mọng ánh lên vẻ bóng trong trẻo, và khoảnh khắc tiếp theo nước ép phun trào như sóng thần. 11-16s: nước bưởi màu cam-hồng, trong trẻo, lấp lánh phun ra dữ dội, đổ tràn xuống các đụn cát và nhanh chóng nhấn chìm cả sa mạc; cát vàng khô cằn lập tức biến thành một biển mùa hè mát lạnh, lấp lánh, thơm mùi trái cây, những cây xương rồng, tảng đá và đụn cát nhỏ bị những đợt sóng nước ép nuốt chửng, biểu cảm của chú thằn lằn chuyển từ vui sướng sang khiếp sợ. 16-20s: suýt chết đuối trong "biển bưởi", nó cuống cuồng ôm chặt nửa quả bưởi như một chiếc phao cứu sinh và nổi lên, thò cái đầu ướt sũng ra ngoài với vẻ ngơ ngác. 20-24s: cắt sang màn hình trắng; tên thương hiệu và khẩu hiệu hiện ra ngay chính giữa: "Seedance Bưởi Chùm — cắn vào là thịt, tuôn ra là mùa hè." Lời thuyết minh đọc trọn câu. 24-30s: cắt trở lại từ nền trắng; chú thằn lằn sừng sa mạc giờ đang nằm khểnh trên quả bưởi nổi bồng bềnh, đeo cặp kính râm bé xíu và cầm một chiếc cốc có ống hút, thong dong trôi trên "biển nước ép" như đi nghỉ dưỡng, xung quanh là phần thịt bưởi màu cam trôi nổi, những viên đá nhỏ, những tia nước mát lạnh và một bầu trời xanh trong; tâm trạng chuyển từ "sinh tồn" sang "nghỉ dưỡng", và cuối cùng nó ngả lưng mãn nguyện dựa vào quả bưởi khi máy quay lùi ra và đứng hình trên một khung cảnh mùa hè sảng khoái, tươi sáng, tinh nghịch.
 ```
 
 <a id="category-8"></a>
 
-### Image Reference (Cinematic) (1)
+### Tham chiếu ảnh (Điện ảnh) (1)
 
-### No. 1: Drunk Man's Rooftop Fall (black-comedy short)
+### No. 1: Cú Ngã Từ Nóc Nhà Của Gã Say (phim ngắn hài đen)
 
-- **Category:** `Image Reference (Cinematic)`
+- **Category:** `Tham chiếu ảnh (Điện ảnh)`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `vi`
@@ -626,2012 +615,12 @@ A 3D animated commercial style, bright and translucent colors; the pulp and juic
 
 #### Description
 
-A ~30s black-comedy cinematic short: a chubby, tipsy man topples off a rooftop, grabs a lifeline, crashes through a window, and simply falls asleep. Character from one reference image; built on hard cuts between roar and total silence.
+Một phim ngắn điện ảnh hài đen dài khoảng 30 giây: một gã đàn ông mập mạp, ngà ngà say lộn nhào khỏi nóc nhà, chộp được dây cứu sinh, đâm xuyên qua cửa kính, rồi ngủ khì luôn tại chỗ. Nhân vật lấy từ một ảnh tham chiếu; dựng trên những cú cắt cứng giữa tiếng gầm và sự im lặng tuyệt đối.
 
 #### Prompt
 
 ```text
-[Drunk Man's Rooftop Fright — falls off the edge — grabs a rope through the window — passes out on the spot | black-comedy short | about 30 seconds] One-line premise: a chubby, cute, drunk middle-aged man is eating a burger and drinking beer on the rooftop of a building; as he stands up and stretches he accidentally loses his footing and falls, in his panic grabs a lifesaving rope and immediately crashes through a window into an interior, is dazed and stunned for one second, then just lies down where he is and falls fast asleep. Reference image @image1 — a chubby, cute, drunk middle-aged man: round and stocky build with a big round beer belly, short in stature, movements loose, slow and wobbly from drinking; round face, double chin, drink-flushed cheeks and nose, eyes narrowed to slits with a bleary gaze, an untrimmed ring of short stubble, messy hair, a silly, cute, carefree expression; wearing a white tank-top undershirt stained with burger sauce hanging loosely over his round belly, old jeans, shuffling along in loose slippers, always clutching a half-eaten burger in his hand. There is only this one character in the whole film, a 100% match to the reference image. Overall look: a nighttime cyberpunk mega-city, a dense forest of glass-and-steel skyscrapers, neon signs (cyan / magenta / electric blue), holographic billboards, wet reflective ground, volumetric fog, distant flying-car light trails and drones. Real live-action texture, physical cinema lenses, no 3D rendering / game engine / anime feel. The camera mixes handheld with jib / drone; after the fall the camera plunges down with him as the building's exterior wall and the neon streak upward to convey speed, 24-35mm widescreen cinematic lens texture, 180-degree shutter motion blur. Sound design is the key to the black comedy: hard-cutting repeatedly between "a huge roar" and "total silence". Real gravity throughout. Storyboard (about 30 seconds): S1 (0-4s) opening chewing big close-up (with sound) the man's face fills the screen, chewing the burger in big bites, a satisfied drunken state; S2 (4-9s) pull to a wide shot, stretching -> losing footing and falling (with sound) he wobbles to his feet and stretches big, leans back, can't keep his balance, his foot slips and he tumbles backward over the edge of the rooftop, never letting go of the burger, with a panicked "Eh——!"; S3 (9-12s) cut to a startled facial close-up (a loud scream, huge roar) drunken eyes bulging round, double chin bunched up, mouth wide in a screaming "Ahh——!!", wind howling; S4 (12-16s) cut to a long shot at eye level (total silence) seen from the building across the way, a tiny white figure plummeting straight down from the high-rise, the neon city vast and indifferent, the total silence forming a black-comedy contrast with the huge roar a second earlier; S5 (16-21s) cut to a facial close-up (screaming) -> grabbing the rope, still screaming, hands flailing in the air, he suddenly grabs a lifesaving cable, the cable snapping taut and bending under his weight with a twang, the scream cutting off abruptly as he is jerked and swings out (a brief slow motion at the moment he grabs the rope); S6 (21-26s) cut to an interior angle (quiet) -> the glass shatters -> he crashes in, the interior first quiet with only the hum of the air conditioner, the next second the glass explosively bursts inward (a brief bullet time) as the drunk man, burger and all, smashes through the window, shards flying out radially, neon light streaming in, and he crashes heavily into the room onto the floor / sofa, broken glass clinking; S7 (26-30s) ending, a startled second -> falls asleep, the man sprawled spread-eagle on the floor, covered in broken glass, still clutching the burger, slowly opens his eyes, dazed, blank and startled for a full second, looking around as if thinking "where am I?", then the drunkenness takes over and, not caring at all, he smacks his lips, tucks the burger into his arms, rolls over, lies down right there and falls fast asleep, even snoring lightly, the camera pulls out and freezes, hard cut to black. Only on-set live sound, no music, no subtitles; the core is hard cuts repeatedly between "huge roar" and "silence".
-```
-
-<a id="category-9"></a>
-
-### Twitter Community (24)
-
-### No. 1: Quảng cáo Miếng Bổ sung Thần kinh Veloce-X
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Gilbert Odera | Your AI Plug🇰🇪
-- **Language:** `vi`
-- **Source Link:** [View](https://x.com/yourPlugAI/status/2064591659115905203)
-
-#### Description
-
-Một đề xuất để tạo một quảng cáo điện ảnh tốc độ cao, siêu thực tế dài 15 giây cho một sản phẩm bổ sung thần kinh.
-
-#### Prompt
-
-```text
-Create a 15-second ultra-realistic, high-speed cinematic image-to-video commercial for Veloce-X Neuro-Hydration Strips, utilizing the provided reference images as the absolute anchor for character, product design, color palette, and
-```
-
-### No. 2: Người Đàn Ông trong Mưa với Mặt Nạ
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Xfeed24
-- **Language:** `vi`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064605968420261888/vid/avc1/1280x716/DknXfm6NuCMCohq9.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064605968420261888/vid/avc1/1280x716/DknXfm6NuCMCohq9.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/XfeedZ24/status/2064606040797171839)
-
-#### Description
-
-Một cảnh cận cảnh một người đàn ông đeo mặt nạ tương lai đứng dưới mưa với vẻ mặt u sầu.
-
-#### Prompt
-
-```text
-close-up of a man in a futuristic mask, wet hair, rain falling, dark and moody lighting, cinematic shot
-```
-
-### No. 3: Sức Mạnh Cà Phê
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** minchinEdits
-- **Language:** `vi`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064606538237710336/vid/avc1/720x1280/qcEBjR0LJuF4rgce.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064606538237710336/vid/avc1/720x1280/qcEBjR0LJuF4rgce.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/minchinEdits/status/2064606613865103832)
-
-#### Description
-
-Một người phụ nữ tỏa ra năng lượng từ cà phê, được bao quanh bởi những cảnh văn phòng tràn đầy sinh lực.
-
-#### Prompt
-
-```text
-a vibrant animated scene of a woman surrounded by glowing golden energy, holding a coffee cup, with multiple versions of her and coworkers in an office environment, all expressing excitement and productivity, cinematic lighting, dynamic composition, 3D animation style
-```
-
-### No. 4: Trận Chiến Kỳ Ảo Đen Tối với Hiệu Ứng Thực Tế
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Build Fast with AI
-- **Language:** `vi`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064395868787347456/vid/avc1/854x480/Nmuqe4FnZH5lRPZd.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064395868787347456/vid/avc1/854x480/Nmuqe4FnZH5lRPZd.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/BuildFastWithAI/status/2064595921443139684)
-
-#### Description
-
-Một gợi ý để tạo ra một cảnh chiến đấu kỳ ảo đen tối dài 15 giây sử dụng Seedance 2.0 với tính thẩm mỹ hiệu ứng thực tế và độ sắc nét thấp.
-
-#### Prompt
-
-```text
-15-second dark fantasy battle. Seedance 2.0. Zero post. Zero upscaling. Low sharpness + practical effect aesthetic.
-```
-
-### No. 5: Thiết Kế Nhân Vật Mèo Con
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** GPTProto Official
-- **Language:** `vi`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064599776021426176/vid/avc1/1080x1920/b4Mr5JDKiFBYrzOo.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064599776021426176/vid/avc1/1080x1920/b4Mr5JDKiFBYrzOo.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/gptproto/status/2064601178902814752)
-
-#### Description
-
-Một chú mèo con màu cam đáng yêu ngồi trên bàn gỗ trong phòng khách ngập nắng, với các bản thiết kế nhân vật chi tiết được trưng bày bên dưới thể hiện mô hình 3D, biểu cảm và bảng màu của nó.
-
-#### Prompt
-
-```text
-a cute orange tabby kitten with big eyes sitting on a wooden table in a cozy living room, surrounded by a tissue box, a glass of water, and a toy mouse, with detailed character design sheets below showing 3D model views, expressions, poses, and color references, soft natural lighting, warm atmosphere, cinematic depth of field
-```
-
-### No. 6: Người phụ nữ tại Hội nghị AI
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** CloudwiseAI
-- **Language:** `vi`
-- **Source Link:** [View](https://x.com/cloudwiseAI2026/status/2064591595991969879)
-
-#### Description
-
-Một phụ nữ nói vào micro trước màn hình hiển thị trang web hội nghị GenAI với chủ đề bóng đá.
-
-#### Prompt
-
-```text
-a woman speaking into a microphone in front of a large screen displaying a GenAI conference website with a soccer stadium background, natural lighting from windows, realistic details, medium shot
-```
-
-### No. 7: Vòi Xoáy Trên Thành Phố
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Pixmax
-- **Language:** `vi`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064593085431185408/vid/avc1/1080x720/dawSBFfVAweSgYmE.mp4?tag=14)
-
-<video src="https://video.twimg.com/amplify_video/2064593085431185408/vid/avc1/1080x720/dawSBFfVAweSgYmE.mp4?tag=14" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/Pixmax_ai/status/2064593399882432615)
-
-#### Description
-
-Một người đàn ông ngước nhìn lên một vòi xoáy phát sáng màu xanh lơ lửng trên một đô thị tương lai vào ban đêm.
-
-#### Prompt
-
-```text
-a man in a black jacket stands in a futuristic city at night, looking up at a massive glowing blue vortex in the sky, surrounded by towering skyscrapers with neon lights, cinematic lighting, wide-angle shot, dramatic perspective
-```
-
-### No. 8: Naruto Live Spectacular
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** AIAI.COM
-- **Language:** `vi`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064592744111325184/vid/avc1/1920x1080/QMHtQZk7WlNnDcml.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064592744111325184/vid/avc1/1920x1080/QMHtQZk7WlNnDcml.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/Aiaicom09/status/2064592826290336125)
-
-#### Description
-
-Một buổi biểu diễn sân khấu trực tiếp có sự xuất hiện của Naruto và Sasuke trong trang phục biểu tượng của họ, với khán giả đang ghi lại khoảnh khắc bằng điện thoại.
-
-#### Prompt
-
-```text
-live stage performance of Naruto characters, Naruto Uzumaki and Sasuke Uchiha in full costume, standing on a stage with a crowd watching, bright daylight, realistic lighting, detailed costumes, dynamic pose, audience holding phones to record, Japanese text banner above stage reading 'LIVE SPECTACULAR NARUTO', wide shot, static camera
-```
-
-### No. 9: Khám phá Nền tảng AI GlobalGPT
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Choya
-- **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/prompt/seedance-2/x_2064988432590356506.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2064988432590356506.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/choyamymuna/status/2064988432590356506)
-
-#### Description
-
-Video này ghi lại một bản ghi màn hình chi tiết, giới thiệu các mô hình và công cụ AI đa dạng của nền tảng GlobalGPT để tạo hình ảnh, video và âm thanh.
-
-#### Prompt
-
-```text
-A static screen recording of a desktop computer displaying the GlobalGPT website in a web browser. The cursor moves across the screen, clicking on navigation links and scrolling through lists of AI video, image, and audio generation models and tools. The background behind the browser window features an abstract, vibrant gradient of blue, purple, pink, and orange waves. The focus is entirely on the browser's UI and its interactive elements.
-```
-
-### No. 10: Video Bóng đá Điện ảnh với Cầu thủ Siêu thực
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** auqib
-- **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/prompt/seedance-2/x_2064989700738412551.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2064989700738412551.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/auqibhabib/status/2064989700738412551)
-
-#### Description
-
-Một video điện ảnh đa phương tiện có sự hòa nhập của các cầu thủ bóng đá người siêu thực tế vào môi trường sân vận động chân thực.
-
-#### Prompt
-
-```text
-Mixed-media cinematic football video featuring ultra-realistic human football players inspired by Image1 and Image2, seamlessly integrated into the ultra-realistic football stadium environment from Image3. Same team, same
-```
-
-### No. 11: Đấu bò điện ảnh vào giờ vàng
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** WasifAI
-- **Language:** `vi`
-- **Video:** [View](https://video.twimg.com/ext_tw_video/2064595743864737792/pu/vid/avc1/1920x1080/_o4DsXvAFcjPpDIc.mp4)
-
-<video src="https://video.twimg.com/ext_tw_video/2064595743864737792/pu/vid/avc1/1920x1080/_o4DsXvAFcjPpDIc.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/doctorwasif/status/2064595805906817115)
-
-#### Description
-
-Một gợi ý video chân thực cho một cảnh điện ảnh liên tục dài 15 giây đặt trong một đấu trường đấu bò vào giờ vàng.
-
-#### Prompt
-
-```text
-15s continuous cinematic Hollywood 60fps, photoreal Plaza de Toros at golden hour, packed crowd, dust in warm amber light. Consistent matador (@ Image1) in emerald-gold
-```
-
-### No. 12: Hoạt hình Màu nước Cổ tích Mê hoặc
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** OscarAI
-- **Language:** `vi`
-- **Source Link:** [View](https://x.com/Artedeingenio/status/2064985164116119665)
-
-#### Description
-
-Một video liên tục dài 15 giây không có cảnh cắt hay chuyển cảnh, được tạo kiểu như một hoạt hình cổ tích kỳ ảo, vẽ tay bằng màu nước và mực.
-
-#### Prompt
-
-```text
-15-second continuous single-shot. No cuts. No scene transitions. Style: enchanting fairy tale animation, hand-painted watercolor and ink illustration brought to life, whimsical
-```
-
-### No. 13: Nhện Robot Khoa Học Viễn Tưởng trên Đường Chạy
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Avelyrah
-- **Language:** `vi`
-- **Video:** [View](https://video.twimg.com/ext_tw_video/2064608014934695936/pu/vid/avc1/1280x720/2Cwwi5g_SYa4kIy8.mp4)
-
-<video src="https://video.twimg.com/ext_tw_video/2064608014934695936/pu/vid/avc1/1280x720/2Cwwi5g_SYa4kIy8.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/AvelyrahnAI/status/2064608055908868501)
-
-#### Description
-
-Một phân cảnh video khoa học viễn tưởng nhịp độ nhanh có một phụ nữ tóc vàng mặc đồ thể thao khi một con nhện robot mở rộng trên cổ tay cô trong khi các sinh viên bỏ chạy.
-
-#### Prompt
-
-```text
-A fast-paced sci-fi video sequence on a high school running track under a dark, overcast sky. A blonde woman in a navy and white tracksuit walks confidently forward as students flee. A robotic spider on her wrist rapidly expands
-```
-
-### No. 14: Người lính quan sát hạm đội
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Global Frontline News
-- **Language:** `vi`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064598715831398400/vid/avc1/1280x720/8wGHKWvZrRIK6fxS.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064598715831398400/vid/avc1/1280x720/8wGHKWvZrRIK6fxS.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/OmeyLad23/status/2064611393580757271)
-
-#### Description
-
-Một người lính đứng ở phía sau một máy bay quân sự, nhìn ra ngoài hạm đội tàu chiến rộng lớn trên đại dương phía dưới.
-
-#### Prompt
-
-```text
-a soldier in tactical gear stands at the open rear of a military transport aircraft, looking out over a fleet of naval ships on the ocean, cinematic lighting, wide shot from behind, high detail, realistic
-```
-
-### No. 15: Bay Quidditch ở Hogwarts
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Cyber AI Creator 🎨
-- **Language:** `vi`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064598185205731328/vid/avc1/720x806/RJuHUIc2jLdBY5Wy.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064598185205731328/vid/avc1/720x806/RJuHUIc2jLdBY5Wy.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/noman23761/status/2064598264528470051)
-
-#### Description
-
-Góc nhìn người thứ nhất khi bay trên cây chổi qua sân Quidditch tại Hogwarts, chuyển sang cảnh quay trên không toàn cảnh lâu đài lúc hoàng hôn.
-
-#### Prompt
-
-```text
-first-person view of flying on a broomstick over the Quidditch field at Hogwarts, with golden hoops and castle in background, transitioning to an aerial wide shot of Hogwarts Castle at sunset with red trail showing flight path
-```
-
-### No. 16: Tranh Khái Niệm Chiến Binh Băng Giá
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Cyber AI Creator 🎨
-- **Language:** `vi`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064597000713281536/vid/avc1/1140x1080/2ItRonsYxDE0Pyne.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064597000713281536/vid/avc1/1140x1080/2ItRonsYxDE0Pyne.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/noman23761/status/2064597123795173495)
-
-#### Description
-
-Một bức tranh minh họa khái niệm có hình một nữ chiến binh và một người tuyết băng trong môi trường tuyết phủ với thiết kế nhân vật chi tiết.
-
-#### Prompt
-
-```text
-concept art of a female warrior and an ice golem in a snowy landscape, detailed character designs with armor and weapons, anime style, wide shot, static camera
-```
-
-### No. 17: Dạo Bước Phố Cổ
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** EdenWood
-- **Language:** `vi`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064592895923965952/vid/avc1/1280x720/8JlrIYiYHhKJtJ-_.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064592895923965952/vid/avc1/1280x720/8JlrIYiYHhKJtJ-_.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/EdenWood62747/status/2064592964366585994)
-
-#### Description
-
-Một người đàn ông đi bộ xuống một con phố cổ điển nhộn nhịp có xe điện phía sau, được ghi lại bằng màu đen trắng với chi tiết điện ảnh.
-
-#### Prompt
-
-```text
-black and white vintage street scene, a man in a white shirt walking toward the camera, old tram in the background, people walking on the street, colonial architecture, sepia tone, cinematic lighting, slow motion
-```
-
-### No. 18: Bài thuyết trình về Kết xuất 3D
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** CloudwiseAI
-- **Language:** `vi`
-- **Source Link:** [View](https://x.com/cloudwiseAI2026/status/2064591627214356928)
-
-#### Description
-
-Một người thuyết trình chỉ vào màn hình hiển thị các hình cầu được kết xuất 3D trong một buổi hội thảo.
-
-#### Prompt
-
-```text
-a man giving a presentation in front of an audience, pointing at a large screen displaying a 3D rendering of two reflective spheres on a wooden table, with natural light coming through windows in the background
-```
-
-### No. 19: Tổng quan về Trang web GlobalGPT
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Rasel Hosen
-- **Language:** `vi`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064592725241184256/vid/avc1/1280x720/NI71SYLYLAoa66wB.mp4?tag=14)
-
-<video src="https://video.twimg.com/amplify_video/2064592725241184256/vid/avc1/1280x720/NI71SYLYLAoa66wB.mp4?tag=14" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/details_with_ai/status/2064592792354275730)
-
-#### Description
-
-Một ảnh chụp màn hình trang chủ của trang web GlobalGPT với nền màu sắc rực rỡ và các tùy chọn công cụ AI.
-
-#### Prompt
-
-```text
-a screen recording of the GlobalGPT website homepage with a colorful abstract background, showing the navigation menu, AI model selection interface, and promotional banners, with a subtle zoom-in effect on the central content area
-```
-
-### No. 20: Cuộc Phiêu Lưu trên Con Đường Ánh Nắng
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** 💫Wigglenator💫
-- **Language:** `vi`
-- **Source Link:** [View](https://x.com/Wigglenatorr/status/2064608020701532188)
-
-#### Description
-
-Một cô gái anime trẻ với đôi sừng đứng trên con đường lát đá cuội ngập tràn ánh nắng vàng.
-
-#### Prompt
-
-```text
-anime girl with white hair and horns, wearing a red cloak, standing on a stone path in a sunlit garden, golden hour lighting, soft focus background, detailed character design, warm tones
-```
-
-### No. 21: Người lính quan sát hạm đội
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Global Frontline News
-- **Language:** `vi`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064598715831398400/vid/avc1/1280x720/8wGHKWvZrRIK6fxS.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064598715831398400/vid/avc1/1280x720/8wGHKWvZrRIK6fxS.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/OmeyLad23/status/2064606091951190378)
-
-#### Description
-
-Một người lính đứng ở phía sau một máy bay quân sự, nhìn ra ngoài hạm đội hải quân khổng lồ trên biển khơi.
-
-#### Prompt
-
-```text
-a soldier in tactical gear stands at the open rear ramp of a military transport aircraft, looking out over a vast fleet of warships on the ocean, cinematic lighting, high detail, wide shot
-```
-
-### No. 22: phòng khách punk rock
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Cyber AI Creator 🎨
-- **Language:** `vi`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064595369720442880/vid/avc1/1080x1216/n-dxp79lHtiON4Wj.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064595369720442880/vid/avc1/1080x1216/n-dxp79lHtiON4Wj.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/noman23761/status/2064595569763639713)
-
-#### Description
-
-Một bức ảnh chân thực của năm phụ nữ với phong cách thời trang cá tính đang thư giãn trong một căn hộ phóng khoáng trong khi một con mèo trắng bước về phía họ.
-
-#### Prompt
-
-```text
-a group of five young women with punk rock style sitting on a couch in a cozy, cluttered living room filled with plants and music posters, a white cat walking away from the camera towards the group, warm ambient lighting, realistic photo style
-```
-
-### No. 23: Thợ lặn đập tay trên biển
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Ranveer Singh Sisodia
-- **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/prompt/seedance-2/x_2064988239623225619.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2064988239623225619.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/sphereofai/status/2064988239623225619)
-
-#### Description
-
-Một thợ lặn trên thuyền đập tay chào mừng một thợ lặn khác trên biển khơi dưới bầu trời sáng.
-
-#### Prompt
-
-```text
-first person view of a diver on a boat, high five with another diver, clear blue ocean, sunny day, wide angle lens
-```
-
-### No. 24: Bản trình diễn Thuyết trình AI
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** CloudwiseAI
-- **Language:** `vi`
-- **Source Link:** [View](https://x.com/cloudwiseAI2026/status/2064591614627189158)
-
-#### Description
-
-Một người thuyết trình nói chuyện với khán giả trong khi trình chiếu một hoạt ảnh kỹ thuật số về các hình cầu phản chiếu trên màn hình.
-
-#### Prompt
-
-```text
-a man giving a presentation in front of an audience, holding a microphone, with a large screen displaying two reflective spheres on a dark surface, natural light from windows, indoor setting with plants and audio equipment
-```
-
-<a id="category-10"></a>
-
-### Âm thanh & tổng hợp giọng nói (10)
-
-### No. 1: Trận roast mèo & chó
-
-- **Category:** `Âm thanh & tổng hợp giọng nói`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/1793c9e5-608e-435e-a72b-0e657bbb2d5c.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/1793c9e5-608e-435e-a72b-0e657bbb2d5c.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/35)
-
-#### Description
-
-Talk show hài với nhân vật động vật biểu cảm và lời thoại dí dỏm.
-
-#### Prompt
-
-```text
-Tạo cảnh video: Talk show hài với nhân vật động vật biểu cảm và lời thoại dí dỏm.
-```
-
-### No. 2: Phim tài liệu tòa nhà văn phòng
-
-- **Category:** `Âm thanh & tổng hợp giọng nói`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/843a60ae-3df3-4c37-9fd4-2437f3ac2253.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/843a60ae-3df3-4c37-9fd4-2437f3ac2253.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/34)
-
-#### Description
-
-Phim tài liệu bất động sản phong cách điện ảnh với lời thuyết minh chuyên nghiệp.
-
-#### Prompt
-
-```text
-Tạo cảnh video: Phim tài liệu bất động sản phong cách điện ảnh với lời thuyết minh chuyên nghiệp.
-```
-
-### No. 3: Hài ngựa góc mắt cá
-
-- **Category:** `Âm thanh & tổng hợp giọng nói`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/26d450cd-23c4-499e-9fd6-1752dabbc8bd.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/26d450cd-23c4-499e-9fd6-1752dabbc8bd.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/33)
-
-#### Description
-
-Nhân vật động vật với hội thoại và hiệu ứng âm thanh đồng bộ qua ống kính mắt cá.
-
-#### Prompt
-
-```text
-Tạo cảnh video: Nhân vật động vật với hội thoại và hiệu ứng âm thanh đồng bộ qua ống kính mắt cá.
-```
-
-### No. 4: Lễ mừng gia đình đa văn hóa
-
-- **Category:** `Âm thanh & tổng hợp giọng nói`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/ac11aa46-e846-4167-af87-53f0be98df9e.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/ac11aa46-e846-4167-af87-53f0be98df9e.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/38)
-
-#### Description
-
-Cảnh gia đình ấm áp với hội thoại tiếng Anh và nhạc Latin.
-
-#### Prompt
-
-```text
-Tạo cảnh video: Cảnh gia đình ấm áp với hội thoại tiếng Anh và nhạc Latin.
-```
-
-### No. 5: Đối thoại đánh thức buổi sáng
-
-- **Category:** `Âm thanh & tổng hợp giọng nói`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/7744c998-76b7-436f-9066-6d4ef5f0ce7f.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/7744c998-76b7-436f-9066-6d4ef5f0ce7f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/40)
-
-#### Description
-
-Cảnh cặp đôi thân mật với diễn giọng tự nhiên và sắc thái cảm xúc tinh tế.
-
-#### Prompt
-
-```text
-Tạo cảnh video: Cảnh cặp đôi thân mật với diễn giọng tự nhiên và sắc thái cảm xúc tinh tế.
-```
-
-### No. 6: Briefing tiếng Tây Ban Nha của đội chiến thuật
-
-- **Category:** `Âm thanh & tổng hợp giọng nói`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/cda3c348-80c8-445b-8d85-d1eefe36e0b2.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/cda3c348-80c8-445b-8d85-d1eefe36e0b2.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/39)
-
-#### Description
-
-Cảnh quân sự chiến thuật với hội thoại tiếng Tây Ban Nha và âm thanh trang bị.
-
-#### Prompt
-
-```text
-Tạo cảnh video: Cảnh quân sự chiến thuật với hội thoại tiếng Tây Ban Nha và âm thanh trang bị.
-```
-
-### No. 7: Trình diễn hí khúc Trung Hoa
-
-- **Category:** `Âm thanh & tổng hợp giọng nói`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/6f6ea681-2e7b-4e35-9126-a72d2046bc1f.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/6f6ea681-2e7b-4e35-9126-a72d2046bc1f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/36)
-
-#### Description
-
-Cảnh trình diễn hí khúc Hà Nam truyền thống với giọng hát chuẩn và cao trào kịch tính.
-
-#### Prompt
-
-```text
-Tạo cảnh video: Cảnh trình diễn hí khúc Hà Nam truyền thống với giọng hát chuẩn và cao trào kịch tính.
-```
-
-### No. 8: Trà sữa giọng Tứ Xuyên
-
-- **Category:** `Âm thanh & tổng hợp giọng nói`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/4f4d9b27-1962-494e-b1fa-5191ede1b500.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/4f4d9b27-1962-494e-b1fa-5191ede1b500.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/41)
-
-#### Description
-
-Cảnh hài với phương ngữ Tứ Xuyên chân thực và tương tác nhân vật.
-
-#### Prompt
-
-```text
-Tạo cảnh video: Cảnh hài với phương ngữ Tứ Xuyên chân thực và tương tác nhân vật.
-```
-
-### No. 9: Kể chuyện Tây Du Ký
-
-- **Category:** `Âm thanh & tổng hợp giọng nói`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/14269628-c801-4b26-b400-38b2c7d2d97a.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/14269628-c801-4b26-b400-38b2c7d2d97a.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/42)
-
-#### Description
-
-Nội dung giáo dục với lời dẫn phong cách tài liệu giải thích văn học cổ điển Trung Hoa.
-
-#### Prompt
-
-```text
-Tạo cảnh video: Nội dung giáo dục với lời dẫn phong cách tài liệu giải thích văn học cổ điển Trung Hoa.
-```
-
-### No. 10: MV road trip điện ảnh
-
-- **Category:** `Âm thanh & tổng hợp giọng nói`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/f9f34a78-6001-4013-8e9a-a413ca727f00.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/f9f34a78-6001-4013-8e9a-a413ca727f00.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/37)
-
-#### Description
-
-Video âm nhạc với từ khóa quay phim cụ thể và âm thanh giàu bầu không khí.
-
-#### Prompt
-
-```text
-Tạo cảnh video: Video âm nhạc với từ khóa quay phim cụ thể và âm thanh giàu bầu không khí.
-```
-
-<a id="category-11"></a>
-
-### Chuyển động camera nâng cao (13)
-
-### No. 1: IMAX-Style Desert Sandstorm Scene with Denis Villeneuve Aesthetic
-
-- **Category:** `Chuyển động camera nâng cao`
-- **Source:** `twitter`
-- **Author:** John (@johnAGI168)
-- **Language:** `vi`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/c3e4c06f-da7d-4127-ad68-7ed1656e2472.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/c3e4c06f-da7d-4127-ad68-7ed1656e2472.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/johnAGI168/status/2020989515939148146)
-
-#### Description
-
-IMAX-style desert sandstorm scene with Denis Villeneuve aesthetic. Features timestamped multi-shot structure.
-
-#### Prompt
-
-```text
-Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low saturation. Multi-shot structure. Extreme wide shot: a colossal sand wall consumes the horizon while an armored convoy races across open desert. Emphasize terrifying scale and human fragility. Cockpit POV: violent vibration inside the lead vehicle, sand blasting the windshield, red warning lights pulsing, urgent shouted commands. Climax in slow motion: lead rover launches off a dune, silhouetted against a dark storm front; lightning flickers inside the dust cloud; debris streaks past lens; hard cut to black on impact. Keep transitions clean and escalation continuous.
-```
-
-### No. 2: South Indian Cinema Alien Scene Generated from Single Prompt
-
-- **Category:** `Chuyển động camera nâng cao`
-- **Source:** `twitter`
-- **Author:** rohan anil (@_arohan_)
-- **Language:** `vi`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/068af607-5e54-4331-9c25-3afc190d1a53.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/068af607-5e54-4331-9c25-3afc190d1a53.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/_arohan_/status/2021369768004161783)
-
-#### Description
-
-South Indian cinema alien scene generated from a single prompt. Demonstrates cross-cultural filmmaking capabilities.
-
-#### Prompt
-
-```text
-Create a South Indian commercial-cinema style alien invasion action scene. Visuals should feature saturated colors, dramatic backlight, stylized slow motion, and heroic framing. Open with a large-scale city plaza reveal as alien craft descend, then cut to low-angle hero entrance with wind-swept costume details. Move into multi-angle confrontation: wides for scale, mediums for combo choreography, close-ups for emotional intensity and impact peaks. Blend dust, sparks, smoke, and lens flares for high-energy theatrical presentation while keeping motion readable.
-```
-
-### No. 3: Aerial Shot of Burning Military Vehicle in Urban Warfare
-
-- **Category:** `Chuyển động camera nâng cao`
-- **Source:** `twitter`
-- **Author:** Carlos Santana (@DotCSV)
-- **Language:** `vi`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/81bd1286-8024-4a62-a77a-0873d8137ae6.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/81bd1286-8024-4a62-a77a-0873d8137ae6.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/DotCSV/status/2020519499082969142)
-
-#### Description
-
-Cinematic drone footage capturing the aftermath of urban battle. Showcases Seedance 2.0's ability to generate realistic war scenes with detailed destruction effects and atmospheric rendering.
-
-#### Prompt
-
-```text
-A cinematic drone sequence over a war-torn city intersection. At the center, a destroyed armored vehicle burns continuously, emitting thick black smoke that climbs into an overcast sky. Streets are littered with rubble, twisted metal, and shattered concrete; nearby buildings show blown-out windows, scorched facades, and structural damage. Start with a high establishing aerial shot, then descend slowly into a medium-high orbit while preserving spatial scale and destruction detail. Keep color grading desaturated with documentary realism, add subtle film grain, and ensure physically believable fire, smoke turbulence, heat distortion, and airborne dust.
-```
-
-### No. 4: Trận chiến kỳ ảo sử thi
-
-- **Category:** `Chuyển động camera nâng cao`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/a15ec27b-9b38-407d-aa7a-460c9ed17e7f.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/a15ec27b-9b38-407d-aa7a-460c9ed17e7f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/16)
-
-#### Description
-
-Cảnh chiến đấu điện ảnh với camera quỹ đạo và hiệu ứng hạt.
-
-#### Prompt
-
-```text
-Tạo cảnh video: Cảnh chiến đấu điện ảnh với camera quỹ đạo và hiệu ứng hạt.
-```
-
-### No. 5: Quay quảng cáo ô tô điện ảnh
-
-- **Category:** `Chuyển động camera nâng cao`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d1fe2d82-6f01-4e04-a732-a949028a09d3.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d1fe2d82-6f01-4e04-a732-a949028a09d3.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/17)
-
-#### Description
-
-Quay quảng cáo ô tô chuyên nghiệp với camera động và chuyển cảnh mượt.
-
-#### Prompt
-
-```text
-Tạo cảnh video: Quay quảng cáo ô tô chuyên nghiệp với camera động và chuyển cảnh mượt.
-```
-
-### No. 6: Trình diễn tablet xoay vòng
-
-- **Category:** `Chuyển động camera nâng cao`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/2f9e5701-3cbe-4855-84a8-3ba0cd72b329.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/2f9e5701-3cbe-4855-84a8-3ba0cd72b329.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/13)
-
-#### Description
-
-Trình diễn sản phẩm với camera xoay và biến đổi bối cảnh.
-
-#### Prompt
-
-```text
-Tạo cảnh video: Trình diễn sản phẩm với camera xoay và biến đổi bối cảnh.
-```
-
-### No. 7: Truy đuổi hành lang phức tạp
-
-- **Category:** `Chuyển động camera nâng cao`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c1288035-fc08-4465-bee0-a1857f94c7c1.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/c1288035-fc08-4465-bee0-a1857f94c7c1.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/12)
-
-#### Description
-
-Cảnh tracking đa góc với chuyển động camera nhanh và thay đổi phối cảnh liên tục.
-
-#### Prompt
-
-```text
-Tạo cảnh video: Cảnh tracking đa góc với chuyển động camera nhanh và thay đổi phối cảnh liên tục.
-```
-
-### No. 8: Cảnh đấu võ thuật
-
-- **Category:** `Chuyển động camera nâng cao`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/e62ddd7b-da6a-4b26-be8a-aba6e74dd854.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/e62ddd7b-da6a-4b26-be8a-aba6e74dd854.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/15)
-
-#### Description
-
-Biên đạo hành động với nhiều nhân vật và vũ khí trong môi trường động.
-
-#### Prompt
-
-```text
-Tạo cảnh video: Biên đạo hành động với nhiều nhân vật và vũ khí trong môi trường động.
-```
-
-### No. 9: Hitchcock Zoom trong thang máy
-
-- **Category:** `Chuyển động camera nâng cao`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/4be02035-a101-4c2c-bb20-c2fe59771de9.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/4be02035-a101-4c2c-bb20-c2fe59771de9.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/11)
-
-#### Description
-
-Hiệu ứng chóng mặt kiểu Hitchcock kết hợp chuyển động camera phức tạp trong không gian hẹp.
-
-#### Prompt
-
-```text
-Tạo cảnh video: Hiệu ứng chóng mặt kiểu Hitchcock kết hợp chuyển động camera phức tạp trong không gian hẹp.
-```
-
-### No. 10: Push-pull theo nhịp vũ đạo
-
-- **Category:** `Chuyển động camera nâng cao`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/33ffc8e5-255c-46b2-8877-ad8a9100f6d4.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/33ffc8e5-255c-46b2-8877-ad8a9100f6d4.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/14)
-
-#### Description
-
-Chuyển động camera đẩy-kéo đồng bộ với nhịp vũ đạo.
-
-#### Prompt
-
-```text
-Tạo cảnh video: Chuyển động camera đẩy-kéo đồng bộ với nhịp vũ đạo.
-```
-
-### No. 11: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure
-
-- **Category:** `Chuyển động camera nâng cao`
-- **Source:** `twitter`
-- **Author:** Min Choi (@minchoi)
-- **Language:** `vi`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/52680ae8-705d-4b26-9d49-1b573ab4f56f.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/52680ae8-705d-4b26-9d49-1b573ab4f56f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/minchoi/status/2020878278475518152)
-
-#### Description
-
-Generate a 1-minute cinematic war video in 5 minutes with a multi-shot structure. Realistic Middle Eastern desert village infantry combat scene.
-
-#### Prompt
-
-```text
-Consistent style guideline for all shots: realistic cinematic war footage in a modern Middle Eastern desert village; dominant sandy yellow and gray-brown palette; harsh noon sunlight with hard shadows; drifting dust and gunpowder smoke; subtle handheld vibration; low-angle and ground-level framing to maximize tension and realism; modern light infantry gear without visible national identifiers; restrained, tense, and brutal atmosphere. Shot 1 : A modern infantry squad advances through narrow alleys between low adobe houses and damaged concrete walls. The camera tracks from behind at knee level, pushing forward as soldiers hug the walls and aim toward an unseen corner. Wind, distant metal clinks, and suspended dust establish dread. Shot 2 : A sudden close-quarters firefight erupts at the alley corner. Soldiers drop and press against the wall as rounds impact masonry, kicking up debris. Fast lateral camera pan with controlled shake, intermittent muzzle flashes, and silhouettes in broken windows increase claustrophobia and urgency. Shot 3 : The squad regains formation and enters a half-collapsed building. Over-shoulder follow shot into dim interior where shafts of sunlight cut through breached walls. Dust particles float in the beams; hand signals replace speech; distant gunfire echoes. Tone shifts from chaos to hyper-alert silence. Shot 4 : From a damaged rooftop, the squad secures a high vantage point over the village grid. Slow pullback in backlight, soldiers in silhouette with rifles still trained on unknown threats. Dust swirls in warm light; no clear victory or defeat. End on unresolved tension.
-```
-
-### No. 12: Ground Combat Shot of Soldiers Traversing Desert Terrain
-
-- **Category:** `Chuyển động camera nâng cao`
-- **Source:** `twitter`
-- **Author:** Chetaslua (@chetaslua)
-- **Language:** `vi`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/0d332613-93bc-4d5e-b4f8-6cacc05871ef.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/0d332613-93bc-4d5e-b4f8-6cacc05871ef.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/chetaslua)
-
-#### Description
-
-Tense first-person perspective of military squad advancing. Showcases realistic tactical movement and environmental details.
-
-#### Prompt
-
-```text
-Ground-level war footage with documentary realism: a soldier squad advances through a desert combat zone. Keep camera low and close to boots, gear sway, weapon details, and formation changes while moving over loose sand and debris. Harsh sunlight, visible heat haze, suspended dust, and distant intermittent gunfire should shape the atmosphere. Use controlled handheld movement with shallow depth of field, foreground clarity, and slight background softening. Color palette stays sandy beige and muted brown, emphasizing tactical discipline and persistent tension.
-```
-
-### No. 13: Multi-Shot Fight Scene Generated with Only 3 Reference Images and Simple Prompt
-
-- **Category:** `Chuyển động camera nâng cao`
-- **Source:** `twitter`
-- **Author:** el.cine (@EHuanglu)
-- **Language:** `vi`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e287a176-2ba0-4f64-ad86-ed779cd3d8d3.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e287a176-2ba0-4f64-ad86-ed779cd3d8d3.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/EHuanglu/status/2020828503810445785)
-
-#### Description
-
-Intense martial arts fight between two women in modern urban environment.
-
-#### Prompt
-
-```text
-A grounded martial arts duel between two women in a modern urban night setting. Build with clear shot variation: wide shot to establish spacing and intent, medium tracking shots for exchange tempo, close-up inserts for impact, breathing, and footwork. Include low-angle circling moves, over-shoulder counters, and quick lateral camera motions to preserve directional clarity. Movements must follow realistic weight transfer, momentum, and recovery. Use practical street lighting, neon reflections, slight wet pavement sheen, and gritty cinematic texture.
-```
-
-<a id="category-12"></a>
-
-### Chỉnh sửa & remix video (5)
-
-### No. 1: Họp kinh doanh nghiêm túc thành giao dịch snack
-
-- **Category:** `Chỉnh sửa & remix video`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/f11c41ac-ee4b-4f37-b569-d6a4725866b3.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/f11c41ac-ee4b-4f37-b569-d6a4725866b3.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/49)
-
-#### Description
-
-Biến cuộc họp căng thẳng thành quảng cáo đồ ăn vặt hài hước.
-
-#### Prompt
-
-```text
-Tạo cảnh video: Biến cuộc họp căng thẳng thành quảng cáo đồ ăn vặt hài hước.
-```
-
-### No. 2: Tích hợp thương hiệu gà rán
-
-- **Category:** `Chỉnh sửa & remix video`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/af84d3d1-5659-49bd-a7a8-c2db96918415.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/af84d3d1-5659-49bd-a7a8-c2db96918415.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/52)
-
-#### Description
-
-Thêm bao bì thương hiệu vào cảnh nhà hàng hiện có.
-
-#### Prompt
-
-```text
-Tạo cảnh video: Thêm bao bì thương hiệu vào cảnh nhà hàng hiện có.
-```
-
-### No. 3: Titanic lật kèo u tối
-
-- **Category:** `Chỉnh sửa & remix video`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/19cb9c31-9a1e-4c2e-ae17-b03f6a88c20b.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/19cb9c31-9a1e-4c2e-ae17-b03f6a88c20b.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/48)
-
-#### Description
-
-Đảo ngược cảnh lãng mạn thành thriller phản bội.
-
-#### Prompt
-
-```text
-Tạo cảnh video: Đảo ngược cảnh lãng mạn thành thriller phản bội.
-```
-
-### No. 4: Đổi giới tính ca sĩ chính ban nhạc
-
-- **Category:** `Chỉnh sửa & remix video`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d3c9e15c-37fa-4603-b5a7-7577a9652d2d.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d3c9e15c-37fa-4603-b5a7-7577a9652d2d.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/50)
-
-#### Description
-
-Thay ca sĩ nữ bằng nam nhưng vẫn giữ toàn bộ chuyển động.
-
-#### Prompt
-
-```text
-Tạo cảnh video: Thay ca sĩ nữ bằng nam nhưng vẫn giữ toàn bộ chuyển động.
-```
-
-### No. 5: Cá mập photobomb
-
-- **Category:** `Chỉnh sửa & remix video`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/06a8c86e-1b58-4088-8caa-25202eec77aa.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/06a8c86e-1b58-4088-8caa-25202eec77aa.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/51)
-
-#### Description
-
-Thêm yếu tố đe dọa vào một cảnh yên bình.
-
-#### Prompt
-
-```text
-Tạo cảnh video: Thêm yếu tố đe dọa vào một cảnh yên bình.
-```
-
-<a id="category-13"></a>
-
-### Nhất quán nhân vật & bối cảnh (6)
-
-### No. 1: Biến đổi sân khấu opera
-
-- **Category:** `Nhất quán nhân vật & bối cảnh`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/fffd7fd2-9752-4226-bd04-84101f206938.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/fffd7fd2-9752-4226-bd04-84101f206938.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/6)
-
-#### Description
-
-Thay thế nhân vật trong khi vẫn giữ chuyển động camera và hiệu ứng chuyển cảnh từ video tham chiếu.
-
-#### Prompt
-
-```text
-Tạo cảnh video: Thay thế nhân vật trong khi vẫn giữ chuyển động camera và hiệu ứng chuyển cảnh từ video tham chiếu.
-```
-
-### No. 2: Khám phá kinh dị góc nhìn thứ nhất
-
-- **Category:** `Nhất quán nhân vật & bối cảnh`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c4802cca-4ef9-4ba9-b8cc-ed5bdecb88e6.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/c4802cca-4ef9-4ba9-b8cc-ed5bdecb88e6.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/10)
-
-#### Description
-
-Góc nhìn thứ nhất duy trì nhất quán cảnh trong nhiều môi trường khác nhau.
-
-#### Prompt
-
-```text
-Tạo cảnh video: Góc nhìn thứ nhất duy trì nhất quán cảnh trong nhiều môi trường khác nhau.
-```
-
-### No. 3: Chuyển cảnh liền mạch one-take
-
-- **Category:** `Nhất quán nhân vật & bối cảnh`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/27a03978-e3c0-4750-9b0d-c1a802db8af6.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/27a03978-e3c0-4750-9b0d-c1a802db8af6.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/7)
-
-#### Description
-
-Cú máy one-take phức tạp với nhiều lần đổi cảnh nhưng vẫn giữ tính liền mạch thị giác.
-
-#### Prompt
-
-```text
-Tạo cảnh video: Cú máy one-take phức tạp với nhiều lần đổi cảnh nhưng vẫn giữ tính liền mạch thị giác.
-```
-
-### No. 4: Quảng cáo túi xách cao cấp
-
-- **Category:** `Nhất quán nhân vật & bối cảnh`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d62bd403-fcd1-4abd-8f23-c57063660ed0.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d62bd403-fcd1-4abd-8f23-c57063660ed0.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/9)
-
-#### Description
-
-Trình diễn sản phẩm giữ được độ nhất quán chi tiết giữa nhiều ảnh tham chiếu.
-
-#### Prompt
-
-```text
-Tạo cảnh video: Trình diễn sản phẩm giữ được độ nhất quán chi tiết giữa nhiều ảnh tham chiếu.
-```
-
-### No. 5: Trở về nhà sau giờ làm
-
-- **Category:** `Nhất quán nhân vật & bối cảnh`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d66a205c-4470-4d71-9122-2d0bf0694c9c.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d66a205c-4470-4d71-9122-2d0bf0694c9c.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/5)
-
-#### Description
-
-Mạch kể liên tục giữ nhất quán nhân vật từ hành lang văn phòng về nhà, có chuyển cảm xúc và tương tác gia đình.
-
-#### Prompt
-
-```text
-Tạo cảnh video: Mạch kể liên tục giữ nhất quán nhân vật từ hành lang văn phòng về nhà, có chuyển cảm xúc và tương tác gia đình.
-```
-
-### No. 6: Trình diễn sản phẩm Magnetic Bow
-
-- **Category:** `Nhất quán nhân vật & bối cảnh`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/74458d90-1c7a-487c-acc2-454558810520.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/74458d90-1c7a-487c-acc2-454558810520.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/8)
-
-#### Description
-
-Quảng cáo sản phẩm Hàn Quốc với tính nhất quán thương hiệu và minh họa đa cảnh.
-
-#### Prompt
-
-```text
-Tạo cảnh video: Quảng cáo sản phẩm Hàn Quốc với tính nhất quán thương hiệu và minh họa đa cảnh.
-```
-
-<a id="category-14"></a>
-
-### Hiệu ứng hình ảnh sáng tạo (11)
-
-### No. 1: Chuỗi biến hình ma thuật
-
-- **Category:** `Hiệu ứng hình ảnh sáng tạo`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/af14ed46-358b-4202-a6d5-07cfcbcdff10.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/af14ed46-358b-4202-a6d5-07cfcbcdff10.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/22)
-
-#### Description
-
-Biến hình nhân vật với tăng trưởng hữu cơ và hiệu ứng tan rã hạt.
-
-#### Prompt
-
-```text
-Tạo cảnh video: Biến hình nhân vật với tăng trưởng hữu cơ và hiệu ứng tan rã hạt.
-```
-
-### No. 2: Otter Entering Giant Mecha Animation Scene with Detailed Mechanical Shots
-
-- **Category:** `Hiệu ứng hình ảnh sáng tạo`
-- **Source:** `twitter`
-- **Author:** Andrey Kurenkov (@andrey_kurenkov)
-- **Language:** `vi`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/8bc7ca8d-7344-4be7-ae6d-cd2701702b77.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/8bc7ca8d-7344-4be7-ae6d-cd2701702b77.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/andrey_kurenkov/status/2021435749401514131)
-
-#### Description
-
-Otter entering giant mecha animation scene with detailed mechanical shots. Demonstrates creative storytelling capabilities.
-
-#### Prompt
-
-```text
-Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant combat mech. Shot 1: wide hangar reveal with backlit mech silhouette, steam, and warning beacons. Shot 2: mechanical montage of gears rotating, hydraulics extending, power lines activating, and cockpit hatch unlocking. Shot 3: otter climbs into the cockpit, with close-ups on focused eyes and control gestures. Shot 4: hatch seals, HUD lights up, mech visor ignites, and otter gives a confident thumbs-up. Emphasize dense mechanical detail, coherent machine motion logic, and cinematic anime pacing.
-```
-
-### No. 3: Ẩn dụ thiên nga cho áo lông vũ
-
-- **Category:** `Hiệu ứng hình ảnh sáng tạo`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d35cad32-b340-4394-b98d-8934aa6a1fc8.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d35cad32-b340-4394-b98d-8934aa6a1fc8.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/20)
-
-#### Description
-
-Quảng cáo sáng tạo kết hợp sản phẩm với hình ảnh thiên nhiên và lời thuyết minh tiếng Trung.
-
-#### Prompt
-
-```text
-Tạo cảnh video: Quảng cáo sáng tạo kết hợp sản phẩm với hình ảnh thiên nhiên và lời thuyết minh tiếng Trung.
-```
-
-### No. 4: Will Smith Eating Spaghetti
-
-- **Category:** `Hiệu ứng hình ảnh sáng tạo`
-- **Source:** `twitter`
-- **Author:** levelsio (@levelsio)
-- **Language:** `vi`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/eee95836-ac7d-4510-97f5-f6b1f2743aae.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/eee95836-ac7d-4510-97f5-f6b1f2743aae.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/levelsio/status/2021403820702552331)
-
-#### Description
-
-Will Smith eating spaghetti in a modern home kitchen.
-
-#### Prompt
-
-```text
-Photorealistic medium close shot of Will Smith eating spaghetti at a white kitchen island in a modern home kitchen. Background includes a centered stainless-steel refrigerator, white cabinets, and small countertop appliances, with natural daylight from a side window. He faces the camera in a plain black T-shirt, twirls and eats spaghetti naturally. Keep the camera mostly static with a subtle push-in. Preserve realistic hand motion, facial expression, food texture, and clean 24fps cinematic realism; avoid exaggerated deformation.
-```
-
-### No. 5: One Punch Man Animation Surpassing Original Quality
-
-- **Category:** `Hiệu ứng hình ảnh sáng tạo`
-- **Source:** `twitter`
-- **Author:** Chetaslua (@chetaslua)
-- **Language:** `vi`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/fada7cb9-0f74-43fc-ba6a-b98be8be7c16.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/fada7cb9-0f74-43fc-ba6a-b98be8be7c16.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/chetaslua)
-
-#### Description
-
-One Punch Man animation surpassing original quality. Demonstrates Seedance 2.0's animation production capabilities.
-
-#### Prompt
-
-```text
-Produce a premium anime battle sequence inspired by One Punch Man energy and staging. Require fluid high-frame animation, strong speed lines, impact frames, dramatic lens pulls, and explosive effect timing. Use progression: wide battlefield setup, mid-range combat exchanges, close-up finishing blow, then debris and dust settle. Background destruction should include cracking structures, flying fragments, smoke layers, and shockwave distortion. Character silhouettes remain crisp through motion blur, with strong light-shadow separation and theatrical composition.
-```
-
-### No. 6: Hành trình vũ trụ với kính VR
-
-- **Category:** `Hiệu ứng hình ảnh sáng tạo`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/dddb1fb2-d73a-4b6a-a2bf-bf416be652c6.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/dddb1fb2-d73a-4b6a-a2bf-bf416be652c6.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/18)
-
-#### Description
-
-Chuyển POV nhập vai từ thế giới thực qua giao diện VR tới nhiều không gian số.
-
-#### Prompt
-
-```text
-Tạo cảnh video: Chuyển POV nhập vai từ thế giới thực qua giao diện VR tới nhiều không gian số.
-```
-
-### No. 7: Mì ăn liền trừu tượng
-
-- **Category:** `Hiệu ứng hình ảnh sáng tạo`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/2665a1ba-4ae8-474e-ba72-a2bf94326054.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/2665a1ba-4ae8-474e-ba72-a2bf94326054.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/25)
-
-#### Description
-
-Diễn giải siêu thực một hành động đời thường với biểu cảm cường điệu.
-
-#### Prompt
-
-```text
-Tạo cảnh video: Diễn giải siêu thực một hành động đời thường với biểu cảm cường điệu.
-```
-
-### No. 8: Quảng cáo thời trang thay đồ nhanh
-
-- **Category:** `Hiệu ứng hình ảnh sáng tạo`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/781e9493-6578-4aba-9d21-44aff3a7d555.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/781e9493-6578-4aba-9d21-44aff3a7d555.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/19)
-
-#### Description
-
-Video thời trang tiết tấu nhanh với hiệu ứng mắt cá và chuyển cảnh glitch.
-
-#### Prompt
-
-```text
-Tạo cảnh video: Video thời trang tiết tấu nhanh với hiệu ứng mắt cá và chuyển cảnh glitch.
-```
-
-### No. 9: Logo chuyển cảnh mảnh ghép
-
-- **Category:** `Hiệu ứng hình ảnh sáng tạo`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d8aab6d9-e006-4012-aa41-55ad02a41572.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d8aab6d9-e006-4012-aa41-55ad02a41572.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/23)
-
-#### Description
-
-Lộ diện logo động với hiệu ứng phân mảnh dạng puzzle.
-
-#### Prompt
-
-```text
-Tạo cảnh video: Lộ diện logo động với hiệu ứng phân mảnh dạng puzzle.
-```
-
-### No. 10: Lộ diện tiêu đề hạt vàng
-
-- **Category:** `Hiệu ứng hình ảnh sáng tạo`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/3854856c-478d-40f1-8534-cb240e6a1706.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/3854856c-478d-40f1-8534-cb240e6a1706.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/24)
-
-#### Description
-
-Hiệu ứng tiêu đề điện ảnh với các hạt vàng chuyển động.
-
-#### Prompt
-
-```text
-Tạo cảnh video: Hiệu ứng tiêu đề điện ảnh với các hạt vàng chuyển động.
-```
-
-### No. 11: Thái Cực thủy mặc
-
-- **Category:** `Hiệu ứng hình ảnh sáng tạo`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/210c571d-e67f-4bbc-819b-f91bd8925c7b.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/210c571d-e67f-4bbc-819b-f91bd8925c7b.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/21)
-
-#### Description
-
-Màn trình diễn võ thuật theo phong cách tranh thủy mặc Trung Hoa truyền thống.
-
-#### Prompt
-
-```text
-Tạo cảnh video: Màn trình diễn võ thuật theo phong cách tranh thủy mặc Trung Hoa truyền thống.
-```
-
-<a id="category-15"></a>
-
-### Tạo video siêu chân thực (5)
-
-### No. 1: Cảnh truy đuổi có chướng ngại
-
-- **Category:** `Tạo video siêu chân thực`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/97438ef1-9ee8-4b6f-b064-05e1a0216c33.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/97438ef1-9ee8-4b6f-b064-05e1a0216c33.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/4)
-
-#### Description
-
-Phân đoạn truy đuổi căng thẳng với va chạm vật lý chân thực và đám đông hoảng loạn.
-
-#### Prompt
-
-```text
-Tạo cảnh video: Phân đoạn truy đuổi căng thẳng với va chạm vật lý chân thực và đám đông hoảng loạn.
-```
-
-### No. 2: Cảnh phố thời Victoria
-
-- **Category:** `Tạo video siêu chân thực`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/b0409f93-9857-4465-9a2d-50a30937a9db.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/b0409f93-9857-4465-9a2d-50a30937a9db.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/3)
-
-#### Description
-
-Cảnh phim cổ trang ở London thế kỷ 19 với chi tiết môi trường chân thực và phản ứng nhân vật tự nhiên.
-
-#### Prompt
-
-```text
-Tạo cảnh video: Cảnh phim cổ trang ở London thế kỷ 19 với chi tiết môi trường chân thực và phản ứng nhân vật tự nhiên.
-```
-
-### No. 3: Will Smith Eating Spaghetti
-
-- **Category:** `Tạo video siêu chân thực`
-- **Source:** `twitter`
-- **Author:** levelsio (@levelsio)
-- **Language:** `vi`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e55ed973-0bcf-4d50-8b5d-3a831e7e9d68.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e55ed973-0bcf-4d50-8b5d-3a831e7e9d68.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/levelsio/status/2021403820702552331)
-
-#### Description
-
-Will Smith eating spaghetti in a modern home kitchen.
-
-#### Prompt
-
-```text
-Photorealistic medium close shot of Will Smith eating spaghetti at a white kitchen island in a modern home kitchen. Background includes a centered stainless-steel refrigerator, white cabinets, and small countertop appliances, with natural daylight from a side window. He faces the camera in a plain black T-shirt, twirls and eats spaghetti naturally. Keep the camera mostly static with a subtle push-in. Preserve realistic hand motion, facial expression, food texture, and clean 24fps cinematic realism; avoid exaggerated deformation.
-```
-
-### No. 4: Nhân vật tranh tương tác
-
-- **Category:** `Tạo video siêu chân thực`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d6e3a17d-f4a7-49e3-850c-2cfc68b4a6a4.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d6e3a17d-f4a7-49e3-850c-2cfc68b4a6a4.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/2)
-
-#### Description
-
-Nhân vật trong bức tranh sống dậy và lén uống cola khi không ai để ý, tạo nên cảnh quảng cáo hài hước.
-
-#### Prompt
-
-```text
-Tạo cảnh video: Nhân vật trong bức tranh sống dậy và lén uống cola khi không ai để ý, tạo nên cảnh quảng cáo hài hước.
-```
-
-### No. 5: Cảnh phơi đồ thanh lịch
-
-- **Category:** `Tạo video siêu chân thực`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/b6b7f78a-f9a7-4c09-a3ac-6f0f694b1263.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/b6b7f78a-f9a7-4c09-a3ac-6f0f694b1263.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/1)
-
-#### Description
-
-Một người phụ nữ phơi quần áo duyên dáng, lấy thêm một món từ giỏ và giũ với chuyển động tự nhiên.
-
-#### Prompt
-
-```text
-Tạo cảnh video: Một người phụ nữ phơi quần áo duyên dáng, lấy thêm một món từ giỏ và giũ với chuyển động tự nhiên.
-```
-
-<a id="category-16"></a>
-
-### Biểu đạt cảm xúc (3)
-
-### No. 1: Cận cảnh gầm thét kịch tính
-
-- **Category:** `Biểu đạt cảm xúc`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/1b870eee-b748-48a7-84b6-cd56e0c925f9.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/1b870eee-b748-48a7-84b6-cd56e0c925f9.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/59)
-
-#### Description
-
-Màn trình diễn kịch tính mang sắc thái hài với biểu cảm cường điệu.
-
-#### Prompt
-
-```text
-Tạo cảnh video: Màn trình diễn kịch tính mang sắc thái hài với biểu cảm cường điệu.
-```
-
-### No. 2: Hài tương phản nấu ăn
-
-- **Category:** `Biểu đạt cảm xúc`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/a9a3d3ad-2aec-4a14-8bb5-2ca7736e09ae.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/a9a3d3ad-2aec-4a14-8bb5-2ca7736e09ae.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/58)
-
-#### Description
-
-Sự tương phản hài hước giữa nấu ăn bình tĩnh và hỗn loạn.
-
-#### Prompt
-
-```text
-Tạo cảnh video: Sự tương phản hài hước giữa nấu ăn bình tĩnh và hỗn loạn.
-```
-
-### No. 3: Sụp đổ trước gương
-
-- **Category:** `Biểu đạt cảm xúc`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/095be254-151d-4149-b50a-ad054c154758.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/095be254-151d-4149-b50a-ad054c154758.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/57)
-
-#### Description
-
-Cảnh khủng hoảng tâm lý với cảm xúc leo thang.
-
-#### Prompt
-
-```text
-Tạo cảnh video: Cảnh khủng hoảng tâm lý với cảm xúc leo thang.
-```
-
-<a id="category-17"></a>
-
-### Phát triển & mở rộng câu chuyện (8)
-
-### No. 1: Quảng cáo động lực thể hình
-
-- **Category:** `Phát triển & mở rộng câu chuyện`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/65689cf8-c5c9-4624-9136-adac7bc3cc10.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/65689cf8-c5c9-4624-9136-adac7bc3cc10.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/30)
-
-#### Description
-
-Mở rộng video với chuỗi luyện tập năng động và thông điệp truyền động lực.
-
-#### Prompt
-
-```text
-Tạo cảnh video: Mở rộng video với chuỗi luyện tập năng động và thông điệp truyền động lực.
-```
-
-### No. 2: Video hành trình cảm xúc
-
-- **Category:** `Phát triển & mở rộng câu chuyện`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/0ae0f676-8f49-4b97-88d2-4afaaa5e5424.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/0ae0f676-8f49-4b97-88d2-4afaaa5e5424.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/28)
-
-#### Description
-
-Tạo video giàu cảm xúc lấy cảm hứng từ nhiều hình ảnh và âm thanh.
-
-#### Prompt
-
-```text
-Tạo cảnh video: Tạo video giàu cảm xúc lấy cảm hứng từ nhiều hình ảnh và âm thanh.
-```
-
-### No. 3: Chiến dịch cà phê buổi sáng
-
-- **Category:** `Phát triển & mở rộng câu chuyện`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/94fc9706-187d-4667-a8e4-62692cb256dd.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/94fc9706-187d-4667-a8e4-62692cb256dd.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/31)
-
-#### Description
-
-Mở rộng quảng cáo cà phê với ánh sáng giàu không khí và text reveal.
-
-#### Prompt
-
-```text
-Tạo cảnh video: Mở rộng quảng cáo cà phê với ánh sáng giàu không khí và text reveal.
-```
-
-### No. 4: Quảng cáo stunt lừa đi mô tô
-
-- **Category:** `Phát triển & mở rộng câu chuyện`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/67c79521-0cb4-498f-bd74-e0ed9aab81e8.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/67c79521-0cb4-498f-bd74-e0ed9aab81e8.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/29)
-
-#### Description
-
-Mở rộng video bằng quảng cáo siêu thực có nhân vật động vật.
-
-#### Prompt
-
-```text
-Tạo cảnh video: Mở rộng video bằng quảng cáo siêu thực có nhân vật động vật.
-```
-
-### No. 5: Hoạt hóa khung truyện tranh
-
-- **Category:** `Phát triển & mở rộng câu chuyện`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c939610e-a182-40ad-89a5-254c1515ac24.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/c939610e-a182-40ad-89a5-254c1515ac24.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/26)
-
-#### Description
-
-Biến các khung truyện tranh tĩnh thành chuỗi hoạt hình có hiệu ứng âm thanh.
-
-#### Prompt
-
-```text
-Tạo cảnh video: Biến các khung truyện tranh tĩnh thành chuỗi hoạt hình có hiệu ứng âm thanh.
-```
-
-### No. 6: Câu chuyện ván trượt hoa hướng dương
-
-- **Category:** `Phát triển & mở rộng câu chuyện`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/30e27ffa-53bc-4655-b405-d017c699ed87.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/30e27ffa-53bc-4655-b405-d017c699ed87.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/32)
-
-#### Description
-
-Mở rộng video theo mạch đời thường ấm áp buổi chiều.
-
-#### Prompt
-
-```text
-Tạo cảnh video: Mở rộng video theo mạch đời thường ấm áp buổi chiều.
-```
-
-### No. 7: Quick Test of Female Controlling Plane in Complex Action Scene
-
-- **Category:** `Phát triển & mở rộng câu chuyện`
-- **Source:** `twitter`
-- **Author:** Janek Mann (@janekm)
-- **Language:** `vi`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/dc27ff9d-d357-423c-88b8-65e4646c5659.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/dc27ff9d-d357-423c-88b8-65e4646c5659.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/janekm/status/2020388244802740728)
-
-#### Description
-
-Woman suddenly realizes pilot has disappeared and controls the plane in crisis.
-
-#### Prompt
-
-```text
-Create a high-pressure disaster-action sequence: during turbulent flight, a woman rushes toward the cockpit and discovers both pilots are gone. Shot 1: handheld tracking through a chaotic cabin with panicked passengers, swinging oxygen masks, and flashing emergency lights. Shot 2: cockpit close-up montage of shaking controls, warning indicators, and her focused expression as she takes command. Shot 3: exterior wide shot of the aircraft dipping through heavy clouds before recovery. Shot 4: back inside the cockpit, she stabilizes the plane with determined, precise movements. Keep pace fast, stakes clear, and editing tight.
-```
-
-### No. 8: Phim tài liệu bốn mùa tuổi thơ
-
-- **Category:** `Phát triển & mở rộng câu chuyện`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/41aab229-bca0-4387-a4b1-08e88dde89a2.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/41aab229-bca0-4387-a4b1-08e88dde89a2.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/27)
-
-#### Description
-
-Tạo mở đầu phim tài liệu chữa lành dựa trên storyboard.
-
-#### Prompt
-
-```text
-Tạo cảnh video: Tạo mở đầu phim tài liệu chữa lành dựa trên storyboard.
-```
-
-<a id="category-18"></a>
-
-### Đồng bộ âm nhạc (4)
-
-### No. 1: Storyboard đấu cờ anime
-
-- **Category:** `Đồng bộ âm nhạc`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/efe4a014-a97b-4f4b-baa6-77d477b7024f.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/efe4a014-a97b-4f4b-baa6-77d477b7024f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/56)
-
-#### Description
-
-Chuỗi anime theo storyboard với nhịp kịch tính rõ nét.
-
-#### Prompt
-
-```text
-Tạo cảnh video: Chuỗi anime theo storyboard với nhịp kịch tính rõ nét.
-```
-
-### No. 2: Fashion beat drop
-
-- **Category:** `Đồng bộ âm nhạc`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/5ae0578e-e6c8-4ff1-a03a-e19b5ac2f5c1.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/5ae0578e-e6c8-4ff1-a03a-e19b5ac2f5c1.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/53)
-
-#### Description
-
-Biến đổi thời trang đồng bộ theo beat nhạc.
-
-#### Prompt
-
-```text
-Tạo cảnh video: Biến đổi thời trang đồng bộ theo beat nhạc.
-```
-
-### No. 3: Đồng bộ beat chân dung động
-
-- **Category:** `Đồng bộ âm nhạc`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/11a4251f-cb41-41b1-b6a7-8ac19d340956.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/11a4251f-cb41-41b1-b6a7-8ac19d340956.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/54)
-
-#### Description
-
-Chân dung nhân vật xuất hiện đúng keyframe âm nhạc với nhịp động mạnh hơn.
-
-#### Prompt
-
-```text
-Tạo cảnh video: Chân dung nhân vật xuất hiện đúng keyframe âm nhạc với nhịp động mạnh hơn.
-```
-
-### No. 4: MV chuyển cảnh phong cảnh
-
-- **Category:** `Đồng bộ âm nhạc`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/6b0fbeb4-51df-4094-8252-d2dfb8631776.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/6b0fbeb4-51df-4094-8252-d2dfb8631776.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/55)
-
-#### Description
-
-Các chuyển cảnh phong cảnh được canh khớp hoàn hảo theo nhịp nhạc.
-
-#### Prompt
-
-```text
-Tạo cảnh video: Các chuyển cảnh phong cảnh được canh khớp hoàn hảo theo nhịp nhạc.
-```
-
-<a id="category-19"></a>
-
-### Điện ảnh one-take (5)
-
-### No. 1: POV tàu lượn siêu tốc
-
-- **Category:** `Điện ảnh one-take`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/fabf98a8-432c-479a-bcd3-3736677190b2.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/fabf98a8-432c-479a-bcd3-3736677190b2.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/47)
-
-#### Description
-
-Trải nghiệm tàu lượn góc nhìn thứ nhất đầy kịch tính với tốc độ tăng dần.
-
-#### Prompt
-
-```text
-Tạo cảnh video: Trải nghiệm tàu lượn góc nhìn thứ nhất đầy kịch tính với tốc độ tăng dần.
-```
-
-### No. 2: Giờ trà trong cabin ấm cúng
-
-- **Category:** `Điện ảnh one-take`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d1d1c955-c271-44ba-bd3e-1537e33a2e29.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d1d1c955-c271-44ba-bd3e-1537e33a2e29.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/46)
-
-#### Description
-
-One-take góc nhìn thứ nhất bước vào không gian nội thất ấm áp.
-
-#### Prompt
-
-```text
-Tạo cảnh video: One-take góc nhìn thứ nhất bước vào không gian nội thất ấm áp.
-```
-
-### No. 3: Bám đuôi điệp viên giật gân
-
-- **Category:** `Điện ảnh one-take`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/873ead10-156a-4f5f-aafc-1a0a743c3ef7.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/873ead10-156a-4f5f-aafc-1a0a743c3ef7.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/45)
-
-#### Description
-
-One-take căng thẳng bám theo mật vụ trong môi trường đô thị.
-
-#### Prompt
-
-```text
-Tạo cảnh video: One-take căng thẳng bám theo mật vụ trong môi trường đô thị.
-```
-
-### No. 4: Giấc mơ kem qua cửa sổ máy bay
-
-- **Category:** `Điện ảnh one-take`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/3421ca69-533f-4ef7-aef2-2aabad3d53fe.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/3421ca69-533f-4ef7-aef2-2aabad3d53fe.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/44)
-
-#### Description
-
-One-take siêu thực chuyển từ cửa sổ máy bay sang tương tác kỳ ảo.
-
-#### Prompt
-
-```text
-Tạo cảnh video: One-take siêu thực chuyển từ cửa sổ máy bay sang tương tác kỳ ảo.
-```
-
-### No. 5: Chuỗi truy đuổi parkour
-
-- **Category:** `Điện ảnh one-take`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `vi`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c8b0a7bb-eae5-417f-bf63-e3a114a1364f.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/c8b0a7bb-eae5-417f-bf63-e3a114a1364f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/43)
-
-#### Description
-
-One-take năng động bám theo người chạy qua nhiều môi trường khác nhau.
-
-#### Prompt
-
-```text
-Tạo cảnh video: One-take năng động bám theo người chạy qua nhiều môi trường khác nhau.
+[Gã Say Hoảng Hồn Trên Nóc Nhà — ngã khỏi mép — chộp dây qua cửa sổ — ngất luôn tại chỗ | phim ngắn hài đen | khoảng 30 giây] Tóm tắt một dòng: một gã đàn ông trung niên mập mạp, dễ thương, say xỉn đang ăn burger và uống bia trên nóc một tòa nhà; khi đứng dậy vươn vai, gã lỡ mất thăng bằng và ngã, trong cơn hoảng loạn chộp được một sợi dây cứu sinh rồi lập tức đâm xuyên qua một ô cửa kính vào bên trong, choáng váng sững sờ một giây, rồi cứ thế nằm luôn tại chỗ và ngủ say như chết. Ảnh tham chiếu @image1 — một gã đàn ông trung niên mập mạp, dễ thương, say xỉn: dáng người tròn trịa, chắc nịch với cái bụng bia tròn to, thấp bé, cử động lỏng lẻo, chậm chạp và loạng choạng vì rượu; khuôn mặt tròn, cằm hai ngấn, má và mũi ửng đỏ vì rượu, mắt híp lại thành khe với ánh nhìn lờ đờ, một vòng râu lởm chởm ngắn chưa cạo, tóc bù xù, vẻ mặt ngờ nghệch, dễ thương, vô lo; mặc một chiếc áo lót ba lỗ trắng dính sốt burger buông lùng thùng trùm cái bụng tròn, quần jeans cũ, lê đôi dép lỏng lẻo bước đi, tay luôn nắm một chiếc burger ăn dở. Cả phim chỉ có duy nhất nhân vật này, khớp 100% với ảnh tham chiếu. Diện mạo tổng thể: một siêu đô thị cyberpunk về đêm, một rừng nhà chọc trời kính-và-thép dày đặc, biển hiệu neon (xanh lơ/hồng cánh sen/xanh điện), bảng quảng cáo hologram, mặt đất ướt phản chiếu, sương thể tích, những vệt sáng xe bay và drone ở phía xa. Kết cấu quay thực tế, ống kính điện ảnh thật, không có cảm giác dựng 3D/game engine/anime. Máy quay pha trộn giữa cầm tay với cần cẩu/drone; sau cú ngã, máy quay lao xuống cùng gã khi tường ngoài tòa nhà và neon vụt lên trên để truyền tải tốc độ, kết cấu ống kính điện ảnh màn ảnh rộng 24-35mm, nhòe chuyển động màn trập 180 độ. Thiết kế âm thanh là chìa khóa của sự hài đen: liên tục cắt cứng qua lại giữa "một tiếng gầm khổng lồ" và "sự im lặng tuyệt đối". Duy trì trọng lực thật xuyên suốt. Storyboard (khoảng 30 giây): S1 (0-4s) mở đầu cận cảnh lớn cảnh nhai (có tiếng) khuôn mặt gã chiếm trọn màn hình, ngoạm burger từng miếng to, trạng thái say mãn nguyện; S2 (4-9s) kéo ra toàn cảnh, vươn vai -> mất thăng bằng và ngã (có tiếng) gã lảo đảo đứng dậy và vươn vai thật lớn, ngả người ra sau, không giữ nổi thăng bằng, chân trượt và ngã lộn nhào ra sau qua mép nóc nhà, tay không hề buông chiếc burger, kèm tiếng hốt hoảng "Ơ——!"; S3 (9-12s) cắt sang cận cảnh khuôn mặt hoảng hốt (một tiếng hét lớn, tiếng gầm khổng lồ) đôi mắt say trợn tròn, cằm hai ngấn dồn lại, miệng há to hét "Aaaa——!!", gió rít gào; S4 (12-16s) cắt sang cảnh viễn ngang tầm mắt (im lặng tuyệt đối) nhìn từ tòa nhà đối diện, một bóng người trắng nhỏ xíu rơi thẳng đứng xuống từ tòa cao ốc, thành phố neon bao la và thờ ơ, sự im lặng tuyệt đối tạo nên tương phản hài đen với tiếng gầm khổng lồ một giây trước đó; S5 (16-21s) cắt sang cận cảnh khuôn mặt (đang hét) -> chộp dây, vẫn đang hét, hai tay khua loạn trong không trung, gã bất chợt chộp được một sợi cáp cứu sinh, sợi cáp căng phựt và cong xuống dưới sức nặng của gã với một tiếng "tưng", tiếng hét tắt lịm đột ngột khi gã bị giật mạnh và văng đu ra ngoài (một đoạn quay chậm ngắn ở khoảnh khắc gã chộp được dây); S6 (21-26s) cắt sang góc bên trong (yên tĩnh) -> kính vỡ -> gã đâm sầm vào, bên trong ban đầu yên tĩnh chỉ có tiếng máy lạnh chạy ro ro, giây tiếp theo tấm kính nổ tung vào bên trong (một đoạn bullet time ngắn) khi gã say cùng cả chiếc burger đâm xuyên qua ô cửa kính, mảnh kính văng ra theo hình tia, ánh neon tràn vào, và gã rơi nặng nề vào phòng xuống sàn/ghế sofa, mảnh kính vỡ kêu loảng xoảng; S7 (26-30s) đoạn kết, một giây sững sờ -> ngủ thiếp đi, gã nằm dang tay chân trên sàn, phủ đầy mảnh kính vỡ, vẫn nắm chặt chiếc burger, từ từ mở mắt, choáng váng, ngơ ngác và sững sờ trọn một giây, nhìn quanh như đang nghĩ "mình đang ở đâu vậy?", rồi cơn say ập đến và, chẳng buồn quan tâm gì cả, gã chép miệng, ôm chiếc burger vào lòng, lăn người, nằm luôn xuống ngay tại chỗ và ngủ say như chết, thậm chí còn ngáy khe khẽ, máy quay lùi ra và đứng hình, cắt cứng sang màn đen. Chỉ dùng âm thanh thu trực tiếp tại hiện trường, không nhạc, không phụ đề; cốt lõi là những cú cắt cứng liên tục giữa "tiếng gầm khổng lồ" và "sự im lặng".
 ```
 
 ## Local Usage
@@ -2655,4 +644,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-07-21T04:39:05.280Z
+> This README is auto-generated. 2026-07-21T07:52:08.403Z

@@ -4,7 +4,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedance-2.5-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-105%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-11%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 > A curated collection of Seedance 2.5 video prompts — each with real previews via Atlas Cloud. 30s native clips · 50 multimodal references · flexible region editing. Cinematic, anime, UGC, ads, meme & more.
 
@@ -68,38 +68,27 @@ Seedance 2.5 is a major upgrade to Seedance 2.0 with three big gains: 30-second 
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **105** |
-| Categories | **19** |
-| Preview Videos | **99** |
-| Last Updated | **2026-07-21T04:39:05.289Z** |
+| Total Prompts | **11** |
+| Categories | **8** |
+| Preview Videos | **11** |
+| Last Updated | **2026-07-21T07:52:08.407Z** |
 
 ## 🏷️ Browse by Category
 
-- [`Match-Cut & Creative Effects`](#category-1): **1**
-- [`One-Take Cinematography`](#category-2): **1**
-- [`Multi-Image Reference`](#category-3): **3**
-- [`Video Editing`](#category-4): **2**
-- [`Reference-Guided Tutorial`](#category-5): **1**
-- [`Multimodal Reference (image+video)`](#category-6): **1**
-- [`Image Reference`](#category-7): **1**
-- [`Image Reference (Cinematic)`](#category-8): **1**
-- [`Twitter Community`](#category-9): **24**
-- [`الصوت والحوار والتعليق`](#category-10): **10**
-- [`حركات كاميرا متقدمة`](#category-11): **13**
-- [`تحرير الفيديو وإعادة المزج`](#category-12): **5**
-- [`اتساق الشخصيات والمشاهد`](#category-13): **6**
-- [`تأثيرات بصرية إبداعية`](#category-14): **11**
-- [`توليد فيديو فائق الواقعية`](#category-15): **5**
-- [`الأداء العاطفي`](#category-16): **3**
-- [`تطوير القصة وتمديدها`](#category-17): **8**
-- [`المزامنة مع الموسيقى`](#category-18): **4**
-- [`تصوير اللقطة الواحدة`](#category-19): **5**
+- [`القطع المتطابق والمؤثرات الإبداعية`](#category-1): **1**
+- [`التصوير بلقطة واحدة متواصلة`](#category-2): **1**
+- [`مرجع متعدد الصور`](#category-3): **3**
+- [`تحرير الفيديو`](#category-4): **2**
+- [`درس تعليمي موجّه بالمراجع`](#category-5): **1**
+- [`مرجع متعدد الوسائط (صورة+فيديو)`](#category-6): **1**
+- [`مرجع صورة`](#category-7): **1**
+- [`مرجع صورة (سينمائي)`](#category-8): **1**
 
 ## 🔥 Featured Prompts
 
-### No. 1: Crystal Ball Match-Cut Beat Film
+### No. 1: فيلم إيقاعي بالقطع المتطابق مع الكرة البلورية
 
-- **Category:** `Match-Cut & Creative Effects`
+- **Category:** `القطع المتطابق والمؤثرات الإبداعية`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ar`
@@ -110,17 +99,17 @@ Seedance 2.5 is a major upgrade to Seedance 2.0 with three big gains: 30-second 
 
 #### Description
 
-A beat-synced match-cut film: one crystal ball etched with a glowing 'seedance' logo stays centered while eight scenes cut seamlessly behind it.
+فيلم بالقطع المتطابق متزامن مع الإيقاع: كرة بلورية محفور بداخلها شعار 'seedance' متوهّج تبقى في المنتصف بينما تتوالى خلفها ثمانية مشاهد بقطعٍ سلس.
 
 #### Prompt
 
 ```text
-A fast-paced, cinematic Match-cut short film synced to a driving electronic beat. A flawless crystal ball stays fixed dead-center throughout, a glowing "seedance" logo etched inside it. The ball holds razor-sharp focus while, on every strong musical beat, the background match-cuts seamlessly: Scene 1: macro close-up, cinematic water splashing around the ball, refracting intricate light. Scene 2: a vintage morning cafe, the ball on a raw-wood table, rising coffee steam and blurred commuters beyond the window. Scene 3: golden-hour dusk, a skater youth tosses and catches the ball one-handed, street racing backward behind them in gorgeous backlit sunset. Scene 4: a frenzied music festival, hands raise the ball high, refracting dazzling stage lasers. Scene 5: a lively family party table, the ball resting center-frame, blurred figures toasting and reaching for food. Scene 6: a dim cinema, hands cupping the ball as the giant screen's faint glow drifts across its surface. Scene 7: the ball on a violently vibrating speaker diaphragm, match-cutting on the climax to a spinning DJ turntable center. Scene 8: an outdoor camping night, background becoming warm bonfire and swaying string-light bokeh. Finale: on the final downbeat the ball is hurled up out of frame; cut to pure black, a minimal white-on-black "seedance" appearing dead-center. Beat-synced match-cut editing, top-tier cinematic color grading, photoreal glass refraction, ray tracing, global illumination. Subject razor-sharp, background heavy motion blur.
+فيلم قصير سينمائي سريع الإيقاع بأسلوب القطع المتطابق، متزامن مع إيقاع إلكتروني نابض. تبقى كرة بلورية لا تشوبها شائبة ثابتة في منتصف الإطار تمامًا طوال الوقت، وقد حُفر بداخلها شعار "seedance" متوهّج. تحتفظ الكرة بتركيز حاد كالموسى، بينما تتبدّل الخلفية بقطعٍ متطابق سلس عند كل ضربة موسيقية قوية: Scene 1: لقطة ماكرو مقرّبة، رذاذ ماء سينمائي يتطاير حول الكرة، ويعكس ضوءًا متشعبًا دقيقًا. Scene 2: مقهى صباحي عتيق الطراز، الكرة على طاولة من الخشب الخام، بخار قهوة يتصاعد وعابرون ضبابيون خلف النافذة. Scene 3: غسق الساعة الذهبية، شاب متزلّج يقذف الكرة ويلتقطها بيد واحدة، والشارع يتراجع خلفه في غروب خلفيّ الإضاءة بديع. Scene 4: مهرجان موسيقي صاخب، أيادٍ ترفع الكرة عاليًا، تعكس أشعة ليزر المسرح الباهرة. Scene 5: طاولة حفلة عائلية مفعمة بالحياة، الكرة مستقرة في وسط الإطار، وأشخاص ضبابيون يرفعون نخبًا ويمدّون أيديهم نحو الطعام. Scene 6: صالة سينما خافتة، أيادٍ تحتضن الكرة بينما يتهادى وهج الشاشة العملاقة الخافت على سطحها. Scene 7: الكرة فوق غشاء مكبّر صوت يهتز بعنف، تتبدّل بقطعٍ متطابق عند الذروة إلى قرص دوّار (تيرن تيبل) لمنسّق أغانٍ في المنتصف. Scene 8: ليلة تخييم في الخلاء، تتحول الخلفية إلى نار مخيّم دافئة وأضواء سلسلية متمايلة بتأثير بوكيه. الخاتمة: عند الضربة الأخيرة تُقذف الكرة إلى أعلى خارج الإطار؛ قطع إلى سواد خالص، تظهر كلمة "seedance" بسيطة بالأبيض على الأسود في المنتصف تمامًا. مونتاج بالقطع المتطابق متزامن مع الإيقاع، تدرّج ألوان سينمائي من الطراز الأول، انكسار زجاجي فوتوريالي، تتبّع الأشعة، إضاءة شاملة. الهدف حاد كالموسى، والخلفية بها ضبابية حركة كثيفة.
 ```
 
-### No. 2: Steampunk Clockwork — 30s One-Take
+### No. 2: آلية ساعة ستيمبانك — لقطة واحدة 30 ثانية
 
-- **Category:** `One-Take Cinematography`
+- **Category:** `التصوير بلقطة واحدة متواصلة`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ar`
@@ -131,17 +120,17 @@ A fast-paced, cinematic Match-cut short film synced to a driving electronic beat
 
 #### Description
 
-A 30-second steampunk miniature 3D sequence with continuous orbiting, pass-through camera moves.
+تسلسل ثلاثي الأبعاد مصغّر بأسلوب الستيمبانك مدته 30 ثانية، بحركة كاميرا دائرية متواصلة تخترق المشاهد.
 
 #### Prompt
 
 ```text
-A high-end, deeply cinematic 30-second 3D motion-graphics sequence in refined steampunk and vintage-miniature style, with continuous fluid orbiting and pass-through camera moves. [0-10s] Macro close-up of an antique brass clock face that unfolds layer by layer into meshing rotating gear rings and volumetric fog. The camera pierces down through the gears; a mechanical ornithopter spirals up from a miniature canyon of stacked weathered old books. [10-20s] The camera glides forward tracking the ornithopter, seamlessly passing into a fast-spinning ornate brass zoetrope projecting galloping mechanical-horse light. The light leaps out and the scene becomes a brass floating cable car on glimmering copper rails through a forest of gears, bathed in cinematic golden-hour light. [20-30s] The camera pans elegantly down; below appears an exquisite clockwork wooden sailing ship cutting deep-blue glass-textured waves, which morph into a glowing giant moon with lantern-holding explorer silhouettes trekking a crystal-vein ridge under stars. The camera spirals smoothly back through ethereal clouds to the ticking brass clock face. Hyper-real mechanical textures, rich brass and gold tones, cinematic shallow depth of field, smooth seamless pass-through camerawork, epic fantastical adventure atmosphere.
+تسلسل رسوم متحركة ثلاثي الأبعاد راقٍ وسينمائي بامتياز مدته 30 ثانية، بأسلوب ستيمبانك مصقول ومصغّرات عتيقة، بحركة كاميرا دائرية سلسة ومتواصلة تخترق العناصر. [0-10s] لقطة ماكرو مقرّبة لوجه ساعة نحاسية عتيقة تتفتّح طبقةً تلو الأخرى إلى حلقات تروس دوّارة متعاشقة وضباب حجمي. تخترق الكاميرا نزولًا عبر التروس؛ وتصعد طائرة مجنّحة ميكانيكية في حركة حلزونية من وادٍ مصغّر مكوّن من أكوام كتب قديمة بالية. [10-20s] تنساب الكاميرا إلى الأمام متتبّعة الطائرة المجنّحة، لتعبر بسلاسة إلى زوتروب نحاسي مزخرف يدور بسرعة ويعرض ضوء خيول ميكانيكية تعدو. يقفز الضوء إلى الخارج فيتحول المشهد إلى عربة تلفريك نحاسية طافية على قضبان نحاسية متلألئة تعبر غابة من التروس، تغمرها إضاءة الساعة الذهبية السينمائية. [20-30s] تميل الكاميرا برشاقة إلى الأسفل؛ فتظهر في الأسفل سفينة شراعية خشبية بديعة تعمل بآلية ساعة تشقّ أمواجًا زرقاء داكنة بملمس زجاجي، تتحول إلى قمر عملاق متوهّج تظهر عليه صور ظلية لمستكشفين يحملون فوانيس يجوبون حافة عرق بلوري تحت النجوم. تعود الكاميرا بحركة حلزونية سلسة عبر سحب أثيرية إلى وجه الساعة النحاسية النابض بالتكتكة. ملمس ميكانيكي شديد الواقعية، درجات نحاسية وذهبية غنية، عمق ميدان ضحل سينمائي، حركة كاميرا اختراقية سلسة متصلة، أجواء مغامرة خيالية ملحمية.
 ```
 
-### No. 3: Windows Through Worlds (5 refs)
+### No. 3: نوافذ على عوالم (5 مراجع)
 
-- **Category:** `Multi-Image Reference`
+- **Category:** `مرجع متعدد الصور`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ar`
@@ -160,17 +149,17 @@ A high-end, deeply cinematic 30-second 3D motion-graphics sequence in refined st
 
 #### Description
 
-A brand concept short driven by 5 reference images, gliding through windows into different worlds.
+فيلم قصير لمفهوم علامة تجارية تقوده 5 صور مرجعية، ينساب عبر النوافذ إلى عوالم مختلفة.
 
 #### Prompt
 
 ```text
-A cinematic brand concept short. @image1 is the first frame; the picture trembles slightly, the camera pushes in to tree shadows rushing backward outside the window, their retreat accelerating, then abruptly cuts to @image2, speed easing as the camera glides slowly along a stream, birdsong and blossoms. The camera drops underwater — bubble sounds — as orange jellyfish drift gracefully past the lens @image3; the camera pulls back as small fish flit past and swim from the water into the window @image4, a girl looking around, watching them. The camera pulls back, defocuses, then refocuses sharp, switching to the music's rhythm: a Chinese-garden lattice window @image5 with light circling, church stained glass, an airplane porthole, a dome skylight, a bay window, louver blinds, a European dormer, a door peephole, a camera viewfinder, a bird's eye, a human eye close-up. It settles on the human eye; the eye closes, screen black, then suddenly opens — "seedance" appearing in the center of the eye on the accent beat.
+فيلم قصير سينمائي لمفهوم علامة تجارية. @image1 هو الإطار الأول؛ ترتجف الصورة قليلًا، وتتقدّم الكاميرا نحو ظلال الأشجار المندفعة إلى الخلف خارج النافذة، ويتسارع تراجعها، ثم تقطع فجأة إلى @image2، لتخفّ السرعة بينما تنساب الكاميرا ببطء بمحاذاة جدول، مع تغريد الطيور والأزهار المتفتّحة. تغوص الكاميرا تحت الماء — أصوات فقاعات — بينما يمرّ قنديل بحر برتقالي بأناقة أمام العدسة @image3؛ تتراجع الكاميرا بينما تخطف أسماك صغيرة عبرها وتسبح من الماء إلى داخل النافذة @image4، وفتاة تتلفّت حولها وتراقبها. تتراجع الكاميرا وتفقد التركيز، ثم تعيد التركيز بوضوح حاد، متبدّلةً على إيقاع الموسيقى: نافذة مشبّكة على طراز الحدائق الصينية @image5 يدور الضوء حولها، زجاج كنيسة ملوّن، كوّة طائرة، منور قبّة، نافذة بارزة (باي ويندو)، ستائر معدنية أفقية، نافذة سطح أوروبية، ثقب باب للنظر، محدّد رؤية كاميرا، عين طائر، ولقطة مقرّبة لعين بشرية. يستقر المشهد على العين البشرية؛ تنغلق العين، فتُظلم الشاشة، ثم تنفتح فجأة — لتظهر كلمة "seedance" في مركز العين على الضربة المميّزة.
 ```
 
-### No. 4: One-Take Through Six Rooms (8 refs)
+### No. 4: لقطة واحدة عبر ست غرف (8 مراجع)
 
-- **Category:** `Multi-Image Reference`
+- **Category:** `مرجع متعدد الصور`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ar`
@@ -192,17 +181,17 @@ A cinematic brand concept short. @image1 is the first frame; the picture tremble
 
 #### Description
 
-One continuous take following a figure through six mood-shifting rooms, driven by 8 reference images.
+لقطة واحدة متواصلة تتبع شخصًا عبر ست غرف تتبدّل أجواؤها، تقودها 8 صور مرجعية.
 
 #### Prompt
 
 ```text
-One continuous take. The camera smoothly follows a person in a black coat (reference @image1) moving left to right through six connected rooms of different tones and moods. Every room shares the same structure: white walls, light herringbone wood floor, French floor-to-ceiling windows, white sheer curtains (reference @image2) but the outside view and mood differ each time. The protagonist walks at a constant pace, passing through every open door. 0-5s room one, American-comic fight: the protagonist fights a character (@image3), who is defeated; 5-10s room two, warmth, felt-craft style, window view a sunflower field (@image4), warm-orange soft light, a painter painting sunflowers (@image5), the protagonist turning felt-style on entering; 10-15s room three, sorrow, black-and-white comic stop-motion, rain outside, cold-grey light, a person alone on the floor hugging their knees, a phone glowing with an unanswered call; on entering, the light blinks off then on, the room turns color, flowers bursting into bloom; 15-20s room four, joy, a room submerged in the sea (reference @image6), the protagonist turning transparent among coral and fish; 20-25s room five, surprise, window view a sky of fireworks (reference @image7), colorful flickering light, the protagonist swept up in a cheering crowd; 25-30s a blank white room, the protagonist snaps their fingers — snap SFX — frame goes black, "seedance" in the middle (reference @image8). Cinematic quality, high-fashion advertising style, lighting entirely determined by the window views for strong emotional contrast, no text in frame.
+لقطة واحدة متواصلة. تتبع الكاميرا بسلاسة شخصًا يرتدي معطفًا أسود (المرجع @image1) وهو ينتقل من اليسار إلى اليمين عبر ست غرف متصلة مختلفة الألوان والأجواء. تشترك كل الغرف في البنية نفسها: جدران بيضاء، أرضية خشبية فاتحة بنقشة عظم السمكة، نوافذ فرنسية ممتدة من الأرض إلى السقف، ستائر بيضاء شفافة (المرجع @image2) لكن المنظر الخارجي والأجواء يختلفان في كل مرة. يمشي البطل بوتيرة ثابتة، عابرًا كل باب مفتوح. 0-5s الغرفة الأولى، شجار على طراز الكوميكس الأمريكي: يتقاتل البطل مع شخصية (@image3) فتُهزم؛ 5-10s الغرفة الثانية، دفء، بأسلوب حرفة اللباد، منظر النافذة حقل عبّاد شمس (@image4)، ضوء ناعم برتقالي دافئ، ورسّام يرسم عبّاد الشمس (@image5)، ويتحول البطل إلى أسلوب اللباد لحظة دخوله؛ 10-15s الغرفة الثالثة، حزن، كوميكس أبيض وأسود بأسلوب ستوب موشن، مطر في الخارج، ضوء رمادي بارد، شخص وحيد على الأرض يحتضن ركبتيه، وهاتف يتوهّج بمكالمة لم يُجب عليها؛ لحظة الدخول ينطفئ الضوء ثم يعود، فتكتسي الغرفة بالألوان، وتتفتّح الأزهار دفعة واحدة؛ 15-20s الغرفة الرابعة، فرح، غرفة غارقة في البحر (المرجع @image6)، ويصير البطل شفافًا بين الشعاب المرجانية والأسماك؛ 20-25s الغرفة الخامسة، دهشة، منظر النافذة سماء تملؤها الألعاب النارية (المرجع @image7)، ضوء ملوّن متلألئ، والبطل تجرفه حشود مهلّلة؛ 25-30s غرفة بيضاء فارغة، يفرقع البطل أصابعه — مؤثر صوتي للفرقعة — فيصير الإطار أسود، وتظهر "seedance" في المنتصف (المرجع @image8). جودة سينمائية، أسلوب إعلانات أزياء راقية، الإضاءة تحدّدها بالكامل مناظر النوافذ لخلق تباين عاطفي قوي، بلا أي نص في الإطار.
 ```
 
-### No. 5: Video Edit — Remove All But the Lead
+### No. 5: تحرير الفيديو — إزالة الجميع باستثناء البطل
 
-- **Category:** `Video Editing`
+- **Category:** `تحرير الفيديو`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ar`
@@ -217,17 +206,17 @@ One continuous take. The camera smoothly follows a person in a black coat (refer
 
 #### Description
 
-Reference-video editing: erase everyone except the protagonist from a source clip.
+تحرير بالاستناد إلى فيديو مرجعي: مسح كل الأشخاص عدا البطل من مقطع المصدر.
 
 #### Prompt
 
 ```text
-Video editing: remove everyone in @video1 except the protagonist.
+تحرير الفيديو: أزِل كل الأشخاص في @video1 عدا البطل.
 ```
 
-### No. 6: Multilingual Hip-Hop 'Hello' MV
+### No. 6: فيديو كليب هيب هوب متعدد اللغات بعنوان 'Hello'
 
-- **Category:** `Multi-Image Reference`
+- **Category:** `مرجع متعدد الصور`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ar`
@@ -242,17 +231,17 @@ Video editing: remove everyone in @video1 except the protagonist.
 
 #### Description
 
-A seaside hip-hop MV built from one reference image; the lead raps 'hello' in 8 languages, lip-synced, hard cuts on the beat.
+فيديو كليب هيب هوب على شاطئ البحر مبنيّ من صورة مرجعية واحدة؛ يؤدّي المغني الرئيسي كلمة 'hello' راب بثماني لغات، بتزامن شفاه، مع قطعات حادة على الإيقاع.
 
 #### Prompt
 
 ```text
-Cinematic hip-hop / rap music video, photoreal quality, high-end tone, seaside setting. Build the frame from @image1: a band performs at a golden sand beach with crashing waves — a lead vocalist gripping a mic on a stand in the wet sand, one guitarist left, one right, a drummer at the back; a vast coastline behind, rolling waves, a warm golden-hour sun shimmering on the water, sea mist in the air. The lead in a red tracksuit raps to camera — lips and jaw precisely synced to every word, head punching to the beat. Bright, punchy, fast, confident rap. HARD CUT on the beat, each switch a double contrast (shot size and type change together). Lyrics (the lead sings 'hello' in each language in turn, precisely lip-synced): English "Hello", Chinese "你好", Japanese "こんにちは", Korean "안녕하세요", Portuguese "Olá", Thai "สวัสดี", Spanish "Hola", Arabic "مرحبا". 8 hard-cut shots (low-angle wide establishing; close-up rap to camera; macro guitar-string insert; 3/4 prowling orbit; lateral track at shore; drummer tilt-up; tight push on the lead; heroic full-band push-in), one language per shot. White balance 4000K, teal-and-amber grade, 35mm, shallow depth of field, film grain, sea mist, golden-hour flare. Premium feel, precise lip-sync, no subtitles, no text overlays, hard cuts only, total 20 seconds.
+فيديو كليب هيب هوب / راب سينمائي، بجودة فوتوريالية ونبرة راقية، في أجواء شاطئ البحر. ابنِ الإطار من @image1: فرقة تؤدّي على شاطئ رملي ذهبي حيث تتكسّر الأمواج — مغنٍّ رئيسي يمسك ميكروفونًا على حامل في الرمل المبلل، عازف غيتار على اليسار وآخر على اليمين، وعازف طبول في الخلف؛ خلفهم خط ساحلي شاسع، وأمواج متدحرجة، وشمس الساعة الذهبية الدافئة تتلألأ على الماء، ورذاذ بحري في الهواء. يؤدّي المغني الرئيسي بزيّ رياضي أحمر الراب نحو الكاميرا — شفتاه وفكّه متزامنان بدقة مع كل كلمة، ورأسه ينبض مع الإيقاع. راب مشرق وقوي وسريع وواثق. قطع حاد على الإيقاع، وكل انتقال يحمل تباينًا مزدوجًا (يتغيّر حجم اللقطة ونوعها معًا). الكلمات (يغني المغني الرئيسي 'hello' بكل لغة بالتناوب، بتزامن شفاه دقيق): الإنجليزية "Hello"، الصينية "你好"، اليابانية "こんにちは"، الكورية "안녕하세요"، البرتغالية "Olá"، التايلاندية "สวัสดี"، الإسبانية "Hola"، العربية "مرحبا". 8 لقطات بقطع حاد (لقطة تأسيسية واسعة من زاوية منخفضة؛ راب مقرّب نحو الكاميرا؛ لقطة ماكرو مقحمة لأوتار الغيتار؛ دوران متسلّل بزاوية 3/4؛ تتبّع جانبي عند الشاطئ؛ إمالة لأعلى نحو عازف الطبول؛ اقتراب محكم نحو المغني الرئيسي؛ اقتراب بطولي نحو الفرقة كاملة)، لغة واحدة لكل لقطة. توازن أبيض 4000K، تدرّج ألوان أزرق مخضرّ وكهرماني، عدسة 35mm، عمق ميدان ضحل، حبيبات فيلمية، رذاذ بحري، وهج الساعة الذهبية. إحساس فاخر، تزامن شفاه دقيق، بلا ترجمة، بلا نصوص فوق الصورة، قطعات حادة فقط، المدة الإجمالية 20 ثانية.
 ```
 
-### No. 7: Capsule Coffee Machine Setup Tutorial (6 refs)
+### No. 7: درس إعداد آلة قهوة الكبسولات (6 مراجع)
 
-- **Category:** `Reference-Guided Tutorial`
+- **Category:** `درس تعليمي موجّه بالمراجع`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ar`
@@ -272,17 +261,17 @@ Cinematic hip-hop / rap music video, photoreal quality, high-end tone, seaside s
 
 #### Description
 
-A 30-second setup-and-use tutorial for a capsule coffee machine, six reference-guided steps with voiceover — from installing the water tank to the first rinse.
+درس تعليمي مدته 30 ثانية لإعداد آلة قهوة الكبسولات واستخدامها، بست خطوات موجّهة بالمراجع مع تعليق صوتي — من تركيب خزّان الماء إلى الشطف الأول.
 
 #### Prompt
 
 ```text
-A 30-second tutorial video on installing and using a capsule coffee machine. 0-2s: the opening title card reads "seedance capsule coffee machine setup tutorial". 2-5s, Step 1: install the water tank, reference @image1, medium shot from a slightly high angle, rear of the machine body, align the water tank with the slot on the back of the body and push it straight down until it clicks firmly into place, clearly showing how the tank's bottom clips align with the body's slot, the water level line visible through the tank's transparent section, voiceover "First, install the water tank. Align the tank with the slot on the back of the machine; a click means it is locked in place.". 5-9s, Step 2: install the drip tray, reference @image2, close-up front view, front bottom of the body, slide the drip tray horizontally into the guide rails at the bottom until fully seated, voiceover "Next, install the drip tray. Align the tray with the bottom rails.". 9-13s, Step 3: install the used-capsule collection box, reference @image3, close-up from a slightly low angle, the cavity beneath the drip tray, align the collection box with the recess and push it in flush with the drip tray, voiceover "Then insert the capsule collection box. Used capsules will drop down here automatically.". 13-18s, Step 4: first fill with water, reference @image4, close-up side view, the water tank at the top/back of the body, open the tank lid and pour in clean water up to the MAX water level line, then close it, emphasizing the water level line, voiceover "Open the tank lid, pour in clean water, being careful not to exceed the maximum water level line, then close the tank lid.". 18-25s, Step 5: power on, reference @image5, medium shot front view, front of the body, plug in the power cord and press the power button; the indicator light goes from blinking to steady (preheating complete), voiceover "Connect the power and press the power button. The indicator light starts blinking, which means it is preheating. When the light turns steady, the machine is ready.". 25-30s, Step 6: first rinse (without a capsule), reference @image6, medium shot moving to a close-up front-side view, without inserting a capsule press the brew button directly so hot water flows out and rinses the lines, emphasizing the "no capsule needed" note, voiceover "The last step, the first rinse. Note that this step does not require a capsule; just press the brew button. Once the rinse is done, your coffee machine is ready to use."
+فيديو تعليمي مدته 30 ثانية حول تركيب آلة قهوة الكبسولات واستخدامها. 0-2s: بطاقة العنوان الافتتاحية تحمل "seedance: درس إعداد آلة قهوة الكبسولات". 2-5s، الخطوة 1: ركّب خزّان الماء، المرجع @image1، لقطة متوسطة من زاوية مرتفعة قليلًا، الجزء الخلفي من جسم الآلة، حاذِ خزّان الماء مع الفتحة في مؤخرة الجسم وادفعه مستقيمًا للأسفل حتى يستقر بإحكام مع صوت طقّة، مع إظهار واضح لكيفية محاذاة مشابك قاع الخزّان مع فتحة الجسم، وخط مستوى الماء ظاهر عبر الجزء الشفاف من الخزّان، تعليق صوتي "أولًا، ركّب خزّان الماء. حاذِ الخزّان مع الفتحة في مؤخرة الآلة؛ صوت الطقّة يعني أنه استقر في مكانه.". 5-9s، الخطوة 2: ركّب صينية التقطير، المرجع @image2، لقطة مقرّبة من الأمام، الجزء الأمامي السفلي من الجسم، أدخِل صينية التقطير أفقيًا في القضبان الموجّهة أسفل الجسم حتى تستقر تمامًا، تعليق صوتي "بعد ذلك، ركّب صينية التقطير. حاذِ الصينية مع القضبان السفلية.". 9-13s، الخطوة 3: ركّب صندوق تجميع الكبسولات المستعملة، المرجع @image3، لقطة مقرّبة من زاوية منخفضة قليلًا، التجويف أسفل صينية التقطير، حاذِ صندوق التجميع مع التجويف وادفعه ليصير مستويًا مع صينية التقطير، تعليق صوتي "ثم أدخِل صندوق تجميع الكبسولات. ستسقط الكبسولات المستعملة هنا تلقائيًا.". 13-18s، الخطوة 4: املأ الماء لأول مرة، المرجع @image4، لقطة مقرّبة جانبية، خزّان الماء في أعلى/مؤخرة الجسم، افتح غطاء الخزّان واسكب ماءً نظيفًا حتى خط مستوى الماء MAX، ثم أغلقه، مع التركيز على خط مستوى الماء، تعليق صوتي "افتح غطاء الخزّان، واسكب ماءً نظيفًا، مع الانتباه إلى عدم تجاوز خط مستوى الماء الأقصى، ثم أغلق غطاء الخزّان.". 18-25s، الخطوة 5: التشغيل، المرجع @image5، لقطة متوسطة من الأمام، الجزء الأمامي من الجسم، أوصل سلك الطاقة واضغط زر التشغيل؛ ينتقل ضوء المؤشر من الوميض إلى الثبات (اكتمل التسخين المسبق)، تعليق صوتي "أوصل الطاقة واضغط زر التشغيل. يبدأ ضوء المؤشر بالوميض، ما يعني أنه في طور التسخين. وحين يثبت الضوء، تكون الآلة جاهزة.". 25-30s، الخطوة 6: الشطف الأول (بدون كبسولة)، المرجع @image6، لقطة متوسطة تنتقل إلى لقطة مقرّبة أمامية جانبية، بدون إدخال كبسولة اضغط زر التحضير مباشرة ليتدفق الماء الساخن ويشطف الأنابيب، مع التركيز على ملاحظة "لا حاجة لكبسولة"، تعليق صوتي "الخطوة الأخيرة، الشطف الأول. لاحظ أن هذه الخطوة لا تتطلب كبسولة؛ فقط اضغط زر التحضير. وبمجرد انتهاء الشطف، تصبح آلة القهوة جاهزة للاستخدام."
 ```
 
-### No. 8: Fruity Cookie Commercial (image + 6 video refs)
+### No. 8: إعلان بسكويت الفواكه (صورة + 6 مراجع فيديو)
 
-- **Category:** `Multimodal Reference (image+video)`
+- **Category:** `مرجع متعدد الوسائط (صورة+فيديو)`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ar`
@@ -303,23 +292,23 @@ A 30-second tutorial video on installing and using a capsule coffee machine. 0-2
 
 #### Description
 
-A bright, colorful commercial for fruity cookies in four flavors — strawberry, apple, grape, orange — built from one image reference and six motion/camera video references, cut hard to a driving beat.
+إعلان مشرق وملوّن لبسكويت الفواكه بأربع نكهات — فراولة، تفاح، عنب، برتقال — مبنيّ من مرجع صورة واحد وستة مراجع فيديو للحركة والكاميرا، بقطعات حادة على إيقاع نابض.
 
 #### Prompt
 
 ```text
-A bright, colorful commercial style with fruity cookies as the hero, in four flavors — strawberry, apple, grape, and orange; strawberry flavor reference @image1. The cookies and their matching fruits are arranged in a strongly ordered geometric array; the overall frame is clean, premium, and high-energy. It opens with the fruits orbiting rapidly around the central cookie to quickly establish visual focus — reference the composition of @video1 — cutting in on a strong musical beat. Then cookies of different flavors advance toward the lens along spiral paths, forming clear spatial depth — reference the motion and camera work of @video2 — switching colors and flavors on the beat with the background music. The array of cookies pans left and right with fast plane-to-plane cuts, strawberry, apple, grape, and orange flavors alternating as the frame jump-cuts quickly to the rhythm — reference the movement of @video3. The mid-section adds up-and-down panning; the neat cookie array rises and falls vertically like a machine — reference the movement of @video4 — highlighting the beauty of order and the richness of the product. In the climax a cookie is snapped in two and the moment enters slow motion as the fruity filling bursts open, crumbs scattering, the juicy sensation and grainy impact amplified — reference the explosion effect of @video5 — then quickly returns to the fast-paced edit. The ending brings in the English text "Fresh on Seedance, made for viral vision", entering word by word in quick succession with strong rhythmic text motion and a product freeze-frame — reference @video6 — the four cookie flavors lined up neatly with the fruits bouncing in sync for a final brand-forward close, the frame full of a young, energetic, delicious, shareable ad atmosphere.
+أسلوب إعلاني مشرق وملوّن يتصدّره بسكويت الفواكه بطلًا، بأربع نكهات — فراولة وتفاح وعنب وبرتقال؛ نكهة الفراولة المرجع @image1. البسكويت والفواكه المطابقة له مرتّبة في مصفوفة هندسية بالغة الانتظام؛ والإطار العام نظيف وفاخر ومفعم بالطاقة. يفتتح المشهد بالفواكه تدور بسرعة حول البسكويتة المركزية لترسّخ بؤرة بصرية سريعًا — استند إلى تكوين @video1 — مع قطع داخل على ضربة موسيقية قوية. ثم تتقدّم بسكويتات بنكهات مختلفة نحو العدسة على مسارات حلزونية، مكوّنةً عمقًا مكانيًا واضحًا — استند إلى حركة وتصوير @video2 — مع تبديل الألوان والنكهات على الإيقاع مع الموسيقى الخلفية. تتحرك مصفوفة البسكويت يمينًا ويسارًا مع قطعات سريعة من مستوى إلى مستوى، وتتناوب نكهات الفراولة والتفاح والعنب والبرتقال بينما يقطع الإطار سريعًا مع الإيقاع — استند إلى حركة @video3. يضيف الجزء الأوسط حركة عمودية صعودًا وهبوطًا؛ فترتفع مصفوفة البسكويت المنتظمة وتنخفض عموديًا كالآلة — استند إلى حركة @video4 — مبرزًا جمال النظام وثراء المنتج. في الذروة تُكسر بسكويتة إلى نصفين وتدخل اللحظة إلى الحركة البطيئة بينما تنفجر حشوة الفواكه، وتتطاير الفتات، ويتضخّم الإحساس بالعصارة والوقع الحبيبي — استند إلى تأثير الانفجار في @video5 — ثم يعود سريعًا إلى المونتاج السريع الإيقاع. تأتي النهاية بالنص الإنجليزي "Fresh on Seedance, made for viral vision"، يدخل كلمةً كلمةً في تعاقب سريع بحركة نصية إيقاعية قوية ولقطة تجميد للمنتج — استند إلى @video6 — وتصطف نكهات البسكويت الأربع بانتظام مع ارتداد الفواكه بتزامن في ختام يبرز العلامة التجارية، والإطار يفيض بأجواء إعلانية شابة ومفعمة بالطاقة وشهية وقابلة للمشاركة.
 ```
 
 ## 📋 All Prompts
 
 <a id="category-1"></a>
 
-### Match-Cut & Creative Effects (1)
+### القطع المتطابق والمؤثرات الإبداعية (1)
 
-### No. 1: Crystal Ball Match-Cut Beat Film
+### No. 1: فيلم إيقاعي بالقطع المتطابق مع الكرة البلورية
 
-- **Category:** `Match-Cut & Creative Effects`
+- **Category:** `القطع المتطابق والمؤثرات الإبداعية`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ar`
@@ -330,21 +319,21 @@ A bright, colorful commercial style with fruity cookies as the hero, in four fla
 
 #### Description
 
-A beat-synced match-cut film: one crystal ball etched with a glowing 'seedance' logo stays centered while eight scenes cut seamlessly behind it.
+فيلم بالقطع المتطابق متزامن مع الإيقاع: كرة بلورية محفور بداخلها شعار 'seedance' متوهّج تبقى في المنتصف بينما تتوالى خلفها ثمانية مشاهد بقطعٍ سلس.
 
 #### Prompt
 
 ```text
-A fast-paced, cinematic Match-cut short film synced to a driving electronic beat. A flawless crystal ball stays fixed dead-center throughout, a glowing "seedance" logo etched inside it. The ball holds razor-sharp focus while, on every strong musical beat, the background match-cuts seamlessly: Scene 1: macro close-up, cinematic water splashing around the ball, refracting intricate light. Scene 2: a vintage morning cafe, the ball on a raw-wood table, rising coffee steam and blurred commuters beyond the window. Scene 3: golden-hour dusk, a skater youth tosses and catches the ball one-handed, street racing backward behind them in gorgeous backlit sunset. Scene 4: a frenzied music festival, hands raise the ball high, refracting dazzling stage lasers. Scene 5: a lively family party table, the ball resting center-frame, blurred figures toasting and reaching for food. Scene 6: a dim cinema, hands cupping the ball as the giant screen's faint glow drifts across its surface. Scene 7: the ball on a violently vibrating speaker diaphragm, match-cutting on the climax to a spinning DJ turntable center. Scene 8: an outdoor camping night, background becoming warm bonfire and swaying string-light bokeh. Finale: on the final downbeat the ball is hurled up out of frame; cut to pure black, a minimal white-on-black "seedance" appearing dead-center. Beat-synced match-cut editing, top-tier cinematic color grading, photoreal glass refraction, ray tracing, global illumination. Subject razor-sharp, background heavy motion blur.
+فيلم قصير سينمائي سريع الإيقاع بأسلوب القطع المتطابق، متزامن مع إيقاع إلكتروني نابض. تبقى كرة بلورية لا تشوبها شائبة ثابتة في منتصف الإطار تمامًا طوال الوقت، وقد حُفر بداخلها شعار "seedance" متوهّج. تحتفظ الكرة بتركيز حاد كالموسى، بينما تتبدّل الخلفية بقطعٍ متطابق سلس عند كل ضربة موسيقية قوية: Scene 1: لقطة ماكرو مقرّبة، رذاذ ماء سينمائي يتطاير حول الكرة، ويعكس ضوءًا متشعبًا دقيقًا. Scene 2: مقهى صباحي عتيق الطراز، الكرة على طاولة من الخشب الخام، بخار قهوة يتصاعد وعابرون ضبابيون خلف النافذة. Scene 3: غسق الساعة الذهبية، شاب متزلّج يقذف الكرة ويلتقطها بيد واحدة، والشارع يتراجع خلفه في غروب خلفيّ الإضاءة بديع. Scene 4: مهرجان موسيقي صاخب، أيادٍ ترفع الكرة عاليًا، تعكس أشعة ليزر المسرح الباهرة. Scene 5: طاولة حفلة عائلية مفعمة بالحياة، الكرة مستقرة في وسط الإطار، وأشخاص ضبابيون يرفعون نخبًا ويمدّون أيديهم نحو الطعام. Scene 6: صالة سينما خافتة، أيادٍ تحتضن الكرة بينما يتهادى وهج الشاشة العملاقة الخافت على سطحها. Scene 7: الكرة فوق غشاء مكبّر صوت يهتز بعنف، تتبدّل بقطعٍ متطابق عند الذروة إلى قرص دوّار (تيرن تيبل) لمنسّق أغانٍ في المنتصف. Scene 8: ليلة تخييم في الخلاء، تتحول الخلفية إلى نار مخيّم دافئة وأضواء سلسلية متمايلة بتأثير بوكيه. الخاتمة: عند الضربة الأخيرة تُقذف الكرة إلى أعلى خارج الإطار؛ قطع إلى سواد خالص، تظهر كلمة "seedance" بسيطة بالأبيض على الأسود في المنتصف تمامًا. مونتاج بالقطع المتطابق متزامن مع الإيقاع، تدرّج ألوان سينمائي من الطراز الأول، انكسار زجاجي فوتوريالي، تتبّع الأشعة، إضاءة شاملة. الهدف حاد كالموسى، والخلفية بها ضبابية حركة كثيفة.
 ```
 
 <a id="category-2"></a>
 
-### One-Take Cinematography (1)
+### التصوير بلقطة واحدة متواصلة (1)
 
-### No. 1: Steampunk Clockwork — 30s One-Take
+### No. 1: آلية ساعة ستيمبانك — لقطة واحدة 30 ثانية
 
-- **Category:** `One-Take Cinematography`
+- **Category:** `التصوير بلقطة واحدة متواصلة`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ar`
@@ -355,21 +344,21 @@ A fast-paced, cinematic Match-cut short film synced to a driving electronic beat
 
 #### Description
 
-A 30-second steampunk miniature 3D sequence with continuous orbiting, pass-through camera moves.
+تسلسل ثلاثي الأبعاد مصغّر بأسلوب الستيمبانك مدته 30 ثانية، بحركة كاميرا دائرية متواصلة تخترق المشاهد.
 
 #### Prompt
 
 ```text
-A high-end, deeply cinematic 30-second 3D motion-graphics sequence in refined steampunk and vintage-miniature style, with continuous fluid orbiting and pass-through camera moves. [0-10s] Macro close-up of an antique brass clock face that unfolds layer by layer into meshing rotating gear rings and volumetric fog. The camera pierces down through the gears; a mechanical ornithopter spirals up from a miniature canyon of stacked weathered old books. [10-20s] The camera glides forward tracking the ornithopter, seamlessly passing into a fast-spinning ornate brass zoetrope projecting galloping mechanical-horse light. The light leaps out and the scene becomes a brass floating cable car on glimmering copper rails through a forest of gears, bathed in cinematic golden-hour light. [20-30s] The camera pans elegantly down; below appears an exquisite clockwork wooden sailing ship cutting deep-blue glass-textured waves, which morph into a glowing giant moon with lantern-holding explorer silhouettes trekking a crystal-vein ridge under stars. The camera spirals smoothly back through ethereal clouds to the ticking brass clock face. Hyper-real mechanical textures, rich brass and gold tones, cinematic shallow depth of field, smooth seamless pass-through camerawork, epic fantastical adventure atmosphere.
+تسلسل رسوم متحركة ثلاثي الأبعاد راقٍ وسينمائي بامتياز مدته 30 ثانية، بأسلوب ستيمبانك مصقول ومصغّرات عتيقة، بحركة كاميرا دائرية سلسة ومتواصلة تخترق العناصر. [0-10s] لقطة ماكرو مقرّبة لوجه ساعة نحاسية عتيقة تتفتّح طبقةً تلو الأخرى إلى حلقات تروس دوّارة متعاشقة وضباب حجمي. تخترق الكاميرا نزولًا عبر التروس؛ وتصعد طائرة مجنّحة ميكانيكية في حركة حلزونية من وادٍ مصغّر مكوّن من أكوام كتب قديمة بالية. [10-20s] تنساب الكاميرا إلى الأمام متتبّعة الطائرة المجنّحة، لتعبر بسلاسة إلى زوتروب نحاسي مزخرف يدور بسرعة ويعرض ضوء خيول ميكانيكية تعدو. يقفز الضوء إلى الخارج فيتحول المشهد إلى عربة تلفريك نحاسية طافية على قضبان نحاسية متلألئة تعبر غابة من التروس، تغمرها إضاءة الساعة الذهبية السينمائية. [20-30s] تميل الكاميرا برشاقة إلى الأسفل؛ فتظهر في الأسفل سفينة شراعية خشبية بديعة تعمل بآلية ساعة تشقّ أمواجًا زرقاء داكنة بملمس زجاجي، تتحول إلى قمر عملاق متوهّج تظهر عليه صور ظلية لمستكشفين يحملون فوانيس يجوبون حافة عرق بلوري تحت النجوم. تعود الكاميرا بحركة حلزونية سلسة عبر سحب أثيرية إلى وجه الساعة النحاسية النابض بالتكتكة. ملمس ميكانيكي شديد الواقعية، درجات نحاسية وذهبية غنية، عمق ميدان ضحل سينمائي، حركة كاميرا اختراقية سلسة متصلة، أجواء مغامرة خيالية ملحمية.
 ```
 
 <a id="category-3"></a>
 
-### Multi-Image Reference (3)
+### مرجع متعدد الصور (3)
 
-### No. 1: Windows Through Worlds (5 refs)
+### No. 1: نوافذ على عوالم (5 مراجع)
 
-- **Category:** `Multi-Image Reference`
+- **Category:** `مرجع متعدد الصور`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ar`
@@ -388,17 +377,17 @@ A high-end, deeply cinematic 30-second 3D motion-graphics sequence in refined st
 
 #### Description
 
-A brand concept short driven by 5 reference images, gliding through windows into different worlds.
+فيلم قصير لمفهوم علامة تجارية تقوده 5 صور مرجعية، ينساب عبر النوافذ إلى عوالم مختلفة.
 
 #### Prompt
 
 ```text
-A cinematic brand concept short. @image1 is the first frame; the picture trembles slightly, the camera pushes in to tree shadows rushing backward outside the window, their retreat accelerating, then abruptly cuts to @image2, speed easing as the camera glides slowly along a stream, birdsong and blossoms. The camera drops underwater — bubble sounds — as orange jellyfish drift gracefully past the lens @image3; the camera pulls back as small fish flit past and swim from the water into the window @image4, a girl looking around, watching them. The camera pulls back, defocuses, then refocuses sharp, switching to the music's rhythm: a Chinese-garden lattice window @image5 with light circling, church stained glass, an airplane porthole, a dome skylight, a bay window, louver blinds, a European dormer, a door peephole, a camera viewfinder, a bird's eye, a human eye close-up. It settles on the human eye; the eye closes, screen black, then suddenly opens — "seedance" appearing in the center of the eye on the accent beat.
+فيلم قصير سينمائي لمفهوم علامة تجارية. @image1 هو الإطار الأول؛ ترتجف الصورة قليلًا، وتتقدّم الكاميرا نحو ظلال الأشجار المندفعة إلى الخلف خارج النافذة، ويتسارع تراجعها، ثم تقطع فجأة إلى @image2، لتخفّ السرعة بينما تنساب الكاميرا ببطء بمحاذاة جدول، مع تغريد الطيور والأزهار المتفتّحة. تغوص الكاميرا تحت الماء — أصوات فقاعات — بينما يمرّ قنديل بحر برتقالي بأناقة أمام العدسة @image3؛ تتراجع الكاميرا بينما تخطف أسماك صغيرة عبرها وتسبح من الماء إلى داخل النافذة @image4، وفتاة تتلفّت حولها وتراقبها. تتراجع الكاميرا وتفقد التركيز، ثم تعيد التركيز بوضوح حاد، متبدّلةً على إيقاع الموسيقى: نافذة مشبّكة على طراز الحدائق الصينية @image5 يدور الضوء حولها، زجاج كنيسة ملوّن، كوّة طائرة، منور قبّة، نافذة بارزة (باي ويندو)، ستائر معدنية أفقية، نافذة سطح أوروبية، ثقب باب للنظر، محدّد رؤية كاميرا، عين طائر، ولقطة مقرّبة لعين بشرية. يستقر المشهد على العين البشرية؛ تنغلق العين، فتُظلم الشاشة، ثم تنفتح فجأة — لتظهر كلمة "seedance" في مركز العين على الضربة المميّزة.
 ```
 
-### No. 2: One-Take Through Six Rooms (8 refs)
+### No. 2: لقطة واحدة عبر ست غرف (8 مراجع)
 
-- **Category:** `Multi-Image Reference`
+- **Category:** `مرجع متعدد الصور`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ar`
@@ -420,17 +409,17 @@ A cinematic brand concept short. @image1 is the first frame; the picture tremble
 
 #### Description
 
-One continuous take following a figure through six mood-shifting rooms, driven by 8 reference images.
+لقطة واحدة متواصلة تتبع شخصًا عبر ست غرف تتبدّل أجواؤها، تقودها 8 صور مرجعية.
 
 #### Prompt
 
 ```text
-One continuous take. The camera smoothly follows a person in a black coat (reference @image1) moving left to right through six connected rooms of different tones and moods. Every room shares the same structure: white walls, light herringbone wood floor, French floor-to-ceiling windows, white sheer curtains (reference @image2) but the outside view and mood differ each time. The protagonist walks at a constant pace, passing through every open door. 0-5s room one, American-comic fight: the protagonist fights a character (@image3), who is defeated; 5-10s room two, warmth, felt-craft style, window view a sunflower field (@image4), warm-orange soft light, a painter painting sunflowers (@image5), the protagonist turning felt-style on entering; 10-15s room three, sorrow, black-and-white comic stop-motion, rain outside, cold-grey light, a person alone on the floor hugging their knees, a phone glowing with an unanswered call; on entering, the light blinks off then on, the room turns color, flowers bursting into bloom; 15-20s room four, joy, a room submerged in the sea (reference @image6), the protagonist turning transparent among coral and fish; 20-25s room five, surprise, window view a sky of fireworks (reference @image7), colorful flickering light, the protagonist swept up in a cheering crowd; 25-30s a blank white room, the protagonist snaps their fingers — snap SFX — frame goes black, "seedance" in the middle (reference @image8). Cinematic quality, high-fashion advertising style, lighting entirely determined by the window views for strong emotional contrast, no text in frame.
+لقطة واحدة متواصلة. تتبع الكاميرا بسلاسة شخصًا يرتدي معطفًا أسود (المرجع @image1) وهو ينتقل من اليسار إلى اليمين عبر ست غرف متصلة مختلفة الألوان والأجواء. تشترك كل الغرف في البنية نفسها: جدران بيضاء، أرضية خشبية فاتحة بنقشة عظم السمكة، نوافذ فرنسية ممتدة من الأرض إلى السقف، ستائر بيضاء شفافة (المرجع @image2) لكن المنظر الخارجي والأجواء يختلفان في كل مرة. يمشي البطل بوتيرة ثابتة، عابرًا كل باب مفتوح. 0-5s الغرفة الأولى، شجار على طراز الكوميكس الأمريكي: يتقاتل البطل مع شخصية (@image3) فتُهزم؛ 5-10s الغرفة الثانية، دفء، بأسلوب حرفة اللباد، منظر النافذة حقل عبّاد شمس (@image4)، ضوء ناعم برتقالي دافئ، ورسّام يرسم عبّاد الشمس (@image5)، ويتحول البطل إلى أسلوب اللباد لحظة دخوله؛ 10-15s الغرفة الثالثة، حزن، كوميكس أبيض وأسود بأسلوب ستوب موشن، مطر في الخارج، ضوء رمادي بارد، شخص وحيد على الأرض يحتضن ركبتيه، وهاتف يتوهّج بمكالمة لم يُجب عليها؛ لحظة الدخول ينطفئ الضوء ثم يعود، فتكتسي الغرفة بالألوان، وتتفتّح الأزهار دفعة واحدة؛ 15-20s الغرفة الرابعة، فرح، غرفة غارقة في البحر (المرجع @image6)، ويصير البطل شفافًا بين الشعاب المرجانية والأسماك؛ 20-25s الغرفة الخامسة، دهشة، منظر النافذة سماء تملؤها الألعاب النارية (المرجع @image7)، ضوء ملوّن متلألئ، والبطل تجرفه حشود مهلّلة؛ 25-30s غرفة بيضاء فارغة، يفرقع البطل أصابعه — مؤثر صوتي للفرقعة — فيصير الإطار أسود، وتظهر "seedance" في المنتصف (المرجع @image8). جودة سينمائية، أسلوب إعلانات أزياء راقية، الإضاءة تحدّدها بالكامل مناظر النوافذ لخلق تباين عاطفي قوي، بلا أي نص في الإطار.
 ```
 
-### No. 3: Multilingual Hip-Hop 'Hello' MV
+### No. 3: فيديو كليب هيب هوب متعدد اللغات بعنوان 'Hello'
 
-- **Category:** `Multi-Image Reference`
+- **Category:** `مرجع متعدد الصور`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ar`
@@ -445,21 +434,21 @@ One continuous take. The camera smoothly follows a person in a black coat (refer
 
 #### Description
 
-A seaside hip-hop MV built from one reference image; the lead raps 'hello' in 8 languages, lip-synced, hard cuts on the beat.
+فيديو كليب هيب هوب على شاطئ البحر مبنيّ من صورة مرجعية واحدة؛ يؤدّي المغني الرئيسي كلمة 'hello' راب بثماني لغات، بتزامن شفاه، مع قطعات حادة على الإيقاع.
 
 #### Prompt
 
 ```text
-Cinematic hip-hop / rap music video, photoreal quality, high-end tone, seaside setting. Build the frame from @image1: a band performs at a golden sand beach with crashing waves — a lead vocalist gripping a mic on a stand in the wet sand, one guitarist left, one right, a drummer at the back; a vast coastline behind, rolling waves, a warm golden-hour sun shimmering on the water, sea mist in the air. The lead in a red tracksuit raps to camera — lips and jaw precisely synced to every word, head punching to the beat. Bright, punchy, fast, confident rap. HARD CUT on the beat, each switch a double contrast (shot size and type change together). Lyrics (the lead sings 'hello' in each language in turn, precisely lip-synced): English "Hello", Chinese "你好", Japanese "こんにちは", Korean "안녕하세요", Portuguese "Olá", Thai "สวัสดี", Spanish "Hola", Arabic "مرحبا". 8 hard-cut shots (low-angle wide establishing; close-up rap to camera; macro guitar-string insert; 3/4 prowling orbit; lateral track at shore; drummer tilt-up; tight push on the lead; heroic full-band push-in), one language per shot. White balance 4000K, teal-and-amber grade, 35mm, shallow depth of field, film grain, sea mist, golden-hour flare. Premium feel, precise lip-sync, no subtitles, no text overlays, hard cuts only, total 20 seconds.
+فيديو كليب هيب هوب / راب سينمائي، بجودة فوتوريالية ونبرة راقية، في أجواء شاطئ البحر. ابنِ الإطار من @image1: فرقة تؤدّي على شاطئ رملي ذهبي حيث تتكسّر الأمواج — مغنٍّ رئيسي يمسك ميكروفونًا على حامل في الرمل المبلل، عازف غيتار على اليسار وآخر على اليمين، وعازف طبول في الخلف؛ خلفهم خط ساحلي شاسع، وأمواج متدحرجة، وشمس الساعة الذهبية الدافئة تتلألأ على الماء، ورذاذ بحري في الهواء. يؤدّي المغني الرئيسي بزيّ رياضي أحمر الراب نحو الكاميرا — شفتاه وفكّه متزامنان بدقة مع كل كلمة، ورأسه ينبض مع الإيقاع. راب مشرق وقوي وسريع وواثق. قطع حاد على الإيقاع، وكل انتقال يحمل تباينًا مزدوجًا (يتغيّر حجم اللقطة ونوعها معًا). الكلمات (يغني المغني الرئيسي 'hello' بكل لغة بالتناوب، بتزامن شفاه دقيق): الإنجليزية "Hello"، الصينية "你好"، اليابانية "こんにちは"، الكورية "안녕하세요"، البرتغالية "Olá"، التايلاندية "สวัสดี"، الإسبانية "Hola"، العربية "مرحبا". 8 لقطات بقطع حاد (لقطة تأسيسية واسعة من زاوية منخفضة؛ راب مقرّب نحو الكاميرا؛ لقطة ماكرو مقحمة لأوتار الغيتار؛ دوران متسلّل بزاوية 3/4؛ تتبّع جانبي عند الشاطئ؛ إمالة لأعلى نحو عازف الطبول؛ اقتراب محكم نحو المغني الرئيسي؛ اقتراب بطولي نحو الفرقة كاملة)، لغة واحدة لكل لقطة. توازن أبيض 4000K، تدرّج ألوان أزرق مخضرّ وكهرماني، عدسة 35mm، عمق ميدان ضحل، حبيبات فيلمية، رذاذ بحري، وهج الساعة الذهبية. إحساس فاخر، تزامن شفاه دقيق، بلا ترجمة، بلا نصوص فوق الصورة، قطعات حادة فقط، المدة الإجمالية 20 ثانية.
 ```
 
 <a id="category-4"></a>
 
-### Video Editing (2)
+### تحرير الفيديو (2)
 
-### No. 1: Video Edit — Remove All But the Lead
+### No. 1: تحرير الفيديو — إزالة الجميع باستثناء البطل
 
-- **Category:** `Video Editing`
+- **Category:** `تحرير الفيديو`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ar`
@@ -474,17 +463,17 @@ Cinematic hip-hop / rap music video, photoreal quality, high-end tone, seaside s
 
 #### Description
 
-Reference-video editing: erase everyone except the protagonist from a source clip.
+تحرير بالاستناد إلى فيديو مرجعي: مسح كل الأشخاص عدا البطل من مقطع المصدر.
 
 #### Prompt
 
 ```text
-Video editing: remove everyone in @video1 except the protagonist.
+تحرير الفيديو: أزِل كل الأشخاص في @video1 عدا البطل.
 ```
 
-### No. 2: Steam Train Bursts the Screen (video edit)
+### No. 2: قطار البخار يقتحم الشاشة (تحرير فيديو)
 
-- **Category:** `Video Editing`
+- **Category:** `تحرير الفيديو`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ar`
@@ -499,21 +488,21 @@ Video editing: remove everyone in @video1 except the protagonist.
 
 #### Description
 
-A video edit that keeps the original @video1 old-cinema clip intact and adds only a steam locomotive bursting through the screen, tearing the fabric, with black-and-white snapping to full color at the moment of impact.
+تحرير فيديو يبقي مقطع @video1 السينمائي القديم سليمًا بالكامل ويضيف فقط قاطرة بخارية تقتحم الشاشة، تمزّق القماش، مع تحوّل الأبيض والأسود إلى ألوان كاملة لحظة الاصطدام.
 
 #### Prompt
 
 ```text
-Hyper-real cinematic realist style with photorealistic live-action texture, emphasizing the real-world plausibility of the physical object bursting out (the steam train); no CGI gloss / game engine / stylized 3D. Preserve @video1's original composition, projection-hall lighting, handheld camera state and natural imperfections. Source video locked: keep @video1 fully intact as the base image (the old-fashioned projection hall, the rows of hat-wearing audience seen from behind, the projector's conical beam, the screen, the ambient light, the color tone and the handheld movement all unchanged); the only additions: the train bursting out of the screen, the changes in light and shadow it brings, the tearing of the screen, and the slight physical impact on the hall and the front-row audience. Color-shift rule (the core addition): at the start strictly keep @video1's original black-and-white old-film texture (grain / scratches / flicker / monochrome); at the exact moment the locomotive truly breaks through the screen and bursts into reality, the image abruptly shifts from black-and-white to full, real color, the color spreading across the whole frame like a shockwave centered on the point where the train breaks out (the train's black steel body, the red-copper boiler, the orange-yellow steam-lamp glow, the warm brown of the wooden carriage, the white-grey steam, and the warm brown of the projection hall all coming into color accordingly); the color shift is precisely synchronized with the screen-breaking burst, after which photorealistic color is maintained to the end. Screen-tearing locked: the screen is a real white projection cloth with genuine fabric tension; as the train bursts out it is forcibly torn open along the contour of the locomotive's front, with radial rips whose edges curl back and shredded cloth fibers flying. Subject: an old-fashioned steam locomotive front bursting forcibly out of the screen, a black steel body, a cylindrical boiler, a front cowcatcher, a chimney venting white-grey steam, a bright headlamp, the metal surfaces with real wear, oil grime, rivets and wet reflections, charging forward with immense weight and inertia. Camera: fully inherits @video1's original handheld movement, not smoothed, not re-timed, not re-composed; the bursting train stays correctly locked into the screen and the hall space at all times, maintaining correct parallax, occlusion and ground-contact shadow. Sound: no music, keep only real on-scene sound effects, inheriting @video1's projection-hall ambience (the projector's clatter, the audience's stirring) and adding the sound of the cloth tearing, steam gushing, the mechanical roar of steel wheels, and the impact air blast. Total duration exactly the same as @video1; add nothing other than the train itself and its physical interactions, the screen tearing, and the color shift at the moment of the break. No slow motion, no sense of magic, no stylized horror; the final result should look like an eerie yet real image of "a train smashing through the screen, black-and-white instantly turning to color" captured by chance by a real camera in an old projection hall.
+أسلوب واقعي سينمائي شديد الواقعية بملمس تصوير حي فوتوريالي، يؤكّد على المعقولية الواقعية للجسم المادي المنطلق للخارج (قطار البخار)؛ بلا لمعان CGI / محرك ألعاب / ثلاثي أبعاد مصمَّم. حافظ على تكوين @video1 الأصلي، وإضاءة قاعة العرض، وحالة الكاميرا المحمولة باليد، والعيوب الطبيعية. فيديو المصدر مقفل: أبقِ @video1 سليمًا بالكامل كصورة أساس (قاعة العرض القديمة الطراز، صفوف الجمهور المعتمرين قبّعات مرئية من الخلف، الشعاع المخروطي للجهاز، الشاشة، الضوء المحيط، درجة اللون والحركة المحمولة باليد، كلها دون تغيير)؛ الإضافات الوحيدة: القطار المنطلق من الشاشة، والتغيرات في الضوء والظل التي يجلبها، وتمزّق الشاشة، والوقع المادي الطفيف على القاعة وجمهور الصف الأمامي. قاعدة تحوّل اللون (الإضافة الجوهرية): في البداية احتفظ بصرامة بملمس الفيلم القديم بالأبيض والأسود الأصلي لـ @video1 (حبيبات / خدوش / وميض / أحادي اللون)؛ وفي اللحظة الدقيقة التي تخترق فيها القاطرة الشاشة فعلًا وتنطلق إلى الواقع، تتحول الصورة فجأة من الأبيض والأسود إلى ألوان حقيقية كاملة، وينتشر اللون عبر الإطار كله كموجة صدمية مركزها نقطة انطلاق القطار (هيكل القطار الفولاذي الأسود، والغلاية النحاسية الحمراء، ووهج مصباح البخار البرتقالي الأصفر، والبني الدافئ للعربة الخشبية، والبخار الأبيض الرمادي، والبني الدافئ لقاعة العرض، كلها تكتسي بالألوان تبعًا لذلك)؛ يتزامن تحوّل اللون بدقة مع اندفاعة اختراق الشاشة، وبعدها يُحافظ على اللون الفوتوريالي حتى النهاية. تمزّق الشاشة مقفل: الشاشة قماش عرض أبيض حقيقي بشدّ نسيج فعلي؛ ومع انطلاق القطار تتمزّق قسرًا على امتداد حدّ مقدّمة القاطرة، بتمزّقات شعاعية تتلوّى حوافها للخلف وتتطاير ألياف قماش ممزّقة. الموضوع: مقدّمة قاطرة بخارية قديمة الطراز تنطلق قسرًا من الشاشة، هيكل فولاذي أسود، غلاية أسطوانية، مصدّ ماشية أمامي، مدخنة تنفث بخارًا أبيض رماديًا، مصباح أمامي ساطع، وأسطح معدنية عليها تآكل حقيقي وأوساخ زيتية ومسامير برشام وانعكاسات مبتلّة، تندفع للأمام بثقل هائل وقصور ذاتي. الكاميرا: ترث بالكامل حركة @video1 المحمولة باليد الأصلية، دون تنعيم، دون إعادة توقيت، دون إعادة تكوين؛ ويبقى القطار المنطلق مقفلًا بشكل صحيح في الشاشة وفضاء القاعة في كل الأوقات، مع الحفاظ على المنظور التبايني (البارالاكس) الصحيح، والحجب، وظل ملامسة الأرض. الصوت: بلا موسيقى، احتفظ فقط بالمؤثرات الصوتية الحقيقية من الموقع، وارثًا أجواء قاعة العرض من @video1 (طقطقة الجهاز، حركة الجمهور) ومضيفًا صوت تمزّق القماش، واندفاع البخار، والزئير الميكانيكي للعجلات الفولاذية، وعصفة هواء الاصطدام. المدة الإجمالية مطابقة تمامًا لـ @video1؛ لا تضِف شيئًا سوى القطار نفسه وتفاعلاته المادية، وتمزّق الشاشة، وتحوّل اللون لحظة الاختراق. بلا حركة بطيئة، بلا إحساس سحري، بلا رعب مصمَّم؛ يجب أن تبدو النتيجة النهائية كصورة مخيفة لكن حقيقية لـ "قطار يقتحم الشاشة، والأبيض والأسود يتحول فورًا إلى ألوان" التقطتها بالصدفة كاميرا حقيقية في قاعة عرض قديمة.
 ```
 
 <a id="category-5"></a>
 
-### Reference-Guided Tutorial (1)
+### درس تعليمي موجّه بالمراجع (1)
 
-### No. 1: Capsule Coffee Machine Setup Tutorial (6 refs)
+### No. 1: درس إعداد آلة قهوة الكبسولات (6 مراجع)
 
-- **Category:** `Reference-Guided Tutorial`
+- **Category:** `درس تعليمي موجّه بالمراجع`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ar`
@@ -533,21 +522,21 @@ Hyper-real cinematic realist style with photorealistic live-action texture, emph
 
 #### Description
 
-A 30-second setup-and-use tutorial for a capsule coffee machine, six reference-guided steps with voiceover — from installing the water tank to the first rinse.
+درس تعليمي مدته 30 ثانية لإعداد آلة قهوة الكبسولات واستخدامها، بست خطوات موجّهة بالمراجع مع تعليق صوتي — من تركيب خزّان الماء إلى الشطف الأول.
 
 #### Prompt
 
 ```text
-A 30-second tutorial video on installing and using a capsule coffee machine. 0-2s: the opening title card reads "seedance capsule coffee machine setup tutorial". 2-5s, Step 1: install the water tank, reference @image1, medium shot from a slightly high angle, rear of the machine body, align the water tank with the slot on the back of the body and push it straight down until it clicks firmly into place, clearly showing how the tank's bottom clips align with the body's slot, the water level line visible through the tank's transparent section, voiceover "First, install the water tank. Align the tank with the slot on the back of the machine; a click means it is locked in place.". 5-9s, Step 2: install the drip tray, reference @image2, close-up front view, front bottom of the body, slide the drip tray horizontally into the guide rails at the bottom until fully seated, voiceover "Next, install the drip tray. Align the tray with the bottom rails.". 9-13s, Step 3: install the used-capsule collection box, reference @image3, close-up from a slightly low angle, the cavity beneath the drip tray, align the collection box with the recess and push it in flush with the drip tray, voiceover "Then insert the capsule collection box. Used capsules will drop down here automatically.". 13-18s, Step 4: first fill with water, reference @image4, close-up side view, the water tank at the top/back of the body, open the tank lid and pour in clean water up to the MAX water level line, then close it, emphasizing the water level line, voiceover "Open the tank lid, pour in clean water, being careful not to exceed the maximum water level line, then close the tank lid.". 18-25s, Step 5: power on, reference @image5, medium shot front view, front of the body, plug in the power cord and press the power button; the indicator light goes from blinking to steady (preheating complete), voiceover "Connect the power and press the power button. The indicator light starts blinking, which means it is preheating. When the light turns steady, the machine is ready.". 25-30s, Step 6: first rinse (without a capsule), reference @image6, medium shot moving to a close-up front-side view, without inserting a capsule press the brew button directly so hot water flows out and rinses the lines, emphasizing the "no capsule needed" note, voiceover "The last step, the first rinse. Note that this step does not require a capsule; just press the brew button. Once the rinse is done, your coffee machine is ready to use."
+فيديو تعليمي مدته 30 ثانية حول تركيب آلة قهوة الكبسولات واستخدامها. 0-2s: بطاقة العنوان الافتتاحية تحمل "seedance: درس إعداد آلة قهوة الكبسولات". 2-5s، الخطوة 1: ركّب خزّان الماء، المرجع @image1، لقطة متوسطة من زاوية مرتفعة قليلًا، الجزء الخلفي من جسم الآلة، حاذِ خزّان الماء مع الفتحة في مؤخرة الجسم وادفعه مستقيمًا للأسفل حتى يستقر بإحكام مع صوت طقّة، مع إظهار واضح لكيفية محاذاة مشابك قاع الخزّان مع فتحة الجسم، وخط مستوى الماء ظاهر عبر الجزء الشفاف من الخزّان، تعليق صوتي "أولًا، ركّب خزّان الماء. حاذِ الخزّان مع الفتحة في مؤخرة الآلة؛ صوت الطقّة يعني أنه استقر في مكانه.". 5-9s، الخطوة 2: ركّب صينية التقطير، المرجع @image2، لقطة مقرّبة من الأمام، الجزء الأمامي السفلي من الجسم، أدخِل صينية التقطير أفقيًا في القضبان الموجّهة أسفل الجسم حتى تستقر تمامًا، تعليق صوتي "بعد ذلك، ركّب صينية التقطير. حاذِ الصينية مع القضبان السفلية.". 9-13s، الخطوة 3: ركّب صندوق تجميع الكبسولات المستعملة، المرجع @image3، لقطة مقرّبة من زاوية منخفضة قليلًا، التجويف أسفل صينية التقطير، حاذِ صندوق التجميع مع التجويف وادفعه ليصير مستويًا مع صينية التقطير، تعليق صوتي "ثم أدخِل صندوق تجميع الكبسولات. ستسقط الكبسولات المستعملة هنا تلقائيًا.". 13-18s، الخطوة 4: املأ الماء لأول مرة، المرجع @image4، لقطة مقرّبة جانبية، خزّان الماء في أعلى/مؤخرة الجسم، افتح غطاء الخزّان واسكب ماءً نظيفًا حتى خط مستوى الماء MAX، ثم أغلقه، مع التركيز على خط مستوى الماء، تعليق صوتي "افتح غطاء الخزّان، واسكب ماءً نظيفًا، مع الانتباه إلى عدم تجاوز خط مستوى الماء الأقصى، ثم أغلق غطاء الخزّان.". 18-25s، الخطوة 5: التشغيل، المرجع @image5، لقطة متوسطة من الأمام، الجزء الأمامي من الجسم، أوصل سلك الطاقة واضغط زر التشغيل؛ ينتقل ضوء المؤشر من الوميض إلى الثبات (اكتمل التسخين المسبق)، تعليق صوتي "أوصل الطاقة واضغط زر التشغيل. يبدأ ضوء المؤشر بالوميض، ما يعني أنه في طور التسخين. وحين يثبت الضوء، تكون الآلة جاهزة.". 25-30s، الخطوة 6: الشطف الأول (بدون كبسولة)، المرجع @image6، لقطة متوسطة تنتقل إلى لقطة مقرّبة أمامية جانبية، بدون إدخال كبسولة اضغط زر التحضير مباشرة ليتدفق الماء الساخن ويشطف الأنابيب، مع التركيز على ملاحظة "لا حاجة لكبسولة"، تعليق صوتي "الخطوة الأخيرة، الشطف الأول. لاحظ أن هذه الخطوة لا تتطلب كبسولة؛ فقط اضغط زر التحضير. وبمجرد انتهاء الشطف، تصبح آلة القهوة جاهزة للاستخدام."
 ```
 
 <a id="category-6"></a>
 
-### Multimodal Reference (image+video) (1)
+### مرجع متعدد الوسائط (صورة+فيديو) (1)
 
-### No. 1: Fruity Cookie Commercial (image + 6 video refs)
+### No. 1: إعلان بسكويت الفواكه (صورة + 6 مراجع فيديو)
 
-- **Category:** `Multimodal Reference (image+video)`
+- **Category:** `مرجع متعدد الوسائط (صورة+فيديو)`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ar`
@@ -568,21 +557,21 @@ A 30-second tutorial video on installing and using a capsule coffee machine. 0-2
 
 #### Description
 
-A bright, colorful commercial for fruity cookies in four flavors — strawberry, apple, grape, orange — built from one image reference and six motion/camera video references, cut hard to a driving beat.
+إعلان مشرق وملوّن لبسكويت الفواكه بأربع نكهات — فراولة، تفاح، عنب، برتقال — مبنيّ من مرجع صورة واحد وستة مراجع فيديو للحركة والكاميرا، بقطعات حادة على إيقاع نابض.
 
 #### Prompt
 
 ```text
-A bright, colorful commercial style with fruity cookies as the hero, in four flavors — strawberry, apple, grape, and orange; strawberry flavor reference @image1. The cookies and their matching fruits are arranged in a strongly ordered geometric array; the overall frame is clean, premium, and high-energy. It opens with the fruits orbiting rapidly around the central cookie to quickly establish visual focus — reference the composition of @video1 — cutting in on a strong musical beat. Then cookies of different flavors advance toward the lens along spiral paths, forming clear spatial depth — reference the motion and camera work of @video2 — switching colors and flavors on the beat with the background music. The array of cookies pans left and right with fast plane-to-plane cuts, strawberry, apple, grape, and orange flavors alternating as the frame jump-cuts quickly to the rhythm — reference the movement of @video3. The mid-section adds up-and-down panning; the neat cookie array rises and falls vertically like a machine — reference the movement of @video4 — highlighting the beauty of order and the richness of the product. In the climax a cookie is snapped in two and the moment enters slow motion as the fruity filling bursts open, crumbs scattering, the juicy sensation and grainy impact amplified — reference the explosion effect of @video5 — then quickly returns to the fast-paced edit. The ending brings in the English text "Fresh on Seedance, made for viral vision", entering word by word in quick succession with strong rhythmic text motion and a product freeze-frame — reference @video6 — the four cookie flavors lined up neatly with the fruits bouncing in sync for a final brand-forward close, the frame full of a young, energetic, delicious, shareable ad atmosphere.
+أسلوب إعلاني مشرق وملوّن يتصدّره بسكويت الفواكه بطلًا، بأربع نكهات — فراولة وتفاح وعنب وبرتقال؛ نكهة الفراولة المرجع @image1. البسكويت والفواكه المطابقة له مرتّبة في مصفوفة هندسية بالغة الانتظام؛ والإطار العام نظيف وفاخر ومفعم بالطاقة. يفتتح المشهد بالفواكه تدور بسرعة حول البسكويتة المركزية لترسّخ بؤرة بصرية سريعًا — استند إلى تكوين @video1 — مع قطع داخل على ضربة موسيقية قوية. ثم تتقدّم بسكويتات بنكهات مختلفة نحو العدسة على مسارات حلزونية، مكوّنةً عمقًا مكانيًا واضحًا — استند إلى حركة وتصوير @video2 — مع تبديل الألوان والنكهات على الإيقاع مع الموسيقى الخلفية. تتحرك مصفوفة البسكويت يمينًا ويسارًا مع قطعات سريعة من مستوى إلى مستوى، وتتناوب نكهات الفراولة والتفاح والعنب والبرتقال بينما يقطع الإطار سريعًا مع الإيقاع — استند إلى حركة @video3. يضيف الجزء الأوسط حركة عمودية صعودًا وهبوطًا؛ فترتفع مصفوفة البسكويت المنتظمة وتنخفض عموديًا كالآلة — استند إلى حركة @video4 — مبرزًا جمال النظام وثراء المنتج. في الذروة تُكسر بسكويتة إلى نصفين وتدخل اللحظة إلى الحركة البطيئة بينما تنفجر حشوة الفواكه، وتتطاير الفتات، ويتضخّم الإحساس بالعصارة والوقع الحبيبي — استند إلى تأثير الانفجار في @video5 — ثم يعود سريعًا إلى المونتاج السريع الإيقاع. تأتي النهاية بالنص الإنجليزي "Fresh on Seedance, made for viral vision"، يدخل كلمةً كلمةً في تعاقب سريع بحركة نصية إيقاعية قوية ولقطة تجميد للمنتج — استند إلى @video6 — وتصطف نكهات البسكويت الأربع بانتظام مع ارتداد الفواكه بتزامن في ختام يبرز العلامة التجارية، والإطار يفيض بأجواء إعلانية شابة ومفعمة بالطاقة وشهية وقابلة للمشاركة.
 ```
 
 <a id="category-7"></a>
 
-### Image Reference (1)
+### مرجع صورة (1)
 
-### No. 1: Desert Horned Lizard & Grapefruit (3D ad)
+### No. 1: السحلية الصحراوية القرناء والجريب فروت (إعلان ثلاثي الأبعاد)
 
-- **Category:** `Image Reference`
+- **Category:** `مرجع صورة`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ar`
@@ -597,21 +586,21 @@ A bright, colorful commercial style with fruity cookies as the hero, in four fla
 
 #### Description
 
-A bright, glossy 3D animated commercial: a parched desert horned lizard finds a grapefruit, bites in, and a juice tsunami turns the desert into a summer sea. Built from one character reference.
+إعلان رسوم متحركة ثلاثي الأبعاد مشرق ولمّاع: سحلية صحراوية قرناء ظمآنة تعثر على جريب فروت، تعضّها، فيحوّل طوفان العصير الصحراء إلى بحر صيفي. مبنيّ من مرجع شخصية واحد.
 
 #### Prompt
 
 ```text
-A 3D animated commercial style, bright and translucent colors; the pulp and juice must feel intensely refreshing and impactful. The overall vibe is like a high-quality commercial animated short with a touch of exaggerated humor. The desert horned lizard character is cute, lively and expressive, reference @image1. The image texture references that soft natural light, delicate fuzz/skin texture, dreamy macro depth of field, and a realistic-yet-slightly-childlike feel from the reference image. 0-3s: a desert scorched by the blazing sun, the air shimmering with heat and the sand searing hot; a desert horned lizard lies on the scalding sand, tongue slightly out, eyes glazed, nearly dried out, swaying with every couple of steps as if about to "evaporate". 3-6s: it suddenly stops, its nose twitches, and looking down it spots a cool, plump, dew-covered grapefruit half-buried in the sand, glistening like a desert miracle; the lizard's eyes go wide in an instant. 6-8s: it pounces over, hugging the grapefruit tightly with both hands, pressing its whole face against the rind with a blissful "I'm finally alive" expression; the frame holds for 1 second, forming an exaggerated, funny memory beat. 8-11s: it looks up, opens its mouth and takes a big bite; the grapefruit rind splits open, the plump pulp shining with a translucent gloss, and the next moment the juice erupts like a tsunami. 11-16s: orange-pink, translucent, glistening grapefruit juice gushes out wildly, pouring down the dunes and rapidly flooding the entire desert; the dry yellow sand instantly turns into a cool, sparkling, fruit-scented summer sea, cacti, rocks and small dunes swallowed by the waves of juice, the lizard's expression turning from delight to terror. 16-20s: nearly drowned by the "grapefruit sea", it frantically clutches half a grapefruit like a life buoy and floats, poking its soaked head out looking dazed. 20-24s: cut to a white screen; the brand name and slogan appear dead-center: "Seedance Grapefruit — bite in for the pulp, what pours out is summer." The voiceover reads the whole line. 24-30s: cut back from white; the desert horned lizard is now lounging on the floating grapefruit, wearing tiny sunglasses and holding a cup with a straw, drifting leisurely on the "juice sea" on vacation, surrounded by floating orange pulp, little ice cubes, cool splashes and a clear blue sky; the mood shifts from "survival" to "vacation", and finally it leans back contentedly on the grapefruit as the camera pulls out and freezes on a refreshing, bright, playful summer frame.
+أسلوب إعلان رسوم متحركة ثلاثي الأبعاد، بألوان مشرقة وشفافة؛ ويجب أن يمنح اللبّ والعصير إحساسًا بالانتعاش والوقع الشديد. الأجواء العامة أشبه بفيلم إعلاني قصير متحرك عالي الجودة مع لمسة من الفكاهة المبالَغ فيها. شخصية السحلية الصحراوية القرناء لطيفة وحيوية ومعبّرة، المرجع @image1. ملمس الصورة يستند إلى ذلك الضوء الطبيعي الناعم، والملمس الدقيق للزغب/الجلد، وعمق الميدان الماكرو الحالم، والإحساس الواقعي مع لمسة طفولية خفيفة المستمدة من الصورة المرجعية. 0-3s: صحراء تحرقها الشمس اللاهبة، والهواء يتموّج بالحرارة والرمل يلتهب سخونة؛ تستلقي سحلية صحراوية قرناء على الرمل الحارق، لسانها خارج قليلًا، عيناها زائغتان، وقد كادت تجفّ، تترنّح مع كل بضع خطوات وكأنها على وشك أن "تتبخّر". 3-6s: تتوقف فجأة، يرتجف أنفها، وحين تنظر للأسفل تلمح جريب فروت باردة ممتلئة مغطّاة بالندى نصف مدفونة في الرمل، تتلألأ كأنها معجزة صحراوية؛ فتتّسع عينا السحلية في لحظة. 6-8s: تنقضّ عليها، تحتضن الجريب فروت بكلتا يديها بإحكام، وتضغط وجهها كله على القشرة بتعبير غامر ينمّ عن نشوة "أخيرًا عدت إلى الحياة"؛ يثبت الإطار لثانية واحدة، مكوّنًا لحظة تذكارية مبالَغًا فيها ومضحكة. 8-11s: ترفع رأسها، تفتح فمها وتأخذ قضمة كبيرة؛ تنشقّ قشرة الجريب فروت، ويلمع اللبّ الممتلئ ببريق شفاف، وفي اللحظة التالية ينفجر العصير كالطوفان. 11-16s: عصير جريب فروت برتقالي وردي شفاف لمّاع يتدفق بجموح، ينهمر على الكثبان ويغرق الصحراء بأكملها بسرعة؛ يتحول الرمل الأصفر الجاف في لحظة إلى بحر صيفي بارد متلألئ بعبق الفواكه، وتبتلع أمواج العصير الصبّار والصخور والكثبان الصغيرة، ويتحول تعبير السحلية من البهجة إلى الرعب. 16-20s: وقد كادت تغرق في "بحر الجريب فروت"، تتشبّث بذعر بنصف جريب فروت كأنه طوق نجاة وتطفو، مخرجةً رأسها المبلل تنظر بذهول. 20-24s: قطع إلى شاشة بيضاء؛ يظهر اسم العلامة والشعار في المنتصف تمامًا: "Seedance Grapefruit — اعضض تنَل اللبّ، وما ينهمر هو الصيف." ويقرأ التعليق الصوتي السطر كاملًا. 24-30s: قطع عائد من البياض؛ صارت السحلية الصحراوية القرناء الآن تسترخي على جريب فروت طافية، مرتديةً نظارة شمسية صغيرة وممسكةً كوبًا بقشّة، تنجرف على مهل في "بحر العصير" في إجازة، محاطة بلبّ برتقالي طافٍ ومكعبات ثلج صغيرة ورذاذ منعش وسماء زرقاء صافية؛ ينتقل المزاج من "النجاة" إلى "الإجازة"، وأخيرًا تتّكئ براحة على الجريب فروت بينما تتراجع الكاميرا وتتجمّد على إطار صيفي منعش ومشرق ومرح.
 ```
 
 <a id="category-8"></a>
 
-### Image Reference (Cinematic) (1)
+### مرجع صورة (سينمائي) (1)
 
-### No. 1: Drunk Man's Rooftop Fall (black-comedy short)
+### No. 1: سقوط الرجل الثمل من السطح (فيلم كوميديا سوداء قصير)
 
-- **Category:** `Image Reference (Cinematic)`
+- **Category:** `مرجع صورة (سينمائي)`
 - **Source:** `official`
 - **Author:** Volcengine Ark
 - **Language:** `ar`
@@ -626,2012 +615,12 @@ A 3D animated commercial style, bright and translucent colors; the pulp and juic
 
 #### Description
 
-A ~30s black-comedy cinematic short: a chubby, tipsy man topples off a rooftop, grabs a lifeline, crashes through a window, and simply falls asleep. Character from one reference image; built on hard cuts between roar and total silence.
+فيلم قصير سينمائي بكوميديا سوداء مدته ~30 ثانية: رجل بدين ثمل يتدحرج من سطح مبنى، يمسك بحبل نجاة، يقتحم نافذة محطّمًا إياها، ثم ينام ببساطة. الشخصية من صورة مرجعية واحدة؛ مبنيّ على قطعات حادة بين الهدير والصمت التام.
 
 #### Prompt
 
 ```text
-[Drunk Man's Rooftop Fright — falls off the edge — grabs a rope through the window — passes out on the spot | black-comedy short | about 30 seconds] One-line premise: a chubby, cute, drunk middle-aged man is eating a burger and drinking beer on the rooftop of a building; as he stands up and stretches he accidentally loses his footing and falls, in his panic grabs a lifesaving rope and immediately crashes through a window into an interior, is dazed and stunned for one second, then just lies down where he is and falls fast asleep. Reference image @image1 — a chubby, cute, drunk middle-aged man: round and stocky build with a big round beer belly, short in stature, movements loose, slow and wobbly from drinking; round face, double chin, drink-flushed cheeks and nose, eyes narrowed to slits with a bleary gaze, an untrimmed ring of short stubble, messy hair, a silly, cute, carefree expression; wearing a white tank-top undershirt stained with burger sauce hanging loosely over his round belly, old jeans, shuffling along in loose slippers, always clutching a half-eaten burger in his hand. There is only this one character in the whole film, a 100% match to the reference image. Overall look: a nighttime cyberpunk mega-city, a dense forest of glass-and-steel skyscrapers, neon signs (cyan / magenta / electric blue), holographic billboards, wet reflective ground, volumetric fog, distant flying-car light trails and drones. Real live-action texture, physical cinema lenses, no 3D rendering / game engine / anime feel. The camera mixes handheld with jib / drone; after the fall the camera plunges down with him as the building's exterior wall and the neon streak upward to convey speed, 24-35mm widescreen cinematic lens texture, 180-degree shutter motion blur. Sound design is the key to the black comedy: hard-cutting repeatedly between "a huge roar" and "total silence". Real gravity throughout. Storyboard (about 30 seconds): S1 (0-4s) opening chewing big close-up (with sound) the man's face fills the screen, chewing the burger in big bites, a satisfied drunken state; S2 (4-9s) pull to a wide shot, stretching -> losing footing and falling (with sound) he wobbles to his feet and stretches big, leans back, can't keep his balance, his foot slips and he tumbles backward over the edge of the rooftop, never letting go of the burger, with a panicked "Eh——!"; S3 (9-12s) cut to a startled facial close-up (a loud scream, huge roar) drunken eyes bulging round, double chin bunched up, mouth wide in a screaming "Ahh——!!", wind howling; S4 (12-16s) cut to a long shot at eye level (total silence) seen from the building across the way, a tiny white figure plummeting straight down from the high-rise, the neon city vast and indifferent, the total silence forming a black-comedy contrast with the huge roar a second earlier; S5 (16-21s) cut to a facial close-up (screaming) -> grabbing the rope, still screaming, hands flailing in the air, he suddenly grabs a lifesaving cable, the cable snapping taut and bending under his weight with a twang, the scream cutting off abruptly as he is jerked and swings out (a brief slow motion at the moment he grabs the rope); S6 (21-26s) cut to an interior angle (quiet) -> the glass shatters -> he crashes in, the interior first quiet with only the hum of the air conditioner, the next second the glass explosively bursts inward (a brief bullet time) as the drunk man, burger and all, smashes through the window, shards flying out radially, neon light streaming in, and he crashes heavily into the room onto the floor / sofa, broken glass clinking; S7 (26-30s) ending, a startled second -> falls asleep, the man sprawled spread-eagle on the floor, covered in broken glass, still clutching the burger, slowly opens his eyes, dazed, blank and startled for a full second, looking around as if thinking "where am I?", then the drunkenness takes over and, not caring at all, he smacks his lips, tucks the burger into his arms, rolls over, lies down right there and falls fast asleep, even snoring lightly, the camera pulls out and freezes, hard cut to black. Only on-set live sound, no music, no subtitles; the core is hard cuts repeatedly between "huge roar" and "silence".
-```
-
-<a id="category-9"></a>
-
-### Twitter Community (24)
-
-### No. 1: إعلان تجاري لشرائط فيلوسي-اكس نيورو-هايدريشن
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Gilbert Odera | Your AI Plug🇰🇪
-- **Language:** `ar`
-- **Source Link:** [View](https://x.com/yourPlugAI/status/2064591659115905203)
-
-#### Description
-
-مطالبة لإنشاء إعلان تجاري سينمائي فائق الواقعية وعالي السرعة مدته 15 ثانية لمنتج نيورو-هايدريشن.
-
-#### Prompt
-
-```text
-Create a 15-second ultra-realistic, high-speed cinematic image-to-video commercial for Veloce-X Neuro-Hydration Strips, utilizing the provided reference images as the absolute anchor for character, product design, color palette, and
-```
-
-### No. 2: رجل في المطر بقناع
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Xfeed24
-- **Language:** `ar`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064605968420261888/vid/avc1/1280x716/DknXfm6NuCMCohq9.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064605968420261888/vid/avc1/1280x716/DknXfm6NuCMCohq9.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/XfeedZ24/status/2064606040797171839)
-
-#### Description
-
-لقطة مقرّبة لرجل يرتدي قناعًا مستقبليًا يقف تحت المطر بتعبير حزين.
-
-#### Prompt
-
-```text
-close-up of a man in a futuristic mask, wet hair, rain falling, dark and moody lighting, cinematic shot
-```
-
-### No. 3: قوة القهوة
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** minchinEdits
-- **Language:** `ar`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064606538237710336/vid/avc1/720x1280/qcEBjR0LJuF4rgce.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064606538237710336/vid/avc1/720x1280/qcEBjR0LJuF4rgce.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/minchinEdits/status/2064606613865103832)
-
-#### Description
-
-امرأة تشع طاقة من القهوة، محاطة بمشاهد مكتبية نشيطة.
-
-#### Prompt
-
-```text
-a vibrant animated scene of a woman surrounded by glowing golden energy, holding a coffee cup, with multiple versions of her and coworkers in an office environment, all expressing excitement and productivity, cinematic lighting, dynamic composition, 3D animation style
-```
-
-### No. 4: معركة فانتازيا داكنة بتأثيرات عملية
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Build Fast with AI
-- **Language:** `ar`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064395868787347456/vid/avc1/854x480/Nmuqe4FnZH5lRPZd.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064395868787347456/vid/avc1/854x480/Nmuqe4FnZH5lRPZd.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/BuildFastWithAI/status/2064595921443139684)
-
-#### Description
-
-مطالبة لتوليد مشهد معركة فانتازيا داكنة مدته 15 ثانية باستخدام Seedance 2.0 بحدّة منخفضة وجمالية تأثيرات عملية.
-
-#### Prompt
-
-```text
-15-second dark fantasy battle. Seedance 2.0. Zero post. Zero upscaling. Low sharpness + practical effect aesthetic.
-```
-
-### No. 5: تصميم شخصية هريرة
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** GPTProto Official
-- **Language:** `ar`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064599776021426176/vid/avc1/1080x1920/b4Mr5JDKiFBYrzOo.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064599776021426176/vid/avc1/1080x1920/b4Mr5JDKiFBYrzOo.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/gptproto/status/2064601178902814752)
-
-#### Description
-
-هريرة برتقالية ساحرة تجلس على طاولة خشبية في غرفة معيشة مُشمسة، مع عرض أوراق تصميم شخصية مفصلة أدناه تُظهر نماذجها ثلاثية الأبعاد وتعبيراتها ولوحة ألوانها.
-
-#### Prompt
-
-```text
-a cute orange tabby kitten with big eyes sitting on a wooden table in a cozy living room, surrounded by a tissue box, a glass of water, and a toy mouse, with detailed character design sheets below showing 3D model views, expressions, poses, and color references, soft natural lighting, warm atmosphere, cinematic depth of field
-```
-
-### No. 6: امرأة في مؤتمر الذكاء الاصطناعي
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** CloudwiseAI
-- **Language:** `ar`
-- **Source Link:** [View](https://x.com/cloudwiseAI2026/status/2064591595991969879)
-
-#### Description
-
-تتحدث امرأة في ميكروفون أمام شاشة تعرض موقع مؤتمر للذكاء الاصطناعي التوليدي ذو طابع كرة قدم.
-
-#### Prompt
-
-```text
-a woman speaking into a microphone in front of a large screen displaying a GenAI conference website with a soccer stadium background, natural lighting from windows, realistic details, medium shot
-```
-
-### No. 7: دوامة فوق المدينة
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Pixmax
-- **Language:** `ar`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064593085431185408/vid/avc1/1080x720/dawSBFfVAweSgYmE.mp4?tag=14)
-
-<video src="https://video.twimg.com/amplify_video/2064593085431185408/vid/avc1/1080x720/dawSBFfVAweSgYmE.mp4?tag=14" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/Pixmax_ai/status/2064593399882432615)
-
-#### Description
-
-رجل يحدق نحو دوامة زرقاء متوهجة تحوم فوق مدينة مستقبلية ليلاً.
-
-#### Prompt
-
-```text
-a man in a black jacket stands in a futuristic city at night, looking up at a massive glowing blue vortex in the sky, surrounded by towering skyscrapers with neon lights, cinematic lighting, wide-angle shot, dramatic perspective
-```
-
-### No. 8: عرض ناروتو الحي المذهل
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** AIAI.COM
-- **Language:** `ar`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064592744111325184/vid/avc1/1920x1080/QMHtQZk7WlNnDcml.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064592744111325184/vid/avc1/1920x1080/QMHtQZk7WlNnDcml.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/Aiaicom09/status/2064592826290336125)
-
-#### Description
-
-أداء مسرحي حي يظهر ناروتو وساسوكي بأزيائهما الأيقونية، مع جمهور يلتقط اللحظة بهواتفهم.
-
-#### Prompt
-
-```text
-live stage performance of Naruto characters, Naruto Uzumaki and Sasuke Uchiha in full costume, standing on a stage with a crowd watching, bright daylight, realistic lighting, detailed costumes, dynamic pose, audience holding phones to record, Japanese text banner above stage reading 'LIVE SPECTACULAR NARUTO', wide shot, static camera
-```
-
-### No. 9: استكشاف منصة جلوبال جي بي تي للذكاء الاصطناعي
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Choya
-- **Language:** `ar`
-- **Video:** [View](https://static.atlascloud.ai/prompt/seedance-2/x_2064988432590356506.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2064988432590356506.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/choyamymuna/status/2064988432590356506)
-
-#### Description
-
-يسجل هذا الفيديو شاشة مفصلة تعرض نماذج وأدوات الذكاء الاصطناعي المتنوعة لمنصة جلوبال جي بي تي لتوليد الصور والفيديو والصوت.
-
-#### Prompt
-
-```text
-A static screen recording of a desktop computer displaying the GlobalGPT website in a web browser. The cursor moves across the screen, clicking on navigation links and scrolling through lists of AI video, image, and audio generation models and tools. The background behind the browser window features an abstract, vibrant gradient of blue, purple, pink, and orange waves. The focus is entirely on the browser's UI and its interactive elements.
-```
-
-### No. 10: فيديو كرة قدم سينمائي بلاعبين فائقين الواقعية
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** auqib
-- **Language:** `ar`
-- **Video:** [View](https://static.atlascloud.ai/prompt/seedance-2/x_2064989700738412551.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2064989700738412551.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/auqibhabib/status/2064989700738412551)
-
-#### Description
-
-فيديو سينمائي بتقنية الوسائط المختلطة يضم لاعبين بشريين لكرة القدم فائقي الواقعية مُدمجين في بيئة ملعب واقعية.
-
-#### Prompt
-
-```text
-Mixed-media cinematic football video featuring ultra-realistic human football players inspired by Image1 and Image2, seamlessly integrated into the ultra-realistic football stadium environment from Image3. Same team, same
-```
-
-### No. 11: مصارعة ثيران سينمائية في الساعة الذهبية
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** WasifAI
-- **Language:** `ar`
-- **Video:** [View](https://video.twimg.com/ext_tw_video/2064595743864737792/pu/vid/avc1/1920x1080/_o4DsXvAFcjPpDIc.mp4)
-
-<video src="https://video.twimg.com/ext_tw_video/2064595743864737792/pu/vid/avc1/1920x1080/_o4DsXvAFcjPpDIc.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/doctorwasif/status/2064595805906817115)
-
-#### Description
-
-مطالبة فيديو واقعية فوتوغرافية لمشهد سينمائي مستمر مدته 15 ثانية في حلبة مصارعة ثيران خلال الساعة الذهبية.
-
-#### Prompt
-
-```text
-15s continuous cinematic Hollywood 60fps, photoreal Plaza de Toros at golden hour, packed crowd, dust in warm amber light. Consistent matador (@ Image1) in emerald-gold
-```
-
-### No. 12: رسوم متحركة ساحرة بأسلوب حكاية خرافية وألوان مائية
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** OscarAI
-- **Language:** `ar`
-- **Source Link:** [View](https://x.com/Artedeingenio/status/2064985164116119665)
-
-#### Description
-
-فيديو مستمر مدته 15 ثانية بلقطة واحدة بدون مقاطع أو انتقالات، بأسلوب رسوم متحركة خرافية مرسومة يدوياً بأسلوب الألوان المائية والحبر.
-
-#### Prompt
-
-```text
-15-second continuous single-shot. No cuts. No scene transitions. Style: enchanting fairy tale animation, hand-painted watercolor and ink illustration brought to life, whimsical
-```
-
-### No. 13: عنكبوت آلي خيال علمي على مضمار الجري
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Avelyrah
-- **Language:** `ar`
-- **Video:** [View](https://video.twimg.com/ext_tw_video/2064608014934695936/pu/vid/avc1/1280x720/2Cwwi5g_SYa4kIy8.mp4)
-
-<video src="https://video.twimg.com/ext_tw_video/2064608014934695936/pu/vid/avc1/1280x720/2Cwwi5g_SYa4kIy8.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/AvelyrahnAI/status/2064608055908868501)
-
-#### Description
-
-مقطع فيديو خيال علمي سريع الإيقاع يظهر امرأة شقراء ترتدي ملابس رياضية بينما يتمدد عنكبوت آلي على معصمها بينما يفر الطلاب.
-
-#### Prompt
-
-```text
-A fast-paced sci-fi video sequence on a high school running track under a dark, overcast sky. A blonde woman in a navy and white tracksuit walks confidently forward as students flee. A robotic spider on her wrist rapidly expands
-```
-
-### No. 14: جندي يُشرف على الأسطول
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Global Frontline News
-- **Language:** `ar`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064598715831398400/vid/avc1/1280x720/8wGHKWvZrRIK6fxS.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064598715831398400/vid/avc1/1280x720/8wGHKWvZrRIK6fxS.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/OmeyLad23/status/2064611393580757271)
-
-#### Description
-
-يقف جندي في مؤخرة طائرة عسكرية، يتطلع إلى أسطول ضخم من السفن في المحيط أدناه.
-
-#### Prompt
-
-```text
-a soldier in tactical gear stands at the open rear of a military transport aircraft, looking out over a fleet of naval ships on the ocean, cinematic lighting, wide shot from behind, high detail, realistic
-```
-
-### No. 15: الطيران في كويدتش هوجوارتس
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Cyber AI Creator 🎨
-- **Language:** `ar`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064598185205731328/vid/avc1/720x806/RJuHUIc2jLdBY5Wy.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064598185205731328/vid/avc1/720x806/RJuHUIc2jLdBY5Wy.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/noman23761/status/2064598264528470051)
-
-#### Description
-
-منظور من الشخص الأول للطيران على مكنسة فوق ملعب الكويدتش في هوجوارتس، ينتقل إلى منظر جوي بانورامي للقلعة عند غروب الشمس.
-
-#### Prompt
-
-```text
-first-person view of flying on a broomstick over the Quidditch field at Hogwarts, with golden hoops and castle in background, transitioning to an aerial wide shot of Hogwarts Castle at sunset with red trail showing flight path
-```
-
-### No. 16: فن تصوري لمحاربة متجمدة
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Cyber AI Creator 🎨
-- **Language:** `ar`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064597000713281536/vid/avc1/1140x1080/2ItRonsYxDE0Pyne.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064597000713281536/vid/avc1/1140x1080/2ItRonsYxDE0Pyne.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/noman23761/status/2064597123795173495)
-
-#### Description
-
-رسمة فن تصوري تُظهر محاربة وغول جليدي في بيئة ثلجية مع تصميمات شخصيات مفصلة.
-
-#### Prompt
-
-```text
-concept art of a female warrior and an ice golem in a snowy landscape, detailed character designs with armor and weapons, anime style, wide shot, static camera
-```
-
-### No. 17: نزهة في شارع قديم
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** EdenWood
-- **Language:** `ar`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064592895923965952/vid/avc1/1280x720/8JlrIYiYHhKJtJ-_.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064592895923965952/vid/avc1/1280x720/8JlrIYiYHhKJtJ-_.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/EdenWood62747/status/2064592964366585994)
-
-#### Description
-
-رجل يمشي في شارع قديم مزدحم مع ترام في الخلفية، مُلتقطة بالأبيض والأسود بتفاصيل سينمائية.
-
-#### Prompt
-
-```text
-black and white vintage street scene, a man in a white shirt walking toward the camera, old tram in the background, people walking on the street, colonial architecture, sepia tone, cinematic lighting, slow motion
-```
-
-### No. 18: عرض تقديمي عن التصيير ثلاثي الأبعاد
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** CloudwiseAI
-- **Language:** `ar`
-- **Source Link:** [View](https://x.com/cloudwiseAI2026/status/2064591627214356928)
-
-#### Description
-
-يُشير مقدّم العرض إلى شاشة تعرض كرات مُصممة بتقنية ثلاثية الأبعاد خلال ورشة عمل.
-
-#### Prompt
-
-```text
-a man giving a presentation in front of an audience, pointing at a large screen displaying a 3D rendering of two reflective spheres on a wooden table, with natural light coming through windows in the background
-```
-
-### No. 19: نظرة عامة على موقع جلوبال جي بي تي
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Rasel Hosen
-- **Language:** `ar`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064592725241184256/vid/avc1/1280x720/NI71SYLYLAoa66wB.mp4?tag=14)
-
-<video src="https://video.twimg.com/amplify_video/2064592725241184256/vid/avc1/1280x720/NI71SYLYLAoa66wB.mp4?tag=14" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/details_with_ai/status/2064592792354275730)
-
-#### Description
-
-لقطة شاشة للصفحة الرئيسية لموقع جلوبال جي بي تي مع ألوان خلفية نابضة بالحياة وخيارات أدوات الذكاء الاصطناعي
-
-#### Prompt
-
-```text
-a screen recording of the GlobalGPT website homepage with a colorful abstract background, showing the navigation menu, AI model selection interface, and promotional banners, with a subtle zoom-in effect on the central content area
-```
-
-### No. 20: مغامرة على الطريق المُشمس
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** 💫Wigglenator💫
-- **Language:** `ar`
-- **Source Link:** [View](https://x.com/Wigglenatorr/status/2064608020701532188)
-
-#### Description
-
-فتاة أنمي صغيرة بقرون تقف على طريق مرصوف بالحصى مغمورة بأشعة الشمس الذهبية.
-
-#### Prompt
-
-```text
-anime girl with white hair and horns, wearing a red cloak, standing on a stone path in a sunlit garden, golden hour lighting, soft focus background, detailed character design, warm tones
-```
-
-### No. 21: جندي يُشرف على الأسطول
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Global Frontline News
-- **Language:** `ar`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064598715831398400/vid/avc1/1280x720/8wGHKWvZrRIK6fxS.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064598715831398400/vid/avc1/1280x720/8wGHKWvZrRIK6fxS.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/OmeyLad23/status/2064606091951190378)
-
-#### Description
-
-يقف جندي في مؤخرة طائرة عسكرية، يتطلع إلى أسطول بحري ضخم في البحر المفتوح.
-
-#### Prompt
-
-```text
-a soldier in tactical gear stands at the open rear ramp of a military transport aircraft, looking out over a vast fleet of warships on the ocean, cinematic lighting, high detail, wide shot
-```
-
-### No. 22: غرفة معيشة بنك روك
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Cyber AI Creator 🎨
-- **Language:** `ar`
-- **Video:** [View](https://video.twimg.com/amplify_video/2064595369720442880/vid/avc1/1080x1216/n-dxp79lHtiON4Wj.mp4)
-
-<video src="https://video.twimg.com/amplify_video/2064595369720442880/vid/avc1/1080x1216/n-dxp79lHtiON4Wj.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/noman23761/status/2064595569763639713)
-
-#### Description
-
-لقطة عفوية لخمس نساء بأنماط أزياء بديلة يسترخين في شقة بوهيمية بينما تمشي قطة بيضاء باتجاههن.
-
-#### Prompt
-
-```text
-a group of five young women with punk rock style sitting on a couch in a cozy, cluttered living room filled with plants and music posters, a white cat walking away from the camera towards the group, warm ambient lighting, realistic photo style
-```
-
-### No. 23: غطاس يصفق كفاً في البحر
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** Ranveer Singh Sisodia
-- **Language:** `ar`
-- **Video:** [View](https://static.atlascloud.ai/prompt/seedance-2/x_2064988239623225619.mp4)
-
-<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2064988239623225619.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/sphereofai/status/2064988239623225619)
-
-#### Description
-
-يصفق غطاس على قارب كفه بغطاس آخر في عرض المحيط تحت سماء صافية.
-
-#### Prompt
-
-```text
-first person view of a diver on a boat, high five with another diver, clear blue ocean, sunny day, wide angle lens
-```
-
-### No. 24: عرض توضيحي للذكاء الاصطناعي
-
-- **Category:** `Twitter Community`
-- **Source:** `x`
-- **Author:** CloudwiseAI
-- **Language:** `ar`
-- **Source Link:** [View](https://x.com/cloudwiseAI2026/status/2064591614627189158)
-
-#### Description
-
-يتحدث مقدّم العرض إلى جمهور بينما يعرض رسومًا رقمية متحركة لكُرات عاكسة على شاشة.
-
-#### Prompt
-
-```text
-a man giving a presentation in front of an audience, holding a microphone, with a large screen displaying two reflective spheres on a dark surface, natural light from windows, indoor setting with plants and audio equipment
-```
-
-<a id="category-10"></a>
-
-### الصوت والحوار والتعليق (10)
-
-### No. 1: مناظرة كوميدية بين قط وكلب
-
-- **Category:** `الصوت والحوار والتعليق`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ar`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/1793c9e5-608e-435e-a72b-0e657bbb2d5c.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/1793c9e5-608e-435e-a72b-0e657bbb2d5c.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ar/seedance-2-prompt/35)
-
-#### Description
-
-حوار ساخر بين شخصيات حيوانية بإيقاع عرض كوميدي.
-
-#### Prompt
-
-```text
-أنشئ مشهداً: حوار ساخر بين شخصيات حيوانية بإيقاع عرض كوميدي.
-```
-
-### No. 2: وثائقي مبنى مكاتب
-
-- **Category:** `الصوت والحوار والتعليق`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ar`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/843a60ae-3df3-4c37-9fd4-2437f3ac2253.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/843a60ae-3df3-4c37-9fd4-2437f3ac2253.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ar/seedance-2-prompt/34)
-
-#### Description
-
-وثائقي عقاري قصير بنبرة سينمائية وتعليق احترافي.
-
-#### Prompt
-
-```text
-أنشئ مشهداً: وثائقي عقاري قصير بنبرة سينمائية وتعليق احترافي.
-```
-
-### No. 3: كوميديا حصان بعدسة عين السمكة
-
-- **Category:** `الصوت والحوار والتعليق`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ar`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/26d450cd-23c4-499e-9fd6-1752dabbc8bd.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/26d450cd-23c4-499e-9fd6-1752dabbc8bd.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ar/seedance-2-prompt/33)
-
-#### Description
-
-كوميديا حيوانية بحوار متزامن عبر منظور عين السمكة.
-
-#### Prompt
-
-```text
-أنشئ مشهداً: كوميديا حيوانية بحوار متزامن عبر منظور عين السمكة.
-```
-
-### No. 4: احتفال عائلي متعدد الثقافات
-
-- **Category:** `الصوت والحوار والتعليق`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ar`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/ac11aa46-e846-4167-af87-53f0be98df9e.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/ac11aa46-e846-4167-af87-53f0be98df9e.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ar/seedance-2-prompt/38)
-
-#### Description
-
-مشهد عائلي حميم متعدد الثقافات مع موسيقى احتفالية.
-
-#### Prompt
-
-```text
-أنشئ مشهداً: مشهد عائلي حميم متعدد الثقافات مع موسيقى احتفالية.
-```
-
-### No. 5: حوار صباحي للاستيقاظ
-
-- **Category:** `الصوت والحوار والتعليق`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ar`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/7744c998-76b7-436f-9066-6d4ef5f0ce7f.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/7744c998-76b7-436f-9066-6d4ef5f0ce7f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ar/seedance-2-prompt/40)
-
-#### Description
-
-مشهد صباحي حميم يعتمد أداءً صوتياً طبيعياً دقيقاً.
-
-#### Prompt
-
-```text
-أنشئ مشهداً: مشهد صباحي حميم يعتمد أداءً صوتياً طبيعياً دقيقاً.
-```
-
-### No. 6: إحاطة تكتيكية بالإسبانية
-
-- **Category:** `الصوت والحوار والتعليق`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ar`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/cda3c348-80c8-445b-8d85-d1eefe36e0b2.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/cda3c348-80c8-445b-8d85-d1eefe36e0b2.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ar/seedance-2-prompt/39)
-
-#### Description
-
-مشهد تكتيكي عسكري بتواصل إسباني وأصوات تجهيزات.
-
-#### Prompt
-
-```text
-أنشئ مشهداً: مشهد تكتيكي عسكري بتواصل إسباني وأصوات تجهيزات.
-```
-
-### No. 7: أداء أوبرا صينية تقليدية
-
-- **Category:** `الصوت والحوار والتعليق`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ar`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/6f6ea681-2e7b-4e35-9126-a72d2046bc1f.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/6f6ea681-2e7b-4e35-9126-a72d2046bc1f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ar/seedance-2-prompt/36)
-
-#### Description
-
-مشهد أوبرا صينية تقليدي بصوت وإيماء مسرحي أصيل.
-
-#### Prompt
-
-```text
-أنشئ مشهداً: مشهد أوبرا صينية تقليدي بصوت وإيماء مسرحي أصيل.
-```
-
-### No. 8: Bubble tea بلهجة سيتشوان
-
-- **Category:** `الصوت والحوار والتعليق`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ar`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/4f4d9b27-1962-494e-b1fa-5191ede1b500.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/4f4d9b27-1962-494e-b1fa-5191ede1b500.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ar/seedance-2-prompt/41)
-
-#### Description
-
-مشهد كوميدي بلهجة محلية وتفاعل شخصيات طريف.
-
-#### Prompt
-
-```text
-أنشئ مشهداً: مشهد كوميدي بلهجة محلية وتفاعل شخصيات طريف.
-```
-
-### No. 9: سرد "رحلة إلى الغرب"
-
-- **Category:** `الصوت والحوار والتعليق`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ar`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/14269628-c801-4b26-b400-38b2c7d2d97a.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/14269628-c801-4b26-b400-38b2c7d2d97a.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ar/seedance-2-prompt/42)
-
-#### Description
-
-سرد تعليمي وثائقي لواحد من أهم نصوص الأدب الصيني.
-
-#### Prompt
-
-```text
-أنشئ مشهداً: سرد تعليمي وثائقي لواحد من أهم نصوص الأدب الصيني.
-```
-
-### No. 10: فيديو طريق سينمائي
-
-- **Category:** `الصوت والحوار والتعليق`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ar`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/f9f34a78-6001-4013-8e9a-a413ca727f00.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/f9f34a78-6001-4013-8e9a-a413ca727f00.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ar/seedance-2-prompt/37)
-
-#### Description
-
-فيديو موسيقي بمنهج تصوير محدد وإحساس صوتي جوي.
-
-#### Prompt
-
-```text
-أنشئ مشهداً: فيديو موسيقي بمنهج تصوير محدد وإحساس صوتي جوي.
-```
-
-<a id="category-11"></a>
-
-### حركات كاميرا متقدمة (13)
-
-### No. 1: IMAX-Style Desert Sandstorm Scene with Denis Villeneuve Aesthetic
-
-- **Category:** `حركات كاميرا متقدمة`
-- **Source:** `twitter`
-- **Author:** John (@johnAGI168)
-- **Language:** `ar`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/c3e4c06f-da7d-4127-ad68-7ed1656e2472.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/c3e4c06f-da7d-4127-ad68-7ed1656e2472.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/johnAGI168/status/2020989515939148146)
-
-#### Description
-
-IMAX-style desert sandstorm scene with Denis Villeneuve aesthetic. Features timestamped multi-shot structure.
-
-#### Prompt
-
-```text
-Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low saturation. Multi-shot structure. Extreme wide shot: a colossal sand wall consumes the horizon while an armored convoy races across open desert. Emphasize terrifying scale and human fragility. Cockpit POV: violent vibration inside the lead vehicle, sand blasting the windshield, red warning lights pulsing, urgent shouted commands. Climax in slow motion: lead rover launches off a dune, silhouetted against a dark storm front; lightning flickers inside the dust cloud; debris streaks past lens; hard cut to black on impact. Keep transitions clean and escalation continuous.
-```
-
-### No. 2: South Indian Cinema Alien Scene Generated from Single Prompt
-
-- **Category:** `حركات كاميرا متقدمة`
-- **Source:** `twitter`
-- **Author:** rohan anil (@_arohan_)
-- **Language:** `ar`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/068af607-5e54-4331-9c25-3afc190d1a53.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/068af607-5e54-4331-9c25-3afc190d1a53.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/_arohan_/status/2021369768004161783)
-
-#### Description
-
-South Indian cinema alien scene generated from a single prompt. Demonstrates cross-cultural filmmaking capabilities.
-
-#### Prompt
-
-```text
-Create a South Indian commercial-cinema style alien invasion action scene. Visuals should feature saturated colors, dramatic backlight, stylized slow motion, and heroic framing. Open with a large-scale city plaza reveal as alien craft descend, then cut to low-angle hero entrance with wind-swept costume details. Move into multi-angle confrontation: wides for scale, mediums for combo choreography, close-ups for emotional intensity and impact peaks. Blend dust, sparks, smoke, and lens flares for high-energy theatrical presentation while keeping motion readable.
-```
-
-### No. 3: Aerial Shot of Burning Military Vehicle in Urban Warfare
-
-- **Category:** `حركات كاميرا متقدمة`
-- **Source:** `twitter`
-- **Author:** Carlos Santana (@DotCSV)
-- **Language:** `ar`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/81bd1286-8024-4a62-a77a-0873d8137ae6.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/81bd1286-8024-4a62-a77a-0873d8137ae6.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/DotCSV/status/2020519499082969142)
-
-#### Description
-
-Cinematic drone footage capturing the aftermath of urban battle. Showcases Seedance 2.0's ability to generate realistic war scenes with detailed destruction effects and atmospheric rendering.
-
-#### Prompt
-
-```text
-A cinematic drone sequence over a war-torn city intersection. At the center, a destroyed armored vehicle burns continuously, emitting thick black smoke that climbs into an overcast sky. Streets are littered with rubble, twisted metal, and shattered concrete; nearby buildings show blown-out windows, scorched facades, and structural damage. Start with a high establishing aerial shot, then descend slowly into a medium-high orbit while preserving spatial scale and destruction detail. Keep color grading desaturated with documentary realism, add subtle film grain, and ensure physically believable fire, smoke turbulence, heat distortion, and airborne dust.
-```
-
-### No. 4: معركة فانتازيا ملحمية
-
-- **Category:** `حركات كاميرا متقدمة`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ar`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/a15ec27b-9b38-407d-aa7a-460c9ed17e7f.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/a15ec27b-9b38-407d-aa7a-460c9ed17e7f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ar/seedance-2-prompt/16)
-
-#### Description
-
-معركة سينمائية بخيال ملحمي وكاميرا مدارية وتأثيرات جسيمات.
-
-#### Prompt
-
-```text
-أنشئ مشهداً: معركة سينمائية بخيال ملحمي وكاميرا مدارية وتأثيرات جسيمات.
-```
-
-### No. 5: تصوير سينمائي لإعلان سيارة
-
-- **Category:** `حركات كاميرا متقدمة`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ar`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d1fe2d82-6f01-4e04-a732-a949028a09d3.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d1fe2d82-6f01-4e04-a732-a949028a09d3.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ar/seedance-2-prompt/17)
-
-#### Description
-
-أسلوب تصوير احترافي لإعلانات السيارات مع انتقالات مرنة.
-
-#### Prompt
-
-```text
-أنشئ مشهداً: أسلوب تصوير احترافي لإعلانات السيارات مع انتقالات مرنة.
-```
-
-### No. 6: عرض جهاز لوحي بدوران
-
-- **Category:** `حركات كاميرا متقدمة`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ar`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/2f9e5701-3cbe-4855-84a8-3ba0cd72b329.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/2f9e5701-3cbe-4855-84a8-3ba0cd72b329.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ar/seedance-2-prompt/13)
-
-#### Description
-
-عرض منتج بكاميرا تدور وتحوّل بصري للخلفية.
-
-#### Prompt
-
-```text
-أنشئ مشهداً: عرض منتج بكاميرا تدور وتحوّل بصري للخلفية.
-```
-
-### No. 7: مطاردة معقدة في الممر
-
-- **Category:** `حركات كاميرا متقدمة`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ar`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c1288035-fc08-4465-bee0-a1857f94c7c1.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/c1288035-fc08-4465-bee0-a1857f94c7c1.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ar/seedance-2-prompt/12)
-
-#### Description
-
-تتبع متعدد الزوايا مع انتقالات منظور سريعة وديناميكية.
-
-#### Prompt
-
-```text
-أنشئ مشهداً: تتبع متعدد الزوايا مع انتقالات منظور سريعة وديناميكية.
-```
-
-### No. 8: مشهد قتال فنون قتالية
-
-- **Category:** `حركات كاميرا متقدمة`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ar`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/e62ddd7b-da6a-4b26-be8a-aba6e74dd854.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/e62ddd7b-da6a-4b26-be8a-aba6e74dd854.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ar/seedance-2-prompt/15)
-
-#### Description
-
-كوريغرافيا قتال متعددة الشخصيات والأسلحة ضمن بيئة نشطة.
-
-#### Prompt
-
-```text
-أنشئ مشهداً: كوريغرافيا قتال متعددة الشخصيات والأسلحة ضمن بيئة نشطة.
-```
-
-### No. 9: زوم هيتشكوك داخل المصعد
-
-- **Category:** `حركات كاميرا متقدمة`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ar`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/4be02035-a101-4c2c-bb20-c2fe59771de9.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/4be02035-a101-4c2c-bb20-c2fe59771de9.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ar/seedance-2-prompt/11)
-
-#### Description
-
-مزج تأثير هيتشكوك مع حركة كاميرا مركبة داخل مساحة ضيقة.
-
-#### Prompt
-
-```text
-أنشئ مشهداً: مزج تأثير هيتشكوك مع حركة كاميرا مركبة داخل مساحة ضيقة.
-```
-
-### No. 10: دفع-سحب إيقاعي للرقص
-
-- **Category:** `حركات كاميرا متقدمة`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ar`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/33ffc8e5-255c-46b2-8877-ad8a9100f6d4.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/33ffc8e5-255c-46b2-8877-ad8a9100f6d4.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ar/seedance-2-prompt/14)
-
-#### Description
-
-حركة كاميرا متزامنة مع إيقاع الرقص لإبراز الأداء.
-
-#### Prompt
-
-```text
-أنشئ مشهداً: حركة كاميرا متزامنة مع إيقاع الرقص لإبراز الأداء.
-```
-
-### No. 11: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure
-
-- **Category:** `حركات كاميرا متقدمة`
-- **Source:** `twitter`
-- **Author:** Min Choi (@minchoi)
-- **Language:** `ar`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/52680ae8-705d-4b26-9d49-1b573ab4f56f.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/52680ae8-705d-4b26-9d49-1b573ab4f56f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/minchoi/status/2020878278475518152)
-
-#### Description
-
-Generate a 1-minute cinematic war video in 5 minutes with a multi-shot structure. Realistic Middle Eastern desert village infantry combat scene.
-
-#### Prompt
-
-```text
-Consistent style guideline for all shots: realistic cinematic war footage in a modern Middle Eastern desert village; dominant sandy yellow and gray-brown palette; harsh noon sunlight with hard shadows; drifting dust and gunpowder smoke; subtle handheld vibration; low-angle and ground-level framing to maximize tension and realism; modern light infantry gear without visible national identifiers; restrained, tense, and brutal atmosphere. Shot 1 : A modern infantry squad advances through narrow alleys between low adobe houses and damaged concrete walls. The camera tracks from behind at knee level, pushing forward as soldiers hug the walls and aim toward an unseen corner. Wind, distant metal clinks, and suspended dust establish dread. Shot 2 : A sudden close-quarters firefight erupts at the alley corner. Soldiers drop and press against the wall as rounds impact masonry, kicking up debris. Fast lateral camera pan with controlled shake, intermittent muzzle flashes, and silhouettes in broken windows increase claustrophobia and urgency. Shot 3 : The squad regains formation and enters a half-collapsed building. Over-shoulder follow shot into dim interior where shafts of sunlight cut through breached walls. Dust particles float in the beams; hand signals replace speech; distant gunfire echoes. Tone shifts from chaos to hyper-alert silence. Shot 4 : From a damaged rooftop, the squad secures a high vantage point over the village grid. Slow pullback in backlight, soldiers in silhouette with rifles still trained on unknown threats. Dust swirls in warm light; no clear victory or defeat. End on unresolved tension.
-```
-
-### No. 12: Ground Combat Shot of Soldiers Traversing Desert Terrain
-
-- **Category:** `حركات كاميرا متقدمة`
-- **Source:** `twitter`
-- **Author:** Chetaslua (@chetaslua)
-- **Language:** `ar`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/0d332613-93bc-4d5e-b4f8-6cacc05871ef.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/0d332613-93bc-4d5e-b4f8-6cacc05871ef.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/chetaslua)
-
-#### Description
-
-Tense first-person perspective of military squad advancing. Showcases realistic tactical movement and environmental details.
-
-#### Prompt
-
-```text
-Ground-level war footage with documentary realism: a soldier squad advances through a desert combat zone. Keep camera low and close to boots, gear sway, weapon details, and formation changes while moving over loose sand and debris. Harsh sunlight, visible heat haze, suspended dust, and distant intermittent gunfire should shape the atmosphere. Use controlled handheld movement with shallow depth of field, foreground clarity, and slight background softening. Color palette stays sandy beige and muted brown, emphasizing tactical discipline and persistent tension.
-```
-
-### No. 13: Multi-Shot Fight Scene Generated with Only 3 Reference Images and Simple Prompt
-
-- **Category:** `حركات كاميرا متقدمة`
-- **Source:** `twitter`
-- **Author:** el.cine (@EHuanglu)
-- **Language:** `ar`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e287a176-2ba0-4f64-ad86-ed779cd3d8d3.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e287a176-2ba0-4f64-ad86-ed779cd3d8d3.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/EHuanglu/status/2020828503810445785)
-
-#### Description
-
-Intense martial arts fight between two women in modern urban environment.
-
-#### Prompt
-
-```text
-A grounded martial arts duel between two women in a modern urban night setting. Build with clear shot variation: wide shot to establish spacing and intent, medium tracking shots for exchange tempo, close-up inserts for impact, breathing, and footwork. Include low-angle circling moves, over-shoulder counters, and quick lateral camera motions to preserve directional clarity. Movements must follow realistic weight transfer, momentum, and recovery. Use practical street lighting, neon reflections, slight wet pavement sheen, and gritty cinematic texture.
-```
-
-<a id="category-12"></a>
-
-### تحرير الفيديو وإعادة المزج (5)
-
-### No. 1: من اجتماع جاد إلى صفقة سناك
-
-- **Category:** `تحرير الفيديو وإعادة المزج`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ar`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/f11c41ac-ee4b-4f37-b569-d6a4725866b3.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/f11c41ac-ee4b-4f37-b569-d6a4725866b3.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ar/seedance-2-prompt/49)
-
-#### Description
-
-تحويل توتر اجتماعي جاد إلى كوميديا إعلان سناك.
-
-#### Prompt
-
-```text
-أنشئ مشهداً: تحويل توتر اجتماعي جاد إلى كوميديا إعلان سناك.
-```
-
-### No. 2: دمج علامة تجارية في مشهد مطعم
-
-- **Category:** `تحرير الفيديو وإعادة المزج`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ar`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/af84d3d1-5659-49bd-a7a8-c2db96918415.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/af84d3d1-5659-49bd-a7a8-c2db96918415.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ar/seedance-2-prompt/52)
-
-#### Description
-
-إقحام علامة تجارية بسلاسة داخل مشهد مطعم قائم.
-
-#### Prompt
-
-```text
-أنشئ مشهداً: إقحام علامة تجارية بسلاسة داخل مشهد مطعم قائم.
-```
-
-### No. 3: انعطاف مظلم بأسلوب تيتانيك
-
-- **Category:** `تحرير الفيديو وإعادة المزج`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ar`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/19cb9c31-9a1e-4c2e-ae17-b03f6a88c20b.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/19cb9c31-9a1e-4c2e-ae17-b03f6a88c20b.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ar/seedance-2-prompt/48)
-
-#### Description
-
-قلب مشهد رومانسي إلى تحوّل خياني مظلم.
-
-#### Prompt
-
-```text
-أنشئ مشهداً: قلب مشهد رومانسي إلى تحوّل خياني مظلم.
-```
-
-### No. 4: تبديل جنس المغني الرئيسي
-
-- **Category:** `تحرير الفيديو وإعادة المزج`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ar`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d3c9e15c-37fa-4603-b5a7-7577a9652d2d.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d3c9e15c-37fa-4603-b5a7-7577a9652d2d.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ar/seedance-2-prompt/50)
-
-#### Description
-
-استبدال المغني الرئيسي مع الحفاظ على الإيقاع والحركة.
-
-#### Prompt
-
-```text
-أنشئ مشهداً: استبدال المغني الرئيسي مع الحفاظ على الإيقاع والحركة.
-```
-
-### No. 5: ظهور مفاجئ لقرش
-
-- **Category:** `تحرير الفيديو وإعادة المزج`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ar`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/06a8c86e-1b58-4088-8caa-25202eec77aa.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/06a8c86e-1b58-4088-8caa-25202eec77aa.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ar/seedance-2-prompt/51)
-
-#### Description
-
-إضافة عنصر تهديد مفاجئ إلى مشهد هادئ.
-
-#### Prompt
-
-```text
-أنشئ مشهداً: إضافة عنصر تهديد مفاجئ إلى مشهد هادئ.
-```
-
-<a id="category-13"></a>
-
-### اتساق الشخصيات والمشاهد (6)
-
-### No. 1: تحويل إلى عرض أوبرا
-
-- **Category:** `اتساق الشخصيات والمشاهد`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ar`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/fffd7fd2-9752-4226-bd04-84101f206938.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/fffd7fd2-9752-4226-bd04-84101f206938.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ar/seedance-2-prompt/6)
-
-#### Description
-
-استبدال الشخصية مع الحفاظ على حركة الكاميرا وانتقالات الفيديو المرجعي.
-
-#### Prompt
-
-```text
-أنشئ مشهداً: استبدال الشخصية مع الحفاظ على حركة الكاميرا وانتقالات الفيديو المرجعي.
-```
-
-### No. 2: استكشاف رعب من منظور أول
-
-- **Category:** `اتساق الشخصيات والمشاهد`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ar`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c4802cca-4ef9-4ba9-b8cc-ed5bdecb88e6.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/c4802cca-4ef9-4ba9-b8cc-ed5bdecb88e6.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ar/seedance-2-prompt/10)
-
-#### Description
-
-استكشاف من منظور أول يحافظ على اتساق البيئة بين عدة مشاهد.
-
-#### Prompt
-
-```text
-أنشئ مشهداً: استكشاف من منظور أول يحافظ على اتساق البيئة بين عدة مشاهد.
-```
-
-### No. 3: انتقال سلس بلقطة واحدة
-
-- **Category:** `اتساق الشخصيات والمشاهد`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ar`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/27a03978-e3c0-4750-9b0d-c1a802db8af6.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/27a03978-e3c0-4750-9b0d-c1a802db8af6.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ar/seedance-2-prompt/7)
-
-#### Description
-
-لقطة واحدة مع انتقالات متعددة تحافظ على الاستمرارية البصرية.
-
-#### Prompt
-
-```text
-أنشئ مشهداً: لقطة واحدة مع انتقالات متعددة تحافظ على الاستمرارية البصرية.
-```
-
-### No. 4: إعلان حقيبة فاخرة
-
-- **Category:** `اتساق الشخصيات والمشاهد`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ar`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d62bd403-fcd1-4abd-8f23-c57063660ed0.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d62bd403-fcd1-4abd-8f23-c57063660ed0.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ar/seedance-2-prompt/9)
-
-#### Description
-
-عرض منتج يحافظ على التفاصيل الدقيقة عبر صور مرجعية متعددة.
-
-#### Prompt
-
-```text
-أنشئ مشهداً: عرض منتج يحافظ على التفاصيل الدقيقة عبر صور مرجعية متعددة.
-```
-
-### No. 5: عودة إلى المنزل بعد العمل
-
-- **Category:** `اتساق الشخصيات والمشاهد`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ar`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d66a205c-4470-4d71-9122-2d0bf0694c9c.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d66a205c-4470-4d71-9122-2d0bf0694c9c.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ar/seedance-2-prompt/5)
-
-#### Description
-
-سرد متصل يحافظ على هوية الشخصية من المكتب إلى المنزل مع انتقال عاطفي دافئ.
-
-#### Prompt
-
-```text
-أنشئ مشهداً: سرد متصل يحافظ على هوية الشخصية من المكتب إلى المنزل مع انتقال عاطفي دافئ.
-```
-
-### No. 6: عرض منتج شريط مغناطيسي
-
-- **Category:** `اتساق الشخصيات والمشاهد`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ar`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/74458d90-1c7a-487c-acc2-454558810520.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/74458d90-1c7a-487c-acc2-454558810520.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ar/seedance-2-prompt/8)
-
-#### Description
-
-إعلان منتج متعدد المشاهد يبرز ثبات الهوية البصرية للعلامة.
-
-#### Prompt
-
-```text
-أنشئ مشهداً: إعلان منتج متعدد المشاهد يبرز ثبات الهوية البصرية للعلامة.
-```
-
-<a id="category-14"></a>
-
-### تأثيرات بصرية إبداعية (11)
-
-### No. 1: تسلسل تحول سحري
-
-- **Category:** `تأثيرات بصرية إبداعية`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ar`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/af14ed46-358b-4202-a6d5-07cfcbcdff10.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/af14ed46-358b-4202-a6d5-07cfcbcdff10.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ar/seedance-2-prompt/22)
-
-#### Description
-
-تحول جسدي تدريجي مع تبخر وتجميع عبر تأثيرات الجسيمات.
-
-#### Prompt
-
-```text
-أنشئ مشهداً: تحول جسدي تدريجي مع تبخر وتجميع عبر تأثيرات الجسيمات.
-```
-
-### No. 2: Otter Entering Giant Mecha Animation Scene with Detailed Mechanical Shots
-
-- **Category:** `تأثيرات بصرية إبداعية`
-- **Source:** `twitter`
-- **Author:** Andrey Kurenkov (@andrey_kurenkov)
-- **Language:** `ar`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/8bc7ca8d-7344-4be7-ae6d-cd2701702b77.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/8bc7ca8d-7344-4be7-ae6d-cd2701702b77.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/andrey_kurenkov/status/2021435749401514131)
-
-#### Description
-
-Otter entering giant mecha animation scene with detailed mechanical shots. Demonstrates creative storytelling capabilities.
-
-#### Prompt
-
-```text
-Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant combat mech. Shot 1: wide hangar reveal with backlit mech silhouette, steam, and warning beacons. Shot 2: mechanical montage of gears rotating, hydraulics extending, power lines activating, and cockpit hatch unlocking. Shot 3: otter climbs into the cockpit, with close-ups on focused eyes and control gestures. Shot 4: hatch seals, HUD lights up, mech visor ignites, and otter gives a confident thumbs-up. Emphasize dense mechanical detail, coherent machine motion logic, and cinematic anime pacing.
-```
-
-### No. 3: استعارة البجعة في إعلان المعطف
-
-- **Category:** `تأثيرات بصرية إبداعية`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ar`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d35cad32-b340-4394-b98d-8934aa6a1fc8.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d35cad32-b340-4394-b98d-8934aa6a1fc8.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ar/seedance-2-prompt/20)
-
-#### Description
-
-دمج إبداعي بين صور المنتج والرمزية الطبيعية في قالب إعلاني.
-
-#### Prompt
-
-```text
-أنشئ مشهداً: دمج إبداعي بين صور المنتج والرمزية الطبيعية في قالب إعلاني.
-```
-
-### No. 4: Will Smith Eating Spaghetti
-
-- **Category:** `تأثيرات بصرية إبداعية`
-- **Source:** `twitter`
-- **Author:** levelsio (@levelsio)
-- **Language:** `ar`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/eee95836-ac7d-4510-97f5-f6b1f2743aae.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/eee95836-ac7d-4510-97f5-f6b1f2743aae.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/levelsio/status/2021403820702552331)
-
-#### Description
-
-Will Smith eating spaghetti in a modern home kitchen.
-
-#### Prompt
-
-```text
-Photorealistic medium close shot of Will Smith eating spaghetti at a white kitchen island in a modern home kitchen. Background includes a centered stainless-steel refrigerator, white cabinets, and small countertop appliances, with natural daylight from a side window. He faces the camera in a plain black T-shirt, twirls and eats spaghetti naturally. Keep the camera mostly static with a subtle push-in. Preserve realistic hand motion, facial expression, food texture, and clean 24fps cinematic realism; avoid exaggerated deformation.
-```
-
-### No. 5: One Punch Man Animation Surpassing Original Quality
-
-- **Category:** `تأثيرات بصرية إبداعية`
-- **Source:** `twitter`
-- **Author:** Chetaslua (@chetaslua)
-- **Language:** `ar`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/fada7cb9-0f74-43fc-ba6a-b98be8be7c16.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/fada7cb9-0f74-43fc-ba6a-b98be8be7c16.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/chetaslua)
-
-#### Description
-
-One Punch Man animation surpassing original quality. Demonstrates Seedance 2.0's animation production capabilities.
-
-#### Prompt
-
-```text
-Produce a premium anime battle sequence inspired by One Punch Man energy and staging. Require fluid high-frame animation, strong speed lines, impact frames, dramatic lens pulls, and explosive effect timing. Use progression: wide battlefield setup, mid-range combat exchanges, close-up finishing blow, then debris and dust settle. Background destruction should include cracking structures, flying fragments, smoke layers, and shockwave distortion. Character silhouettes remain crisp through motion blur, with strong light-shadow separation and theatrical composition.
-```
-
-### No. 6: رحلة كونية عبر نظارات VR
-
-- **Category:** `تأثيرات بصرية إبداعية`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ar`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/dddb1fb2-d73a-4b6a-a2bf-bf416be652c6.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/dddb1fb2-d73a-4b6a-a2bf-bf416be652c6.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ar/seedance-2-prompt/18)
-
-#### Description
-
-انتقال غامر من العالم الواقعي إلى فضاءات رقمية عبر واجهة VR.
-
-#### Prompt
-
-```text
-أنشئ مشهداً: انتقال غامر من العالم الواقعي إلى فضاءات رقمية عبر واجهة VR.
-```
-
-### No. 7: مشهد نودلز فوري بأسلوب تجريدي
-
-- **Category:** `تأثيرات بصرية إبداعية`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ar`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/2665a1ba-4ae8-474e-ba72-a2bf94326054.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/2665a1ba-4ae8-474e-ba72-a2bf94326054.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ar/seedance-2-prompt/25)
-
-#### Description
-
-معالجة سريالية لفعل يومي بتعبيرات مبالغ فيها.
-
-#### Prompt
-
-```text
-أنشئ مشهداً: معالجة سريالية لفعل يومي بتعبيرات مبالغ فيها.
-```
-
-### No. 8: إعلان أزياء بتبديل سريع
-
-- **Category:** `تأثيرات بصرية إبداعية`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ar`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/781e9493-6578-4aba-9d21-44aff3a7d555.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/781e9493-6578-4aba-9d21-44aff3a7d555.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ar/seedance-2-prompt/19)
-
-#### Description
-
-فيديو أزياء سريع مع fish-eye وانتقالات glitch.
-
-#### Prompt
-
-```text
-أنشئ مشهداً: فيديو أزياء سريع مع fish-eye وانتقالات glitch.
-```
-
-### No. 9: شعار بانتقال أحجية
-
-- **Category:** `تأثيرات بصرية إبداعية`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ar`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d8aab6d9-e006-4012-aa41-55ad02a41572.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d8aab6d9-e006-4012-aa41-55ad02a41572.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ar/seedance-2-prompt/23)
-
-#### Description
-
-كشف شعار ديناميكي قائم على تفكك وتجميع قطع أحجية.
-
-#### Prompt
-
-```text
-أنشئ مشهداً: كشف شعار ديناميكي قائم على تفكك وتجميع قطع أحجية.
-```
-
-### No. 10: كشف عنوان بجزيئات ذهبية
-
-- **Category:** `تأثيرات بصرية إبداعية`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ar`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/3854856c-478d-40f1-8534-cb240e6a1706.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/3854856c-478d-40f1-8534-cb240e6a1706.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ar/seedance-2-prompt/24)
-
-#### Description
-
-افتتاحية عنوان سينمائية بجزيئات ذهبية وتوقيع صوتي قوي.
-
-#### Prompt
-
-```text
-أنشئ مشهداً: افتتاحية عنوان سينمائية بجزيئات ذهبية وتوقيع صوتي قوي.
-```
-
-### No. 11: تاي تشي بأسلوب الحبر
-
-- **Category:** `تأثيرات بصرية إبداعية`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ar`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/210c571d-e67f-4bbc-819b-f91bd8925c7b.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/210c571d-e67f-4bbc-819b-f91bd8925c7b.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ar/seedance-2-prompt/21)
-
-#### Description
-
-أداء قتالي بروح الرسم بالحبر الصيني التقليدي.
-
-#### Prompt
-
-```text
-أنشئ مشهداً: أداء قتالي بروح الرسم بالحبر الصيني التقليدي.
-```
-
-<a id="category-15"></a>
-
-### توليد فيديو فائق الواقعية (5)
-
-### No. 1: مطاردة مع عوائق
-
-- **Category:** `توليد فيديو فائق الواقعية`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ar`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/97438ef1-9ee8-4b6f-b064-05e1a0216c33.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/97438ef1-9ee8-4b6f-b064-05e1a0216c33.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ar/seedance-2-prompt/4)
-
-#### Description
-
-مطاردة سريعة بتصادمات واقعية وفوضى جماهيرية واضحة.
-
-#### Prompt
-
-```text
-أنشئ مشهداً: مطاردة سريعة بتصادمات واقعية وفوضى جماهيرية واضحة.
-```
-
-### No. 2: شارع لندن الفيكتوري
-
-- **Category:** `توليد فيديو فائق الواقعية`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ar`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/b0409f93-9857-4465-9a2d-50a30937a9db.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/b0409f93-9857-4465-9a2d-50a30937a9db.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ar/seedance-2-prompt/3)
-
-#### Description
-
-مشهد تاريخي في لندن القرن التاسع عشر مع تفاعل بيئي وشخصي مقنع.
-
-#### Prompt
-
-```text
-أنشئ مشهداً: مشهد تاريخي في لندن القرن التاسع عشر مع تفاعل بيئي وشخصي مقنع.
-```
-
-### No. 3: Will Smith Eating Spaghetti
-
-- **Category:** `توليد فيديو فائق الواقعية`
-- **Source:** `twitter`
-- **Author:** levelsio (@levelsio)
-- **Language:** `ar`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e55ed973-0bcf-4d50-8b5d-3a831e7e9d68.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e55ed973-0bcf-4d50-8b5d-3a831e7e9d68.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/levelsio/status/2021403820702552331)
-
-#### Description
-
-Will Smith eating spaghetti in a modern home kitchen.
-
-#### Prompt
-
-```text
-Photorealistic medium close shot of Will Smith eating spaghetti at a white kitchen island in a modern home kitchen. Background includes a centered stainless-steel refrigerator, white cabinets, and small countertop appliances, with natural daylight from a side window. He faces the camera in a plain black T-shirt, twirls and eats spaghetti naturally. Keep the camera mostly static with a subtle push-in. Preserve realistic hand motion, facial expression, food texture, and clean 24fps cinematic realism; avoid exaggerated deformation.
-```
-
-### No. 4: شخصية لوحة تفاعلية
-
-- **Category:** `توليد فيديو فائق الواقعية`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ar`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d6e3a17d-f4a7-49e3-850c-2cfc68b4a6a4.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d6e3a17d-f4a7-49e3-850c-2cfc68b4a6a4.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ar/seedance-2-prompt/2)
-
-#### Description
-
-شخصية داخل لوحة تتصرف كأنها حيّة في مشهد إعلاني طريف.
-
-#### Prompt
-
-```text
-أنشئ مشهداً: شخصية داخل لوحة تتصرف كأنها حيّة في مشهد إعلاني طريف.
-```
-
-### No. 5: مشهد غسيل أنيق
-
-- **Category:** `توليد فيديو فائق الواقعية`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ar`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/b6b7f78a-f9a7-4c09-a3ac-6f0f694b1263.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/b6b7f78a-f9a7-4c09-a3ac-6f0f694b1263.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ar/seedance-2-prompt/1)
-
-#### Description
-
-مشهد يومي واقعي لامرأة تنشر الملابس بحركة طبيعية متقنة.
-
-#### Prompt
-
-```text
-أنشئ مشهداً: مشهد يومي واقعي لامرأة تنشر الملابس بحركة طبيعية متقنة.
-```
-
-<a id="category-16"></a>
-
-### الأداء العاطفي (3)
-
-### No. 1: صرخة درامية بلقطة قريبة
-
-- **Category:** `الأداء العاطفي`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ar`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/1b870eee-b748-48a7-84b6-cd56e0c925f9.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/1b870eee-b748-48a7-84b6-cd56e0c925f9.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ar/seedance-2-prompt/59)
-
-#### Description
-
-أداء تمثيلي مبالغ بلقطة قريبة ذات تأثير درامي كوميدي.
-
-#### Prompt
-
-```text
-أنشئ مشهداً: أداء تمثيلي مبالغ بلقطة قريبة ذات تأثير درامي كوميدي.
-```
-
-### No. 2: كوميديا تباين في الطهي
-
-- **Category:** `الأداء العاطفي`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ar`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/a9a3d3ad-2aec-4a14-8bb5-2ca7736e09ae.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/a9a3d3ad-2aec-4a14-8bb5-2ca7736e09ae.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ar/seedance-2-prompt/58)
-
-#### Description
-
-مفارقة كوميدية بين طهي هادئ وفوضوي في مشهد واحد.
-
-#### Prompt
-
-```text
-أنشئ مشهداً: مفارقة كوميدية بين طهي هادئ وفوضوي في مشهد واحد.
-```
-
-### No. 3: انهيار أمام المرآة
-
-- **Category:** `الأداء العاطفي`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ar`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/095be254-151d-4149-b50a-ad054c154758.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/095be254-151d-4149-b50a-ad054c154758.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ar/seedance-2-prompt/57)
-
-#### Description
-
-مشهد نفسي يتصاعد فيه الانهيار العاطفي تدريجياً.
-
-#### Prompt
-
-```text
-أنشئ مشهداً: مشهد نفسي يتصاعد فيه الانهيار العاطفي تدريجياً.
-```
-
-<a id="category-17"></a>
-
-### تطوير القصة وتمديدها (8)
-
-### No. 1: إعلان تحفيزي للياقة
-
-- **Category:** `تطوير القصة وتمديدها`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ar`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/65689cf8-c5c9-4624-9136-adac7bc3cc10.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/65689cf8-c5c9-4624-9136-adac7bc3cc10.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ar/seedance-2-prompt/30)
-
-#### Description
-
-إضافة امتداد لياقة بدنية حركي مع رسالة تحفيزية.
-
-#### Prompt
-
-```text
-أنشئ مشهداً: إضافة امتداد لياقة بدنية حركي مع رسالة تحفيزية.
-```
-
-### No. 2: فيديو رحلة عاطفية
-
-- **Category:** `تطوير القصة وتمديدها`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ar`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/0ae0f676-8f49-4b97-88d2-4afaaa5e5424.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/0ae0f676-8f49-4b97-88d2-4afaaa5e5424.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ar/seedance-2-prompt/28)
-
-#### Description
-
-إنشاء فيديو شعوري مبني على عدة صور ومصدر صوتي.
-
-#### Prompt
-
-```text
-أنشئ مشهداً: إنشاء فيديو شعوري مبني على عدة صور ومصدر صوتي.
-```
-
-### No. 3: حملة قهوة صباحية
-
-- **Category:** `تطوير القصة وتمديدها`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ar`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/94fc9706-187d-4667-a8e4-62692cb256dd.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/94fc9706-187d-4667-a8e4-62692cb256dd.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ar/seedance-2-prompt/31)
-
-#### Description
-
-توسعة حملة قهوة بإضاءة مزاجية وكشف نصي ناعم.
-
-#### Prompt
-
-```text
-أنشئ مشهداً: توسعة حملة قهوة بإضاءة مزاجية وكشف نصي ناعم.
-```
-
-### No. 4: إعلان أكشن لحمار على دراجة
-
-- **Category:** `تطوير القصة وتمديدها`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ar`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/67c79521-0cb4-498f-bd74-e0ed9aab81e8.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/67c79521-0cb4-498f-bd74-e0ed9aab81e8.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ar/seedance-2-prompt/29)
-
-#### Description
-
-تمديد الفيديو بإعلان سريالي بطابع حيواني مبتكر.
-
-#### Prompt
-
-```text
-أنشئ مشهداً: تمديد الفيديو بإعلان سريالي بطابع حيواني مبتكر.
-```
-
-### No. 5: تحريك لوحات القصص المصورة
-
-- **Category:** `تطوير القصة وتمديدها`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ar`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c939610e-a182-40ad-89a5-254c1515ac24.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/c939610e-a182-40ad-89a5-254c1515ac24.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ar/seedance-2-prompt/26)
-
-#### Description
-
-تحويل لقطات القصص المصورة الثابتة إلى تسلسل حي مع مؤثرات صوتية.
-
-#### Prompt
-
-```text
-أنشئ مشهداً: تحويل لقطات القصص المصورة الثابتة إلى تسلسل حي مع مؤثرات صوتية.
-```
-
-### No. 6: قصة لوح تزلج وعباد الشمس
-
-- **Category:** `تطوير القصة وتمديدها`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ar`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/30e27ffa-53bc-4655-b405-d017c699ed87.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/30e27ffa-53bc-4655-b405-d017c699ed87.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ar/seedance-2-prompt/32)
-
-#### Description
-
-سرد دافئ لحياة يومية بعد الظهيرة بطابع بصري مريح.
-
-#### Prompt
-
-```text
-أنشئ مشهداً: سرد دافئ لحياة يومية بعد الظهيرة بطابع بصري مريح.
-```
-
-### No. 7: Quick Test of Female Controlling Plane in Complex Action Scene
-
-- **Category:** `تطوير القصة وتمديدها`
-- **Source:** `twitter`
-- **Author:** Janek Mann (@janekm)
-- **Language:** `ar`
-- **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/dc27ff9d-d357-423c-88b8-65e4646c5659.mp4)
-
-<video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/dc27ff9d-d357-423c-88b8-65e4646c5659.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://x.com/janekm/status/2020388244802740728)
-
-#### Description
-
-Woman suddenly realizes pilot has disappeared and controls the plane in crisis.
-
-#### Prompt
-
-```text
-Create a high-pressure disaster-action sequence: during turbulent flight, a woman rushes toward the cockpit and discovers both pilots are gone. Shot 1: handheld tracking through a chaotic cabin with panicked passengers, swinging oxygen masks, and flashing emergency lights. Shot 2: cockpit close-up montage of shaking controls, warning indicators, and her focused expression as she takes command. Shot 3: exterior wide shot of the aircraft dipping through heavy clouds before recovery. Shot 4: back inside the cockpit, she stabilizes the plane with determined, precise movements. Keep pace fast, stakes clear, and editing tight.
-```
-
-### No. 8: افتتاحية وثائقية عن مواسم الطفولة
-
-- **Category:** `تطوير القصة وتمديدها`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ar`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/41aab229-bca0-4387-a4b1-08e88dde89a2.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/41aab229-bca0-4387-a4b1-08e88dde89a2.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ar/seedance-2-prompt/27)
-
-#### Description
-
-إنتاج مقدمة وثائقية هادئة مستندة إلى لوحة سردية.
-
-#### Prompt
-
-```text
-أنشئ مشهداً: إنتاج مقدمة وثائقية هادئة مستندة إلى لوحة سردية.
-```
-
-<a id="category-18"></a>
-
-### المزامنة مع الموسيقى (4)
-
-### No. 1: ستوريبورد أنمي لمعركة شطرنج
-
-- **Category:** `المزامنة مع الموسيقى`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ar`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/efe4a014-a97b-4f4b-baa6-77d477b7024f.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/efe4a014-a97b-4f4b-baa6-77d477b7024f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ar/seedance-2-prompt/56)
-
-#### Description
-
-تسلسل أنمي قصصي بإيقاع درامي واضح.
-
-#### Prompt
-
-```text
-أنشئ مشهداً: تسلسل أنمي قصصي بإيقاع درامي واضح.
-```
-
-### No. 2: إيقاع أزياء هابط
-
-- **Category:** `المزامنة مع الموسيقى`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ar`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/5ae0578e-e6c8-4ff1-a03a-e19b5ac2f5c1.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/5ae0578e-e6c8-4ff1-a03a-e19b5ac2f5c1.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ar/seedance-2-prompt/53)
-
-#### Description
-
-تحولات أزياء متزامنة مع لحظة beat drop الموسيقية.
-
-#### Prompt
-
-```text
-أنشئ مشهداً: تحولات أزياء متزامنة مع لحظة beat drop الموسيقية.
-```
-
-### No. 3: مزامنة بورتريهات مع الإيقاع
-
-- **Category:** `المزامنة مع الموسيقى`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ar`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/11a4251f-cb41-41b1-b6a7-8ac19d340956.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/11a4251f-cb41-41b1-b6a7-8ac19d340956.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ar/seedance-2-prompt/54)
-
-#### Description
-
-بورتريهات متحركة على إطارات موسيقية رئيسية.
-
-#### Prompt
-
-```text
-أنشئ مشهداً: بورتريهات متحركة على إطارات موسيقية رئيسية.
-```
-
-### No. 4: فيديو موسيقي بانتقالات مناظر
-
-- **Category:** `المزامنة مع الموسيقى`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ar`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/6b0fbeb4-51df-4094-8252-d2dfb8631776.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/6b0fbeb4-51df-4094-8252-d2dfb8631776.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ar/seedance-2-prompt/55)
-
-#### Description
-
-انتقالات طبيعية مضبوطة بدقة مع الإيقاع الموسيقي.
-
-#### Prompt
-
-```text
-أنشئ مشهداً: انتقالات طبيعية مضبوطة بدقة مع الإيقاع الموسيقي.
-```
-
-<a id="category-19"></a>
-
-### تصوير اللقطة الواحدة (5)
-
-### No. 1: منظور أفعوانية
-
-- **Category:** `تصوير اللقطة الواحدة`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ar`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/fabf98a8-432c-479a-bcd3-3736677190b2.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/fabf98a8-432c-479a-bcd3-3736677190b2.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ar/seedance-2-prompt/47)
-
-#### Description
-
-تجربة أفعوانية من منظور أول بسرعة متصاعدة.
-
-#### Prompt
-
-```text
-أنشئ مشهداً: تجربة أفعوانية من منظور أول بسرعة متصاعدة.
-```
-
-### No. 2: شاي دافئ داخل كوخ
-
-- **Category:** `تصوير اللقطة الواحدة`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ar`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d1d1c955-c271-44ba-bd3e-1537e33a2e29.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/d1d1c955-c271-44ba-bd3e-1537e33a2e29.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ar/seedance-2-prompt/46)
-
-#### Description
-
-دخول ذاتي إلى مساحة داخلية دافئة دون قطع مونتاج.
-
-#### Prompt
-
-```text
-أنشئ مشهداً: دخول ذاتي إلى مساحة داخلية دافئة دون قطع مونتاج.
-```
-
-### No. 3: تعقب تجسسي بلقطة واحدة
-
-- **Category:** `تصوير اللقطة الواحدة`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ar`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/873ead10-156a-4f5f-aafc-1a0a743c3ef7.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/873ead10-156a-4f5f-aafc-1a0a743c3ef7.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ar/seedance-2-prompt/45)
-
-#### Description
-
-تعقب تجسسي مشدود التوتر بأسلوب اللقطة المستمرة.
-
-#### Prompt
-
-```text
-أنشئ مشهداً: تعقب تجسسي مشدود التوتر بأسلوب اللقطة المستمرة.
-```
-
-### No. 4: حلم آيس كريم من نافذة الطائرة
-
-- **Category:** `تصوير اللقطة الواحدة`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ar`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/3421ca69-533f-4ef7-aef2-2aabad3d53fe.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/3421ca69-533f-4ef7-aef2-2aabad3d53fe.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ar/seedance-2-prompt/44)
-
-#### Description
-
-انتقال سريالي من نافذة الطائرة إلى تفاعل بصري خيالي.
-
-#### Prompt
-
-```text
-أنشئ مشهداً: انتقال سريالي من نافذة الطائرة إلى تفاعل بصري خيالي.
-```
-
-### No. 5: مطاردة باركور بلقطة واحدة
-
-- **Category:** `تصوير اللقطة الواحدة`
-- **Source:** `official`
-- **Author:** AtlasCloud
-- **Language:** `ar`
-- **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c8b0a7bb-eae5-417f-bf63-e3a114a1364f.mp4)
-
-<video src="https://static.atlascloud.ai/uploads/seedance-2.0/c8b0a7bb-eae5-417f-bf63-e3a114a1364f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/ar/seedance-2-prompt/43)
-
-#### Description
-
-لقطة واحدة ديناميكية تتبع العداء عبر بيئات متعددة.
-
-#### Prompt
-
-```text
-أنشئ مشهداً: لقطة واحدة ديناميكية تتبع العداء عبر بيئات متعددة.
+[فزع الرجل الثمل على السطح — يسقط عن الحافة — يمسك حبلًا عبر النافذة — يُغمى عليه في مكانه | فيلم كوميديا سوداء قصير | نحو 30 ثانية] الفكرة في سطر واحد: رجل بدين لطيف ثمل في منتصف العمر يأكل برغر ويشرب بيرة على سطح مبنى؛ وبينما يقف ويتمطّى يفقد توازنه بالخطأ ويسقط، وفي هلعه يمسك بحبل نجاة فيقتحم فورًا نافذة إلى داخل غرفة، يبقى مذهولًا مصعوقًا لثانية واحدة، ثم يستلقي في مكانه ببساطة وينام نومًا عميقًا. الصورة المرجعية @image1 — رجل بدين لطيف ثمل في منتصف العمر: بنية مستديرة ممتلئة بكرش بيرة كبير مستدير، قصير القامة، حركاته مرتخية بطيئة متمايلة من الشرب؛ وجه مستدير، ذقن مزدوجة، وجنتان وأنف محمرّة من الشرب، عينان ضيقتان كالشقّين بنظرة زائغة، حلقة من شعر ذقن قصير غير مهذّب، شعر أشعث، تعبير أحمق لطيف لا مبالٍ؛ يرتدي فانلة داخلية بيضاء بلا أكمام ملطّخة بصلصة البرغر تتدلّى فضفاضة فوق كرشه المستدير، جينز قديم، يجرّ قدميه في شبشب فضفاض، ممسكًا دائمًا برغر نصف مأكول في يده. لا توجد سوى هذه الشخصية الوحيدة في الفيلم كله، مطابقة 100% للصورة المرجعية. المظهر العام: مدينة عملاقة سايبربانك ليلية، غابة كثيفة من ناطحات السحاب الزجاجية الفولاذية، لافتات نيون (سماوي / أرجواني / أزرق كهربائي)، لوحات إعلانية هولوغرافية، أرض مبتلّة عاكسة، ضباب حجمي، ومسارات ضوء سيارات طائرة بعيدة وطائرات مسيّرة. ملمس واقعي حقيقي، عدسات سينما فيزيائية، بلا أي إحساس بالرندر ثلاثي الأبعاد / محرك ألعاب / أنمي. تمزج الكاميرا بين المحمولة باليد والرافعة / الدرون؛ بعد السقوط تنقضّ الكاميرا معه إلى الأسفل بينما تندفع الجدران الخارجية للمبنى والنيون إلى الأعلى لنقل الإحساس بالسرعة، بملمس عدسة سينمائية عريضة 24-35mm، وضبابية حركة بغالق 180 درجة. تصميم الصوت هو مفتاح الكوميديا السوداء: قطع حاد متكرر بين "هدير هائل" و"صمت تام". جاذبية حقيقية طوال الوقت. لوحة القصة (نحو 30 ثانية): S1 (0-4s) لقطة افتتاحية مقرّبة كبيرة للمضغ (بصوت) وجه الرجل يملأ الشاشة، يمضغ البرغر بقضمات كبيرة، في حالة ثمالة راضية؛ S2 (4-9s) سحب إلى لقطة واسعة، تمطٍّ -> فقدان التوازن والسقوط (بصوت) يقف مترنّحًا ويتمطّى بقوة، يميل إلى الخلف، لا يستطيع الحفاظ على توازنه، تزلّ قدمه فيتدحرج إلى الخلف عن حافة السطح، دون أن يفلت البرغر أبدًا، مع صرخة هلع "إيه——!"؛ S3 (9-12s) قطع إلى لقطة وجه مذعور مقرّبة (صرخة عالية، هدير هائل) عينان ثملتان جاحظتان مستديرتان، ذقن مزدوجة منكمشة، فم مفتوح على اتساعه بصرخة "آه——!!"، والريح تعوي؛ S4 (12-16s) قطع إلى لقطة بعيدة بمستوى النظر (صمت تام) مرئية من المبنى المقابل، شبح أبيض ضئيل يهوي مستقيمًا من ناطحة السحاب، ومدينة النيون شاسعة لا مبالية، ويشكّل الصمت التام تباينًا كوميديًا أسود مع الهدير الهائل قبل ثانية؛ S5 (16-21s) قطع إلى لقطة وجه مقرّبة (يصرخ) -> إمساك الحبل، لا يزال يصرخ، ويداه تتخبّطان في الهواء، يمسك فجأة بكابل نجاة، فيشتدّ الكابل وينحني تحت وزنه بطنين، وتنقطع الصرخة فجأة بينما يُجذب ويتأرجح للخارج (حركة بطيئة قصيرة في لحظة إمساكه بالحبل)؛ S6 (21-26s) قطع إلى زاوية داخلية (هادئ) -> تحطّم الزجاج -> يقتحم الداخل، الغرفة هادئة أولًا لا يُسمع فيها سوى أزيز المكيّف، وفي الثانية التالية ينفجر الزجاج نحو الداخل بعنف (بوليت تايم قصير) بينما يقتحم الرجل الثمل، بالبرغر وكل شيء، النافذة، وتتطاير الشظايا شعاعيًا إلى الخارج، وينساب ضوء النيون إلى الداخل، ويرتطم بعنف داخل الغرفة على الأرض / الأريكة، والزجاج المكسور يرنّ؛ S7 (26-30s) الخاتمة، ثانية من الذهول -> ينام، الرجل مبسوط الأطراف على الأرض، يغطّيه الزجاج المكسور، ولا يزال ممسكًا بالبرغر، يفتح عينيه ببطء، مذهولًا، فارغ الذهن مصعوقًا لثانية كاملة، يتلفّت حوله وكأنه يفكّر "أين أنا؟"، ثم تسيطر الثمالة عليه فلا يبالي بشيء إطلاقًا، يمصمص شفتيه، يضمّ البرغر إلى صدره، يتقلّب، يستلقي في مكانه تمامًا وينام نومًا عميقًا، بل يشخر خفيفًا، وتتراجع الكاميرا وتتجمّد، ثم قطع حاد إلى السواد. صوت حي من موقع التصوير فقط، بلا موسيقى، بلا ترجمة؛ الجوهر هو القطع الحاد المتكرر بين "الهدير الهائل" و"الصمت".
 ```
 
 ## Local Usage
@@ -2655,4 +644,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-07-21T04:39:05.289Z
+> This README is auto-generated. 2026-07-21T07:52:08.407Z
