@@ -71,7 +71,7 @@ Seedance 2.5 is a major upgrade to Seedance 2.0 with three big gains: 30-second 
 | Total Prompts | **11** |
 | Categories | **8** |
 | Preview Videos | **11** |
-| Last Updated | **2026-07-21T07:52:08.404Z** |
+| Last Updated | **2026-07-22T09:55:39.149Z** |
 
 ## 🏷️ Browse by Category
 
@@ -632,6 +632,7 @@ npm run build-all
 
 ## More Atlas Cloud Tools
 
+- 📘 [Workflow: Seedream 5 → Seedance 2.5 (image-first / 先图后视频)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/blob/main/docs/workflow-seedream5-seedance2.5.md) — lock characters/scenes on cheap images first, then generate 30s video in one shot.
 - [atlascloud-cli](https://github.com/AtlasCloudAI/cli) — run prompts from your terminal.
 - 🔌 [MCP Server](https://github.com/AtlasCloudAI/mcp-server) — connect Atlas Cloud to any MCP client.
 - [atlas-cloud-skills](https://github.com/AtlasCloudAI/atlas-cloud-skills) — skills for Claude Code, Codex, and Gemini CLI.
@@ -644,4 +645,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-07-21T07:52:08.404Z
+> This README is auto-generated. 2026-07-22T09:55:39.149Z
