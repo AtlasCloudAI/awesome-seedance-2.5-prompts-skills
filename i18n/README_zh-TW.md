@@ -71,7 +71,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升級，帶來三大提升：① 30 秒�
 | 提示詞總數 | **11** |
 | 分類數 | **8** |
 | 預覽影片數 | **11** |
-| 最後更新 | **2026-07-21T07:52:08.401Z** |
+| 最後更新 | **2026-07-22T09:55:39.126Z** |
 
 ## 🏷️ 按分類瀏覽
 
@@ -632,6 +632,7 @@ npm run build-all
 
 ## More Atlas Cloud Tools
 
+- 📘 [Workflow: Seedream 5 → Seedance 2.5 (image-first / 先图后视频)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/blob/main/docs/workflow-seedream5-seedance2.5.md) — lock characters/scenes on cheap images first, then generate 30s video in one shot.
 - [atlascloud-cli](https://github.com/AtlasCloudAI/cli) — run prompts from your terminal.
 - 🔌 [MCP Server](https://github.com/AtlasCloudAI/mcp-server) — connect Atlas Cloud to any MCP client.
 - [atlas-cloud-skills](https://github.com/AtlasCloudAI/atlas-cloud-skills) — skills for Claude Code, Codex, and Gemini CLI.
@@ -644,4 +645,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> 此 README 為自動生成。 2026-07-21T07:52:08.401Z
+> 此 README 為自動生成。 2026-07-22T09:55:39.126Z
