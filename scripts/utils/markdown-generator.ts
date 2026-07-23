@@ -171,10 +171,6 @@ function renderPrompt(prompt: PromptRecord, index: number, locale: string): stri
     lines.push(`<video src="${prompt.video_url}" controls muted playsinline width="720"></video>`);
   }
 
-  if (prompt.source_link) {
-    lines.push(`- **${t("sourceLink", locale)}:** [${t("view", locale)}](${prompt.source_link})`);
-  }
-
   const referenceImages = prompt.reference_images ?? [];
   const referenceVideos = prompt.reference_videos ?? [];
   if (referenceImages.length > 0 || prompt.reference_video || referenceVideos.length > 0) {

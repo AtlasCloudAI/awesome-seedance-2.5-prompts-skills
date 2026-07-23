@@ -88,7 +88,7 @@ Seedance 2.5 is a major upgrade to Seedance 2.0 with three big gains: 30-second 
 | Total Prompts | **111** |
 | Categories | **27** |
 | Preview Videos | **11** |
-| Last Updated | **2026-07-23T06:22:46.627Z** |
+| Last Updated | **2026-07-23T07:29:31.139Z** |
 
 ## 🏷️ Browse by Category
 
@@ -131,7 +131,6 @@ Seedance 2.5 is a major upgrade to Seedance 2.0 with three big gains: 30-second 
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group1-1.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group1-1.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
@@ -152,7 +151,6 @@ Seedance 2.5 is a major upgrade to Seedance 2.0 with three big gains: 30-second 
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group2-2.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group2-2.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
@@ -173,7 +171,6 @@ Seedance 2.5 is a major upgrade to Seedance 2.0 with three big gains: 30-second 
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -202,7 +199,6 @@ Seedance 2.5 is a major upgrade to Seedance 2.0 with three big gains: 30-second 
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -234,7 +230,6 @@ Seedance 2.5 is a major upgrade to Seedance 2.0 with three big gains: 30-second 
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-output.mov)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-output.mov" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -259,7 +254,6 @@ Seedance 2.5 is a major upgrade to Seedance 2.0 with three big gains: 30-second 
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -284,7 +278,6 @@ Seedance 2.5 is a major upgrade to Seedance 2.0 with three big gains: 30-second 
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-output.mov)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-output.mov" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -314,7 +307,6 @@ Seedance 2.5 is a major upgrade to Seedance 2.0 with three big gains: 30-second 
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -351,7 +343,6 @@ Seedance 2.5 is a major upgrade to Seedance 2.0 with three big gains: 30-second 
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group1-1.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group1-1.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
@@ -376,7 +367,6 @@ Seedance 2.5 is a major upgrade to Seedance 2.0 with three big gains: 30-second 
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group2-2.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group2-2.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
@@ -401,7 +391,6 @@ Seedance 2.5 is a major upgrade to Seedance 2.0 with three big gains: 30-second 
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -430,7 +419,6 @@ Seedance 2.5 is a major upgrade to Seedance 2.0 with three big gains: 30-second 
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -462,7 +450,6 @@ Seedance 2.5 is a major upgrade to Seedance 2.0 with three big gains: 30-second 
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -491,7 +478,6 @@ Seedance 2.5 is a major upgrade to Seedance 2.0 with three big gains: 30-second 
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-output.mov)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-output.mov" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -516,7 +502,6 @@ Seedance 2.5 is a major upgrade to Seedance 2.0 with three big gains: 30-second 
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group2-output.mov)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group2-output.mov" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -545,7 +530,6 @@ Seedance 2.5 is a major upgrade to Seedance 2.0 with three big gains: 30-second 
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-output.mov)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-output.mov" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -579,7 +563,6 @@ Seedance 2.5 is a major upgrade to Seedance 2.0 with three big gains: 30-second 
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -614,7 +597,6 @@ Seedance 2.5 is a major upgrade to Seedance 2.0 with three big gains: 30-second 
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab3-group1-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab3-group1-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -643,7 +625,6 @@ Seedance 2.5 is a major upgrade to Seedance 2.0 with three big gains: 30-second 
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab3-group2-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab3-group2-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -669,7 +650,6 @@ Seedance 2.5 is a major upgrade to Seedance 2.0 with three big gains: 30-second 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -694,7 +674,6 @@ Shot 5：ミディアムクローズアップ、モデル@Image 1が微笑みで
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -719,7 +698,6 @@ Shot 5：クローズアップ、カメラがゆっくりズームアウトし�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -744,7 +722,6 @@ Shot 5：ミディアムショット、ロックを閉めてバッグを元の�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -769,7 +746,6 @@ Shot 5：クローズアップ、カメラがゆっくりズームアウトし�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -794,7 +770,6 @@ Shot 5：ミディアムクローズアップ、完成したスムージーと�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -819,7 +794,6 @@ Shot 5：ミディアムクローズアップ、哺乳瓶と柔らかいぬい�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -844,7 +818,6 @@ Shot 5：中景、ギフトボックスが閉じられリボンが結ばれる�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -873,7 +846,6 @@ Shot 5：中近景、イヤホンと価格タグが同枠、カメラが素早�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -898,7 +870,6 @@ Shot 5：中景、皆が箸を手に同枠で雰囲気満点、カメラがゆ�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -923,7 +894,6 @@ Shot 5：中景、完成したラテが持ち上げられ窓辺に置かれる�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -948,7 +918,6 @@ Shot 5：中景、とろりケーキとアイスクリームが同枠、カメ�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -973,7 +942,6 @@ Shot 5：中近景、焼き上がった肉串が盛り付けられ持ち上げ�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -998,7 +966,6 @@ Shot 5：全景、完成した刺身盛り合わせが中央で静止、カメ�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1023,7 +990,6 @@ Shot 5：中景、手に持った完成品のタピオカミルクティーを�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1048,7 +1014,6 @@ Shot 5：中景、ネギを散らし牛肉を並べて完成品にする、カ�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1077,7 +1042,6 @@ Shot 5：同じ長回しでゆっくりと引き、温かい朝食の全景で�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1102,7 +1066,6 @@ Shot 5：中景、モデルがリップスティック@Image 1を持ち鏡に向
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1127,7 +1090,6 @@ Shot 5：中景、モデルがファンデーションボトル@Image 1を持ち
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1152,7 +1114,6 @@ Shot 5: ミディアムショット、香水瓶@Image 1が石台に戻り静止�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1177,7 +1138,6 @@ Shot 5: ミディアムショット、エッセンス瓶@Image 1が水の光を�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1202,7 +1162,6 @@ Shot 5: ワイドショット、モデル@Image 1が街の中心に立ち止ま�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1231,7 +1190,6 @@ Shot 5: ミディアムクローズアップ、モデル@Image 1が振り返っ�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1256,7 +1214,6 @@ Shot 5: ミディアムショット、スマートフォン@Image 1が浮遊し�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1281,7 +1238,6 @@ Shot 5: ミディアムショット、イヤホンと充電ケース@Image 1が�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1306,7 +1262,6 @@ Shot 5: ミディアムショット、ノートパソコン@Image 1 が半開き
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1331,7 +1286,6 @@ Shot 5: ミディアムショット、スマートウォッチ@Image 1 が手首
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1356,7 +1310,6 @@ Shot 5: ミディアムショット、ドローン@Image 1 が安定して帰還
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1385,7 +1338,6 @@ Shot 5: クローズアップ、チップ@Image 1 が冷たい光の中に静止
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1410,7 +1362,6 @@ Shot 5: ミディアムショット、車@Image 1 がトンネルから出て減
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1435,7 +1386,6 @@ Shot 5: ミディアムショット、車@Image 1 が車体全体でビームの
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1460,7 +1410,6 @@ Shot 5: ミディアムショット、オフロード車@Image 1が尾根の頂�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1489,7 +1438,6 @@ Shot 5: ミディアムクローズアップ、カメラがゆっくり上昇し
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1514,7 +1462,6 @@ Shot 5: ゆっくりズームアウト、玄関まで戻りリビング全体の
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1539,7 +1486,6 @@ Shot 5: ローアングル、カメラ位置がコンロから上部のレンジ
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1564,7 +1510,6 @@ Shot 5: 昇降、カメラ位置が高くなり全体俯瞰に戻り面積デー
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1593,7 +1538,6 @@ Shot 5: ゆっくりズームアウト、部屋のドア口まで退き暖かい
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1618,7 +1562,6 @@ Shot 5：ゆっくりとズームアウト、アンカー@画像1 がうなず�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1643,7 +1586,6 @@ Shot 5：ゆっくりとズームアウト、アンカー@画像1 が両手を�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1668,7 +1610,6 @@ Shot 5：ゆっくりとズームイン、アンカー@画像2 が親指を立�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1693,7 +1634,6 @@ Shot 5：ゆっくりとズームアウト、アンカー@画像3 がヘッド�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1718,7 +1658,6 @@ Shot 5：ゆっくりとズームアウト、講師@画像1 が両手を広げ�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1747,7 +1686,6 @@ Shot 5：ゆっくりとズームアウト、デジタルヒューマン@画像1
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1771,7 +1709,6 @@ Shot 4: クローズアップ、ヒロイン@Image 1が目を赤く潤ませ口�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1796,7 +1733,6 @@ Shot 5: ゆっくりと引く、主人公@Image 2が目を開け、ほっとし�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1821,7 +1757,6 @@ Shot 5: ゆっくりと上下移動、カメラが上昇して食卓の料理と
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1846,7 +1781,6 @@ Shot 5: ゆっくりと引く、列車が去り、ヒロイン@Image 1が一人�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1871,7 +1805,6 @@ Shot 5: ゆっくりと周回、会場の全員が立ち上がり拍手する、
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1896,7 +1829,6 @@ Shot 5: ゆっくりと上下移動、カメラが上昇して二人の遠ざか
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1921,7 +1853,6 @@ Shot 5：ゆっくりとズームアウト、主人公@画像2が暗く長い廊
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1950,7 +1881,6 @@ Shot 5：ゆっくりとズームアウト、二人が寄り添う姿が暖か�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1975,7 +1905,6 @@ Shot 5：カメラがゆっくりとズームアウトしてマクロ水滴に�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2000,7 +1929,6 @@ Shot 5：カメラがゆっくりと彼/彼女のゴール前の怒涛の表情�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2025,7 +1953,6 @@ Shot 5：カメラがゆっくりと上昇し俯瞰、クラス全員が輪に�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2050,7 +1977,6 @@ Shot 5：カメラがゆっくりとカードのブランドロゴにプッシ�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2075,7 +2001,6 @@ Shot 5: カメラがゆっくりとグラスの口元の泡にズームインし
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2104,7 +2029,6 @@ Shot 5: カメラがゆっくりと赤ちゃんの広がる笑顔にズームイ
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2129,7 +2053,6 @@ Shot 5: カメラがゆっくりと引き上げ、山々に囲まれた古い町
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2154,7 +2077,6 @@ Shot 5: カメラが砂浜で夕日に向かってグラスを掲げるシルエ
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2179,7 +2101,6 @@ Shot 5: カメラがローアングルで、日照金山（太陽に照らされ
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2204,7 +2125,6 @@ Shot 5: カメラがゆっくりと引き上げ、不夜城全体の灯りの海
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2229,7 +2149,6 @@ Shot 5：カメラがゆっくりと上昇し、キャラバンが果てしな�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2258,7 +2177,6 @@ Shot 5：カメラがそのまま上昇し、美食の長い通り全体が灯�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2283,7 +2201,6 @@ Shot 5：ワイドショット、猫@Image 1が丸くなって目を閉じて眠
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2308,7 +2225,6 @@ Shot 5：ワイドショット、犬@Image 1がレンズ前に駆け寄り急停
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2333,7 +2249,6 @@ Shot 5：クローズアップ、クマノミ一匹@Image 1が単独でイソギ
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2358,7 +2273,6 @@ Shot 5：ワイドショット、ハチドリ@Image 1が突然弾丸のように
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2387,7 +2301,6 @@ Shot 5：ミディアムショット、柴犬@画像1 が冷静に焦げた料�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2412,7 +2325,6 @@ Shot 5：ワイドショット、探査車@画像1 が遠くのクレーター�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2437,7 +2349,6 @@ Shot 5：ワイドショット、心臓@画像1 が完全な形に戻り鼓動�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2462,7 +2373,6 @@ Shot 5：ワイドショット、子熊@画像1 が草地に横たわり葉っ�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2487,7 +2397,6 @@ Shot 5：ミディアムショット、小球@画像1 の振幅が次第に小�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2516,7 +2425,6 @@ Shot 5：ワイドショット、コロッセオ@画像1 の復元された映�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2540,7 +2448,6 @@ Shot 4：全景，黒竜@Image 1 が霧から飛び出し森林の空き地に�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2565,7 +2472,6 @@ Shot 5：中景，女魔術師@Image 1 が構えを解き息を切らし魔法�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2590,7 +2496,6 @@ Shot 5：全景，メカ@Image 1 が格納庫から飛び出し戦場に躍り�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2615,7 +2520,6 @@ Shot 5：全景，大陸@Image 1 カメラが引き上げ大陸全体の全貌�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2644,7 +2548,6 @@ Shot 5：全景，シーン@Image 1 にポストプロダクションのカラ�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2669,7 +2572,6 @@ Shot 5：中景，熱いスープが陶器の丼によそわれ手に持たれ�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2694,7 +2596,6 @@ Shot 5: ミディアムショット、もう一匹のキャラクターが飛び
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2719,7 +2620,6 @@ Shot 5: ロングショット、小さなロボットが丘の頂上に一人立
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2748,7 +2648,6 @@ Shot 5: ロングショット、暮れなずむ空の下、提灯が次々と灯
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2773,7 +2672,6 @@ Shot 5: クローズアップ、バーベルが地面に叩きつけられ、跳
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2798,7 +2696,6 @@ Shot 5: フルショット、あぐらをかいて合掌し、うつむき、朝
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2823,7 +2720,6 @@ Shot 5: クローズアップ、バスケットボールが暴力的にネット
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2851,7 +2747,6 @@ Shot 5: 遠景、ランナーのシルエットが坂の頂上に駆け上がり
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2875,7 +2770,6 @@ Shot 5: 全景、ポーズで静止しネオンのストロボが全身の輪郭
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2899,7 +2793,6 @@ Shot 5: 極近接アップ、最後の鍵が押され指が留まり余韻が震
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2923,7 +2816,6 @@ Shot 5: 全景、二人が同時に静止して対峙し見物人が一斉に沸
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2951,7 +2843,6 @@ Shot 5: 全景、花火とレーザーが同時に噴出しボーカリストが
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2976,7 +2867,6 @@ Shot 6: ゆっくりズームアウト、家族全員が門前で杯を掲げ赤
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -3002,7 +2892,6 @@ Shot 6：ゆっくりとズームアウト、二人がベンチで寄り添う�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -3028,7 +2917,6 @@ Shot 6：ゆっくりとズームアウト、人影と巨大な満月が同フ�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -3054,7 +2942,6 @@ Shot 6：ゆっくりとズームアウト、屋内の暖かい光が雪の夜�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -3084,7 +2971,6 @@ Shot 6：ゆっくりとズームアウト、一本の新緑の木が野原に�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -3110,7 +2996,6 @@ Shot 6：ゆっくりとズームアウト、星空が一人の小さなテン�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -3136,7 +3021,6 @@ Shot 6：ゆっくりとズームアウト、オーロラが氷原全体を包�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -3162,7 +3046,6 @@ Shot 6：ゆっくりとズームアウト、冷えた溶岩原で残り火が�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -3192,7 +3075,6 @@ Shot 6：ゆっくりとズームアウト、朝霧の中の森林の全景が�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -3218,7 +3100,6 @@ Shot 6：ゆっくりとズームアウト、オレンジ側選手がリング�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `ja`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -3260,4 +3141,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-07-23T06:22:46.627Z
+> This README is auto-generated. 2026-07-23T07:29:31.139Z

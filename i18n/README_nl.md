@@ -88,7 +88,7 @@ Seedance 2.5 is a major upgrade to Seedance 2.0 with three big gains: 30-second 
 | Total Prompts | **111** |
 | Categories | **27** |
 | Preview Videos | **11** |
-| Last Updated | **2026-07-23T06:22:46.655Z** |
+| Last Updated | **2026-07-23T07:29:31.239Z** |
 
 ## 🏷️ Browse by Category
 
@@ -131,7 +131,6 @@ Seedance 2.5 is a major upgrade to Seedance 2.0 with three big gains: 30-second 
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group1-1.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group1-1.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
@@ -152,7 +151,6 @@ Een razendsnelle, cinematische match-cut-kortfilm, synchroon aan een stuwende el
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group2-2.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group2-2.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
@@ -173,7 +171,6 @@ Een hoogwaardige, diep cinematische 3D-motion-graphics-sequentie van 30 seconden
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -202,7 +199,6 @@ Een cinematische merkconcept-kortfilm. @image1 is het eerste beeld; het beeld tr
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -234,7 +230,6 @@ Eén doorlopende opname. De camera volgt soepel een persoon in een zwarte jas (r
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-output.mov)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-output.mov" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -259,7 +254,6 @@ Videobewerking: verwijder in @video1 iedereen behalve de hoofdpersoon.
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -284,7 +278,6 @@ Cinematische hiphop-/rapvideoclip, fotorealistische kwaliteit, hoogwaardige uits
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-output.mov)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-output.mov" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -314,7 +307,6 @@ Een tutorialvideo van 30 seconden over het installeren en gebruiken van een caps
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -351,7 +343,6 @@ Een heldere, kleurrijke reclamestijl met fruitkoekjes in de hoofdrol, in vier sm
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group1-1.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group1-1.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
@@ -376,7 +367,6 @@ Een razendsnelle, cinematische match-cut-kortfilm, synchroon aan een stuwende el
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group2-2.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group2-2.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
@@ -401,7 +391,6 @@ Een hoogwaardige, diep cinematische 3D-motion-graphics-sequentie van 30 seconden
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -430,7 +419,6 @@ Een cinematische merkconcept-kortfilm. @image1 is het eerste beeld; het beeld tr
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -462,7 +450,6 @@ Eén doorlopende opname. De camera volgt soepel een persoon in een zwarte jas (r
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -491,7 +478,6 @@ Cinematische hiphop-/rapvideoclip, fotorealistische kwaliteit, hoogwaardige uits
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-output.mov)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-output.mov" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -516,7 +502,6 @@ Videobewerking: verwijder in @video1 iedereen behalve de hoofdpersoon.
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group2-output.mov)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group2-output.mov" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -545,7 +530,6 @@ Hyperreële cinematisch-realistische stijl met fotorealistische live-actiontextu
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-output.mov)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-output.mov" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -579,7 +563,6 @@ Een tutorialvideo van 30 seconden over het installeren en gebruiken van een caps
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -614,7 +597,6 @@ Een heldere, kleurrijke reclamestijl met fruitkoekjes in de hoofdrol, in vier sm
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab3-group1-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab3-group1-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -643,7 +625,6 @@ Een 3D-animatiereclamestijl, heldere en doorschijnende kleuren; het vruchtvlees 
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab3-group2-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab3-group2-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -669,7 +650,6 @@ Een cinematische zwarthumor-kortfilm van circa 30s: een mollige, aangeschoten ma
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -694,7 +674,6 @@ Algemene beperkingen: Houd het ondertitelloos; genereer geen Logo; genereer geen
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -719,7 +698,6 @@ Algemene beperkingen: Houd het ondertitelloos; genereer geen Logo; genereer geen
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -744,7 +722,6 @@ Algemene beperkingen: Houd het ondertitelloos; genereer geen Logo; genereer geen
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -769,7 +746,6 @@ Algemene beperkingen: Houd het ondertitelloos; genereer geen Logo; genereer geen
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -794,7 +770,6 @@ Algemene beperkingen: Houd het ondertitelloos; genereer geen Logo; genereer geen
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -819,7 +794,6 @@ Algemene beperkingen: Houd het ondertitelloos; genereer geen Logo; genereer geen
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -844,7 +818,6 @@ Algemene beperkingen: Houd het ondertitelloos; genereer geen Logo; genereer geen
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -873,7 +846,6 @@ Algemene beperkingen: Houd het ondertitelloos; genereer geen Logo; genereer geen
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -898,7 +870,6 @@ Algemene beperkingen: Houd het ondertitelloos; genereer geen Logo; genereer geen
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -923,7 +894,6 @@ Algemene beperkingen: Houd het ondertitelloos; genereer geen Logo; genereer geen
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -948,7 +918,6 @@ Algemene beperkingen: Houd het ondertitelloos; genereer geen Logo; genereer geen
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -973,7 +942,6 @@ Algemene beperkingen: Houd het ondertitelloos; genereer geen Logo; genereer geen
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -998,7 +966,6 @@ Shot 5：全景，完整刺身拼盘居中定格，镜头缓慢拉远收尾，�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -1023,7 +990,6 @@ Shot 5：中景，手举成品奶茶轻摇展示珍珠翻涌，镜头缓慢拉�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -1048,7 +1014,6 @@ Shot 5：中景，撒葱花摆牛肉完成成品，镜头缓慢拉远收尾，�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -1077,7 +1042,6 @@ Shot 5：同一长镜头顺势缓慢拉远，定格温馨早餐全景，（音�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -1102,7 +1066,6 @@ Shot 5：中景，模特手持口红@Image 1 对镜定格，镜头缓慢拉远�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -1127,7 +1090,6 @@ Shot 5：中景，模特手持粉底瓶@Image 1 微笑定格，镜头缓慢拉�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -1152,7 +1114,6 @@ Algemene constraints: Zonder ondertitels; geen Logo genereren; geen watermerk ge
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -1177,7 +1138,6 @@ Algemene constraints: Zonder ondertitels; geen Logo genereren; geen watermerk ge
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -1202,7 +1162,6 @@ Algemene constraints: Zonder ondertitels; geen Logo genereren; geen watermerk ge
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -1231,7 +1190,6 @@ Algemene constraints: Zonder ondertitels; geen Logo genereren; geen watermerk ge
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -1256,7 +1214,6 @@ Algemene constraints: Zonder ondertitels; geen Logo genereren; geen watermerk ge
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -1281,7 +1238,6 @@ Algemene constraints: Zonder ondertitels; geen Logo genereren; geen watermerk ge
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -1306,7 +1262,6 @@ Algemene beperkingen: Houd het ondertitelloos; genereer geen Logo; genereer geen
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -1331,7 +1286,6 @@ Algemene beperkingen: Houd het ondertitelloos; genereer geen Logo; genereer geen
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -1356,7 +1310,6 @@ Algemene beperkingen: Houd het ondertitelloos; genereer geen Logo; genereer geen
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -1385,7 +1338,6 @@ Algemene beperkingen: Houd het ondertitelloos; genereer geen Logo; genereer geen
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -1410,7 +1362,6 @@ Algemene beperkingen: Houd het ondertitelloos; genereer geen Logo; genereer geen
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -1435,7 +1386,6 @@ Algemene beperkingen: Houd het ondertitelloos; genereer geen Logo; genereer geen
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -1460,7 +1410,6 @@ General constraints: Keep without subtitles; do not generate a Logo; do not gene
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -1489,7 +1438,6 @@ General constraints: Keep without subtitles; do not generate a Logo; do not gene
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -1514,7 +1462,6 @@ General constraints: Keep without subtitles; do not generate a Logo; do not gene
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -1539,7 +1486,6 @@ General constraints: Keep without subtitles; do not generate a Logo; do not gene
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -1564,7 +1510,6 @@ General constraints: Keep without subtitles; do not generate a Logo; do not gene
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -1593,7 +1538,6 @@ General constraints: Keep without subtitles; do not generate a Logo; do not gene
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -1618,7 +1562,6 @@ Algemene beperkingen: Houd het zonder ondertitels; genereer geen Logo; genereer 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -1643,7 +1586,6 @@ Algemene beperkingen: Houd het zonder ondertitels; genereer geen Logo; genereer 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -1668,7 +1610,6 @@ Algemene beperkingen: Houd het zonder ondertitels; genereer geen Logo; genereer 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -1693,7 +1634,6 @@ Algemene beperkingen: Houd het zonder ondertitels; genereer geen Logo; genereer 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -1718,7 +1658,6 @@ Algemene beperkingen: Houd het zonder ondertitels; genereer geen Logo; genereer 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -1747,7 +1686,6 @@ Algemene beperkingen: Houd het zonder ondertitels; genereer geen Logo; genereer 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -1771,7 +1709,6 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -1796,7 +1733,6 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -1821,7 +1757,6 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -1846,7 +1781,6 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -1871,7 +1805,6 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -1896,7 +1829,6 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -1921,7 +1853,6 @@ Algemene beperkingen: Houd het ondertitelingsvrij; genereer geen Logo; genereer 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -1950,7 +1881,6 @@ Algemene beperkingen: Houd het ondertitelingsvrij; genereer geen Logo; genereer 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -1975,7 +1905,6 @@ Algemene beperkingen: Houd het ondertitelingsvrij; genereer geen Logo; genereer 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -2000,7 +1929,6 @@ Algemene beperkingen: Houd het ondertitelingsvrij; genereer geen Logo; genereer 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -2025,7 +1953,6 @@ Algemene beperkingen: Houd het ondertitelingsvrij; genereer geen Logo; genereer 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -2050,7 +1977,6 @@ Algemene beperkingen: Houd het ondertitelingsvrij; genereer geen Logo; genereer 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -2075,7 +2001,6 @@ Algemene beperkingen: Geen ondertitels; geen Logo genereren; geen watermerk gene
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -2104,7 +2029,6 @@ Algemene beperkingen: Geen ondertitels; geen Logo genereren; geen watermerk gene
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -2129,7 +2053,6 @@ Algemene beperkingen: Geen ondertitels; geen Logo genereren; geen watermerk gene
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -2154,7 +2077,6 @@ Algemene beperkingen: Geen ondertitels; geen Logo genereren; geen watermerk gene
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -2179,7 +2101,6 @@ Algemene beperkingen: Geen ondertitels; geen Logo genereren; geen watermerk gene
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -2204,7 +2125,6 @@ Algemene beperkingen: Geen ondertitels; geen Logo genereren; geen watermerk gene
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -2229,7 +2149,6 @@ Shot 5：镜头缓慢升空俯瞰驼队没入无垠金色沙海定格，暖金�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -2258,7 +2177,6 @@ Shot 5：镜头顺势升高俯拍整条美食长街灯火通明定格，人潮�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -2283,7 +2201,6 @@ Shot 5：全景，猫咪@Image 1 蜷成一团闭眼睡去，镜头缓慢升起�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -2308,7 +2225,6 @@ Shot 5：全景，狗狗@Image 1 冲向镜头前急停坐下咧嘴喘气，镜�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -2333,7 +2249,6 @@ Shot 5：特写，小丑鱼@Image 1 独自游回海葵停驻，镜头缓慢拉�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -2358,7 +2273,6 @@ Shot 5：全景，蜂鸟@Image 1 骤然弹射飞离画面，镜头缓慢拉远�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -2386,7 +2300,6 @@ Beperkingen: De vachtkleur van de Shiba Inu en de chefkoksmuts moeten gedurende 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -2410,7 +2323,6 @@ Beperkingen: De structuur en kleurschema van de rover moeten gedurende de hele s
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -2434,7 +2346,6 @@ Beperkingen: De anatomische structuur en positie van de hartkamers moeten wetens
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -2458,7 +2369,6 @@ Beperkingen: Het uiterlijk en kleurenschema van het beertje moeten gedurende de 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -2482,7 +2392,6 @@ Beperkingen: Het aantal metalen ballen en de frameconstructie moeten overeenkome
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -2510,7 +2419,6 @@ Beperkingen: De architectonische structuur en locaties van beschadiging van het 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -2534,7 +2442,6 @@ Algemene beperkingen: Houd het ondertitelingsvrij; Genereer geen Logo; Genereer 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -2559,7 +2466,6 @@ Algemene beperkingen: Houd het ondertitelingsvrij; Genereer geen Logo; Genereer 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -2584,7 +2490,6 @@ Algemene beperkingen: Houd het ondertitelingsvrij; Genereer geen Logo; Genereer 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -2609,7 +2514,6 @@ Algemene beperkingen: Houd het ondertitelingsvrij; Genereer geen Logo; Genereer 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -2638,7 +2542,6 @@ Algemene beperkingen: Houd het ondertitelingsvrij; Genereer geen Logo; Genereer 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -2663,7 +2566,6 @@ Algemene beperkingen: Houd het ondertitelingsvrij; Genereer geen Logo; Genereer 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -2688,7 +2590,6 @@ Shot 5：中景，另一只角色扑上去拥抱两颗心跳出画面，镜头�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -2713,7 +2614,6 @@ Shot 5：远景，小机器人独自站在山丘顶朝阳升起拉长影子，�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -2742,7 +2642,6 @@ Shot 5：远景，暮色四合灯笼次第亮起倒映满河，镜头缓慢升�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -2767,7 +2666,6 @@ Shot 5：特写，杠铃砸回地面弹起震动汗珠飞溅，镜头缓慢拉�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -2792,7 +2690,6 @@ Shot 5：全景，盘坐合十垂首晨雾漫过整个教室，镜头缓慢拉�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -2817,7 +2714,6 @@ Shot 5：特写，篮球暴力灌入篮网篮筐剧烈震颤，镜头缓慢推�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -2845,7 +2741,6 @@ Beperkingen: Personen silhouetten en kustweg moeten overeenkomen met Afbeelding 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -2869,7 +2764,6 @@ Beperkingen: Persoon en industriële ruimte moeten overeenkomen met Afbeelding 1
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -2893,7 +2787,6 @@ Beperkingen: Persoon en piano moeten overeenkomen met Afbeelding 1; warm gouden 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -2917,7 +2810,6 @@ Beperkingen: Twee dansers en ondergrondse locatie moeten overeenkomen met Afbeel
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -2945,7 +2837,6 @@ Beperkingen: Persoon en stadionpodium moeten overeenkomen met Afbeelding 1; gekl
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -2970,7 +2861,6 @@ Beperkingen: Elke persoon moet overeenkomen met de respectievelijke afbeelding, 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -2996,7 +2886,6 @@ Algemene constraints: Houd onderschrift-vrij; genereer geen Logo; genereer geen 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -3022,7 +2911,6 @@ Algemene constraints: Houd onderschrift-vrij; genereer geen Logo; genereer geen 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -3048,7 +2936,6 @@ Algemene constraints: Houd onderschrift-vrij; genereer geen Logo; genereer geen 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -3078,7 +2965,6 @@ Algemene constraints: Houd onderschrift-vrij; genereer geen Logo; genereer geen 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -3104,7 +2990,6 @@ Algemene constraints: Houd onderschrift-vrij; genereer geen Logo; genereer geen 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -3130,7 +3015,6 @@ Algemene constraints: Houd onderschrift-vrij; genereer geen Logo; genereer geen 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -3156,7 +3040,6 @@ Algemene beperkingen: Houd het ondertitelloos; genereer geen Logo; genereer geen
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -3186,7 +3069,6 @@ Algemene beperkingen: Houd het ondertitelloos; genereer geen Logo; genereer geen
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -3212,7 +3094,6 @@ Algemene beperkingen: Houd het ondertitelloos; genereer geen Logo; genereer geen
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `nl`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
 
 #### Description
 
@@ -3254,4 +3135,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-07-23T06:22:46.655Z
+> This README is auto-generated. 2026-07-23T07:29:31.239Z

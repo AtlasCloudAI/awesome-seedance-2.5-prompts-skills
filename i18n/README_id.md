@@ -88,7 +88,7 @@ Seedance 2.5 is a major upgrade to Seedance 2.0 with three big gains: 30-second 
 | Total Prompts | **111** |
 | Categories | **27** |
 | Preview Videos | **11** |
-| Last Updated | **2026-07-23T06:22:46.651Z** |
+| Last Updated | **2026-07-23T07:29:31.222Z** |
 
 ## 🏷️ Browse by Category
 
@@ -131,7 +131,6 @@ Seedance 2.5 is a major upgrade to Seedance 2.0 with three big gains: 30-second 
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group1-1.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group1-1.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
@@ -152,7 +151,6 @@ Sebuah film pendek sinematik match-cut bertempo cepat yang tersinkron dengan bea
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group2-2.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group2-2.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
@@ -173,7 +171,6 @@ Sebuah sekuens motion-graphics 3D kelas atas yang sangat sinematik berdurasi 30 
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -202,7 +199,6 @@ Sebuah film pendek konsep merek yang sinematik. @image1 adalah frame pertama; ga
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -234,7 +230,6 @@ Satu pengambilan berkelanjutan. Kamera mengikuti dengan mulus seseorang bermante
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-output.mov)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-output.mov" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -259,7 +254,6 @@ Penyuntingan video: hapus semua orang di @video1 kecuali sang protagonis.
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -284,7 +278,6 @@ Video musik hip-hop / rap sinematik, kualitas fotorealistis, nuansa kelas atas, 
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-output.mov)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-output.mov" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -314,7 +307,6 @@ Video tutorial berdurasi 30 detik tentang memasang dan menggunakan mesin kopi ka
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -351,7 +343,6 @@ Gaya iklan cerah dan berwarna-warni dengan biskuit buah sebagai bintang utama, d
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group1-1.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group1-1.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
@@ -376,7 +367,6 @@ Sebuah film pendek sinematik match-cut bertempo cepat yang tersinkron dengan bea
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group2-2.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group2-2.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
@@ -401,7 +391,6 @@ Sebuah sekuens motion-graphics 3D kelas atas yang sangat sinematik berdurasi 30 
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -430,7 +419,6 @@ Sebuah film pendek konsep merek yang sinematik. @image1 adalah frame pertama; ga
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -462,7 +450,6 @@ Satu pengambilan berkelanjutan. Kamera mengikuti dengan mulus seseorang bermante
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -491,7 +478,6 @@ Video musik hip-hop / rap sinematik, kualitas fotorealistis, nuansa kelas atas, 
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-output.mov)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-output.mov" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -516,7 +502,6 @@ Penyuntingan video: hapus semua orang di @video1 kecuali sang protagonis.
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group2-output.mov)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group2-output.mov" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -545,7 +530,6 @@ Gaya realis sinematik hiperrealistis dengan tekstur live-action fotorealistis, m
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-output.mov)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-output.mov" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -579,7 +563,6 @@ Video tutorial berdurasi 30 detik tentang memasang dan menggunakan mesin kopi ka
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -614,7 +597,6 @@ Gaya iklan cerah dan berwarna-warni dengan biskuit buah sebagai bintang utama, d
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab3-group1-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab3-group1-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -643,7 +625,6 @@ Gaya iklan animasi 3D, warna cerah dan tembus cahaya; daging buah dan sarinya ha
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab3-group2-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab3-group2-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -669,7 +650,6 @@ Film pendek sinematik komedi hitam berdurasi ~30 detik: seorang pria gempal yang
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -694,7 +674,6 @@ Kendala Umum: Pertahankan tanpa subtitle; jangan hasilkan Logo; jangan hasilkan 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -719,7 +698,6 @@ Kendala Umum: Pertahankan tanpa subtitle; jangan hasilkan Logo; jangan hasilkan 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -744,7 +722,6 @@ Kendala Umum: Pertahankan tanpa subtitle; jangan hasilkan Logo; jangan hasilkan 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -769,7 +746,6 @@ Kendala Umum: Pertahankan tanpa subtitle; jangan hasilkan Logo; jangan hasilkan 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -794,7 +770,6 @@ Kendala Umum: Pertahankan tanpa subtitle; jangan hasilkan Logo; jangan hasilkan 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -819,7 +794,6 @@ Kendala Umum: Pertahankan tanpa subtitle; jangan hasilkan Logo; jangan hasilkan 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -844,7 +818,6 @@ Shot 5：中景，礼盒合拢系上丝带，镜头缓慢拉远收尾，（音�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -873,7 +846,6 @@ Shot 5：中近景，耳机与价格标签同框，镜头快速拉远定格，�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -898,7 +870,6 @@ Shot 5：中景，众人举筷同框氛围拉满，镜头缓慢拉远收尾，�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -923,7 +894,6 @@ Shot 5：中景，成品拿铁端起置于窗边，镜头缓慢拉远收尾，�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -948,7 +918,6 @@ Shot 5：中景，流心蛋糕与冰淇淋同框，镜头缓慢拉远收尾，�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -973,7 +942,6 @@ Shot 5：中近景，烤好的肉串码盘端起，镜头缓慢拉远收尾，�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -998,7 +966,6 @@ Kendala umum: Tetap tanpa teks; Jangan menghasilkan Logo; Jangan menghasilkan wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1023,7 +990,6 @@ Kendala umum: Tetap tanpa teks; Jangan menghasilkan Logo; Jangan menghasilkan wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1048,7 +1014,6 @@ Kendala umum: Tetap tanpa teks; Jangan menghasilkan Logo; Jangan menghasilkan wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1077,7 +1042,6 @@ Kendala umum: Tetap tanpa teks; Jangan menghasilkan Logo; Jangan menghasilkan wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1102,7 +1066,6 @@ Kendala umum: Tetap tanpa teks; Jangan menghasilkan Logo; Jangan menghasilkan wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1127,7 +1090,6 @@ Kendala umum: Tetap tanpa teks; Jangan menghasilkan Logo; Jangan menghasilkan wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1152,7 +1114,6 @@ Kendala Umum: Tetap tanpa teks; jangan buat Logo; jangan buat watermark; setiap 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1177,7 +1138,6 @@ Kendala Umum: Tetap tanpa teks; jangan buat Logo; jangan buat watermark; setiap 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1202,7 +1162,6 @@ Kendala Umum: Tetap tanpa teks; jangan buat Logo; jangan buat watermark; setiap 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1231,7 +1190,6 @@ Kendala Umum: Tetap tanpa teks; jangan buat Logo; jangan buat watermark; setiap 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1256,7 +1214,6 @@ Kendala Umum: Tetap tanpa teks; jangan buat Logo; jangan buat watermark; setiap 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1281,7 +1238,6 @@ Kendala Umum: Tetap tanpa teks; jangan buat Logo; jangan buat watermark; setiap 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1306,7 +1262,6 @@ Kendala Umum: Pertahankan tanpa subtitle; Jangan hasilkan Logo; Jangan hasilkan 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1331,7 +1286,6 @@ Kendala Umum: Pertahankan tanpa subtitle; Jangan hasilkan Logo; Jangan hasilkan 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1356,7 +1310,6 @@ Kendala Umum: Pertahankan tanpa subtitle; Jangan hasilkan Logo; Jangan hasilkan 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1385,7 +1338,6 @@ Kendala Umum: Pertahankan tanpa subtitle; Jangan hasilkan Logo; Jangan hasilkan 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1410,7 +1362,6 @@ Kendala Umum: Pertahankan tanpa subtitle; Jangan hasilkan Logo; Jangan hasilkan 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1435,7 +1386,6 @@ Kendala Umum: Pertahankan tanpa subtitle; Jangan hasilkan Logo; Jangan hasilkan 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1460,7 +1410,6 @@ Kendala umum: Tetap tanpa teks; jangan hasilkan Logo; jangan hasilkan watermark;
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1489,7 +1438,6 @@ Kendala umum: Tetap tanpa teks; jangan hasilkan Logo; jangan hasilkan watermark;
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1514,7 +1462,6 @@ Kendala umum: Tetap tanpa teks; jangan hasilkan Logo; jangan hasilkan watermark;
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1539,7 +1486,6 @@ Kendala umum: Tetap tanpa teks; jangan hasilkan Logo; jangan hasilkan watermark;
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1564,7 +1510,6 @@ Kendala umum: Tetap tanpa teks; jangan hasilkan Logo; jangan hasilkan watermark;
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1593,7 +1538,6 @@ Kendala umum: Tetap tanpa teks; jangan hasilkan Logo; jangan hasilkan watermark;
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1618,7 +1562,6 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1643,7 +1586,6 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1668,7 +1610,6 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1693,7 +1634,6 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1718,7 +1658,6 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1747,7 +1686,6 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1771,7 +1709,6 @@ Kendala umum: Tetap tanpa subtitle; jangan buat Logo; jangan buat watermark; set
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1796,7 +1733,6 @@ Kendala umum: Tetap tanpa subtitle; jangan buat Logo; jangan buat watermark; set
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1821,7 +1757,6 @@ Kendala umum: Tetap tanpa subtitle; jangan buat Logo; jangan buat watermark; set
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1846,7 +1781,6 @@ Kendala umum: Tetap tanpa subtitle; jangan buat Logo; jangan buat watermark; set
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1871,7 +1805,6 @@ Kendala umum: Tetap tanpa subtitle; jangan buat Logo; jangan buat watermark; set
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1896,7 +1829,6 @@ Kendala umum: Tetap tanpa subtitle; jangan buat Logo; jangan buat watermark; set
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1921,7 +1853,6 @@ Kendala Umum: Tetap tanpa teks; jangan hasilkan Logo; jangan hasilkan watermark;
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1950,7 +1881,6 @@ Kendala Umum: Tetap tanpa teks; jangan hasilkan Logo; jangan hasilkan watermark;
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1975,7 +1905,6 @@ Kendala Umum: Tetap tanpa teks; jangan hasilkan Logo; jangan hasilkan watermark;
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2000,7 +1929,6 @@ Kendala Umum: Tetap tanpa teks; jangan hasilkan Logo; jangan hasilkan watermark;
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2025,7 +1953,6 @@ Kendala Umum: Tetap tanpa teks; jangan hasilkan Logo; jangan hasilkan watermark;
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2050,7 +1977,6 @@ Kendala Umum: Tetap tanpa teks; jangan hasilkan Logo; jangan hasilkan watermark;
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2075,7 +2001,6 @@ Kendala umum: Tetap tanpa teks; jangan hasilkan Logo; jangan hasilkan watermark;
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2104,7 +2029,6 @@ Kendala umum: Tetap tanpa teks; jangan hasilkan Logo; jangan hasilkan watermark;
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2129,7 +2053,6 @@ Kendala umum: Tetap tanpa teks; jangan hasilkan Logo; jangan hasilkan watermark;
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2154,7 +2077,6 @@ Kendala umum: Tetap tanpa teks; jangan hasilkan Logo; jangan hasilkan watermark;
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2179,7 +2101,6 @@ Kendala umum: Tetap tanpa teks; jangan hasilkan Logo; jangan hasilkan watermark;
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2204,7 +2125,6 @@ Kendala umum: Tetap tanpa teks; jangan hasilkan Logo; jangan hasilkan watermark;
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2229,7 +2149,6 @@ Shot 5：镜头缓慢升空俯瞰驼队没入无垠金色沙海定格，暖金�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2258,7 +2177,6 @@ Shot 5：镜头顺势升高俯拍整条美食长街灯火通明定格，人潮�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2283,7 +2201,6 @@ Shot 5：全景，猫咪@Image 1 蜷成一团闭眼睡去，镜头缓慢升起�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2308,7 +2225,6 @@ Shot 5：全景，狗狗@Image 1 冲向镜头前急停坐下咧嘴喘气，镜�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2333,7 +2249,6 @@ Shot 5：特写，小丑鱼@Image 1 独自游回海葵停驻，镜头缓慢拉�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2358,7 +2273,6 @@ Shot 5：全景，蜂鸟@Image 1 骤然弹射飞离画面，镜头缓慢拉远�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2387,7 +2301,6 @@ Kendala umum: Pertahankan tanpa subtitle; Jangan hasilkan Logo; Jangan hasilkan 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2412,7 +2325,6 @@ Kendala umum: Pertahankan tanpa subtitle; Jangan hasilkan Logo; Jangan hasilkan 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2437,7 +2349,6 @@ Kendala umum: Pertahankan tanpa subtitle; Jangan hasilkan Logo; Jangan hasilkan 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2462,7 +2373,6 @@ Kendala umum: Pertahankan tanpa subtitle; Jangan hasilkan Logo; Jangan hasilkan 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2487,7 +2397,6 @@ Kendala umum: Pertahankan tanpa subtitle; Jangan hasilkan Logo; Jangan hasilkan 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2516,7 +2425,6 @@ Kendala umum: Pertahankan tanpa subtitle; Jangan hasilkan Logo; Jangan hasilkan 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2540,7 +2448,6 @@ Kendala umum: Tetap tanpa subtitle; Jangan hasilkan Logo; Jangan hasilkan waterm
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2565,7 +2472,6 @@ Kendala umum: Tetap tanpa subtitle; Jangan hasilkan Logo; Jangan hasilkan waterm
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2590,7 +2496,6 @@ Kendala umum: Tetap tanpa subtitle; Jangan hasilkan Logo; Jangan hasilkan waterm
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2615,7 +2520,6 @@ Kendala umum: Tetap tanpa subtitle; Jangan hasilkan Logo; Jangan hasilkan waterm
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2644,7 +2548,6 @@ Kendala umum: Tetap tanpa subtitle; Jangan hasilkan Logo; Jangan hasilkan waterm
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2669,7 +2572,6 @@ Kendala umum: Tetap tanpa subtitle; Jangan hasilkan Logo; Jangan hasilkan waterm
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2694,7 +2596,6 @@ Kendala umum: Tetap tanpa teks; Jangan hasilkan Logo; Jangan hasilkan watermark;
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2719,7 +2620,6 @@ Kendala umum: Tetap tanpa teks; Jangan hasilkan Logo; Jangan hasilkan watermark;
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2748,7 +2648,6 @@ Kendala umum: Tetap tanpa teks; Jangan hasilkan Logo; Jangan hasilkan watermark;
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2773,7 +2672,6 @@ Kendala umum: Tetap tanpa teks; Jangan hasilkan Logo; Jangan hasilkan watermark;
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2798,7 +2696,6 @@ Kendala umum: Tetap tanpa teks; Jangan hasilkan Logo; Jangan hasilkan watermark;
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2823,7 +2720,6 @@ Kendala umum: Tetap tanpa teks; Jangan hasilkan Logo; Jangan hasilkan watermark;
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2851,7 +2747,6 @@ Kendala: Siluet orang dan jalan raya pantai sesuai Gambar 1; warna emas-oranye c
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2875,7 +2770,6 @@ Kendala: Orang dan ruang bergaya industri sesuai Gambar 1; warna cahaya neon bir
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2899,7 +2793,6 @@ Kendala: Orang dan piano sesuai Gambar 1; warna cahaya sorot emas hangat latar g
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2923,7 +2816,6 @@ Kendala: Dua penari dan arena bawah tanah sesuai Gambar 1; cahaya campuran hanga
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2951,7 +2843,6 @@ Kendala: Orang dan panggung stadion sesuai Gambar 1; lampu sorot warna-warni dan
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2976,7 +2867,6 @@ Kendala: Setiap orang sesuai gambar terkait, dilarang penampilan kembar identik,
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -3002,7 +2892,6 @@ Kendala Umum: Tetap tanpa teks; Jangan hasilkan Logo; Jangan hasilkan watermark;
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -3028,7 +2917,6 @@ Kendala Umum: Tetap tanpa teks; Jangan hasilkan Logo; Jangan hasilkan watermark;
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -3054,7 +2942,6 @@ Kendala Umum: Tetap tanpa teks; Jangan hasilkan Logo; Jangan hasilkan watermark;
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -3084,7 +2971,6 @@ Kendala Umum: Tetap tanpa teks; Jangan hasilkan Logo; Jangan hasilkan watermark;
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -3110,7 +2996,6 @@ Kendala Umum: Tetap tanpa teks; Jangan hasilkan Logo; Jangan hasilkan watermark;
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -3136,7 +3021,6 @@ Kendala Umum: Tetap tanpa teks; Jangan hasilkan Logo; Jangan hasilkan watermark;
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -3162,7 +3046,6 @@ Kendala umum: Tetap tanpa teks; Jangan menghasilkan Logo; Jangan menghasilkan wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -3192,7 +3075,6 @@ Kendala umum: Tetap tanpa teks; Jangan menghasilkan Logo; Jangan menghasilkan wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -3218,7 +3100,6 @@ Kendala umum: Tetap tanpa teks; Jangan menghasilkan Logo; Jangan menghasilkan wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `id`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -3260,4 +3141,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-07-23T06:22:46.651Z
+> This README is auto-generated. 2026-07-23T07:29:31.222Z

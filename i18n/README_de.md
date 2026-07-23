@@ -88,7 +88,7 @@ Seedance 2.5 is a major upgrade to Seedance 2.0 with three big gains: 30-second 
 | Total Prompts | **111** |
 | Categories | **27** |
 | Preview Videos | **11** |
-| Last Updated | **2026-07-23T06:22:46.640Z** |
+| Last Updated | **2026-07-23T07:29:31.171Z** |
 
 ## 🏷️ Browse by Category
 
@@ -131,7 +131,6 @@ Seedance 2.5 is a major upgrade to Seedance 2.0 with three big gains: 30-second 
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group1-1.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group1-1.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
@@ -152,7 +151,6 @@ Ein rasanter, cinematischer Match-Cut-Kurzfilm, synchron zu einem treibenden Ele
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group2-2.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group2-2.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
@@ -173,7 +171,6 @@ Eine hochwertige, tief cinematische 30-sekündige 3D-Motion-Graphics-Sequenz in 
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -202,7 +199,6 @@ Ein cinematischer Marken-Konzept-Kurzfilm. @image1 ist das erste Bild; das Bild 
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -234,7 +230,6 @@ Eine einzige durchgehende Einstellung. Die Kamera folgt geschmeidig einer Person
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-output.mov)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-output.mov" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -259,7 +254,6 @@ Videobearbeitung: Entferne in @video1 alle Personen außer der Hauptfigur.
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -284,7 +278,6 @@ Cinematisches Hip-Hop-/Rap-Musikvideo, fotorealistische Qualität, hochwertiger 
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-output.mov)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-output.mov" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -314,7 +307,6 @@ Ein 30-sekündiges Tutorial-Video zum Einrichten und Verwenden einer Kapsel-Kaff
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -351,7 +343,6 @@ Ein heller, farbenfroher Werbestil mit Frucht-Keksen als Hauptdarsteller, in vie
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group1-1.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group1-1.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
@@ -376,7 +367,6 @@ Ein rasanter, cinematischer Match-Cut-Kurzfilm, synchron zu einem treibenden Ele
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group2-2.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group2-2.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
@@ -401,7 +391,6 @@ Eine hochwertige, tief cinematische 30-sekündige 3D-Motion-Graphics-Sequenz in 
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -430,7 +419,6 @@ Ein cinematischer Marken-Konzept-Kurzfilm. @image1 ist das erste Bild; das Bild 
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -462,7 +450,6 @@ Eine einzige durchgehende Einstellung. Die Kamera folgt geschmeidig einer Person
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -491,7 +478,6 @@ Cinematisches Hip-Hop-/Rap-Musikvideo, fotorealistische Qualität, hochwertiger 
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-output.mov)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-output.mov" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -516,7 +502,6 @@ Videobearbeitung: Entferne in @video1 alle Personen außer der Hauptfigur.
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group2-output.mov)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group2-output.mov" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -545,7 +530,6 @@ Hyperrealer, cinematisch-realistischer Stil mit fotorealistischer Live-Action-Te
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-output.mov)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-output.mov" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -579,7 +563,6 @@ Ein 30-sekündiges Tutorial-Video zum Einrichten und Verwenden einer Kapsel-Kaff
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -614,7 +597,6 @@ Ein heller, farbenfroher Werbestil mit Frucht-Keksen als Hauptdarsteller, in vie
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab3-group1-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab3-group1-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -643,7 +625,6 @@ Ein 3D-Animations-Werbestil, helle und lichtdurchlässige Farben; Fruchtfleisch 
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab3-group2-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab3-group2-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -669,7 +650,6 @@ Ein ca. 30-sekündiger schwarzhumoriger, cinematischer Kurzfilm: ein rundlicher,
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -694,7 +674,6 @@ Shot 5: Halbnah, Model @Image 1 lächelt in einer Endpose, die Kamera zoomt lang
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -719,7 +698,6 @@ Shot 5: Großaufnahme, die Kamera zoomt langsam heraus und fokussiert auf die ge
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -744,7 +722,6 @@ Shot 5: Halbtotale, das Schloss wird geschlossen und die Tasche kehrt in ihre Po
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -769,7 +746,6 @@ Shot 5: Großaufnahme, die Kamera zoomt langsam heraus und fokussiert auf das Fe
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -794,7 +770,6 @@ Shot 5: Halbnah, das fertige Smoothie und das Gerät sind zusammen im Bild, die 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -819,7 +794,6 @@ Shot 5: Halbnah, die Flasche und ein weiches Kuscheltier sind zusammen im Bild f
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -844,7 +818,6 @@ Allgemeine Einschränkungen: Ohne Untertitel belassen; Kein Logo generieren; Kei
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -873,7 +846,6 @@ Allgemeine Einschränkungen: Ohne Untertitel belassen; Kein Logo generieren; Kei
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -898,7 +870,6 @@ Allgemeine Einschränkungen: Ohne Untertitel belassen; Kein Logo generieren; Kei
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -923,7 +894,6 @@ Allgemeine Einschränkungen: Ohne Untertitel belassen; Kein Logo generieren; Kei
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -948,7 +918,6 @@ Allgemeine Einschränkungen: Ohne Untertitel belassen; Kein Logo generieren; Kei
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -973,7 +942,6 @@ Allgemeine Einschränkungen: Ohne Untertitel belassen; Kein Logo generieren; Kei
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -998,7 +966,6 @@ Shot 5: Totale, die komplette Sashimi-Platte ist zentriert eingefroren, die Kame
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1023,7 +990,6 @@ Shot 5: Halbtotale, eine Hand hält das fertige Getränk und schüttelt es leich
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1048,7 +1014,6 @@ Shot 5: Halbtotale, Frühlingszwiebeln werden gestreut und Rindfleisch als Toppi
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1077,7 +1042,6 @@ Shot 5: Derselbe lange Take zoomt nahtlos langsam heraus, friert das gemütliche
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1102,7 +1066,6 @@ Shot 5: Halbtotale, Model hält den Lippenstift @Image 1 und friert vor dem Spie
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1127,7 +1090,6 @@ Shot 5: Halbtotale, Model hält die Foundation-Flasche @Image 1 und lächelt ein
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1152,7 +1114,6 @@ Shot 5: Halbtotale, das Parfümflakon @Image 1 kommt auf der Steinbank zur Ruhe 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1177,7 +1138,6 @@ Shot 5: Halbtotale, das Serumfläschchen @Image 1 steht vor einem Wasserlicht-Hi
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1202,7 +1162,6 @@ Shot 5: Totale, Model @Image 1 bleibt in der Straßenmitte stehen, breitet die A
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1231,7 +1190,6 @@ Shot 5: Amerikanische, Model @Image 1 dreht sich um, blickt zurück und friert e
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1256,7 +1214,6 @@ Shot 5: Halbtotale, Smartphone @Image 1 schwebt rotierend eingefroren, Kamera f�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1281,7 +1238,6 @@ Shot 5: Halbtotale, Kopfhörer und Ladecase @Image 1 nebeneinander eingefroren, 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1306,7 +1262,6 @@ Allgemeine Einschränkungen: Ohne Untertitel belassen; Kein Logo generieren; Kei
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1331,7 +1286,6 @@ Allgemeine Einschränkungen: Ohne Untertitel belassen; Kein Logo generieren; Kei
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1356,7 +1310,6 @@ Allgemeine Einschränkungen: Ohne Untertitel belassen; Kein Logo generieren; Kei
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1385,7 +1338,6 @@ Allgemeine Einschränkungen: Ohne Untertitel belassen; Kein Logo generieren; Kei
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1410,7 +1362,6 @@ Allgemeine Einschränkungen: Ohne Untertitel belassen; Kein Logo generieren; Kei
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1435,7 +1386,6 @@ Allgemeine Einschränkungen: Ohne Untertitel belassen; Kein Logo generieren; Kei
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1459,7 +1409,6 @@ Einschränkungen: Fahrzeugtyp und Lackierung wie in Bild 1; Off-Road-Dynamik mus
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1487,7 +1436,6 @@ Einschränkungen: Materialien und Farbgebung wie in Bild 1, nicht ändern; Keine
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1511,7 +1459,6 @@ Einschränkungen: Keine Personen im gesamten Video; Einrichtungsstil einheitlich
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1535,7 +1482,6 @@ Einschränkungen: Keine Personen im gesamten Video; Arbeitsplatte durchgehend sa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1559,7 +1505,6 @@ Einschränkungen: Durchgehend als Darstellungsmodell, keine realen Aufnahmen, mu
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1587,7 +1532,6 @@ Einschränkungen: Keine Personen im gesamten Video; Beleuchtung bleibt durchgehe
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1612,7 +1556,6 @@ Shot 5: Langsames Herauszoomen, Moderator @Image 1 nickt zum Abschluss und winkt
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1637,7 +1580,6 @@ Shot 5: Langsames Herauszoomen, Moderator @Image 1 legt die Hände übereinander
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1662,7 +1604,6 @@ Shot 5: Langsames Heranzoomen, Moderator @Image 2 zeigt den Daumen hoch zum absc
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1687,7 +1628,6 @@ Shot 5: Langsames Herauszoomen, Moderator @Image 3 nimmt die Kopfhörer ab, senk
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1712,7 +1652,6 @@ Shot 5: Langsames Herauszoomen, Dozent @Image 1 breitet die Hände aus, lächelt
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1741,7 +1680,6 @@ Shot 5: Langsames Herauszoomen, Digital Human @Image 1 lächelt und nickt zum Ab
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1765,7 +1703,6 @@ General constraints: Keep without subtitles; do not generate Logo; do not genera
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1790,7 +1727,6 @@ General constraints: Keep without subtitles; do not generate Logo; do not genera
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1815,7 +1751,6 @@ General constraints: Keep without subtitles; do not generate Logo; do not genera
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1840,7 +1775,6 @@ General constraints: Keep without subtitles; do not generate Logo; do not genera
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1865,7 +1799,6 @@ General constraints: Keep without subtitles; do not generate Logo; do not genera
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1890,7 +1823,6 @@ General constraints: Keep without subtitles; do not generate Logo; do not genera
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1915,7 +1847,6 @@ General constraints: Keep without subtitles; do not generate Logo; do not genera
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1944,7 +1875,6 @@ General constraints: Keep without subtitles; do not generate Logo; do not genera
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1969,7 +1899,6 @@ General constraints: Keep without subtitles; do not generate Logo; do not genera
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1994,7 +1923,6 @@ General constraints: Keep without subtitles; do not generate Logo; do not genera
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2019,7 +1947,6 @@ General constraints: Keep without subtitles; do not generate Logo; do not genera
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2044,7 +1971,6 @@ General constraints: Keep without subtitles; do not generate Logo; do not genera
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2068,7 +1994,6 @@ Constraints: Durchgehend hohe Sättigung, heller Sommerton; Getränkedose gemä�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2096,7 +2021,6 @@ Constraints: Durchgehend cremefarbenes, extrem weiches Licht; verschwommener, tr
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2120,7 +2044,6 @@ Constraints: Durchgehend eine Einstellung (One-Shot) ohne Schnitt; Tusche-Grau-N
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2144,7 +2067,6 @@ Constraints: Durchgehend durchsichtiger, hochgesättigter Tropenton; türkisblau
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2168,7 +2090,6 @@ Constraints: Durchgehend kühler Schneeweiß-Blauton mit hohem Kontrast; monumen
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2192,7 +2113,6 @@ Constraints: Durchgehend Cyberpunk-Neon-hochgesättigt; feuchte, reflektierende 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2217,7 +2137,6 @@ Shot 5：镜头缓慢升空俯瞰驼队没入无垠金色沙海定格，暖金�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2246,7 +2165,6 @@ Shot 5：镜头顺势升高俯拍整条美食长街灯火通明定格，人潮�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2271,7 +2189,6 @@ Shot 5：全景，猫咪@Image 1 蜷成一团闭眼睡去，镜头缓慢升起�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2296,7 +2213,6 @@ Shot 5：全景，狗狗@Image 1 冲向镜头前急停坐下咧嘴喘气，镜�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2321,7 +2237,6 @@ Shot 5：特写，小丑鱼@Image 1 独自游回海葵停驻，镜头缓慢拉�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2346,7 +2261,6 @@ Shot 5：全景，蜂鸟@Image 1 骤然弹射飞离画面，镜头缓慢拉远�
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2375,7 +2289,6 @@ Allgemeine Einschränkungen: Keine Untertitel; Kein Logo generieren; Kein Wasser
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2400,7 +2313,6 @@ Allgemeine Einschränkungen: Keine Untertitel; Kein Logo generieren; Kein Wasser
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2425,7 +2337,6 @@ Allgemeine Einschränkungen: Keine Untertitel; Kein Logo generieren; Kein Wasser
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2450,7 +2361,6 @@ Allgemeine Einschränkungen: Keine Untertitel; Kein Logo generieren; Kein Wasser
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2475,7 +2385,6 @@ Allgemeine Einschränkungen: Keine Untertitel; Kein Logo generieren; Kein Wasser
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2504,7 +2413,6 @@ Allgemeine Einschränkungen: Keine Untertitel; Kein Logo generieren; Kein Wasser
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2528,7 +2436,6 @@ Allgemeine Einschränkungen: Keine Untertitel; Kein Logo generieren; Kein Wasser
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2553,7 +2460,6 @@ Allgemeine Einschränkungen: Keine Untertitel; Kein Logo generieren; Kein Wasser
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2578,7 +2484,6 @@ Allgemeine Einschränkungen: Keine Untertitel; Kein Logo generieren; Kein Wasser
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2603,7 +2508,6 @@ Allgemeine Einschränkungen: Keine Untertitel; Kein Logo generieren; Kein Wasser
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2632,7 +2536,6 @@ Allgemeine Einschränkungen: Keine Untertitel; Kein Logo generieren; Kein Wasser
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2657,7 +2560,6 @@ Allgemeine Einschränkungen: Keine Untertitel; Kein Logo generieren; Kein Wasser
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2682,7 +2584,6 @@ Allgemeine Einschränkungen: Keine Untertitel; Kein Logo generieren; Kein Wasser
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2707,7 +2608,6 @@ Allgemeine Einschränkungen: Keine Untertitel; Kein Logo generieren; Kein Wasser
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2736,7 +2636,6 @@ Allgemeine Einschränkungen: Keine Untertitel; Kein Logo generieren; Kein Wasser
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2761,7 +2660,6 @@ Allgemeine Einschränkungen: Keine Untertitel; Kein Logo generieren; Kein Wasser
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2786,7 +2684,6 @@ Allgemeine Einschränkungen: Keine Untertitel; Kein Logo generieren; Kein Wasser
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2811,7 +2708,6 @@ Allgemeine Einschränkungen: Keine Untertitel; Kein Logo generieren; Kein Wasser
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2840,7 +2736,6 @@ Shot 5: Weit, Läufer-Silhouette erreicht Hügelkamm, breitet Arme aus und umarm
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2865,7 +2760,6 @@ Shot 5: Totale, Pose einfrieren, Neon-Licht blinkt und beleuchtet die gesamte Ko
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2890,7 +2784,6 @@ Shot 5: Extreme Nahaufnahme, letzte Taste wird gedrückt, Finger verharren, Nach
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2915,7 +2808,6 @@ Shot 5: Totale, beide frieren gleichzeitig in einer Konfrontationspose ein, Zusc
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2944,7 +2836,6 @@ Shot 5: Totale, Feuerwerk und Laser brechen gleichzeitig aus, Sänger hebt das M
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2970,7 +2861,6 @@ Shot 6: Langsames Herauszoomen, ganze Familie steht vor der Tür, Gläser erhobe
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2996,7 +2886,6 @@ General constraints: Keine Untertitel; kein Logo generieren; kein Wasserzeichen 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -3022,7 +2911,6 @@ General constraints: Keine Untertitel; kein Logo generieren; kein Wasserzeichen 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -3048,7 +2936,6 @@ General constraints: Keine Untertitel; kein Logo generieren; kein Wasserzeichen 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -3078,7 +2965,6 @@ General constraints: Keine Untertitel; kein Logo generieren; kein Wasserzeichen 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -3104,7 +2990,6 @@ General constraints: Keine Untertitel; kein Logo generieren; kein Wasserzeichen 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -3130,7 +3015,6 @@ General constraints: Keine Untertitel; kein Logo generieren; kein Wasserzeichen 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -3156,7 +3040,6 @@ General Constraint: Ohne Untertitel halten; kein Logo generieren; kein Wasserzei
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -3186,7 +3069,6 @@ General Constraint: Ohne Untertitel halten; kein Logo generieren; kein Wasserzei
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -3212,7 +3094,6 @@ General Constraint: Ohne Untertitel halten; kein Logo generieren; kein Wasserzei
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `de`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -3254,4 +3135,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-07-23T06:22:46.640Z
+> This README is auto-generated. 2026-07-23T07:29:31.171Z
