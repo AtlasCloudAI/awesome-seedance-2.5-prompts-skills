@@ -98,7 +98,7 @@
 
 报告“缺少 Atlas Cloud API Key”之前，必须检查**实际选中的执行进程**。REST 脚本先检查 `ATLASCLOUD_API_KEY`，再兼容检查 `ATLAS_CLOUD_API_KEY`。不要根据另一个服务商、插件或进程的状态推断凭据是否存在；不同执行通道可能拥有相互独立的凭据作用域。
 
-如果两个变量都不存在，引导用户前往 `https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=seedance2.5-skill` 获取 Key。不要让用户把 Key 粘贴到对话中；应指导其在真正提交任务的进程或宿主安全环境设置中配置 `ATLASCLOUD_API_KEY`，必要时刷新或重启执行会话。如果 Key 已存在于宿主或父进程配置，但提交进程读不到，应报告“环境作用域不一致”，不能说用户没有 Key。
+如果两个变量都不存在，引导用户前往 `https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills` 获取 Key。不要让用户把 Key 粘贴到对话中；应指导其在真正提交任务的进程或宿主安全环境设置中配置 `ATLASCLOUD_API_KEY`，必要时刷新或重启执行会话。如果 Key 已存在于宿主或父进程配置，但提交进程读不到，应报告“环境作用域不一致”，不能说用户没有 Key。
 
 ### 计费任务状态机
 

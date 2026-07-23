@@ -6,7 +6,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/pulls)
 [![Prompts](https://img.shields.io/badge/prompts-111%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
-一个经过整理的 Seedance 2.5 视频提示词库，以及可安装的 **Seedance 2.5 Skill**。这个 Agent Skill 会根据需求选择 T2V、R2V、I2V 或延展路线，使用 Seedream 5.0 Pro 生成分镜参考图，当前默认用 Seedance 2.0 执行视频生成；只有当所选服务商实际提供 Seedance 2.5 时，才切换到 2.5。
+一个经过整理的 Seedance 2.5 视频提示词库，以及可安装的 **Seedance 2.5 Skill**。这个 Agent Skill 可以优化提示词、按需规划并检查 Storyboard，并生成可控视频。Storyboard 图片默认使用 Seedream 5.0 Pro，当前视频生成默认使用 Seedance 2.0；只有当所选服务商实际提供 Seedance 2.5 时，才切换到 2.5。
 
 | [浏览提示词](https://www.atlascloud.ai/prompts-hub/seedance-2-5-prompt?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills&locale=zh-CN) | [安装 Seedance 2.5 Skill](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/tree/main/skills/seedance-2-5-skill) | [在 Atlas Cloud 生成](https://www.atlascloud.ai/zh/models/bytedance/seedance-2.5/text-to-video?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills) | [获取 API Key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills) |
 |---|---|---|---|
@@ -38,7 +38,7 @@
 
 ## 🧠 Seedance 2.5 Skill
 
-**Seedance 2.5 Skill** 是本仓库内可安装 Agent Skill 的正式名称。它会把创意需求、参考素材或 Storyboard 转换成合适的生成路线、提示词、中间素材、执行请求和质量复查流程。
+**Seedance 2.5 Skill** 是本仓库内可安装 Agent Skill 的正式名称。它会把创意需求、已有提示词、参考素材或 Storyboard 转换成可以直接生产的提示词、必要的中间素材、执行请求和质量复查流程。
 
 ### 安装
 
@@ -51,13 +51,9 @@ npx skills add AtlasCloudAI/atlas-cloud-skills --skill atlas-cloud
 
 ### 它会做什么
 
-| 路线 | 适用场景 | 主要输入 | 生成单位 |
-|---|---|---|---|
-| T2V | 一个简单、独立的短场景 | 文本提示词 | 一个完整镜头 |
-| R2V Storyboard | 包含多个可读分镜的故事板 | 一张完整 Storyboard 图片 | 一次请求按分镜顺序生成 |
-| R2V 素材参考 | 人物、产品、物体、场景或风格需要保持一致 | 少量、职责明确的参考素材 | 一个受参考素材约束的片段 |
-| I2V 首尾帧 | 镜头的准确起点和终点很重要 | 首帧，按需增加尾帧 | 一个可独立复查的镜头 |
-| 延展 / 串联 | 需要从已接受的视频继续生成更长内容 | 上一段视频或尾帧 | 保持连续性的延展片段 |
+- **优化提示词：** 把一个创意、已有提示词或参考素材，整理成更清晰、可以直接用于生产的 Seedance 提示词。
+- **规划并检查 Storyboard：** 只有视频确实需要多镜头规划或更强视觉一致性时，才使用 Seedream 5.0 Pro 生成 Storyboard；生成后会展示中间图并自动检查质量。
+- **生成并复查视频：** 使用当前可用的最佳 Seedance 模型，通过所选 Atlas Cloud 通道提交任务，持续轮询同一个任务并检查最终结果。
 
 <details><summary>Skill 文件与参考资料</summary>
 
@@ -78,7 +74,7 @@ npx skills add AtlasCloudAI/atlas-cloud-skills --skill atlas-cloud
 
 1. **浏览：** 按分类查找提示词；有真实预览时先看预览，再复制提示词。
 2. **优化：** 让 Seedance 2.5 Skill 根据主体、时长、画幅、参考素材和连续性要求改写提示词。
-3. **生成：** 让 Skill 自动选择路线；需要 Storyboard 时先生成并展示中间图，由 Agent 自行检查质量，然后通过所选 Atlas 通道提交图片或视频任务。
+3. **生成：** 需要 Storyboard 时先生成并展示中间图，由 Agent 自行检查质量，然后通过所选 Atlas 通道提交图片或视频任务。
 
 <a id="model-and-execution-defaults"></a>
 
@@ -104,7 +100,7 @@ npx skills add AtlasCloudAI/atlas-cloud-skills --skill atlas-cloud
 
 公开的 Seedance 2.5 发布资料描述了最长 30 秒、原生 4K、最多 50 个多模态参考素材和局部区域编辑等能力。这些是已发布的能力信息，不应直接视为所有 API 都支持的固定参数。
 
-**可用性说明：** 不同服务商的模型开放状态、参考素材数量、时长、分辨率和编辑能力可能不同。Skill 会先核对所选路线，不会假定 Seedance 2.5 一定可调用。
+**可用性说明：** 不同服务商的模型开放状态、参考素材数量、时长、分辨率和编辑能力可能不同。Skill 会核对实际模型可用性，不会假定 Seedance 2.5 一定可调用。
 
 ### Skill 使用的提示词结构
 
@@ -113,7 +109,7 @@ npx skills add AtlasCloudAI/atlas-cloud-skills --skill atlas-cloud
 3. **空间关系：** 写清主体、物体与镜头之间的位置和相对关系。
 4. **镜头与剪辑：** 只在必要时指定景别、运镜、切镜顺序、动作匹配和遮挡转场。
 5. **视觉风格：** 定义光线、色彩、材质、氛围和节奏。
-6. **音频：** 当所选模型路线支持时，定义对白、环境声、音效或音乐。
+6. **音频：** 当所选模型支持时，定义对白、环境声、音效或音乐。
 7. **约束：** 只保留真正重要的人物身份、产品细节、场景特征和禁止项。
 
 ### 主要参考资料
@@ -137,7 +133,7 @@ npx skills add AtlasCloudAI/atlas-cloud-skills --skill atlas-cloud
 
 ### Seedance 2.5 Skill 是什么？
 
-它是 `skills/seedance-2-5-skill/` 中的可安装 Agent Skill，负责选择生成路线、准备必要素材、编写提示词、通过 Atlas Cloud 执行并复查结果。
+它是 `skills/seedance-2-5-skill/` 中的可安装 Agent Skill，负责优化提示词、准备必要的 Storyboard 或参考素材、通过 Atlas Cloud 执行并复查结果。
 
 ### 使用这个 Skill 必须已经开放 Seedance 2.5 吗？
 
@@ -145,7 +141,7 @@ npx skills add AtlasCloudAI/atlas-cloud-skills --skill atlas-cloud
 
 ### 每个视频都必须先生成 Storyboard 吗？
 
-不需要。简单场景可以直接 T2V。可读的多镜头 Storyboard 默认会作为一张完整图片提交给 R2V；只有明确切换成独立 I2V 镜头路线时才切格。
+不需要。只有 Storyboard 能明显改善多镜头规划、连续性或参考控制时，Skill 才会生成或使用它。
 
 ### 默认使用哪个 Atlas 执行通道？
 
@@ -153,7 +149,7 @@ Agent 会话默认使用 Atlas Cloud Skill。MCP、CLI 和 REST 只在用户明�
 
 ### 不安装 Skill，也能直接使用提示词吗？
 
-可以。你可以直接浏览和复制任意提示词；需要路线选择、提示词优化、Storyboard 处理、任务执行、轮询和自动复查时，再安装 Skill。
+可以。你可以直接浏览和复制任意提示词；需要提示词优化、Storyboard 处理、任务执行、轮询和自动复查时，再安装 Skill。
 
 <a id="statistics"></a>
 

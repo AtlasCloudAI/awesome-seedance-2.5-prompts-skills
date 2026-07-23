@@ -42,7 +42,7 @@ export function createAtlasRestExecutor({ config, root, log = console.log }) {
 
   if (!key) {
     throw new Error(
-      `no Atlas Cloud API key is visible in this process. Get one at https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=seedance2.5-skill and set ${apiKeyEnv}. `
+      `no Atlas Cloud API key is visible in this process. Get one at https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills and set ${apiKeyEnv}. `
       + "If it is already configured in a parent process or host application, refresh or restart the execution session so this process inherits it. Do not paste the key into chat.",
     );
   }

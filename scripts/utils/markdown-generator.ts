@@ -40,30 +40,9 @@ interface HomeCopy {
   install: string;
   installBoth: string;
   whatItDoes: string;
-  route: string;
-  bestFor: string;
-  input: string;
-  output: string;
-  routeT2V: string;
-  bestForT2V: string;
-  inputT2V: string;
-  outputT2V: string;
-  routeStoryboard: string;
-  bestForStoryboard: string;
-  inputStoryboard: string;
-  outputStoryboard: string;
-  routeAssets: string;
-  bestForAssets: string;
-  inputAssets: string;
-  outputAssets: string;
-  routeI2V: string;
-  bestForI2V: string;
-  inputI2V: string;
-  outputI2V: string;
-  routeExtend: string;
-  bestForExtend: string;
-  inputExtend: string;
-  outputExtend: string;
+  capabilityPrompt: string;
+  capabilityStoryboard: string;
+  capabilityGeneration: string;
   skillFiles: string;
   howToUse: string;
   browse: string;
@@ -110,44 +89,26 @@ interface HomeCopy {
 
 const homeCopyEn: HomeCopy = {
   hero:
-    "A curated library of Seedance 2.5 video prompts plus **Seedance 2.5 Skill**, an installable Agent Skill for planning, optimizing, and generating controllable video. The Skill chooses the right T2V, R2V, I2V, or extension route, uses Seedream 5.0 Pro for storyboards and Seedance 2.0 as the current executable default, and switches to Seedance 2.5 only when the selected provider exposes it.",
+    "A curated library of Seedance 2.5 video prompts plus **Seedance 2.5 Skill**, an installable Agent Skill that improves prompts, plans and reviews storyboards when needed, and generates controllable video. It uses Seedream 5.0 Pro for storyboard images and Seedance 2.0 as the current executable video default, switching to Seedance 2.5 only when the selected provider exposes it.",
   languages: "Languages",
   contents: "Contents",
   skillDescription:
-    "**Seedance 2.5 Skill** is the name of the installable Agent Skill in this repository. It turns a creative brief, references, or a storyboard into the right generation route, prompt, intermediate assets, execution request, and review loop.",
+    "**Seedance 2.5 Skill** is the name of the installable Agent Skill in this repository. It turns a creative brief, existing prompt, references, or a storyboard into a production-ready prompt, the necessary intermediate assets, an execution request, and a review loop.",
   install: "Install",
   installBoth: "Install the workflow Skill and its default Atlas Cloud execution Skill:",
   whatItDoes: "What it does",
-  route: "Route",
-  bestFor: "Use when",
-  input: "Primary input",
-  output: "Generation unit",
-  routeT2V: "T2V",
-  bestForT2V: "One short, simple scene",
-  inputT2V: "Text prompt",
-  outputT2V: "One self-contained shot",
-  routeStoryboard: "R2V storyboard",
-  bestForStoryboard: "A readable multi-shot storyboard",
-  inputStoryboard: "One complete storyboard image",
-  outputStoryboard: "One request follows the panel order",
-  routeAssets: "R2V asset references",
-  bestForAssets: "People, products, objects, scenes, or styles must stay consistent",
-  inputAssets: "A small role-specific asset pack",
-  outputAssets: "One reference-controlled clip",
-  routeI2V: "I2V shot pair",
-  bestForI2V: "The exact beginning and ending of a shot matter",
-  inputI2V: "Start keyframe, optional end keyframe",
-  outputI2V: "One independently reviewable shot",
-  routeExtend: "Extend / chain",
-  bestForExtend: "A longer sequence must continue an accepted clip",
-  inputExtend: "Prior clip or end frame",
-  outputExtend: "A continuity-aware extension",
+  capabilityPrompt:
+    "**Improve prompts:** turn an idea, an existing prompt, or reference assets into a clearer production-ready Seedance prompt.",
+  capabilityStoryboard:
+    "**Plan and review storyboards:** create a Seedream 5.0 Pro storyboard only when the video needs multi-shot planning or stronger visual consistency, display it as progress, and review its quality automatically.",
+  capabilityGeneration:
+    "**Generate and review video:** use the best available Seedance model, submit through the selected Atlas Cloud channel, poll the same task to completion, and check the result.",
   skillFiles: "Skill files and references",
   howToUse: "How to use this repository",
   browse: "**Browse:** filter by category, open a real preview when available, and copy the prompt.",
   adapt: "**Adapt:** ask Seedance 2.5 Skill to rewrite a prompt for your subject, duration, aspect ratio, references, and continuity needs.",
   generate:
-    "**Generate:** let the Skill choose the route, create and show intermediate storyboards when needed, review them automatically, and submit the final image or video request through the selected Atlas channel.",
+    "**Generate:** let the Skill create and show intermediate storyboards when needed, review them automatically, and submit the final image or video request through the selected Atlas channel.",
   execution: "Model and execution defaults",
   executionIntro:
     "The workflow Skill and the execution adapter are separate layers. The workflow decides what to make; the selected Atlas channel submits, polls, and retrieves the media.",
@@ -164,14 +125,14 @@ const homeCopyEn: HomeCopy = {
   capabilityIntro:
     "Published Seedance 2.5 launch material describes up to 30-second generation, native 4K output, up to 50 multimodal references, and local region editing. Treat these as announced capabilities, not universal API parameters.",
   availability:
-    "**Availability note:** provider availability, reference limits, duration, resolution, and editing controls can differ. The Skill verifies the selected route instead of assuming Seedance 2.5 is callable.",
+    "**Availability note:** provider availability, reference limits, duration, resolution, and editing controls can differ. The Skill verifies actual model availability instead of assuming Seedance 2.5 is callable.",
   promptStructure: "Prompt structure used by the Skill",
   referenceBinding: "**Reference binding:** state what each image, video, or audio reference controls.",
   observableAction: "**Observable action:** describe visible events in temporal order, including reactions and state changes.",
   spatialRelations: "**Spatial relationships:** say where subjects, objects, and the camera are in relation to each other.",
   cameraCuts: "**Camera and cuts:** specify framing, movement, cut order, match actions, and occlusions only where they matter.",
   visualStyle: "**Visual style:** define lighting, palette, texture, atmosphere, and pace.",
-  audio: "**Audio:** define dialogue, ambience, sound effects, or music when the selected model route supports them.",
+  audio: "**Audio:** define dialogue, ambience, sound effects, or music when the selected model supports them.",
   constraints: "**Constraints:** preserve only the identities, product details, scene traits, and exclusions that are essential.",
   sources: "Primary references",
   curation: "Curation and provenance",
@@ -184,19 +145,19 @@ const homeCopyEn: HomeCopy = {
   faq: "Frequently asked questions",
   faqSkillQuestion: "What is Seedance 2.5 Skill?",
   faqSkillAnswer:
-    "It is the installable Agent Skill in `skills/seedance-2-5-skill/`. It selects a generation route, prepares only the required assets, writes the prompt, executes through Atlas Cloud, and reviews the outputs.",
+    "It is the installable Agent Skill in `skills/seedance-2-5-skill/`. It improves prompts, prepares required storyboards or references, executes through Atlas Cloud, and reviews the outputs.",
   faqAvailabilityQuestion: "Does the Skill require public Seedance 2.5 access?",
   faqAvailabilityAnswer:
     "No. The current executable default is Seedance 2.0. The Skill uses Seedance 2.5 only when the selected provider actually exposes it.",
   faqStoryboardQuestion: "Does every video need a storyboard?",
   faqStoryboardAnswer:
-    "No. A simple scene can use T2V directly. A readable multi-shot storyboard is normally sent as one complete R2V reference; panels are cropped only when the route deliberately changes to independent I2V shots.",
+    "No. The Skill creates or uses a storyboard only when it materially improves multi-shot planning, continuity, or reference control.",
   faqExecutionQuestion: "Which Atlas route is used?",
   faqExecutionAnswer:
     "Atlas Cloud Skill is the default inside an Agent conversation. MCP, CLI, and REST are selected explicitly for their corresponding environments.",
   faqPromptQuestion: "Can I use the prompts without installing the Skill?",
   faqPromptAnswer:
-    "Yes. Browse and copy any prompt directly. Install the Skill when you want route selection, adaptation, storyboard handling, execution, polling, and automated review.",
+    "Yes. Browse and copy any prompt directly. Install the Skill when you want prompt adaptation, storyboard handling, execution, polling, and automated review.",
   resources: "Resources",
   development: "Repository development",
 };
@@ -204,44 +165,26 @@ const homeCopyEn: HomeCopy = {
 const homeCopyZh: HomeCopy = {
   ...homeCopyEn,
   hero:
-    "一个经过整理的 Seedance 2.5 视频提示词库，以及可安装的 **Seedance 2.5 Skill**。这个 Agent Skill 会根据需求选择 T2V、R2V、I2V 或延展路线，使用 Seedream 5.0 Pro 生成分镜参考图，当前默认用 Seedance 2.0 执行视频生成；只有当所选服务商实际提供 Seedance 2.5 时，才切换到 2.5。",
+    "一个经过整理的 Seedance 2.5 视频提示词库，以及可安装的 **Seedance 2.5 Skill**。这个 Agent Skill 可以优化提示词、按需规划并检查 Storyboard，并生成可控视频。Storyboard 图片默认使用 Seedream 5.0 Pro，当前视频生成默认使用 Seedance 2.0；只有当所选服务商实际提供 Seedance 2.5 时，才切换到 2.5。",
   languages: "语言",
   contents: "目录",
   skillDescription:
-    "**Seedance 2.5 Skill** 是本仓库内可安装 Agent Skill 的正式名称。它会把创意需求、参考素材或 Storyboard 转换成合适的生成路线、提示词、中间素材、执行请求和质量复查流程。",
+    "**Seedance 2.5 Skill** 是本仓库内可安装 Agent Skill 的正式名称。它会把创意需求、已有提示词、参考素材或 Storyboard 转换成可以直接生产的提示词、必要的中间素材、执行请求和质量复查流程。",
   install: "安装",
   installBoth: "安装工作流 Skill，以及默认用于执行生成的 Atlas Cloud Skill：",
   whatItDoes: "它会做什么",
-  route: "路线",
-  bestFor: "适用场景",
-  input: "主要输入",
-  output: "生成单位",
-  routeT2V: "T2V",
-  bestForT2V: "一个简单、独立的短场景",
-  inputT2V: "文本提示词",
-  outputT2V: "一个完整镜头",
-  routeStoryboard: "R2V Storyboard",
-  bestForStoryboard: "包含多个可读分镜的故事板",
-  inputStoryboard: "一张完整 Storyboard 图片",
-  outputStoryboard: "一次请求按分镜顺序生成",
-  routeAssets: "R2V 素材参考",
-  bestForAssets: "人物、产品、物体、场景或风格需要保持一致",
-  inputAssets: "少量、职责明确的参考素材",
-  outputAssets: "一个受参考素材约束的片段",
-  routeI2V: "I2V 首尾帧",
-  bestForI2V: "镜头的准确起点和终点很重要",
-  inputI2V: "首帧，按需增加尾帧",
-  outputI2V: "一个可独立复查的镜头",
-  routeExtend: "延展 / 串联",
-  bestForExtend: "需要从已接受的视频继续生成更长内容",
-  inputExtend: "上一段视频或尾帧",
-  outputExtend: "保持连续性的延展片段",
+  capabilityPrompt:
+    "**优化提示词：** 把一个创意、已有提示词或参考素材，整理成更清晰、可以直接用于生产的 Seedance 提示词。",
+  capabilityStoryboard:
+    "**规划并检查 Storyboard：** 只有视频确实需要多镜头规划或更强视觉一致性时，才使用 Seedream 5.0 Pro 生成 Storyboard；生成后会展示中间图并自动检查质量。",
+  capabilityGeneration:
+    "**生成并复查视频：** 使用当前可用的最佳 Seedance 模型，通过所选 Atlas Cloud 通道提交任务，持续轮询同一个任务并检查最终结果。",
   skillFiles: "Skill 文件与参考资料",
   howToUse: "如何使用这个仓库",
   browse: "**浏览：** 按分类查找提示词；有真实预览时先看预览，再复制提示词。",
   adapt: "**优化：** 让 Seedance 2.5 Skill 根据主体、时长、画幅、参考素材和连续性要求改写提示词。",
   generate:
-    "**生成：** 让 Skill 自动选择路线；需要 Storyboard 时先生成并展示中间图，由 Agent 自行检查质量，然后通过所选 Atlas 通道提交图片或视频任务。",
+    "**生成：** 需要 Storyboard 时先生成并展示中间图，由 Agent 自行检查质量，然后通过所选 Atlas 通道提交图片或视频任务。",
   execution: "默认模型与执行方式",
   executionIntro:
     "工作流 Skill 和执行适配层是两层：前者决定做什么、怎么做；Atlas 执行通道负责提交、轮询和取回图片或视频。",
@@ -258,14 +201,14 @@ const homeCopyZh: HomeCopy = {
   capabilityIntro:
     "公开的 Seedance 2.5 发布资料描述了最长 30 秒、原生 4K、最多 50 个多模态参考素材和局部区域编辑等能力。这些是已发布的能力信息，不应直接视为所有 API 都支持的固定参数。",
   availability:
-    "**可用性说明：** 不同服务商的模型开放状态、参考素材数量、时长、分辨率和编辑能力可能不同。Skill 会先核对所选路线，不会假定 Seedance 2.5 一定可调用。",
+    "**可用性说明：** 不同服务商的模型开放状态、参考素材数量、时长、分辨率和编辑能力可能不同。Skill 会核对实际模型可用性，不会假定 Seedance 2.5 一定可调用。",
   promptStructure: "Skill 使用的提示词结构",
   referenceBinding: "**参考绑定：** 明确每张图片、每段视频或音频分别控制什么。",
   observableAction: "**可观察动作：** 按时间顺序写清画面中真正发生的事件、反应和状态变化。",
   spatialRelations: "**空间关系：** 写清主体、物体与镜头之间的位置和相对关系。",
   cameraCuts: "**镜头与剪辑：** 只在必要时指定景别、运镜、切镜顺序、动作匹配和遮挡转场。",
   visualStyle: "**视觉风格：** 定义光线、色彩、材质、氛围和节奏。",
-  audio: "**音频：** 当所选模型路线支持时，定义对白、环境声、音效或音乐。",
+  audio: "**音频：** 当所选模型支持时，定义对白、环境声、音效或音乐。",
   constraints: "**约束：** 只保留真正重要的人物身份、产品细节、场景特征和禁止项。",
   sources: "主要参考资料",
   curation: "收录标准与来源说明",
@@ -278,19 +221,19 @@ const homeCopyZh: HomeCopy = {
   faq: "常见问题",
   faqSkillQuestion: "Seedance 2.5 Skill 是什么？",
   faqSkillAnswer:
-    "它是 `skills/seedance-2-5-skill/` 中的可安装 Agent Skill，负责选择生成路线、准备必要素材、编写提示词、通过 Atlas Cloud 执行并复查结果。",
+    "它是 `skills/seedance-2-5-skill/` 中的可安装 Agent Skill，负责优化提示词、准备必要的 Storyboard 或参考素材、通过 Atlas Cloud 执行并复查结果。",
   faqAvailabilityQuestion: "使用这个 Skill 必须已经开放 Seedance 2.5 吗？",
   faqAvailabilityAnswer:
     "不需要。当前可执行默认模型是 Seedance 2.0；只有所选服务商真实提供 Seedance 2.5 时，Skill 才会使用 2.5。",
   faqStoryboardQuestion: "每个视频都必须先生成 Storyboard 吗？",
   faqStoryboardAnswer:
-    "不需要。简单场景可以直接 T2V。可读的多镜头 Storyboard 默认会作为一张完整图片提交给 R2V；只有明确切换成独立 I2V 镜头路线时才切格。",
+    "不需要。只有 Storyboard 能明显改善多镜头规划、连续性或参考控制时，Skill 才会生成或使用它。",
   faqExecutionQuestion: "默认使用哪个 Atlas 执行通道？",
   faqExecutionAnswer:
     "Agent 会话默认使用 Atlas Cloud Skill。MCP、CLI 和 REST 只在用户明确选择相应环境时使用。",
   faqPromptQuestion: "不安装 Skill，也能直接使用提示词吗？",
   faqPromptAnswer:
-    "可以。你可以直接浏览和复制任意提示词；需要路线选择、提示词优化、Storyboard 处理、任务执行、轮询和自动复查时，再安装 Skill。",
+    "可以。你可以直接浏览和复制任意提示词；需要提示词优化、Storyboard 处理、任务执行、轮询和自动复查时，再安装 Skill。",
   resources: "相关资源",
   development: "仓库开发",
 };
@@ -298,44 +241,26 @@ const homeCopyZh: HomeCopy = {
 const homeCopyZhTw: HomeCopy = {
   ...homeCopyZh,
   hero:
-    "一個經過整理的 Seedance 2.5 影片提示詞庫，以及可安裝的 **Seedance 2.5 Skill**。這個 Agent Skill 會依需求選擇 T2V、R2V、I2V 或延展路線，使用 Seedream 5.0 Pro 生成分鏡參考圖，目前預設以 Seedance 2.0 執行影片生成；只有所選服務商實際提供 Seedance 2.5 時，才切換到 2.5。",
+    "一個經過整理的 Seedance 2.5 影片提示詞庫，以及可安裝的 **Seedance 2.5 Skill**。這個 Agent Skill 可以最佳化提示詞、視需要規劃並檢查 Storyboard，並生成可控影片。Storyboard 圖片預設使用 Seedream 5.0 Pro，目前影片生成預設使用 Seedance 2.0；只有所選服務商實際提供 Seedance 2.5 時，才切換到 2.5。",
   languages: "語言",
   contents: "目錄",
   skillDescription:
-    "**Seedance 2.5 Skill** 是本倉庫內可安裝 Agent Skill 的正式名稱。它會把創意需求、參考素材或 Storyboard 轉換成合適的生成路線、提示詞、中間素材、執行請求和品質複查流程。",
+    "**Seedance 2.5 Skill** 是本倉庫內可安裝 Agent Skill 的正式名稱。它會把創意需求、現有提示詞、參考素材或 Storyboard 轉換成可以直接製作的提示詞、必要的中間素材、執行請求和品質複查流程。",
   install: "安裝",
   installBoth: "安裝工作流 Skill，以及預設用於執行生成的 Atlas Cloud Skill：",
   whatItDoes: "它會做什麼",
-  route: "路線",
-  bestFor: "適用場景",
-  input: "主要輸入",
-  output: "生成單位",
-  routeT2V: "T2V",
-  bestForT2V: "一個簡單、獨立的短場景",
-  inputT2V: "文字提示詞",
-  outputT2V: "一個完整鏡頭",
-  routeStoryboard: "R2V Storyboard",
-  bestForStoryboard: "包含多個可讀分鏡的故事板",
-  inputStoryboard: "一張完整 Storyboard 圖片",
-  outputStoryboard: "一次請求按分鏡順序生成",
-  routeAssets: "R2V 素材參考",
-  bestForAssets: "人物、產品、物體、場景或風格需要保持一致",
-  inputAssets: "少量、職責明確的參考素材",
-  outputAssets: "一個受參考素材約束的片段",
-  routeI2V: "I2V 首尾幀",
-  bestForI2V: "鏡頭的準確起點和終點很重要",
-  inputI2V: "首幀，視需要增加尾幀",
-  outputI2V: "一個可獨立複查的鏡頭",
-  routeExtend: "延展 / 串聯",
-  bestForExtend: "需要從已接受的影片繼續生成更長內容",
-  inputExtend: "上一段影片或尾幀",
-  outputExtend: "保持連續性的延展片段",
+  capabilityPrompt:
+    "**最佳化提示詞：** 把一個創意、現有提示詞或參考素材，整理成更清楚、可以直接用於製作的 Seedance 提示詞。",
+  capabilityStoryboard:
+    "**規劃並檢查 Storyboard：** 只有影片確實需要多鏡頭規劃或更強視覺一致性時，才使用 Seedream 5.0 Pro 生成 Storyboard；生成後會展示中間圖並自動檢查品質。",
+  capabilityGeneration:
+    "**生成並複查影片：** 使用目前可用的最佳 Seedance 模型，透過所選 Atlas Cloud 通道提交任務，持續輪詢同一個任務並檢查最終結果。",
   skillFiles: "Skill 檔案與參考資料",
   howToUse: "如何使用這個倉庫",
   browse: "**瀏覽：** 按分類尋找提示詞；有真實預覽時先看預覽，再複製提示詞。",
   adapt: "**最佳化：** 讓 Seedance 2.5 Skill 根據主體、時長、畫幅、參考素材和連續性要求改寫提示詞。",
   generate:
-    "**生成：** 讓 Skill 自動選擇路線；需要 Storyboard 時先生成並展示中間圖，由 Agent 自行檢查品質，然後透過所選 Atlas 通道提交圖片或影片任務。",
+    "**生成：** 需要 Storyboard 時先生成並展示中間圖，由 Agent 自行檢查品質，然後透過所選 Atlas 通道提交圖片或影片任務。",
   execution: "預設模型與執行方式",
   executionIntro:
     "工作流 Skill 和執行適配層是兩層：前者決定做什麼、怎麼做；Atlas 執行通道負責提交、輪詢和取回圖片或影片。",
@@ -352,14 +277,14 @@ const homeCopyZhTw: HomeCopy = {
   capabilityIntro:
     "公開的 Seedance 2.5 發布資料描述了最長 30 秒、原生 4K、最多 50 個多模態參考素材和局部區域編輯等能力。這些是已發布的能力資訊，不應直接視為所有 API 都支援的固定參數。",
   availability:
-    "**可用性說明：** 不同服務商的模型開放狀態、參考素材數量、時長、解析度和編輯能力可能不同。Skill 會先核對所選路線，不會假定 Seedance 2.5 一定可呼叫。",
+    "**可用性說明：** 不同服務商的模型開放狀態、參考素材數量、時長、解析度和編輯能力可能不同。Skill 會核對實際模型可用性，不會假定 Seedance 2.5 一定可呼叫。",
   promptStructure: "Skill 使用的提示詞結構",
   referenceBinding: "**參考綁定：** 明確每張圖片、每段影片或音訊分別控制什麼。",
   observableAction: "**可觀察動作：** 按時間順序寫清畫面中真正發生的事件、反應和狀態變化。",
   spatialRelations: "**空間關係：** 寫清主體、物體與鏡頭之間的位置和相對關係。",
   cameraCuts: "**鏡頭與剪輯：** 只在必要時指定景別、運鏡、切鏡順序、動作匹配和遮擋轉場。",
   visualStyle: "**視覺風格：** 定義光線、色彩、材質、氛圍和節奏。",
-  audio: "**音訊：** 當所選模型路線支援時，定義對白、環境聲、音效或音樂。",
+  audio: "**音訊：** 當所選模型支援時，定義對白、環境聲、音效或音樂。",
   constraints: "**約束：** 只保留真正重要的人物身分、產品細節、場景特徵和禁止項。",
   sources: "主要參考資料",
   curation: "收錄標準與來源說明",
@@ -372,19 +297,19 @@ const homeCopyZhTw: HomeCopy = {
   faq: "常見問題",
   faqSkillQuestion: "Seedance 2.5 Skill 是什麼？",
   faqSkillAnswer:
-    "它是 `skills/seedance-2-5-skill/` 中可安裝的 Agent Skill，負責選擇生成路線、準備必要素材、編寫提示詞、透過 Atlas Cloud 執行並複查結果。",
+    "它是 `skills/seedance-2-5-skill/` 中可安裝的 Agent Skill，負責最佳化提示詞、準備必要的 Storyboard 或參考素材、透過 Atlas Cloud 執行並複查結果。",
   faqAvailabilityQuestion: "使用這個 Skill 必須已經開放 Seedance 2.5 嗎？",
   faqAvailabilityAnswer:
     "不需要。目前可執行的預設模型是 Seedance 2.0；只有所選服務商實際提供 Seedance 2.5 時，Skill 才會使用 2.5。",
   faqStoryboardQuestion: "每個影片都必須先生成 Storyboard 嗎？",
   faqStoryboardAnswer:
-    "不需要。簡單場景可以直接 T2V。可讀的多鏡頭 Storyboard 預設會作為一張完整圖片提交給 R2V；只有明確切換成獨立 I2V 鏡頭路線時才切格。",
+    "不需要。只有 Storyboard 能明顯改善多鏡頭規劃、連續性或參考控制時，Skill 才會生成或使用它。",
   faqExecutionQuestion: "預設使用哪個 Atlas 執行通道？",
   faqExecutionAnswer:
     "Agent 對話預設使用 Atlas Cloud Skill。MCP、CLI 和 REST 只在使用者明確選擇相應環境時使用。",
   faqPromptQuestion: "不安裝 Skill，也能直接使用提示詞嗎？",
   faqPromptAnswer:
-    "可以。你可以直接瀏覽和複製任意提示詞；需要路線選擇、提示詞最佳化、Storyboard 處理、任務執行、輪詢和自動複查時，再安裝 Skill。",
+    "可以。你可以直接瀏覽和複製任意提示詞；需要提示詞最佳化、Storyboard 處理、任務執行、輪詢和自動複查時，再安裝 Skill。",
   resources: "相關資源",
   development: "倉庫開發",
 };
@@ -441,13 +366,9 @@ function renderSkill(locale: string): string {
     "",
     `### ${copy.whatItDoes}`,
     "",
-    `| ${copy.route} | ${copy.bestFor} | ${copy.input} | ${copy.output} |`,
-    "|---|---|---|---|",
-    `| ${copy.routeT2V} | ${copy.bestForT2V} | ${copy.inputT2V} | ${copy.outputT2V} |`,
-    `| ${copy.routeStoryboard} | ${copy.bestForStoryboard} | ${copy.inputStoryboard} | ${copy.outputStoryboard} |`,
-    `| ${copy.routeAssets} | ${copy.bestForAssets} | ${copy.inputAssets} | ${copy.outputAssets} |`,
-    `| ${copy.routeI2V} | ${copy.bestForI2V} | ${copy.inputI2V} | ${copy.outputI2V} |`,
-    `| ${copy.routeExtend} | ${copy.bestForExtend} | ${copy.inputExtend} | ${copy.outputExtend} |`,
+    "- " + copy.capabilityPrompt,
+    "- " + copy.capabilityStoryboard,
+    "- " + copy.capabilityGeneration,
     "",
     `<details><summary>${copy.skillFiles}</summary>`,
     "",
@@ -507,7 +428,7 @@ function renderMoreTools(locale: string): string {
     "- [Atlas Cloud Skill](https://github.com/AtlasCloudAI/atlas-cloud-skills)",
     "- [Atlas MCP Server](https://github.com/AtlasCloudAI/mcp-server)",
     "- [Atlas CLI](https://github.com/AtlasCloudAI/cli)",
-    "- [Atlas Cloud model catalog](https://www.atlascloud.ai/models?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills)",
+    `- [Atlas Cloud model catalog](https://www.atlascloud.ai/models${UTM})`,
     "- [Discord](https://discord.gg/MWmMr4q9es)",
     "",
   ].join("\n");

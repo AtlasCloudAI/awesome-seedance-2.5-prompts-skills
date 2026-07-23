@@ -6,7 +6,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/pulls)
 [![Prompts](https://img.shields.io/badge/prompts-111%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
-A curated library of Seedance 2.5 video prompts plus **Seedance 2.5 Skill**, an installable Agent Skill for planning, optimizing, and generating controllable video. The Skill chooses the right T2V, R2V, I2V, or extension route, uses Seedream 5.0 Pro for storyboards and Seedance 2.0 as the current executable default, and switches to Seedance 2.5 only when the selected provider exposes it.
+A curated library of Seedance 2.5 video prompts plus **Seedance 2.5 Skill**, an installable Agent Skill that improves prompts, plans and reviews storyboards when needed, and generates controllable video. It uses Seedream 5.0 Pro for storyboard images and Seedance 2.0 as the current executable video default, switching to Seedance 2.5 only when the selected provider exposes it.
 
 | [Browse prompts](https://www.atlascloud.ai/prompts-hub/seedance-2-5-prompt?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills) | [Install Seedance 2.5 Skill](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/tree/main/skills/seedance-2-5-skill) | [Generate with Atlas Cloud](https://www.atlascloud.ai/models/bytedance/seedance-2.5/text-to-video?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills) | [Get an API key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills) |
 |---|---|---|---|
@@ -38,7 +38,7 @@ A curated library of Seedance 2.5 video prompts plus **Seedance 2.5 Skill**, an 
 
 ## 🧠 Seedance 2.5 Skill
 
-**Seedance 2.5 Skill** is the name of the installable Agent Skill in this repository. It turns a creative brief, references, or a storyboard into the right generation route, prompt, intermediate assets, execution request, and review loop.
+**Seedance 2.5 Skill** is the name of the installable Agent Skill in this repository. It turns a creative brief, existing prompt, references, or a storyboard into a production-ready prompt, the necessary intermediate assets, an execution request, and a review loop.
 
 ### Install
 
@@ -51,13 +51,9 @@ npx skills add AtlasCloudAI/atlas-cloud-skills --skill atlas-cloud
 
 ### What it does
 
-| Route | Use when | Primary input | Generation unit |
-|---|---|---|---|
-| T2V | One short, simple scene | Text prompt | One self-contained shot |
-| R2V storyboard | A readable multi-shot storyboard | One complete storyboard image | One request follows the panel order |
-| R2V asset references | People, products, objects, scenes, or styles must stay consistent | A small role-specific asset pack | One reference-controlled clip |
-| I2V shot pair | The exact beginning and ending of a shot matter | Start keyframe, optional end keyframe | One independently reviewable shot |
-| Extend / chain | A longer sequence must continue an accepted clip | Prior clip or end frame | A continuity-aware extension |
+- **Improve prompts:** turn an idea, an existing prompt, or reference assets into a clearer production-ready Seedance prompt.
+- **Plan and review storyboards:** create a Seedream 5.0 Pro storyboard only when the video needs multi-shot planning or stronger visual consistency, display it as progress, and review its quality automatically.
+- **Generate and review video:** use the best available Seedance model, submit through the selected Atlas Cloud channel, poll the same task to completion, and check the result.
 
 <details><summary>Skill files and references</summary>
 
@@ -78,7 +74,7 @@ npx skills add AtlasCloudAI/atlas-cloud-skills --skill atlas-cloud
 
 1. **Browse:** filter by category, open a real preview when available, and copy the prompt.
 2. **Adapt:** ask Seedance 2.5 Skill to rewrite a prompt for your subject, duration, aspect ratio, references, and continuity needs.
-3. **Generate:** let the Skill choose the route, create and show intermediate storyboards when needed, review them automatically, and submit the final image or video request through the selected Atlas channel.
+3. **Generate:** let the Skill create and show intermediate storyboards when needed, review them automatically, and submit the final image or video request through the selected Atlas channel.
 
 <a id="model-and-execution-defaults"></a>
 
@@ -104,7 +100,7 @@ All asynchronous jobs are polled every 2 seconds using the same prediction ID. A
 
 Published Seedance 2.5 launch material describes up to 30-second generation, native 4K output, up to 50 multimodal references, and local region editing. Treat these as announced capabilities, not universal API parameters.
 
-**Availability note:** provider availability, reference limits, duration, resolution, and editing controls can differ. The Skill verifies the selected route instead of assuming Seedance 2.5 is callable.
+**Availability note:** provider availability, reference limits, duration, resolution, and editing controls can differ. The Skill verifies actual model availability instead of assuming Seedance 2.5 is callable.
 
 ### Prompt structure used by the Skill
 
@@ -113,7 +109,7 @@ Published Seedance 2.5 launch material describes up to 30-second generation, nat
 3. **Spatial relationships:** say where subjects, objects, and the camera are in relation to each other.
 4. **Camera and cuts:** specify framing, movement, cut order, match actions, and occlusions only where they matter.
 5. **Visual style:** define lighting, palette, texture, atmosphere, and pace.
-6. **Audio:** define dialogue, ambience, sound effects, or music when the selected model route supports them.
+6. **Audio:** define dialogue, ambience, sound effects, or music when the selected model supports them.
 7. **Constraints:** preserve only the identities, product details, scene traits, and exclusions that are essential.
 
 ### Primary references
@@ -137,7 +133,7 @@ Every prompt record keeps its category, source platform, author, source link, in
 
 ### What is Seedance 2.5 Skill?
 
-It is the installable Agent Skill in `skills/seedance-2-5-skill/`. It selects a generation route, prepares only the required assets, writes the prompt, executes through Atlas Cloud, and reviews the outputs.
+It is the installable Agent Skill in `skills/seedance-2-5-skill/`. It improves prompts, prepares required storyboards or references, executes through Atlas Cloud, and reviews the outputs.
 
 ### Does the Skill require public Seedance 2.5 access?
 
@@ -145,7 +141,7 @@ No. The current executable default is Seedance 2.0. The Skill uses Seedance 2.5 
 
 ### Does every video need a storyboard?
 
-No. A simple scene can use T2V directly. A readable multi-shot storyboard is normally sent as one complete R2V reference; panels are cropped only when the route deliberately changes to independent I2V shots.
+No. The Skill creates or uses a storyboard only when it materially improves multi-shot planning, continuity, or reference control.
 
 ### Which Atlas route is used?
 
@@ -153,7 +149,7 @@ Atlas Cloud Skill is the default inside an Agent conversation. MCP, CLI, and RES
 
 ### Can I use the prompts without installing the Skill?
 
-Yes. Browse and copy any prompt directly. Install the Skill when you want route selection, adaptation, storyboard handling, execution, polling, and automated review.
+Yes. Browse and copy any prompt directly. Install the Skill when you want prompt adaptation, storyboard handling, execution, polling, and automated review.
 
 <a id="statistics"></a>
 

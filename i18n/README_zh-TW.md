@@ -6,7 +6,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/pulls)
 [![Prompts](https://img.shields.io/badge/prompts-111%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
-一個經過整理的 Seedance 2.5 影片提示詞庫，以及可安裝的 **Seedance 2.5 Skill**。這個 Agent Skill 會依需求選擇 T2V、R2V、I2V 或延展路線，使用 Seedream 5.0 Pro 生成分鏡參考圖，目前預設以 Seedance 2.0 執行影片生成；只有所選服務商實際提供 Seedance 2.5 時，才切換到 2.5。
+一個經過整理的 Seedance 2.5 影片提示詞庫，以及可安裝的 **Seedance 2.5 Skill**。這個 Agent Skill 可以最佳化提示詞、視需要規劃並檢查 Storyboard，並生成可控影片。Storyboard 圖片預設使用 Seedream 5.0 Pro，目前影片生成預設使用 Seedance 2.0；只有所選服務商實際提供 Seedance 2.5 時，才切換到 2.5。
 
 | [瀏覽提示詞](https://www.atlascloud.ai/prompts-hub/seedance-2-5-prompt?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills&locale=zh-TW) | [安裝 Seedance 2.5 Skill](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/tree/main/skills/seedance-2-5-skill) | [在 Atlas Cloud 生成](https://www.atlascloud.ai/zh-TW/models/bytedance/seedance-2.5/text-to-video?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills) | [取得 API Key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills) |
 |---|---|---|---|
@@ -38,7 +38,7 @@
 
 ## 🧠 Seedance 2.5 Skill
 
-**Seedance 2.5 Skill** 是本倉庫內可安裝 Agent Skill 的正式名稱。它會把創意需求、參考素材或 Storyboard 轉換成合適的生成路線、提示詞、中間素材、執行請求和品質複查流程。
+**Seedance 2.5 Skill** 是本倉庫內可安裝 Agent Skill 的正式名稱。它會把創意需求、現有提示詞、參考素材或 Storyboard 轉換成可以直接製作的提示詞、必要的中間素材、執行請求和品質複查流程。
 
 ### 安裝
 
@@ -51,13 +51,9 @@ npx skills add AtlasCloudAI/atlas-cloud-skills --skill atlas-cloud
 
 ### 它會做什麼
 
-| 路線 | 適用場景 | 主要輸入 | 生成單位 |
-|---|---|---|---|
-| T2V | 一個簡單、獨立的短場景 | 文字提示詞 | 一個完整鏡頭 |
-| R2V Storyboard | 包含多個可讀分鏡的故事板 | 一張完整 Storyboard 圖片 | 一次請求按分鏡順序生成 |
-| R2V 素材參考 | 人物、產品、物體、場景或風格需要保持一致 | 少量、職責明確的參考素材 | 一個受參考素材約束的片段 |
-| I2V 首尾幀 | 鏡頭的準確起點和終點很重要 | 首幀，視需要增加尾幀 | 一個可獨立複查的鏡頭 |
-| 延展 / 串聯 | 需要從已接受的影片繼續生成更長內容 | 上一段影片或尾幀 | 保持連續性的延展片段 |
+- **最佳化提示詞：** 把一個創意、現有提示詞或參考素材，整理成更清楚、可以直接用於製作的 Seedance 提示詞。
+- **規劃並檢查 Storyboard：** 只有影片確實需要多鏡頭規劃或更強視覺一致性時，才使用 Seedream 5.0 Pro 生成 Storyboard；生成後會展示中間圖並自動檢查品質。
+- **生成並複查影片：** 使用目前可用的最佳 Seedance 模型，透過所選 Atlas Cloud 通道提交任務，持續輪詢同一個任務並檢查最終結果。
 
 <details><summary>Skill 檔案與參考資料</summary>
 
@@ -78,7 +74,7 @@ npx skills add AtlasCloudAI/atlas-cloud-skills --skill atlas-cloud
 
 1. **瀏覽：** 按分類尋找提示詞；有真實預覽時先看預覽，再複製提示詞。
 2. **最佳化：** 讓 Seedance 2.5 Skill 根據主體、時長、畫幅、參考素材和連續性要求改寫提示詞。
-3. **生成：** 讓 Skill 自動選擇路線；需要 Storyboard 時先生成並展示中間圖，由 Agent 自行檢查品質，然後透過所選 Atlas 通道提交圖片或影片任務。
+3. **生成：** 需要 Storyboard 時先生成並展示中間圖，由 Agent 自行檢查品質，然後透過所選 Atlas 通道提交圖片或影片任務。
 
 <a id="model-and-execution-defaults"></a>
 
@@ -104,7 +100,7 @@ npx skills add AtlasCloudAI/atlas-cloud-skills --skill atlas-cloud
 
 公開的 Seedance 2.5 發布資料描述了最長 30 秒、原生 4K、最多 50 個多模態參考素材和局部區域編輯等能力。這些是已發布的能力資訊，不應直接視為所有 API 都支援的固定參數。
 
-**可用性說明：** 不同服務商的模型開放狀態、參考素材數量、時長、解析度和編輯能力可能不同。Skill 會先核對所選路線，不會假定 Seedance 2.5 一定可呼叫。
+**可用性說明：** 不同服務商的模型開放狀態、參考素材數量、時長、解析度和編輯能力可能不同。Skill 會核對實際模型可用性，不會假定 Seedance 2.5 一定可呼叫。
 
 ### Skill 使用的提示詞結構
 
@@ -113,7 +109,7 @@ npx skills add AtlasCloudAI/atlas-cloud-skills --skill atlas-cloud
 3. **空間關係：** 寫清主體、物體與鏡頭之間的位置和相對關係。
 4. **鏡頭與剪輯：** 只在必要時指定景別、運鏡、切鏡順序、動作匹配和遮擋轉場。
 5. **視覺風格：** 定義光線、色彩、材質、氛圍和節奏。
-6. **音訊：** 當所選模型路線支援時，定義對白、環境聲、音效或音樂。
+6. **音訊：** 當所選模型支援時，定義對白、環境聲、音效或音樂。
 7. **約束：** 只保留真正重要的人物身分、產品細節、場景特徵和禁止項。
 
 ### 主要參考資料
@@ -137,7 +133,7 @@ npx skills add AtlasCloudAI/atlas-cloud-skills --skill atlas-cloud
 
 ### Seedance 2.5 Skill 是什麼？
 
-它是 `skills/seedance-2-5-skill/` 中可安裝的 Agent Skill，負責選擇生成路線、準備必要素材、編寫提示詞、透過 Atlas Cloud 執行並複查結果。
+它是 `skills/seedance-2-5-skill/` 中可安裝的 Agent Skill，負責最佳化提示詞、準備必要的 Storyboard 或參考素材、透過 Atlas Cloud 執行並複查結果。
 
 ### 使用這個 Skill 必須已經開放 Seedance 2.5 嗎？
 
@@ -145,7 +141,7 @@ npx skills add AtlasCloudAI/atlas-cloud-skills --skill atlas-cloud
 
 ### 每個影片都必須先生成 Storyboard 嗎？
 
-不需要。簡單場景可以直接 T2V。可讀的多鏡頭 Storyboard 預設會作為一張完整圖片提交給 R2V；只有明確切換成獨立 I2V 鏡頭路線時才切格。
+不需要。只有 Storyboard 能明顯改善多鏡頭規劃、連續性或參考控制時，Skill 才會生成或使用它。
 
 ### 預設使用哪個 Atlas 執行通道？
 
@@ -153,7 +149,7 @@ Agent 對話預設使用 Atlas Cloud Skill。MCP、CLI 和 REST 只在使用者�
 
 ### 不安裝 Skill，也能直接使用提示詞嗎？
 
-可以。你可以直接瀏覽和複製任意提示詞；需要路線選擇、提示詞最佳化、Storyboard 處理、任務執行、輪詢和自動複查時，再安裝 Skill。
+可以。你可以直接瀏覽和複製任意提示詞；需要提示詞最佳化、Storyboard 處理、任務執行、輪詢和自動複查時，再安裝 Skill。
 
 <a id="statistics"></a>
 
