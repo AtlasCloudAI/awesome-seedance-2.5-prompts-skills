@@ -52,7 +52,7 @@ Do not infer Atlas credentials from a different provider, plugin, or process.
 Each execution channel can have an independent credential scope.
 
 If no key is visible, direct the user to
-`https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=seedance2.5-skill`.
+`https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills`.
 Do not request or print the key in
 chat. Offer either a current-shell setup:
 

@@ -172,7 +172,7 @@ Do not infer credential availability from a different provider, plugin, or
 process; each execution channel can have an independent credential scope.
 
 If neither key exists, direct the user to
-`https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=seedance2.5-skill`.
+`https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills`.
 Never ask them to paste the key in
 chat. Tell them to set `ATLASCLOUD_API_KEY` in the submitting process or the
 host's secure environment settings, then refresh or restart the execution

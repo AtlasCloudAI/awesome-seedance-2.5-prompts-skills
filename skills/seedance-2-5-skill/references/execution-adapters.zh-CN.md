@@ -39,7 +39,7 @@ MCP 服务端本身不维护后台轮询循环。走 `atlas-mcp` 时，智能体
 
 不要根据另一个服务商、插件或进程的配置状态推断 Atlas 凭据。每个执行通道可能拥有独立的凭据作用域。
 
-如果执行进程读不到 Key，引导用户前往 `https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=seedance2.5-skill` 获取。不要要求用户在对话中粘贴或展示 Key。可以指导用户临时设置当前终端：
+如果执行进程读不到 Key，引导用户前往 `https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills` 获取。不要要求用户在对话中粘贴或展示 Key。可以指导用户临时设置当前终端：
 
 ```bash
 export ATLASCLOUD_API_KEY="<your-key>"
