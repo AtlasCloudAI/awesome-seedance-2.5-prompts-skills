@@ -8,31 +8,62 @@
 
 A curated library of Seedance 2.5 video prompts plus **Seedance 2.5 Skill**, an installable Agent Skill that improves prompts, plans and reviews storyboards when needed, and generates controllable video. It uses Seedream 5.0 Pro for storyboard images and Seedance 2.0 as the current executable video default, switching to Seedance 2.5 only when the selected provider exposes it.
 
-| [Browse prompts](https://www.atlascloud.ai/prompts-hub/seedance-2-5-prompt?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills) | [Install Seedance 2.5 Skill](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/tree/main/skills/seedance-2-5-skill) | [Generate with Atlas Cloud](https://www.atlascloud.ai/ko/models/bytedance/seedance-2.5/text-to-video?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills) | [Get an API key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills) |
+| [Browse prompts](https://www.atlascloud.ai/prompts-hub/seedance-2-5-prompt?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills) | [Install Seedance 2.5 Skill](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/tree/main/skills/seedance-2-5-skill) | [Generate with Atlas Cloud](https://www.atlascloud.ai/?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills) | [Get an API key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills) |
 |---|---|---|---|
 
-<details><summary>Languages (20)</summary>
+[![English](https://img.shields.io/badge/English-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_ja.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-Current-brightgreen)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_ko.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_th.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_vi.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_hi.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_es.md) [![Deutsch](https://img.shields.io/badge/Deutsch-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_de.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_fr.md) [![Italiano](https://img.shields.io/badge/Italiano-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_it.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_pt.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_tr.md) [![العربية](https://img.shields.io/badge/%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_ar.md) [![Bahasa Indonesia](https://img.shields.io/badge/Bahasa%20Indonesia-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_id.md) [![Nederlands](https://img.shields.io/badge/Nederlands-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_nl.md) [![Polski](https://img.shields.io/badge/Polski-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_pl.md) [![Русский](https://img.shields.io/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_ru.md) [![Svenska](https://img.shields.io/badge/Svenska-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_sv.md)
 
-[English](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/README.md) · [简体中文](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_zh.md) · [繁體中文](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_zh-TW.md) · [日本語](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_ja.md) · [한국어](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_ko.md) · [ไทย](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_th.md) · [Tiếng Việt](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_vi.md) · [हिन्दी](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_hi.md) · [Español](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_es.md) · [Deutsch](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_de.md) · [Français](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_fr.md) · [Italiano](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_it.md) · [Português](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_pt.md) · [Türkçe](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_tr.md) · [العربية](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_ar.md) · [Bahasa Indonesia](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_id.md) · [Nederlands](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_nl.md) · [Polski](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_pl.md) · [Русский](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_ru.md) · [Svenska](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_sv.md)
-
-</details>
+---
 
 <a id="contents"></a>
 
 ## 📖 Contents
 
-- [Seedance 2.5 Skill](#seedance-2-5-skill)
-- [How to use this repository](#how-to-use)
-- [Model and execution defaults](#model-and-execution-defaults)
-- [Seedance 2.5 prompt guide](#prompt-guide)
-- [Curation and provenance](#curation-and-provenance)
-- [Frequently asked questions](#faq)
-- [Statistics](#statistics)
-- [Featured Prompts](#featured-prompts)
-- [Browse by Category](#browse-by-category)
-- [All Prompts](#all-prompts)
-- [Resources](#resources)
-- [License](#license)
+- [🤔 What is Seedance 2.5?](#model-overview)
+- [🧩 Seedance 2.5 prompt guide](#prompt-guide)
+- [🧠 Seedance 2.5 Skill](#seedance-2-5-skill)
+- [🚀 How to use this repository](#how-to-use)
+- [⚙️ Model and execution defaults](#model-and-execution-defaults)
+- [🔎 Curation and provenance](#curation-and-provenance)
+- [📊 Statistics](#statistics)
+- [🔥 Featured Prompts](#featured-prompts)
+- [🏷️ Browse by Category](#browse-by-category)
+- [📋 All Prompts](#all-prompts)
+- [❓ Frequently asked questions](#faq)
+- [🔗 Resources](#resources)
+- [📄 License](#license)
+
+<a id="model-overview"></a>
+
+## 🤔 What is Seedance 2.5?
+
+Seedance 2.5 is ByteDance's next-generation multimodal video generation model, following Seedance 2.0. It is designed for reference-driven video creation, longer narrative sequences, synchronized audio and video, and precise visual control.
+
+**Launch status:** Seedance 2.5 is expected to launch in August 2026. Atlas Cloud is one of the first official API launch partners for Seedance 2.5.
+
+Published Seedance 2.5 launch material describes up to 30-second generation, native 4K output, up to 50 multimodal references, and local region editing. Treat these as announced capabilities, not universal API parameters.
+
+**Availability note:** provider availability, reference limits, duration, resolution, and editing controls can differ. The Skill verifies actual model availability instead of assuming Seedance 2.5 is callable.
+
+<a id="prompt-guide"></a>
+
+## 🧩 Seedance 2.5 prompt guide
+
+### Prompt structure used by the Skill
+
+1. **Reference binding:** state what each image, video, or audio reference controls.
+2. **Observable action:** describe visible events in temporal order, including reactions and state changes.
+3. **Spatial relationships:** say where subjects, objects, and the camera are in relation to each other.
+4. **Camera and cuts:** specify framing, movement, cut order, match actions, and occlusions only where they matter.
+5. **Visual style:** define lighting, palette, texture, atmosphere, and pace.
+6. **Audio:** define dialogue, ambience, sound effects, or music when the selected model supports them.
+7. **Constraints:** preserve only the identities, product details, scene traits, and exclusions that are essential.
+
+### Primary references
+
+- [Seedance 2.0 prompt guide — Volcengine](https://docs.volcengine.com/docs/82379/2222480?lang=zh)
+- [Seedream 5.0 Pro user manual — ByteDance Lark](https://bytedance.larkoffice.com/wiki/HQ8HwXpNFiy6umkP8jNcBwF3nab)
+- [Seedance 2.5 launch overview — Atlas Cloud](https://www.atlascloud.ai/ko/seedance-2-5?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills)
 
 <a id="seedance-2-5-skill"></a>
 
@@ -94,32 +125,6 @@ All asynchronous jobs are polled every 2 seconds using the same prediction ID. A
 
 **[→ Get an Atlas Cloud API key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills)**
 
-<a id="prompt-guide"></a>
-
-## 🧩 Seedance 2.5 prompt guide
-
-**Launch status:** Seedance 2.5 is expected to launch in August 2026. Atlas Cloud is one of the first official API launch partners for Seedance 2.5.
-
-Published Seedance 2.5 launch material describes up to 30-second generation, native 4K output, up to 50 multimodal references, and local region editing. Treat these as announced capabilities, not universal API parameters.
-
-**Availability note:** provider availability, reference limits, duration, resolution, and editing controls can differ. The Skill verifies actual model availability instead of assuming Seedance 2.5 is callable.
-
-### Prompt structure used by the Skill
-
-1. **Reference binding:** state what each image, video, or audio reference controls.
-2. **Observable action:** describe visible events in temporal order, including reactions and state changes.
-3. **Spatial relationships:** say where subjects, objects, and the camera are in relation to each other.
-4. **Camera and cuts:** specify framing, movement, cut order, match actions, and occlusions only where they matter.
-5. **Visual style:** define lighting, palette, texture, atmosphere, and pace.
-6. **Audio:** define dialogue, ambience, sound effects, or music when the selected model supports them.
-7. **Constraints:** preserve only the identities, product details, scene traits, and exclusions that are essential.
-
-### Primary references
-
-- [Seedance 2.0 prompt guide — Volcengine](https://docs.volcengine.com/docs/82379/2222480?lang=zh)
-- [Seedream 5.0 Pro user manual — ByteDance Lark](https://bytedance.larkoffice.com/wiki/HQ8HwXpNFiy6umkP8jNcBwF3nab)
-- [Seedance 2.5 launch overview — Atlas Cloud](https://www.atlascloud.ai/ko/seedance-2-5?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills)
-
 <a id="curation-and-provenance"></a>
 
 ## 🔎 Curation and provenance
@@ -128,30 +133,6 @@ Every prompt record keeps its category, source platform, author, source link, in
 
 - The `official` and `community` labels describe where a prompt came from; they are not a guarantee that every prompt has been independently benchmarked across every provider or model version.
 - A preview demonstrates one observed output under its original setup. Results can change with model version, provider parameters, references, aspect ratio, seed, and moderation.
-
-<a id="faq"></a>
-
-## ❓ Frequently asked questions
-
-### What is Seedance 2.5 Skill?
-
-It is the installable Agent Skill in `skills/seedance-2-5-skill/`. It improves prompts, prepares required storyboards or references, executes through Atlas Cloud, and reviews the outputs.
-
-### Does the Skill require public Seedance 2.5 access?
-
-No. The current executable default is Seedance 2.0. The Skill uses Seedance 2.5 only when the selected provider actually exposes it.
-
-### Does every video need a storyboard?
-
-No. The Skill creates or uses a storyboard only when it materially improves multi-shot planning, continuity, or reference control.
-
-### Which Atlas route is used?
-
-Atlas Cloud Skill is the default inside an Agent conversation. MCP, CLI, and REST are selected explicitly for their corresponding environments.
-
-### Can I use the prompts without installing the Skill?
-
-Yes. Browse and copy any prompt directly. Install the Skill when you want prompt adaptation, storyboard handling, execution, polling, and automated review.
 
 <a id="statistics"></a>
 
@@ -224,11 +205,13 @@ Yes. Browse and copy any prompt directly. Install the Skill when you want prompt
 
 - **Inputs:**
 
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference1.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference2.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference3.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference4.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference5.png" width="180" referrerpolicy="no-referrer">
+<p>
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference1.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference2.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference3.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference4.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference5.png" width="180" referrerpolicy="no-referrer">
+</p>
 
 #### Description
 
@@ -253,14 +236,16 @@ Yes. Browse and copy any prompt directly. Install the Skill when you want prompt
 
 - **Inputs:**
 
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference1.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference2.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference3.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference4.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference5.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference7.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference8.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference9.png" width="180" referrerpolicy="no-referrer">
+<p>
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference1.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference2.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference3.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference4.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference5.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference7.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference8.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference9.png" width="180" referrerpolicy="no-referrer">
+</p>
 
 #### Description
 
@@ -310,7 +295,9 @@ Yes. Browse and copy any prompt directly. Install the Skill when you want prompt
 
 - **Inputs:**
 
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-reference1.png" width="180" referrerpolicy="no-referrer">
+<p>
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-reference1.png" width="180" referrerpolicy="no-referrer">
+</p>
 
 #### Description
 
@@ -335,12 +322,14 @@ Yes. Browse and copy any prompt directly. Install the Skill when you want prompt
 
 - **Inputs:**
 
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference1.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference2.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference3.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference4.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference5.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference6.png" width="180" referrerpolicy="no-referrer">
+<p>
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference1.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference2.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference3.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference4.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference5.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference6.png" width="180" referrerpolicy="no-referrer">
+</p>
 
 #### Description
 
@@ -365,7 +354,9 @@ Yes. Browse and copy any prompt directly. Install the Skill when you want prompt
 
 - **Inputs:**
 
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-reference1.png" width="180" referrerpolicy="no-referrer">
+<p>
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-reference1.png" width="180" referrerpolicy="no-referrer">
+</p>
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-reference2.mp4" controls muted width="360"></video>
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-reference3.mp4" controls muted width="360"></video>
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-reference4.mp4" controls muted width="360"></video>
@@ -469,11 +460,13 @@ Yes. Browse and copy any prompt directly. Install the Skill when you want prompt
 
 - **Inputs:**
 
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference1.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference2.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference3.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference4.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference5.png" width="180" referrerpolicy="no-referrer">
+<p>
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference1.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference2.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference3.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference4.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference5.png" width="180" referrerpolicy="no-referrer">
+</p>
 
 #### Description
 
@@ -498,14 +491,16 @@ Yes. Browse and copy any prompt directly. Install the Skill when you want prompt
 
 - **Inputs:**
 
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference1.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference2.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference3.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference4.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference5.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference7.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference8.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference9.png" width="180" referrerpolicy="no-referrer">
+<p>
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference1.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference2.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference3.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference4.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference5.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference7.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference8.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference9.png" width="180" referrerpolicy="no-referrer">
+</p>
 
 #### Description
 
@@ -530,7 +525,9 @@ Yes. Browse and copy any prompt directly. Install the Skill when you want prompt
 
 - **Inputs:**
 
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-reference1.png" width="180" referrerpolicy="no-referrer">
+<p>
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-reference1.png" width="180" referrerpolicy="no-referrer">
+</p>
 
 #### Description
 
@@ -613,12 +610,14 @@ Yes. Browse and copy any prompt directly. Install the Skill when you want prompt
 
 - **Inputs:**
 
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference1.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference2.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference3.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference4.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference5.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference6.png" width="180" referrerpolicy="no-referrer">
+<p>
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference1.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference2.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference3.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference4.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference5.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference6.png" width="180" referrerpolicy="no-referrer">
+</p>
 
 #### Description
 
@@ -647,7 +646,9 @@ Yes. Browse and copy any prompt directly. Install the Skill when you want prompt
 
 - **Inputs:**
 
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-reference1.png" width="180" referrerpolicy="no-referrer">
+<p>
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-reference1.png" width="180" referrerpolicy="no-referrer">
+</p>
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-reference2.mp4" controls muted width="360"></video>
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-reference3.mp4" controls muted width="360"></video>
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-reference4.mp4" controls muted width="360"></video>
@@ -682,7 +683,9 @@ Yes. Browse and copy any prompt directly. Install the Skill when you want prompt
 
 - **Inputs:**
 
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab3-group1-reference1.png" width="180" referrerpolicy="no-referrer">
+<p>
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab3-group1-reference1.png" width="180" referrerpolicy="no-referrer">
+</p>
 
 #### Description
 
@@ -711,7 +714,9 @@ Yes. Browse and copy any prompt directly. Install the Skill when you want prompt
 
 - **Inputs:**
 
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab3-group2-reference1.png" width="180" referrerpolicy="no-referrer">
+<p>
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab3-group2-reference1.png" width="180" referrerpolicy="no-referrer">
+</p>
 
 #### Description
 
@@ -722,6 +727,30 @@ Yes. Browse and copy any prompt directly. Install the Skill when you want prompt
 ```text
 [취한 남자의 옥상 소동 — 가장자리에서 추락 — 창문을 통해 밧줄을 붙잡음 — 그 자리에서 기절 | 블랙코미디 단편 | 약 30초] 한 줄 개요: 통통하고 귀여운 술 취한 중년 남자가 건물 옥상에서 버거를 먹으며 맥주를 마시다가, 일어나 기지개를 켜던 중 실수로 발을 헛디뎌 떨어지고, 당황한 나머지 생명줄을 붙잡아 곧장 창문을 뚫고 실내로 들어와, 1초간 멍하니 얼떨떨해하다가, 그냥 그 자리에 드러누워 곤히 잠들어 버린다. 참조 이미지 @image1 — 통통하고 귀여운 술 취한 중년 남자: 둥글고 다부진 체격에 커다랗고 둥근 맥주배, 작은 키, 술에 취해 흐느적거리고 느릿하며 비틀거리는 동작. 둥근 얼굴, 이중 턱, 술기운에 붉어진 볼과 코, 실눈을 뜨고 게슴츠레한 눈빛, 다듬지 않은 짧은 수염 자국, 헝클어진 머리, 어리숙하고 귀엽고 태평한 표정. 버거 소스가 묻은 흰 러닝셔츠가 둥근 배 위로 헐렁하게 늘어져 있고, 낡은 청바지에 헐렁한 슬리퍼를 끌며, 늘 한 손에 먹다 만 버거를 쥐고 있다. 영상 전체에 등장하는 인물은 이 한 명뿐이며, 참조 이미지와 100% 일치한다. 전체적인 룩: 밤의 사이버펑크 메가시티, 유리와 강철로 된 빽빽한 마천루 숲, 네온사인(시안/마젠타/일렉트릭 블루), 홀로그램 광고판, 젖어서 반사되는 바닥, 볼류메트릭 안개, 멀리 하늘을 나는 자동차의 라이트 트레일과 드론. 실사 질감, 실제 시네마 렌즈, 3D 렌더링/게임 엔진/애니메이션 느낌 없음. 카메라는 핸드헬드와 지브/드론을 섞어 쓴다. 추락 후에는 카메라가 남자와 함께 곤두박질치며 건물 외벽과 네온이 위로 솟구쳐 속도감을 전한다. 24-35mm 와이드스크린 시네마 렌즈 질감, 180도 셔터 모션 블러. 사운드 디자인이 블랙코미디의 핵심이다: "거대한 굉음"과 "완전한 정적" 사이를 반복적으로 하드컷한다. 처음부터 끝까지 실제 중력을 유지한다. 스토리보드(약 30초): S1 (0-4s) 오프닝 씹는 장면 빅 클로즈업(소리 있음) 남자의 얼굴이 화면을 가득 채우고, 버거를 큼직하게 베어 물며 만족스러운 취기 상태. S2 (4-9s) 와이드 샷으로 빠지며, 기지개 -> 발을 헛디뎌 추락(소리 있음) 남자가 비틀비틀 일어나 크게 기지개를 켜고 몸을 뒤로 젖히다 균형을 잃고, 발이 미끄러지며 옥상 가장자리 너머로 뒤로 굴러떨어진다. 버거는 끝까지 놓지 않으며 당황한 "어——!" 소리. S3 (9-12s) 놀란 얼굴 클로즈업으로 컷(큰 비명, 거대한 굉음) 취한 눈이 동그랗게 튀어나오고, 이중 턱이 잔뜩 접히며, 입을 크게 벌려 "으아——!!" 비명을 지르고, 바람이 세차게 몰아친다. S4 (12-16s) 눈높이 롱 샷으로 컷(완전한 정적) 맞은편 건물에서 바라본 시점, 고층 빌딩에서 곧장 곤두박질치는 작고 하얀 형체, 광활하고 무심한 네온 도시, 완전한 정적이 1초 전의 거대한 굉음과 블랙코미디적 대비를 이룬다. S5 (16-21s) 얼굴 클로즈업으로 컷(비명) -> 밧줄을 붙잡음, 여전히 비명을 지르며 허공에서 두 손을 허우적대다, 갑자기 생명줄 케이블을 붙잡고, 케이블이 그의 무게에 팽팽히 당겨지며 튕기는 소리와 함께 휘어지고, 홱 잡아채여 밖으로 흔들리며 비명이 뚝 끊긴다(밧줄을 붙잡는 순간 짧은 슬로모션). S6 (21-26s) 실내 앵글로 컷(조용함) -> 유리 깨짐 -> 남자가 들이닥침, 실내는 처음엔 에어컨 소리만 나며 조용하다가, 다음 순간 유리가 안쪽으로 폭발하듯 부서지며(짧은 불릿타임) 취한 남자가 버거째로 창문을 뚫고 들어오고, 파편이 방사형으로 튀며 네온 빛이 쏟아져 들어오고, 그가 바닥/소파로 육중하게 처박히며 깨진 유리가 짤랑거린다. S7 (26-30s) 엔딩, 놀란 한순간 -> 잠들다, 남자가 깨진 유리를 뒤집어쓴 채 바닥에 대자로 뻗어 여전히 버거를 움켜쥐고, 천천히 눈을 뜨고, 멍하니 넋 나간 채 온전히 1초간 놀란 표정으로 "여기가 어디지?" 하듯 주위를 둘러보다가, 이내 취기가 몰려와 전혀 개의치 않고 입맛을 다시며 버거를 품에 끌어안고 돌아누워, 바로 그 자리에 드러누워 곤히 잠들어 가볍게 코까지 곤다. 카메라가 빠지며 정지하고, 검은 화면으로 하드컷. 현장 라이브 사운드만 사용, 음악 없음, 자막 없음. 핵심은 "거대한 굉음"과 "정적" 사이의 반복적인 하드컷이다.
 ```
+
+<a id="faq"></a>
+
+## ❓ Frequently asked questions
+
+### What is Seedance 2.5 Skill?
+
+It is the installable Agent Skill in `skills/seedance-2-5-skill/`. It improves prompts, prepares required storyboards or references, executes through Atlas Cloud, and reviews the outputs.
+
+### Does the Skill require public Seedance 2.5 access?
+
+No. The current executable default is Seedance 2.0. The Skill uses Seedance 2.5 only when the selected provider actually exposes it.
+
+### Does every video need a storyboard?
+
+No. The Skill creates or uses a storyboard only when it materially improves multi-shot planning, continuity, or reference control.
+
+### Which Atlas route is used?
+
+Atlas Cloud Skill is the default inside an Agent conversation. MCP, CLI, and REST are selected explicitly for their corresponding environments.
+
+### Can I use the prompts without installing the Skill?
+
+Yes. Browse and copy any prompt directly. Install the Skill when you want prompt adaptation, storyboard handling, execution, polling, and automated review.
 
 <details><summary>Repository development</summary>
 

@@ -18,8 +18,8 @@ function buildPromptLibraryUrl(locale: string): string {
   return `https://www.atlascloud.ai/prompts-hub/seedance-2-5-prompt${UTM}${q}`;
 }
 
-function buildModelUrl(locale: string): string {
-  return `https://www.atlascloud.ai${buildLocalePrefix(locale)}/models/bytedance/seedance-2.5/text-to-video${UTM}`;
+function buildAtlasHomepageUrl(): string {
+  return `https://www.atlascloud.ai/${UTM}`;
 }
 
 function renderBadges(promptCount: number): string {
@@ -56,6 +56,8 @@ interface HomeCopy {
   polling: string;
   modelDefaults: string;
   modelDefaultText: string;
+  modelIntro: string;
+  modelDescription: string;
   promptGuide: string;
   launchStatus: string;
   capabilityIntro: string;
@@ -122,6 +124,9 @@ const homeCopyEn: HomeCopy = {
   modelDefaults: "Model defaults",
   modelDefaultText:
     "**Storyboard stills:** Seedream 5.0 Pro. **Executable video default:** Seedance 2.0. **Seedance 2.5:** only when the selected provider exposes the model and its actual limits.",
+  modelIntro: "What is Seedance 2.5?",
+  modelDescription:
+    "Seedance 2.5 is ByteDance's next-generation multimodal video generation model, following Seedance 2.0. It is designed for reference-driven video creation, longer narrative sequences, synchronized audio and video, and precise visual control.",
   promptGuide: "Seedance 2.5 prompt guide",
   launchStatus:
     "**Launch status:** Seedance 2.5 is expected to launch in August 2026. Atlas Cloud is one of the first official API launch partners for Seedance 2.5.",
@@ -200,6 +205,9 @@ const homeCopyZh: HomeCopy = {
   modelDefaults: "默认模型",
   modelDefaultText:
     "**Storyboard 静帧：** Seedream 5.0 Pro。**当前默认视频模型：** Seedance 2.0。**Seedance 2.5：** 只有所选服务商实际提供模型和明确参数限制时才使用。",
+  modelIntro: "Seedance 2.5 是什么？",
+  modelDescription:
+    "Seedance 2.5 是字节跳动继 Seedance 2.0 之后推出的下一代多模态视频生成模型，面向参考素材驱动的视频创作、更完整的叙事、音视频同步和精确的视觉控制。",
   promptGuide: "Seedance 2.5 提示词指南",
   launchStatus:
     "**上线信息：** Seedance 2.5 预计于 2026 年 8 月上线。Atlas Cloud 是 Seedance 2.5 首批 API 上线的官方合作伙伴之一。",
@@ -278,6 +286,9 @@ const homeCopyZhTw: HomeCopy = {
   modelDefaults: "預設模型",
   modelDefaultText:
     "**Storyboard 靜幀：** Seedream 5.0 Pro。**目前預設影片模型：** Seedance 2.0。**Seedance 2.5：** 只有所選服務商實際提供模型和明確參數限制時才使用。",
+  modelIntro: "Seedance 2.5 是什麼？",
+  modelDescription:
+    "Seedance 2.5 是字節跳動繼 Seedance 2.0 之後推出的下一代多模態影片生成模型，面向參考素材驅動的影片創作、更完整的敘事、音影片同步和精確的視覺控制。",
   promptGuide: "Seedance 2.5 提示詞指南",
   launchStatus:
     "**上線資訊：** Seedance 2.5 預計於 2026 年 8 月上線。Atlas Cloud 是 Seedance 2.5 首批 API 上線的官方合作夥伴之一。",
@@ -331,8 +342,18 @@ function renderHeading(id: string, heading: string): string {
   return [`<a id="${id}"></a>`, "", `## ${heading}`, ""].join("\n");
 }
 
+function renderLanguageNavigation(currentLocale: string): string {
+  const badges = SUPPORTED_LANGUAGES.map((lang) => {
+    const isCurrent = lang.code === currentLocale;
+    const color = isCurrent ? "brightgreen" : "lightgrey";
+    const text = isCurrent ? t("current", currentLocale) : t("view", currentLocale);
+    return `[![${lang.name}](https://img.shields.io/badge/${encodeURIComponent(lang.name)}-${encodeURIComponent(text)}-${color})](${REPO_URL}/blob/main/${lang.readmeFileName})`;
+  }).join(" ");
+
+  return `${badges}\n\n---\n`;
+}
+
 function renderQuickLinks(locale: string): string {
-  const copy = getHomeCopy(locale);
   const apiKeyUrl = `https://www.atlascloud.ai/console/api-keys${UTM}`;
   const skillUrl = `${REPO_URL}/tree/main/skills/seedance-2-5-skill`;
   const labels =
@@ -343,15 +364,10 @@ function renderQuickLinks(locale: string): string {
         : ["Browse prompts", "Install Seedance 2.5 Skill", "Generate with Atlas Cloud", "Get an API key"];
 
   return [
-    `| [${labels[0]}](${buildPromptLibraryUrl(locale)}) | [${labels[1]}](${skillUrl}) | [${labels[2]}](${buildModelUrl(locale)}) | [${labels[3]}](${apiKeyUrl}) |`,
+    `| [${labels[0]}](${buildPromptLibraryUrl(locale)}) | [${labels[1]}](${skillUrl}) | [${labels[2]}](${buildAtlasHomepageUrl()}) | [${labels[3]}](${apiKeyUrl}) |`,
     "|---|---|---|---|",
     "",
-    `<details><summary>${copy.languages} (${SUPPORTED_LANGUAGES.length})</summary>`,
-    "",
-    SUPPORTED_LANGUAGES.map((lang) => `[${lang.name}](${REPO_URL}/blob/main/${lang.readmeFileName})`).join(" · "),
-    "",
-    "</details>",
-    "",
+    renderLanguageNavigation(locale),
   ].join("\n");
 }
 
@@ -445,18 +461,19 @@ function renderContents(locale: string): string {
   const copy = getHomeCopy(locale);
   return [
     renderHeading("contents", `📖 ${copy.contents}`),
-    "- [Seedance 2.5 Skill](#seedance-2-5-skill)",
-    `- [${copy.howToUse}](#how-to-use)`,
-    `- [${copy.execution}](#model-and-execution-defaults)`,
-    `- [${copy.promptGuide}](#prompt-guide)`,
-    `- [${copy.curation}](#curation-and-provenance)`,
-    `- [${copy.faq}](#faq)`,
-    `- [${t("stats", locale)}](#statistics)`,
-    `- [${t("featuredPrompts", locale)}](#featured-prompts)`,
-    `- [${t("browseByCategory", locale)}](#browse-by-category)`,
-    `- [${t("allPrompts", locale)}](#all-prompts)`,
-    `- [${copy.resources}](#resources)`,
-    `- [${t("license", locale)}](#license)`,
+    `- [🤔 ${copy.modelIntro}](#model-overview)`,
+    `- [🧩 ${copy.promptGuide}](#prompt-guide)`,
+    "- [🧠 Seedance 2.5 Skill](#seedance-2-5-skill)",
+    `- [🚀 ${copy.howToUse}](#how-to-use)`,
+    `- [⚙️ ${copy.execution}](#model-and-execution-defaults)`,
+    `- [🔎 ${copy.curation}](#curation-and-provenance)`,
+    `- [📊 ${t("stats", locale)}](#statistics)`,
+    `- [🔥 ${t("featuredPrompts", locale)}](#featured-prompts)`,
+    `- [🏷️ ${t("browseByCategory", locale)}](#browse-by-category)`,
+    `- [📋 ${t("allPrompts", locale)}](#all-prompts)`,
+    `- [❓ ${copy.faq}](#faq)`,
+    `- [🔗 ${copy.resources}](#resources)`,
+    `- [📄 ${t("license", locale)}](#license)`,
     "",
   ].join("\n");
 }
@@ -487,8 +504,12 @@ function renderPrompt(prompt: PromptRecord, index: number, locale: string): stri
     lines.push("");
     lines.push(`- **Inputs:**`);
     lines.push("");
-    for (const image of referenceImages) {
-      lines.push(`<img src="${image}" width="180" referrerpolicy="no-referrer">`);
+    if (referenceImages.length > 0) {
+      lines.push("<p>");
+      for (const image of referenceImages) {
+        lines.push(`  <img src="${image}" width="180" referrerpolicy="no-referrer">`);
+      }
+      lines.push("</p>");
     }
     if (prompt.reference_video) {
       lines.push(`<video src="${prompt.reference_video}" controls muted width="360"></video>`);
@@ -515,16 +536,25 @@ function renderPrompt(prompt: PromptRecord, index: number, locale: string): stri
   return lines.join("\n");
 }
 
-function renderModelIntro(locale: string): string {
+function renderModelOverview(locale: string): string {
   const copy = getHomeCopy(locale);
   return [
-    renderHeading("prompt-guide", `🧩 ${copy.promptGuide}`),
+    renderHeading("model-overview", `🤔 ${copy.modelIntro}`),
+    copy.modelDescription,
+    "",
     copy.launchStatus,
     "",
     copy.capabilityIntro,
     "",
     copy.availability,
     "",
+  ].join("\n");
+}
+
+function renderPromptGuide(locale: string): string {
+  const copy = getHomeCopy(locale);
+  return [
+    renderHeading("prompt-guide", `🧩 ${copy.promptGuide}`),
     `### ${copy.promptStructure}`,
     "",
     "1. " + copy.referenceBinding,
@@ -592,12 +622,12 @@ export function generateMarkdown(data: SortedPromptData, locale: string): string
   lines.push("");
   lines.push(renderQuickLinks(locale));
   lines.push(renderContents(locale));
+  lines.push(renderModelOverview(locale));
+  lines.push(renderPromptGuide(locale));
   lines.push(renderSkill(locale));
   lines.push(renderHowToUse(locale));
   lines.push(renderExecution(locale));
-  lines.push(renderModelIntro(locale));
   lines.push(renderCuration(locale));
-  lines.push(renderFaq(locale));
   lines.push(renderHeading("statistics", `📊 ${t("stats", locale)}`));
   lines.push("");
   lines.push(`| ${t("metric", locale)} | ${t("count", locale)} |`);
@@ -631,6 +661,7 @@ export function generateMarkdown(data: SortedPromptData, locale: string): string
     prompts.forEach((prompt, promptIndex) => lines.push(renderPrompt(prompt, promptIndex, locale)));
   });
 
+  lines.push(renderFaq(locale));
   lines.push(`<details><summary>${copy.development}</summary>`);
   lines.push("");
   lines.push("```bash");

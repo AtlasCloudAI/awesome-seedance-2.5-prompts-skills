@@ -8,31 +8,62 @@
 
 一個經過整理的 Seedance 2.5 影片提示詞庫，以及可安裝的 **Seedance 2.5 Skill**。這個 Agent Skill 可以最佳化提示詞、視需要規劃並檢查 Storyboard，並生成可控影片。Storyboard 圖片預設使用 Seedream 5.0 Pro，目前影片生成預設使用 Seedance 2.0；只有所選服務商實際提供 Seedance 2.5 時，才切換到 2.5。
 
-| [瀏覽提示詞](https://www.atlascloud.ai/prompts-hub/seedance-2-5-prompt?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills&locale=zh-TW) | [安裝 Seedance 2.5 Skill](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/tree/main/skills/seedance-2-5-skill) | [在 Atlas Cloud 生成](https://www.atlascloud.ai/zh-TW/models/bytedance/seedance-2.5/text-to-video?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills) | [取得 API Key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills) |
+| [瀏覽提示詞](https://www.atlascloud.ai/prompts-hub/seedance-2-5-prompt?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills&locale=zh-TW) | [安裝 Seedance 2.5 Skill](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/tree/main/skills/seedance-2-5-skill) | [在 Atlas Cloud 生成](https://www.atlascloud.ai/?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills) | [取得 API Key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills) |
 |---|---|---|---|
 
-<details><summary>語言 (20)</summary>
+[![English](https://img.shields.io/badge/English-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-%E7%9B%AE%E5%89%8D-brightgreen)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_ja.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_ko.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_th.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_vi.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_hi.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_es.md) [![Deutsch](https://img.shields.io/badge/Deutsch-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_de.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_fr.md) [![Italiano](https://img.shields.io/badge/Italiano-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_it.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_pt.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_tr.md) [![العربية](https://img.shields.io/badge/%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_ar.md) [![Bahasa Indonesia](https://img.shields.io/badge/Bahasa%20Indonesia-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_id.md) [![Nederlands](https://img.shields.io/badge/Nederlands-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_nl.md) [![Polski](https://img.shields.io/badge/Polski-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_pl.md) [![Русский](https://img.shields.io/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_ru.md) [![Svenska](https://img.shields.io/badge/Svenska-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_sv.md)
 
-[English](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/README.md) · [简体中文](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_zh.md) · [繁體中文](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_zh-TW.md) · [日本語](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_ja.md) · [한국어](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_ko.md) · [ไทย](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_th.md) · [Tiếng Việt](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_vi.md) · [हिन्दी](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_hi.md) · [Español](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_es.md) · [Deutsch](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_de.md) · [Français](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_fr.md) · [Italiano](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_it.md) · [Português](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_pt.md) · [Türkçe](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_tr.md) · [العربية](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_ar.md) · [Bahasa Indonesia](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_id.md) · [Nederlands](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_nl.md) · [Polski](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_pl.md) · [Русский](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_ru.md) · [Svenska](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_sv.md)
-
-</details>
+---
 
 <a id="contents"></a>
 
 ## 📖 目錄
 
-- [Seedance 2.5 Skill](#seedance-2-5-skill)
-- [如何使用這個倉庫](#how-to-use)
-- [預設模型與執行方式](#model-and-execution-defaults)
-- [Seedance 2.5 提示詞指南](#prompt-guide)
-- [收錄標準與來源說明](#curation-and-provenance)
-- [常見問題](#faq)
-- [統計資料](#statistics)
-- [精選提示詞](#featured-prompts)
-- [按分類瀏覽](#browse-by-category)
-- [全部提示詞](#all-prompts)
-- [相關資源](#resources)
-- [授權條款](#license)
+- [🤔 Seedance 2.5 是什麼？](#model-overview)
+- [🧩 Seedance 2.5 提示詞指南](#prompt-guide)
+- [🧠 Seedance 2.5 Skill](#seedance-2-5-skill)
+- [🚀 如何使用這個倉庫](#how-to-use)
+- [⚙️ 預設模型與執行方式](#model-and-execution-defaults)
+- [🔎 收錄標準與來源說明](#curation-and-provenance)
+- [📊 統計資料](#statistics)
+- [🔥 精選提示詞](#featured-prompts)
+- [🏷️ 按分類瀏覽](#browse-by-category)
+- [📋 全部提示詞](#all-prompts)
+- [❓ 常見問題](#faq)
+- [🔗 相關資源](#resources)
+- [📄 授權條款](#license)
+
+<a id="model-overview"></a>
+
+## 🤔 Seedance 2.5 是什麼？
+
+Seedance 2.5 是字節跳動繼 Seedance 2.0 之後推出的下一代多模態影片生成模型，面向參考素材驅動的影片創作、更完整的敘事、音影片同步和精確的視覺控制。
+
+**上線資訊：** Seedance 2.5 預計於 2026 年 8 月上線。Atlas Cloud 是 Seedance 2.5 首批 API 上線的官方合作夥伴之一。
+
+公開的 Seedance 2.5 發布資料描述了最長 30 秒、原生 4K、最多 50 個多模態參考素材和局部區域編輯等能力。這些是已發布的能力資訊，不應直接視為所有 API 都支援的固定參數。
+
+**可用性說明：** 不同服務商的模型開放狀態、參考素材數量、時長、解析度和編輯能力可能不同。Skill 會核對實際模型可用性，不會假定 Seedance 2.5 一定可呼叫。
+
+<a id="prompt-guide"></a>
+
+## 🧩 Seedance 2.5 提示詞指南
+
+### Skill 使用的提示詞結構
+
+1. **參考綁定：** 明確每張圖片、每段影片或音訊分別控制什麼。
+2. **可觀察動作：** 按時間順序寫清畫面中真正發生的事件、反應和狀態變化。
+3. **空間關係：** 寫清主體、物體與鏡頭之間的位置和相對關係。
+4. **鏡頭與剪輯：** 只在必要時指定景別、運鏡、切鏡順序、動作匹配和遮擋轉場。
+5. **視覺風格：** 定義光線、色彩、材質、氛圍和節奏。
+6. **音訊：** 當所選模型支援時，定義對白、環境聲、音效或音樂。
+7. **約束：** 只保留真正重要的人物身分、產品細節、場景特徵和禁止項。
+
+### 主要參考資料
+
+- [Seedance 2.0 prompt guide — Volcengine](https://docs.volcengine.com/docs/82379/2222480?lang=zh)
+- [Seedream 5.0 Pro user manual — ByteDance Lark](https://bytedance.larkoffice.com/wiki/HQ8HwXpNFiy6umkP8jNcBwF3nab)
+- [Seedance 2.5 launch overview — Atlas Cloud](https://www.atlascloud.ai/zh-TW/seedance-2-5?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills)
 
 <a id="seedance-2-5-skill"></a>
 
@@ -94,32 +125,6 @@ npx skills add AtlasCloudAI/atlas-cloud-skills --skill atlas-cloud
 
 **[→ 取得 Atlas Cloud API Key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills)**
 
-<a id="prompt-guide"></a>
-
-## 🧩 Seedance 2.5 提示詞指南
-
-**上線資訊：** Seedance 2.5 預計於 2026 年 8 月上線。Atlas Cloud 是 Seedance 2.5 首批 API 上線的官方合作夥伴之一。
-
-公開的 Seedance 2.5 發布資料描述了最長 30 秒、原生 4K、最多 50 個多模態參考素材和局部區域編輯等能力。這些是已發布的能力資訊，不應直接視為所有 API 都支援的固定參數。
-
-**可用性說明：** 不同服務商的模型開放狀態、參考素材數量、時長、解析度和編輯能力可能不同。Skill 會核對實際模型可用性，不會假定 Seedance 2.5 一定可呼叫。
-
-### Skill 使用的提示詞結構
-
-1. **參考綁定：** 明確每張圖片、每段影片或音訊分別控制什麼。
-2. **可觀察動作：** 按時間順序寫清畫面中真正發生的事件、反應和狀態變化。
-3. **空間關係：** 寫清主體、物體與鏡頭之間的位置和相對關係。
-4. **鏡頭與剪輯：** 只在必要時指定景別、運鏡、切鏡順序、動作匹配和遮擋轉場。
-5. **視覺風格：** 定義光線、色彩、材質、氛圍和節奏。
-6. **音訊：** 當所選模型支援時，定義對白、環境聲、音效或音樂。
-7. **約束：** 只保留真正重要的人物身分、產品細節、場景特徵和禁止項。
-
-### 主要參考資料
-
-- [Seedance 2.0 prompt guide — Volcengine](https://docs.volcengine.com/docs/82379/2222480?lang=zh)
-- [Seedream 5.0 Pro user manual — ByteDance Lark](https://bytedance.larkoffice.com/wiki/HQ8HwXpNFiy6umkP8jNcBwF3nab)
-- [Seedance 2.5 launch overview — Atlas Cloud](https://www.atlascloud.ai/zh-TW/seedance-2-5?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills)
-
 <a id="curation-and-provenance"></a>
 
 ## 🔎 收錄標準與來源說明
@@ -128,30 +133,6 @@ npx skills add AtlasCloudAI/atlas-cloud-skills --skill atlas-cloud
 
 - `official` 和 `community` 標籤表示提示詞的來源性質，並不代表每條提示詞都已經在所有服務商和模型版本上完成獨立測試。
 - 預覽影片代表原始設定下的一次真實輸出。模型版本、服務商參數、參考素材、畫幅、seed 和內容審核變化，都可能導致不同結果。
-
-<a id="faq"></a>
-
-## ❓ 常見問題
-
-### Seedance 2.5 Skill 是什麼？
-
-它是 `skills/seedance-2-5-skill/` 中可安裝的 Agent Skill，負責最佳化提示詞、準備必要的 Storyboard 或參考素材、透過 Atlas Cloud 執行並複查結果。
-
-### 使用這個 Skill 必須已經開放 Seedance 2.5 嗎？
-
-不需要。目前可執行的預設模型是 Seedance 2.0；只有所選服務商實際提供 Seedance 2.5 時，Skill 才會使用 2.5。
-
-### 每個影片都必須先生成 Storyboard 嗎？
-
-不需要。只有 Storyboard 能明顯改善多鏡頭規劃、連續性或參考控制時，Skill 才會生成或使用它。
-
-### 預設使用哪個 Atlas 執行通道？
-
-Agent 對話預設使用 Atlas Cloud Skill。MCP、CLI 和 REST 只在使用者明確選擇相應環境時使用。
-
-### 不安裝 Skill，也能直接使用提示詞嗎？
-
-可以。你可以直接瀏覽和複製任意提示詞；需要提示詞最佳化、Storyboard 處理、任務執行、輪詢和自動複查時，再安裝 Skill。
 
 <a id="statistics"></a>
 
@@ -224,11 +205,13 @@ Agent 對話預設使用 Atlas Cloud Skill。MCP、CLI 和 REST 只在使用者�
 
 - **Inputs:**
 
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference1.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference2.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference3.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference4.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference5.png" width="180" referrerpolicy="no-referrer">
+<p>
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference1.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference2.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference3.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference4.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference5.png" width="180" referrerpolicy="no-referrer">
+</p>
 
 #### 描述
 
@@ -253,14 +236,16 @@ Agent 對話預設使用 Atlas Cloud Skill。MCP、CLI 和 REST 只在使用者�
 
 - **Inputs:**
 
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference1.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference2.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference3.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference4.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference5.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference7.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference8.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference9.png" width="180" referrerpolicy="no-referrer">
+<p>
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference1.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference2.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference3.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference4.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference5.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference7.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference8.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference9.png" width="180" referrerpolicy="no-referrer">
+</p>
 
 #### 描述
 
@@ -310,7 +295,9 @@ Agent 對話預設使用 Atlas Cloud Skill。MCP、CLI 和 REST 只在使用者�
 
 - **Inputs:**
 
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-reference1.png" width="180" referrerpolicy="no-referrer">
+<p>
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-reference1.png" width="180" referrerpolicy="no-referrer">
+</p>
 
 #### 描述
 
@@ -335,12 +322,14 @@ Agent 對話預設使用 Atlas Cloud Skill。MCP、CLI 和 REST 只在使用者�
 
 - **Inputs:**
 
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference1.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference2.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference3.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference4.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference5.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference6.png" width="180" referrerpolicy="no-referrer">
+<p>
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference1.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference2.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference3.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference4.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference5.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference6.png" width="180" referrerpolicy="no-referrer">
+</p>
 
 #### 描述
 
@@ -365,7 +354,9 @@ Agent 對話預設使用 Atlas Cloud Skill。MCP、CLI 和 REST 只在使用者�
 
 - **Inputs:**
 
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-reference1.png" width="180" referrerpolicy="no-referrer">
+<p>
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-reference1.png" width="180" referrerpolicy="no-referrer">
+</p>
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-reference2.mp4" controls muted width="360"></video>
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-reference3.mp4" controls muted width="360"></video>
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-reference4.mp4" controls muted width="360"></video>
@@ -488,11 +479,13 @@ Agent 對話預設使用 Atlas Cloud Skill。MCP、CLI 和 REST 只在使用者�
 
 - **Inputs:**
 
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference1.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference2.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference3.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference4.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference5.png" width="180" referrerpolicy="no-referrer">
+<p>
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference1.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference2.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference3.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference4.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference5.png" width="180" referrerpolicy="no-referrer">
+</p>
 
 #### 描述
 
@@ -517,14 +510,16 @@ Agent 對話預設使用 Atlas Cloud Skill。MCP、CLI 和 REST 只在使用者�
 
 - **Inputs:**
 
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference1.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference2.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference3.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference4.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference5.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference7.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference8.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference9.png" width="180" referrerpolicy="no-referrer">
+<p>
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference1.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference2.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference3.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference4.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference5.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference7.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference8.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference9.png" width="180" referrerpolicy="no-referrer">
+</p>
 
 #### 描述
 
@@ -549,7 +544,9 @@ Agent 對話預設使用 Atlas Cloud Skill。MCP、CLI 和 REST 只在使用者�
 
 - **Inputs:**
 
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-reference1.png" width="180" referrerpolicy="no-referrer">
+<p>
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-reference1.png" width="180" referrerpolicy="no-referrer">
+</p>
 
 #### 描述
 
@@ -632,12 +629,14 @@ Agent 對話預設使用 Atlas Cloud Skill。MCP、CLI 和 REST 只在使用者�
 
 - **Inputs:**
 
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference1.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference2.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference3.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference4.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference5.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference6.png" width="180" referrerpolicy="no-referrer">
+<p>
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference1.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference2.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference3.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference4.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference5.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference6.png" width="180" referrerpolicy="no-referrer">
+</p>
 
 #### 描述
 
@@ -666,7 +665,9 @@ Agent 對話預設使用 Atlas Cloud Skill。MCP、CLI 和 REST 只在使用者�
 
 - **Inputs:**
 
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-reference1.png" width="180" referrerpolicy="no-referrer">
+<p>
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-reference1.png" width="180" referrerpolicy="no-referrer">
+</p>
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-reference2.mp4" controls muted width="360"></video>
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-reference3.mp4" controls muted width="360"></video>
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-reference4.mp4" controls muted width="360"></video>
@@ -701,7 +702,9 @@ Agent 對話預設使用 Atlas Cloud Skill。MCP、CLI 和 REST 只在使用者�
 
 - **Inputs:**
 
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab3-group1-reference1.png" width="180" referrerpolicy="no-referrer">
+<p>
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab3-group1-reference1.png" width="180" referrerpolicy="no-referrer">
+</p>
 
 #### 描述
 
@@ -730,7 +733,9 @@ Agent 對話預設使用 Atlas Cloud Skill。MCP、CLI 和 REST 只在使用者�
 
 - **Inputs:**
 
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab3-group2-reference1.png" width="180" referrerpolicy="no-referrer">
+<p>
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab3-group2-reference1.png" width="180" referrerpolicy="no-referrer">
+</p>
 
 #### 描述
 
@@ -3326,6 +3331,30 @@ Shot 6：緩慢拉遠，極光籠罩整片冰原孤木佇立，出現字幕【�
 約束：三名角色造型配色須明顯區分（蛇形/齒輪/咖啡杯），禁止雙胞胎化，同框各一名；純原創擬人，不出現任何真實編程語言商標、logo 或註冊名稱。
 通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
 ```
+
+<a id="faq"></a>
+
+## ❓ 常見問題
+
+### Seedance 2.5 Skill 是什麼？
+
+它是 `skills/seedance-2-5-skill/` 中可安裝的 Agent Skill，負責最佳化提示詞、準備必要的 Storyboard 或參考素材、透過 Atlas Cloud 執行並複查結果。
+
+### 使用這個 Skill 必須已經開放 Seedance 2.5 嗎？
+
+不需要。目前可執行的預設模型是 Seedance 2.0；只有所選服務商實際提供 Seedance 2.5 時，Skill 才會使用 2.5。
+
+### 每個影片都必須先生成 Storyboard 嗎？
+
+不需要。只有 Storyboard 能明顯改善多鏡頭規劃、連續性或參考控制時，Skill 才會生成或使用它。
+
+### 預設使用哪個 Atlas 執行通道？
+
+Agent 對話預設使用 Atlas Cloud Skill。MCP、CLI 和 REST 只在使用者明確選擇相應環境時使用。
+
+### 不安裝 Skill，也能直接使用提示詞嗎？
+
+可以。你可以直接瀏覽和複製任意提示詞；需要提示詞最佳化、Storyboard 處理、任務執行、輪詢和自動複查時，再安裝 Skill。
 
 <details><summary>倉庫開發</summary>
 

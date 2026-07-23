@@ -8,31 +8,62 @@
 
 A curated library of Seedance 2.5 video prompts plus **Seedance 2.5 Skill**, an installable Agent Skill that improves prompts, plans and reviews storyboards when needed, and generates controllable video. It uses Seedream 5.0 Pro for storyboard images and Seedance 2.0 as the current executable video default, switching to Seedance 2.5 only when the selected provider exposes it.
 
-| [Browse prompts](https://www.atlascloud.ai/prompts-hub/seedance-2-5-prompt?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills) | [Install Seedance 2.5 Skill](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/tree/main/skills/seedance-2-5-skill) | [Generate with Atlas Cloud](https://www.atlascloud.ai/vi/models/bytedance/seedance-2.5/text-to-video?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills) | [Get an API key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills) |
+| [Browse prompts](https://www.atlascloud.ai/prompts-hub/seedance-2-5-prompt?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills) | [Install Seedance 2.5 Skill](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/tree/main/skills/seedance-2-5-skill) | [Generate with Atlas Cloud](https://www.atlascloud.ai/?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills) | [Get an API key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills) |
 |---|---|---|---|
 
-<details><summary>Languages (20)</summary>
+[![English](https://img.shields.io/badge/English-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_ja.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_ko.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_th.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-Current-brightgreen)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_vi.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_hi.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_es.md) [![Deutsch](https://img.shields.io/badge/Deutsch-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_de.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_fr.md) [![Italiano](https://img.shields.io/badge/Italiano-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_it.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_pt.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_tr.md) [![العربية](https://img.shields.io/badge/%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_ar.md) [![Bahasa Indonesia](https://img.shields.io/badge/Bahasa%20Indonesia-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_id.md) [![Nederlands](https://img.shields.io/badge/Nederlands-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_nl.md) [![Polski](https://img.shields.io/badge/Polski-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_pl.md) [![Русский](https://img.shields.io/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_ru.md) [![Svenska](https://img.shields.io/badge/Svenska-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_sv.md)
 
-[English](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/README.md) · [简体中文](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_zh.md) · [繁體中文](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_zh-TW.md) · [日本語](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_ja.md) · [한국어](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_ko.md) · [ไทย](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_th.md) · [Tiếng Việt](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_vi.md) · [हिन्दी](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_hi.md) · [Español](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_es.md) · [Deutsch](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_de.md) · [Français](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_fr.md) · [Italiano](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_it.md) · [Português](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_pt.md) · [Türkçe](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_tr.md) · [العربية](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_ar.md) · [Bahasa Indonesia](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_id.md) · [Nederlands](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_nl.md) · [Polski](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_pl.md) · [Русский](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_ru.md) · [Svenska](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_sv.md)
-
-</details>
+---
 
 <a id="contents"></a>
 
 ## 📖 Contents
 
-- [Seedance 2.5 Skill](#seedance-2-5-skill)
-- [How to use this repository](#how-to-use)
-- [Model and execution defaults](#model-and-execution-defaults)
-- [Seedance 2.5 prompt guide](#prompt-guide)
-- [Curation and provenance](#curation-and-provenance)
-- [Frequently asked questions](#faq)
-- [Statistics](#statistics)
-- [Featured Prompts](#featured-prompts)
-- [Browse by Category](#browse-by-category)
-- [All Prompts](#all-prompts)
-- [Resources](#resources)
-- [License](#license)
+- [🤔 What is Seedance 2.5?](#model-overview)
+- [🧩 Seedance 2.5 prompt guide](#prompt-guide)
+- [🧠 Seedance 2.5 Skill](#seedance-2-5-skill)
+- [🚀 How to use this repository](#how-to-use)
+- [⚙️ Model and execution defaults](#model-and-execution-defaults)
+- [🔎 Curation and provenance](#curation-and-provenance)
+- [📊 Statistics](#statistics)
+- [🔥 Featured Prompts](#featured-prompts)
+- [🏷️ Browse by Category](#browse-by-category)
+- [📋 All Prompts](#all-prompts)
+- [❓ Frequently asked questions](#faq)
+- [🔗 Resources](#resources)
+- [📄 License](#license)
+
+<a id="model-overview"></a>
+
+## 🤔 What is Seedance 2.5?
+
+Seedance 2.5 is ByteDance's next-generation multimodal video generation model, following Seedance 2.0. It is designed for reference-driven video creation, longer narrative sequences, synchronized audio and video, and precise visual control.
+
+**Launch status:** Seedance 2.5 is expected to launch in August 2026. Atlas Cloud is one of the first official API launch partners for Seedance 2.5.
+
+Published Seedance 2.5 launch material describes up to 30-second generation, native 4K output, up to 50 multimodal references, and local region editing. Treat these as announced capabilities, not universal API parameters.
+
+**Availability note:** provider availability, reference limits, duration, resolution, and editing controls can differ. The Skill verifies actual model availability instead of assuming Seedance 2.5 is callable.
+
+<a id="prompt-guide"></a>
+
+## 🧩 Seedance 2.5 prompt guide
+
+### Prompt structure used by the Skill
+
+1. **Reference binding:** state what each image, video, or audio reference controls.
+2. **Observable action:** describe visible events in temporal order, including reactions and state changes.
+3. **Spatial relationships:** say where subjects, objects, and the camera are in relation to each other.
+4. **Camera and cuts:** specify framing, movement, cut order, match actions, and occlusions only where they matter.
+5. **Visual style:** define lighting, palette, texture, atmosphere, and pace.
+6. **Audio:** define dialogue, ambience, sound effects, or music when the selected model supports them.
+7. **Constraints:** preserve only the identities, product details, scene traits, and exclusions that are essential.
+
+### Primary references
+
+- [Seedance 2.0 prompt guide — Volcengine](https://docs.volcengine.com/docs/82379/2222480?lang=zh)
+- [Seedream 5.0 Pro user manual — ByteDance Lark](https://bytedance.larkoffice.com/wiki/HQ8HwXpNFiy6umkP8jNcBwF3nab)
+- [Seedance 2.5 launch overview — Atlas Cloud](https://www.atlascloud.ai/vi/seedance-2-5?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills)
 
 <a id="seedance-2-5-skill"></a>
 
@@ -94,32 +125,6 @@ All asynchronous jobs are polled every 2 seconds using the same prediction ID. A
 
 **[→ Get an Atlas Cloud API key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills)**
 
-<a id="prompt-guide"></a>
-
-## 🧩 Seedance 2.5 prompt guide
-
-**Launch status:** Seedance 2.5 is expected to launch in August 2026. Atlas Cloud is one of the first official API launch partners for Seedance 2.5.
-
-Published Seedance 2.5 launch material describes up to 30-second generation, native 4K output, up to 50 multimodal references, and local region editing. Treat these as announced capabilities, not universal API parameters.
-
-**Availability note:** provider availability, reference limits, duration, resolution, and editing controls can differ. The Skill verifies actual model availability instead of assuming Seedance 2.5 is callable.
-
-### Prompt structure used by the Skill
-
-1. **Reference binding:** state what each image, video, or audio reference controls.
-2. **Observable action:** describe visible events in temporal order, including reactions and state changes.
-3. **Spatial relationships:** say where subjects, objects, and the camera are in relation to each other.
-4. **Camera and cuts:** specify framing, movement, cut order, match actions, and occlusions only where they matter.
-5. **Visual style:** define lighting, palette, texture, atmosphere, and pace.
-6. **Audio:** define dialogue, ambience, sound effects, or music when the selected model supports them.
-7. **Constraints:** preserve only the identities, product details, scene traits, and exclusions that are essential.
-
-### Primary references
-
-- [Seedance 2.0 prompt guide — Volcengine](https://docs.volcengine.com/docs/82379/2222480?lang=zh)
-- [Seedream 5.0 Pro user manual — ByteDance Lark](https://bytedance.larkoffice.com/wiki/HQ8HwXpNFiy6umkP8jNcBwF3nab)
-- [Seedance 2.5 launch overview — Atlas Cloud](https://www.atlascloud.ai/vi/seedance-2-5?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills)
-
 <a id="curation-and-provenance"></a>
 
 ## 🔎 Curation and provenance
@@ -128,30 +133,6 @@ Every prompt record keeps its category, source platform, author, source link, in
 
 - The `official` and `community` labels describe where a prompt came from; they are not a guarantee that every prompt has been independently benchmarked across every provider or model version.
 - A preview demonstrates one observed output under its original setup. Results can change with model version, provider parameters, references, aspect ratio, seed, and moderation.
-
-<a id="faq"></a>
-
-## ❓ Frequently asked questions
-
-### What is Seedance 2.5 Skill?
-
-It is the installable Agent Skill in `skills/seedance-2-5-skill/`. It improves prompts, prepares required storyboards or references, executes through Atlas Cloud, and reviews the outputs.
-
-### Does the Skill require public Seedance 2.5 access?
-
-No. The current executable default is Seedance 2.0. The Skill uses Seedance 2.5 only when the selected provider actually exposes it.
-
-### Does every video need a storyboard?
-
-No. The Skill creates or uses a storyboard only when it materially improves multi-shot planning, continuity, or reference control.
-
-### Which Atlas route is used?
-
-Atlas Cloud Skill is the default inside an Agent conversation. MCP, CLI, and REST are selected explicitly for their corresponding environments.
-
-### Can I use the prompts without installing the Skill?
-
-Yes. Browse and copy any prompt directly. Install the Skill when you want prompt adaptation, storyboard handling, execution, polling, and automated review.
 
 <a id="statistics"></a>
 
@@ -224,11 +205,13 @@ Một chuỗi motion-graphics 3D cao cấp, đậm chất điện ảnh, dài 30
 
 - **Inputs:**
 
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference1.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference2.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference3.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference4.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference5.png" width="180" referrerpolicy="no-referrer">
+<p>
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference1.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference2.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference3.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference4.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference5.png" width="180" referrerpolicy="no-referrer">
+</p>
 
 #### Description
 
@@ -253,14 +236,16 @@ Một phim ngắn ý tưởng thương hiệu đậm chất điện ảnh. @imag
 
 - **Inputs:**
 
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference1.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference2.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference3.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference4.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference5.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference7.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference8.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference9.png" width="180" referrerpolicy="no-referrer">
+<p>
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference1.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference2.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference3.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference4.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference5.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference7.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference8.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference9.png" width="180" referrerpolicy="no-referrer">
+</p>
 
 #### Description
 
@@ -310,7 +295,9 @@ Chỉnh sửa video: xóa mọi người trong @video1, chỉ chừa lại nhân
 
 - **Inputs:**
 
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-reference1.png" width="180" referrerpolicy="no-referrer">
+<p>
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-reference1.png" width="180" referrerpolicy="no-referrer">
+</p>
 
 #### Description
 
@@ -335,12 +322,14 @@ Video ca nhạc hip-hop/rap đậm chất điện ảnh, chất lượng chân t
 
 - **Inputs:**
 
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference1.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference2.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference3.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference4.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference5.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference6.png" width="180" referrerpolicy="no-referrer">
+<p>
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference1.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference2.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference3.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference4.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference5.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference6.png" width="180" referrerpolicy="no-referrer">
+</p>
 
 #### Description
 
@@ -365,7 +354,9 @@ Một video hướng dẫn 30 giây về cách lắp đặt và sử dụng máy
 
 - **Inputs:**
 
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-reference1.png" width="180" referrerpolicy="no-referrer">
+<p>
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-reference1.png" width="180" referrerpolicy="no-referrer">
+</p>
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-reference2.mp4" controls muted width="360"></video>
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-reference3.mp4" controls muted width="360"></video>
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-reference4.mp4" controls muted width="360"></video>
@@ -469,11 +460,13 @@ Một chuỗi motion-graphics 3D cao cấp, đậm chất điện ảnh, dài 30
 
 - **Inputs:**
 
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference1.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference2.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference3.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference4.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference5.png" width="180" referrerpolicy="no-referrer">
+<p>
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference1.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference2.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference3.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference4.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference5.png" width="180" referrerpolicy="no-referrer">
+</p>
 
 #### Description
 
@@ -498,14 +491,16 @@ Một phim ngắn ý tưởng thương hiệu đậm chất điện ảnh. @imag
 
 - **Inputs:**
 
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference1.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference2.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference3.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference4.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference5.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference7.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference8.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference9.png" width="180" referrerpolicy="no-referrer">
+<p>
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference1.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference2.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference3.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference4.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference5.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference7.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference8.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference9.png" width="180" referrerpolicy="no-referrer">
+</p>
 
 #### Description
 
@@ -530,7 +525,9 @@ Một cú máy liên tục. Máy quay theo chân một người mặc áo khoác
 
 - **Inputs:**
 
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-reference1.png" width="180" referrerpolicy="no-referrer">
+<p>
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-reference1.png" width="180" referrerpolicy="no-referrer">
+</p>
 
 #### Description
 
@@ -613,12 +610,14 @@ Phong cách hiện thực điện ảnh siêu thực với kết cấu quay th�
 
 - **Inputs:**
 
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference1.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference2.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference3.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference4.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference5.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference6.png" width="180" referrerpolicy="no-referrer">
+<p>
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference1.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference2.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference3.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference4.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference5.png" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference6.png" width="180" referrerpolicy="no-referrer">
+</p>
 
 #### Description
 
@@ -647,7 +646,9 @@ Một video hướng dẫn 30 giây về cách lắp đặt và sử dụng máy
 
 - **Inputs:**
 
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-reference1.png" width="180" referrerpolicy="no-referrer">
+<p>
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-reference1.png" width="180" referrerpolicy="no-referrer">
+</p>
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-reference2.mp4" controls muted width="360"></video>
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-reference3.mp4" controls muted width="360"></video>
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-reference4.mp4" controls muted width="360"></video>
@@ -682,7 +683,9 @@ Phong cách quảng cáo tươi sáng, đầy màu sắc với bánh quy trái c
 
 - **Inputs:**
 
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab3-group1-reference1.png" width="180" referrerpolicy="no-referrer">
+<p>
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab3-group1-reference1.png" width="180" referrerpolicy="no-referrer">
+</p>
 
 #### Description
 
@@ -711,7 +714,9 @@ Phong cách quảng cáo hoạt hình 3D, màu sắc tươi sáng và trong tr�
 
 - **Inputs:**
 
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab3-group2-reference1.png" width="180" referrerpolicy="no-referrer">
+<p>
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab3-group2-reference1.png" width="180" referrerpolicy="no-referrer">
+</p>
 
 #### Description
 
@@ -722,6 +727,30 @@ Một phim ngắn điện ảnh hài đen dài khoảng 30 giây: một gã đà
 ```text
 [Gã Say Hoảng Hồn Trên Nóc Nhà — ngã khỏi mép — chộp dây qua cửa sổ — ngất luôn tại chỗ | phim ngắn hài đen | khoảng 30 giây] Tóm tắt một dòng: một gã đàn ông trung niên mập mạp, dễ thương, say xỉn đang ăn burger và uống bia trên nóc một tòa nhà; khi đứng dậy vươn vai, gã lỡ mất thăng bằng và ngã, trong cơn hoảng loạn chộp được một sợi dây cứu sinh rồi lập tức đâm xuyên qua một ô cửa kính vào bên trong, choáng váng sững sờ một giây, rồi cứ thế nằm luôn tại chỗ và ngủ say như chết. Ảnh tham chiếu @image1 — một gã đàn ông trung niên mập mạp, dễ thương, say xỉn: dáng người tròn trịa, chắc nịch với cái bụng bia tròn to, thấp bé, cử động lỏng lẻo, chậm chạp và loạng choạng vì rượu; khuôn mặt tròn, cằm hai ngấn, má và mũi ửng đỏ vì rượu, mắt híp lại thành khe với ánh nhìn lờ đờ, một vòng râu lởm chởm ngắn chưa cạo, tóc bù xù, vẻ mặt ngờ nghệch, dễ thương, vô lo; mặc một chiếc áo lót ba lỗ trắng dính sốt burger buông lùng thùng trùm cái bụng tròn, quần jeans cũ, lê đôi dép lỏng lẻo bước đi, tay luôn nắm một chiếc burger ăn dở. Cả phim chỉ có duy nhất nhân vật này, khớp 100% với ảnh tham chiếu. Diện mạo tổng thể: một siêu đô thị cyberpunk về đêm, một rừng nhà chọc trời kính-và-thép dày đặc, biển hiệu neon (xanh lơ/hồng cánh sen/xanh điện), bảng quảng cáo hologram, mặt đất ướt phản chiếu, sương thể tích, những vệt sáng xe bay và drone ở phía xa. Kết cấu quay thực tế, ống kính điện ảnh thật, không có cảm giác dựng 3D/game engine/anime. Máy quay pha trộn giữa cầm tay với cần cẩu/drone; sau cú ngã, máy quay lao xuống cùng gã khi tường ngoài tòa nhà và neon vụt lên trên để truyền tải tốc độ, kết cấu ống kính điện ảnh màn ảnh rộng 24-35mm, nhòe chuyển động màn trập 180 độ. Thiết kế âm thanh là chìa khóa của sự hài đen: liên tục cắt cứng qua lại giữa "một tiếng gầm khổng lồ" và "sự im lặng tuyệt đối". Duy trì trọng lực thật xuyên suốt. Storyboard (khoảng 30 giây): S1 (0-4s) mở đầu cận cảnh lớn cảnh nhai (có tiếng) khuôn mặt gã chiếm trọn màn hình, ngoạm burger từng miếng to, trạng thái say mãn nguyện; S2 (4-9s) kéo ra toàn cảnh, vươn vai -> mất thăng bằng và ngã (có tiếng) gã lảo đảo đứng dậy và vươn vai thật lớn, ngả người ra sau, không giữ nổi thăng bằng, chân trượt và ngã lộn nhào ra sau qua mép nóc nhà, tay không hề buông chiếc burger, kèm tiếng hốt hoảng "Ơ——!"; S3 (9-12s) cắt sang cận cảnh khuôn mặt hoảng hốt (một tiếng hét lớn, tiếng gầm khổng lồ) đôi mắt say trợn tròn, cằm hai ngấn dồn lại, miệng há to hét "Aaaa——!!", gió rít gào; S4 (12-16s) cắt sang cảnh viễn ngang tầm mắt (im lặng tuyệt đối) nhìn từ tòa nhà đối diện, một bóng người trắng nhỏ xíu rơi thẳng đứng xuống từ tòa cao ốc, thành phố neon bao la và thờ ơ, sự im lặng tuyệt đối tạo nên tương phản hài đen với tiếng gầm khổng lồ một giây trước đó; S5 (16-21s) cắt sang cận cảnh khuôn mặt (đang hét) -> chộp dây, vẫn đang hét, hai tay khua loạn trong không trung, gã bất chợt chộp được một sợi cáp cứu sinh, sợi cáp căng phựt và cong xuống dưới sức nặng của gã với một tiếng "tưng", tiếng hét tắt lịm đột ngột khi gã bị giật mạnh và văng đu ra ngoài (một đoạn quay chậm ngắn ở khoảnh khắc gã chộp được dây); S6 (21-26s) cắt sang góc bên trong (yên tĩnh) -> kính vỡ -> gã đâm sầm vào, bên trong ban đầu yên tĩnh chỉ có tiếng máy lạnh chạy ro ro, giây tiếp theo tấm kính nổ tung vào bên trong (một đoạn bullet time ngắn) khi gã say cùng cả chiếc burger đâm xuyên qua ô cửa kính, mảnh kính văng ra theo hình tia, ánh neon tràn vào, và gã rơi nặng nề vào phòng xuống sàn/ghế sofa, mảnh kính vỡ kêu loảng xoảng; S7 (26-30s) đoạn kết, một giây sững sờ -> ngủ thiếp đi, gã nằm dang tay chân trên sàn, phủ đầy mảnh kính vỡ, vẫn nắm chặt chiếc burger, từ từ mở mắt, choáng váng, ngơ ngác và sững sờ trọn một giây, nhìn quanh như đang nghĩ "mình đang ở đâu vậy?", rồi cơn say ập đến và, chẳng buồn quan tâm gì cả, gã chép miệng, ôm chiếc burger vào lòng, lăn người, nằm luôn xuống ngay tại chỗ và ngủ say như chết, thậm chí còn ngáy khe khẽ, máy quay lùi ra và đứng hình, cắt cứng sang màn đen. Chỉ dùng âm thanh thu trực tiếp tại hiện trường, không nhạc, không phụ đề; cốt lõi là những cú cắt cứng liên tục giữa "tiếng gầm khổng lồ" và "sự im lặng".
 ```
+
+<a id="faq"></a>
+
+## ❓ Frequently asked questions
+
+### What is Seedance 2.5 Skill?
+
+It is the installable Agent Skill in `skills/seedance-2-5-skill/`. It improves prompts, prepares required storyboards or references, executes through Atlas Cloud, and reviews the outputs.
+
+### Does the Skill require public Seedance 2.5 access?
+
+No. The current executable default is Seedance 2.0. The Skill uses Seedance 2.5 only when the selected provider actually exposes it.
+
+### Does every video need a storyboard?
+
+No. The Skill creates or uses a storyboard only when it materially improves multi-shot planning, continuity, or reference control.
+
+### Which Atlas route is used?
+
+Atlas Cloud Skill is the default inside an Agent conversation. MCP, CLI, and REST are selected explicitly for their corresponding environments.
+
+### Can I use the prompts without installing the Skill?
+
+Yes. Browse and copy any prompt directly. Install the Skill when you want prompt adaptation, storyboard handling, execution, polling, and automated review.
 
 <details><summary>Repository development</summary>
 
