@@ -70,7 +70,6 @@ interface HomeCopy {
   visualStyle: string;
   audio: string;
   constraints: string;
-  sources: string;
   curation: string;
   curationText: string;
   officialCommunity: string;
@@ -142,7 +141,6 @@ const homeCopyEn: HomeCopy = {
   visualStyle: "**Visual style:** define lighting, palette, texture, atmosphere, and pace.",
   audio: "**Audio:** define dialogue, ambience, sound effects, or music when the selected model supports them.",
   constraints: "**Constraints:** preserve only the identities, product details, scene traits, and exclusions that are essential.",
-  sources: "Primary references",
   curation: "Curation and provenance",
   curationText:
     "Every prompt record keeps its category, source platform, author, source link, input references, and preview video when available. Prompt text remains unchanged during README generation.",
@@ -223,7 +221,6 @@ const homeCopyZh: HomeCopy = {
   visualStyle: "**视觉风格：** 定义光线、色彩、材质、氛围和节奏。",
   audio: "**音频：** 当所选模型支持时，定义对白、环境声、音效或音乐。",
   constraints: "**约束：** 只保留真正重要的人物身份、产品细节、场景特征和禁止项。",
-  sources: "主要参考资料",
   curation: "收录标准与来源说明",
   curationText:
     "每条提示词都会保留分类、来源平台、作者、原始链接、输入参考素材，以及可用时的预览视频。README 生成过程不会改写提示词正文。",
@@ -304,7 +301,6 @@ const homeCopyZhTw: HomeCopy = {
   visualStyle: "**視覺風格：** 定義光線、色彩、材質、氛圍和節奏。",
   audio: "**音訊：** 當所選模型支援時，定義對白、環境聲、音效或音樂。",
   constraints: "**約束：** 只保留真正重要的人物身分、產品細節、場景特徵和禁止項。",
-  sources: "主要參考資料",
   curation: "收錄標準與來源說明",
   curationText:
     "每條提示詞都會保留分類、來源平台、作者、原始連結、輸入參考素材，以及可用時的預覽影片。README 生成過程不會改寫提示詞正文。",
@@ -443,9 +439,12 @@ function renderExecution(locale: string): string {
 
 function renderMoreTools(locale: string): string {
   const copy = getHomeCopy(locale);
+  const websiteLabel =
+    locale === "zh" ? "Atlas Cloud 官网" : locale === "zh-TW" ? "Atlas Cloud 官方網站" : "Atlas Cloud official website";
   return [
     renderHeading("resources", `🔗 ${copy.resources}`),
     "",
+    `- [${websiteLabel}](${buildAtlasHomepageUrl()})`,
     `- [Seedance 2.5 prompt gallery](${buildPromptLibraryUrl(locale)})`,
     `- [Atlas Cloud Seedance 2.5 page](https://www.atlascloud.ai${buildLocalePrefix(locale)}/seedance-2-5${UTM})`,
     "- [Atlas Cloud Skill](https://github.com/AtlasCloudAI/atlas-cloud-skills)",
@@ -564,12 +563,6 @@ function renderPromptGuide(locale: string): string {
     "5. " + copy.visualStyle,
     "6. " + copy.audio,
     "7. " + copy.constraints,
-    "",
-    `### ${copy.sources}`,
-    "",
-    `- [Seedance 2.0 prompt guide — Volcengine](https://docs.volcengine.com/docs/82379/2222480?lang=zh)`,
-    `- [Seedream 5.0 Pro user manual — ByteDance Lark](https://bytedance.larkoffice.com/wiki/HQ8HwXpNFiy6umkP8jNcBwF3nab)`,
-    `- [Seedance 2.5 launch overview — Atlas Cloud](https://www.atlascloud.ai${buildLocalePrefix(locale)}/seedance-2-5${UTM})`,
     "",
   ].join("\n");
 }

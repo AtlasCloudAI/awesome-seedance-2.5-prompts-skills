@@ -59,12 +59,6 @@ Published Seedance 2.5 launch material describes up to 30-second generation, nat
 6. **Audio:** define dialogue, ambience, sound effects, or music when the selected model supports them.
 7. **Constraints:** preserve only the identities, product details, scene traits, and exclusions that are essential.
 
-### Primary references
-
-- [Seedance 2.0 prompt guide — Volcengine](https://docs.volcengine.com/docs/82379/2222480?lang=zh)
-- [Seedream 5.0 Pro user manual — ByteDance Lark](https://bytedance.larkoffice.com/wiki/HQ8HwXpNFiy6umkP8jNcBwF3nab)
-- [Seedance 2.5 launch overview — Atlas Cloud](https://www.atlascloud.ai/th/seedance-2-5?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills)
-
 <a id="seedance-2-5-skill"></a>
 
 ## 🧠 Seedance 2.5 Skill
@@ -767,6 +761,7 @@ npx tsc --noEmit
 ## 🔗 Resources
 
 
+- [Atlas Cloud official website](https://www.atlascloud.ai/?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills)
 - [Seedance 2.5 prompt gallery](https://www.atlascloud.ai/prompts-hub/seedance-2-5-prompt?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills)
 - [Atlas Cloud Seedance 2.5 page](https://www.atlascloud.ai/th/seedance-2-5?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills)
 - [Atlas Cloud Skill](https://github.com/AtlasCloudAI/atlas-cloud-skills)

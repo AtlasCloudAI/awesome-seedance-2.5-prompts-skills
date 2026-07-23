@@ -59,12 +59,6 @@ Seedance 2.5 是字节跳动继 Seedance 2.0 之后推出的下一代多模态�
 6. **音频：** 当所选模型支持时，定义对白、环境声、音效或音乐。
 7. **约束：** 只保留真正重要的人物身份、产品细节、场景特征和禁止项。
 
-### 主要参考资料
-
-- [Seedance 2.0 prompt guide — Volcengine](https://docs.volcengine.com/docs/82379/2222480?lang=zh)
-- [Seedream 5.0 Pro user manual — ByteDance Lark](https://bytedance.larkoffice.com/wiki/HQ8HwXpNFiy6umkP8jNcBwF3nab)
-- [Seedance 2.5 launch overview — Atlas Cloud](https://www.atlascloud.ai/zh/seedance-2-5?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills)
-
 <a id="seedance-2-5-skill"></a>
 
 ## 🧠 Seedance 2.5 Skill
@@ -3371,6 +3365,7 @@ npx tsc --noEmit
 ## 🔗 相关资源
 
 
+- [Atlas Cloud 官网](https://www.atlascloud.ai/?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills)
 - [Seedance 2.5 prompt gallery](https://www.atlascloud.ai/prompts-hub/seedance-2-5-prompt?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills&locale=zh-CN)
 - [Atlas Cloud Seedance 2.5 page](https://www.atlascloud.ai/zh/seedance-2-5?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills)
 - [Atlas Cloud Skill](https://github.com/AtlasCloudAI/atlas-cloud-skills)
