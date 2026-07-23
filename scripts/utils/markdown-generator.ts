@@ -32,127 +32,505 @@ function renderBadges(promptCount: number): string {
   ].join("\n");
 }
 
-function renderSupportedModels(): string {
-  return [
-    "## 🧩 Supported Models",
-    "",
-    "- 🎬 **Video** — Seedance 2.5 · Seedance 2.0 · Seedance 2.0 Mini · Kling 3 · Sora 2 · Veo 3.1 · HappyHorse 1 · Grok Imagine 1.5 · Wan 2.7",
-    "- 🎨 **Image** — Seedream 5.0 Pro · Nano Banana 2/Pro · GPT Image 2 · Flux 2 · Seedream 5",
-    "- 🧊 **3D** — Seed3D 2.0 · Hunyuan 3D Pro · Hunyuan 3D Rapid",
-    "- 💬 **LLM** — Claude · GPT · DeepSeek · MiniMax · Kimi · GLM · Qwen",
-    "- 🔊 **Audio** — Grok TTS",
-    `- 📚 **Explore more** — [300+ models »](https://www.atlascloud.ai/models${UTM})`,
-    "",
-  ].join("\n");
+interface HomeCopy {
+  hero: string;
+  languages: string;
+  contents: string;
+  skillDescription: string;
+  install: string;
+  installBoth: string;
+  whatItDoes: string;
+  route: string;
+  bestFor: string;
+  input: string;
+  output: string;
+  routeT2V: string;
+  bestForT2V: string;
+  inputT2V: string;
+  outputT2V: string;
+  routeStoryboard: string;
+  bestForStoryboard: string;
+  inputStoryboard: string;
+  outputStoryboard: string;
+  routeAssets: string;
+  bestForAssets: string;
+  inputAssets: string;
+  outputAssets: string;
+  routeI2V: string;
+  bestForI2V: string;
+  inputI2V: string;
+  outputI2V: string;
+  routeExtend: string;
+  bestForExtend: string;
+  inputExtend: string;
+  outputExtend: string;
+  skillFiles: string;
+  howToUse: string;
+  browse: string;
+  adapt: string;
+  generate: string;
+  execution: string;
+  executionIntro: string;
+  executionSkill: string;
+  executionMcp: string;
+  executionCliRest: string;
+  polling: string;
+  modelDefaults: string;
+  modelDefaultText: string;
+  promptGuide: string;
+  capabilityIntro: string;
+  availability: string;
+  promptStructure: string;
+  referenceBinding: string;
+  observableAction: string;
+  spatialRelations: string;
+  cameraCuts: string;
+  visualStyle: string;
+  audio: string;
+  constraints: string;
+  sources: string;
+  curation: string;
+  curationText: string;
+  officialCommunity: string;
+  previewMeaning: string;
+  faq: string;
+  faqSkillQuestion: string;
+  faqSkillAnswer: string;
+  faqAvailabilityQuestion: string;
+  faqAvailabilityAnswer: string;
+  faqStoryboardQuestion: string;
+  faqStoryboardAnswer: string;
+  faqExecutionQuestion: string;
+  faqExecutionAnswer: string;
+  faqPromptQuestion: string;
+  faqPromptAnswer: string;
+  resources: string;
+  development: string;
 }
 
-function renderRunAnyPrompt(): string {
+const homeCopyEn: HomeCopy = {
+  hero:
+    "A curated library of Seedance 2.5 video prompts plus **Seedance 2.5 Skill**, an installable Agent Skill for planning, optimizing, and generating controllable video. The Skill chooses the right T2V, R2V, I2V, or extension route, uses Seedream 5.0 Pro for storyboards and Seedance 2.0 as the current executable default, and switches to Seedance 2.5 only when the selected provider exposes it.",
+  languages: "Languages",
+  contents: "Contents",
+  skillDescription:
+    "**Seedance 2.5 Skill** is the name of the installable Agent Skill in this repository. It turns a creative brief, references, or a storyboard into the right generation route, prompt, intermediate assets, execution request, and review loop.",
+  install: "Install",
+  installBoth: "Install the workflow Skill and its default Atlas Cloud execution Skill:",
+  whatItDoes: "What it does",
+  route: "Route",
+  bestFor: "Use when",
+  input: "Primary input",
+  output: "Generation unit",
+  routeT2V: "T2V",
+  bestForT2V: "One short, simple scene",
+  inputT2V: "Text prompt",
+  outputT2V: "One self-contained shot",
+  routeStoryboard: "R2V storyboard",
+  bestForStoryboard: "A readable multi-shot storyboard",
+  inputStoryboard: "One complete storyboard image",
+  outputStoryboard: "One request follows the panel order",
+  routeAssets: "R2V asset references",
+  bestForAssets: "People, products, objects, scenes, or styles must stay consistent",
+  inputAssets: "A small role-specific asset pack",
+  outputAssets: "One reference-controlled clip",
+  routeI2V: "I2V shot pair",
+  bestForI2V: "The exact beginning and ending of a shot matter",
+  inputI2V: "Start keyframe, optional end keyframe",
+  outputI2V: "One independently reviewable shot",
+  routeExtend: "Extend / chain",
+  bestForExtend: "A longer sequence must continue an accepted clip",
+  inputExtend: "Prior clip or end frame",
+  outputExtend: "A continuity-aware extension",
+  skillFiles: "Skill files and references",
+  howToUse: "How to use this repository",
+  browse: "**Browse:** filter by category, open a real preview when available, and copy the prompt.",
+  adapt: "**Adapt:** ask Seedance 2.5 Skill to rewrite a prompt for your subject, duration, aspect ratio, references, and continuity needs.",
+  generate:
+    "**Generate:** let the Skill choose the route, create and show intermediate storyboards when needed, review them automatically, and submit the final image or video request through the selected Atlas channel.",
+  execution: "Model and execution defaults",
+  executionIntro:
+    "The workflow Skill and the execution adapter are separate layers. The workflow decides what to make; the selected Atlas channel submits, polls, and retrieves the media.",
+  executionSkill:
+    "**Atlas Cloud Skill:** default direct execution route inside an Agent conversation. If it is missing, the workflow helps install it and directs the user to obtain an API key.",
+  executionMcp: "**Atlas MCP:** used when the user explicitly selects MCP and its generation tools are available.",
+  executionCliRest: "**Atlas CLI / REST:** used for explicit terminal, script, CI, or batch workflows.",
+  polling:
+    "All asynchronous jobs are polled every 2 seconds using the same prediction ID. A timeout or delayed output is not permission to submit a duplicate paid generation.",
+  modelDefaults: "Model defaults",
+  modelDefaultText:
+    "**Storyboard stills:** Seedream 5.0 Pro. **Executable video default:** Seedance 2.0. **Seedance 2.5:** only when the selected provider exposes the model and its actual limits.",
+  promptGuide: "Seedance 2.5 prompt guide",
+  capabilityIntro:
+    "Published Seedance 2.5 launch material describes up to 30-second generation, native 4K output, up to 50 multimodal references, and local region editing. Treat these as announced capabilities, not universal API parameters.",
+  availability:
+    "**Availability note:** provider availability, reference limits, duration, resolution, and editing controls can differ. The Skill verifies the selected route instead of assuming Seedance 2.5 is callable.",
+  promptStructure: "Prompt structure used by the Skill",
+  referenceBinding: "**Reference binding:** state what each image, video, or audio reference controls.",
+  observableAction: "**Observable action:** describe visible events in temporal order, including reactions and state changes.",
+  spatialRelations: "**Spatial relationships:** say where subjects, objects, and the camera are in relation to each other.",
+  cameraCuts: "**Camera and cuts:** specify framing, movement, cut order, match actions, and occlusions only where they matter.",
+  visualStyle: "**Visual style:** define lighting, palette, texture, atmosphere, and pace.",
+  audio: "**Audio:** define dialogue, ambience, sound effects, or music when the selected model route supports them.",
+  constraints: "**Constraints:** preserve only the identities, product details, scene traits, and exclusions that are essential.",
+  sources: "Primary references",
+  curation: "Curation and provenance",
+  curationText:
+    "Every prompt record keeps its category, source platform, author, source link, input references, and preview video when available. Prompt text remains unchanged during README generation.",
+  officialCommunity:
+    "The `official` and `community` labels describe where a prompt came from; they are not a guarantee that every prompt has been independently benchmarked across every provider or model version.",
+  previewMeaning:
+    "A preview demonstrates one observed output under its original setup. Results can change with model version, provider parameters, references, aspect ratio, seed, and moderation.",
+  faq: "Frequently asked questions",
+  faqSkillQuestion: "What is Seedance 2.5 Skill?",
+  faqSkillAnswer:
+    "It is the installable Agent Skill in `skills/seedance-2-5-skill/`. It selects a generation route, prepares only the required assets, writes the prompt, executes through Atlas Cloud, and reviews the outputs.",
+  faqAvailabilityQuestion: "Does the Skill require public Seedance 2.5 access?",
+  faqAvailabilityAnswer:
+    "No. The current executable default is Seedance 2.0. The Skill uses Seedance 2.5 only when the selected provider actually exposes it.",
+  faqStoryboardQuestion: "Does every video need a storyboard?",
+  faqStoryboardAnswer:
+    "No. A simple scene can use T2V directly. A readable multi-shot storyboard is normally sent as one complete R2V reference; panels are cropped only when the route deliberately changes to independent I2V shots.",
+  faqExecutionQuestion: "Which Atlas route is used?",
+  faqExecutionAnswer:
+    "Atlas Cloud Skill is the default inside an Agent conversation. MCP, CLI, and REST are selected explicitly for their corresponding environments.",
+  faqPromptQuestion: "Can I use the prompts without installing the Skill?",
+  faqPromptAnswer:
+    "Yes. Browse and copy any prompt directly. Install the Skill when you want route selection, adaptation, storyboard handling, execution, polling, and automated review.",
+  resources: "Resources",
+  development: "Repository development",
+};
+
+const homeCopyZh: HomeCopy = {
+  ...homeCopyEn,
+  hero:
+    "一个经过整理的 Seedance 2.5 视频提示词库，以及可安装的 **Seedance 2.5 Skill**。这个 Agent Skill 会根据需求选择 T2V、R2V、I2V 或延展路线，使用 Seedream 5.0 Pro 生成分镜参考图，当前默认用 Seedance 2.0 执行视频生成；只有当所选服务商实际提供 Seedance 2.5 时，才切换到 2.5。",
+  languages: "语言",
+  contents: "目录",
+  skillDescription:
+    "**Seedance 2.5 Skill** 是本仓库内可安装 Agent Skill 的正式名称。它会把创意需求、参考素材或 Storyboard 转换成合适的生成路线、提示词、中间素材、执行请求和质量复查流程。",
+  install: "安装",
+  installBoth: "安装工作流 Skill，以及默认用于执行生成的 Atlas Cloud Skill：",
+  whatItDoes: "它会做什么",
+  route: "路线",
+  bestFor: "适用场景",
+  input: "主要输入",
+  output: "生成单位",
+  routeT2V: "T2V",
+  bestForT2V: "一个简单、独立的短场景",
+  inputT2V: "文本提示词",
+  outputT2V: "一个完整镜头",
+  routeStoryboard: "R2V Storyboard",
+  bestForStoryboard: "包含多个可读分镜的故事板",
+  inputStoryboard: "一张完整 Storyboard 图片",
+  outputStoryboard: "一次请求按分镜顺序生成",
+  routeAssets: "R2V 素材参考",
+  bestForAssets: "人物、产品、物体、场景或风格需要保持一致",
+  inputAssets: "少量、职责明确的参考素材",
+  outputAssets: "一个受参考素材约束的片段",
+  routeI2V: "I2V 首尾帧",
+  bestForI2V: "镜头的准确起点和终点很重要",
+  inputI2V: "首帧，按需增加尾帧",
+  outputI2V: "一个可独立复查的镜头",
+  routeExtend: "延展 / 串联",
+  bestForExtend: "需要从已接受的视频继续生成更长内容",
+  inputExtend: "上一段视频或尾帧",
+  outputExtend: "保持连续性的延展片段",
+  skillFiles: "Skill 文件与参考资料",
+  howToUse: "如何使用这个仓库",
+  browse: "**浏览：** 按分类查找提示词；有真实预览时先看预览，再复制提示词。",
+  adapt: "**优化：** 让 Seedance 2.5 Skill 根据主体、时长、画幅、参考素材和连续性要求改写提示词。",
+  generate:
+    "**生成：** 让 Skill 自动选择路线；需要 Storyboard 时先生成并展示中间图，由 Agent 自行检查质量，然后通过所选 Atlas 通道提交图片或视频任务。",
+  execution: "默认模型与执行方式",
+  executionIntro:
+    "工作流 Skill 和执行适配层是两层：前者决定做什么、怎么做；Atlas 执行通道负责提交、轮询和取回图片或视频。",
+  executionSkill:
+    "**Atlas Cloud Skill：** Agent 会话中的默认直接执行方式。若未安装，工作流会协助安装，并引导用户获取 API Key。",
+  executionMcp: "**Atlas MCP：** 只有用户明确选择 MCP，且当前客户端暴露生成工具时才使用。",
+  executionCliRest: "**Atlas CLI / REST：** 用于用户明确选择的终端、脚本、CI 或批量任务。",
+  polling:
+    "所有异步任务都使用同一个 prediction ID 每 2 秒轮询一次。超时或暂时没有输出，不代表可以重复提交付费生成任务。",
+  modelDefaults: "默认模型",
+  modelDefaultText:
+    "**Storyboard 静帧：** Seedream 5.0 Pro。**当前默认视频模型：** Seedance 2.0。**Seedance 2.5：** 只有所选服务商实际提供模型和明确参数限制时才使用。",
+  promptGuide: "Seedance 2.5 提示词指南",
+  capabilityIntro:
+    "公开的 Seedance 2.5 发布资料描述了最长 30 秒、原生 4K、最多 50 个多模态参考素材和局部区域编辑等能力。这些是已发布的能力信息，不应直接视为所有 API 都支持的固定参数。",
+  availability:
+    "**可用性说明：** 不同服务商的模型开放状态、参考素材数量、时长、分辨率和编辑能力可能不同。Skill 会先核对所选路线，不会假定 Seedance 2.5 一定可调用。",
+  promptStructure: "Skill 使用的提示词结构",
+  referenceBinding: "**参考绑定：** 明确每张图片、每段视频或音频分别控制什么。",
+  observableAction: "**可观察动作：** 按时间顺序写清画面中真正发生的事件、反应和状态变化。",
+  spatialRelations: "**空间关系：** 写清主体、物体与镜头之间的位置和相对关系。",
+  cameraCuts: "**镜头与剪辑：** 只在必要时指定景别、运镜、切镜顺序、动作匹配和遮挡转场。",
+  visualStyle: "**视觉风格：** 定义光线、色彩、材质、氛围和节奏。",
+  audio: "**音频：** 当所选模型路线支持时，定义对白、环境声、音效或音乐。",
+  constraints: "**约束：** 只保留真正重要的人物身份、产品细节、场景特征和禁止项。",
+  sources: "主要参考资料",
+  curation: "收录标准与来源说明",
+  curationText:
+    "每条提示词都会保留分类、来源平台、作者、原始链接、输入参考素材，以及可用时的预览视频。README 生成过程不会改写提示词正文。",
+  officialCommunity:
+    "`official` 和 `community` 标签表示提示词的来源性质，并不代表每条提示词都已经在所有服务商和模型版本上完成独立测试。",
+  previewMeaning:
+    "预览视频代表原始配置下的一次真实输出。模型版本、服务商参数、参考素材、画幅、seed 和内容审核变化，都可能导致不同结果。",
+  faq: "常见问题",
+  faqSkillQuestion: "Seedance 2.5 Skill 是什么？",
+  faqSkillAnswer:
+    "它是 `skills/seedance-2-5-skill/` 中的可安装 Agent Skill，负责选择生成路线、准备必要素材、编写提示词、通过 Atlas Cloud 执行并复查结果。",
+  faqAvailabilityQuestion: "使用这个 Skill 必须已经开放 Seedance 2.5 吗？",
+  faqAvailabilityAnswer:
+    "不需要。当前可执行默认模型是 Seedance 2.0；只有所选服务商真实提供 Seedance 2.5 时，Skill 才会使用 2.5。",
+  faqStoryboardQuestion: "每个视频都必须先生成 Storyboard 吗？",
+  faqStoryboardAnswer:
+    "不需要。简单场景可以直接 T2V。可读的多镜头 Storyboard 默认会作为一张完整图片提交给 R2V；只有明确切换成独立 I2V 镜头路线时才切格。",
+  faqExecutionQuestion: "默认使用哪个 Atlas 执行通道？",
+  faqExecutionAnswer:
+    "Agent 会话默认使用 Atlas Cloud Skill。MCP、CLI 和 REST 只在用户明确选择相应环境时使用。",
+  faqPromptQuestion: "不安装 Skill，也能直接使用提示词吗？",
+  faqPromptAnswer:
+    "可以。你可以直接浏览和复制任意提示词；需要路线选择、提示词优化、Storyboard 处理、任务执行、轮询和自动复查时，再安装 Skill。",
+  resources: "相关资源",
+  development: "仓库开发",
+};
+
+const homeCopyZhTw: HomeCopy = {
+  ...homeCopyZh,
+  hero:
+    "一個經過整理的 Seedance 2.5 影片提示詞庫，以及可安裝的 **Seedance 2.5 Skill**。這個 Agent Skill 會依需求選擇 T2V、R2V、I2V 或延展路線，使用 Seedream 5.0 Pro 生成分鏡參考圖，目前預設以 Seedance 2.0 執行影片生成；只有所選服務商實際提供 Seedance 2.5 時，才切換到 2.5。",
+  languages: "語言",
+  contents: "目錄",
+  skillDescription:
+    "**Seedance 2.5 Skill** 是本倉庫內可安裝 Agent Skill 的正式名稱。它會把創意需求、參考素材或 Storyboard 轉換成合適的生成路線、提示詞、中間素材、執行請求和品質複查流程。",
+  install: "安裝",
+  installBoth: "安裝工作流 Skill，以及預設用於執行生成的 Atlas Cloud Skill：",
+  whatItDoes: "它會做什麼",
+  route: "路線",
+  bestFor: "適用場景",
+  input: "主要輸入",
+  output: "生成單位",
+  routeT2V: "T2V",
+  bestForT2V: "一個簡單、獨立的短場景",
+  inputT2V: "文字提示詞",
+  outputT2V: "一個完整鏡頭",
+  routeStoryboard: "R2V Storyboard",
+  bestForStoryboard: "包含多個可讀分鏡的故事板",
+  inputStoryboard: "一張完整 Storyboard 圖片",
+  outputStoryboard: "一次請求按分鏡順序生成",
+  routeAssets: "R2V 素材參考",
+  bestForAssets: "人物、產品、物體、場景或風格需要保持一致",
+  inputAssets: "少量、職責明確的參考素材",
+  outputAssets: "一個受參考素材約束的片段",
+  routeI2V: "I2V 首尾幀",
+  bestForI2V: "鏡頭的準確起點和終點很重要",
+  inputI2V: "首幀，視需要增加尾幀",
+  outputI2V: "一個可獨立複查的鏡頭",
+  routeExtend: "延展 / 串聯",
+  bestForExtend: "需要從已接受的影片繼續生成更長內容",
+  inputExtend: "上一段影片或尾幀",
+  outputExtend: "保持連續性的延展片段",
+  skillFiles: "Skill 檔案與參考資料",
+  howToUse: "如何使用這個倉庫",
+  browse: "**瀏覽：** 按分類尋找提示詞；有真實預覽時先看預覽，再複製提示詞。",
+  adapt: "**最佳化：** 讓 Seedance 2.5 Skill 根據主體、時長、畫幅、參考素材和連續性要求改寫提示詞。",
+  generate:
+    "**生成：** 讓 Skill 自動選擇路線；需要 Storyboard 時先生成並展示中間圖，由 Agent 自行檢查品質，然後透過所選 Atlas 通道提交圖片或影片任務。",
+  execution: "預設模型與執行方式",
+  executionIntro:
+    "工作流 Skill 和執行適配層是兩層：前者決定做什麼、怎麼做；Atlas 執行通道負責提交、輪詢和取回圖片或影片。",
+  executionSkill:
+    "**Atlas Cloud Skill：** Agent 對話中的預設直接執行方式。若未安裝，工作流會協助安裝，並引導使用者取得 API Key。",
+  executionMcp: "**Atlas MCP：** 只有使用者明確選擇 MCP，且目前客戶端提供生成工具時才使用。",
+  executionCliRest: "**Atlas CLI / REST：** 用於使用者明確選擇的終端機、腳本、CI 或批次任務。",
+  polling:
+    "所有非同步任務都使用同一個 prediction ID 每 2 秒輪詢一次。逾時或暫時沒有輸出，不代表可以重複提交付費生成任務。",
+  modelDefaults: "預設模型",
+  modelDefaultText:
+    "**Storyboard 靜幀：** Seedream 5.0 Pro。**目前預設影片模型：** Seedance 2.0。**Seedance 2.5：** 只有所選服務商實際提供模型和明確參數限制時才使用。",
+  promptGuide: "Seedance 2.5 提示詞指南",
+  capabilityIntro:
+    "公開的 Seedance 2.5 發布資料描述了最長 30 秒、原生 4K、最多 50 個多模態參考素材和局部區域編輯等能力。這些是已發布的能力資訊，不應直接視為所有 API 都支援的固定參數。",
+  availability:
+    "**可用性說明：** 不同服務商的模型開放狀態、參考素材數量、時長、解析度和編輯能力可能不同。Skill 會先核對所選路線，不會假定 Seedance 2.5 一定可呼叫。",
+  promptStructure: "Skill 使用的提示詞結構",
+  referenceBinding: "**參考綁定：** 明確每張圖片、每段影片或音訊分別控制什麼。",
+  observableAction: "**可觀察動作：** 按時間順序寫清畫面中真正發生的事件、反應和狀態變化。",
+  spatialRelations: "**空間關係：** 寫清主體、物體與鏡頭之間的位置和相對關係。",
+  cameraCuts: "**鏡頭與剪輯：** 只在必要時指定景別、運鏡、切鏡順序、動作匹配和遮擋轉場。",
+  visualStyle: "**視覺風格：** 定義光線、色彩、材質、氛圍和節奏。",
+  audio: "**音訊：** 當所選模型路線支援時，定義對白、環境聲、音效或音樂。",
+  constraints: "**約束：** 只保留真正重要的人物身分、產品細節、場景特徵和禁止項。",
+  sources: "主要參考資料",
+  curation: "收錄標準與來源說明",
+  curationText:
+    "每條提示詞都會保留分類、來源平台、作者、原始連結、輸入參考素材，以及可用時的預覽影片。README 生成過程不會改寫提示詞正文。",
+  officialCommunity:
+    "`official` 和 `community` 標籤表示提示詞的來源性質，並不代表每條提示詞都已經在所有服務商和模型版本上完成獨立測試。",
+  previewMeaning:
+    "預覽影片代表原始設定下的一次真實輸出。模型版本、服務商參數、參考素材、畫幅、seed 和內容審核變化，都可能導致不同結果。",
+  faq: "常見問題",
+  faqSkillQuestion: "Seedance 2.5 Skill 是什麼？",
+  faqSkillAnswer:
+    "它是 `skills/seedance-2-5-skill/` 中可安裝的 Agent Skill，負責選擇生成路線、準備必要素材、編寫提示詞、透過 Atlas Cloud 執行並複查結果。",
+  faqAvailabilityQuestion: "使用這個 Skill 必須已經開放 Seedance 2.5 嗎？",
+  faqAvailabilityAnswer:
+    "不需要。目前可執行的預設模型是 Seedance 2.0；只有所選服務商實際提供 Seedance 2.5 時，Skill 才會使用 2.5。",
+  faqStoryboardQuestion: "每個影片都必須先生成 Storyboard 嗎？",
+  faqStoryboardAnswer:
+    "不需要。簡單場景可以直接 T2V。可讀的多鏡頭 Storyboard 預設會作為一張完整圖片提交給 R2V；只有明確切換成獨立 I2V 鏡頭路線時才切格。",
+  faqExecutionQuestion: "預設使用哪個 Atlas 執行通道？",
+  faqExecutionAnswer:
+    "Agent 對話預設使用 Atlas Cloud Skill。MCP、CLI 和 REST 只在使用者明確選擇相應環境時使用。",
+  faqPromptQuestion: "不安裝 Skill，也能直接使用提示詞嗎？",
+  faqPromptAnswer:
+    "可以。你可以直接瀏覽和複製任意提示詞；需要路線選擇、提示詞最佳化、Storyboard 處理、任務執行、輪詢和自動複查時，再安裝 Skill。",
+  resources: "相關資源",
+  development: "倉庫開發",
+};
+
+function getHomeCopy(locale: string): HomeCopy {
+  if (locale === "zh") return homeCopyZh;
+  if (locale === "zh-TW") return homeCopyZhTw;
+  return homeCopyEn;
+}
+
+function renderHeading(id: string, heading: string): string {
+  return [`<a id="${id}"></a>`, "", `## ${heading}`, ""].join("\n");
+}
+
+function renderQuickLinks(locale: string): string {
+  const copy = getHomeCopy(locale);
+  const apiKeyUrl = `https://www.atlascloud.ai/console/api-keys${UTM}`;
+  const skillUrl = `${REPO_URL}/tree/main/skills/seedance-2-5-skill`;
+  const labels =
+    locale === "zh"
+      ? ["浏览提示词", "安装 Seedance 2.5 Skill", "在 Atlas Cloud 生成", "获取 API Key"]
+      : locale === "zh-TW"
+        ? ["瀏覽提示詞", "安裝 Seedance 2.5 Skill", "在 Atlas Cloud 生成", "取得 API Key"]
+        : ["Browse prompts", "Install Seedance 2.5 Skill", "Generate with Atlas Cloud", "Get an API key"];
+
   return [
-    "## ▶ Run any prompt via Atlas Cloud",
+    `| [${labels[0]}](${buildPromptLibraryUrl(locale)}) | [${labels[1]}](${skillUrl}) | [${labels[2]}](${buildModelUrl(locale)}) | [${labels[3]}](${apiKeyUrl}) |`,
+    "|---|---|---|---|",
     "",
-    "**Skill (recommended):** Install [atlas-cloud-skills](https://github.com/AtlasCloudAI/atlas-cloud-skills) in Claude Code, Codex, or Gemini CLI, then just ask it to generate any prompt from this collection.",
+    `<details><summary>${copy.languages} (${SUPPORTED_LANGUAGES.length})</summary>`,
     "",
-    "**CLI:** Prefer the terminal? Use [atlascloud-cli](https://github.com/AtlasCloudAI/cli) to run prompts directly.",
+    SUPPORTED_LANGUAGES.map((lang) => `[${lang.name}](${REPO_URL}/blob/main/${lang.readmeFileName})`).join(" · "),
     "",
-    `**[→ Get your free Atlas Cloud API key](https://www.atlascloud.ai/console/api-keys${UTM})**`,
+    "</details>",
     "",
   ].join("\n");
 }
 
 function renderSkill(locale: string): string {
+  const copy = getHomeCopy(locale);
   const base = `${REPO_URL}/blob/main/skills/seedance-2-5-skill`;
-  if (locale === "zh" || locale === "zh-TW") {
-    const tw = locale === "zh-TW";
-    return [
-      "## 🧠 Seedance 2.5 Agent Skill",
-      "",
-      tw
-        ? `> 本倉庫自帶一個可安裝的 **Agent Skill**（[\`skills/seedance-2-5-skill/\`](${base})）：按需求先選視頻路線 —— 單鏡 T2V、分鏡圖轉片（R2V storyboard）、人物 / 產品 / 場景素材參考（R2V assets）、首尾幀 I2V、視頻延展 —— 再按 5 步流程（選路線 → 備素材 → 連貫性設計 → 寫提示詞 → 生成復查）產出可控的 Seedance 視頻。中文請求走專屬中文工作流。`
-        : `> 本仓库自带一个可安装的 **Agent Skill**（[\`skills/seedance-2-5-skill/\`](${base})）：按需求先选视频路线 —— 单镜 T2V、分镜图转片（R2V storyboard）、人物 / 产品 / 场景素材参考（R2V assets）、首尾帧 I2V、视频延展 —— 再按 5 步流程（选路线 → 备素材 → 连贯性设计 → 写提示词 → 生成复查）产出可控的 Seedance 视频。中文请求走专属中文工作流。`,
-      "",
-      tw ? "**安裝**：把 `skills/seedance-2-5-skill/` 整個資料夾複製到 `~/.claude/skills/`（或專案的 `.claude/skills/`；Codex / Gemini CLI 等 Agent 同理），然後直接描述需求即可觸發，例如「用參考圖做一條 30 秒產品片」。"
-         : "**安装**：把 `skills/seedance-2-5-skill/` 整个文件夹复制到 `~/.claude/skills/`（或项目的 `.claude/skills/`；Codex / Gemini CLI 等 Agent 同理），然后直接描述需求即可触发，例如「用参考图做一条 30 秒产品片」。",
-      "",
-      `- [\`SKILL.md\`](${base}/SKILL.md) — 主流程：路线选择表 + 素材准备 + 连贯性 / 转场设计 + 提示词写法 + 生成复查`,
-      `- [\`references/workflow.zh-CN.md\`](${base}/references/workflow.zh-CN.md) — 中文主工作流（全部参考文件均中英双份）`,
-      `- [\`references/cinematography.md\`](${base}/references/cinematography.md) — 电影语言库：运镜 / 光影 / 构图`,
-      `- [\`references/prompt-blocks.md\`](${base}/references/prompt-blocks.md) · [\`prompt-templates.md\`](${base}/references/prompt-templates.md) — 提示词分块框架与各阶段模板`,
-      `- [\`references/execution-adapters.md\`](${base}/references/execution-adapters.md) — Atlas 执行通道（CLI / REST）与模型档位`,
-      `- [\`references/troubleshooting.md\`](${base}/references/troubleshooting.md) — 漂移 / 失控症状 → 原因 → 修复`,
-      `- [\`scripts/generate.mjs\`](${base}/scripts/generate.mjs) — 可执行流水线（配置驱动：grid / chain / reference / storyboard / t2v 多模式，含 Atlas CLI 与 REST 双 provider）`,
-      "",
-      tw ? `> 配套教程：[Workflow：Seedream 5 → Seedance 2.5（先圖後影片）](${REPO_URL}/blob/main/docs/workflow-seedream5-seedance2.5.md)。下方 100+ 條分鏡提示詞可直接餵給這個 skill。`
-         : `> 配套教程：[Workflow：Seedream 5 → Seedance 2.5（先图后视频）](${REPO_URL}/blob/main/docs/workflow-seedream5-seedance2.5.md)。下方 100+ 条分镜提示词可直接喂给这个 skill。`,
-      "",
-    ].join("\n");
-  }
   return [
-    "## 🧠 Seedance 2.5 Agent Skill",
+    renderHeading("seedance-2-5-skill", "🧠 Seedance 2.5 Skill"),
+    copy.skillDescription,
     "",
-    `> This repo ships an installable **Agent Skill** ([\`skills/seedance-2-5-skill/\`](${base})): pick the right video route first — single-shot T2V, storyboard-image-to-video (R2V storyboard), people / product / scene asset references (R2V assets), first-and-last-frame I2V, or extensions — then follow a 5-step flow (choose route → prepare only the assets you need → design continuity & cuts → write the prompt → generate & review) to get controllable Seedance video. Chinese requests get a dedicated Chinese workflow.`,
+    `### ${copy.install}`,
     "",
-    "**Install**: copy the `skills/seedance-2-5-skill/` folder into `~/.claude/skills/` (or your project's `.claude/skills/`; same idea for Codex / Gemini CLI agents), then just describe what you want — e.g. \"a 30s product video from these reference shots\".",
+    copy.installBoth,
     "",
-    `- [\`SKILL.md\`](${base}/SKILL.md) — the main flow: route table + asset prep + continuity / cut design + prompt writing + generate & review`,
-    `- [\`references/workflow.zh-CN.md\`](${base}/references/workflow.zh-CN.md) — Chinese main workflow (every reference file ships EN + zh-CN)`,
-    `- [\`references/cinematography.md\`](${base}/references/cinematography.md) — deep camera / lighting / composition vocabulary`,
-    `- [\`references/prompt-blocks.md\`](${base}/references/prompt-blocks.md) · [\`prompt-templates.md\`](${base}/references/prompt-templates.md) — the block framework & copy-paste templates for every stage`,
-    `- [\`references/execution-adapters.md\`](${base}/references/execution-adapters.md) — Atlas execution channels (CLI / REST) & model profiles`,
-    `- [\`references/troubleshooting.md\`](${base}/references/troubleshooting.md) — drift / control symptoms → causes → fixes`,
-    `- [\`scripts/generate.mjs\`](${base}/scripts/generate.mjs) — the executable pipeline (config-driven: grid / chain / reference / storyboard / t2v modes, with Atlas CLI & REST providers)`,
+    "```bash",
+    `npx skills add AtlasCloudAI/${REPO} --skill seedance-2-5-skill`,
+    "npx skills add AtlasCloudAI/atlas-cloud-skills --skill atlas-cloud",
+    "```",
     "",
-    `> Companion guide: [Workflow: Seedream 5 → Seedance 2.5 (image-first)](${REPO_URL}/blob/main/docs/workflow-seedream5-seedance2.5.md). The 100+ storyboard prompts below are ready to feed straight into this skill.`,
+    `### ${copy.whatItDoes}`,
+    "",
+    `| ${copy.route} | ${copy.bestFor} | ${copy.input} | ${copy.output} |`,
+    "|---|---|---|---|",
+    `| ${copy.routeT2V} | ${copy.bestForT2V} | ${copy.inputT2V} | ${copy.outputT2V} |`,
+    `| ${copy.routeStoryboard} | ${copy.bestForStoryboard} | ${copy.inputStoryboard} | ${copy.outputStoryboard} |`,
+    `| ${copy.routeAssets} | ${copy.bestForAssets} | ${copy.inputAssets} | ${copy.outputAssets} |`,
+    `| ${copy.routeI2V} | ${copy.bestForI2V} | ${copy.inputI2V} | ${copy.outputI2V} |`,
+    `| ${copy.routeExtend} | ${copy.bestForExtend} | ${copy.inputExtend} | ${copy.outputExtend} |`,
+    "",
+    `<details><summary>${copy.skillFiles}</summary>`,
+    "",
+    `- [\`SKILL.md\`](${base}/SKILL.md)`,
+    `- [\`references/workflow.zh-CN.md\`](${base}/references/workflow.zh-CN.md)`,
+    `- [\`references/cinematography.md\`](${base}/references/cinematography.md)`,
+    `- [\`references/prompt-blocks.md\`](${base}/references/prompt-blocks.md)`,
+    `- [\`references/prompt-templates.md\`](${base}/references/prompt-templates.md)`,
+    `- [\`references/execution-adapters.md\`](${base}/references/execution-adapters.md)`,
+    `- [\`references/troubleshooting.md\`](${base}/references/troubleshooting.md)`,
+    `- [\`scripts/generate.mjs\`](${base}/scripts/generate.mjs)`,
+    "",
+    "</details>",
     "",
   ].join("\n");
 }
 
-function renderMoreTools(): string {
+function renderHowToUse(locale: string): string {
+  const copy = getHomeCopy(locale);
   return [
-    "## More Atlas Cloud Tools",
-    "",
-    `- 📘 [Workflow: Seedream 5 → Seedance 2.5 (image-first / 先图后视频)](${REPO_URL}/blob/main/docs/workflow-seedream5-seedance2.5.md) — lock characters/scenes on cheap images first, then generate 30s video in one shot.`,
-    "- [atlascloud-cli](https://github.com/AtlasCloudAI/cli) — run prompts from your terminal.",
-    "- 🔌 [MCP Server](https://github.com/AtlasCloudAI/mcp-server) — connect Atlas Cloud to any MCP client.",
-    "- [atlas-cloud-skills](https://github.com/AtlasCloudAI/atlas-cloud-skills) — skills for Claude Code, Codex, and Gemini CLI.",
-    "- [atlascloud_comfyui](https://github.com/AtlasCloudAI/atlascloud_comfyui) — ComfyUI nodes for Atlas Cloud.",
-    "- [n8n-nodes-atlascloud](https://github.com/AtlasCloudAI/n8n-nodes-atlascloud) — n8n automation nodes.",
-    "- [Discord](https://discord.gg/MWmMr4q9es) — join the community.",
-    `- [Website](https://www.atlascloud.ai${UTM}) — explore all models and docs.`,
+    renderHeading("how-to-use", `🚀 ${copy.howToUse}`),
+    `1. ${copy.browse}`,
+    `2. ${copy.adapt}`,
+    `3. ${copy.generate}`,
     "",
   ].join("\n");
 }
 
-function renderContents(data: SortedPromptData, locale: string): string {
-  const lines = ["## 📖 Contents", ""];
-  // 模拟 GitHub 锚点：emoji/标点被删、空格转 -，不 trim（emoji 前缀留下前导 -）
-  const anchor = (heading: string) =>
-    heading
-      .toLowerCase()
-      .replace(/[^a-z0-9\s-]/g, "")
-      .replace(/\s+/g, "-");
-  lines.push("- [🧠 Seedance 2.5 Agent Skill](#-seedance-25-agent-skill)");
-  lines.push(`- [🌐 ${t("viewInGallery", locale)}](#${anchor("🌐 " + t("viewInGallery", locale))})`);
-  lines.push("- [🧩 Supported Models](#-supported-models)");
-  lines.push("- [▶ Run any prompt via Atlas Cloud](#-run-any-prompt-via-atlas-cloud)");
-  lines.push(`- [📊 ${t("stats", locale)}](#${anchor("📊 " + t("stats", locale))})`);
-  lines.push(`- [🏷️ ${t("browseByCategory", locale)}](#${anchor("🏷️ " + t("browseByCategory", locale))})`);
-  lines.push(`- [🔥 ${t("featuredPrompts", locale)}](#${anchor("🔥 " + t("featuredPrompts", locale))})`);
-  lines.push(`- [📋 ${t("allPrompts", locale)}](#${anchor("📋 " + t("allPrompts", locale))})`);
-  lines.push("- [More Atlas Cloud Tools](#more-atlas-cloud-tools)");
-  lines.push(`- [📄 ${t("license", locale)}](#${anchor("📄 " + t("license", locale))})`);
-  lines.push("");
-  return lines.join("\n");
+function renderExecution(locale: string): string {
+  const copy = getHomeCopy(locale);
+  return [
+    renderHeading("model-and-execution-defaults", `⚙️ ${copy.execution}`),
+    copy.executionIntro,
+    "",
+    `### ${copy.modelDefaults}`,
+    "",
+    copy.modelDefaultText,
+    "",
+    "- " + copy.executionSkill,
+    "- " + copy.executionMcp,
+    "- " + copy.executionCliRest,
+    "",
+    copy.polling,
+    "",
+    `**[→ ${locale === "zh" ? "获取 Atlas Cloud API Key" : locale === "zh-TW" ? "取得 Atlas Cloud API Key" : "Get an Atlas Cloud API key"}](https://www.atlascloud.ai/console/api-keys${UTM})**`,
+    "",
+  ].join("\n");
 }
 
-function renderLanguageNavigation(currentLocale: string): string {
-  const badges = SUPPORTED_LANGUAGES.map((lang) => {
-    const isCurrent = lang.code === currentLocale;
-    const color = isCurrent ? "brightgreen" : "lightgrey";
-    const text = isCurrent ? t("current", currentLocale) : t("view", currentLocale);
-    return `[![${lang.name}](https://img.shields.io/badge/${encodeURIComponent(lang.name)}-${encodeURIComponent(text)}-${color})](${REPO_URL}/blob/main/${lang.readmeFileName})`;
-  }).join(" ");
+function renderMoreTools(locale: string): string {
+  const copy = getHomeCopy(locale);
+  return [
+    renderHeading("resources", `🔗 ${copy.resources}`),
+    "",
+    `- [Seedance 2.5 prompt gallery](${buildPromptLibraryUrl(locale)})`,
+    `- [Atlas Cloud Seedance 2.5 page](https://www.atlascloud.ai${buildLocalePrefix(locale)}/seedance-2-5${UTM})`,
+    "- [Atlas Cloud Skill](https://github.com/AtlasCloudAI/atlas-cloud-skills)",
+    "- [Atlas MCP Server](https://github.com/AtlasCloudAI/mcp-server)",
+    "- [Atlas CLI](https://github.com/AtlasCloudAI/cli)",
+    "- [Atlas Cloud model catalog](https://www.atlascloud.ai/models?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills)",
+    "- [Discord](https://discord.gg/MWmMr4q9es)",
+    "",
+  ].join("\n");
+}
 
-  return `${badges}\n\n---\n`;
+function renderContents(locale: string): string {
+  const copy = getHomeCopy(locale);
+  return [
+    renderHeading("contents", `📖 ${copy.contents}`),
+    "- [Seedance 2.5 Skill](#seedance-2-5-skill)",
+    `- [${copy.howToUse}](#how-to-use)`,
+    `- [${copy.execution}](#model-and-execution-defaults)`,
+    `- [${copy.promptGuide}](#prompt-guide)`,
+    `- [${copy.curation}](#curation-and-provenance)`,
+    `- [${copy.faq}](#faq)`,
+    `- [${t("stats", locale)}](#statistics)`,
+    `- [${t("featuredPrompts", locale)}](#featured-prompts)`,
+    `- [${t("browseByCategory", locale)}](#browse-by-category)`,
+    `- [${t("allPrompts", locale)}](#all-prompts)`,
+    `- [${copy.resources}](#resources)`,
+    `- [${t("license", locale)}](#license)`,
+    "",
+  ].join("\n");
 }
 
 function renderPrompt(prompt: PromptRecord, index: number, locale: string): string {
@@ -210,70 +588,63 @@ function renderPrompt(prompt: PromptRecord, index: number, locale: string): stri
 }
 
 function renderModelIntro(locale: string): string {
-  if (locale === "zh") {
-    return [
-      "## 🤔 Seedance 2.5 模型简介",
-      "",
-      "Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒原生输出（从 15 秒翻倍），完整场景一镜到底、无需拼接；② 最多 50 个全模态参考素材（图片 / 视频 / 音频），同类最大参考容量，精准的参考驱动创作；③ 灵活的局部编辑，可单独替换背景、产品或主体而不破坏画面其余部分。延续 2.0 的多模态音画生成，叠加约 20% 的提示词遵循提升与原生 4K，特别适合参考驱动、复杂运镜、情绪表演、音乐卡点和视频改写等任务。",
-      "",
-      "- 建议先明确主体、场景、动作，再补充镜头语言、节奏和风格细节。",
-      "- 涉及参考图、参考视频或配音时，提示词里可以直接使用 `@image1`、`@video1`、`@audio1` 这样的占位符。",
-      "- 更长的 30 秒时长适合完整叙事、连续运镜与音画同步；4K 原生输出适合高清成片和商业交付。",
-      "- 适合广告短片、剧情延展、运镜练习、角色一致性、MV、音画同步和创意特效类题材。",
-      "",
-      "### 推荐写法",
-      "",
-      "- 主体: 先写清主角、物体或产品。",
-      "- 动作: 说明发生了什么，以及环境如何响应。",
-      "- 运镜: 补充推拉摇移、环绕、跟拍、俯拍、特写等镜头指令。",
-      "- 风格: 加入电影光影、材质、氛围、节奏、色彩和音频信息。",
-      "",
-    ].join("\n");
-  }
-
-  if (locale === "zh-TW") {
-    return [
-      "## 🤔 Seedance 2.5 模型簡介",
-      "",
-      "Seedance 2.5 是 Seedance 2.0 的重大升級，帶來三大提升：① 30 秒原生輸出（從 15 秒翻倍），完整場景一鏡到底、無需拼接；② 最多 50 個全模態參考素材（圖片 / 影片 / 音訊），同類最大參考容量，精準的參考驅動創作；③ 靈活的局部編輯，可單獨替換背景、產品或主體而不破壞畫面其餘部分。延續 2.0 的多模態音畫生成，疊加約 20% 的提示詞遵循提升與原生 4K，特別適合參考驅動、複雜運鏡、情緒表演、音樂卡點與影片改寫等任務。",
-      "",
-      "- 建議先明確主體、場景與動作，再補充鏡頭語言、節奏與風格細節。",
-      "- 涉及參考圖、參考影片或配音時，提示詞中可以直接使用 `@image1`、`@video1`、`@audio1` 這類佔位符。",
-      "- 更長的 30 秒時長適合完整敘事、連續運鏡與音畫同步；4K 原生輸出適合高清成片與商業交付。",
-      "- 適合廣告短片、劇情延展、運鏡練習、角色一致性、MV、音畫同步與創意特效類題材。",
-      "",
-      "### 推薦寫法",
-      "",
-      "- 主體: 先寫清主角、物體或產品。",
-      "- 動作: 說明發生了什麼，以及環境如何回應。",
-      "- 運鏡: 補充推拉搖移、環繞、跟拍、俯拍、特寫等鏡頭指令。",
-      "- 風格: 加入電影光影、材質、氛圍、節奏、色彩與音訊資訊。",
-      "",
-    ].join("\n");
-  }
-
+  const copy = getHomeCopy(locale);
   return [
-    "## 🤔 Seedance 2.5 Overview",
+    renderHeading("prompt-guide", `🧩 ${copy.promptGuide}`),
+    copy.capabilityIntro,
     "",
-    "Seedance 2.5 is a major upgrade to Seedance 2.0 with three big gains: 30-second native clips (up from 15s) for complete scenes without stitching; up to 50 multimodal references (image / video / audio) — the largest reference capacity in its class — for precise reference-driven control; and flexible region editing to swap backgrounds, products or subjects without breaking the rest of the shot. It keeps 2.0's multimodal audio-video generation, adds ~20% better prompt adherence and native 4K — great for reference-driven shots, advanced camera language, emotional acting, beat sync, and video remix.",
+    copy.availability,
     "",
-    "- Start with a clear subject, scene, and action, then add camera movement, pacing, mood, and style details.",
-    "- When using references, keep placeholders like `@image1`, `@video1`, and `@audio1` explicit in the prompt.",
-    "- The longer 30s duration suits full narratives, continuous camera moves, and audio sync; native 4K output suits high-res finals and commercial delivery.",
-    "- Great for ad creatives, narrative extension, consistency control, MV production, cinematic effects, and stylized short-form storytelling.",
+    `### ${copy.promptStructure}`,
     "",
-    "### Recommended Structure",
+    "1. " + copy.referenceBinding,
+    "2. " + copy.observableAction,
+    "3. " + copy.spatialRelations,
+    "4. " + copy.cameraCuts,
+    "5. " + copy.visualStyle,
+    "6. " + copy.audio,
+    "7. " + copy.constraints,
     "",
-    "- Subject: define the main character, object, or product.",
-    "- Action: describe what happens and how the environment reacts.",
-    "- Camera: add dolly, pan, orbit, tracking, aerial, or close-up directions.",
-    "- Style: include lighting, texture, pace, mood, color, and audio cues.",
+    `### ${copy.sources}`,
+    "",
+    `- [Seedance 2.0 prompt guide — Volcengine](https://docs.volcengine.com/docs/82379/2222480?lang=zh)`,
+    `- [Seedream 5.0 Pro user manual — ByteDance Lark](https://bytedance.larkoffice.com/wiki/HQ8HwXpNFiy6umkP8jNcBwF3nab)`,
+    `- [Seedance 2.5 launch overview — Atlas Cloud](https://www.atlascloud.ai${buildLocalePrefix(locale)}/seedance-2-5${UTM})`,
     "",
   ].join("\n");
 }
 
+function renderCuration(locale: string): string {
+  const copy = getHomeCopy(locale);
+  return [
+    renderHeading("curation-and-provenance", `🔎 ${copy.curation}`),
+    copy.curationText,
+    "",
+    "- " + copy.officialCommunity,
+    "- " + copy.previewMeaning,
+    "",
+  ].join("\n");
+}
+
+function renderFaq(locale: string): string {
+  const copy = getHomeCopy(locale);
+  const items = [
+    [copy.faqSkillQuestion, copy.faqSkillAnswer],
+    [copy.faqAvailabilityQuestion, copy.faqAvailabilityAnswer],
+    [copy.faqStoryboardQuestion, copy.faqStoryboardAnswer],
+    [copy.faqExecutionQuestion, copy.faqExecutionAnswer],
+    [copy.faqPromptQuestion, copy.faqPromptAnswer],
+  ];
+  const lines = [renderHeading("faq", `❓ ${copy.faq}`)];
+  for (const [question, answer] of items) {
+    lines.push(`### ${question}`, "", answer, "");
+  }
+  return lines.join("\n");
+}
+
 export function generateMarkdown(data: SortedPromptData, locale: string): string {
-  const now = new Date().toISOString();
+  const now = new Date().toISOString().slice(0, 10);
+  const copy = getHomeCopy(locale);
   const lines: string[] = [];
   const promptsByCategory = new Map<string, PromptRecord[]>();
 
@@ -287,22 +658,17 @@ export function generateMarkdown(data: SortedPromptData, locale: string): string
   lines.push("");
   lines.push(renderBadges(data.stats.total));
   lines.push("");
-  lines.push(`> ${t("subtitle", locale)}`);
+  lines.push(copy.hero);
   lines.push("");
-  lines.push(`> ${t("copyright", locale)}`);
-  lines.push("");
-  lines.push(renderLanguageNavigation(locale));
-  lines.push(renderContents(data, locale));
+  lines.push(renderQuickLinks(locale));
+  lines.push(renderContents(locale));
   lines.push(renderSkill(locale));
-  lines.push(`## 🌐 ${t("viewInGallery", locale)}`);
-  lines.push("");
-  lines.push(`- ${t("promptLibrary", locale)}: [${t("view", locale)}](${buildPromptLibraryUrl(locale)})`);
-  lines.push(`- ${t("modelPage", locale)}: [${t("view", locale)}](${buildModelUrl(locale)})`);
-  lines.push("");
-  lines.push(renderSupportedModels());
-  lines.push(renderRunAnyPrompt());
+  lines.push(renderHowToUse(locale));
+  lines.push(renderExecution(locale));
   lines.push(renderModelIntro(locale));
-  lines.push(`## 📊 ${t("stats", locale)}`);
+  lines.push(renderCuration(locale));
+  lines.push(renderFaq(locale));
+  lines.push(renderHeading("statistics", `📊 ${t("stats", locale)}`));
   lines.push("");
   lines.push(`| ${t("metric", locale)} | ${t("count", locale)} |`);
   lines.push("|--------|-------|");
@@ -311,7 +677,9 @@ export function generateMarkdown(data: SortedPromptData, locale: string): string
   lines.push(`| ${t("previewVideos", locale)} | **${data.stats.videos}** |`);
   lines.push(`| ${t("lastUpdated", locale)} | **${now}** |`);
   lines.push("");
-  lines.push(`## 🏷️ ${t("browseByCategory", locale)}`);
+  lines.push(renderHeading("featured-prompts", `🔥 ${t("featuredPrompts", locale)}`));
+  data.featured.forEach((prompt, index) => lines.push(renderPrompt(prompt, index, locale)));
+  lines.push(renderHeading("browse-by-category", `🏷️ ${t("browseByCategory", locale)}`));
   lines.push("");
 
   data.categoryCounts.forEach((item, index) => {
@@ -320,10 +688,7 @@ export function generateMarkdown(data: SortedPromptData, locale: string): string
   });
 
   lines.push("");
-  lines.push(`## 🔥 ${t("featuredPrompts", locale)}`);
-  lines.push("");
-  data.featured.forEach((prompt, index) => lines.push(renderPrompt(prompt, index, locale)));
-  lines.push(`## 📋 ${t("allPrompts", locale)}`);
+  lines.push(renderHeading("all-prompts", `📋 ${t("allPrompts", locale)}`));
   lines.push("");
 
   data.categoryCounts.forEach((item, index) => {
@@ -336,19 +701,24 @@ export function generateMarkdown(data: SortedPromptData, locale: string): string
     prompts.forEach((prompt, promptIndex) => lines.push(renderPrompt(prompt, promptIndex, locale)));
   });
 
-  lines.push(`## ${t("localUsage", locale)}`);
+  lines.push(`<details><summary>${copy.development}</summary>`);
   lines.push("");
   lines.push("```bash");
-  lines.push("npm install");
-  lines.push("npm run build-all");
+  lines.push("npm ci");
+  lines.push("npm run generate");
+  lines.push("npx tsc --noEmit");
   lines.push("```");
   lines.push("");
-  lines.push(renderMoreTools());
-  lines.push(`## 📄 ${t("license", locale)}`);
+  lines.push("</details>");
+  lines.push("");
+  lines.push(renderMoreTools(locale));
+  lines.push(renderHeading("license", `📄 ${t("license", locale)}`));
   lines.push("");
   lines.push("[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)");
   lines.push("");
-  lines.push(`> ${t("autoGenerated", locale)} ${now}`);
+  lines.push(`> ${t("copyright", locale)}`);
+  lines.push("");
+  lines.push(`> ${t("autoGenerated", locale)} ${now}.`);
   lines.push("");
 
   return lines.join("\n");

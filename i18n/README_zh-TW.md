@@ -1,4 +1,4 @@
-# 🎬 Seedance 2.5 提示詞大全
+# 🎬 Seedance 2.5 提示詞大全 + Seedance 2.5 Skill
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
@@ -6,91 +6,389 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/pulls)
 [![Prompts](https://img.shields.io/badge/prompts-111%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
-> 基於 AtlasCloud `homepage-v2` 資料來源整理的 Seedance 2.5 提示詞與預覽影片倉庫。30 秒原生 · 50 個全模態參考 · 靈活局部編輯。
+一個經過整理的 Seedance 2.5 影片提示詞庫，以及可安裝的 **Seedance 2.5 Skill**。這個 Agent Skill 會依需求選擇 T2V、R2V、I2V 或延展路線，使用 Seedream 5.0 Pro 生成分鏡參考圖，目前預設以 Seedance 2.0 執行影片生成；只有所選服務商實際提供 Seedance 2.5 時，才切換到 2.5。
 
-> 所有提示詞僅用於學習、整理與檢索。如有內容需要移除，請提交 issue。
+| [瀏覽提示詞](https://www.atlascloud.ai/prompts-hub/seedance-2-5-prompt?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills&locale=zh-TW) | [安裝 Seedance 2.5 Skill](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/tree/main/skills/seedance-2-5-skill) | [在 Atlas Cloud 生成](https://www.atlascloud.ai/zh-TW/models/bytedance/seedance-2.5/text-to-video?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills) | [取得 API Key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills) |
+|---|---|---|---|
 
-[![English](https://img.shields.io/badge/English-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-%E7%9B%AE%E5%89%8D-brightgreen)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_ja.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_ko.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_th.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_vi.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_hi.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_es.md) [![Deutsch](https://img.shields.io/badge/Deutsch-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_de.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_fr.md) [![Italiano](https://img.shields.io/badge/Italiano-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_it.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_pt.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_tr.md) [![العربية](https://img.shields.io/badge/%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_ar.md) [![Bahasa Indonesia](https://img.shields.io/badge/Bahasa%20Indonesia-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_id.md) [![Nederlands](https://img.shields.io/badge/Nederlands-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_nl.md) [![Polski](https://img.shields.io/badge/Polski-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_pl.md) [![Русский](https://img.shields.io/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_ru.md) [![Svenska](https://img.shields.io/badge/Svenska-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_sv.md)
+<details><summary>語言 (20)</summary>
 
----
+[English](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/README.md) · [简体中文](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_zh.md) · [繁體中文](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_zh-TW.md) · [日本語](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_ja.md) · [한국어](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_ko.md) · [ไทย](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_th.md) · [Tiếng Việt](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_vi.md) · [हिन्दी](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_hi.md) · [Español](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_es.md) · [Deutsch](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_de.md) · [Français](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_fr.md) · [Italiano](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_it.md) · [Português](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_pt.md) · [Türkçe](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_tr.md) · [العربية](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_ar.md) · [Bahasa Indonesia](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_id.md) · [Nederlands](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_nl.md) · [Polski](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_pl.md) · [Русский](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_ru.md) · [Svenska](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_sv.md)
 
-## 📖 Contents
+</details>
 
-- [🧠 Seedance 2.5 Agent Skill](#-seedance-25-agent-skill)
-- [🌐 在 AtlasCloud 查看](#-atlascloud-)
-- [🧩 Supported Models](#-supported-models)
-- [▶ Run any prompt via Atlas Cloud](#-run-any-prompt-via-atlas-cloud)
-- [📊 統計資料](#-)
-- [🏷️ 按分類瀏覽](#-)
-- [🔥 精選提示詞](#-)
-- [📋 全部提示詞](#-)
-- [More Atlas Cloud Tools](#more-atlas-cloud-tools)
-- [📄 许可证](#-)
+<a id="contents"></a>
 
-## 🧠 Seedance 2.5 Agent Skill
+## 📖 目錄
 
-> 本倉庫自帶一個可安裝的 **Agent Skill**（[`skills/seedance-2-5-skill/`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill)）：按需求先選視頻路線 —— 單鏡 T2V、分鏡圖轉片（R2V storyboard）、人物 / 產品 / 場景素材參考（R2V assets）、首尾幀 I2V、視頻延展 —— 再按 5 步流程（選路線 → 備素材 → 連貫性設計 → 寫提示詞 → 生成復查）產出可控的 Seedance 視頻。中文請求走專屬中文工作流。
+- [Seedance 2.5 Skill](#seedance-2-5-skill)
+- [如何使用這個倉庫](#how-to-use)
+- [預設模型與執行方式](#model-and-execution-defaults)
+- [Seedance 2.5 提示詞指南](#prompt-guide)
+- [收錄標準與來源說明](#curation-and-provenance)
+- [常見問題](#faq)
+- [統計資料](#statistics)
+- [精選提示詞](#featured-prompts)
+- [按分類瀏覽](#browse-by-category)
+- [全部提示詞](#all-prompts)
+- [相關資源](#resources)
+- [授權條款](#license)
 
-**安裝**：把 `skills/seedance-2-5-skill/` 整個資料夾複製到 `~/.claude/skills/`（或專案的 `.claude/skills/`；Codex / Gemini CLI 等 Agent 同理），然後直接描述需求即可觸發，例如「用參考圖做一條 30 秒產品片」。
+<a id="seedance-2-5-skill"></a>
 
-- [`SKILL.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/SKILL.md) — 主流程：路线选择表 + 素材准备 + 连贯性 / 转场设计 + 提示词写法 + 生成复查
-- [`references/workflow.zh-CN.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/workflow.zh-CN.md) — 中文主工作流（全部参考文件均中英双份）
-- [`references/cinematography.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/cinematography.md) — 电影语言库：运镜 / 光影 / 构图
-- [`references/prompt-blocks.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/prompt-blocks.md) · [`prompt-templates.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/prompt-templates.md) — 提示词分块框架与各阶段模板
-- [`references/execution-adapters.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/execution-adapters.md) — Atlas 执行通道（CLI / REST）与模型档位
-- [`references/troubleshooting.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/troubleshooting.md) — 漂移 / 失控症状 → 原因 → 修复
-- [`scripts/generate.mjs`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/scripts/generate.mjs) — 可执行流水线（配置驱动：grid / chain / reference / storyboard / t2v 多模式，含 Atlas CLI 与 REST 双 provider）
+## 🧠 Seedance 2.5 Skill
 
-> 配套教程：[Workflow：Seedream 5 → Seedance 2.5（先圖後影片）](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/docs/workflow-seedream5-seedance2.5.md)。下方 100+ 條分鏡提示詞可直接餵給這個 skill。
+**Seedance 2.5 Skill** 是本倉庫內可安裝 Agent Skill 的正式名稱。它會把創意需求、參考素材或 Storyboard 轉換成合適的生成路線、提示詞、中間素材、執行請求和品質複查流程。
 
-## 🌐 在 AtlasCloud 查看
+### 安裝
 
-- 提示词库: [查看](https://www.atlascloud.ai/prompts-hub/seedance-2-5-prompt?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills&locale=zh-TW)
-- 模型页: [查看](https://www.atlascloud.ai/zh-TW/models/bytedance/seedance-2.5/text-to-video?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills)
+安裝工作流 Skill，以及預設用於執行生成的 Atlas Cloud Skill：
 
-## 🧩 Supported Models
+```bash
+npx skills add AtlasCloudAI/awesome-seedance-2.5-prompts-skills --skill seedance-2-5-skill
+npx skills add AtlasCloudAI/atlas-cloud-skills --skill atlas-cloud
+```
 
-- 🎬 **Video** — Seedance 2.5 · Seedance 2.0 · Seedance 2.0 Mini · Kling 3 · Sora 2 · Veo 3.1 · HappyHorse 1 · Grok Imagine 1.5 · Wan 2.7
-- 🎨 **Image** — Seedream 5.0 Pro · Nano Banana 2/Pro · GPT Image 2 · Flux 2 · Seedream 5
-- 🧊 **3D** — Seed3D 2.0 · Hunyuan 3D Pro · Hunyuan 3D Rapid
-- 💬 **LLM** — Claude · GPT · DeepSeek · MiniMax · Kimi · GLM · Qwen
-- 🔊 **Audio** — Grok TTS
-- 📚 **Explore more** — [300+ models »](https://www.atlascloud.ai/models?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills)
+### 它會做什麼
 
-## ▶ Run any prompt via Atlas Cloud
+| 路線 | 適用場景 | 主要輸入 | 生成單位 |
+|---|---|---|---|
+| T2V | 一個簡單、獨立的短場景 | 文字提示詞 | 一個完整鏡頭 |
+| R2V Storyboard | 包含多個可讀分鏡的故事板 | 一張完整 Storyboard 圖片 | 一次請求按分鏡順序生成 |
+| R2V 素材參考 | 人物、產品、物體、場景或風格需要保持一致 | 少量、職責明確的參考素材 | 一個受參考素材約束的片段 |
+| I2V 首尾幀 | 鏡頭的準確起點和終點很重要 | 首幀，視需要增加尾幀 | 一個可獨立複查的鏡頭 |
+| 延展 / 串聯 | 需要從已接受的影片繼續生成更長內容 | 上一段影片或尾幀 | 保持連續性的延展片段 |
 
-**Skill (recommended):** Install [atlas-cloud-skills](https://github.com/AtlasCloudAI/atlas-cloud-skills) in Claude Code, Codex, or Gemini CLI, then just ask it to generate any prompt from this collection.
+<details><summary>Skill 檔案與參考資料</summary>
 
-**CLI:** Prefer the terminal? Use [atlascloud-cli](https://github.com/AtlasCloudAI/cli) to run prompts directly.
+- [`SKILL.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/SKILL.md)
+- [`references/workflow.zh-CN.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/workflow.zh-CN.md)
+- [`references/cinematography.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/cinematography.md)
+- [`references/prompt-blocks.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/prompt-blocks.md)
+- [`references/prompt-templates.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/prompt-templates.md)
+- [`references/execution-adapters.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/execution-adapters.md)
+- [`references/troubleshooting.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/troubleshooting.md)
+- [`scripts/generate.mjs`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/scripts/generate.mjs)
 
-**[→ Get your free Atlas Cloud API key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills)**
+</details>
 
-## 🤔 Seedance 2.5 模型簡介
+<a id="how-to-use"></a>
 
-Seedance 2.5 是 Seedance 2.0 的重大升級，帶來三大提升：① 30 秒原生輸出（從 15 秒翻倍），完整場景一鏡到底、無需拼接；② 最多 50 個全模態參考素材（圖片 / 影片 / 音訊），同類最大參考容量，精準的參考驅動創作；③ 靈活的局部編輯，可單獨替換背景、產品或主體而不破壞畫面其餘部分。延續 2.0 的多模態音畫生成，疊加約 20% 的提示詞遵循提升與原生 4K，特別適合參考驅動、複雜運鏡、情緒表演、音樂卡點與影片改寫等任務。
+## 🚀 如何使用這個倉庫
 
-- 建議先明確主體、場景與動作，再補充鏡頭語言、節奏與風格細節。
-- 涉及參考圖、參考影片或配音時，提示詞中可以直接使用 `@image1`、`@video1`、`@audio1` 這類佔位符。
-- 更長的 30 秒時長適合完整敘事、連續運鏡與音畫同步；4K 原生輸出適合高清成片與商業交付。
-- 適合廣告短片、劇情延展、運鏡練習、角色一致性、MV、音畫同步與創意特效類題材。
+1. **瀏覽：** 按分類尋找提示詞；有真實預覽時先看預覽，再複製提示詞。
+2. **最佳化：** 讓 Seedance 2.5 Skill 根據主體、時長、畫幅、參考素材和連續性要求改寫提示詞。
+3. **生成：** 讓 Skill 自動選擇路線；需要 Storyboard 時先生成並展示中間圖，由 Agent 自行檢查品質，然後透過所選 Atlas 通道提交圖片或影片任務。
 
-### 推薦寫法
+<a id="model-and-execution-defaults"></a>
 
-- 主體: 先寫清主角、物體或產品。
-- 動作: 說明發生了什麼，以及環境如何回應。
-- 運鏡: 補充推拉搖移、環繞、跟拍、俯拍、特寫等鏡頭指令。
-- 風格: 加入電影光影、材質、氛圍、節奏、色彩與音訊資訊。
+## ⚙️ 預設模型與執行方式
+
+工作流 Skill 和執行適配層是兩層：前者決定做什麼、怎麼做；Atlas 執行通道負責提交、輪詢和取回圖片或影片。
+
+### 預設模型
+
+**Storyboard 靜幀：** Seedream 5.0 Pro。**目前預設影片模型：** Seedance 2.0。**Seedance 2.5：** 只有所選服務商實際提供模型和明確參數限制時才使用。
+
+- **Atlas Cloud Skill：** Agent 對話中的預設直接執行方式。若未安裝，工作流會協助安裝，並引導使用者取得 API Key。
+- **Atlas MCP：** 只有使用者明確選擇 MCP，且目前客戶端提供生成工具時才使用。
+- **Atlas CLI / REST：** 用於使用者明確選擇的終端機、腳本、CI 或批次任務。
+
+所有非同步任務都使用同一個 prediction ID 每 2 秒輪詢一次。逾時或暫時沒有輸出，不代表可以重複提交付費生成任務。
+
+**[→ 取得 Atlas Cloud API Key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills)**
+
+<a id="prompt-guide"></a>
+
+## 🧩 Seedance 2.5 提示詞指南
+
+公開的 Seedance 2.5 發布資料描述了最長 30 秒、原生 4K、最多 50 個多模態參考素材和局部區域編輯等能力。這些是已發布的能力資訊，不應直接視為所有 API 都支援的固定參數。
+
+**可用性說明：** 不同服務商的模型開放狀態、參考素材數量、時長、解析度和編輯能力可能不同。Skill 會先核對所選路線，不會假定 Seedance 2.5 一定可呼叫。
+
+### Skill 使用的提示詞結構
+
+1. **參考綁定：** 明確每張圖片、每段影片或音訊分別控制什麼。
+2. **可觀察動作：** 按時間順序寫清畫面中真正發生的事件、反應和狀態變化。
+3. **空間關係：** 寫清主體、物體與鏡頭之間的位置和相對關係。
+4. **鏡頭與剪輯：** 只在必要時指定景別、運鏡、切鏡順序、動作匹配和遮擋轉場。
+5. **視覺風格：** 定義光線、色彩、材質、氛圍和節奏。
+6. **音訊：** 當所選模型路線支援時，定義對白、環境聲、音效或音樂。
+7. **約束：** 只保留真正重要的人物身分、產品細節、場景特徵和禁止項。
+
+### 主要參考資料
+
+- [Seedance 2.0 prompt guide — Volcengine](https://docs.volcengine.com/docs/82379/2222480?lang=zh)
+- [Seedream 5.0 Pro user manual — ByteDance Lark](https://bytedance.larkoffice.com/wiki/HQ8HwXpNFiy6umkP8jNcBwF3nab)
+- [Seedance 2.5 launch overview — Atlas Cloud](https://www.atlascloud.ai/zh-TW/seedance-2-5?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills)
+
+<a id="curation-and-provenance"></a>
+
+## 🔎 收錄標準與來源說明
+
+每條提示詞都會保留分類、來源平台、作者、原始連結、輸入參考素材，以及可用時的預覽影片。README 生成過程不會改寫提示詞正文。
+
+- `official` 和 `community` 標籤表示提示詞的來源性質，並不代表每條提示詞都已經在所有服務商和模型版本上完成獨立測試。
+- 預覽影片代表原始設定下的一次真實輸出。模型版本、服務商參數、參考素材、畫幅、seed 和內容審核變化，都可能導致不同結果。
+
+<a id="faq"></a>
+
+## ❓ 常見問題
+
+### Seedance 2.5 Skill 是什麼？
+
+它是 `skills/seedance-2-5-skill/` 中可安裝的 Agent Skill，負責選擇生成路線、準備必要素材、編寫提示詞、透過 Atlas Cloud 執行並複查結果。
+
+### 使用這個 Skill 必須已經開放 Seedance 2.5 嗎？
+
+不需要。目前可執行的預設模型是 Seedance 2.0；只有所選服務商實際提供 Seedance 2.5 時，Skill 才會使用 2.5。
+
+### 每個影片都必須先生成 Storyboard 嗎？
+
+不需要。簡單場景可以直接 T2V。可讀的多鏡頭 Storyboard 預設會作為一張完整圖片提交給 R2V；只有明確切換成獨立 I2V 鏡頭路線時才切格。
+
+### 預設使用哪個 Atlas 執行通道？
+
+Agent 對話預設使用 Atlas Cloud Skill。MCP、CLI 和 REST 只在使用者明確選擇相應環境時使用。
+
+### 不安裝 Skill，也能直接使用提示詞嗎？
+
+可以。你可以直接瀏覽和複製任意提示詞；需要路線選擇、提示詞最佳化、Storyboard 處理、任務執行、輪詢和自動複查時，再安裝 Skill。
+
+<a id="statistics"></a>
 
 ## 📊 統計資料
+
 
 | 指標 | 數量 |
 |--------|-------|
 | 提示詞總數 | **111** |
 | 分類數 | **27** |
 | 預覽影片數 | **11** |
-| 最後更新 | **2026-07-23T06:22:46.624Z** |
+| 最後更新 | **2026-07-23** |
+
+<a id="featured-prompts"></a>
+
+## 🔥 精選提示詞
+
+### No. 1: 水晶球匹配剪輯節拍短片
+
+- **分類:** `匹配剪輯與創意特效`
+- **來源:** `official`
+- **作者:** Volcengine Ark
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group1-1.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group1-1.mp4" controls muted playsinline width="720"></video>
+- **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### 描述
+
+一部踩著節拍的匹配剪輯短片：一顆內部蝕刻著發光 seedance 標誌的水晶球始終置中，身後的八個場景無縫切換。
+
+#### 提示詞
+
+```text
+一部快節奏、電影感十足的匹配剪輯短片，與強勁的電子節拍同步。一顆完美無瑕的水晶球始終牢牢固定在正中央，內部蝕刻著發光的 "seedance" 標誌。水晶球保持極致銳利的對焦，而每逢強節拍，背景便無縫匹配切換：場景 1：微距特寫，電影感的水花在球體周圍飛濺，折射出繁複的光線。場景 2：一間復古的清晨咖啡館，球體置於原木桌面上，咖啡熱氣升騰，窗外是虛化的通勤人群。場景 3：黃金時刻的黃昏，一名滑板少年單手拋接球體，身後街道向後飛馳，籠罩在絕美的逆光夕陽中。場景 4：狂熱的音樂節，眾手將球體高高舉起，折射出炫目的舞台雷射。場景 5：熱鬧的家庭聚會餐桌，球體停在畫面中央，虛化的人影舉杯暢飲、伸手取食。場景 6：昏暗的影院，雙手捧著球體，巨幕微弱的光暈在球面上緩緩游移。場景 7：球體置於劇烈震動的揚聲器振膜上，在高潮處匹配切換到畫面中央旋轉的 DJ 唱盤。場景 8：戶外露營之夜，背景化為溫暖的篝火與搖曳的串燈散景。終章：在最後一記重拍上，球體被拋出畫面之外；切入純黑，一行極簡的黑底白字 "seedance" 出現在正中央。踩點匹配剪輯，頂級電影級調色，照片級真實的玻璃折射，光線追蹤，全域光照。主體極致銳利，背景強烈動態模糊。
+```
+
+### No. 2: 蒸汽龐克發條機械 —— 30 秒一鏡到底
+
+- **分類:** `一鏡到底運鏡`
+- **來源:** `official`
+- **作者:** Volcengine Ark
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group2-2.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group2-2.mp4" controls muted playsinline width="720"></video>
+- **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+#### 描述
+
+一段 30 秒的蒸汽龐克微縮 3D 影像，運用持續環繞、穿越式的運鏡。
+
+#### 提示詞
+
+```text
+一段高端、極具電影感的 30 秒 3D 動態影像，採用精緻的蒸汽龐克與復古微縮風格，運用持續流暢的環繞與穿越式運鏡。[0-10s] 一枚古董黃銅鐘面的微距特寫，層層展開為相互咬合、轉動的齒輪環與體積霧。鏡頭向下穿透齒輪；一架機械撲翼機從一座由風化舊書堆疊而成的微縮峽谷中盤旋而上。[10-20s] 鏡頭向前滑行跟拍撲翼機，無縫穿入一座飛速旋轉、裝飾華麗的黃銅走馬燈，投射出奔騰的機械駿馬光影。光影躍出，畫面化為一輛黃銅懸浮纜車，行駛在閃爍的銅軌上，穿越齒輪森林，沐浴在電影感的黃金時刻光線中。[20-30s] 鏡頭優雅地向下搖；下方現出一艘精緻的發條木質帆船，破開深藍色、玻璃質感的波浪，波浪又幻化為一輪發光的巨月，手持燈籠的探險者剪影正在星空下跋涉於水晶礦脈的山脊之上。鏡頭順暢地螺旋穿回縹緲雲層，回到滴答作響的黃銅鐘面。超寫實的機械質感，濃郁的黃銅與金色調，電影級淺景深，流暢無縫的穿越式運鏡，史詩般的奇幻冒險氛圍。
+```
+
+### No. 3: 穿窗入界（5 張參考圖）
+
+- **分類:** `多圖參考`
+- **來源:** `official`
+- **作者:** Volcengine Ark
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-output.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-output.mp4" controls muted playsinline width="720"></video>
+- **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+- **Inputs:**
+
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference1.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference2.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference3.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference4.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference5.png" width="180" referrerpolicy="no-referrer">
+
+#### 描述
+
+一支由 5 張參考圖驅動的品牌概念短片，穿過一扇扇窗戶，滑入不同的世界。
+
+#### 提示詞
+
+```text
+一支電影感的品牌概念短片。@image1 為首幀；畫面輕微顫動，鏡頭推進，窗外的樹影向後飛掠，退去的速度越來越快，隨後猛然切至 @image2，速度趨緩，鏡頭沿著一條溪流緩緩滑行，鳥鳴與花開。鏡頭潛入水下——傳來氣泡聲——橙色的水母優雅地從鏡頭前飄過 @image3；鏡頭後拉，小魚倏忽游過，從水中游進窗戶 @image4，一個女孩四處張望，注視著牠們。鏡頭後拉、失焦，再重新對實，隨著音樂的節奏切換：一扇中式園林的花格窗 @image5，光線環繞其上、教堂的彩繪玻璃、飛機的舷窗、穹頂天窗、飄窗、百葉窗、歐式老虎窗、門上的貓眼、相機的取景器、鳥的眼睛、人眼的特寫。最終定格在人眼上；眼睛閉合，畫面全黑，隨後驟然睜開——在重音節拍上，"seedance" 出現在眼睛中央。
+```
+
+### No. 4: 一鏡穿越六個房間（8 張參考圖）
+
+- **分類:** `多圖參考`
+- **來源:** `official`
+- **作者:** Volcengine Ark
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-output.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-output.mp4" controls muted playsinline width="720"></video>
+- **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+- **Inputs:**
+
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference1.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference2.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference3.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference4.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference5.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference7.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference8.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference9.png" width="180" referrerpolicy="no-referrer">
+
+#### 描述
+
+一鏡到底，跟隨一個人物穿過六個情緒不斷變化的房間，由 8 張參考圖驅動。
+
+#### 提示詞
+
+```text
+一鏡到底。鏡頭平穩地跟隨一個身穿黑色大衣的人（參考 @image1）從左至右穿過六個色調與情緒各異、彼此相連的房間。每個房間結構相同：白牆、淺色人字拼木地板、落地法式窗、白色薄紗窗簾（參考 @image2），但窗外的景緻與情緒每次都不同。主角以勻速行走，穿過每一道敞開的門。0-5s 第一個房間，美式漫畫打鬥：主角與一個角色（@image3）搏鬥，將其擊敗；5-10s 第二個房間，溫馨，毛氈手工風格，窗外是一片向日葵花田（@image4），暖橙色柔光，一位畫家在畫向日葵（@image5），主角進入時變為毛氈質感；10-15s 第三個房間，悲傷，黑白漫畫定格動畫，窗外下著雨，冷灰色光線，一個人獨自抱膝坐在地上，手機亮著一通未接來電；進入時，燈光閃滅又亮起，房間轉為彩色，花朵驟然綻放；15-20s 第四個房間，歡樂，一個沉入海中的房間（參考 @image6），主角在珊瑚與游魚間變得透明；20-25s 第五個房間，驚喜，窗外是漫天煙火的夜空（參考 @image7），彩色的光閃爍不定，主角被歡呼的人群簇擁；25-30s 一個空白的白色房間，主角打了個響指——響指音效——畫面轉黑，"seedance" 出現在中央（參考 @image8）。電影級質感，高級時尚廣告風格，光線完全由窗外景緻決定，形成強烈的情緒對比，畫面中無文字。
+```
+
+### No. 5: 影片剪輯 —— 只留主角，刪除其餘所有人
+
+- **分類:** `影片剪輯`
+- **來源:** `official`
+- **作者:** Volcengine Ark
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-output.mov)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-output.mov" controls muted playsinline width="720"></video>
+- **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+- **Inputs:**
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-reference1.mp4" controls muted width="360"></video>
+
+#### 描述
+
+參考影片剪輯：從來源片段中抹除除主角以外的所有人。
+
+#### 提示詞
+
+```text
+影片剪輯：移除 @video1 中除主角以外的所有人。
+```
+
+### No. 6: 多語言嘻哈 "Hello" MV
+
+- **分類:** `多圖參考`
+- **來源:** `official`
+- **作者:** Volcengine Ark
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-output.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-output.mp4" controls muted playsinline width="720"></video>
+- **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+- **Inputs:**
+
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-reference1.png" width="180" referrerpolicy="no-referrer">
+
+#### 描述
+
+一支由單張參考圖打造的海邊嘻哈 MV；主唱用 8 種語言饒舌 "你好"，嘴型精準同步，踩著節拍硬切。
+
+#### 提示詞
+
+```text
+電影感的嘻哈 / 饒舌音樂錄影帶，照片級真實質感，高端調性，海邊場景。以 @image1 建構畫面：一支樂團在金色沙灘上演出，海浪拍岸——主唱在濕潤的沙地上握著立式麥克風，一名吉他手在左、一名在右，鼓手在後；身後是遼闊的海岸線，起伏的浪濤，暖調的黃金時刻夕陽在水面上閃爍，空氣中瀰漫著海霧。身穿紅色運動套裝的主唱對著鏡頭饒舌——唇形與下巴與每一個字精準同步，頭隨節拍有力地點動。明亮、有力、快速、自信的饒舌。踩著節拍硬切，每次切換都是雙重反差（景別與鏡頭類型同時改變）。歌詞（主唱依次用每種語言唱出 "你好"，嘴型精準同步）：英語 "Hello"、中文 "你好"、日語 "こんにちは"、韓語 "안녕하세요"、葡萄牙語 "Olá"、泰語 "สวัสดี"、西班牙語 "Hola"、阿拉伯語 "مرحبا"。8 個硬切鏡頭（低角度大遠景定場；對鏡饒舌特寫；吉他弦微距插入鏡頭；3/4 側游走環繞；海岸線橫移跟拍；鼓手仰搖；主唱緊湊推近；全樂團英姿推進），每個鏡頭一種語言。白平衡 4000K，青橙調色，35mm，淺景深，膠片顆粒，海霧，黃金時刻眩光。高級質感，精準對嘴型，無字幕，無文字疊加，僅硬切，總時長 20 秒。
+```
+
+### No. 7: 膠囊咖啡機安裝使用教學（6 張參考圖）
+
+- **分類:** `參考圖引導教學`
+- **來源:** `official`
+- **作者:** Volcengine Ark
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-output.mov)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-output.mov" controls muted playsinline width="720"></video>
+- **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+- **Inputs:**
+
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference1.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference2.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference3.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference4.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference5.png" width="180" referrerpolicy="no-referrer">
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference6.png" width="180" referrerpolicy="no-referrer">
+
+#### 描述
+
+一支 30 秒的膠囊咖啡機安裝與使用教學，六個由參考圖引導的步驟並配旁白——從安裝水箱到首次沖洗。
+
+#### 提示詞
+
+```text
+一支 30 秒的膠囊咖啡機安裝與使用教學影片。0-2s：開場標題卡寫著 "seedance 膠囊咖啡機安裝教學"。2-5s，第 1 步：安裝水箱，參考 @image1，略帶俯角的中景，機身背面，將水箱對準機身背部的卡槽豎直向下推入，直到 "喀噠" 一聲穩固到位，清晰展示水箱底部卡扣如何與機身卡槽對齊，透過水箱透明部分可見水位線，旁白 "第一步，安裝水箱。將水箱對準機器背部的卡槽；聽到喀噠一聲即表示已鎖定到位。"。5-9s，第 2 步：安裝滴水盤，參考 @image2，正面近景，機身正面底部，將滴水盤水平滑入底部導軌直至完全到位，旁白 "接下來，安裝滴水盤。將滴水盤對準底部導軌。"。9-13s，第 3 步：安裝廢膠囊收集盒，參考 @image3，略帶仰角的近景，滴水盤下方的凹腔，將收集盒對準凹槽推入，與滴水盤齊平，旁白 "然後放入膠囊收集盒。用過的膠囊會自動掉落到這裡。"。13-18s，第 4 步：首次加水，參考 @image4，側面近景，位於機身頂部/背部的水箱，打開水箱蓋倒入清水至 MAX 水位線，然後蓋好，重點強調水位線，旁白 "打開水箱蓋，倒入清水，注意不要超過最高水位線，然後蓋好水箱蓋。"。18-25s，第 5 步：開機，參考 @image5，正面中景，機身正面，插上電源線並按下電源鍵；指示燈從閃爍轉為恆亮（預熱完成），旁白 "接通電源，按下電源鍵。指示燈開始閃爍，表示正在預熱。當燈變為恆亮時，機器即可使用。"。25-30s，第 6 步：首次沖洗（不放膠囊），參考 @image6，中景推至正側面近景，不放入膠囊，直接按下沖泡鍵，讓熱水流出沖洗管路，重點強調 "無需膠囊" 的提示，旁白 "最後一步，首次沖洗。請注意這一步無需放入膠囊，直接按下沖泡鍵即可。沖洗完成後，你的咖啡機就可以使用了。"
+```
+
+### No. 8: 水果餅乾廣告（1 張圖 + 6 段影片參考）
+
+- **分類:** `多模態參考（圖片+影片）`
+- **來源:** `official`
+- **作者:** Volcengine Ark
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-output.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-output.mp4" controls muted playsinline width="720"></video>
+- **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
+
+- **Inputs:**
+
+<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-reference1.png" width="180" referrerpolicy="no-referrer">
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-reference2.mp4" controls muted width="360"></video>
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-reference3.mp4" controls muted width="360"></video>
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-reference4.mp4" controls muted width="360"></video>
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-reference5.mp4" controls muted width="360"></video>
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-reference6.mp4" controls muted width="360"></video>
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-reference7.mp4" controls muted width="360"></video>
+
+#### 描述
+
+一支明亮多彩的水果餅乾廣告，共四種口味——草莓、蘋果、葡萄、柳橙——由 1 張圖片參考與 6 段運動/運鏡影片參考打造，隨強勁節拍硬切。
+
+#### 提示詞
+
+```text
+明亮多彩的廣告風格，以水果餅乾為主角，共四種口味——草莓、蘋果、葡萄和柳橙；草莓口味參考 @image1。餅乾與相配的水果以極具秩序感的幾何陣列排布；整體畫面乾淨、高級、充滿活力。開場時，水果圍繞中央的餅乾快速環繞旋轉，迅速建立視覺焦點——參考 @video1 的構圖——在強節拍上切入。隨後不同口味的餅乾沿螺旋路徑向鏡頭推進，形成清晰的空間縱深——參考 @video2 的運動與運鏡——隨背景音樂在節拍上切換顏色與口味。餅乾陣列左右橫搖，以快速的平面到平面切換，草莓、蘋果、葡萄、柳橙口味交替出現，畫面隨節奏快速跳切——參考 @video3 的運動。中段加入上下搖移；整齊的餅乾陣列像機械般垂直升降——參考 @video4 的運動——凸顯秩序之美與產品的豐富。高潮處一塊餅乾被掰成兩半，畫面進入慢動作，果味夾心迸裂而出，餅屑四散，多汁的口感與顆粒的衝擊被放大——參考 @video5 的爆炸效果——隨後迅速回到快節奏剪輯。結尾引入英文文字 "Fresh on Seedance, made for viral vision"，逐字快速依次入場，配以強烈的節奏化文字動效與產品定格——參考 @video6——四種口味的餅乾與水果整齊排列、同步彈跳，完成最後的品牌收尾，畫面充滿年輕、活力、美味、值得分享的廣告氛圍。
+```
+
+<a id="browse-by-category"></a>
 
 ## 🏷️ 按分類瀏覽
+
 
 - [`匹配剪輯與創意特效`](#category-1): **1**
 - [`一鏡到底運鏡`](#category-2): **1**
@@ -120,223 +418,10 @@ Seedance 2.5 是 Seedance 2.0 的重大升級，帶來三大提升：① 30 秒�
 - [`自然、天文與紀錄片`](#category-26): **4**
 - [`擬人化與創意梗`](#category-27): **2**
 
-## 🔥 精選提示詞
-
-### No. 1: 水晶球匹配剪輯節拍短片
-
-- **分類:** `匹配剪輯與創意特效`
-- **来源:** `official`
-- **作者:** Volcengine Ark
-- **语言:** `zh-TW`
-- **视频:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group1-1.mp4)
-
-<video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group1-1.mp4" controls muted playsinline width="720"></video>
-- **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
-
-#### 描述
-
-一部踩著節拍的匹配剪輯短片：一顆內部蝕刻著發光 seedance 標誌的水晶球始終置中，身後的八個場景無縫切換。
-
-#### 提示詞
-
-```text
-一部快節奏、電影感十足的匹配剪輯短片，與強勁的電子節拍同步。一顆完美無瑕的水晶球始終牢牢固定在正中央，內部蝕刻著發光的 "seedance" 標誌。水晶球保持極致銳利的對焦，而每逢強節拍，背景便無縫匹配切換：場景 1：微距特寫，電影感的水花在球體周圍飛濺，折射出繁複的光線。場景 2：一間復古的清晨咖啡館，球體置於原木桌面上，咖啡熱氣升騰，窗外是虛化的通勤人群。場景 3：黃金時刻的黃昏，一名滑板少年單手拋接球體，身後街道向後飛馳，籠罩在絕美的逆光夕陽中。場景 4：狂熱的音樂節，眾手將球體高高舉起，折射出炫目的舞台雷射。場景 5：熱鬧的家庭聚會餐桌，球體停在畫面中央，虛化的人影舉杯暢飲、伸手取食。場景 6：昏暗的影院，雙手捧著球體，巨幕微弱的光暈在球面上緩緩游移。場景 7：球體置於劇烈震動的揚聲器振膜上，在高潮處匹配切換到畫面中央旋轉的 DJ 唱盤。場景 8：戶外露營之夜，背景化為溫暖的篝火與搖曳的串燈散景。終章：在最後一記重拍上，球體被拋出畫面之外；切入純黑，一行極簡的黑底白字 "seedance" 出現在正中央。踩點匹配剪輯，頂級電影級調色，照片級真實的玻璃折射，光線追蹤，全域光照。主體極致銳利，背景強烈動態模糊。
-```
-
-### No. 2: 蒸汽龐克發條機械 —— 30 秒一鏡到底
-
-- **分類:** `一鏡到底運鏡`
-- **来源:** `official`
-- **作者:** Volcengine Ark
-- **语言:** `zh-TW`
-- **视频:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group2-2.mp4)
-
-<video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group2-2.mp4" controls muted playsinline width="720"></video>
-- **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
-
-#### 描述
-
-一段 30 秒的蒸汽龐克微縮 3D 影像，運用持續環繞、穿越式的運鏡。
-
-#### 提示詞
-
-```text
-一段高端、極具電影感的 30 秒 3D 動態影像，採用精緻的蒸汽龐克與復古微縮風格，運用持續流暢的環繞與穿越式運鏡。[0-10s] 一枚古董黃銅鐘面的微距特寫，層層展開為相互咬合、轉動的齒輪環與體積霧。鏡頭向下穿透齒輪；一架機械撲翼機從一座由風化舊書堆疊而成的微縮峽谷中盤旋而上。[10-20s] 鏡頭向前滑行跟拍撲翼機，無縫穿入一座飛速旋轉、裝飾華麗的黃銅走馬燈，投射出奔騰的機械駿馬光影。光影躍出，畫面化為一輛黃銅懸浮纜車，行駛在閃爍的銅軌上，穿越齒輪森林，沐浴在電影感的黃金時刻光線中。[20-30s] 鏡頭優雅地向下搖；下方現出一艘精緻的發條木質帆船，破開深藍色、玻璃質感的波浪，波浪又幻化為一輪發光的巨月，手持燈籠的探險者剪影正在星空下跋涉於水晶礦脈的山脊之上。鏡頭順暢地螺旋穿回縹緲雲層，回到滴答作響的黃銅鐘面。超寫實的機械質感，濃郁的黃銅與金色調，電影級淺景深，流暢無縫的穿越式運鏡，史詩般的奇幻冒險氛圍。
-```
-
-### No. 3: 穿窗入界（5 張參考圖）
-
-- **分類:** `多圖參考`
-- **来源:** `official`
-- **作者:** Volcengine Ark
-- **语言:** `zh-TW`
-- **视频:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-output.mp4)
-
-<video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-output.mp4" controls muted playsinline width="720"></video>
-- **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
-
-- **Inputs:**
-
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference1.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference2.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference3.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference4.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-reference5.png" width="180" referrerpolicy="no-referrer">
-
-#### 描述
-
-一支由 5 張參考圖驅動的品牌概念短片，穿過一扇扇窗戶，滑入不同的世界。
-
-#### 提示詞
-
-```text
-一支電影感的品牌概念短片。@image1 為首幀；畫面輕微顫動，鏡頭推進，窗外的樹影向後飛掠，退去的速度越來越快，隨後猛然切至 @image2，速度趨緩，鏡頭沿著一條溪流緩緩滑行，鳥鳴與花開。鏡頭潛入水下——傳來氣泡聲——橙色的水母優雅地從鏡頭前飄過 @image3；鏡頭後拉，小魚倏忽游過，從水中游進窗戶 @image4，一個女孩四處張望，注視著牠們。鏡頭後拉、失焦，再重新對實，隨著音樂的節奏切換：一扇中式園林的花格窗 @image5，光線環繞其上、教堂的彩繪玻璃、飛機的舷窗、穹頂天窗、飄窗、百葉窗、歐式老虎窗、門上的貓眼、相機的取景器、鳥的眼睛、人眼的特寫。最終定格在人眼上；眼睛閉合，畫面全黑，隨後驟然睜開——在重音節拍上，"seedance" 出現在眼睛中央。
-```
-
-### No. 4: 一鏡穿越六個房間（8 張參考圖）
-
-- **分類:** `多圖參考`
-- **来源:** `official`
-- **作者:** Volcengine Ark
-- **语言:** `zh-TW`
-- **视频:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-output.mp4)
-
-<video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-output.mp4" controls muted playsinline width="720"></video>
-- **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
-
-- **Inputs:**
-
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference1.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference2.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference3.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference4.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference5.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference7.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference8.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-reference9.png" width="180" referrerpolicy="no-referrer">
-
-#### 描述
-
-一鏡到底，跟隨一個人物穿過六個情緒不斷變化的房間，由 8 張參考圖驅動。
-
-#### 提示詞
-
-```text
-一鏡到底。鏡頭平穩地跟隨一個身穿黑色大衣的人（參考 @image1）從左至右穿過六個色調與情緒各異、彼此相連的房間。每個房間結構相同：白牆、淺色人字拼木地板、落地法式窗、白色薄紗窗簾（參考 @image2），但窗外的景緻與情緒每次都不同。主角以勻速行走，穿過每一道敞開的門。0-5s 第一個房間，美式漫畫打鬥：主角與一個角色（@image3）搏鬥，將其擊敗；5-10s 第二個房間，溫馨，毛氈手工風格，窗外是一片向日葵花田（@image4），暖橙色柔光，一位畫家在畫向日葵（@image5），主角進入時變為毛氈質感；10-15s 第三個房間，悲傷，黑白漫畫定格動畫，窗外下著雨，冷灰色光線，一個人獨自抱膝坐在地上，手機亮著一通未接來電；進入時，燈光閃滅又亮起，房間轉為彩色，花朵驟然綻放；15-20s 第四個房間，歡樂，一個沉入海中的房間（參考 @image6），主角在珊瑚與游魚間變得透明；20-25s 第五個房間，驚喜，窗外是漫天煙火的夜空（參考 @image7），彩色的光閃爍不定，主角被歡呼的人群簇擁；25-30s 一個空白的白色房間，主角打了個響指——響指音效——畫面轉黑，"seedance" 出現在中央（參考 @image8）。電影級質感，高級時尚廣告風格，光線完全由窗外景緻決定，形成強烈的情緒對比，畫面中無文字。
-```
-
-### No. 5: 影片剪輯 —— 只留主角，刪除其餘所有人
-
-- **分類:** `影片剪輯`
-- **来源:** `official`
-- **作者:** Volcengine Ark
-- **语言:** `zh-TW`
-- **视频:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-output.mov)
-
-<video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-output.mov" controls muted playsinline width="720"></video>
-- **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
-
-- **Inputs:**
-
-<video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-reference1.mp4" controls muted width="360"></video>
-
-#### 描述
-
-參考影片剪輯：從來源片段中抹除除主角以外的所有人。
-
-#### 提示詞
-
-```text
-影片剪輯：移除 @video1 中除主角以外的所有人。
-```
-
-### No. 6: 多語言嘻哈 "Hello" MV
-
-- **分類:** `多圖參考`
-- **来源:** `official`
-- **作者:** Volcengine Ark
-- **语言:** `zh-TW`
-- **视频:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-output.mp4)
-
-<video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-output.mp4" controls muted playsinline width="720"></video>
-- **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
-
-- **Inputs:**
-
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-reference1.png" width="180" referrerpolicy="no-referrer">
-
-#### 描述
-
-一支由單張參考圖打造的海邊嘻哈 MV；主唱用 8 種語言饒舌 "你好"，嘴型精準同步，踩著節拍硬切。
-
-#### 提示詞
-
-```text
-電影感的嘻哈 / 饒舌音樂錄影帶，照片級真實質感，高端調性，海邊場景。以 @image1 建構畫面：一支樂團在金色沙灘上演出，海浪拍岸——主唱在濕潤的沙地上握著立式麥克風，一名吉他手在左、一名在右，鼓手在後；身後是遼闊的海岸線，起伏的浪濤，暖調的黃金時刻夕陽在水面上閃爍，空氣中瀰漫著海霧。身穿紅色運動套裝的主唱對著鏡頭饒舌——唇形與下巴與每一個字精準同步，頭隨節拍有力地點動。明亮、有力、快速、自信的饒舌。踩著節拍硬切，每次切換都是雙重反差（景別與鏡頭類型同時改變）。歌詞（主唱依次用每種語言唱出 "你好"，嘴型精準同步）：英語 "Hello"、中文 "你好"、日語 "こんにちは"、韓語 "안녕하세요"、葡萄牙語 "Olá"、泰語 "สวัสดี"、西班牙語 "Hola"、阿拉伯語 "مرحبا"。8 個硬切鏡頭（低角度大遠景定場；對鏡饒舌特寫；吉他弦微距插入鏡頭；3/4 側游走環繞；海岸線橫移跟拍；鼓手仰搖；主唱緊湊推近；全樂團英姿推進），每個鏡頭一種語言。白平衡 4000K，青橙調色，35mm，淺景深，膠片顆粒，海霧，黃金時刻眩光。高級質感，精準對嘴型，無字幕，無文字疊加，僅硬切，總時長 20 秒。
-```
-
-### No. 7: 膠囊咖啡機安裝使用教學（6 張參考圖）
-
-- **分類:** `參考圖引導教學`
-- **来源:** `official`
-- **作者:** Volcengine Ark
-- **语言:** `zh-TW`
-- **视频:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-output.mov)
-
-<video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-output.mov" controls muted playsinline width="720"></video>
-- **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
-
-- **Inputs:**
-
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference1.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference2.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference3.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference4.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference5.png" width="180" referrerpolicy="no-referrer">
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-reference6.png" width="180" referrerpolicy="no-referrer">
-
-#### 描述
-
-一支 30 秒的膠囊咖啡機安裝與使用教學，六個由參考圖引導的步驟並配旁白——從安裝水箱到首次沖洗。
-
-#### 提示詞
-
-```text
-一支 30 秒的膠囊咖啡機安裝與使用教學影片。0-2s：開場標題卡寫著 "seedance 膠囊咖啡機安裝教學"。2-5s，第 1 步：安裝水箱，參考 @image1，略帶俯角的中景，機身背面，將水箱對準機身背部的卡槽豎直向下推入，直到 "喀噠" 一聲穩固到位，清晰展示水箱底部卡扣如何與機身卡槽對齊，透過水箱透明部分可見水位線，旁白 "第一步，安裝水箱。將水箱對準機器背部的卡槽；聽到喀噠一聲即表示已鎖定到位。"。5-9s，第 2 步：安裝滴水盤，參考 @image2，正面近景，機身正面底部，將滴水盤水平滑入底部導軌直至完全到位，旁白 "接下來，安裝滴水盤。將滴水盤對準底部導軌。"。9-13s，第 3 步：安裝廢膠囊收集盒，參考 @image3，略帶仰角的近景，滴水盤下方的凹腔，將收集盒對準凹槽推入，與滴水盤齊平，旁白 "然後放入膠囊收集盒。用過的膠囊會自動掉落到這裡。"。13-18s，第 4 步：首次加水，參考 @image4，側面近景，位於機身頂部/背部的水箱，打開水箱蓋倒入清水至 MAX 水位線，然後蓋好，重點強調水位線，旁白 "打開水箱蓋，倒入清水，注意不要超過最高水位線，然後蓋好水箱蓋。"。18-25s，第 5 步：開機，參考 @image5，正面中景，機身正面，插上電源線並按下電源鍵；指示燈從閃爍轉為恆亮（預熱完成），旁白 "接通電源，按下電源鍵。指示燈開始閃爍，表示正在預熱。當燈變為恆亮時，機器即可使用。"。25-30s，第 6 步：首次沖洗（不放膠囊），參考 @image6，中景推至正側面近景，不放入膠囊，直接按下沖泡鍵，讓熱水流出沖洗管路，重點強調 "無需膠囊" 的提示，旁白 "最後一步，首次沖洗。請注意這一步無需放入膠囊，直接按下沖泡鍵即可。沖洗完成後，你的咖啡機就可以使用了。"
-```
-
-### No. 8: 水果餅乾廣告（1 張圖 + 6 段影片參考）
-
-- **分類:** `多模態參考（圖片+影片）`
-- **来源:** `official`
-- **作者:** Volcengine Ark
-- **语言:** `zh-TW`
-- **视频:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-output.mp4)
-
-<video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-output.mp4" controls muted playsinline width="720"></video>
-- **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
-
-- **Inputs:**
-
-<img src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-reference1.png" width="180" referrerpolicy="no-referrer">
-<video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-reference2.mp4" controls muted width="360"></video>
-<video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-reference3.mp4" controls muted width="360"></video>
-<video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-reference4.mp4" controls muted width="360"></video>
-<video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-reference5.mp4" controls muted width="360"></video>
-<video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-reference6.mp4" controls muted width="360"></video>
-<video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-reference7.mp4" controls muted width="360"></video>
-
-#### 描述
-
-一支明亮多彩的水果餅乾廣告，共四種口味——草莓、蘋果、葡萄、柳橙——由 1 張圖片參考與 6 段運動/運鏡影片參考打造，隨強勁節拍硬切。
-
-#### 提示詞
-
-```text
-明亮多彩的廣告風格，以水果餅乾為主角，共四種口味——草莓、蘋果、葡萄和柳橙；草莓口味參考 @image1。餅乾與相配的水果以極具秩序感的幾何陣列排布；整體畫面乾淨、高級、充滿活力。開場時，水果圍繞中央的餅乾快速環繞旋轉，迅速建立視覺焦點——參考 @video1 的構圖——在強節拍上切入。隨後不同口味的餅乾沿螺旋路徑向鏡頭推進，形成清晰的空間縱深——參考 @video2 的運動與運鏡——隨背景音樂在節拍上切換顏色與口味。餅乾陣列左右橫搖，以快速的平面到平面切換，草莓、蘋果、葡萄、柳橙口味交替出現，畫面隨節奏快速跳切——參考 @video3 的運動。中段加入上下搖移；整齊的餅乾陣列像機械般垂直升降——參考 @video4 的運動——凸顯秩序之美與產品的豐富。高潮處一塊餅乾被掰成兩半，畫面進入慢動作，果味夾心迸裂而出，餅屑四散，多汁的口感與顆粒的衝擊被放大——參考 @video5 的爆炸效果——隨後迅速回到快節奏剪輯。結尾引入英文文字 "Fresh on Seedance, made for viral vision"，逐字快速依次入場，配以強烈的節奏化文字動效與產品定格——參考 @video6——四種口味的餅乾與水果整齊排列、同步彈跳，完成最後的品牌收尾，畫面充滿年輕、活力、美味、值得分享的廣告氛圍。
-```
+<a id="all-prompts"></a>
 
 ## 📋 全部提示詞
+
 
 <a id="category-1"></a>
 
@@ -345,10 +430,10 @@ Seedance 2.5 是 Seedance 2.0 的重大升級，帶來三大提升：① 30 秒�
 ### No. 1: 水晶球匹配剪輯節拍短片
 
 - **分類:** `匹配剪輯與創意特效`
-- **来源:** `official`
+- **來源:** `official`
 - **作者:** Volcengine Ark
-- **语言:** `zh-TW`
-- **视频:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group1-1.mp4)
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group1-1.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group1-1.mp4" controls muted playsinline width="720"></video>
 - **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
@@ -370,10 +455,10 @@ Seedance 2.5 是 Seedance 2.0 的重大升級，帶來三大提升：① 30 秒�
 ### No. 1: 蒸汽龐克發條機械 —— 30 秒一鏡到底
 
 - **分類:** `一鏡到底運鏡`
-- **来源:** `official`
+- **來源:** `official`
 - **作者:** Volcengine Ark
-- **语言:** `zh-TW`
-- **视频:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group2-2.mp4)
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group2-2.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group2-2.mp4" controls muted playsinline width="720"></video>
 - **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
@@ -395,10 +480,10 @@ Seedance 2.5 是 Seedance 2.0 的重大升級，帶來三大提升：① 30 秒�
 ### No. 1: 穿窗入界（5 張參考圖）
 
 - **分類:** `多圖參考`
-- **来源:** `official`
+- **來源:** `official`
 - **作者:** Volcengine Ark
-- **语言:** `zh-TW`
-- **视频:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-output.mp4)
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-output.mp4" controls muted playsinline width="720"></video>
 - **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
@@ -424,10 +509,10 @@ Seedance 2.5 是 Seedance 2.0 的重大升級，帶來三大提升：① 30 秒�
 ### No. 2: 一鏡穿越六個房間（8 張參考圖）
 
 - **分類:** `多圖參考`
-- **来源:** `official`
+- **來源:** `official`
 - **作者:** Volcengine Ark
-- **语言:** `zh-TW`
-- **视频:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-output.mp4)
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-output.mp4" controls muted playsinline width="720"></video>
 - **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
@@ -456,10 +541,10 @@ Seedance 2.5 是 Seedance 2.0 的重大升級，帶來三大提升：① 30 秒�
 ### No. 3: 多語言嘻哈 "Hello" MV
 
 - **分類:** `多圖參考`
-- **来源:** `official`
+- **來源:** `official`
 - **作者:** Volcengine Ark
-- **语言:** `zh-TW`
-- **视频:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-output.mp4)
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-output.mp4" controls muted playsinline width="720"></video>
 - **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
@@ -485,10 +570,10 @@ Seedance 2.5 是 Seedance 2.0 的重大升級，帶來三大提升：① 30 秒�
 ### No. 1: 影片剪輯 —— 只留主角，刪除其餘所有人
 
 - **分類:** `影片剪輯`
-- **来源:** `official`
+- **來源:** `official`
 - **作者:** Volcengine Ark
-- **语言:** `zh-TW`
-- **视频:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-output.mov)
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-output.mov)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-output.mov" controls muted playsinline width="720"></video>
 - **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
@@ -510,10 +595,10 @@ Seedance 2.5 是 Seedance 2.0 的重大升級，帶來三大提升：① 30 秒�
 ### No. 2: 蒸汽火車衝破銀幕（影片剪輯）
 
 - **分類:** `影片剪輯`
-- **来源:** `official`
+- **來源:** `official`
 - **作者:** Volcengine Ark
-- **语言:** `zh-TW`
-- **视频:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group2-output.mov)
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group2-output.mov)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group2-output.mov" controls muted playsinline width="720"></video>
 - **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
@@ -539,10 +624,10 @@ Seedance 2.5 是 Seedance 2.0 的重大升級，帶來三大提升：① 30 秒�
 ### No. 1: 膠囊咖啡機安裝使用教學（6 張參考圖）
 
 - **分類:** `參考圖引導教學`
-- **来源:** `official`
+- **來源:** `official`
 - **作者:** Volcengine Ark
-- **语言:** `zh-TW`
-- **视频:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-output.mov)
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-output.mov)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-output.mov" controls muted playsinline width="720"></video>
 - **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
@@ -573,10 +658,10 @@ Seedance 2.5 是 Seedance 2.0 的重大升級，帶來三大提升：① 30 秒�
 ### No. 1: 水果餅乾廣告（1 張圖 + 6 段影片參考）
 
 - **分類:** `多模態參考（圖片+影片）`
-- **来源:** `official`
+- **來源:** `official`
 - **作者:** Volcengine Ark
-- **语言:** `zh-TW`
-- **视频:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-output.mp4)
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-output.mp4" controls muted playsinline width="720"></video>
 - **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
@@ -608,10 +693,10 @@ Seedance 2.5 是 Seedance 2.0 的重大升級，帶來三大提升：① 30 秒�
 ### No. 1: 沙漠角蜥與葡萄柚（3D 廣告）
 
 - **分類:** `圖片參考`
-- **来源:** `official`
+- **來源:** `official`
 - **作者:** Volcengine Ark
-- **语言:** `zh-TW`
-- **视频:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab3-group1-output.mp4)
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab3-group1-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab3-group1-output.mp4" controls muted playsinline width="720"></video>
 - **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
@@ -637,10 +722,10 @@ Seedance 2.5 是 Seedance 2.0 的重大升級，帶來三大提升：① 30 秒�
 ### No. 1: 醉漢墜樓記（黑色幽默短片）
 
 - **分類:** `圖片參考（電影感）`
-- **来源:** `official`
+- **來源:** `official`
 - **作者:** Volcengine Ark
-- **语言:** `zh-TW`
-- **视频:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab3-group2-output.mp4)
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab3-group2-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab3-group2-output.mp4" controls muted playsinline width="720"></video>
 - **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
@@ -666,9 +751,9 @@ Seedance 2.5 是 Seedance 2.0 的重大升級，帶來三大提升：① 30 秒�
 ### No. 1: 服裝上身展示
 
 - **分類:** `電商帶貨`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -691,9 +776,9 @@ Shot 5：中近景，模特@Image 1 定格微笑，鏡頭緩慢拉遠收尾，�
 ### No. 2: 鞋靴細節
 
 - **分類:** `電商帶貨`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -716,9 +801,9 @@ Shot 5：特寫，鏡頭緩慢拉遠定格鞋身全貌，（音樂收束）。
 ### No. 3: 箱包開合演示
 
 - **分類:** `電商帶貨`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -741,9 +826,9 @@ Shot 5：中景，扣合鎖扣包體歸位，鏡頭緩慢拉遠收尾，（音�
 ### No. 4: 珠寶首飾
 
 - **分類:** `電商帶貨`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -766,9 +851,9 @@ Shot 5：特寫，鏡頭緩慢拉遠聚焦火彩定格，（弦樂收束）。
 ### No. 5: 家電展示（破壁機）
 
 - **分類:** `電商帶貨`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -791,9 +876,9 @@ Shot 5：中近景，成品果昔與機身同框，鏡頭緩慢拉遠收尾，�
 ### No. 6: 母嬰用品
 
 - **分類:** `電商帶貨`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -816,9 +901,9 @@ Shot 5：中近景，奶瓶與柔軟玩偶同框定格，鏡頭緩慢拉遠收�
 ### No. 7: 食品禮盒
 
 - **分類:** `電商帶貨`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -841,9 +926,9 @@ Shot 5：中景，禮盒合攏繫上絲帶，鏡頭緩慢拉遠收尾，（音�
 ### No. 8: 數碼配件（快閃促銷風，含字幕）
 
 - **分類:** `電商帶貨`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -870,9 +955,9 @@ Shot 5：中近景，耳機與價格標籤同框，鏡頭快速拉遠定格，�
 ### No. 1: 火鍋上桌
 
 - **分類:** `美食餐飲`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -895,9 +980,9 @@ Shot 5：中景，眾人舉筷同框氛圍拉滿，鏡頭緩慢拉遠收尾，�
 ### No. 2: 咖啡拉花
 
 - **分類:** `美食餐飲`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -920,9 +1005,9 @@ Shot 5：中景，成品拿鐵端起置於窗邊，鏡頭緩慢拉遠收尾，�
 ### No. 3: 甜品切開流心（熔岩巧克力）
 
 - **分類:** `美食餐飲`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -945,9 +1030,9 @@ Shot 5：中景，流心蛋糕與冰淇淋同框，鏡頭緩慢拉遠收尾，�
 ### No. 4: 燒烤炙烤
 
 - **分類:** `美食餐飲`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -970,9 +1055,9 @@ Shot 5：中近景，烤好的肉串碼盤端起，鏡頭緩慢拉遠收尾，�
 ### No. 5: 日料擺盤
 
 - **分類:** `美食餐飲`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -995,9 +1080,9 @@ Shot 5：中近景，烤好的肉串碼盤端起，鏡頭緩慢拉遠收尾，�
 ### No. 6: 奶茶製作
 
 - **分類:** `美食餐飲`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -1020,9 +1105,9 @@ Shot 5：中近景，烤好的肉串碼盤端起，鏡頭緩慢拉遠收尾，�
 ### No. 7: 麵點拉麵
 
 - **分類:** `美食餐飲`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -1045,9 +1130,9 @@ Shot 5：中近景，烤好的肉串碼盤端起，鏡頭緩慢拉遠收尾，�
 ### No. 8: 早餐場景（一鏡到底）
 
 - **分類:** `美食餐飲`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -1074,9 +1159,9 @@ Shot 5：中近景，烤好的肉串碼盤端起，鏡頭緩慢拉遠收尾，�
 ### No. 1: 口紅試色
 
 - **分類:** `美妝時尚`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -1099,9 +1184,9 @@ Shot 5：中近景，烤好的肉串碼盤端起，鏡頭緩慢拉遠收尾，�
 ### No. 2: 粉底上妝
 
 - **分類:** `美妝時尚`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -1124,9 +1209,9 @@ Shot 5：中近景，烤好的肉串碼盤端起，鏡頭緩慢拉遠收尾，�
 ### No. 3: 香水氛圍
 
 - **分類:** `美妝時尚`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -1149,9 +1234,9 @@ Shot 5：中景，香水瓶@Image 1 回落石台定格，鏡頭緩慢拉遠，�
 ### No. 4: 護膚精華滴落
 
 - **分類:** `美妝時尚`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -1174,9 +1259,9 @@ Shot 5：中景，精華瓶@Image 1 立於水光背景定格，鏡頭緩慢升�
 ### No. 5: 時尚街拍
 
 - **分類:** `美妝時尚`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -1199,9 +1284,9 @@ Shot 5：全景，模特@Image 1 站定街心張手定格，鏡頭緩慢拉遠�
 ### No. 6: 髮型展示
 
 - **分類:** `美妝時尚`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -1228,9 +1313,9 @@ Shot 5：中近景，模特@Image 1 轉身回眸定格，髮型定型飽滿，�
 ### No. 1: 手機產品旋轉
 
 - **分類:** `數碼科技`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -1253,9 +1338,9 @@ Shot 5：中景，手機@Image 1 懸浮旋轉定格，鏡頭緩慢拉遠，（�
 ### No. 2: 耳機彈出充電倉
 
 - **分類:** `數碼科技`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -1278,9 +1363,9 @@ Shot 5：中景，耳機與充電倉@Image 1 並置定格，鏡頭緩慢拉遠�
 ### No. 3: 筆記本開合
 
 - **分類:** `數碼科技`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -1303,9 +1388,9 @@ Shot 5：中景，筆記本@Image 1 半開姿態懸浮定格，鏡頭緩慢拉�
 ### No. 4: 智慧手錶介面
 
 - **分類:** `數碼科技`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -1328,9 +1413,9 @@ Shot 5：中景，手錶@Image 1 佩戴於腕定格抬起，鏡頭緩慢拉遠�
 ### No. 5: 無人機飛行
 
 - **分類:** `數碼科技`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -1353,9 +1438,9 @@ Shot 5：中景，無人機@Image 1 平穩返航懸停定格，鏡頭緩慢拉�
 ### No. 6: 晶片微距（科技紀實）
 
 - **分類:** `數碼科技`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -1382,9 +1467,9 @@ Shot 5：特寫，晶片@Image 1 在冷光中定格，鏡頭緩慢環繞收尾�
 ### No. 1: 夜景跟拍
 
 - **分類:** `汽車`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -1407,9 +1492,9 @@ Shot 5：中景，車@Image 1 駛出隧道減速定格，鏡頭緩慢拉遠升�
 ### No. 2: 細節特寫快切
 
 - **分類:** `汽車`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -1432,9 +1517,9 @@ Shot 5：中景，車@Image 1 整車定格於光束中，鏡頭緩慢拉遠，�
 ### No. 3: 越野場景
 
 - **分類:** `汽車`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -1457,9 +1542,9 @@ Shot 5：中景，越野車@Image 1 登頂山脊停穩定格，鏡頭緩慢升�
 ### No. 4: 內飾展示
 
 - **分類:** `汽車`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -1486,9 +1571,9 @@ Shot 5：中近景，鏡頭緩慢升起收於座艙定格，暖光瀰漫，（�
 ### No. 1: 客廳空間漫遊
 
 - **分類:** `房產與家居`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -1511,9 +1596,9 @@ Shot 5：緩慢拉遠，退回至玄關回望整個客廳縱深，暖白定格�
 ### No. 2: 廚房細節
 
 - **分類:** `房產與家居`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -1536,9 +1621,9 @@ Shot 5：仰拍，機位由灶台仰望頂部油煙機與嵌入式燈帶，金�
 ### No. 3: 戶型俯瞰（示意）
 
 - **分類:** `房產與家居`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -1561,9 +1646,9 @@ Shot 5：升降，機位拔高回到全局俯瞰並疊加面積數據，天光�
 ### No. 4: 臥室氛圍
 
 - **分類:** `房產與家居`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -1590,9 +1675,9 @@ Shot 5：緩慢拉遠，退至房門口回望暖燈下的臥室全景，柔調�
 ### No. 1: 知識口播
 
 - **分類:** `人物口播與數位人像`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -1615,9 +1700,9 @@ Shot 5：緩慢拉遠，主播@Image 1 點頭收尾並招手，柔光定格，�
 ### No. 2: 新聞播報
 
 - **分類:** `人物口播與數位人像`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -1640,9 +1725,9 @@ Shot 5：緩慢拉遠，主播@Image 1 雙手交疊致意收尾，冷藍定格�
 ### No. 3: 帶貨口播
 
 - **分類:** `人物口播與數位人像`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -1665,9 +1750,9 @@ Shot 5：緩慢推近，主播@Image 2 豎大拇指催單收尾，暖調定格�
 ### No. 4: 深夜情感電台
 
 - **分類:** `人物口播與數位人像`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -1690,9 +1775,9 @@ Shot 5：緩慢拉遠，主播@Image 3 摘下耳機低頭微笑收尾，微光�
 ### No. 5: 教學講師
 
 - **分類:** `人物口播與數位人像`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -1715,9 +1800,9 @@ Shot 5：緩慢拉遠，講師@Image 1 雙手一攤微笑收束並點頭，白�
 ### No. 6: 多語言分身（含編輯任務思路）
 
 - **分類:** `人物口播與數位人像`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -1744,9 +1829,9 @@ Shot 5：緩慢拉遠，數字人@Image 1 微笑點頭收尾，藍調定格，�
 ### No. 1: 便利店重逢（情緒反轉）
 
 - **分類:** `短劇與情感敘事`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -1768,9 +1853,9 @@ Shot 4：特寫，女主@Image 1 眼眶泛紅嘴角上揚，鏡頭緩慢拉遠�
 ### No. 2: 雨夜獨白
 
 - **分類:** `短劇與情感敘事`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -1793,9 +1878,9 @@ Shot 5：緩慢拉遠，主角@Image 2 睜眼扯出釋然淺笑轉身離窗，�
 ### No. 3: 家庭餐桌
 
 - **分類:** `短劇與情感敘事`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -1818,9 +1903,9 @@ Shot 5：緩慢升降，機位抬升俯瞰滿桌飯菜與相依的一家人，�
 ### No. 4: 離別車站
 
 - **分類:** `短劇與情感敘事`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -1843,9 +1928,9 @@ Shot 5：緩慢拉遠，列車駛離，女主@Image 1 獨立空蕩站台逆光�
 ### No. 5: 職場高光
 
 - **分類:** `短劇與情感敘事`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -1868,9 +1953,9 @@ Shot 5：緩慢環繞，全場起立鼓掌，主角@Image 2 鬆一口氣露出�
 ### No. 6: 校園青春
 
 - **分類:** `短劇與情感敘事`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -1893,9 +1978,9 @@ Shot 5：緩慢升降，機位抬升俯瞰兩人漸遠背影與灑滿金光的�
 ### No. 7: 懸疑走廊
 
 - **分類:** `短劇與情感敘事`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -1918,9 +2003,9 @@ Shot 5：緩慢拉遠，主角@圖片2 孤身立於幽長走廊中央，四周�
 ### No. 8: 破鏡重圓（用編輯任務做反差衍生）
 
 - **分類:** `短劇與情感敘事`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -1947,9 +2032,9 @@ Shot 5：緩慢拉遠，兩人相依身影在暖金晴光下融為一體，定�
 ### No. 1: 香氛品牌一鏡到底
 
 - **分類:** `品牌電視廣告`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -1972,9 +2057,9 @@ Shot 5：鏡頭緩慢拉遠回到微距水珠，畫面虛化定格於品牌暮�
 ### No. 2: 運動品牌燃向
 
 - **分類:** `品牌電視廣告`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -1997,9 +2082,9 @@ Shot 5：鏡頭緩慢推近其終點前的怒吼面孔，冷調高對比定格�
 ### No. 3: 公益溫情
 
 - **分類:** `品牌電視廣告`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -2022,9 +2107,9 @@ Shot 5：鏡頭緩慢升高俯拍全班圍坐共讀，暖陽灑滿地面，【�
 ### No. 4: 金融科技感
 
 - **分類:** `品牌電視廣告`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -2047,9 +2132,9 @@ Shot 5：鏡頭緩慢推近卡片定格於品牌標識，深藍漸暗，【安�
 ### No. 5: 飲料清爽
 
 - **分類:** `品牌電視廣告`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -2072,9 +2157,9 @@ Shot 5：鏡頭緩慢推近杯口氣泡定格，高飽和夏日藍黃鋪滿，�
 ### No. 6: 母嬰品牌
 
 - **分類:** `品牌電視廣告`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -2101,9 +2186,9 @@ Shot 5：鏡頭緩慢推近嬰兒綻開的微笑，柔光過曝暈染，【溫�
 ### No. 1: 古鎮航拍一鏡
 
 - **分類:** `旅行與文化旅遊`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -2126,9 +2211,9 @@ Shot 5：鏡頭緩慢拉高俯瞰群山環抱下的古鎮定格，水墨青灰�
 ### No. 2: 海島度假
 
 - **分類:** `旅行與文化旅遊`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -2151,9 +2236,9 @@ Shot 5：鏡頭推近沙灘上迎著夕陽舉杯的剪影，暖金光暈鋪滿�
 ### No. 3: 雪山聖潔
 
 - **分類:** `旅行與文化旅遊`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -2176,9 +2261,9 @@ Shot 5：鏡頭仰拍定格於日照金山之巔，冷白與暖金交界處聖�
 ### No. 4: 城市夜景
 
 - **分類:** `旅行與文化旅遊`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -2201,9 +2286,9 @@ Shot 5：鏡頭緩慢拉高俯瞰整座不夜城燈海定格，霓虹脈動如�
 ### No. 5: 沙漠駝隊
 
 - **分類:** `旅行與文化旅遊`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -2226,9 +2311,9 @@ Shot 5：鏡頭緩慢升空俯瞰駝隊沒入無垠金色沙海定格，暖金�
 ### No. 6: 街頭美食巡遊（一鏡）
 
 - **分類:** `旅行與文化旅遊`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -2255,9 +2340,9 @@ Shot 5：鏡頭順勢升高俯拍整條美食長街燈火通明定格，人潮�
 ### No. 1: 萌貓特寫
 
 - **分類:** `寵物與動物`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -2280,9 +2365,9 @@ Shot 5：全景，貓咪@Image 1 蜷成一團閉眼睡去，鏡頭緩慢升起�
 ### No. 2: 狗狗奔跑
 
 - **分類:** `寵物與動物`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -2305,9 +2390,9 @@ Shot 5：全景，狗狗@Image 1 衝向鏡頭前急停坐下咧嘴喘氣，鏡�
 ### No. 3: 水下魚群
 
 - **分類:** `寵物與動物`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -2330,9 +2415,9 @@ Shot 5：特寫，小丑魚@Image 1 獨自游回海葵停駐，鏡頭緩慢拉�
 ### No. 4: 鳥類微距
 
 - **分類:** `寵物與動物`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -2355,9 +2440,9 @@ Shot 5：全景，蜂鳥@Image 1 驟然彈射飛離畫面，鏡頭緩慢拉遠�
 ### No. 5: 擬人寵物
 
 - **分類:** `寵物與動物`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -2384,9 +2469,9 @@ Shot 5：全景，蜂鳥@Image 1 驟然彈射飛離畫面，鏡頭緩慢拉遠�
 ### No. 1: 火星探測科普
 
 - **分類:** `兒童教育與科普知識`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -2409,9 +2494,9 @@ Shot 5：全景，蜂鳥@Image 1 驟然彈射飛離畫面，鏡頭緩慢拉遠�
 ### No. 2: 人體器官示意
 
 - **分類:** `兒童教育與科普知識`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -2434,9 +2519,9 @@ Shot 5：全景，蜂鳥@Image 1 驟然彈射飛離畫面，鏡頭緩慢拉遠�
 ### No. 3: 兒童繪本動畫
 
 - **分類:** `兒童教育與科普知識`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -2459,9 +2544,9 @@ Shot 5：全景，蜂鳥@Image 1 驟然彈射飛離畫面，鏡頭緩慢拉遠�
 ### No. 4: 物理實驗演示
 
 - **分類:** `兒童教育與科普知識`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -2484,9 +2569,9 @@ Shot 5：全景，蜂鳥@Image 1 驟然彈射飛離畫面，鏡頭緩慢拉遠�
 ### No. 5: 歷史場景重現
 
 - **分類:** `兒童教育與科普知識`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -2513,9 +2598,9 @@ Shot 5：全景，蜂鳥@Image 1 驟然彈射飛離畫面，鏡頭緩慢拉遠�
 ### No. 1: 巨龍俯衝
 
 - **分類:** `遊戲、CG與幻想`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -2537,9 +2622,9 @@ Shot 4：全景，黑龍@Image 1 衝出霧氣滑入森林空地，鏡頭緩慢�
 ### No. 2: 魔法釋放
 
 - **分類:** `遊戲、CG與幻想`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -2562,9 +2647,9 @@ Shot 5：中景，女法師@Image 1 收勢喘息法陣餘光消散，鏡頭緩�
 ### No. 3: 機甲登場
 
 - **分類:** `遊戲、CG與幻想`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -2587,9 +2672,9 @@ Shot 5：全景，機甲@Image 1 衝出機庫躍入戰場，鏡頭平穩跟拍�
 ### No. 4: 開放世界遠景
 
 - **分類:** `遊戲、CG與幻想`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -2612,9 +2697,9 @@ Shot 5：全景，大陸@Image 1 鏡頭拉升揭示整片大陸全貌與雙日�
 ### No. 5: 白模渲染演示
 
 - **分類:** `遊戲、CG與幻想`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -2641,9 +2726,9 @@ Shot 5：全景，場景@Image 1 後期調色與體積光加入成為終幀，�
 ### No. 1: 吉卜力食物番
 
 - **分類:** `動畫與卡通`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -2666,9 +2751,9 @@ Shot 5：中景，熱湯盛入陶碗手捧至畫面中央，鏡頭緩慢拉遠�
 ### No. 2: Q版角色互動
 
 - **分類:** `動畫與卡通`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -2691,9 +2776,9 @@ Shot 5：中景，另一隻角色撲上去擁抱兩顆心跳出畫面，鏡頭�
 ### No. 3: 3D皮克斯風
 
 - **分類:** `動畫與卡通`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -2716,9 +2801,9 @@ Shot 5：遠景，小機器人獨自站在山丘頂朝陽升起拉長影子，�
 ### No. 4: 水彩風景動畫
 
 - **分類:** `動畫與卡通`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -2745,9 +2830,9 @@ Shot 5：遠景，暮色四合燈籠次第亮起倒映滿河，鏡頭緩慢升�
 ### No. 1: 健身房力量
 
 - **分類:** `運動與健身`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -2770,9 +2855,9 @@ Shot 5：特寫，槓鈴砸回地面彈起震動汗珠飛濺，鏡頭緩慢拉�
 ### No. 2: 瑜伽舒展
 
 - **分類:** `運動與健身`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -2795,9 +2880,9 @@ Shot 5：全景，盤坐合十垂首晨霧漫過整個教室，鏡頭緩慢拉�
 ### No. 3: 籃球扣籃
 
 - **分類:** `運動與健身`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -2820,9 +2905,9 @@ Shot 5：特寫，籃球暴力灌入籃網籃筐劇烈震顫，鏡頭緩慢推�
 ### No. 4: 跑步剪影
 
 - **分類:** `運動與健身`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -2849,9 +2934,9 @@ Shot 5：遠景，跑者剪影衝上坡頂張開雙臂擁抱朝陽，鏡頭緩�
 ### No. 1: 舞蹈跟拍
 
 - **分類:** `音樂、舞蹈與MV`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -2874,9 +2959,9 @@ Shot 5：全景，定格pose霓虹頻閃照亮全身輪廓，鏡頭緩慢拉遠�
 ### No. 2: 鋼琴獨奏
 
 - **分類:** `音樂、舞蹈與MV`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -2899,9 +2984,9 @@ Shot 5：極近特寫，最後一鍵按下手指停駐餘音震顫，鏡頭緩�
 ### No. 3: 街舞battle
 
 - **分類:** `音樂、舞蹈與MV`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -2924,9 +3009,9 @@ Shot 5：全景，兩人同時定格對峙圍觀者齊聲爆發，鏡頭緩慢�
 ### No. 4: 演唱會氛圍
 
 - **分類:** `音樂、舞蹈與MV`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -2953,9 +3038,9 @@ Shot 5：全景，煙花與雷射同時噴發主唱高舉話筒剪影，鏡頭�
 ### No. 1: 春節團圓
 
 - **分類:** `節日與節氣`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -2979,9 +3064,9 @@ Shot 6：緩慢拉遠，全家門前舉杯定格於大紅燈籠下，出現字�
 ### No. 2: 情人節浪漫
 
 - **分類:** `節日與節氣`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -3005,9 +3090,9 @@ Shot 6：緩慢拉遠，二人依偎長椅剪影，出現字幕【愛你的每�
 ### No. 3: 中秋賞月
 
 - **分類:** `節日與節氣`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -3031,9 +3116,9 @@ Shot 6：緩慢拉遠，人影與巨大滿月同框成剪影，出現字幕【�
 ### No. 4: 聖誕氛圍
 
 - **分類:** `節日與節氣`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -3057,9 +3142,9 @@ Shot 6：緩慢拉遠，屋內暖光透過雪夜窗櫺，出現字幕【Merry Ch
 ### No. 5: 立春節氣
 
 - **分類:** `節日與節氣`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -3087,9 +3172,9 @@ Shot 6：緩慢拉遠，一樹新綠立於原野，出現字幕【立春 萬物�
 ### No. 1: 星空延時
 
 - **分類:** `自然、天文與紀錄片`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -3113,9 +3198,9 @@ Shot 6：緩慢拉遠，星空回落至一人孤帳微光，出現字幕【宇�
 ### No. 2: 極光流動
 
 - **分類:** `自然、天文與紀錄片`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -3139,9 +3224,9 @@ Shot 6：緩慢拉遠，極光籠罩整片冰原孤木佇立，出現字幕【�
 ### No. 3: 火山熔岩
 
 - **分類:** `自然、天文與紀錄片`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -3165,9 +3250,9 @@ Shot 6：緩慢拉遠，極光籠罩整片冰原孤木佇立，出現字幕【�
 ### No. 4: 森林晨霧
 
 - **分類:** `自然、天文與紀錄片`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -3195,9 +3280,9 @@ Shot 6：緩慢拉遠，極光籠罩整片冰原孤木佇立，出現字幕【�
 ### No. 1: AI 模型格鬥擬人化
 
 - **分類:** `擬人化與創意梗`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -3221,9 +3306,9 @@ Shot 6：緩慢拉遠，極光籠罩整片冰原孤木佇立，出現字幕【�
 ### No. 2: 編程語言擬人化互懟
 
 - **分類:** `擬人化與創意梗`
-- **来源:** `community`
+- **來源:** `community`
 - **作者:** Atlas Cloud
-- **语言:** `zh-TW`
+- **語言:** `zh-TW`
 - **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
@@ -3244,26 +3329,36 @@ Shot 6：緩慢拉遠，極光籠罩整片冰原孤木佇立，出現字幕【�
 通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
 ```
 
-## 本地使用
+<details><summary>倉庫開發</summary>
 
 ```bash
-npm install
-npm run build-all
+npm ci
+npm run generate
+npx tsc --noEmit
 ```
 
-## More Atlas Cloud Tools
+</details>
 
-- 📘 [Workflow: Seedream 5 → Seedance 2.5 (image-first / 先图后视频)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/docs/workflow-seedream5-seedance2.5.md) — lock characters/scenes on cheap images first, then generate 30s video in one shot.
-- [atlascloud-cli](https://github.com/AtlasCloudAI/cli) — run prompts from your terminal.
-- 🔌 [MCP Server](https://github.com/AtlasCloudAI/mcp-server) — connect Atlas Cloud to any MCP client.
-- [atlas-cloud-skills](https://github.com/AtlasCloudAI/atlas-cloud-skills) — skills for Claude Code, Codex, and Gemini CLI.
-- [atlascloud_comfyui](https://github.com/AtlasCloudAI/atlascloud_comfyui) — ComfyUI nodes for Atlas Cloud.
-- [n8n-nodes-atlascloud](https://github.com/AtlasCloudAI/n8n-nodes-atlascloud) — n8n automation nodes.
-- [Discord](https://discord.gg/MWmMr4q9es) — join the community.
-- [Website](https://www.atlascloud.ai?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills) — explore all models and docs.
+<a id="resources"></a>
 
-## 📄 许可证
+## 🔗 相關資源
+
+
+- [Seedance 2.5 prompt gallery](https://www.atlascloud.ai/prompts-hub/seedance-2-5-prompt?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills&locale=zh-TW)
+- [Atlas Cloud Seedance 2.5 page](https://www.atlascloud.ai/zh-TW/seedance-2-5?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills)
+- [Atlas Cloud Skill](https://github.com/AtlasCloudAI/atlas-cloud-skills)
+- [Atlas MCP Server](https://github.com/AtlasCloudAI/mcp-server)
+- [Atlas CLI](https://github.com/AtlasCloudAI/cli)
+- [Atlas Cloud model catalog](https://www.atlascloud.ai/models?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills)
+- [Discord](https://discord.gg/MWmMr4q9es)
+
+<a id="license"></a>
+
+## 📄 授權條款
+
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> 此 README 為自動生成。 2026-07-23T06:22:46.624Z
+> 所有提示詞僅用於學習、整理與檢索。如有內容需要移除，請提交 issue。
+
+> 此 README 為自動生成。 2026-07-23.
