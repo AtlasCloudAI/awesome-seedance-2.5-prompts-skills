@@ -1,4 +1,4 @@
-# 🎬 Awesome Seedance 2.5 Prompts
+# 🎬 Awesome Seedance 2.5 Prompts + Seedance 2.5 Skill
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
@@ -6,100 +6,168 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/pulls)
 [![Prompts](https://img.shields.io/badge/prompts-11%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
-> A curated collection of Seedance 2.5 video prompts — each with real previews via Atlas Cloud. 30s native clips · 50 multimodal references · flexible region editing. Cinematic, anime, UGC, ads, meme & more.
+A curated library of Seedance 2.5 video prompts plus **Seedance 2.5 Skill**, an installable Agent Skill for planning, optimizing, and generating controllable video. The Skill chooses the right T2V, R2V, I2V, or extension route, uses Seedream 5.0 Pro for storyboards and Seedance 2.0 as the current executable default, and switches to Seedance 2.5 only when the selected provider exposes it.
 
-> All prompts are shared for learning, organization, and discovery. Open an issue if anything should be removed.
+| [Browse prompts](https://www.atlascloud.ai/prompts-hub/seedance-2-5-prompt?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills) | [Install Seedance 2.5 Skill](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/tree/main/skills/seedance-2-5-skill) | [Generate with Atlas Cloud](https://www.atlascloud.ai/tr/models/bytedance/seedance-2.5/text-to-video?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills) | [Get an API key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills) |
+|---|---|---|---|
 
-[![English](https://img.shields.io/badge/English-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_ja.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_ko.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_th.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_vi.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_hi.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_es.md) [![Deutsch](https://img.shields.io/badge/Deutsch-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_de.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_fr.md) [![Italiano](https://img.shields.io/badge/Italiano-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_it.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_pt.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-Current-brightgreen)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_tr.md) [![العربية](https://img.shields.io/badge/%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_ar.md) [![Bahasa Indonesia](https://img.shields.io/badge/Bahasa%20Indonesia-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_id.md) [![Nederlands](https://img.shields.io/badge/Nederlands-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_nl.md) [![Polski](https://img.shields.io/badge/Polski-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_pl.md) [![Русский](https://img.shields.io/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_ru.md) [![Svenska](https://img.shields.io/badge/Svenska-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_sv.md)
+<details><summary>Languages (20)</summary>
 
----
+[English](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/README.md) · [简体中文](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_zh.md) · [繁體中文](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_zh-TW.md) · [日本語](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_ja.md) · [한국어](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_ko.md) · [ไทย](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_th.md) · [Tiếng Việt](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_vi.md) · [हिन्दी](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_hi.md) · [Español](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_es.md) · [Deutsch](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_de.md) · [Français](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_fr.md) · [Italiano](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_it.md) · [Português](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_pt.md) · [Türkçe](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_tr.md) · [العربية](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_ar.md) · [Bahasa Indonesia](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_id.md) · [Nederlands](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_nl.md) · [Polski](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_pl.md) · [Русский](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_ru.md) · [Svenska](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_sv.md)
+
+</details>
+
+<a id="contents"></a>
 
 ## 📖 Contents
 
-- [🧠 Seedance 2.5 Agent Skill](#-seedance-25-agent-skill)
-- [🌐 View in AtlasCloud](#-view-in-atlascloud)
-- [🧩 Supported Models](#-supported-models)
-- [▶ Run any prompt via Atlas Cloud](#-run-any-prompt-via-atlas-cloud)
-- [📊 Statistics](#-statistics)
-- [🏷️ Browse by Category](#-browse-by-category)
-- [🔥 Featured Prompts](#-featured-prompts)
-- [📋 All Prompts](#-all-prompts)
-- [More Atlas Cloud Tools](#more-atlas-cloud-tools)
-- [📄 License](#-license)
+- [Seedance 2.5 Skill](#seedance-2-5-skill)
+- [How to use this repository](#how-to-use)
+- [Model and execution defaults](#model-and-execution-defaults)
+- [Seedance 2.5 prompt guide](#prompt-guide)
+- [Curation and provenance](#curation-and-provenance)
+- [Frequently asked questions](#faq)
+- [Statistics](#statistics)
+- [Featured Prompts](#featured-prompts)
+- [Browse by Category](#browse-by-category)
+- [All Prompts](#all-prompts)
+- [Resources](#resources)
+- [License](#license)
 
-## 🧠 Seedance 2.5 Agent Skill
+<a id="seedance-2-5-skill"></a>
 
-> This repo ships an installable **Agent Skill** ([`skills/seedance-2-5-skill/`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill)): pick the right video route first — single-shot T2V, storyboard-image-to-video (R2V storyboard), people / product / scene asset references (R2V assets), first-and-last-frame I2V, or extensions — then follow a 5-step flow (choose route → prepare only the assets you need → design continuity & cuts → write the prompt → generate & review) to get controllable Seedance video. Chinese requests get a dedicated Chinese workflow.
+## 🧠 Seedance 2.5 Skill
 
-**Install**: copy the `skills/seedance-2-5-skill/` folder into `~/.claude/skills/` (or your project's `.claude/skills/`; same idea for Codex / Gemini CLI agents), then just describe what you want — e.g. "a 30s product video from these reference shots".
+**Seedance 2.5 Skill** is the name of the installable Agent Skill in this repository. It turns a creative brief, references, or a storyboard into the right generation route, prompt, intermediate assets, execution request, and review loop.
 
-- [`SKILL.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/SKILL.md) — the main flow: route table + asset prep + continuity / cut design + prompt writing + generate & review
-- [`references/workflow.zh-CN.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/workflow.zh-CN.md) — Chinese main workflow (every reference file ships EN + zh-CN)
-- [`references/cinematography.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/cinematography.md) — deep camera / lighting / composition vocabulary
-- [`references/prompt-blocks.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/prompt-blocks.md) · [`prompt-templates.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/prompt-templates.md) — the block framework & copy-paste templates for every stage
-- [`references/execution-adapters.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/execution-adapters.md) — Atlas execution channels (CLI / REST) & model profiles
-- [`references/troubleshooting.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/troubleshooting.md) — drift / control symptoms → causes → fixes
-- [`scripts/generate.mjs`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/scripts/generate.mjs) — the executable pipeline (config-driven: grid / chain / reference / storyboard / t2v modes, with Atlas CLI & REST providers)
+### Install
 
-> Companion guide: [Workflow: Seedream 5 → Seedance 2.5 (image-first)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/docs/workflow-seedream5-seedance2.5.md). The 100+ storyboard prompts below are ready to feed straight into this skill.
+Install the workflow Skill and its default Atlas Cloud execution Skill:
 
-## 🌐 View in AtlasCloud
+```bash
+npx skills add AtlasCloudAI/awesome-seedance-2.5-prompts-skills --skill seedance-2-5-skill
+npx skills add AtlasCloudAI/atlas-cloud-skills --skill atlas-cloud
+```
 
-- Prompt Library: [View](https://www.atlascloud.ai/prompts-hub/seedance-2-5-prompt?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills)
-- Model Page: [View](https://www.atlascloud.ai/tr/models/bytedance/seedance-2.5/text-to-video?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills)
+### What it does
 
-## 🧩 Supported Models
+| Route | Use when | Primary input | Generation unit |
+|---|---|---|---|
+| T2V | One short, simple scene | Text prompt | One self-contained shot |
+| R2V storyboard | A readable multi-shot storyboard | One complete storyboard image | One request follows the panel order |
+| R2V asset references | People, products, objects, scenes, or styles must stay consistent | A small role-specific asset pack | One reference-controlled clip |
+| I2V shot pair | The exact beginning and ending of a shot matter | Start keyframe, optional end keyframe | One independently reviewable shot |
+| Extend / chain | A longer sequence must continue an accepted clip | Prior clip or end frame | A continuity-aware extension |
 
-- 🎬 **Video** — Seedance 2.5 · Seedance 2.0 · Seedance 2.0 Mini · Kling 3 · Sora 2 · Veo 3.1 · HappyHorse 1 · Grok Imagine 1.5 · Wan 2.7
-- 🎨 **Image** — Seedream 5.0 Pro · Nano Banana 2/Pro · GPT Image 2 · Flux 2 · Seedream 5
-- 🧊 **3D** — Seed3D 2.0 · Hunyuan 3D Pro · Hunyuan 3D Rapid
-- 💬 **LLM** — Claude · GPT · DeepSeek · MiniMax · Kimi · GLM · Qwen
-- 🔊 **Audio** — Grok TTS
-- 📚 **Explore more** — [300+ models »](https://www.atlascloud.ai/models?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills)
+<details><summary>Skill files and references</summary>
 
-## ▶ Run any prompt via Atlas Cloud
+- [`SKILL.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/SKILL.md)
+- [`references/workflow.zh-CN.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/workflow.zh-CN.md)
+- [`references/cinematography.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/cinematography.md)
+- [`references/prompt-blocks.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/prompt-blocks.md)
+- [`references/prompt-templates.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/prompt-templates.md)
+- [`references/execution-adapters.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/execution-adapters.md)
+- [`references/troubleshooting.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/troubleshooting.md)
+- [`scripts/generate.mjs`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/scripts/generate.mjs)
 
-**Skill (recommended):** Install [atlas-cloud-skills](https://github.com/AtlasCloudAI/atlas-cloud-skills) in Claude Code, Codex, or Gemini CLI, then just ask it to generate any prompt from this collection.
+</details>
 
-**CLI:** Prefer the terminal? Use [atlascloud-cli](https://github.com/AtlasCloudAI/cli) to run prompts directly.
+<a id="how-to-use"></a>
 
-**[→ Get your free Atlas Cloud API key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills)**
+## 🚀 How to use this repository
 
-## 🤔 Seedance 2.5 Overview
+1. **Browse:** filter by category, open a real preview when available, and copy the prompt.
+2. **Adapt:** ask Seedance 2.5 Skill to rewrite a prompt for your subject, duration, aspect ratio, references, and continuity needs.
+3. **Generate:** let the Skill choose the route, create and show intermediate storyboards when needed, review them automatically, and submit the final image or video request through the selected Atlas channel.
 
-Seedance 2.5 is a major upgrade to Seedance 2.0 with three big gains: 30-second native clips (up from 15s) for complete scenes without stitching; up to 50 multimodal references (image / video / audio) — the largest reference capacity in its class — for precise reference-driven control; and flexible region editing to swap backgrounds, products or subjects without breaking the rest of the shot. It keeps 2.0's multimodal audio-video generation, adds ~20% better prompt adherence and native 4K — great for reference-driven shots, advanced camera language, emotional acting, beat sync, and video remix.
+<a id="model-and-execution-defaults"></a>
 
-- Start with a clear subject, scene, and action, then add camera movement, pacing, mood, and style details.
-- When using references, keep placeholders like `@image1`, `@video1`, and `@audio1` explicit in the prompt.
-- The longer 30s duration suits full narratives, continuous camera moves, and audio sync; native 4K output suits high-res finals and commercial delivery.
-- Great for ad creatives, narrative extension, consistency control, MV production, cinematic effects, and stylized short-form storytelling.
+## ⚙️ Model and execution defaults
 
-### Recommended Structure
+The workflow Skill and the execution adapter are separate layers. The workflow decides what to make; the selected Atlas channel submits, polls, and retrieves the media.
 
-- Subject: define the main character, object, or product.
-- Action: describe what happens and how the environment reacts.
-- Camera: add dolly, pan, orbit, tracking, aerial, or close-up directions.
-- Style: include lighting, texture, pace, mood, color, and audio cues.
+### Model defaults
+
+**Storyboard stills:** Seedream 5.0 Pro. **Executable video default:** Seedance 2.0. **Seedance 2.5:** only when the selected provider exposes the model and its actual limits.
+
+- **Atlas Cloud Skill:** default direct execution route inside an Agent conversation. If it is missing, the workflow helps install it and directs the user to obtain an API key.
+- **Atlas MCP:** used when the user explicitly selects MCP and its generation tools are available.
+- **Atlas CLI / REST:** used for explicit terminal, script, CI, or batch workflows.
+
+All asynchronous jobs are polled every 2 seconds using the same prediction ID. A timeout or delayed output is not permission to submit a duplicate paid generation.
+
+**[→ Get an Atlas Cloud API key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills)**
+
+<a id="prompt-guide"></a>
+
+## 🧩 Seedance 2.5 prompt guide
+
+Published Seedance 2.5 launch material describes up to 30-second generation, native 4K output, up to 50 multimodal references, and local region editing. Treat these as announced capabilities, not universal API parameters.
+
+**Availability note:** provider availability, reference limits, duration, resolution, and editing controls can differ. The Skill verifies the selected route instead of assuming Seedance 2.5 is callable.
+
+### Prompt structure used by the Skill
+
+1. **Reference binding:** state what each image, video, or audio reference controls.
+2. **Observable action:** describe visible events in temporal order, including reactions and state changes.
+3. **Spatial relationships:** say where subjects, objects, and the camera are in relation to each other.
+4. **Camera and cuts:** specify framing, movement, cut order, match actions, and occlusions only where they matter.
+5. **Visual style:** define lighting, palette, texture, atmosphere, and pace.
+6. **Audio:** define dialogue, ambience, sound effects, or music when the selected model route supports them.
+7. **Constraints:** preserve only the identities, product details, scene traits, and exclusions that are essential.
+
+### Primary references
+
+- [Seedance 2.0 prompt guide — Volcengine](https://docs.volcengine.com/docs/82379/2222480?lang=zh)
+- [Seedream 5.0 Pro user manual — ByteDance Lark](https://bytedance.larkoffice.com/wiki/HQ8HwXpNFiy6umkP8jNcBwF3nab)
+- [Seedance 2.5 launch overview — Atlas Cloud](https://www.atlascloud.ai/tr/seedance-2-5?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills)
+
+<a id="curation-and-provenance"></a>
+
+## 🔎 Curation and provenance
+
+Every prompt record keeps its category, source platform, author, source link, input references, and preview video when available. Prompt text remains unchanged during README generation.
+
+- The `official` and `community` labels describe where a prompt came from; they are not a guarantee that every prompt has been independently benchmarked across every provider or model version.
+- A preview demonstrates one observed output under its original setup. Results can change with model version, provider parameters, references, aspect ratio, seed, and moderation.
+
+<a id="faq"></a>
+
+## ❓ Frequently asked questions
+
+### What is Seedance 2.5 Skill?
+
+It is the installable Agent Skill in `skills/seedance-2-5-skill/`. It selects a generation route, prepares only the required assets, writes the prompt, executes through Atlas Cloud, and reviews the outputs.
+
+### Does the Skill require public Seedance 2.5 access?
+
+No. The current executable default is Seedance 2.0. The Skill uses Seedance 2.5 only when the selected provider actually exposes it.
+
+### Does every video need a storyboard?
+
+No. A simple scene can use T2V directly. A readable multi-shot storyboard is normally sent as one complete R2V reference; panels are cropped only when the route deliberately changes to independent I2V shots.
+
+### Which Atlas route is used?
+
+Atlas Cloud Skill is the default inside an Agent conversation. MCP, CLI, and REST are selected explicitly for their corresponding environments.
+
+### Can I use the prompts without installing the Skill?
+
+Yes. Browse and copy any prompt directly. Install the Skill when you want route selection, adaptation, storyboard handling, execution, polling, and automated review.
+
+<a id="statistics"></a>
 
 ## 📊 Statistics
+
 
 | Metric | Count |
 |--------|-------|
 | Total Prompts | **11** |
 | Categories | **8** |
 | Preview Videos | **11** |
-| Last Updated | **2026-07-23T06:22:46.649Z** |
+| Last Updated | **2026-07-23** |
 
-## 🏷️ Browse by Category
-
-- [`Match-cut ve yaratıcı efektler`](#category-1): **1**
-- [`Tek çekimde sinematografi`](#category-2): **1**
-- [`Çoklu görsel referans`](#category-3): **3**
-- [`Video düzenleme`](#category-4): **2**
-- [`Referans rehberli eğitim`](#category-5): **1**
-- [`Çok modlu referans (görsel+video)`](#category-6): **1**
-- [`Görsel referans`](#category-7): **1**
-- [`Görsel referans (sinematik)`](#category-8): **1**
+<a id="featured-prompts"></a>
 
 ## 🔥 Featured Prompts
 
@@ -317,7 +385,24 @@ Dört çeşitte — çilek, elma, üzüm, portakal — meyveli kurabiyeler için
 Kahramanı meyveli kurabiyeler olan, dört çeşitte — çilek, elma, üzüm ve portakal — parlak, renkli bir reklam tarzı; çilek çeşidi referansı @image1. Kurabiyeler ve onlara uyan meyveler güçlü biçimde düzenli, geometrik bir dizide yerleştirilmiştir; kare bütünüyle temiz, üst düzey ve yüksek enerjilidir. Görsel odağı hızla kurmak için meyvelerin merkezdeki kurabiyenin çevresinde hızla döndüğü bir açılışla başlar — @video1 kompozisyonunu referans al — güçlü bir müzik vuruşunda kesme yaparak. Ardından farklı çeşitteki kurabiyeler spiral yollar boyunca objektife doğru ilerleyerek net bir mekânsal derinlik oluşturur — @video2 hareketini ve kamera işçiliğini referans al — fon müziğinin vuruşunda renkleri ve çeşitleri değiştirerek. Kurabiye dizisi hızlı düzlemden düzleme kesmelerle sola ve sağa kayar, kare ritme göre hızla sıçramalı kesme yaparken çilek, elma, üzüm ve portakal çeşitleri sırayla değişir — @video3 hareketini referans al. Orta bölüm yukarı ve aşağı kaydırma ekler; düzenli kurabiye dizisi bir makine gibi dikey olarak yükselip alçalır — @video4 hareketini referans al — düzenin güzelliğini ve ürünün zenginliğini öne çıkararak. Doruk noktasında bir kurabiye ikiye kırılır ve meyveli iç dolgusu patlarken an ağır çekime geçer, kırıntılar saçılır, sulu his ve taneli darbe abartılır — @video5 patlama efektini referans al — ardından hızlı tempolu kurguya hızla döner. Final, “Seedance’te taze, viral vizyon için yaratıldı” metnini getirir; metin, güçlü ritmik metin hareketi ve ürünün donmuş bir karesiyle art arda hızla kelime kelime girer — @video6 referans al — dört kurabiye çeşidi düzgünce sıralanır ve meyveler senkron içinde zıplayarak son, markayı öne çıkaran bir kapanış yapar, kare genç, enerjik, lezzetli ve paylaşılası bir reklam atmosferiyle dolu.
 ```
 
+<a id="browse-by-category"></a>
+
+## 🏷️ Browse by Category
+
+
+- [`Match-cut ve yaratıcı efektler`](#category-1): **1**
+- [`Tek çekimde sinematografi`](#category-2): **1**
+- [`Çoklu görsel referans`](#category-3): **3**
+- [`Video düzenleme`](#category-4): **2**
+- [`Referans rehberli eğitim`](#category-5): **1**
+- [`Çok modlu referans (görsel+video)`](#category-6): **1**
+- [`Görsel referans`](#category-7): **1**
+- [`Görsel referans (sinematik)`](#category-8): **1**
+
+<a id="all-prompts"></a>
+
 ## 📋 All Prompts
+
 
 <a id="category-1"></a>
 
@@ -640,26 +725,36 @@ Yaklaşık 30 sn'lik sinematik bir kara komedi: tombul, çakırkeyif bir adam bi
 [Sarhoş Adamın Çatıda Dehşeti — kenardan düşer — camdan bir halata tutunur — olduğu yerde bayılır | kara komedi kısa filmi | yaklaşık 30 saniye] Tek cümlelik özet: tombul, sevimli, sarhoş, orta yaşlı bir adam bir binanın çatısında burger yiyip bira içmektedir; ayağa kalkıp gerinirken kazara dengesini kaybedip düşer, panikle can kurtaran bir halata tutunur ve hemen bir camdan içeri, bir iç mekâna dalar, bir saniye afallayıp sersemler, sonra da olduğu yere uzanıp derin bir uykuya dalar. Referans görsel @image1 — tombul, sevimli, sarhoş, orta yaşlı bir adam: yuvarlak ve tıknaz yapılı, kocaman yuvarlak bir bira göbeğiyle, kısa boylu, içkiden dolayı gevşek, yavaş ve dengesiz hareketler; yuvarlak yüz, gıdı, içkiden kızarmış yanaklar ve burun, bulanık bir bakışla çizgi gibi kısılmış gözler, düzeltilmemiş kısa sakal halkası, dağınık saçlar, aptalca, sevimli, kaygısız bir ifade; yuvarlak göbeğinin üzerine gevşekçe sarkan, burger sosuyla lekelenmiş beyaz bir atlet, eski bir kot, gevşek terliklerle sürüne sürüne yürüyen, elinde daima yarı yenmiş bir burger tutan. Tüm filmde yalnızca bu tek karakter vardır, referans görselle %100 uyumlu. Genel görünüm: gece bir cyberpunk mega-şehri, cam ve çelikten gökdelenlerin sık ormanı, neon tabelalar (camgöbeği / macenta / elektrik mavisi), holografik reklam panoları, ıslak yansıtıcı zemin, hacimsel sis, uzakta uçan araba ışık izleri ve dronlar. Gerçek canlı çekim dokusu, fiziksel sinema objektifleri, 3D render / oyun motoru / anime hissi yok. Kamera elde çekimi vinç / dronla harmanlar; düştükten sonra kamera onunla birlikte aşağı dalar, binanın dış duvarı ve neon hızı aktarmak için yukarı doğru çizgilenir, 24-35mm geniş ekran sinema objektifi dokusu, 180 derece obtüratör hareket bulanıklığı. Ses tasarımı kara komedinin anahtarıdır: “devasa bir kükreme” ile “tam sessizlik” arasında tekrar tekrar sert kesmeler. Baştan sona gerçek yer çekimi. Storyboard (yaklaşık 30 saniye): S1 (0-4s) açılışta çiğneme büyük yakın çekimi (sesli) adamın yüzü ekranı kaplar, burgeri kocaman ısırıklarla çiğner, memnun, sarhoş bir hâl; S2 (4-9s) geniş çekime açılış, gerinme -> dengeyi kaybetme ve düşme (sesli) sendeleyerek ayağa kalkar ve kocaman gerinir, geriye yaslanır, dengesini koruyamaz, ayağı kayar ve burgeri asla bırakmadan çatının kenarından geriye doğru takla atar, panikle bir “Ee——!” sesiyle; S3 (9-12s) irkilmiş bir yüz yakın çekimine kesme (yüksek bir çığlık, devasa kükreme) sarhoş gözler fal taşı gibi açılmış, gıdı büzülmüş, ağız “Aaa——!!” diye bağırırken ardına kadar açık, uğuldayan rüzgâr; S4 (12-16s) göz hizasında bir uzak çekime kesme (tam sessizlik) karşıdaki binadan görünen, gökdelenden dosdoğru aşağı çakılan minicik beyaz bir figür, neon şehir uçsuz bucaksız ve kayıtsız, tam sessizlik bir saniye önceki devasa kükremeyle kara komik bir kontrast oluşturur; S5 (16-21s) bir yüz yakın çekimine kesme (çığlık atarak) -> halata tutunma, hâlâ çığlık atarak, elleri havada çırpınırken aniden can kurtaran bir kabloya tutunur, kablo ağırlığı altında bir çınlamayla gerilip bükülür, sarhoş adam sarsılıp dışarı savrulurken çığlık aniden kesilir (halata tutunduğu anda kısa bir ağır çekim); S6 (21-26s) iç mekân açısına kesme (sessiz) -> cam kırılır -> içeri dalar, iç mekân önce sessizdir, yalnızca klimanın uğultusu duyulur, bir sonraki saniye sarhoş adam burgeriyle birlikte camı kırıp geçerken cam patlarcasına içeri doğru parçalanır (kısa bir bullet time), cam kırıkları ışınsal olarak dışarı uçar, neon ışık içeri süzülür ve adam odaya, zemine / kanepeye ağır biçimde çakılır, kırık camlar şıngırdar; S7 (26-30s) final, irkilmiş bir saniye -> uyuyakalır, adam zemine yıldız gibi yayılmış, kırık camlarla kaplı, hâlâ burgeri kavramış, yavaşça gözlerini açar, sersem, tam bir saniye boş ve irkilmiş, “neredeyim?” diye düşünür gibi etrafına bakınır, sonra sarhoşluk baskın gelir ve hiç aldırmadan dudaklarını şapırdatır, burgeri kollarının arasına sıkıştırır, yan döner, tam oraya uzanır ve derin bir uykuya dalar, hatta hafifçe horlar, kamera geri çekilip donar, siyaha sert kesme. Yalnızca sette kaydedilen gerçek ses, müzik yok, altyazı yok; özü, “devasa kükreme” ile “sessizlik” arasında tekrar tekrar sert kesmelerdir.
 ```
 
-## Local Usage
+<details><summary>Repository development</summary>
 
 ```bash
-npm install
-npm run build-all
+npm ci
+npm run generate
+npx tsc --noEmit
 ```
 
-## More Atlas Cloud Tools
+</details>
 
-- 📘 [Workflow: Seedream 5 → Seedance 2.5 (image-first / 先图后视频)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/docs/workflow-seedream5-seedance2.5.md) — lock characters/scenes on cheap images first, then generate 30s video in one shot.
-- [atlascloud-cli](https://github.com/AtlasCloudAI/cli) — run prompts from your terminal.
-- 🔌 [MCP Server](https://github.com/AtlasCloudAI/mcp-server) — connect Atlas Cloud to any MCP client.
-- [atlas-cloud-skills](https://github.com/AtlasCloudAI/atlas-cloud-skills) — skills for Claude Code, Codex, and Gemini CLI.
-- [atlascloud_comfyui](https://github.com/AtlasCloudAI/atlascloud_comfyui) — ComfyUI nodes for Atlas Cloud.
-- [n8n-nodes-atlascloud](https://github.com/AtlasCloudAI/n8n-nodes-atlascloud) — n8n automation nodes.
-- [Discord](https://discord.gg/MWmMr4q9es) — join the community.
-- [Website](https://www.atlascloud.ai?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills) — explore all models and docs.
+<a id="resources"></a>
+
+## 🔗 Resources
+
+
+- [Seedance 2.5 prompt gallery](https://www.atlascloud.ai/prompts-hub/seedance-2-5-prompt?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills)
+- [Atlas Cloud Seedance 2.5 page](https://www.atlascloud.ai/tr/seedance-2-5?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills)
+- [Atlas Cloud Skill](https://github.com/AtlasCloudAI/atlas-cloud-skills)
+- [Atlas MCP Server](https://github.com/AtlasCloudAI/mcp-server)
+- [Atlas CLI](https://github.com/AtlasCloudAI/cli)
+- [Atlas Cloud model catalog](https://www.atlascloud.ai/models?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills)
+- [Discord](https://discord.gg/MWmMr4q9es)
+
+<a id="license"></a>
 
 ## 📄 License
 
+
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-07-23T06:22:46.649Z
+> All prompts are shared for learning, organization, and discovery. Open an issue if anything should be removed.
+
+> This README is auto-generated. 2026-07-23.
