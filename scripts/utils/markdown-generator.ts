@@ -60,44 +60,48 @@ function renderRunAnyPrompt(): string {
 }
 
 function renderSkill(locale: string): string {
-  const base = `${REPO_URL}/blob/main/skills/consistent-character-video`;
+  const base = `${REPO_URL}/blob/main/skills/seedance-2-5-skill`;
   if (locale === "zh" || locale === "zh-TW") {
     const tw = locale === "zh-TW";
     return [
-      "## 🧠 Claude Skill: Consistent-Character Video",
+      "## 🧠 Seedance 2.5 Agent Skill",
       "",
       tw
-        ? `> 本倉庫自帶一個可安裝的 **Claude Skill**（[\`skills/consistent-character-video/\`](${base})）：用「先出圖、後生成影片」的流水線，讓角色 / 產品在多鏡頭、30 秒長片中全程一致不漂移 —— 先用圖像模型（Seedream 5 等）鎖定主體與分鏡，再交給 Seedance 2.5 逐鏡動畫化。`
-        : `> 本仓库自带一个可安装的 **Claude Skill**（[\`skills/consistent-character-video/\`](${base})）：用「先出图、后生成视频」的流水线，让角色 / 产品在多镜头、30 秒长片中全程一致不漂移 —— 先用图像模型（Seedream 5 等）锁定主体与分镜，再交给 Seedance 2.5 逐镜动画化。`,
+        ? `> 本倉庫自帶一個可安裝的 **Agent Skill**（[\`skills/seedance-2-5-skill/\`](${base})）：按需求先選視頻路線 —— 單鏡 T2V、分鏡圖轉片（R2V storyboard）、人物 / 產品 / 場景素材參考（R2V assets）、首尾幀 I2V、視頻延展 —— 再按 5 步流程（選路線 → 備素材 → 連貫性設計 → 寫提示詞 → 生成復查）產出可控的 Seedance 視頻。中文請求走專屬中文工作流。`
+        : `> 本仓库自带一个可安装的 **Agent Skill**（[\`skills/seedance-2-5-skill/\`](${base})）：按需求先选视频路线 —— 单镜 T2V、分镜图转片（R2V storyboard）、人物 / 产品 / 场景素材参考（R2V assets）、首尾帧 I2V、视频延展 —— 再按 5 步流程（选路线 → 备素材 → 连贯性设计 → 写提示词 → 生成复查）产出可控的 Seedance 视频。中文请求走专属中文工作流。`,
       "",
-      tw ? "**安裝**：把 `skills/consistent-character-video/` 整個資料夾複製到 `~/.claude/skills/`（或專案的 `.claude/skills/`），然後直接讓 Claude「做一條角色一致的影片」即可觸發。"
-         : "**安装**：把 `skills/consistent-character-video/` 整个文件夹复制到 `~/.claude/skills/`（或项目的 `.claude/skills/`），然后直接让 Claude「做一条角色一致的视频」即可触发。",
+      tw ? "**安裝**：把 `skills/seedance-2-5-skill/` 整個資料夾複製到 `~/.claude/skills/`（或專案的 `.claude/skills/`；Codex / Gemini CLI 等 Agent 同理），然後直接描述需求即可觸發，例如「用參考圖做一條 30 秒產品片」。"
+         : "**安装**：把 `skills/seedance-2-5-skill/` 整个文件夹复制到 `~/.claude/skills/`（或项目的 `.claude/skills/`；Codex / Gemini CLI 等 Agent 同理），然后直接描述需求即可触发，例如「用参考图做一条 30 秒产品片」。",
       "",
-      `- [\`SKILL.md\`](${base}/SKILL.md) — 完整流水线：角色圣经 → 角色定妆表 → 分镜九宫格 → 切图 → 逐镜 i2v → 拼接`,
-      `- [\`references/cinematography.md\`](${base}/references/cinematography.md) — 电影语言库：运镜 / 光影 / 构图（中英双语）`,
-      `- [\`references/prompt-blocks.md\`](${base}/references/prompt-blocks.md) · [\`prompt-templates.md\`](${base}/references/prompt-templates.md) — 提示词框架与各阶段模板（中英双语）`,
-      `- [\`references/troubleshooting.md\`](${base}/references/troubleshooting.md) — 漂移症状 → 原因 → 修复`,
-      `- [\`scripts/generate.mjs\`](${base}/scripts/generate.mjs) — 可执行流水线（配置驱动：grid / chain / reference / t2v 多模式）`,
+      `- [\`SKILL.md\`](${base}/SKILL.md) — 主流程：路线选择表 + 素材准备 + 连贯性 / 转场设计 + 提示词写法 + 生成复查`,
+      `- [\`references/workflow.zh-CN.md\`](${base}/references/workflow.zh-CN.md) — 中文主工作流（全部参考文件均中英双份）`,
+      `- [\`references/cinematography.md\`](${base}/references/cinematography.md) — 电影语言库：运镜 / 光影 / 构图`,
+      `- [\`references/prompt-blocks.md\`](${base}/references/prompt-blocks.md) · [\`prompt-templates.md\`](${base}/references/prompt-templates.md) — 提示词分块框架与各阶段模板`,
+      `- [\`references/execution-adapters.md\`](${base}/references/execution-adapters.md) — Atlas 执行通道（CLI / REST）与模型档位`,
+      `- [\`references/troubleshooting.md\`](${base}/references/troubleshooting.md) — 漂移 / 失控症状 → 原因 → 修复`,
+      `- [\`scripts/generate.mjs\`](${base}/scripts/generate.mjs) — 可执行流水线（配置驱动：grid / chain / reference / storyboard / t2v 多模式，含 Atlas CLI 与 REST 双 provider）`,
       "",
-      tw ? `> 配套教程：[Workflow：Seedream 5 → Seedance 2.5（先圖後影片）](${REPO_URL}/blob/main/docs/workflow-seedream5-seedance2.5.md)。下方 100+ 條分鏡提示詞可直接餵給這條流水線。`
-         : `> 配套教程：[Workflow：Seedream 5 → Seedance 2.5（先图后视频）](${REPO_URL}/blob/main/docs/workflow-seedream5-seedance2.5.md)。下方 100+ 条分镜提示词可直接喂给这条流水线。`,
+      tw ? `> 配套教程：[Workflow：Seedream 5 → Seedance 2.5（先圖後影片）](${REPO_URL}/blob/main/docs/workflow-seedream5-seedance2.5.md)。下方 100+ 條分鏡提示詞可直接餵給這個 skill。`
+         : `> 配套教程：[Workflow：Seedream 5 → Seedance 2.5（先图后视频）](${REPO_URL}/blob/main/docs/workflow-seedream5-seedance2.5.md)。下方 100+ 条分镜提示词可直接喂给这个 skill。`,
       "",
     ].join("\n");
   }
   return [
-    "## 🧠 Claude Skill: Consistent-Character Video",
+    "## 🧠 Seedance 2.5 Agent Skill",
     "",
-    `> This repo ships an installable **Claude Skill** ([\`skills/consistent-character-video/\`](${base})): an image-first pipeline that keeps a character / product identical across every shot of a multi-shot 30s video — lock the subject and storyboard as stills first (Seedream 5 or any image model), then let Seedance 2.5 animate each pre-approved frame so there is nothing left to drift.`,
+    `> This repo ships an installable **Agent Skill** ([\`skills/seedance-2-5-skill/\`](${base})): pick the right video route first — single-shot T2V, storyboard-image-to-video (R2V storyboard), people / product / scene asset references (R2V assets), first-and-last-frame I2V, or extensions — then follow a 5-step flow (choose route → prepare only the assets you need → design continuity & cuts → write the prompt → generate & review) to get controllable Seedance video. Chinese requests get a dedicated Chinese workflow.`,
     "",
-    "**Install**: copy the `skills/consistent-character-video/` folder into `~/.claude/skills/` (or your project's `.claude/skills/`), then just ask Claude for \"a consistent-character video\" to trigger it.",
+    "**Install**: copy the `skills/seedance-2-5-skill/` folder into `~/.claude/skills/` (or your project's `.claude/skills/`; same idea for Codex / Gemini CLI agents), then just describe what you want — e.g. \"a 30s product video from these reference shots\".",
     "",
-    `- [\`SKILL.md\`](${base}/SKILL.md) — the full pipeline: character bible → character sheet → storyboard grid → split → per-shot i2v → stitch`,
-    `- [\`references/cinematography.md\`](${base}/references/cinematography.md) — deep camera / lighting / composition vocabulary (EN + zh-CN)`,
-    `- [\`references/prompt-blocks.md\`](${base}/references/prompt-blocks.md) · [\`prompt-templates.md\`](${base}/references/prompt-templates.md) — the block framework & copy-paste templates for every stage (EN + zh-CN)`,
-    `- [\`references/troubleshooting.md\`](${base}/references/troubleshooting.md) — drift symptoms → causes → fixes`,
-    `- [\`scripts/generate.mjs\`](${base}/scripts/generate.mjs) — the executable pipeline (config-driven: grid / chain / reference / t2v modes)`,
+    `- [\`SKILL.md\`](${base}/SKILL.md) — the main flow: route table + asset prep + continuity / cut design + prompt writing + generate & review`,
+    `- [\`references/workflow.zh-CN.md\`](${base}/references/workflow.zh-CN.md) — Chinese main workflow (every reference file ships EN + zh-CN)`,
+    `- [\`references/cinematography.md\`](${base}/references/cinematography.md) — deep camera / lighting / composition vocabulary`,
+    `- [\`references/prompt-blocks.md\`](${base}/references/prompt-blocks.md) · [\`prompt-templates.md\`](${base}/references/prompt-templates.md) — the block framework & copy-paste templates for every stage`,
+    `- [\`references/execution-adapters.md\`](${base}/references/execution-adapters.md) — Atlas execution channels (CLI / REST) & model profiles`,
+    `- [\`references/troubleshooting.md\`](${base}/references/troubleshooting.md) — drift / control symptoms → causes → fixes`,
+    `- [\`scripts/generate.mjs\`](${base}/scripts/generate.mjs) — the executable pipeline (config-driven: grid / chain / reference / storyboard / t2v modes, with Atlas CLI & REST providers)`,
     "",
-    `> Companion guide: [Workflow: Seedream 5 → Seedance 2.5 (image-first)](${REPO_URL}/blob/main/docs/workflow-seedream5-seedance2.5.md). The 100+ storyboard prompts below are ready to feed straight into this pipeline.`,
+    `> Companion guide: [Workflow: Seedream 5 → Seedance 2.5 (image-first)](${REPO_URL}/blob/main/docs/workflow-seedream5-seedance2.5.md). The 100+ storyboard prompts below are ready to feed straight into this skill.`,
     "",
   ].join("\n");
 }
@@ -126,7 +130,7 @@ function renderContents(data: SortedPromptData, locale: string): string {
       .toLowerCase()
       .replace(/[^a-z0-9\s-]/g, "")
       .replace(/\s+/g, "-");
-  lines.push("- [🧠 Claude Skill: Consistent-Character Video](#-claude-skill-consistent-character-video)");
+  lines.push("- [🧠 Seedance 2.5 Agent Skill](#-seedance-25-agent-skill)");
   lines.push(`- [🌐 ${t("viewInGallery", locale)}](#${anchor("🌐 " + t("viewInGallery", locale))})`);
   lines.push("- [🧩 Supported Models](#-supported-models)");
   lines.push("- [▶ Run any prompt via Atlas Cloud](#-run-any-prompt-via-atlas-cloud)");

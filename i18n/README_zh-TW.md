@@ -16,7 +16,7 @@
 
 ## 📖 Contents
 
-- [🧠 Claude Skill: Consistent-Character Video](#-claude-skill-consistent-character-video)
+- [🧠 Seedance 2.5 Agent Skill](#-seedance-25-agent-skill)
 - [🌐 在 AtlasCloud 查看](#-atlascloud-)
 - [🧩 Supported Models](#-supported-models)
 - [▶ Run any prompt via Atlas Cloud](#-run-any-prompt-via-atlas-cloud)
@@ -27,19 +27,21 @@
 - [More Atlas Cloud Tools](#more-atlas-cloud-tools)
 - [📄 许可证](#-)
 
-## 🧠 Claude Skill: Consistent-Character Video
+## 🧠 Seedance 2.5 Agent Skill
 
-> 本倉庫自帶一個可安裝的 **Claude Skill**（[`skills/consistent-character-video/`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/consistent-character-video)）：用「先出圖、後生成影片」的流水線，讓角色 / 產品在多鏡頭、30 秒長片中全程一致不漂移 —— 先用圖像模型（Seedream 5 等）鎖定主體與分鏡，再交給 Seedance 2.5 逐鏡動畫化。
+> 本倉庫自帶一個可安裝的 **Agent Skill**（[`skills/seedance-2-5-skill/`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill)）：按需求先選視頻路線 —— 單鏡 T2V、分鏡圖轉片（R2V storyboard）、人物 / 產品 / 場景素材參考（R2V assets）、首尾幀 I2V、視頻延展 —— 再按 5 步流程（選路線 → 備素材 → 連貫性設計 → 寫提示詞 → 生成復查）產出可控的 Seedance 視頻。中文請求走專屬中文工作流。
 
-**安裝**：把 `skills/consistent-character-video/` 整個資料夾複製到 `~/.claude/skills/`（或專案的 `.claude/skills/`），然後直接讓 Claude「做一條角色一致的影片」即可觸發。
+**安裝**：把 `skills/seedance-2-5-skill/` 整個資料夾複製到 `~/.claude/skills/`（或專案的 `.claude/skills/`；Codex / Gemini CLI 等 Agent 同理），然後直接描述需求即可觸發，例如「用參考圖做一條 30 秒產品片」。
 
-- [`SKILL.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/consistent-character-video/SKILL.md) — 完整流水线：角色圣经 → 角色定妆表 → 分镜九宫格 → 切图 → 逐镜 i2v → 拼接
-- [`references/cinematography.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/consistent-character-video/references/cinematography.md) — 电影语言库：运镜 / 光影 / 构图（中英双语）
-- [`references/prompt-blocks.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/consistent-character-video/references/prompt-blocks.md) · [`prompt-templates.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/consistent-character-video/references/prompt-templates.md) — 提示词框架与各阶段模板（中英双语）
-- [`references/troubleshooting.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/consistent-character-video/references/troubleshooting.md) — 漂移症状 → 原因 → 修复
-- [`scripts/generate.mjs`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/consistent-character-video/scripts/generate.mjs) — 可执行流水线（配置驱动：grid / chain / reference / t2v 多模式）
+- [`SKILL.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/SKILL.md) — 主流程：路线选择表 + 素材准备 + 连贯性 / 转场设计 + 提示词写法 + 生成复查
+- [`references/workflow.zh-CN.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/workflow.zh-CN.md) — 中文主工作流（全部参考文件均中英双份）
+- [`references/cinematography.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/cinematography.md) — 电影语言库：运镜 / 光影 / 构图
+- [`references/prompt-blocks.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/prompt-blocks.md) · [`prompt-templates.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/prompt-templates.md) — 提示词分块框架与各阶段模板
+- [`references/execution-adapters.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/execution-adapters.md) — Atlas 执行通道（CLI / REST）与模型档位
+- [`references/troubleshooting.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/troubleshooting.md) — 漂移 / 失控症状 → 原因 → 修复
+- [`scripts/generate.mjs`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/scripts/generate.mjs) — 可执行流水线（配置驱动：grid / chain / reference / storyboard / t2v 多模式，含 Atlas CLI 与 REST 双 provider）
 
-> 配套教程：[Workflow：Seedream 5 → Seedance 2.5（先圖後影片）](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/docs/workflow-seedream5-seedance2.5.md)。下方 100+ 條分鏡提示詞可直接餵給這條流水線。
+> 配套教程：[Workflow：Seedream 5 → Seedance 2.5（先圖後影片）](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/docs/workflow-seedream5-seedance2.5.md)。下方 100+ 條分鏡提示詞可直接餵給這個 skill。
 
 ## 🌐 在 AtlasCloud 查看
 
@@ -86,7 +88,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升級，帶來三大提升：① 30 秒�
 | 提示詞總數 | **111** |
 | 分類數 | **27** |
 | 預覽影片數 | **11** |
-| 最後更新 | **2026-07-23T03:14:00.832Z** |
+| 最後更新 | **2026-07-23T06:22:46.624Z** |
 
 ## 🏷️ 按分類瀏覽
 
@@ -3264,4 +3266,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> 此 README 為自動生成。 2026-07-23T03:14:00.832Z
+> 此 README 為自動生成。 2026-07-23T06:22:46.624Z

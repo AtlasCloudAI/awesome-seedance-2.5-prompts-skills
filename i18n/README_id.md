@@ -16,7 +16,7 @@
 
 ## 📖 Contents
 
-- [🧠 Claude Skill: Consistent-Character Video](#-claude-skill-consistent-character-video)
+- [🧠 Seedance 2.5 Agent Skill](#-seedance-25-agent-skill)
 - [🌐 View in AtlasCloud](#-view-in-atlascloud)
 - [🧩 Supported Models](#-supported-models)
 - [▶ Run any prompt via Atlas Cloud](#-run-any-prompt-via-atlas-cloud)
@@ -27,19 +27,21 @@
 - [More Atlas Cloud Tools](#more-atlas-cloud-tools)
 - [📄 License](#-license)
 
-## 🧠 Claude Skill: Consistent-Character Video
+## 🧠 Seedance 2.5 Agent Skill
 
-> This repo ships an installable **Claude Skill** ([`skills/consistent-character-video/`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/consistent-character-video)): an image-first pipeline that keeps a character / product identical across every shot of a multi-shot 30s video — lock the subject and storyboard as stills first (Seedream 5 or any image model), then let Seedance 2.5 animate each pre-approved frame so there is nothing left to drift.
+> This repo ships an installable **Agent Skill** ([`skills/seedance-2-5-skill/`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill)): pick the right video route first — single-shot T2V, storyboard-image-to-video (R2V storyboard), people / product / scene asset references (R2V assets), first-and-last-frame I2V, or extensions — then follow a 5-step flow (choose route → prepare only the assets you need → design continuity & cuts → write the prompt → generate & review) to get controllable Seedance video. Chinese requests get a dedicated Chinese workflow.
 
-**Install**: copy the `skills/consistent-character-video/` folder into `~/.claude/skills/` (or your project's `.claude/skills/`), then just ask Claude for "a consistent-character video" to trigger it.
+**Install**: copy the `skills/seedance-2-5-skill/` folder into `~/.claude/skills/` (or your project's `.claude/skills/`; same idea for Codex / Gemini CLI agents), then just describe what you want — e.g. "a 30s product video from these reference shots".
 
-- [`SKILL.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/consistent-character-video/SKILL.md) — the full pipeline: character bible → character sheet → storyboard grid → split → per-shot i2v → stitch
-- [`references/cinematography.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/consistent-character-video/references/cinematography.md) — deep camera / lighting / composition vocabulary (EN + zh-CN)
-- [`references/prompt-blocks.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/consistent-character-video/references/prompt-blocks.md) · [`prompt-templates.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/consistent-character-video/references/prompt-templates.md) — the block framework & copy-paste templates for every stage (EN + zh-CN)
-- [`references/troubleshooting.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/consistent-character-video/references/troubleshooting.md) — drift symptoms → causes → fixes
-- [`scripts/generate.mjs`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/consistent-character-video/scripts/generate.mjs) — the executable pipeline (config-driven: grid / chain / reference / t2v modes)
+- [`SKILL.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/SKILL.md) — the main flow: route table + asset prep + continuity / cut design + prompt writing + generate & review
+- [`references/workflow.zh-CN.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/workflow.zh-CN.md) — Chinese main workflow (every reference file ships EN + zh-CN)
+- [`references/cinematography.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/cinematography.md) — deep camera / lighting / composition vocabulary
+- [`references/prompt-blocks.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/prompt-blocks.md) · [`prompt-templates.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/prompt-templates.md) — the block framework & copy-paste templates for every stage
+- [`references/execution-adapters.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/execution-adapters.md) — Atlas execution channels (CLI / REST) & model profiles
+- [`references/troubleshooting.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/troubleshooting.md) — drift / control symptoms → causes → fixes
+- [`scripts/generate.mjs`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/scripts/generate.mjs) — the executable pipeline (config-driven: grid / chain / reference / storyboard / t2v modes, with Atlas CLI & REST providers)
 
-> Companion guide: [Workflow: Seedream 5 → Seedance 2.5 (image-first)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/docs/workflow-seedream5-seedance2.5.md). The 100+ storyboard prompts below are ready to feed straight into this pipeline.
+> Companion guide: [Workflow: Seedream 5 → Seedance 2.5 (image-first)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/docs/workflow-seedream5-seedance2.5.md). The 100+ storyboard prompts below are ready to feed straight into this skill.
 
 ## 🌐 View in AtlasCloud
 
@@ -86,7 +88,7 @@ Seedance 2.5 is a major upgrade to Seedance 2.0 with three big gains: 30-second 
 | Total Prompts | **111** |
 | Categories | **27** |
 | Preview Videos | **11** |
-| Last Updated | **2026-07-23T03:14:00.844Z** |
+| Last Updated | **2026-07-23T06:22:46.651Z** |
 
 ## 🏷️ Browse by Category
 
@@ -3258,4 +3260,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-07-23T03:14:00.844Z
+> This README is auto-generated. 2026-07-23T06:22:46.651Z
