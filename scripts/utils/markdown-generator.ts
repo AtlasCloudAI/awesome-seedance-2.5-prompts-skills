@@ -57,6 +57,7 @@ interface HomeCopy {
   modelDefaults: string;
   modelDefaultText: string;
   promptGuide: string;
+  launchStatus: string;
   capabilityIntro: string;
   availability: string;
   promptStructure: string;
@@ -122,6 +123,8 @@ const homeCopyEn: HomeCopy = {
   modelDefaultText:
     "**Storyboard stills:** Seedream 5.0 Pro. **Executable video default:** Seedance 2.0. **Seedance 2.5:** only when the selected provider exposes the model and its actual limits.",
   promptGuide: "Seedance 2.5 prompt guide",
+  launchStatus:
+    "**Launch status:** Seedance 2.5 is expected to launch in August 2026. Atlas Cloud is one of the first official API launch partners for Seedance 2.5.",
   capabilityIntro:
     "Published Seedance 2.5 launch material describes up to 30-second generation, native 4K output, up to 50 multimodal references, and local region editing. Treat these as announced capabilities, not universal API parameters.",
   availability:
@@ -198,6 +201,8 @@ const homeCopyZh: HomeCopy = {
   modelDefaultText:
     "**Storyboard 静帧：** Seedream 5.0 Pro。**当前默认视频模型：** Seedance 2.0。**Seedance 2.5：** 只有所选服务商实际提供模型和明确参数限制时才使用。",
   promptGuide: "Seedance 2.5 提示词指南",
+  launchStatus:
+    "**上线信息：** Seedance 2.5 预计于 2026 年 8 月上线。Atlas Cloud 是 Seedance 2.5 首批 API 上线的官方合作伙伴之一。",
   capabilityIntro:
     "公开的 Seedance 2.5 发布资料描述了最长 30 秒、原生 4K、最多 50 个多模态参考素材和局部区域编辑等能力。这些是已发布的能力信息，不应直接视为所有 API 都支持的固定参数。",
   availability:
@@ -274,6 +279,8 @@ const homeCopyZhTw: HomeCopy = {
   modelDefaultText:
     "**Storyboard 靜幀：** Seedream 5.0 Pro。**目前預設影片模型：** Seedance 2.0。**Seedance 2.5：** 只有所選服務商實際提供模型和明確參數限制時才使用。",
   promptGuide: "Seedance 2.5 提示詞指南",
+  launchStatus:
+    "**上線資訊：** Seedance 2.5 預計於 2026 年 8 月上線。Atlas Cloud 是 Seedance 2.5 首批 API 上線的官方合作夥伴之一。",
   capabilityIntro:
     "公開的 Seedance 2.5 發布資料描述了最長 30 秒、原生 4K、最多 50 個多模態參考素材和局部區域編輯等能力。這些是已發布的能力資訊，不應直接視為所有 API 都支援的固定參數。",
   availability:
@@ -512,6 +519,8 @@ function renderModelIntro(locale: string): string {
   const copy = getHomeCopy(locale);
   return [
     renderHeading("prompt-guide", `🧩 ${copy.promptGuide}`),
+    copy.launchStatus,
+    "",
     copy.capabilityIntro,
     "",
     copy.availability,

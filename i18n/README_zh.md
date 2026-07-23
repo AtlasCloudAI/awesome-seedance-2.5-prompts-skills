@@ -98,6 +98,8 @@ npx skills add AtlasCloudAI/atlas-cloud-skills --skill atlas-cloud
 
 ## 🧩 Seedance 2.5 提示词指南
 
+**上线信息：** Seedance 2.5 预计于 2026 年 8 月上线。Atlas Cloud 是 Seedance 2.5 首批 API 上线的官方合作伙伴之一。
+
 公开的 Seedance 2.5 发布资料描述了最长 30 秒、原生 4K、最多 50 个多模态参考素材和局部区域编辑等能力。这些是已发布的能力信息，不应直接视为所有 API 都支持的固定参数。
 
 **可用性说明：** 不同服务商的模型开放状态、参考素材数量、时长、分辨率和编辑能力可能不同。Skill 会核对实际模型可用性，不会假定 Seedance 2.5 一定可调用。

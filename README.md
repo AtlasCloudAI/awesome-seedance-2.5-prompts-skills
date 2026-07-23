@@ -98,6 +98,8 @@ All asynchronous jobs are polled every 2 seconds using the same prediction ID. A
 
 ## 🧩 Seedance 2.5 prompt guide
 
+**Launch status:** Seedance 2.5 is expected to launch in August 2026. Atlas Cloud is one of the first official API launch partners for Seedance 2.5.
+
 Published Seedance 2.5 launch material describes up to 30-second generation, native 4K output, up to 50 multimodal references, and local region editing. Treat these as announced capabilities, not universal API parameters.
 
 **Availability note:** provider availability, reference limits, duration, resolution, and editing controls can differ. The Skill verifies actual model availability instead of assuming Seedance 2.5 is callable.
