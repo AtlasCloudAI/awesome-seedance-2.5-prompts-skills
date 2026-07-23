@@ -153,7 +153,6 @@ npx skills add AtlasCloudAI/atlas-cloud-skills --skill atlas-cloud
 - **影片:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group1-1.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group1-1.mp4" controls muted playsinline width="720"></video>
-- **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### 描述
 
@@ -174,7 +173,6 @@ npx skills add AtlasCloudAI/atlas-cloud-skills --skill atlas-cloud
 - **影片:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group2-2.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group2-2.mp4" controls muted playsinline width="720"></video>
-- **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### 描述
 
@@ -195,7 +193,6 @@ npx skills add AtlasCloudAI/atlas-cloud-skills --skill atlas-cloud
 - **影片:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-output.mp4" controls muted playsinline width="720"></video>
-- **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -226,7 +223,6 @@ npx skills add AtlasCloudAI/atlas-cloud-skills --skill atlas-cloud
 - **影片:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-output.mp4" controls muted playsinline width="720"></video>
-- **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -260,7 +256,6 @@ npx skills add AtlasCloudAI/atlas-cloud-skills --skill atlas-cloud
 - **影片:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-output.mov)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-output.mov" controls muted playsinline width="720"></video>
-- **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -285,7 +280,6 @@ npx skills add AtlasCloudAI/atlas-cloud-skills --skill atlas-cloud
 - **影片:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-output.mp4" controls muted playsinline width="720"></video>
-- **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -312,7 +306,6 @@ npx skills add AtlasCloudAI/atlas-cloud-skills --skill atlas-cloud
 - **影片:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-output.mov)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-output.mov" controls muted playsinline width="720"></video>
-- **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -344,7 +337,6 @@ npx skills add AtlasCloudAI/atlas-cloud-skills --skill atlas-cloud
 - **影片:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-output.mp4" controls muted playsinline width="720"></video>
-- **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -419,7 +411,6 @@ npx skills add AtlasCloudAI/atlas-cloud-skills --skill atlas-cloud
 - **影片:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group1-1.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group1-1.mp4" controls muted playsinline width="720"></video>
-- **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### 描述
 
@@ -444,7 +435,6 @@ npx skills add AtlasCloudAI/atlas-cloud-skills --skill atlas-cloud
 - **影片:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group2-2.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group2-2.mp4" controls muted playsinline width="720"></video>
-- **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### 描述
 
@@ -469,7 +459,6 @@ npx skills add AtlasCloudAI/atlas-cloud-skills --skill atlas-cloud
 - **影片:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-output.mp4" controls muted playsinline width="720"></video>
-- **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -500,7 +489,6 @@ npx skills add AtlasCloudAI/atlas-cloud-skills --skill atlas-cloud
 - **影片:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-output.mp4" controls muted playsinline width="720"></video>
-- **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -534,7 +522,6 @@ npx skills add AtlasCloudAI/atlas-cloud-skills --skill atlas-cloud
 - **影片:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-output.mp4" controls muted playsinline width="720"></video>
-- **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -565,7 +552,6 @@ npx skills add AtlasCloudAI/atlas-cloud-skills --skill atlas-cloud
 - **影片:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-output.mov)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-output.mov" controls muted playsinline width="720"></video>
-- **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -590,7 +576,6 @@ npx skills add AtlasCloudAI/atlas-cloud-skills --skill atlas-cloud
 - **影片:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group2-output.mov)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group2-output.mov" controls muted playsinline width="720"></video>
-- **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -619,7 +604,6 @@ npx skills add AtlasCloudAI/atlas-cloud-skills --skill atlas-cloud
 - **影片:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-output.mov)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-output.mov" controls muted playsinline width="720"></video>
-- **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -655,7 +639,6 @@ npx skills add AtlasCloudAI/atlas-cloud-skills --skill atlas-cloud
 - **影片:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-output.mp4" controls muted playsinline width="720"></video>
-- **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -692,7 +675,6 @@ npx skills add AtlasCloudAI/atlas-cloud-skills --skill atlas-cloud
 - **影片:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab3-group1-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab3-group1-output.mp4" controls muted playsinline width="720"></video>
-- **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -723,7 +705,6 @@ npx skills add AtlasCloudAI/atlas-cloud-skills --skill atlas-cloud
 - **影片:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab3-group2-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab3-group2-output.mp4" controls muted playsinline width="720"></video>
-- **原始連結:** [查看](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -751,7 +732,6 @@ npx skills add AtlasCloudAI/atlas-cloud-skills --skill atlas-cloud
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -776,7 +756,6 @@ Shot 5：中近景，模特@Image 1 定格微笑，鏡頭緩慢拉遠收尾，�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -801,7 +780,6 @@ Shot 5：特寫，鏡頭緩慢拉遠定格鞋身全貌，（音樂收束）。
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -826,7 +804,6 @@ Shot 5：中景，扣合鎖扣包體歸位，鏡頭緩慢拉遠收尾，（音�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -851,7 +828,6 @@ Shot 5：特寫，鏡頭緩慢拉遠聚焦火彩定格，（弦樂收束）。
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -876,7 +852,6 @@ Shot 5：中近景，成品果昔與機身同框，鏡頭緩慢拉遠收尾，�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -901,7 +876,6 @@ Shot 5：中近景，奶瓶與柔軟玩偶同框定格，鏡頭緩慢拉遠收�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -926,7 +900,6 @@ Shot 5：中景，禮盒合攏繫上絲帶，鏡頭緩慢拉遠收尾，（音�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -955,7 +928,6 @@ Shot 5：中近景，耳機與價格標籤同框，鏡頭快速拉遠定格，�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -980,7 +952,6 @@ Shot 5：中景，眾人舉筷同框氛圍拉滿，鏡頭緩慢拉遠收尾，�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1005,7 +976,6 @@ Shot 5：中景，成品拿鐵端起置於窗邊，鏡頭緩慢拉遠收尾，�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1030,7 +1000,6 @@ Shot 5：中景，流心蛋糕與冰淇淋同框，鏡頭緩慢拉遠收尾，�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1055,7 +1024,6 @@ Shot 5：中近景，烤好的肉串碼盤端起，鏡頭緩慢拉遠收尾，�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1080,7 +1048,6 @@ Shot 5：中近景，烤好的肉串碼盤端起，鏡頭緩慢拉遠收尾，�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1105,7 +1072,6 @@ Shot 5：中近景，烤好的肉串碼盤端起，鏡頭緩慢拉遠收尾，�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1130,7 +1096,6 @@ Shot 5：中近景，烤好的肉串碼盤端起，鏡頭緩慢拉遠收尾，�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1159,7 +1124,6 @@ Shot 5：中近景，烤好的肉串碼盤端起，鏡頭緩慢拉遠收尾，�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1184,7 +1148,6 @@ Shot 5：中近景，烤好的肉串碼盤端起，鏡頭緩慢拉遠收尾，�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1209,7 +1172,6 @@ Shot 5：中近景，烤好的肉串碼盤端起，鏡頭緩慢拉遠收尾，�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1234,7 +1196,6 @@ Shot 5：中景，香水瓶@Image 1 回落石台定格，鏡頭緩慢拉遠，�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1259,7 +1220,6 @@ Shot 5：中景，精華瓶@Image 1 立於水光背景定格，鏡頭緩慢升�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1284,7 +1244,6 @@ Shot 5：全景，模特@Image 1 站定街心張手定格，鏡頭緩慢拉遠�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1313,7 +1272,6 @@ Shot 5：中近景，模特@Image 1 轉身回眸定格，髮型定型飽滿，�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1338,7 +1296,6 @@ Shot 5：中景，手機@Image 1 懸浮旋轉定格，鏡頭緩慢拉遠，（�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1363,7 +1320,6 @@ Shot 5：中景，耳機與充電倉@Image 1 並置定格，鏡頭緩慢拉遠�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1388,7 +1344,6 @@ Shot 5：中景，筆記本@Image 1 半開姿態懸浮定格，鏡頭緩慢拉�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1413,7 +1368,6 @@ Shot 5：中景，手錶@Image 1 佩戴於腕定格抬起，鏡頭緩慢拉遠�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1438,7 +1392,6 @@ Shot 5：中景，無人機@Image 1 平穩返航懸停定格，鏡頭緩慢拉�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1467,7 +1420,6 @@ Shot 5：特寫，晶片@Image 1 在冷光中定格，鏡頭緩慢環繞收尾�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1492,7 +1444,6 @@ Shot 5：中景，車@Image 1 駛出隧道減速定格，鏡頭緩慢拉遠升�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1517,7 +1468,6 @@ Shot 5：中景，車@Image 1 整車定格於光束中，鏡頭緩慢拉遠，�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1542,7 +1492,6 @@ Shot 5：中景，越野車@Image 1 登頂山脊停穩定格，鏡頭緩慢升�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1571,7 +1520,6 @@ Shot 5：中近景，鏡頭緩慢升起收於座艙定格，暖光瀰漫，（�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1596,7 +1544,6 @@ Shot 5：緩慢拉遠，退回至玄關回望整個客廳縱深，暖白定格�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1621,7 +1568,6 @@ Shot 5：仰拍，機位由灶台仰望頂部油煙機與嵌入式燈帶，金�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1646,7 +1592,6 @@ Shot 5：升降，機位拔高回到全局俯瞰並疊加面積數據，天光�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1675,7 +1620,6 @@ Shot 5：緩慢拉遠，退至房門口回望暖燈下的臥室全景，柔調�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1700,7 +1644,6 @@ Shot 5：緩慢拉遠，主播@Image 1 點頭收尾並招手，柔光定格，�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1725,7 +1668,6 @@ Shot 5：緩慢拉遠，主播@Image 1 雙手交疊致意收尾，冷藍定格�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1750,7 +1692,6 @@ Shot 5：緩慢推近，主播@Image 2 豎大拇指催單收尾，暖調定格�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1775,7 +1716,6 @@ Shot 5：緩慢拉遠，主播@Image 3 摘下耳機低頭微笑收尾，微光�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1800,7 +1740,6 @@ Shot 5：緩慢拉遠，講師@Image 1 雙手一攤微笑收束並點頭，白�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1829,7 +1768,6 @@ Shot 5：緩慢拉遠，數字人@Image 1 微笑點頭收尾，藍調定格，�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1853,7 +1791,6 @@ Shot 4：特寫，女主@Image 1 眼眶泛紅嘴角上揚，鏡頭緩慢拉遠�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1878,7 +1815,6 @@ Shot 5：緩慢拉遠，主角@Image 2 睜眼扯出釋然淺笑轉身離窗，�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1903,7 +1839,6 @@ Shot 5：緩慢升降，機位抬升俯瞰滿桌飯菜與相依的一家人，�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1928,7 +1863,6 @@ Shot 5：緩慢拉遠，列車駛離，女主@Image 1 獨立空蕩站台逆光�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1953,7 +1887,6 @@ Shot 5：緩慢環繞，全場起立鼓掌，主角@Image 2 鬆一口氣露出�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1978,7 +1911,6 @@ Shot 5：緩慢升降，機位抬升俯瞰兩人漸遠背影與灑滿金光的�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2003,7 +1935,6 @@ Shot 5：緩慢拉遠，主角@圖片2 孤身立於幽長走廊中央，四周�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2032,7 +1963,6 @@ Shot 5：緩慢拉遠，兩人相依身影在暖金晴光下融為一體，定�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2057,7 +1987,6 @@ Shot 5：鏡頭緩慢拉遠回到微距水珠，畫面虛化定格於品牌暮�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2082,7 +2011,6 @@ Shot 5：鏡頭緩慢推近其終點前的怒吼面孔，冷調高對比定格�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2107,7 +2035,6 @@ Shot 5：鏡頭緩慢升高俯拍全班圍坐共讀，暖陽灑滿地面，【�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2132,7 +2059,6 @@ Shot 5：鏡頭緩慢推近卡片定格於品牌標識，深藍漸暗，【安�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2157,7 +2083,6 @@ Shot 5：鏡頭緩慢推近杯口氣泡定格，高飽和夏日藍黃鋪滿，�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2186,7 +2111,6 @@ Shot 5：鏡頭緩慢推近嬰兒綻開的微笑，柔光過曝暈染，【溫�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2211,7 +2135,6 @@ Shot 5：鏡頭緩慢拉高俯瞰群山環抱下的古鎮定格，水墨青灰�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2236,7 +2159,6 @@ Shot 5：鏡頭推近沙灘上迎著夕陽舉杯的剪影，暖金光暈鋪滿�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2261,7 +2183,6 @@ Shot 5：鏡頭仰拍定格於日照金山之巔，冷白與暖金交界處聖�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2286,7 +2207,6 @@ Shot 5：鏡頭緩慢拉高俯瞰整座不夜城燈海定格，霓虹脈動如�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2311,7 +2231,6 @@ Shot 5：鏡頭緩慢升空俯瞰駝隊沒入無垠金色沙海定格，暖金�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2340,7 +2259,6 @@ Shot 5：鏡頭順勢升高俯拍整條美食長街燈火通明定格，人潮�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2365,7 +2283,6 @@ Shot 5：全景，貓咪@Image 1 蜷成一團閉眼睡去，鏡頭緩慢升起�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2390,7 +2307,6 @@ Shot 5：全景，狗狗@Image 1 衝向鏡頭前急停坐下咧嘴喘氣，鏡�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2415,7 +2331,6 @@ Shot 5：特寫，小丑魚@Image 1 獨自游回海葵停駐，鏡頭緩慢拉�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2440,7 +2355,6 @@ Shot 5：全景，蜂鳥@Image 1 驟然彈射飛離畫面，鏡頭緩慢拉遠�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2469,7 +2383,6 @@ Shot 5：全景，蜂鳥@Image 1 驟然彈射飛離畫面，鏡頭緩慢拉遠�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2494,7 +2407,6 @@ Shot 5：全景，蜂鳥@Image 1 驟然彈射飛離畫面，鏡頭緩慢拉遠�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2519,7 +2431,6 @@ Shot 5：全景，蜂鳥@Image 1 驟然彈射飛離畫面，鏡頭緩慢拉遠�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2544,7 +2455,6 @@ Shot 5：全景，蜂鳥@Image 1 驟然彈射飛離畫面，鏡頭緩慢拉遠�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2569,7 +2479,6 @@ Shot 5：全景，蜂鳥@Image 1 驟然彈射飛離畫面，鏡頭緩慢拉遠�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2598,7 +2507,6 @@ Shot 5：全景，蜂鳥@Image 1 驟然彈射飛離畫面，鏡頭緩慢拉遠�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2622,7 +2530,6 @@ Shot 4：全景，黑龍@Image 1 衝出霧氣滑入森林空地，鏡頭緩慢�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2647,7 +2554,6 @@ Shot 5：中景，女法師@Image 1 收勢喘息法陣餘光消散，鏡頭緩�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2672,7 +2578,6 @@ Shot 5：全景，機甲@Image 1 衝出機庫躍入戰場，鏡頭平穩跟拍�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2697,7 +2602,6 @@ Shot 5：全景，大陸@Image 1 鏡頭拉升揭示整片大陸全貌與雙日�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2726,7 +2630,6 @@ Shot 5：全景，場景@Image 1 後期調色與體積光加入成為終幀，�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2751,7 +2654,6 @@ Shot 5：中景，熱湯盛入陶碗手捧至畫面中央，鏡頭緩慢拉遠�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2776,7 +2678,6 @@ Shot 5：中景，另一隻角色撲上去擁抱兩顆心跳出畫面，鏡頭�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2801,7 +2702,6 @@ Shot 5：遠景，小機器人獨自站在山丘頂朝陽升起拉長影子，�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2830,7 +2730,6 @@ Shot 5：遠景，暮色四合燈籠次第亮起倒映滿河，鏡頭緩慢升�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2855,7 +2754,6 @@ Shot 5：特寫，槓鈴砸回地面彈起震動汗珠飛濺，鏡頭緩慢拉�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2880,7 +2778,6 @@ Shot 5：全景，盤坐合十垂首晨霧漫過整個教室，鏡頭緩慢拉�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2905,7 +2802,6 @@ Shot 5：特寫，籃球暴力灌入籃網籃筐劇烈震顫，鏡頭緩慢推�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2934,7 +2830,6 @@ Shot 5：遠景，跑者剪影衝上坡頂張開雙臂擁抱朝陽，鏡頭緩�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2959,7 +2854,6 @@ Shot 5：全景，定格pose霓虹頻閃照亮全身輪廓，鏡頭緩慢拉遠�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2984,7 +2878,6 @@ Shot 5：極近特寫，最後一鍵按下手指停駐餘音震顫，鏡頭緩�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -3009,7 +2902,6 @@ Shot 5：全景，兩人同時定格對峙圍觀者齊聲爆發，鏡頭緩慢�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -3038,7 +2930,6 @@ Shot 5：全景，煙花與雷射同時噴發主唱高舉話筒剪影，鏡頭�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -3064,7 +2955,6 @@ Shot 6：緩慢拉遠，全家門前舉杯定格於大紅燈籠下，出現字�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -3090,7 +2980,6 @@ Shot 6：緩慢拉遠，二人依偎長椅剪影，出現字幕【愛你的每�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -3116,7 +3005,6 @@ Shot 6：緩慢拉遠，人影與巨大滿月同框成剪影，出現字幕【�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -3142,7 +3030,6 @@ Shot 6：緩慢拉遠，屋內暖光透過雪夜窗櫺，出現字幕【Merry Ch
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -3172,7 +3059,6 @@ Shot 6：緩慢拉遠，一樹新綠立於原野，出現字幕【立春 萬物�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -3198,7 +3084,6 @@ Shot 6：緩慢拉遠，星空回落至一人孤帳微光，出現字幕【宇�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -3224,7 +3109,6 @@ Shot 6：緩慢拉遠，極光籠罩整片冰原孤木佇立，出現字幕【�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -3250,7 +3134,6 @@ Shot 6：緩慢拉遠，極光籠罩整片冰原孤木佇立，出現字幕【�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -3280,7 +3163,6 @@ Shot 6：緩慢拉遠，極光籠罩整片冰原孤木佇立，出現字幕【�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -3306,7 +3188,6 @@ Shot 6：緩慢拉遠，極光籠罩整片冰原孤木佇立，出現字幕【�
 - **來源:** `community`
 - **作者:** Atlas Cloud
 - **語言:** `zh-TW`
-- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 

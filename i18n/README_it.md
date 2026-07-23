@@ -153,7 +153,6 @@ Every prompt record keeps its category, source platform, author, source link, in
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group1-1.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group1-1.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
@@ -174,7 +173,6 @@ Un cortometraggio cinematografico e frenetico con match-cut sincronizzato a un r
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group2-2.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group2-2.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
@@ -195,7 +193,6 @@ Una sequenza di motion graphics 3D di 30 secondi, di alta gamma e profondamente 
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -226,7 +223,6 @@ Un cortometraggio concettuale di brand, cinematografico. @image1 è il primo fot
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -260,7 +256,6 @@ Un unico piano continuo. La camera segue con dolcezza una persona con un cappott
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-output.mov)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-output.mov" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -285,7 +280,6 @@ Montaggio video: rimuovi tutti quelli che compaiono in @video1 tranne il protago
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -312,7 +306,6 @@ Videoclip hip-hop / rap cinematografico, con qualità fotorealistica, tono di al
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-output.mov)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-output.mov" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -344,7 +337,6 @@ Un video tutorial di 30 secondi su come installare e usare una macchina da caff�
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -400,7 +392,6 @@ Uno stile pubblicitario luminoso e colorato con biscotti alla frutta come protag
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group1-1.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group1-1.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
@@ -425,7 +416,6 @@ Un cortometraggio cinematografico e frenetico con match-cut sincronizzato a un r
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group2-2.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group2-2.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
@@ -450,7 +440,6 @@ Una sequenza di motion graphics 3D di 30 secondi, di alta gamma e profondamente 
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -481,7 +470,6 @@ Un cortometraggio concettuale di brand, cinematografico. @image1 è il primo fot
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -515,7 +503,6 @@ Un unico piano continuo. La camera segue con dolcezza una persona con un cappott
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -546,7 +533,6 @@ Videoclip hip-hop / rap cinematografico, con qualità fotorealistica, tono di al
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-output.mov)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-output.mov" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -571,7 +557,6 @@ Montaggio video: rimuovi tutti quelli che compaiono in @video1 tranne il protago
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group2-output.mov)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group2-output.mov" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -600,7 +585,6 @@ Stile realista cinematografico iperrealistico con texture fotorealistica live-ac
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-output.mov)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-output.mov" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -636,7 +620,6 @@ Un video tutorial di 30 secondi su come installare e usare una macchina da caff�
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -673,7 +656,6 @@ Uno stile pubblicitario luminoso e colorato con biscotti alla frutta come protag
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab3-group1-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab3-group1-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -704,7 +686,6 @@ Uno stile di spot in animazione 3D, con colori luminosi e traslucidi; la polpa e
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab3-group2-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab3-group2-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 

@@ -153,7 +153,6 @@ Every prompt record keeps its category, source platform, author, source link, in
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group1-1.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group1-1.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
@@ -174,7 +173,6 @@ A fast-paced, cinematic Match-cut short film synced to a driving electronic beat
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group2-2.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group2-2.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
@@ -195,7 +193,6 @@ A high-end, deeply cinematic 30-second 3D motion-graphics sequence in refined st
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -226,7 +223,6 @@ A cinematic brand concept short. @image1 is the first frame; the picture tremble
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -260,7 +256,6 @@ One continuous take. The camera smoothly follows a person in a black coat (refer
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-output.mov)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-output.mov" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -285,7 +280,6 @@ Video editing: remove everyone in @video1 except the protagonist.
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -312,7 +306,6 @@ Cinematic hip-hop / rap music video, photoreal quality, high-end tone, seaside s
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-output.mov)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-output.mov" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -344,7 +337,6 @@ A 30-second tutorial video on installing and using a capsule coffee machine. 0-2
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -419,7 +411,6 @@ A bright, colorful commercial style with fruity cookies as the hero, in four fla
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group1-1.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group1-1.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
@@ -444,7 +435,6 @@ A fast-paced, cinematic Match-cut short film synced to a driving electronic beat
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group2-2.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group2-2.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
@@ -469,7 +459,6 @@ A high-end, deeply cinematic 30-second 3D motion-graphics sequence in refined st
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -500,7 +489,6 @@ A cinematic brand concept short. @image1 is the first frame; the picture tremble
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -534,7 +522,6 @@ One continuous take. The camera smoothly follows a person in a black coat (refer
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -565,7 +552,6 @@ Cinematic hip-hop / rap music video, photoreal quality, high-end tone, seaside s
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-output.mov)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-output.mov" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -590,7 +576,6 @@ Video editing: remove everyone in @video1 except the protagonist.
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group2-output.mov)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group2-output.mov" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -619,7 +604,6 @@ Hyper-real cinematic realist style with photorealistic live-action texture, emph
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-output.mov)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-output.mov" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -655,7 +639,6 @@ A 30-second tutorial video on installing and using a capsule coffee machine. 0-2
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -692,7 +675,6 @@ A bright, colorful commercial style with fruity cookies as the hero, in four fla
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab3-group1-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab3-group1-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -723,7 +705,6 @@ A 3D animated commercial style, bright and translucent colors; the pulp and juic
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab3-group2-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab3-group2-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -751,7 +732,6 @@ A ~30s black-comedy cinematic short: a chubby, tipsy man topples off a rooftop, 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -776,7 +756,6 @@ General Constraints: Keep no subtitles; Do not generate Logo; Do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -801,7 +780,6 @@ General Constraints: Keep no subtitles; Do not generate Logo; Do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -826,7 +804,6 @@ General Constraints: Keep no subtitles; Do not generate Logo; Do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -851,7 +828,6 @@ General Constraints: Keep no subtitles; Do not generate Logo; Do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -876,7 +852,6 @@ General Constraints: Keep no subtitles; Do not generate Logo; Do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -901,7 +876,6 @@ General Constraints: Keep no subtitles; Do not generate Logo; Do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -926,7 +900,6 @@ General constraints: Keep no subtitles; do not generate a Logo; do not generate 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -955,7 +928,6 @@ General constraints: Keep no subtitles; do not generate a Logo; do not generate 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -980,7 +952,6 @@ General constraints: Keep no subtitles; do not generate a Logo; do not generate 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1005,7 +976,6 @@ General constraints: Keep no subtitles; do not generate a Logo; do not generate 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1030,7 +1000,6 @@ General constraints: Keep no subtitles; do not generate a Logo; do not generate 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1055,7 +1024,6 @@ General constraints: Keep no subtitles; do not generate a Logo; do not generate 
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1080,7 +1048,6 @@ General constraints: Keep no subtitles; Do not generate Logo; Do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1105,7 +1072,6 @@ General constraints: Keep no subtitles; Do not generate Logo; Do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1130,7 +1096,6 @@ General constraints: Keep no subtitles; Do not generate Logo; Do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1159,7 +1124,6 @@ General constraints: Keep no subtitles; Do not generate Logo; Do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1184,7 +1148,6 @@ General constraints: Keep no subtitles; Do not generate Logo; Do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1209,7 +1172,6 @@ General constraints: Keep no subtitles; Do not generate Logo; Do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1234,7 +1196,6 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1259,7 +1220,6 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1284,7 +1244,6 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1313,7 +1272,6 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1338,7 +1296,6 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1363,7 +1320,6 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1388,7 +1344,6 @@ General Constraints: Keep without subtitles; do not generate Logo; do not genera
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1413,7 +1368,6 @@ General Constraints: Keep without subtitles; do not generate Logo; do not genera
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1438,7 +1392,6 @@ General Constraints: Keep without subtitles; do not generate Logo; do not genera
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1467,7 +1420,6 @@ General Constraints: Keep without subtitles; do not generate Logo; do not genera
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1492,7 +1444,6 @@ General Constraints: Keep without subtitles; do not generate Logo; do not genera
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1517,7 +1468,6 @@ General Constraints: Keep without subtitles; do not generate Logo; do not genera
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1542,7 +1492,6 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1571,7 +1520,6 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1596,7 +1544,6 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1621,7 +1568,6 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1646,7 +1592,6 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1675,7 +1620,6 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1700,7 +1644,6 @@ General Constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1725,7 +1668,6 @@ General Constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1750,7 +1692,6 @@ General Constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1775,7 +1716,6 @@ General Constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1800,7 +1740,6 @@ General Constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1829,7 +1768,6 @@ General Constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1853,7 +1791,6 @@ General constraints: Keep it without subtitles; do not generate a Logo; do not g
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1878,7 +1815,6 @@ General constraints: Keep it without subtitles; do not generate a Logo; do not g
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1903,7 +1839,6 @@ General constraints: Keep it without subtitles; do not generate a Logo; do not g
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1928,7 +1863,6 @@ General constraints: Keep it without subtitles; do not generate a Logo; do not g
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1953,7 +1887,6 @@ General constraints: Keep it without subtitles; do not generate a Logo; do not g
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -1978,7 +1911,6 @@ General constraints: Keep it without subtitles; do not generate a Logo; do not g
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2003,7 +1935,6 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2032,7 +1963,6 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2057,7 +1987,6 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2082,7 +2011,6 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2107,7 +2035,6 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2132,7 +2059,6 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2157,7 +2083,6 @@ General Constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2186,7 +2111,6 @@ General Constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2211,7 +2135,6 @@ General Constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2236,7 +2159,6 @@ General Constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2261,7 +2183,6 @@ General Constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2286,7 +2207,6 @@ General Constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2311,7 +2231,6 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2340,7 +2259,6 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2365,7 +2283,6 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2390,7 +2307,6 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2415,7 +2331,6 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2440,7 +2355,6 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2469,7 +2383,6 @@ General constraints: Keep no subtitles; Do not generate Logo; Do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2494,7 +2407,6 @@ General constraints: Keep no subtitles; Do not generate Logo; Do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2519,7 +2431,6 @@ General constraints: Keep no subtitles; Do not generate Logo; Do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2544,7 +2455,6 @@ General constraints: Keep no subtitles; Do not generate Logo; Do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2569,7 +2479,6 @@ General constraints: Keep no subtitles; Do not generate Logo; Do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2598,7 +2507,6 @@ General constraints: Keep no subtitles; Do not generate Logo; Do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2622,7 +2530,6 @@ General Constraints: Keep no subtitles; Do not generate Logo; Do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2647,7 +2554,6 @@ General Constraints: Keep no subtitles; Do not generate Logo; Do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2672,7 +2578,6 @@ General Constraints: Keep no subtitles; Do not generate Logo; Do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2697,7 +2602,6 @@ General Constraints: Keep no subtitles; Do not generate Logo; Do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2726,7 +2630,6 @@ General Constraints: Keep no subtitles; Do not generate Logo; Do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2751,7 +2654,6 @@ General Constraints: Keep no subtitles; Do not generate Logo; Do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2776,7 +2678,6 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2801,7 +2702,6 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2830,7 +2730,6 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2855,7 +2754,6 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2880,7 +2778,6 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2905,7 +2802,6 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2934,7 +2830,6 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2959,7 +2854,6 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -2984,7 +2878,6 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -3009,7 +2902,6 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -3038,7 +2930,6 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -3064,7 +2955,6 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -3090,7 +2980,6 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -3116,7 +3005,6 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -3142,7 +3030,6 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -3172,7 +3059,6 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -3198,7 +3084,6 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -3224,7 +3109,6 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -3250,7 +3134,6 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -3280,7 +3163,6 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 
@@ -3306,7 +3188,6 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 - **Source:** `community`
 - **Author:** Atlas Cloud
 - **Language:** `en`
-- **Source Link:** [View](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### Description
 

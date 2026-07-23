@@ -153,7 +153,6 @@ Every prompt record keeps its category, source platform, author, source link, in
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group1-1.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group1-1.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
@@ -174,7 +173,6 @@ En snabb, filmisk kortfilm i match-cut synkad till en drivande elektronisk beat.
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group2-2.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group2-2.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
@@ -195,7 +193,6 @@ En exklusiv, djupt filmisk 30 sekunder lång 3D-motiongrafiksekvens i förfinad 
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -226,7 +223,6 @@ En filmisk konceptuell varumärkeskortfilm. @image1 är första bildrutan; bilde
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -260,7 +256,6 @@ En enda obruten tagning. Kameran följer mjukt en person i svart rock (referens 
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-output.mov)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-output.mov" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -285,7 +280,6 @@ Videoredigering: ta bort alla i @video1 utom huvudpersonen.
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -312,7 +306,6 @@ Filmisk hiphop-/rapmusikvideo, fotorealistisk kvalitet, exklusiv ton, miljö vid
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-output.mov)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-output.mov" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -344,7 +337,6 @@ En 30 sekunder lång instruktionsvideo om att installera och använda en kapselk
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -400,7 +392,6 @@ En ljus, färgstark reklamstil med fruktiga kakor som huvudmotiv, i fyra smaker 
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group1-1.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group1-1.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
@@ -425,7 +416,6 @@ En snabb, filmisk kortfilm i match-cut synkad till en drivande elektronisk beat.
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group2-2.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group2-2.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
@@ -450,7 +440,6 @@ En exklusiv, djupt filmisk 30 sekunder lång 3D-motiongrafiksekvens i förfinad 
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -481,7 +470,6 @@ En filmisk konceptuell varumärkeskortfilm. @image1 är första bildrutan; bilde
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -515,7 +503,6 @@ En enda obruten tagning. Kameran följer mjukt en person i svart rock (referens 
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -546,7 +533,6 @@ Filmisk hiphop-/rapmusikvideo, fotorealistisk kvalitet, exklusiv ton, miljö vid
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-output.mov)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-output.mov" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -571,7 +557,6 @@ Videoredigering: ta bort alla i @video1 utom huvudpersonen.
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group2-output.mov)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group2-output.mov" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -600,7 +585,6 @@ Hyperrealistisk filmisk realiststil med fotorealistisk live action-textur, som b
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-output.mov)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-output.mov" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -636,7 +620,6 @@ En 30 sekunder lång instruktionsvideo om att installera och använda en kapselk
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -673,7 +656,6 @@ En ljus, färgstark reklamstil med fruktiga kakor som huvudmotiv, i fyra smaker 
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab3-group1-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab3-group1-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -704,7 +686,6 @@ En 3D-animerad reklamstil, ljusa och genomskinliga färger; fruktköttet och saf
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab3-group2-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab3-group2-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 

@@ -153,7 +153,6 @@ Every prompt record keeps its category, source platform, author, source link, in
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group1-1.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group1-1.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
@@ -174,7 +173,6 @@ Một phim ngắn match-cut mang phong cách điện ảnh, nhịp độ nhanh, 
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group2-2.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group2-2.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
@@ -195,7 +193,6 @@ Một chuỗi motion-graphics 3D cao cấp, đậm chất điện ảnh, dài 30
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -226,7 +223,6 @@ Một phim ngắn ý tưởng thương hiệu đậm chất điện ảnh. @imag
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -260,7 +256,6 @@ Một cú máy liên tục. Máy quay theo chân một người mặc áo khoác
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-output.mov)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-output.mov" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -285,7 +280,6 @@ Chỉnh sửa video: xóa mọi người trong @video1, chỉ chừa lại nhân
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -312,7 +306,6 @@ Video ca nhạc hip-hop/rap đậm chất điện ảnh, chất lượng chân t
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-output.mov)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-output.mov" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -344,7 +337,6 @@ Một video hướng dẫn 30 giây về cách lắp đặt và sử dụng máy
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -400,7 +392,6 @@ Phong cách quảng cáo tươi sáng, đầy màu sắc với bánh quy trái c
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group1-1.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group1-1.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
@@ -425,7 +416,6 @@ Một phim ngắn match-cut mang phong cách điện ảnh, nhịp độ nhanh, 
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group2-2.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group2-2.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 #### Description
 
@@ -450,7 +440,6 @@ Một chuỗi motion-graphics 3D cao cấp, đậm chất điện ảnh, dài 30
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/firstScreen-group3-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -481,7 +470,6 @@ Một phim ngắn ý tưởng thương hiệu đậm chất điện ảnh. @imag
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group2-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -515,7 +503,6 @@ Một cú máy liên tục. Máy quay theo chân một người mặc áo khoác
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part3-group1-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -546,7 +533,6 @@ Video ca nhạc hip-hop/rap đậm chất điện ảnh, chất lượng chân t
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-output.mov)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group1-output.mov" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -571,7 +557,6 @@ Chỉnh sửa video: xóa mọi người trong @video1, chỉ chừa lại nhân
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group2-output.mov)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part2-group2-output.mov" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -600,7 +585,6 @@ Phong cách hiện thực điện ảnh siêu thực với kết cấu quay th�
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-output.mov)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab1-group3-output.mov" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -636,7 +620,6 @@ Một video hướng dẫn 30 giây về cách lắp đặt và sử dụng máy
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab2-group2-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -673,7 +656,6 @@ Phong cách quảng cáo tươi sáng, đầy màu sắc với bánh quy trái c
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab3-group1-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab3-group1-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
@@ -704,7 +686,6 @@ Phong cách quảng cáo hoạt hình 3D, màu sắc tươi sáng và trong tr�
 - **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab3-group2-output.mp4)
 
 <video src="https://static.atlascloud.ai/model/example/seedance-2.5/cn-part1-tab3-group2-output.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://ark.volcengine.com/promotion?modelName=seedance-2-5)
 
 - **Inputs:**
 
