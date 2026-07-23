@@ -1,4 +1,4 @@
-# 🎬 Seedance 2.5 提示词大全 + Seedance 2.5 Skill
+# 🎬 Seedance 2.5 提示词大全
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
@@ -6,168 +6,119 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/pulls)
 [![Prompts](https://img.shields.io/badge/prompts-111%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
-一个经过整理的 Seedance 2.5 视频提示词库，以及可安装的 **Seedance 2.5 Skill**。这个 Agent Skill 会根据需求选择 T2V、R2V、I2V 或延展路线，使用 Seedream 5.0 Pro 生成分镜参考图，当前默认用 Seedance 2.0 执行视频生成；只有当所选服务商实际提供 Seedance 2.5 时，才切换到 2.5。
+> 基于 AtlasCloud `homepage-v2` 数据源整理的 Seedance 2.5 提示词与预览视频仓库。30 秒原生 · 50 个全模态参考 · 灵活局部编辑。
 
-| [浏览提示词](https://www.atlascloud.ai/prompts-hub/seedance-2-5-prompt?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills&locale=zh-CN) | [安装 Seedance 2.5 Skill](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/tree/main/skills/seedance-2-5-skill) | [在 Atlas Cloud 生成](https://www.atlascloud.ai/zh/models/bytedance/seedance-2.5/text-to-video?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills) | [获取 API Key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills) |
-|---|---|---|---|
+> 所有提示词仅用于学习、整理和检索。如有内容需要移除，请提交 issue。
 
-<details><summary>语言 (20)</summary>
+[![English](https://img.shields.io/badge/English-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-%E5%BD%93%E5%89%8D-brightgreen)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_ja.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_ko.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_th.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_vi.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_hi.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_es.md) [![Deutsch](https://img.shields.io/badge/Deutsch-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_de.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_fr.md) [![Italiano](https://img.shields.io/badge/Italiano-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_it.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_pt.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_tr.md) [![العربية](https://img.shields.io/badge/%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_ar.md) [![Bahasa Indonesia](https://img.shields.io/badge/Bahasa%20Indonesia-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_id.md) [![Nederlands](https://img.shields.io/badge/Nederlands-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_nl.md) [![Polski](https://img.shields.io/badge/Polski-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_pl.md) [![Русский](https://img.shields.io/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_ru.md) [![Svenska](https://img.shields.io/badge/Svenska-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_sv.md)
 
-[English](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/README.md) · [简体中文](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_zh.md) · [繁體中文](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_zh-TW.md) · [日本語](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_ja.md) · [한국어](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_ko.md) · [ไทย](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_th.md) · [Tiếng Việt](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_vi.md) · [हिन्दी](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_hi.md) · [Español](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_es.md) · [Deutsch](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_de.md) · [Français](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_fr.md) · [Italiano](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_it.md) · [Português](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_pt.md) · [Türkçe](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_tr.md) · [العربية](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_ar.md) · [Bahasa Indonesia](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_id.md) · [Nederlands](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_nl.md) · [Polski](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_pl.md) · [Русский](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_ru.md) · [Svenska](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_sv.md)
+---
 
-</details>
+## 📖 Contents
 
-<a id="contents"></a>
+- [🧠 Seedance 2.5 Agent Skill](#-seedance-25-agent-skill)
+- [🌐 在 AtlasCloud 查看](#-atlascloud-)
+- [🧩 Supported Models](#-supported-models)
+- [▶ Run any prompt via Atlas Cloud](#-run-any-prompt-via-atlas-cloud)
+- [📊 统计数据](#-)
+- [🏷️ 按分类浏览](#-)
+- [🔥 精选提示词](#-)
+- [📋 全部提示词](#-)
+- [More Atlas Cloud Tools](#more-atlas-cloud-tools)
+- [📄 许可证](#-)
 
-## 📖 目录
+## 🧠 Seedance 2.5 Agent Skill
 
-- [Seedance 2.5 Skill](#seedance-2-5-skill)
-- [如何使用这个仓库](#how-to-use)
-- [默认模型与执行方式](#model-and-execution-defaults)
-- [Seedance 2.5 提示词指南](#prompt-guide)
-- [收录标准与来源说明](#curation-and-provenance)
-- [常见问题](#faq)
-- [统计数据](#statistics)
-- [精选提示词](#featured-prompts)
-- [按分类浏览](#browse-by-category)
-- [全部提示词](#all-prompts)
-- [相关资源](#resources)
-- [许可证](#license)
+> 本仓库自带一个可安装的 **Agent Skill**（[`skills/seedance-2-5-skill/`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill)）：按需求先选视频路线 —— 单镜 T2V、分镜图转片（R2V storyboard）、人物 / 产品 / 场景素材参考（R2V assets）、首尾帧 I2V、视频延展 —— 再按 5 步流程（选路线 → 备素材 → 连贯性设计 → 写提示词 → 生成复查）产出可控的 Seedance 视频。中文请求走专属中文工作流。
 
-<a id="seedance-2-5-skill"></a>
+**安装**：把 `skills/seedance-2-5-skill/` 整个文件夹复制到 `~/.claude/skills/`（或项目的 `.claude/skills/`；Codex / Gemini CLI 等 Agent 同理），然后直接描述需求即可触发，例如「用参考图做一条 30 秒产品片」。
 
-## 🧠 Seedance 2.5 Skill
+- [`SKILL.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/SKILL.md) — 主流程：路线选择表 + 素材准备 + 连贯性 / 转场设计 + 提示词写法 + 生成复查
+- [`references/workflow.zh-CN.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/workflow.zh-CN.md) — 中文主工作流（全部参考文件均中英双份）
+- [`references/cinematography.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/cinematography.md) — 电影语言库：运镜 / 光影 / 构图
+- [`references/prompt-blocks.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/prompt-blocks.md) · [`prompt-templates.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/prompt-templates.md) — 提示词分块框架与各阶段模板
+- [`references/execution-adapters.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/execution-adapters.md) — Atlas 执行通道（CLI / REST）与模型档位
+- [`references/troubleshooting.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/troubleshooting.md) — 漂移 / 失控症状 → 原因 → 修复
+- [`scripts/generate.mjs`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/scripts/generate.mjs) — 可执行流水线（配置驱动：grid / chain / reference / storyboard / t2v 多模式，含 Atlas CLI 与 REST 双 provider）
 
-**Seedance 2.5 Skill** 是本仓库内可安装 Agent Skill 的正式名称。它会把创意需求、参考素材或 Storyboard 转换成合适的生成路线、提示词、中间素材、执行请求和质量复查流程。
+> 配套教程：[Workflow：Seedream 5 → Seedance 2.5（先图后视频）](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/docs/workflow-seedream5-seedance2.5.md)。下方 100+ 条分镜提示词可直接喂给这个 skill。
 
-### 安装
+## 🌐 在 AtlasCloud 查看
 
-安装工作流 Skill，以及默认用于执行生成的 Atlas Cloud Skill：
+- 提示词库: [查看](https://www.atlascloud.ai/prompts-hub/seedance-2-5-prompt?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills&locale=zh-CN)
+- 模型页: [查看](https://www.atlascloud.ai/zh/models/bytedance/seedance-2.5/text-to-video?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills)
 
-```bash
-npx skills add AtlasCloudAI/awesome-seedance-2.5-prompts-skills --skill seedance-2-5-skill
-npx skills add AtlasCloudAI/atlas-cloud-skills --skill atlas-cloud
-```
+## 🧩 Supported Models
 
-### 它会做什么
+- 🎬 **Video** — Seedance 2.5 · Seedance 2.0 · Seedance 2.0 Mini · Kling 3 · Sora 2 · Veo 3.1 · HappyHorse 1 · Grok Imagine 1.5 · Wan 2.7
+- 🎨 **Image** — Seedream 5.0 Pro · Nano Banana 2/Pro · GPT Image 2 · Flux 2 · Seedream 5
+- 🧊 **3D** — Seed3D 2.0 · Hunyuan 3D Pro · Hunyuan 3D Rapid
+- 💬 **LLM** — Claude · GPT · DeepSeek · MiniMax · Kimi · GLM · Qwen
+- 🔊 **Audio** — Grok TTS
+- 📚 **Explore more** — [300+ models »](https://www.atlascloud.ai/models?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills)
 
-| 路线 | 适用场景 | 主要输入 | 生成单位 |
-|---|---|---|---|
-| T2V | 一个简单、独立的短场景 | 文本提示词 | 一个完整镜头 |
-| R2V Storyboard | 包含多个可读分镜的故事板 | 一张完整 Storyboard 图片 | 一次请求按分镜顺序生成 |
-| R2V 素材参考 | 人物、产品、物体、场景或风格需要保持一致 | 少量、职责明确的参考素材 | 一个受参考素材约束的片段 |
-| I2V 首尾帧 | 镜头的准确起点和终点很重要 | 首帧，按需增加尾帧 | 一个可独立复查的镜头 |
-| 延展 / 串联 | 需要从已接受的视频继续生成更长内容 | 上一段视频或尾帧 | 保持连续性的延展片段 |
+## ▶ Run any prompt via Atlas Cloud
 
-<details><summary>Skill 文件与参考资料</summary>
+**Skill (recommended):** Install [atlas-cloud-skills](https://github.com/AtlasCloudAI/atlas-cloud-skills) in Claude Code, Codex, or Gemini CLI, then just ask it to generate any prompt from this collection.
 
-- [`SKILL.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/SKILL.md)
-- [`references/workflow.zh-CN.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/workflow.zh-CN.md)
-- [`references/cinematography.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/cinematography.md)
-- [`references/prompt-blocks.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/prompt-blocks.md)
-- [`references/prompt-templates.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/prompt-templates.md)
-- [`references/execution-adapters.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/execution-adapters.md)
-- [`references/troubleshooting.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/troubleshooting.md)
-- [`scripts/generate.mjs`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/scripts/generate.mjs)
+**CLI:** Prefer the terminal? Use [atlascloud-cli](https://github.com/AtlasCloudAI/cli) to run prompts directly.
 
-</details>
+**[→ Get your free Atlas Cloud API key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills)**
 
-<a id="how-to-use"></a>
+## 🤔 Seedance 2.5 模型简介
 
-## 🚀 如何使用这个仓库
+Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒原生输出（从 15 秒翻倍），完整场景一镜到底、无需拼接；② 最多 50 个全模态参考素材（图片 / 视频 / 音频），同类最大参考容量，精准的参考驱动创作；③ 灵活的局部编辑，可单独替换背景、产品或主体而不破坏画面其余部分。延续 2.0 的多模态音画生成，叠加约 20% 的提示词遵循提升与原生 4K，特别适合参考驱动、复杂运镜、情绪表演、音乐卡点和视频改写等任务。
 
-1. **浏览：** 按分类查找提示词；有真实预览时先看预览，再复制提示词。
-2. **优化：** 让 Seedance 2.5 Skill 根据主体、时长、画幅、参考素材和连续性要求改写提示词。
-3. **生成：** 让 Skill 自动选择路线；需要 Storyboard 时先生成并展示中间图，由 Agent 自行检查质量，然后通过所选 Atlas 通道提交图片或视频任务。
+- 建议先明确主体、场景、动作，再补充镜头语言、节奏和风格细节。
+- 涉及参考图、参考视频或配音时，提示词里可以直接使用 `@image1`、`@video1`、`@audio1` 这样的占位符。
+- 更长的 30 秒时长适合完整叙事、连续运镜与音画同步；4K 原生输出适合高清成片和商业交付。
+- 适合广告短片、剧情延展、运镜练习、角色一致性、MV、音画同步和创意特效类题材。
 
-<a id="model-and-execution-defaults"></a>
+### 推荐写法
 
-## ⚙️ 默认模型与执行方式
-
-工作流 Skill 和执行适配层是两层：前者决定做什么、怎么做；Atlas 执行通道负责提交、轮询和取回图片或视频。
-
-### 默认模型
-
-**Storyboard 静帧：** Seedream 5.0 Pro。**当前默认视频模型：** Seedance 2.0。**Seedance 2.5：** 只有所选服务商实际提供模型和明确参数限制时才使用。
-
-- **Atlas Cloud Skill：** Agent 会话中的默认直接执行方式。若未安装，工作流会协助安装，并引导用户获取 API Key。
-- **Atlas MCP：** 只有用户明确选择 MCP，且当前客户端暴露生成工具时才使用。
-- **Atlas CLI / REST：** 用于用户明确选择的终端、脚本、CI 或批量任务。
-
-所有异步任务都使用同一个 prediction ID 每 2 秒轮询一次。超时或暂时没有输出，不代表可以重复提交付费生成任务。
-
-**[→ 获取 Atlas Cloud API Key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills)**
-
-<a id="prompt-guide"></a>
-
-## 🧩 Seedance 2.5 提示词指南
-
-公开的 Seedance 2.5 发布资料描述了最长 30 秒、原生 4K、最多 50 个多模态参考素材和局部区域编辑等能力。这些是已发布的能力信息，不应直接视为所有 API 都支持的固定参数。
-
-**可用性说明：** 不同服务商的模型开放状态、参考素材数量、时长、分辨率和编辑能力可能不同。Skill 会先核对所选路线，不会假定 Seedance 2.5 一定可调用。
-
-### Skill 使用的提示词结构
-
-1. **参考绑定：** 明确每张图片、每段视频或音频分别控制什么。
-2. **可观察动作：** 按时间顺序写清画面中真正发生的事件、反应和状态变化。
-3. **空间关系：** 写清主体、物体与镜头之间的位置和相对关系。
-4. **镜头与剪辑：** 只在必要时指定景别、运镜、切镜顺序、动作匹配和遮挡转场。
-5. **视觉风格：** 定义光线、色彩、材质、氛围和节奏。
-6. **音频：** 当所选模型路线支持时，定义对白、环境声、音效或音乐。
-7. **约束：** 只保留真正重要的人物身份、产品细节、场景特征和禁止项。
-
-### 主要参考资料
-
-- [Seedance 2.0 prompt guide — Volcengine](https://docs.volcengine.com/docs/82379/2222480?lang=zh)
-- [Seedream 5.0 Pro user manual — ByteDance Lark](https://bytedance.larkoffice.com/wiki/HQ8HwXpNFiy6umkP8jNcBwF3nab)
-- [Seedance 2.5 launch overview — Atlas Cloud](https://www.atlascloud.ai/zh/seedance-2-5?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills)
-
-<a id="curation-and-provenance"></a>
-
-## 🔎 收录标准与来源说明
-
-每条提示词都会保留分类、来源平台、作者、原始链接、输入参考素材，以及可用时的预览视频。README 生成过程不会改写提示词正文。
-
-- `official` 和 `community` 标签表示提示词的来源性质，并不代表每条提示词都已经在所有服务商和模型版本上完成独立测试。
-- 预览视频代表原始配置下的一次真实输出。模型版本、服务商参数、参考素材、画幅、seed 和内容审核变化，都可能导致不同结果。
-
-<a id="faq"></a>
-
-## ❓ 常见问题
-
-### Seedance 2.5 Skill 是什么？
-
-它是 `skills/seedance-2-5-skill/` 中的可安装 Agent Skill，负责选择生成路线、准备必要素材、编写提示词、通过 Atlas Cloud 执行并复查结果。
-
-### 使用这个 Skill 必须已经开放 Seedance 2.5 吗？
-
-不需要。当前可执行默认模型是 Seedance 2.0；只有所选服务商真实提供 Seedance 2.5 时，Skill 才会使用 2.5。
-
-### 每个视频都必须先生成 Storyboard 吗？
-
-不需要。简单场景可以直接 T2V。可读的多镜头 Storyboard 默认会作为一张完整图片提交给 R2V；只有明确切换成独立 I2V 镜头路线时才切格。
-
-### 默认使用哪个 Atlas 执行通道？
-
-Agent 会话默认使用 Atlas Cloud Skill。MCP、CLI 和 REST 只在用户明确选择相应环境时使用。
-
-### 不安装 Skill，也能直接使用提示词吗？
-
-可以。你可以直接浏览和复制任意提示词；需要路线选择、提示词优化、Storyboard 处理、任务执行、轮询和自动复查时，再安装 Skill。
-
-<a id="statistics"></a>
+- 主体: 先写清主角、物体或产品。
+- 动作: 说明发生了什么，以及环境如何响应。
+- 运镜: 补充推拉摇移、环绕、跟拍、俯拍、特写等镜头指令。
+- 风格: 加入电影光影、材质、氛围、节奏、色彩和音频信息。
 
 ## 📊 统计数据
-
 
 | 指标 | 数量 |
 |--------|-------|
 | 提示词总数 | **111** |
 | 分类数 | **27** |
 | 预览视频数 | **11** |
-| 最后更新 | **2026-07-23** |
+| 最后更新 | **2026-07-23T06:22:46.622Z** |
 
-<a id="featured-prompts"></a>
+## 🏷️ 按分类浏览
+
+- [`匹配剪辑与创意特效`](#category-1): **1**
+- [`一镜到底运镜`](#category-2): **1**
+- [`多图参考`](#category-3): **3**
+- [`视频编辑`](#category-4): **2**
+- [`参考图引导教程`](#category-5): **1**
+- [`多模态参考（图片+视频）`](#category-6): **1**
+- [`图片参考`](#category-7): **1**
+- [`图片参考（电影感）`](#category-8): **1**
+- [`电商带货`](#category-9): **8**
+- [`美食餐饮`](#category-10): **8**
+- [`美妆时尚`](#category-11): **6**
+- [`数码科技`](#category-12): **6**
+- [`汽车`](#category-13): **4**
+- [`房产家居`](#category-14): **4**
+- [`人物口播 / 数字人`](#category-15): **6**
+- [`短剧 / 情感叙事`](#category-16): **8**
+- [`品牌 TVC / 广告`](#category-17): **6**
+- [`旅行 / 文旅`](#category-18): **6**
+- [`宠物 / 动物`](#category-19): **5**
+- [`儿童 / 教育 / 科普`](#category-20): **5**
+- [`游戏 / CG / 幻想`](#category-21): **5**
+- [`动画 / 卡通`](#category-22): **4**
+- [`运动 / 健身`](#category-23): **4**
+- [`音乐 / 舞蹈 / MV`](#category-24): **4**
+- [`节日 / 节气`](#category-25): **5**
+- [`自然 / 天文 / 纪录片`](#category-26): **4**
+- [`拟人化 / 创意梗`](#category-27): **2**
 
 ## 🔥 精选提示词
 
@@ -385,43 +336,7 @@ Agent 会话默认使用 Atlas Cloud Skill。MCP、CLI 和 REST 只在用户明�
 明亮多彩的广告风格，以水果饼干为主角，共四种口味——草莓、苹果、葡萄和橙子；草莓口味参考 @image1。饼干与相配的水果以极具秩序感的几何阵列排布；整体画面干净、高级、充满活力。开场时，水果围绕中央的饼干快速环绕旋转，迅速建立视觉焦点——参考 @video1 的构图——在强节拍上切入。随后不同口味的饼干沿螺旋路径向镜头推进，形成清晰的空间纵深——参考 @video2 的运动与运镜——随背景音乐在节拍上切换颜色与口味。饼干阵列左右横摇，以快速的平面到平面切换，草莓、苹果、葡萄、橙子口味交替出现，画面随节奏快速跳切——参考 @video3 的运动。中段加入上下摇移；整齐的饼干阵列像机械般垂直升降——参考 @video4 的运动——凸显秩序之美与产品的丰富。高潮处一块饼干被掰成两半，画面进入慢动作，果味夹心迸裂而出，饼屑四散，多汁的口感与颗粒的冲击被放大——参考 @video5 的爆炸效果——随后迅速回到快节奏剪辑。结尾引入英文文字 "Fresh on Seedance, made for viral vision"，逐字快速依次入场，配以强烈的节奏化文字动效与产品定格——参考 @video6——四种口味的饼干与水果整齐排列、同步弹跳，完成最后的品牌收尾，画面充满年轻、活力、美味、值得分享的广告氛围。
 ```
 
-<a id="browse-by-category"></a>
-
-## 🏷️ 按分类浏览
-
-
-- [`匹配剪辑与创意特效`](#category-1): **1**
-- [`一镜到底运镜`](#category-2): **1**
-- [`多图参考`](#category-3): **3**
-- [`视频编辑`](#category-4): **2**
-- [`参考图引导教程`](#category-5): **1**
-- [`多模态参考（图片+视频）`](#category-6): **1**
-- [`图片参考`](#category-7): **1**
-- [`图片参考（电影感）`](#category-8): **1**
-- [`电商带货`](#category-9): **8**
-- [`美食餐饮`](#category-10): **8**
-- [`美妆时尚`](#category-11): **6**
-- [`数码科技`](#category-12): **6**
-- [`汽车`](#category-13): **4**
-- [`房产家居`](#category-14): **4**
-- [`人物口播 / 数字人`](#category-15): **6**
-- [`短剧 / 情感叙事`](#category-16): **8**
-- [`品牌 TVC / 广告`](#category-17): **6**
-- [`旅行 / 文旅`](#category-18): **6**
-- [`宠物 / 动物`](#category-19): **5**
-- [`儿童 / 教育 / 科普`](#category-20): **5**
-- [`游戏 / CG / 幻想`](#category-21): **5**
-- [`动画 / 卡通`](#category-22): **4**
-- [`运动 / 健身`](#category-23): **4**
-- [`音乐 / 舞蹈 / MV`](#category-24): **4**
-- [`节日 / 节气`](#category-25): **5**
-- [`自然 / 天文 / 纪录片`](#category-26): **4**
-- [`拟人化 / 创意梗`](#category-27): **2**
-
-<a id="all-prompts"></a>
-
 ## 📋 全部提示词
-
 
 <a id="category-1"></a>
 
@@ -3329,36 +3244,26 @@ Agent 会话默认使用 Atlas Cloud Skill。MCP、CLI 和 REST 只在用户明�
 通用约束：保持无字幕；不要生成 Logo；不要生成水印；每个镜头只用一种运镜；人物需自然微动非石像。
 ```
 
-<details><summary>仓库开发</summary>
+## 本地使用
 
 ```bash
-npm ci
-npm run generate
-npx tsc --noEmit
+npm install
+npm run build-all
 ```
 
-</details>
+## More Atlas Cloud Tools
 
-<a id="resources"></a>
-
-## 🔗 相关资源
-
-
-- [Seedance 2.5 prompt gallery](https://www.atlascloud.ai/prompts-hub/seedance-2-5-prompt?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills&locale=zh-CN)
-- [Atlas Cloud Seedance 2.5 page](https://www.atlascloud.ai/zh/seedance-2-5?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills)
-- [Atlas Cloud Skill](https://github.com/AtlasCloudAI/atlas-cloud-skills)
-- [Atlas MCP Server](https://github.com/AtlasCloudAI/mcp-server)
-- [Atlas CLI](https://github.com/AtlasCloudAI/cli)
-- [Atlas Cloud model catalog](https://www.atlascloud.ai/models?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills)
-- [Discord](https://discord.gg/MWmMr4q9es)
-
-<a id="license"></a>
+- 📘 [Workflow: Seedream 5 → Seedance 2.5 (image-first / 先图后视频)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/docs/workflow-seedream5-seedance2.5.md) — lock characters/scenes on cheap images first, then generate 30s video in one shot.
+- [atlascloud-cli](https://github.com/AtlasCloudAI/cli) — run prompts from your terminal.
+- 🔌 [MCP Server](https://github.com/AtlasCloudAI/mcp-server) — connect Atlas Cloud to any MCP client.
+- [atlas-cloud-skills](https://github.com/AtlasCloudAI/atlas-cloud-skills) — skills for Claude Code, Codex, and Gemini CLI.
+- [atlascloud_comfyui](https://github.com/AtlasCloudAI/atlascloud_comfyui) — ComfyUI nodes for Atlas Cloud.
+- [n8n-nodes-atlascloud](https://github.com/AtlasCloudAI/n8n-nodes-atlascloud) — n8n automation nodes.
+- [Discord](https://discord.gg/MWmMr4q9es) — join the community.
+- [Website](https://www.atlascloud.ai?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills) — explore all models and docs.
 
 ## 📄 许可证
 
-
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> 所有提示词仅用于学习、整理和检索。如有内容需要移除，请提交 issue。
-
-> 此 README 为自动生成。 2026-07-23.
+> 此 README 为自动生成。 2026-07-23T06:22:46.622Z
