@@ -1,0 +1,30 @@
+{
+  "_comment": "整张分镜图 R2V 示例。只要每格画面仍清晰可读，就将分镜图放到 skill 根目录的 assets/storyboard.png，整张作为图片1一次提交；不切格。只有实测生成把编号、格线或注释带进视频时，才另做清理版。",
+  "mode": "reference",
+  "outDir": "build",
+  "modelProfile": "seedance-default",
+  "execution": { "adapter": "atlas-rest", "apiKeyEnv": "ATLASCLOUD_API_KEY", "verifyModels": true },
+
+  "refs": [
+    {
+      "file": "../assets/storyboard.png"
+    }
+  ],
+
+  "video": {
+    "refModel": "bytedance/seedance-2.0/reference-to-video",
+    "resolution": "1080p",
+    "ratio": "9:16",
+    "duration": 15,
+    "generate_audio": true,
+    "watermark": false
+  },
+
+  "segments": [
+    {
+      "refs": [1],
+      "duration": 15,
+      "prompt": "严格按图片1中的分镜图从左到右、从上到下的顺序生成短片，一次只出现一个完整镜头。每个镜头依照分镜中的主体、构图、动作与镜头语言自然衔接；保持人物、服装、场景、光影和画风一致。"
+    }
+  ]
+}

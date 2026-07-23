@@ -1,0 +1,21 @@
+{
+  "_comment": "Role-specific R2V reference example. Each image has one job: hands, kitchen, style, finished dish, or opening state.",
+  "mode": "reference",
+  "outDir": "build",
+  "modelProfile": "seedance-default",
+  "execution": { "adapter": "atlas-rest", "apiKeyEnv": "ATLASCLOUD_API_KEY", "verifyModels": true },
+  "refs": [
+    { "prompt": "Hand-drawn food-animation style: one clean pair of hands with rolled shirt sleeves on a warm plain background, no face. Identity reference for the hands.", "size": "1152*2048" },
+    { "prompt": "Hand-drawn food-animation style: empty late-night kitchen, wood counter, black iron wok, warm hanging lamp, night beyond the window, no people. Setting reference.", "size": "1152*2048" },
+    { "prompt": "Hand-drawn food-animation style palette: warm yellow, soft lighting, subtle paper grain. Style reference.", "size": "1152*2048" },
+    { "prompt": "Hand-drawn food-animation style: finished tomato-and-egg stir-fry on a white plate, glossy red and yellow, scallion and rising steam. Product reference.", "size": "1152*2048" },
+    { "prompt": "Vertical opening frame in a warm kitchen: one hand holds beaten egg beside diced tomatoes, no face. Start-frame reference.", "size": "1152*2048" }
+  ],
+  "audio": { "_comment": "Optional reference audio. A rejected input audio reference stops the run and is not silently removed.", "outputRetries": 2, "references": [] },
+  "video": { "refModel": "bytedance/seedance-2.0/reference-to-video", "resolution": "1080p", "ratio": "9:16", "duration": 15, "generate_audio": true, "watermark": false },
+  "styleSuffix": "Warm hand-drawn food-animation style, vertical frame, one pair of hands, one black iron wok, no face or extra hands, soft warm light, one clear camera intention per shot.",
+  "segments": [
+    { "refs": [1,2,3,4,5], "duration": 15, "prompt": "Use Image 1 for the hands, Image 2 for the kitchen, and Image 3 for style. Start from Image 5: pour egg into the hot wok, form soft curds, remove them, then stir-fry tomato until red juice bubbles. Slow push-in; end on the tomato sauce state." },
+    { "refs": [1,2,3,4,5], "chainPrevAsRef": true, "duration": 15, "prompt": "Continue from Image 6, the final frame of the prior segment, with the same hands, kitchen, and style: return egg to the tomato sauce, toss until glossy, plate it, add scallion, and let steam rise. Use Image 4 for the finished-dish reference. Slow pull-out to the final composition." }
+  ]
+}

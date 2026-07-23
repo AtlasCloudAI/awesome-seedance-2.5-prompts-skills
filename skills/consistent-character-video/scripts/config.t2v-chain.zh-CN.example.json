@@ -1,0 +1,26 @@
+{
+  "_comment": "t2v 接龙(无参考图)示例 · 小炒黄牛肉。首段文生视频取尾帧，后续段从该尾帧继续同一动作；衔接需人工审片，不是保证无缝。",
+  "mode": "chain",
+  "outDir": "build",
+  "modelProfile": "seedance-default",
+  "execution": { "adapter": "atlas-rest", "apiKeyEnv": "ATLASCLOUD_API_KEY", "verifyModels": true },
+
+  "video": {
+    "t2vModel": "bytedance/seedance-2.0/text-to-video",
+    "model": "bytedance/seedance-2.0/image-to-video",
+    "resolution": "1080p",
+    "ratio": "9:16",
+    "duration": 15,
+    "generate_audio": true,
+    "watermark": false
+  },
+
+  "styleSuffix": "吉卜力食物番手绘动画风格，竖屏，暖黄色调的深夜治愈厨房、黑铁锅与灶火，只有一双干净的手和食物、没有人脸与多余的手，手绘颗粒质感、柔和暖光，每个镜头以一种主导运镜为主；需要复合时保持一个同步意图。",
+
+  "segments": [
+    { "t2v": true, "duration": 15, "prompt": "小炒黄牛肉前半段。开场极近特写：黄牛肉薄片滑入冒烟热油刺啦变色卷边，形成强钩子；一只手锅铲大火划炒牛肉，镜头缓慢推近，灶火映亮锅沿；牛肉拨到锅边，下蒜片姜片黑豆豉小米椒圈爆香，蒸汽升腾。收尾定格在锅中爆香冒烟。" },
+    { "chain": true, "duration": 15, "prompt": "无缝承接上一段：同一口黑铁锅同一双手，从爆香冒烟继续。下青椒段大火煸炒起虎皮；牛肉回锅合炒，颠勺锅气窜火光（money shot）；淋生抽蚝油翻炒油亮，撒蒜苗；盛入白瓷盘红绿油亮热气升腾，镜头缓慢拉远定格。" }
+  ],
+
+  "seamTrimFrames": 1
+}

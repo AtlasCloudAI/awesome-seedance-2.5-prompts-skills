@@ -1,0 +1,25 @@
+{
+  "_comment": "Independent I2V grid example. Each panel becomes one clip for a hard-cut montage. rows*cols must equal shots.length.",
+  "outDir": "build",
+  "modelProfile": "seedance-default",
+  "execution": { "adapter": "atlas-rest", "apiKeyEnv": "ATLASCLOUD_API_KEY", "verifyModels": true },
+  "ffmpeg": "ffmpeg",
+  "ffprobe": "ffprobe",
+  "grid": {
+    "model": "bytedance/seedream-v5.0-pro/text-to-image",
+    "size": "1728*2304",
+    "rows": 3,
+    "cols": 2,
+    "prompt": "Create a 3-row by 2-column storyboard grid for six independent cooking shots. Warm hand-drawn food-animation style, late-night kitchen, wood counter, black iron wok, soft warm practical light. One consistent pair of clean hands only; no face and no extra hands. Thin dark dividers. Show, in reading order: ingredients on board; pork searing; aromatics blooming; green peppers entering; stir-fry tossing; finished dish plated. Keep the hands, wok, kitchen, lighting, and style consistent. No unrelated text or corner marks."
+  },
+  "video": { "model": "bytedance/seedance-2.0/image-to-video", "resolution": "1080p", "ratio": "9:16", "duration": 5, "generate_audio": true, "watermark": false },
+  "styleSuffix": "Warm hand-drawn food-animation style, vertical frame, one consistent pair of hands and black iron wok, no face or extra hands, natural motion, one clear camera intention per shot.",
+  "shots": [
+    "Slowly push in on sliced pork, green pepper, garlic, and fermented beans arranged on a board; one hand places the final pork slice.",
+    "Pork sizzles in a hot black iron wok while one hand stirs; edges curl and turn golden.",
+    "Garlic, ginger, and fermented beans bloom in the rendered pork fat; one hand gently tosses the wok.",
+    "Green pepper enters the wok and is stir-fried over high heat until its skin begins to blister.",
+    "Pork and pepper toss together with soy sauce; steam rises and the food becomes glossy.",
+    "The finished dish is plated; one hand scatters scallion and the camera slowly pushes in."
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_comment": "reference 模式示例 · 番茄炒蛋。refs[] 中每张图只承担一种角色（手、场景、风格、成品、开场）。提示词里的图片N按每段 reference_images 顺序对应。第二段仅在同一连续动作时才用上一段尾帧作附加参考。",
+  "mode": "reference",
+  "outDir": "build",
+  "modelProfile": "seedance-default",
+  "execution": { "adapter": "atlas-rest", "apiKeyEnv": "ATLASCLOUD_API_KEY", "verifyModels": true },
+
+  "refs": [
+    { "prompt": "吉卜力食物番手绘风，一双干净的手、卷起衬衫袖口，暖色纯背景，无人脸。角色(手)一致性参考。", "size": "1152*2048" },
+    { "prompt": "吉卜力食物番手绘风，暖黄深夜治愈厨房空镜：木台面、黑铁锅、暖黄吊灯、窗外夜色，无人物。场景参考。", "size": "1152*2048" },
+    { "prompt": "吉卜力食物番手绘风调性色板，暖黄主调、柔和光影、纸纹颗粒质感。整体风格参考。", "size": "1152*2048" },
+    { "prompt": "吉卜力食物番手绘风，白瓷盘装好的番茄炒蛋，红黄相间油亮撒葱花热气升腾。成品参考。", "size": "1152*2048" },
+    { "prompt": "吉卜力食物番手绘风竖屏开场，一只手端金黄蛋液碗、案板上切好的红番茄块，暖黄厨房无人脸。首帧参考。", "size": "1152*2048" }
+  ],
+
+  "audio": {
+    "_comment": "可选参考音频。file 会先上传到 Atlas Cloud；若上传或模型校验失败会停止并提示，不会自动移除。空数组表示只由 Seedance 原生生成声音。audioRefs 使用 1 基编号选择某段使用的音频。",
+    "outputRetries": 2,
+    "references": []
+  },
+
+  "video": {
+    "refModel": "bytedance/seedance-2.0/reference-to-video",
+    "resolution": "1080p",
+    "ratio": "9:16",
+    "duration": 15,
+    "generate_audio": true,
+    "watermark": false
+  },
+
+  "styleSuffix": "吉卜力食物番手绘动画风格，竖屏，暖黄治愈厨房，只有一双干净的手和食物、没有人脸与多余的手，手绘颗粒质感、柔和暖光，每个镜头以一种主导运镜为主；需要复合时保持一个同步意图。",
+
+  "segments": [
+    { "refs": [1,2,3,4,5], "duration": 15, "prompt": "以图片1的手、图片2的厨房、图片3的风格为基准，从图片5开场：手把金黄蛋液倒入热油锅膨起冒泡、划散成嫩黄蛋块盛出；红番茄块下锅翻炒煸出红汁咕嘟冒泡。镜头缓慢推近，收尾定格在番茄出汁。" },
+    { "refs": [1,2,3,4,5], "chainPrevAsRef": true, "duration": 15, "prompt": "以图片1手、图片2厨房、图片3风格为基准，无缝承接图片6(上一段最后画面)番茄出汁状态：炒蛋倒回锅中颠勺翻炒裹匀收汁油亮；盛入白瓷盘撒葱花热气升腾，镜头缓慢拉远定格。成品参考图片4。" }
+  ]
+}

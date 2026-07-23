@@ -2,20 +2,21 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedance-2.5-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-11%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+[![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedance-2.5-prompts-skills?style=social)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/pulls)
+[![Prompts](https://img.shields.io/badge/prompts-111%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 > 基於 AtlasCloud `homepage-v2` 資料來源整理的 Seedance 2.5 提示詞與預覽影片倉庫。30 秒原生 · 50 個全模態參考 · 靈活局部編輯。
 
 > 所有提示詞僅用於學習、整理與檢索。如有內容需要移除，請提交 issue。
 
-[![English](https://img.shields.io/badge/English-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/blob/main/README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/blob/main/i18n/README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-%E7%9B%AE%E5%89%8D-brightgreen)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/blob/main/i18n/README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/blob/main/i18n/README_ja.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/blob/main/i18n/README_ko.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/blob/main/i18n/README_th.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/blob/main/i18n/README_vi.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/blob/main/i18n/README_hi.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/blob/main/i18n/README_es.md) [![Deutsch](https://img.shields.io/badge/Deutsch-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/blob/main/i18n/README_de.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/blob/main/i18n/README_fr.md) [![Italiano](https://img.shields.io/badge/Italiano-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/blob/main/i18n/README_it.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/blob/main/i18n/README_pt.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/blob/main/i18n/README_tr.md) [![العربية](https://img.shields.io/badge/%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/blob/main/i18n/README_ar.md) [![Bahasa Indonesia](https://img.shields.io/badge/Bahasa%20Indonesia-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/blob/main/i18n/README_id.md) [![Nederlands](https://img.shields.io/badge/Nederlands-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/blob/main/i18n/README_nl.md) [![Polski](https://img.shields.io/badge/Polski-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/blob/main/i18n/README_pl.md) [![Русский](https://img.shields.io/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/blob/main/i18n/README_ru.md) [![Svenska](https://img.shields.io/badge/Svenska-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/blob/main/i18n/README_sv.md)
+[![English](https://img.shields.io/badge/English-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-%E7%9B%AE%E5%89%8D-brightgreen)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_ja.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_ko.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_th.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_vi.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_hi.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_es.md) [![Deutsch](https://img.shields.io/badge/Deutsch-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_de.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_fr.md) [![Italiano](https://img.shields.io/badge/Italiano-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_it.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_pt.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_tr.md) [![العربية](https://img.shields.io/badge/%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_ar.md) [![Bahasa Indonesia](https://img.shields.io/badge/Bahasa%20Indonesia-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_id.md) [![Nederlands](https://img.shields.io/badge/Nederlands-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_nl.md) [![Polski](https://img.shields.io/badge/Polski-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_pl.md) [![Русский](https://img.shields.io/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_ru.md) [![Svenska](https://img.shields.io/badge/Svenska-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_sv.md)
 
 ---
 
 ## 📖 Contents
 
+- [🧠 Claude Skill: Consistent-Character Video](#-claude-skill-consistent-character-video)
 - [🌐 在 AtlasCloud 查看](#-atlascloud-)
 - [🧩 Supported Models](#-supported-models)
 - [▶ Run any prompt via Atlas Cloud](#-run-any-prompt-via-atlas-cloud)
@@ -26,10 +27,24 @@
 - [More Atlas Cloud Tools](#more-atlas-cloud-tools)
 - [📄 许可证](#-)
 
+## 🧠 Claude Skill: Consistent-Character Video
+
+> 本倉庫自帶一個可安裝的 **Claude Skill**（[`skills/consistent-character-video/`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/consistent-character-video)）：用「先出圖、後生成影片」的流水線，讓角色 / 產品在多鏡頭、30 秒長片中全程一致不漂移 —— 先用圖像模型（Seedream 5 等）鎖定主體與分鏡，再交給 Seedance 2.5 逐鏡動畫化。
+
+**安裝**：把 `skills/consistent-character-video/` 整個資料夾複製到 `~/.claude/skills/`（或專案的 `.claude/skills/`），然後直接讓 Claude「做一條角色一致的影片」即可觸發。
+
+- [`SKILL.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/consistent-character-video/SKILL.md) — 完整流水线：角色圣经 → 角色定妆表 → 分镜九宫格 → 切图 → 逐镜 i2v → 拼接
+- [`references/cinematography.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/consistent-character-video/references/cinematography.md) — 电影语言库：运镜 / 光影 / 构图（中英双语）
+- [`references/prompt-blocks.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/consistent-character-video/references/prompt-blocks.md) · [`prompt-templates.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/consistent-character-video/references/prompt-templates.md) — 提示词框架与各阶段模板（中英双语）
+- [`references/troubleshooting.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/consistent-character-video/references/troubleshooting.md) — 漂移症状 → 原因 → 修复
+- [`scripts/generate.mjs`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/consistent-character-video/scripts/generate.mjs) — 可执行流水线（配置驱动：grid / chain / reference / t2v 多模式）
+
+> 配套教程：[Workflow：Seedream 5 → Seedance 2.5（先圖後影片）](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/docs/workflow-seedream5-seedance2.5.md)。下方 100+ 條分鏡提示詞可直接餵給這條流水線。
+
 ## 🌐 在 AtlasCloud 查看
 
-- 提示词库: [查看](https://www.atlascloud.ai/prompts-hub/seedance-2-5-prompt?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts&locale=zh-TW)
-- 模型页: [查看](https://www.atlascloud.ai/zh-TW/models/bytedance/seedance-2.5/text-to-video?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts)
+- 提示词库: [查看](https://www.atlascloud.ai/prompts-hub/seedance-2-5-prompt?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills&locale=zh-TW)
+- 模型页: [查看](https://www.atlascloud.ai/zh-TW/models/bytedance/seedance-2.5/text-to-video?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills)
 
 ## 🧩 Supported Models
 
@@ -38,7 +53,7 @@
 - 🧊 **3D** — Seed3D 2.0 · Hunyuan 3D Pro · Hunyuan 3D Rapid
 - 💬 **LLM** — Claude · GPT · DeepSeek · MiniMax · Kimi · GLM · Qwen
 - 🔊 **Audio** — Grok TTS
-- 📚 **Explore more** — [300+ models »](https://www.atlascloud.ai/models?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts)
+- 📚 **Explore more** — [300+ models »](https://www.atlascloud.ai/models?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills)
 
 ## ▶ Run any prompt via Atlas Cloud
 
@@ -46,7 +61,7 @@
 
 **CLI:** Prefer the terminal? Use [atlascloud-cli](https://github.com/AtlasCloudAI/cli) to run prompts directly.
 
-**[→ Get your free Atlas Cloud API key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts)**
+**[→ Get your free Atlas Cloud API key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills)**
 
 ## 🤔 Seedance 2.5 模型簡介
 
@@ -68,10 +83,10 @@ Seedance 2.5 是 Seedance 2.0 的重大升級，帶來三大提升：① 30 秒�
 
 | 指標 | 數量 |
 |--------|-------|
-| 提示詞總數 | **11** |
-| 分類數 | **8** |
+| 提示詞總數 | **111** |
+| 分類數 | **27** |
 | 預覽影片數 | **11** |
-| 最後更新 | **2026-07-22T09:55:39.126Z** |
+| 最後更新 | **2026-07-23T03:14:00.832Z** |
 
 ## 🏷️ 按分類瀏覽
 
@@ -83,6 +98,25 @@ Seedance 2.5 是 Seedance 2.0 的重大升級，帶來三大提升：① 30 秒�
 - [`多模態參考（圖片+影片）`](#category-6): **1**
 - [`圖片參考`](#category-7): **1**
 - [`圖片參考（電影感）`](#category-8): **1**
+- [`電商帶貨`](#category-9): **8**
+- [`美食餐飲`](#category-10): **8**
+- [`美妝時尚`](#category-11): **6**
+- [`數碼科技`](#category-12): **6**
+- [`汽車`](#category-13): **4**
+- [`房產與家居`](#category-14): **4**
+- [`人物口播與數位人像`](#category-15): **6**
+- [`短劇與情感敘事`](#category-16): **8**
+- [`品牌電視廣告`](#category-17): **6**
+- [`旅行與文化旅遊`](#category-18): **6**
+- [`寵物與動物`](#category-19): **5**
+- [`兒童教育與科普知識`](#category-20): **5**
+- [`遊戲、CG與幻想`](#category-21): **5**
+- [`動畫與卡通`](#category-22): **4**
+- [`運動與健身`](#category-23): **4**
+- [`音樂、舞蹈與MV`](#category-24): **4**
+- [`節日與節氣`](#category-25): **5**
+- [`自然、天文與紀錄片`](#category-26): **4**
+- [`擬人化與創意梗`](#category-27): **2**
 
 ## 🔥 精選提示詞
 
@@ -623,6 +657,2591 @@ Seedance 2.5 是 Seedance 2.0 的重大升級，帶來三大提升：① 30 秒�
 [醉漢樓頂驚魂——跌落邊緣——抓住繩索穿窗而入——當場昏睡 | 黑色幽默短片 | 約 30 秒] 一句話梗概：一個胖乎乎、可愛、喝醉的中年男人正在一棟樓的樓頂吃漢堡、喝啤酒；他站起來伸懶腰時不慎失足跌落，慌亂中抓住一根救命繩，隨即撞穿一扇窗戶跌進室內，愣神驚呆了一秒，然後就地一躺，呼呼大睡。參考圖 @image1——一個胖乎乎、可愛、喝醉的中年男人：體型圓潤敦實，挺著一個又圓又大的啤酒肚，個子矮，因醉酒動作鬆垮、遲緩、搖搖晃晃；圓臉，雙下巴，臉頰和鼻子因喝酒泛紅，眼睛瞇成一條縫、目光迷離，一圈未修剪的短鬍碴，頭髮凌亂，一副憨傻、可愛、無憂無慮的表情；身穿一件沾著漢堡醬汁的白色背心，鬆垮地耷拉在圓肚子上，一條舊牛仔褲，趿拉著鬆垮的拖鞋挪步，手裡始終攥著一個吃了一半的漢堡。全片只有這一個角色，與參考圖 100% 一致。整體觀感：夜晚的賽博龐克巨型都市，密密麻麻的玻璃鋼鐵摩天樓森林，霓虹招牌（青色 / 洋紅 / 電光藍），全息廣告牌，濕漉漉的反光地面，體積霧，遠處飛行汽車的光軌與無人機。真實的實拍質感，物理電影鏡頭，無 3D 渲染 / 遊戲引擎 / 動漫感。鏡頭混用手持與搖臂 / 無人機；墜落後鏡頭隨他一同俯衝而下，樓體外牆與霓虹向上飛掠以傳達速度感，24-35mm 寬銀幕電影鏡頭質感，180 度快門動態模糊。聲音設計是黑色幽默的關鍵：在 "巨大的轟鳴" 與 "全然的寂靜" 之間反覆硬切。全程真實重力。分鏡（約 30 秒）：S1（0-4s）開場咀嚼大特寫（有聲）男人的臉佔滿整個畫面，大口咀嚼漢堡，一副心滿意足的醉態；S2（4-9s）拉至全景，伸懶腰 -> 失足跌落（有聲）他搖搖晃晃站起身、大大地伸個懶腰，身體後仰，失去平衡，腳一滑便向後翻越樓頂邊緣跌下，手裡始終沒鬆開漢堡，伴著一聲驚慌的 "欸——！"；S3（9-12s）切至受驚面部特寫（一聲大叫，巨大轟鳴）醉眼滾圓暴突，雙下巴擠作一團，嘴大張發出尖叫 "啊——！！"，狂風呼嘯；S4（12-16s）切至平視遠景（全然寂靜）從對面樓看去，一個白色的小小身影從高樓筆直墜下，霓虹都市浩瀚而冷漠，這份全然的寂靜與一秒前的巨大轟鳴構成黑色幽默的反差；S5（16-21s）切至面部特寫（尖叫）-> 抓住繩索，仍在尖叫，雙手在空中亂抓，他忽然抓住一根救命纜繩，纜繩被他的重量猛地繃緊、彎折，發出 "嗡" 的一聲，尖叫戛然而止，他被猛地拽住並盪了出去（抓住繩索的一瞬有短暫慢動作）；S6（21-26s）切至室內視角（安靜）-> 玻璃碎裂 -> 他撞了進來，室內起初安靜，只有空調的嗡嗡聲，下一秒玻璃猛然向內爆裂（短暫子彈時間），醉漢連人帶漢堡撞穿窗戶，碎片呈放射狀飛濺而出，霓虹光湧入，他重重摔進屋內，砸在地板 / 沙發上，碎玻璃叮噹作響；S7（26-30s）結尾，驚愣一秒 -> 睡著，男人四仰八叉癱在地板上，渾身是碎玻璃，仍攥著漢堡，緩緩睜開眼，迷迷糊糊，茫然受驚地愣了整整一秒，四處張望彷彿在想 "我這是在哪兒？"，隨後醉意上湧，他毫不在意地咂咂嘴，把漢堡摟進懷裡，一翻身，就地躺下呼呼大睡，還輕輕打起了鼾，鏡頭拉出並定格，硬切轉黑。僅用現場同期聲，無音樂，無字幕；核心是在 "巨大轟鳴" 與 "寂靜" 之間反覆硬切。
 ```
 
+<a id="category-9"></a>
+
+### 電商帶貨 (8)
+
+### No. 1: 服裝上身展示
+
+- **分類:** `電商帶貨`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+參考圖片1中的模特（面部參考圖片1大頭照，妝造參考圖片2全身照）為主體，豎屏9:16，時尚寫實風，生成30秒服裝展示短片。
+
+#### 提示詞
+
+```text
+參考圖片1中的模特（面部參考圖片1大頭照，妝造參考圖片2全身照）為主體，豎屏9:16，時尚寫實風，生成30秒服裝展示短片。
+Shot 1：中景，模特@Image 1 側身站定忽然轉身甩動風衣下擺，純色影棚柔和頂光勾勒輪廓，鏡頭緩慢推近，（輕快時尚電子樂起）<衣料摩擦聲>。
+Shot 2：特寫，鏡頭平穩橫移掃過肩線走線與翻領縫製細節，側逆光打亮面料光澤。
+Shot 3：全景，模特@Image 1 自然邁步走動展示整體廓形與版型垂墜，鏡頭平穩跟拍。
+Shot 4：中景，模特@Image 1 抬手整理衣領並回眸，鏡頭緩慢環繞半圈。
+Shot 5：中近景，模特@Image 1 定格微笑，鏡頭緩慢拉遠收尾，（音樂收束）。
+約束：模特面部與妝造以圖片1、圖片2為準全程一致；影棚背景與頂光固定不變。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 2: 鞋靴細節
+
+- **分類:** `電商帶貨`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+豎屏9:16，高端質感寫實風，主體為一雙真皮短靴，生成30秒鞋靴細節短片。
+
+#### 提示詞
+
+```text
+豎屏9:16，高端質感寫實風，主體為一雙真皮短靴，生成30秒鞋靴細節短片。
+Shot 1：微距特寫，短靴靜置於啞光石台，鏡頭緩慢推近至鞋頭縫線，冷調側光掃過皮革，（低沉氛圍電子樂起）<皮革輕觸聲>。
+Shot 2：特寫，鏡頭環繞鞋身一周展示流線鞋型與後跟弧度，反光板補光。
+Shot 3：微距特寫，固定機位，指尖翻折鞋舌露出內襯logo與走線。
+Shot 4：中景，穿靴的腳踏地並輕抬鞋跟，鏡頭俯拍向下捕捉著地瞬間，<鞋跟叩地聲>。
+Shot 5：特寫，鏡頭緩慢拉遠定格鞋身全貌，（音樂收束）。
+約束：短靴款式、皮革紋理與配色全程一致；石台與冷調布光鎖定不變；防止左右兩隻鞋型不一致。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 3: 箱包開合演示
+
+- **分類:** `電商帶貨`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+豎屏9:16，簡約高級寫實風，主體為一款通勤手提包，生成30秒箱包功能演示短片。
+
+#### 提示詞
+
+```text
+豎屏9:16，簡約高級寫實風，主體為一款通勤手提包，生成30秒箱包功能演示短片。
+Shot 1：中景，手提包正面立於純色台面，鏡頭緩慢推近至金屬鎖扣，柔和頂光，（清爽輕音樂起）。
+Shot 2：特寫，雙手拉開拉鏈展開主袋，鏡頭俯拍展示內部分層與卡位，<拉鏈滑動聲>。
+Shot 3：特寫，手依次放入筆記型電腦與水壺，鏡頭平穩橫移展示容量。
+Shot 4：中景，單手提起身展示提手承重與挺括感，鏡頭仰拍。
+Shot 5：中景，扣合鎖扣包體歸位，鏡頭緩慢拉遠收尾，（音樂收束）。
+約束：手提包顏色、五金與版型全程一致；台面與頂光鎖定；開合動作連貫不跳變。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 4: 珠寶首飾
+
+- **分類:** `電商帶貨`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+豎屏9:16，奢華精緻寫實風，主體為一條鑽石項鍊，生成30秒珠寶展示短片。
+
+#### 提示詞
+
+```text
+豎屏9:16，奢華精緻寫實風，主體為一條鑽石項鍊，生成30秒珠寶展示短片。
+Shot 1：微距特寫，項鍊盤放於黑絨托盤，鏡頭緩慢推近至主鑽，聚光燈打出火彩，（優雅弦樂起）<細微金屬清響>。
+Shot 2：特寫，鏡頭環繞主鑽半圈捕捉多角度折射光斑，背景壓暗。
+Shot 3：中近景，模特頸部佩戴項鍊，鏡頭升降由鎖骨上移至鏈墜，柔光補面。
+Shot 4：微距特寫，固定機位，鏈墜隨呼吸輕晃閃爍。
+Shot 5：特寫，鏡頭緩慢拉遠聚焦火彩定格，（弦樂收束）。
+約束：項鍊款式、鑽石切工與鑲座全程一致；黑絨背景與聚光布光鎖定；佩戴段頸部膚色與影棚段一致。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 5: 家電展示（破壁機）
+
+- **分類:** `電商帶貨`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+豎屏9:16，明亮廚房生活寫實風，主體為一台高速破壁機，生成30秒家電演示短片。
+
+#### 提示詞
+
+```text
+豎屏9:16，明亮廚房生活寫實風，主體為一台高速破壁機，生成30秒家電演示短片。
+Shot 1：中景，破壁機置於淺色台面，鏡頭緩慢推近至操作面板，晨光斜射，（明快生活輕音樂起）。
+Shot 2：特寫，手倒入水果與冰塊入杯，鏡頭俯拍杯口，<食材落入聲>。
+Shot 3：特寫，按下啟動鍵刀組高速旋轉攪打，鏡頭固定機位貼近杯壁，<破壁轟鳴聲>。
+Shot 4：中景，倒出細膩果昔入玻璃杯，鏡頭平穩橫移跟隨液流。
+Shot 5：中近景，成品果昔與機身同框，鏡頭緩慢拉遠收尾，（音樂收束）。
+約束：破壁機機身顏色、面板與杯體全程一致；廚房台面與晨光鎖定；果昔質地前後連貫。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 6: 母嬰用品
+
+- **分類:** `電商帶貨`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+豎屏9:16，溫柔治癒生活寫實風，主體為一款嬰兒保溫奶瓶，生成30秒母嬰用品展示短片。
+
+#### 提示詞
+
+```text
+豎屏9:16，溫柔治癒生活寫實風，主體為一款嬰兒保溫奶瓶，生成30秒母嬰用品展示短片。
+Shot 1：中近景，奶瓶立於嬰兒房軟墊上，鏡頭緩慢推近至防脹氣奶嘴，暖色柔光，（溫柔鋼琴音樂起）。
+Shot 2：特寫，手旋開瓶蓋展示寬口設計與刻度，鏡頭平穩橫移，<輕柔旋蓋聲>。
+Shot 3：特寫，倒入溫水後手觸瓶身感受恆溫，鏡頭固定機位。
+Shot 4：中景，母親手持奶瓶輕晃試溫準備餵養，鏡頭緩慢升降，<水流輕晃聲>。
+Shot 5：中近景，奶瓶與柔軟玩偶同框定格，鏡頭緩慢拉遠收尾，（音樂收束）。
+約束：奶瓶顏色、瓶身刻度與奶嘴款式全程一致；嬰兒房暖光與軟墊背景鎖定；畫面基調保持柔和溫暖。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 7: 食品禮盒
+
+- **分類:** `電商帶貨`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+豎屏9:16，節慶精緻寫實風，主體為一款中式點心禮盒，生成30秒食品禮盒展示短片。
+
+#### 提示詞
+
+```text
+豎屏9:16，節慶精緻寫實風，主體為一款中式點心禮盒，生成30秒食品禮盒展示短片。
+Shot 1：中景，紅金禮盒靜置於木質桌面，鏡頭緩慢推近至燙金封面，暖調側光，（喜慶國風音樂起）。
+Shot 2：特寫，雙手緩緩揭開盒蓋露出分格點心，鏡頭俯拍全貌，<盒蓋開啟聲>。
+Shot 3：微距特寫，鏡頭平穩橫移掃過每格點心的酥皮與餡料紋理。
+Shot 4：中近景，手拈起一塊點心展示層次，鏡頭緩慢環繞。
+Shot 5：中景，禮盒合攏繫上絲帶，鏡頭緩慢拉遠收尾，（音樂收束）。
+約束：禮盒配色、燙金圖案與點心種類全程一致；木桌與暖調布光鎖定；點心擺放位置前後連貫。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 8: 數碼配件（快閃促銷風，含字幕）
+
+- **分類:** `電商帶貨`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+豎屏9:16，快閃促銷高對比寫實風，主體為一副無線降噪耳機，生成30秒促銷快閃短片。
+
+#### 提示詞
+
+```text
+豎屏9:16，快閃促銷高對比寫實風，主體為一副無線降噪耳機，生成30秒促銷快閃短片。
+Shot 1：特寫，耳機懸浮旋轉於霓虹漸變背景，鏡頭快速推近，（強節奏電子鼓點起）<開機提示音>，【全場直降 ¥300】。
+Shot 2：微距特寫，鏡頭切至耳罩轉軸與充電觸點，硬光高光掃過。
+Shot 3：中景，鏡頭切至佩戴耳機的人隨鼓點點頭，光影頻閃，【主動降噪 40小時續航】。
+Shot 4：特寫，鏡頭快速橫移掠過充電盒開合，<磁吸吸附聲>，【限時秒殺 前100名】。
+Shot 5：中近景，耳機與價格標籤同框，鏡頭快速拉遠定格，（鼓點收束）【立即搶購】。
+約束：耳機配色與外形全程一致；霓虹背景色板鎖定；字幕隨鏡頭切換出現節奏統一，畫面保持高對比促銷感。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+<a id="category-10"></a>
+
+### 美食餐飲 (8)
+
+### No. 1: 火鍋上桌
+
+- **分類:** `美食餐飲`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+豎屏9:16，熱氣騰騰食慾寫實風，主體為一鍋鴛鴦火鍋，生成30秒火鍋上桌短片。
+
+#### 提示詞
+
+```text
+豎屏9:16，熱氣騰騰食慾寫實風，主體為一鍋鴛鴦火鍋，生成30秒火鍋上桌短片。
+Shot 1：中景，鴛鴦鍋端上木桌紅湯翻滾，鏡頭緩慢推近至沸騰油花，暖黃餐廳光，（熱鬧市井音樂起）<湯底咕嘟聲>。
+Shot 2：特寫，手將毛肚下入紅湯七上八下，鏡頭俯拍熱氣升騰，<涮燙聲>。
+Shot 3：微距特寫，鏡頭平穩橫移掃過蝦滑、鮮切牛肉與蔬菜拼盤。
+Shot 4：中近景，筷子夾起裹滿紅油的肉片提拉，鏡頭跟拍向上，<油滴聲>。
+Shot 5：中景，眾人舉筷同框氛圍拉滿，鏡頭緩慢拉遠收尾，（音樂收束）。
+約束：鴛鴦鍋樣式、湯色與菜品擺盤全程一致；餐廳暖光與木桌鎖定；蒸汽與沸騰狀態持續貫穿。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 2: 咖啡拉花
+
+- **分類:** `美食餐飲`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+豎屏9:16，靜謐文藝寫實風，主體為一杯手工拉花拿鐵，生成30秒咖啡拉花短片。
+
+#### 提示詞
+
+```text
+豎屏9:16，靜謐文藝寫實風，主體為一杯手工拉花拿鐵，生成30秒咖啡拉花短片。
+Shot 1：特寫，濃縮咖啡萃取滴落入杯，鏡頭緩慢推近至油脂紋路，窗邊自然光，（舒緩爵士樂起）<萃取滴落聲>。
+Shot 2：中近景，手持奶缸開始注入奶泡，鏡頭固定機位平視液面，<奶泡注入聲>。
+Shot 3：微距特寫，鏡頭俯拍奶泡在咖啡表面暈開成葉形紋路。
+Shot 4：特寫，手腕輕抖收尾拉出葉脈，鏡頭緩慢環繞杯口。
+Shot 5：中景，成品拿鐵端起置於窗邊，鏡頭緩慢拉遠收尾，（音樂收束）。
+約束：拉花圖案由注入到成型連貫一致；窗邊自然光與桌面鎖定；奶泡紋理清晰無斷層。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 3: 甜品切開流心（熔岩巧克力）
+
+- **分類:** `美食餐飲`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+豎屏9:16，濃郁誘人寫實風，主體為一塊熔岩巧克力蛋糕，生成30秒甜品流心短片。
+
+#### 提示詞
+
+```text
+豎屏9:16，濃郁誘人寫實風，主體為一塊熔岩巧克力蛋糕，生成30秒甜品流心短片。
+Shot 1：中近景，熔岩蛋糕盛於白瓷盤撒糖粉，鏡頭緩慢推近，暖調聚光，（輕柔浪漫音樂起）。
+Shot 2：特寫，叉子輕壓蛋糕表層出現裂口，鏡頭固定機位貼近，<酥皮輕裂聲>。
+Shot 3：微距特寫，刀叉切開瞬間巧克力流心緩緩湧出，鏡頭俯拍高潮時刻，<濃漿流淌聲>。
+Shot 4：特寫，叉起一塊拉絲流心提起，鏡頭緩慢升降跟隨拉絲。
+Shot 5：中景，流心蛋糕與冰淇淋同框，鏡頭緩慢拉遠收尾，（音樂收束）。
+約束：蛋糕外殼與流心顏色質地全程一致；白瓷盤與暖調聚光鎖定；流心湧出為核心money shot需清晰突出。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 4: 燒烤炙烤
+
+- **分類:** `美食餐飲`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+橫屏16:9，煙火氣粗獷寫實風，主體為炭火燒烤的肉串，生成30秒燒烤炙烤短片。
+
+#### 提示詞
+
+```text
+橫屏16:9，煙火氣粗獷寫實風，主體為炭火燒烤的肉串，生成30秒燒烤炙烤短片。
+Shot 1：特寫，肉串置於炭火網上油脂滴落起火苗，鏡頭緩慢推近，暖紅炭火光，（動感燒烤氛圍樂起）<炭火滋滋聲>。
+Shot 2：微距特寫，鏡頭平穩橫移掃過肉串焦糖色脆殼與撒落的孜辣椒麵。
+Shot 3：中景，手翻轉肉串騰起煙霧與火光，鏡頭跟拍手部動作，<翻烤爆響>。
+Shot 4：特寫，刷醬筆掃過肉串醬汁滲入，鏡頭固定機位貼近。
+Shot 5：中近景，烤好的肉串碼盤端起，鏡頭緩慢拉遠收尾，（音樂收束）。
+約束：肉串種類與炙烤上色程度前後連貫；炭火與暖紅光鎖定；煙霧與火苗貫穿營造煙火氣。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 5: 日料擺盤
+
+- **分類:** `美食餐飲`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+豎屏9:16，極簡禪意寫實風，主體為一份刺身拼盤，生成30秒日料擺盤短片。
+
+#### 提示詞
+
+```text
+豎屏9:16，極簡禪意寫實風，主體為一份刺身拼盤，生成30秒日料擺盤短片。
+鏡頭1：中景，黑石長盤置於原木檯面，鏡頭緩慢推近，冷調頂光，（清冷古箏音樂起）。
+鏡頭2：特寫，手用鑷子精準擺放鮪魚刺身與紫蘇葉，鏡頭俯拍構圖，<食材輕放聲>。
+鏡頭3：微距特寫，鏡頭平穩橫移掃過鮭魚油脂紋理與冰粒光澤。
+鏡頭4：中近景，澆淋醬油點綴山葵與花瓣，鏡頭緩慢環繞成品。
+鏡頭5：全景，完整刺身拼盤居中定格，鏡頭緩慢拉遠收尾，（音樂收束）。
+約束：刺身種類、切片厚度與擺盤位置全程一致；黑石盤與冷調頂光鎖定；構圖保持極簡留白。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 6: 奶茶製作
+
+- **分類:** `美食餐飲`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+豎屏9:16，清新活力寫實風，主體為一杯手作珍珠奶茶，生成30秒奶茶製作短片。
+
+#### 提示詞
+
+```text
+豎屏9:16，清新活力寫實風，主體為一杯手作珍珠奶茶，生成30秒奶茶製作短片。
+鏡頭1：特寫，煮好的黑糖珍珠倒入杯底掛壁，鏡頭緩慢推近，明亮吧檯光，（輕快流行音樂起）<珍珠落杯聲>。
+鏡頭2：中近景，手持奶缸注入現萃茶湯與鮮奶，鏡頭固定機位平視分層，<注入聲>。
+鏡頭3：微距特寫，鏡頭俯拍冰塊投入激起茶奶交融，<冰塊碰撞聲>。
+鏡頭4：特寫，封口機壓合杯膜插入吸管，鏡頭跟拍插管動作，<戳膜聲>。
+鏡頭5：中景，手舉成品奶茶輕搖展示珍珠翻湧，鏡頭緩慢拉遠收尾，（音樂收束）。
+約束：奶茶分層與珍珠顏色全程一致；吧檯明亮光與背景鎖定；製作步驟順序連貫不跳變。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 7: 麵點拉麵
+
+- **分類:** `美食餐飲`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+橫屏16:9，匠心手作寫實風，主體為手工拉麵製作，生成30秒拉麵短片。
+
+#### 提示詞
+
+```text
+橫屏16:9，匠心手作寫實風，主體為手工拉麵製作，生成30秒拉麵短片。
+鏡頭1：中景，麵案上揉好的麵糰靜置，雙手按壓回醒，鏡頭緩慢推近，暖調廚房光，（明快民樂起）<揉麵聲>。
+鏡頭2：特寫，雙手抻拉麵糰反覆對折甩打案板，鏡頭跟拍手部弧線，<甩麵擊案聲>。
+鏡頭3：中近景，麵條越拉越細成絲下入沸鍋，鏡頭俯拍熱氣翻騰，<下鍋沸響>。
+鏡頭4：特寫，撈起麵條碼入海碗澆上高湯，鏡頭平穩橫移展示湯頭。
+鏡頭5：中景，撒蔥花擺牛肉完成成品，鏡頭緩慢拉遠收尾，（音樂收束）。
+約束：麵條粗細與成品澆頭前後連貫；廚房暖光與麵案鎖定；抻拉動作連貫體現手工感。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 8: 早餐場景（一鏡到底）
+
+- **分類:** `美食餐飲`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+豎屏9:16，溫暖治癒生活寫實風，主體為一份中式早餐，生成30秒早餐場景一鏡到底短片。
+
+#### 提示詞
+
+```text
+豎屏9:16，溫暖治癒生活寫實風，主體為一份中式早餐，生成30秒早餐場景一鏡到底短片。
+鏡頭1：一鏡到底跟拍，晨光透過窗簾灑落餐桌，鏡頭緩慢推近熱氣騰騰的小籠包，（溫柔晨間鋼琴樂起）<蒸籠揭蓋聲>。
+鏡頭2：同一長鏡頭順勢平穩橫移，滑過金黃煎蛋、油條與豆漿，熱氣與光斑流動。
+鏡頭3：同一長鏡頭順勢緩慢升降，手夾起小籠包蘸醋提起，<湯汁滴落聲>。
+鏡頭4：同一長鏡頭順勢環繞小半圈，掠過餐桌旁翻開的書頁與冒煙咖啡杯。
+鏡頭5：同一長鏡頭順勢緩慢拉遠，定格溫馨早餐全景，（音樂收束）。
+約束：全程保持單一不間斷長鏡頭運動無剪切；餐品擺盤與晨光基調全程一致；鏡頭移動平滑銜接體現一鏡到底質感。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+<a id="category-11"></a>
+
+### 美妝時尚 (6)
+
+### No. 1: 口紅試色
+
+- **分類:** `美妝時尚`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+參考圖片1中的口紅（膏體色號與管身logo以圖片1為準）為主體，豎屏9:16，高飽和美妝質感，生成30秒試色短片。
+
+#### 提示詞
+
+```text
+參考圖片1中的口紅（膏體色號與管身logo以圖片1為準）為主體，豎屏9:16，高飽和美妝質感，生成30秒試色短片。
+鏡頭1：極近特寫，口紅@圖片1 膏體緩緩旋出，絨面反光流轉，鏡頭緩慢推近，（清脆電子音樂起）<旋蓋輕響>。
+鏡頭2：特寫，鏡頭平穩橫移掃過唇部，膏體一筆劃過雙唇留下飽滿色澤。
+鏡頭3：中近景，仰拍模特抿唇微笑，唇色在柔光下顯色，【今日色號 · 正紅】。
+鏡頭4：特寫，鏡頭環繞模特側臉，唇部高光隨轉頭流動。
+鏡頭5：中景，模特手持口紅@圖片1 對鏡定格，鏡頭緩慢拉遠，（音樂收束）。
+約束：膏體色號與管身logo以圖片1為準不改；唇色須與膏體色一致。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 2: 粉底上妝
+
+- **分類:** `美妝時尚`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+參考圖片1中的粉底瓶（瓶身與滴管以圖片1為準）為主體，豎屏9:16，乾淨通透的護膚妝感，生成30秒上妝短片。
+
+#### 提示詞
+
+```text
+參考圖片1中的粉底瓶（瓶身與滴管以圖片1為準）為主體，豎屏9:16，乾淨通透的護膚妝感，生成30秒上妝短片。
+鏡頭1：極近特寫，一滴粉底@圖片1 從滴管垂落至手背，質地盪開，鏡頭緩慢推近，<液滴滴落聲>。
+鏡頭2：特寫，鏡頭平穩橫移，美妝蛋在臉頰按壓暈開，肌理逐漸均勻。
+鏡頭3：中近景，跟拍模特轉頭，臉頰在自然光下呈現無瑕光澤。
+鏡頭4：特寫，仰拍模特閉眼上妝，睫毛投下柔影，（輕柔鋼琴音樂）。
+鏡頭5：中景，模特手持粉底瓶@圖片1 微笑定格，鏡頭緩慢拉遠，【裸感無瑕】。
+約束：瓶身與滴管以圖片1為準；妝面須真實無過度磨皮塑膠感。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 3: 香水氛圍
+
+- **分類:** `美妝時尚`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+參考圖片1中的香水瓶（瓶型與刻字以圖片1為準）為主體，橫屏16:9，法式復古氛圍光影，生成30秒氛圍短片。
+
+#### 提示詞
+
+```text
+參考圖片1中的香水瓶（瓶型與刻字以圖片1為準）為主體，橫屏16:9，法式復古氛圍光影，生成30秒氛圍短片。
+Shot 1：特寫，香水瓶@Image 1 立於窗邊石台，晨光穿瓶折射光斑，鏡頭緩慢推近，（弦樂氛圍起）。
+Shot 2：中景，鏡頭緩慢環繞瓶身，玻璃切面反射流轉的暖光。
+Shot 3：特寫，仰拍噴霧瞬間，霧珠在逆光中懸浮成金色微塵，<噴霧輕響>。
+Shot 4：中近景，跟拍霧氣飄向紗簾，簾影隨風輕擺。
+Shot 5：中景，香水瓶@Image 1 回落石台定格，鏡頭緩慢拉遠，（弦樂漸弱）。
+約束：瓶型與瓶身刻字以圖片1為準；氛圍鎖定暖調法式復古不偏冷色。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 4: 護膚精華滴落
+
+- **分類:** `美妝時尚`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+參考圖片1中的精華瓶（瓶身與滴管刻度以圖片1為準）為主體，豎屏9:16，晶瑩通透的高保濕質感，生成30秒質地短片。
+
+#### 提示詞
+
+```text
+參考圖片1中的精華瓶（瓶身與滴管刻度以圖片1為準）為主體，豎屏9:16，晶瑩通透的高保濕質感，生成30秒質地短片。
+Shot 1：極近特寫，滴管懸於半空，一滴精華@Image 1 將墜未墜，鏡頭固定機位，<細微氣泡聲>。
+Shot 2：極近特寫，精華垂落砸入水面，慢速漣漪擴散，鏡頭緩慢推近，（水滴音樂點綴）。
+Shot 3：特寫，鏡頭平穩橫移，精華在指尖拉出晶瑩絲線。
+Shot 4：中近景，俯拍精華塗抹於手背，光澤如鏡面鋪展。
+Shot 5：中景，精華瓶@Image 1 立於水光背景定格，鏡頭緩慢升起，【24小時鎖水】。
+約束：瓶身與滴管刻度以圖片1為準；質地須透亮拉絲不渾濁。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 5: 時尚街拍
+
+- **分類:** `美妝時尚`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+參考圖片1中的模特造型（服裝與配飾以圖片1為準）為主體，豎屏9:16，膠片顆粒都市街頭感，生成30秒街拍短片。
+
+#### 提示詞
+
+```text
+參考圖片1中的模特造型（服裝與配飾以圖片1為準）為主體，豎屏9:16，膠片顆粒都市街頭感，生成30秒街拍短片。
+Shot 1：中景，模特@Image 1 推開玻璃門邁出街頭，風揚起衣擺，鏡頭跟拍，（復古disco節奏起）。
+Shot 2：全景，鏡頭平穩橫移追隨模特走過霓虹櫥窗，倒影流動。
+Shot 3：中近景，仰拍模特回眸摘下墨鏡，逆光勾出發絲金邊。
+Shot 4：特寫，鏡頭緩慢推近配飾細節，金屬反光閃爍。
+Shot 5：全景，模特@Image 1 站定街心張手定格，鏡頭緩慢拉遠升起，【CITY WALK】（音樂收束）。
+約束：服裝與配飾以圖片1為準不改款式；膠片顆粒與都市霓虹色調鎖定全程。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 6: 髮型展示
+
+- **分類:** `美妝時尚`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+參考圖片1中的模特髮型（髮色與造型以圖片1為準）為主體，豎屏9:16，沙龍廣告級柔光質感，生成30秒髮型短片。
+
+#### 提示詞
+
+```text
+參考圖片1中的模特髮型（髮色與造型以圖片1為準）為主體，豎屏9:16，沙龍廣告級柔光質感，生成30秒髮型短片。
+Shot 1：特寫，模特@Image 1 低頭蓄勢，髮絲垂落遮面，鏡頭固定機位，（節奏音樂前奏）。
+Shot 2：中近景，模特猛然甩頭，髮絲在慢速中揚起弧線，鏡頭緩慢拉遠，<甩髮風聲>。
+Shot 3：特寫，鏡頭環繞頭部，光影掃過髮絲的順滑高光。
+Shot 4：中景，跟拍模特手指穿過髮間，髮流層次分明落下。
+Shot 5：中近景，模特@Image 1 轉身回眸定格，髮型定型飽滿，鏡頭緩慢推近，【光澤如鏡】。
+約束：髮色與造型輪廓以圖片1為準；甩髮須自然順滑無穿模斷裂。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+<a id="category-12"></a>
+
+### 數碼科技 (6)
+
+### No. 1: 手機產品旋轉
+
+- **分類:** `數碼科技`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+參考圖片1中的手機（機身與logo以圖片1為準）為主體，橫屏16:9，科技高級感冷調，生成30秒產品展示片。
+
+#### 提示詞
+
+```text
+參考圖片1中的手機（機身與logo以圖片1為準）為主體，橫屏16:9，科技高級感冷調，生成30秒產品展示片。
+Shot 1：極近特寫，手機@Image 1 在深色台面亮屏點亮，冷光勾邊，鏡頭緩慢推近，（低頻電子音起）。
+Shot 2：中景，鏡頭平穩環繞展示手機@Image 1 背板金屬質感與攝像頭模組。
+Shot 3：特寫，鏡頭緩慢橫移掃過側邊按鍵與接口細節。
+Shot 4：中近景，仰拍手機@Image 1 緩緩立起懸浮，冷光自底部漫上。
+Shot 5：中景，手機@Image 1 懸浮旋轉定格，鏡頭緩慢拉遠，（音樂收束）。
+約束：機身與logo以圖片1為準不改設計；不虛構界面內容；冷調工業光鎖定全程。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 2: 耳機彈出充電倉
+
+- **分類:** `數碼科技`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+參考圖片1中的耳機充電倉（外形與logo以圖片1為準）為主體，橫屏16:9，極簡純白棚拍質感，生成30秒開箱短片。
+
+#### 提示詞
+
+```text
+參考圖片1中的耳機充電倉（外形與logo以圖片1為準）為主體，橫屏16:9，極簡純白棚拍質感，生成30秒開箱短片。
+Shot 1：極近特寫，充電倉@Image 1 靜置純白台面，指尖將至倉蓋，鏡頭固定機位，（清脆提示音）。
+Shot 2：特寫，倉蓋緩緩掀開，指示燈點亮，鏡頭緩慢推近，<開合卡扣聲>。
+Shot 3：中近景，耳機自倉內緩緩升起懸浮，鏡頭緩慢升降跟隨。
+Shot 4：特寫，鏡頭環繞單隻耳機，展示入耳角度與麥克風開孔。
+Shot 5：中景，耳機與充電倉@Image 1 並置定格，鏡頭緩慢拉遠，【無縫隨身】。
+約束：外形與logo以圖片1為準不改結構；純白無縫背景鎖定不加雜物。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 3: 筆記本開合
+
+- **分類:** `數碼科技`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+參考圖片1中的筆記型電腦（外殼與logo以圖片1為準）為主體，橫屏16:9，高級金屬冷光質感，生成30秒展示短片。
+
+#### 提示詞
+
+```text
+參考圖片1中的筆記型電腦（外殼與logo以圖片1為準）為主體，橫屏16:9，高級金屬冷光質感，生成30秒展示短片。
+Shot 1：極近特寫，筆記本@Image 1 合蓋側躺，冷光掃過鋁合金轉軸，鏡頭緩慢橫移，（低頻氛圍音起）。
+Shot 2：中近景，屏軸緩緩開合至立起，螢幕漸亮，鏡頭緩慢推近，<轉軸阻尼聲>。
+Shot 3：特寫，俯拍鍵盤背光逐鍵點亮，光波流過。
+Shot 4：中景，鏡頭平穩環繞展示機身超薄側面與接口。
+Shot 5：中景，筆記本@Image 1 半開姿態懸浮定格，鏡頭緩慢拉遠，（音樂收束）。
+約束：外殼厚度與logo以圖片1為準；不虛構螢幕UI具體內容；金屬冷光鎖定全程。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 4: 智慧手錶介面
+
+- **分類:** `數碼科技`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+參考圖片1中的智慧手錶（錶殼與錶帶以圖片1為準）為主體，豎屏9:16，明快活力科技感，生成30秒功能短片。
+
+#### 提示詞
+
+```text
+參考圖片1中的智慧手錶（錶殼與錶帶以圖片1為準）為主體，豎屏9:16，明快活力科技感，生成30秒功能短片。
+Shot 1：極近特寫，手錶@Image 1 錶盤抬腕亮屏，動效展開，鏡頭緩慢推近，（明快電子音樂起）。
+Shot 2：特寫，鏡頭緩慢橫移，錶冠轉動切換錶盤卡片。
+Shot 3：中近景，跟拍手腕擺動，運動數據環隨動作跳動。
+Shot 4：特寫，環繞展示錶殼側邊與錶帶扣合質感。
+Shot 5：中景，手錶@Image 1 佩戴於腕定格抬起，鏡頭緩慢拉遠，【全天候守護】。
+約束：錶殼與錶帶以圖片1為準；介面動效簡潔不虛構具體數值細節。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 5: 無人機飛行
+
+- **分類:** `數碼科技`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+參考圖片1中的無人機（機身與槳葉以圖片1為準）為主體，橫屏16:9，開闊航拍紀實感，生成30秒飛行短片。
+
+#### 提示詞
+
+```text
+參考圖片1中的無人機（機身與槳葉以圖片1為準）為主體，橫屏16:9，開闊航拍紀實感，生成30秒飛行短片。
+Shot 1：中近景，無人機@Image 1 自草地緩緩升空，槳葉高速虛化，鏡頭緩慢升降跟隨，<槳葉嗡鳴>（氛圍音樂起）。
+Shot 2：特寫，鏡頭環繞懸停機身，雲台微調鏡頭方向。
+Shot 3：全景，跟拍無人機掠過湖面，倒影隨之滑行。
+Shot 4：大遠景，俯拍無人機飛越山脊，大地在下方鋪展。
+Shot 5：中景，無人機@Image 1 平穩返航懸停定格，鏡頭緩慢拉遠，（音樂收束）。
+約束：機身與槳葉結構以圖片1為準；飛行姿態須穩定符合真實空氣動力不漂移抖動。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 6: 晶片微距（科技紀實）
+
+- **分類:** `數碼科技`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+參考圖片1中的晶片（封裝與絲印以圖片1為準）為主體，橫屏16:9，冷峻科技紀實微距質感，生成30秒微距短片。
+
+#### 提示詞
+
+```text
+參考圖片1中的晶片（封裝與絲印以圖片1為準）為主體，橫屏16:9，冷峻科技紀實微距質感，生成30秒微距短片。
+Shot 1：極近微距特寫，晶片@Image 1 靜臥電路板，金針腳泛冷光，鏡頭緩慢推近，（低頻工業音起）。
+Shot 2：微距特寫，鏡頭平穩橫移掃過封裝表面絲印與切割邊緣。
+Shot 3：微距特寫，俯拍焊點與走線，景深淺至一線清晰。
+Shot 4：中近景，鏡頭緩慢拉遠露出整塊電路板陣列，指示燈明滅。
+Shot 5：特寫，晶片@Image 1 在冷光中定格，鏡頭緩慢環繞收尾，（音樂漸弱）。
+約束：封裝型號與絲印以圖片1為準不改；微距景深真實不虛構不存在的電路結構。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+<a id="category-13"></a>
+
+### 汽車 (4)
+
+### No. 1: 夜景跟拍
+
+- **分類:** `汽車`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+參考圖片1中的汽車（車型與車漆以圖片1為準）為主體，橫屏16:9，賽博夜景電影質感，生成30秒跟拍短片。
+
+#### 提示詞
+
+```text
+參考圖片1中的汽車（車型與車漆以圖片1為準）為主體，橫屏16:9，賽博夜景電影質感，生成30秒跟拍短片。
+Shot 1：中近景，車@Image 1 停於霓虹街口，車燈點亮，雨面倒映光色，鏡頭緩慢推近，（低音電子節奏起）<引擎輕吼>。
+Shot 2：中景，側向跟拍車輛駛過霓虹長街，光帶在車漆流淌。
+Shot 3：特寫，鏡頭平穩橫移掃過前臉大燈與格柵冷光。
+Shot 4：全景，仰拍車輛穿越隧道，頂燈條狀光影快速掠過。
+Shot 5：中景，車@Image 1 駛出隧道減速定格，鏡頭緩慢拉遠升起，（節奏收束）。
+約束：車型與車漆顏色以圖片1為準不改；夜景霓虹與濕地反光氛圍鎖定全程。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 2: 細節特寫快切
+
+- **分類:** `汽車`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+參考圖片1中的汽車（車型與車漆以圖片1為準）為主體，橫屏16:9，硬朗高對比工業質感，生成30秒細節短片。
+
+#### 提示詞
+
+```text
+參考圖片1中的汽車（車型與車漆以圖片1為準）為主體，橫屏16:9，硬朗高對比工業質感，生成30秒細節短片。
+Shot 1：極近特寫，車@Image 1 大燈亮起燈眉線，冷光勾勒稜角，鏡頭緩慢推近，（急促鼓點起）。
+Shot 2：特寫，鏡頭切至輪轂，慢速旋轉反射光斑。
+Shot 3：特寫，鏡頭切至車標與格柵，金屬高光掃過。
+Shot 4：特寫，鏡頭切至排氣與尾翼線條，鏡頭平穩橫移。
+Shot 5：中景，車@Image 1 整車定格於光束中，鏡頭緩慢拉遠，（鼓點收束）【每處皆鋒芒】。
+約束：車型與車漆以圖片1為準；快切每鏡聚焦單一部件不重複；高對比硬光鎖定全程。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 3: 越野場景
+
+- **分類:** `汽車`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+參考圖片1中的越野車（車型與車漆以圖片1為準）為主體，橫屏16:9，粗礪荒野紀實感，生成30秒越野短片。
+
+#### 提示詞
+
+```text
+參考圖片1中的越野車（車型與車漆以圖片1為準）為主體，橫屏16:9，粗礪荒野紀實感，生成30秒越野短片。
+Shot 1：中景，越野車@Image 1 衝上沙丘揚起塵浪，鏡頭跟拍，<輪胎碾砂聲>（激昂鼓樂起）。
+Shot 2：特寫，仰拍車輪碾過碎石，泥砂飛濺鏡頭。
+Shot 3：全景，側向平穩橫移追隨車輛涉過淺溪，水花四濺。
+Shot 4：大遠景，俯拍越野車穿行荒原車轍，塵煙拖長。
+Shot 5：中景，越野車@Image 1 登頂山脊停穩定格，鏡頭緩慢升起拉遠，（鼓樂收束）。
+約束：車型與車漆以圖片1為準；越野動態須符合真實地形物理不懸浮打滑失真。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 4: 內飾展示
+
+- **分類:** `汽車`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+參考圖片1中的汽車內飾（材質與配色以圖片1為準）為主體，橫屏16:9，溫潤高級座艙光感，生成30秒內飾短片。
+
+#### 提示詞
+
+```text
+參考圖片1中的汽車內飾（材質與配色以圖片1為準）為主體，橫屏16:9，溫潤高級座艙光感，生成30秒內飾短片。
+Shot 1：極近特寫，內飾@Image 1 真皮座椅縫線在暖光下起伏，鏡頭緩慢橫移，（舒緩氛圍音樂起）。
+Shot 2：中近景，鏡頭緩慢推近中控屏，氛圍燈漸次點亮。
+Shot 3：特寫，環繞方向盤與撥片，金屬飾條反光流轉。
+Shot 4：中景，俯拍座艙全景，天窗光自上傾落。
+Shot 5：中近景，鏡頭緩慢升起收於座艙定格，暖光瀰漫，（音樂漸弱）【靜謐座艙】。
+約束：材質與配色以圖片1為準不改；不虛構中控屏具體UI內容；暖調座艙光鎖定全程。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+<a id="category-14"></a>
+
+### 房產與家居 (4)
+
+### No. 1: 客廳空間漫遊
+
+- **分類:** `房產與家居`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+豎屏9:16，房產品質宣傳片、明亮通透暖白調，生成30秒客廳空間漫遊短片。
+
+#### 提示詞
+
+```text
+豎屏9:16，房產品質宣傳片、明亮通透暖白調，生成30秒客廳空間漫遊短片。
+Shot 1：固定機位，晨光從落地窗斜射入空蕩客廳，塵埃在光柱中浮動，（舒緩鋼琴起）。
+Shot 2：平穩橫移，鏡頭貼地掠過原木地板與米色布藝沙發，抱枕紋理清晰，<腳步輕響>。
+Shot 3：緩慢推近，聚焦茶几上一杯冒著熱氣的咖啡與攤開的書，暖光灑落，（弦樂疊入）。
+Shot 4：升降，機位由地面緩緩抬升，展現客廳與開放式餐廚的通透格局，【建面98㎡ 南北通透】。
+Shot 5：緩慢拉遠，退回至玄關回望整個客廳縱深，暖白定格，（音樂收束）。
+約束：全程無人物出鏡；家具陳設風格統一為現代簡約原木風；光線保持晨間暖白一致。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 2: 廚房細節
+
+- **分類:** `房產與家居`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+豎屏9:16，高端家電質感廣告、冷靜金屬灰配暖木色，生成30秒廚房細節短片。
+
+#### 提示詞
+
+```text
+豎屏9:16，高端家電質感廣告、冷靜金屬灰配暖木色，生成30秒廚房細節短片。
+Shot 1：特寫，水龍頭流水傾瀉在不鏽鋼台盆，水珠飛濺慢感，<水流嘩嘩>。
+Shot 2：平穩橫移，鏡頭沿石英石台面滑過刀具、砧板與新鮮蔬果，冷光提亮，（輕快節奏起）。
+Shot 3：緩慢推近，抽屜自動滑出展示分格收納與啞光把手，暖木色調，<抽屜順滑軌道聲>。
+Shot 4：俯拍，燃氣灶藍焰點燃、鍋中油花跳動，熱氣升騰，<點火咔噠><油爆滋滋>。
+Shot 5：仰拍，機位由灶台仰望頂部油煙機與嵌入式燈帶，金屬反光，【嵌入式集成廚電】，（音樂收束）。
+約束：全程無人物出鏡；台面始終整潔無雜物；金屬與木色材質質感全程一致。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 3: 戶型俯瞰（示意）
+
+- **分類:** `房產與家居`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+橫屏16:9，建築可視化示意風、乾淨白模配柔和天光，生成30秒戶型俯瞰示意短片。
+
+#### 提示詞
+
+```text
+橫屏16:9，建築可視化示意風、乾淨白模配柔和天光，生成30秒戶型俯瞰示意短片。
+Shot 1：俯拍，正上方垂直俯視完整戶型白模平面，隔斷線清晰，（極簡電子音起）。
+Shot 2：緩慢推近，鏡頭下探穿過"消失的天花板"進入客廳示意區，家具以半透明呈現，<空間切換音效>。
+Shot 3：環繞，繞主臥示意區旋轉一週，展示飄窗與衣帽間動線，柔光漸亮，（節奏漸強）。
+Shot 4：平穩橫移，沿走廊示意動線滑向次臥與衛生間，標註浮現，【三室兩廳 動靜分區】。
+Shot 5：升降，機位拔高回到全局俯瞰並疊加面積數據，天光定格，（音樂收束）。
+約束：全程為示意白模非實景，需標註"示意圖僅供參考"字樣；戶型比例結構全程一致；無真實人物家具。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 4: 臥室氛圍
+
+- **分類:** `房產與家居`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+豎屏9:16，慢生活氛圍廣告、暖橙夜燈柔調，生成30秒臥室氛圍短片。
+
+#### 提示詞
+
+```text
+豎屏9:16，慢生活氛圍廣告、暖橙夜燈柔調，生成30秒臥室氛圍短片。
+Shot 1：固定機位，床頭暖燈亮起瞬間照亮素色床品與半掩的窗簾，（氛圍音樂起）。
+Shot 2：緩慢推近，鏡頭貼近枕邊掠過柔軟被褶與攤放的書本，光影漸暖，<窗外細雨聲>。
+Shot 3：平穩橫移，沿床尾滑過飄窗上的綠植與香薰，暖橙光暈流動，（鋼琴輕點）。
+Shot 4：升降，機位緩緩抬升俯瞰整床與吊燈柔光，營造安睡包圍感，【臥室採光通風俱佳】。
+Shot 5：緩慢拉遠，退至房門口回望暖燈下的臥室全景，柔調定格，（音樂收束）。
+約束：全程無人物出鏡；燈光維持暖橙夜調一致；床品陳設保持素雅統一風格。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+<a id="category-15"></a>
+
+### 人物口播與數位人像 (6)
+
+### No. 1: 知識口播
+
+- **分類:** `人物口播與數位人像`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+主播綁定@圖片1（面部妝造以對應圖為準），豎屏9:16，知識博主乾淨演播風、明亮柔光，生成30秒知識口播短片。
+
+#### 提示詞
+
+```text
+主播綁定@圖片1（面部妝造以對應圖為準），豎屏9:16，知識博主乾淨演播風、明亮柔光，生成30秒知識口播短片。
+Shot 1：中近景，主播@Image 1 直視鏡頭身體前傾拋出問題，淺景深書架背景，固定機位，{你知道90%的人都用錯了嗎？}。
+Shot 2：緩慢推近，主播@Image 1 邊說邊豎起手指強調，眼神篤定，暖光提亮，（輕快背景樂起）。
+Shot 3：鏡頭切至，屏幕右側浮現要點圖示，主播@Image 1 側身指向，平穩橫移，【要點一 二 三】。
+Shot 4：中近景，主播@Image 1 回正身體微笑總結，語氣放緩，固定機位，{記住這三點就夠了}。
+Shot 5：緩慢拉遠，主播@Image 1 點頭收尾並招手，柔光定格，（音樂收束）。
+約束：主播面部以圖片1為準全程一致；口型與台詞嚴格對齊；演播背景固定不變。
+通用約束：保持無字幕；不要生成 Logo；不要生成水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 2: 新聞播報
+
+- **分類:** `人物口播與數位人像`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+主播綁定@圖片1（面部妝造以對應圖為準），橫屏16:9，權威新聞演播室、冷藍專業調，生成30秒新聞播報短片。
+
+#### 提示詞
+
+```text
+主播綁定@圖片1（面部妝造以對應圖為準），橫屏16:9，權威新聞演播室、冷藍專業調，生成30秒新聞播報短片。
+Shot 1：中景，主播@Image 1 正襟危坐正視鏡頭開場，身後藍色演播屏，固定機位，{觀眾朋友晚上好，歡迎收看本期播報}。
+Shot 2：緩慢推近，主播@Image 1 神情嚴肅播報導語，語速平穩，冷藍光，【今日要聞】。
+Shot 3：鏡頭切至，主播@Image 1 右後方浮現新聞畫面窗口，平穩橫移，<演播室提示音>。
+Shot 4：中近景，主播@Image 1 轉向另一機位繼續播報，眼神切換自然，固定機位，（低沉背景樂）。
+Shot 5：緩慢拉遠，主播@Image 1 雙手交疊致意收尾，冷藍定格，{感謝收看，我們下期再見}。
+約束：主播面部以圖片1為準全程一致；口型與台詞嚴格對齊；坐姿端正專業，演播室背景固定。
+通用約束：保持無字幕；不要生成 Logo；不要生成水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 3: 帶貨口播
+
+- **分類:** `人物口播與數位人像`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+主播綁定@圖片2（面部妝造以對應圖為準），豎屏9:16，直播帶貨熱鬧風、明亮高飽和暖調，生成30秒帶貨口播短片。
+
+#### 提示詞
+
+```text
+主播綁定@圖片2（面部妝造以對應圖為準），豎屏9:16，直播帶貨熱鬧風、明亮高飽和暖調，生成30秒帶貨口播短片。
+Shot 1：中近景，主播@Image 2 雙手舉起產品湊近鏡頭熱情吆喝，固定機位，{家人們看過來，今天這款真的絕了！}。
+Shot 2：緩慢推近，主播@Image 2 手指劃過產品賣點，表情誇張興奮，高飽和暖光，<叮 上連結音效>。
+Shot 3：鏡頭切至，屏幕左下浮現價格爆炸貼，主播@Image 2 拍手強調，平穩橫移，【限時直降 僅99】。
+Shot 4：中景，主播@Image 2 舉起產品左右展示細節，語速加快，固定機位，（激昂促銷樂）。
+Shot 5：緩慢推近，主播@Image 2 豎大拇指催單收尾，暖調定格，{手慢無，趕緊下單！}。
+約束：主播面部以圖片2為準全程一致；口型與台詞嚴格對齊；產品外觀保持一致；背景貨架陳列固定。
+通用約束：保持無字幕；不要生成 Logo；不要生成水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 4: 深夜情感電台
+
+- **分類:** `人物口播與數位人像`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+主播綁定@圖片3（面部妝造以對應圖為準），豎屏9:16，深夜電台氛圍、暖橙微光低對比，生成30秒情感電台短片。
+
+#### 提示詞
+
+```text
+主播綁定@圖片3（面部妝造以對應圖為準），豎屏9:16，深夜電台氛圍、暖橙微光低對比，生成30秒情感電台短片。
+Shot 1：中近景，主播@Image 3 側對麥克風閉眼輕聲開口，暖橙檯燈打側光，固定機位，（溫柔鋼琴起）{夜深了，還沒睡的你還好嗎}。
+Shot 2：緩慢推近，主播@Image 3 睜眼望向虛空神情溫柔，眼底泛光，暖光暈染，<窗外夜雨輕響>。
+Shot 3：平穩橫移，鏡頭掠過桌面的耳機與溫熱的茶杯，主播@Image 3 入畫低語，（鋼琴漸強）。
+Shot 4：特寫，主播@Image 3 嘴角微揚輕聲安慰，睫毛微顫，暖橙微光，{願你被這個世界溫柔以待}。
+Shot 5：緩慢拉遠，主播@Image 3 摘下耳機低頭微笑收尾，微光定格，（音樂收束）。
+約束：主播面部以圖片3為準全程一致；口型與台詞嚴格對齊；情緒用睫毛微顫與眼底泛光外化，禁止直白旁白式表演；暖橙夜調全程一致。
+通用約束：保持無字幕；不要生成 Logo；不要生成水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 5: 教學講師
+
+- **分類:** `人物口播與數位人像`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+講師綁定@圖片1（面部妝造以對應圖為準），橫屏16:9，在線課堂明亮專業、白板清爽調，生成30秒教學講師短片。
+
+#### 提示詞
+
+```text
+講師綁定@圖片1（面部妝造以對應圖為準），橫屏16:9，在線課堂明亮專業、白板清爽調，生成30秒教學講師短片。
+Shot 1：中景，講師@Image 1 站於白板前轉身面向鏡頭開講，手持記號筆，固定機位，{這節課我們只講一個核心公式}。
+Shot 2：平穩橫移，講師@Image 1 邊走邊在白板書寫關鍵詞，鏡頭隨其移動，明亮白光，<記號筆書寫聲>。
+Shot 3：鏡頭切至，白板板書區放大浮現公式高亮，講師@Image 1 側身指點，緩慢推近，【核心公式】。
+Shot 4：中近景，講師@Image 1 轉回鏡頭舉例講解，表情生動，固定機位，（輕快學習背景樂）。
+Shot 5：緩慢拉遠，講師@Image 1 雙手一攤微笑收束並點頭，白光定格，{聽懂了嗎，下節課見}。
+約束：講師面部以圖片1為準全程一致；口型與台詞嚴格對齊；白板板書內容前後連貫；課堂背景固定。
+通用約束：保持無字幕；不要生成 Logo；不要生成水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 6: 多語言分身（含編輯任務思路）
+
+- **分類:** `人物口播與數位人像`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+數字人綁定@圖片1（面部妝造以對應圖為準），豎屏9:16，跨國品牌統一演播風、簡潔科技藍調，生成30秒多語言分身短片。
+
+#### 提示詞
+
+```text
+數字人綁定@圖片1（面部妝造以對應圖為準），豎屏9:16，跨國品牌統一演播風、簡潔科技藍調，生成30秒多語言分身短片。
+Shot 1：中近景，數字人@Image 1 正視鏡頭用中文問候開場，科技藍背景屏，固定機位，{大家好，歡迎了解我們的產品}【中文】。
+Shot 2：鏡頭切至，同一數字人@Image 1 無縫切換英文口播，口型對齊英文，緩慢推近，{Hello everyone, welcome}【English】。
+Shot 3：鏡頭切至，數字人@Image 1 切換日語問候，神態一致，平穩橫移，{皆さんこんにちは}【日本語】。
+Shot 4：中景，數字人@Image 1 張開雙臂歡迎手勢，背景浮現多語言字幕流，固定機位，（科技感背景樂）。
+Shot 5：緩慢拉遠，數字人@Image 1 微笑點頭收尾，藍調定格，（音樂收束）。
+約束：編輯任務思路——先生成中文母版鏡頭，再用"保持人物與運鏡不變、僅替換台詞與口型為目標語言"的編輯指令派生英/日分身，確保面部@Image 1、機位、背景、著裝全程完全一致；各語種口型與對應台詞嚴格對齊；禁止分身出現面容漂移。
+通用約束：保持無字幕；不要生成 Logo；不要生成水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+<a id="category-16"></a>
+
+### 短劇與情感敘事 (8)
+
+### No. 1: 便利店重逢（情緒反轉）
+
+- **分類:** `短劇與情感敘事`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+參考圖片1中的女主、圖片3中的男主（各自面部妝造以對應圖為準），豎屏9:16，電影感寫實、冷藍轉暖橙，生成30秒情感短劇。
+
+#### 提示詞
+
+```text
+參考圖片1中的女主、圖片3中的男主（各自面部妝造以對應圖為準），豎屏9:16，電影感寫實、冷藍轉暖橙，生成30秒情感短劇。
+Shot 1：全景，女主@Image 1 獨自靠窗低頭攪動咖啡，冷藍夜調，鏡頭緩慢推近，（鋼琴輕起）。
+Shot 2：中近景，男主@Image 3 推門入畫，女主@Image 1 抬頭怔住，固定機位帶呼吸感，<門鈴叮咚>。
+Shot 3：特寫，鏡頭切至兩人之間來回對切，色調漸暖，男主@Image 3 輕聲說{我來接你了}，（鋼琴漸強）。
+Shot 4：特寫，女主@Image 1 眼眶泛紅嘴角上揚，鏡頭緩慢拉遠，暖橙定格，（音樂收束）。
+約束：男女主面部以對應圖片為準全程一致；便利店場景固定；情緒反轉用眼眶泛紅與嘴角顫抖外化；禁止分身雙胞胎。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 2: 雨夜獨白
+
+- **分類:** `短劇與情感敘事`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+主角綁定@圖片2（面部妝造以對應圖為準），豎屏9:16，冷調文藝寫實、青灰雨夜低飽和，生成30秒情感獨白短片。
+
+#### 提示詞
+
+```text
+主角綁定@Image 2（面部妝造以對應圖為準），豎屏9:16，冷調文藝寫實、青灰雨夜低飽和，生成30秒情感獨白短片。
+Shot 1：特寫，雨水順著玻璃窗蜿蜒滑落，主角@Image 2 模糊倒影浮現窗後，固定機位，<雨聲淅瀝>（低沉大提琴起）。
+Shot 2：緩慢推近，主角@Image 2 貼窗凝視雨夜街燈，指尖抵住冰涼玻璃，青灰冷光，{有些話，只能說給雨聽}。
+Shot 3：平穩橫移，鏡頭掠過桌上熄滅的手機與半涼的茶，主角@Image 2 側臉入畫，（大提琴漸強）。
+Shot 4：中近景，主角@Image 2 深吸一口氣閉眼，一滴淚滑過臉頰與窗上雨痕重疊，緩慢推近，<雨勢漸大>。
+Shot 5：緩慢拉遠，主角@Image 2 睜眼扯出釋然淺笑轉身離窗，青灰定格，（音樂收束）。
+約束：主角面部以圖片2為準全程一致；情緒用抵窗指尖與淚痕外化，禁止直白台詞說"我很難過"；雨夜青灰調與場景全程一致。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 3: 家庭餐桌
+
+- **分類:** `短劇與情感敘事`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+參考圖片1中的母親、圖片2中的父親、圖片4中的孩子（各自面部妝造以對應圖為準），橫屏16:9，溫馨生活寫實、暖黃居家調，生成30秒家庭情感短片。
+
+#### 提示詞
+
+```text
+參考圖片1中的母親、圖片2中的父親、圖片4中的孩子（各自面部妝造以對應圖為準），橫屏16:9，溫馨生活寫實、暖黃居家調，生成30秒家庭情感短片。
+Shot 1：全景，一家三口圍坐餐桌，熱菜升騰白氣，母親@Image 1 正為孩子@Image 4 夾菜，暖黃燈光，固定機位，（溫暖民謠起）<碗筷輕碰>。
+Shot 2：中近景，父親@Image 2 笑著給母親@Image 1 盛湯，兩人相視一笑，緩慢推近，<湯勺叮噹>。
+Shot 3：特寫，孩子@Image 4 鼓著腮幫大口吃飯抬頭咧嘴笑，暖光灑臉，鏡頭切至。
+Shot 4：中景，母親@Image 1 伸手替父親@Image 2 擦去嘴角，父親愣了下隨即握住她的手，平穩橫移，（民謠漸暖）。
+Shot 5：緩慢升降，機位抬升俯瞰滿桌飯菜與相依的一家人，暖黃定格，（音樂收束）。
+約束：三位人物面部嚴格以對應圖片為準，母親/父親/孩子體貌年齡區分明顯，禁止分身雙胞胎或面容混淆；餐桌菜品與暖黃居家場景全程一致。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 4: 離別車站
+
+- **分類:** `短劇與情感敘事`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+參考圖片1中的女主、圖片3中的男主（各自面部妝造以對應圖為準），橫屏16:9，電影感寫實、冷調站台微暖逆光，生成30秒離別情感短片。
+
+#### 提示詞
+
+```text
+參考圖片1中的女主、圖片3中的男主（各自面部妝造以對應圖為準），橫屏16:9，電影感寫實、冷調站台微暖逆光，生成30秒離別情感短片。
+Shot 1：全景，站台人潮湧動，女主@Image 1 與男主@Image 3 相對而立緊握雙手，列車在旁，冷調逆光，緩慢推近，（弦樂低回起）<列車進站廣播>。
+Shot 2：特寫，兩人緊扣的手指緩緩收緊又不捨鬆開，暖逆光勾邊，固定機位。
+Shot 3：中近景，男主@Image 3 抬手替女主@Image 1 別好被風吹亂的髮絲，欲言又止，緩慢推近，{到了……記得報平安}。
+Shot 4：中景，男主@Image 3 轉身登車，女主@Image 1 站在原地肩膀微微顫抖強忍淚水，平穩橫移，（弦樂拔高）<車門關閉提示音>。
+Shot 5：緩慢拉遠，列車駛離，女主@Image 1 獨立空蕩站台逆光剪影，冷調定格，（音樂收束）。
+約束：男女主面部以對應圖片為準全程一致；離別情緒用收緊的手指與顫抖肩膀外化，禁止直白哭喊；站台場景與冷暖逆光全程一致；禁止分身雙胞胎。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 5: 職場高光
+
+- **分類:** `短劇與情感敘事`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+主角綁定@圖片2（面部妝造以對應圖為準），橫屏16:9，商務燃系寫實、冷藍鋼玻璃質感轉金光，生成30秒職場勵志短片。
+
+#### 提示詞
+
+```text
+主角綁定@Image 2（面部妝造以對應圖為準），橫屏16:9，商務燃系寫實、冷藍鋼玻璃質感轉金光，生成30秒職場勵志短片。
+Shot 1：中近景，主角@Image 2 獨坐深夜辦公室對滿屏數據蹙眉，冷藍屏光映臉，固定機位，（低鼓點起）<鍵盤敲擊密集>。
+Shot 2：緩慢推近，主角@Image 2 猛地抬頭眼神一亮抓起筆圈出關鍵，屏光驟亮，<靈光乍現提示音>。
+Shot 3：跟拍，主角@Image 2 起身大步穿過走廊推開會議室門，鏡頭緊隨其後背影，（鼓點漸強）。
+Shot 4：仰拍，主角@Image 2 立於落地窗前面向眾人自信陳述，城市天際線為背景，逆光鍍金，{這就是我們的答案}。
+Shot 5：緩慢環繞，全場起立鼓掌，主角@Image 2 鬆一口氣露出笑意，金光定格，（音樂高潮收束）<掌聲雷動>。
+約束：主角面部以圖片2為準全程一致；情緒弧線由蹙眉到舒展外化，冷藍轉金光對應低谷到高光；辦公場景連貫一致。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 6: 校園青春
+
+- **分類:** `短劇與情感敘事`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+參考圖片4中的女生、圖片5中的男生（各自面部妝造以對應圖為準），豎屏9:16，青春清新寫實、明媚暖陽高透光，生成30秒校園青春短片。
+
+#### 提示詞
+
+```text
+參考圖片4中的女生、圖片5中的男生（各自面部妝造以對應圖為準），豎屏9:16，青春清新寫實、明媚暖陽高透光，生成30秒校園青春短片。
+Shot 1：全景，午後操場暖陽斜照，女生@Image 4 抱書快步走過跑道，風揚起裙擺，緩慢推近，（清新吉他起）<蟬鳴輕響>。
+Shot 2：中近景，男生@Image 5 騎車經過急剎回頭，兩人目光相撞各自一怔，固定機位，<自行車剎車聲>。
+Shot 3：特寫，女生@Image 4 臉頰泛紅低頭抿嘴笑，散落的書被男生@Image 5 彎腰拾起，暖陽鏡頭切至。
+Shot 4：中景，兩人並肩走過林蔭道說笑，光斑在臉上跳動，跟拍隨行，（吉他漸歡快）。
+Shot 5：緩慢升降，機位抬升俯瞰兩人漸遠背影與灑滿金光的校園，暖陽定格，（音樂收束）。
+約束：男女生面部以對應圖片為準全程一致，男女體貌區分明顯禁止雙胞胎混淆；校園暖陽高透光場景全程一致；青澀情緒用泛紅臉頰與抿嘴笑外化。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 7: 懸疑走廊
+
+- **分類:** `短劇與情感敘事`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+主角綁定@圖片2（面部妝造以對應圖為準），豎屏9:16，驚悚懸疑寫實、幽暗冷綠高對比陰影，生成30秒懸疑短片。
+
+#### 提示詞
+
+```text
+主角綁定@圖片2（面部妝造以對應圖為準），豎屏9:16，驚悚懸疑寫實、幽暗冷綠高對比陰影，生成30秒懸疑短片。
+Shot 1：特寫，一盞走廊燈忽明忽暗閃爍，主角@圖片2 手電光束刺入黑暗，幽暗冷綠，固定機位，<燈管滋滋電流聲>（低頻嗡鳴起）。
+Shot 2：跟拍，鏡頭貼緊主角@圖片2 後背隨其緩步深入長廊，腳步遲疑，陰影拉長，<腳步回響>。
+Shot 3：緩慢推近，主角@圖片2 驟然停步屏息回頭，瞳孔收縮冷汗滲出，冷綠映臉，<身後異響咔噠>。
+Shot 4：鏡頭切至，走廊盡頭一扇門縫滲出微光緩緩開啟，主角@圖片2 舉燈戒備後退，（弦樂尖銳拔高）。
+Shot 5：緩慢拉遠，主角@圖片2 孤身立於幽長走廊中央，四周陰影逼近，冷綠定格，<猛然靜音>（音樂戛然而止）。
+約束：主角面部以圖片2為準全程一致；緊張情緒用屏息回頭與冷汗瞳孔收縮外化；幽暗冷綠高對比光影與走廊場景全程一致；結尾用靜音製造驚悚留白。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 8: 破鏡重圓（用編輯任務做反差衍生）
+
+- **分類:** `短劇與情感敘事`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+參考圖片1中的女主、圖片3中的男主（各自面部妝造以對應圖為準），豎屏9:16，電影感寫實、由冷灰陰雨轉暖金晴光，生成30秒破鏡重圓情感短片。
+
+#### 提示詞
+
+```text
+參考圖片1中的女主、圖片3中的男主（各自面部妝造以對應圖為準），豎屏9:16，電影感寫實、由冷灰陰雨轉暖金晴光，生成30秒破鏡重圓情感短片。
+Shot 1：中近景，女主@圖片1 與男主@圖片3 背對背站在冷灰雨中各自低頭，兩人間距離拉開，固定機位，（壓抑鋼琴起）<雨聲冷清>。
+Shot 2：特寫，一張舊合照攤在積水中被雨打濕，鏡面倒影裡兩人漸行漸遠，緩慢推近。
+Shot 3：鏡頭切至，天色轉晴暖金光灑落，男主@圖片3 轉身伸手，女主@圖片1 緩緩回望眼含熱淚，平穩橫移，（鋼琴轉暖漸強）。
+Shot 4：中景，兩人相擁而立，女主@圖片1 埋首男主@圖片3 肩頭，男主輕撫其發，暖金逆光勾邊，緩慢環繞，{對不起，我回來了}。
+Shot 5：緩慢拉遠，兩人相依身影在暖金晴光下融為一體，定格，（音樂圓滿收束）。
+約束：編輯任務思路——先生成Shot 1至Shot 2"冷灰陰雨疏離版"母版，再用"保持人物@圖片1/@圖片3面部、機位構圖不變，僅將天氣改為暖金晴光、姿態由背對改為相擁"的編輯指令衍生Shot 3至Shot 5反差版，實現同場景冷暖反轉；男女主面部全程一致，禁止分身雙胞胎；和解情緒用回望熱淚與相擁埋首外化。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+<a id="category-17"></a>
+
+### 品牌電視廣告 (6)
+
+### No. 1: 香氛品牌一鏡到底
+
+- **分類:** `品牌電視廣告`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+參考圖片1中的香水瓶為主體，寬幅2.35:1，高級電影感、暮光金調，生成30秒品牌氛圍片，一鏡到底。
+
+#### 提示詞
+
+```text
+參考圖片1中的香水瓶為主體，寬幅2.35:1，高級電影感、暮光金調，生成30秒品牌氛圍片，一鏡到底。
+Shot 1：極致微距從瓶身@圖片1 表面凝結的一顆水珠開始，鏡頭緩慢拉遠，水珠滑落折射暖光，（低回環境弦樂漸起）。
+Shot 2：鏡頭繼續上升平移，香水瓶@圖片1 緩緩立於濕潤大理石檯，側逆光勾出瓶身輪廓，<水珠輕落聲>。
+Shot 3：鏡頭平穩環繞瓶身半周，透過切面玻璃展示金色液體對暮光的折射，光斑在檯面遊走。
+Shot 4：鏡頭順勢升高俯拍整個佈景，綢緞與花瓣散落檯面，暮光金鋪滿畫面，【氣息如光 停駐此刻】。
+Shot 5：鏡頭緩慢拉遠回到微距水珠，畫面虛化定格於品牌暮光金，（弦樂一聲長音收束）。
+約束：全程一鏡到底不切；瓶身以圖片1為準；暮光金調與濕潤質感貫穿始終。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 2: 運動品牌燃向
+
+- **分類:** `品牌電視廣告`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+參考圖片2中的運動員為主體，豎屏9:16，高對比硬朗冷調、顆粒感街頭風，生成30秒運動品牌燃向廣告。
+
+#### 提示詞
+
+```text
+參考圖片2中的運動員為主體，豎屏9:16，高對比硬朗冷調、顆粒感街頭風，生成30秒運動品牌燃向廣告。
+Shot 1：極近特寫運動員@圖片2 的雙眼在陰影中驟然睜開，仰拍，<急促呼吸聲>，（低頻鼓點砸入）。
+Shot 2：鏡頭快速跟拍運動員@圖片2 起跑衝出暗巷，腳下水花飛濺，冷藍路燈拖出光軌，<鞋底摩擦聲>。
+Shot 3：鏡頭低角度仰拍其騰空躍過障礙，逆光剪影撐滿畫面，（鼓點密集加速）。
+Shot 4：鏡頭平穩橫移追隨衝刺側影，汗珠在硬光下迸射，肌肉線條緊繃，<心跳轟鳴>。
+Shot 5：鏡頭緩慢推近其終點前的怒吼面孔，冷調高對比定格，【超越 沒有終點】，（鼓點戛然而止）。
+約束：全程冷藍硬光高對比；運動員以圖片2為準；節奏由慢憋到爆發遞進。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 3: 公益溫情
+
+- **分類:** `品牌電視廣告`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+豎屏9:16，柔和自然光、紀實暖調、淺景深，生成30秒公益溫情短片，情緒由孤獨到被接納。
+
+#### 提示詞
+
+```text
+豎屏9:16，柔和自然光、紀實暖調、淺景深，生成30秒公益溫情短片，情緒由孤獨到被接納。
+Shot 1：固定機位特寫一雙小手緊攥褪色布娃娃，晨光斜照塵埃浮動，（鋼琴單音輕起）。
+Shot 2：鏡頭緩慢拉遠，孤身女孩獨坐鄉村教室角落，窗外逆光柔和，<遠處孩童嬉鬧聲>。
+Shot 3：鏡頭平穩橫移，一隻大手遞來一支鉛筆，女孩遲疑抬頭，暖光漫上她的臉頰。
+Shot 4：鏡頭跟拍女孩被牽起手走向教室中央，同學圍攏，淺景深虛化背景，（弦樂溫暖鋪開）。
+Shot 5：鏡頭緩慢升高俯拍全班圍坐共讀，暖陽灑滿地面，【每個孩子 都值得被看見】，（鋼琴弦樂收束）。
+約束：全程柔和自然光暖調；情緒弧線由孤獨抵達接納；淺景深突出人物。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 4: 金融科技感
+
+- **分類:** `品牌電視廣告`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+參考圖片3中的信用卡為主體，橫屏16:9，冷靜深藍科技調、極簡高級質感，生成30秒金融科技品牌片。
+
+#### 提示詞
+
+```text
+參考圖片3中的信用卡為主體，橫屏16:9，冷靜深藍科技調、極簡高級質感，生成30秒金融科技品牌片。
+Shot 1：極致微距貼近信用卡@圖片3 金屬晶片紋理，藍色數據光流在其表面掠過，（低頻合成器脈衝起）。
+Shot 2：鏡頭緩慢拉遠，信用卡@圖片3 懸浮於純黑空間，四周浮現半透明數據環，<電子掃描音>。
+Shot 3：鏡頭平穩環繞卡片一周，藍光網格隨視角流動，光影在金屬邊緣遊走。
+Shot 4：鏡頭俯拍卡片下方生長出城市數據天際線，冷藍光點連成網絡，（脈衝節奏推進）。
+Shot 5：鏡頭緩慢推近卡片定格於品牌標識，深藍漸暗，【安全 見於每一次信任】，（合成器長音收束）。
+約束：全程冷靜深藍科技調；卡片以圖片3為準；數據光流質感貫穿。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 5: 飲料清爽
+
+- **分類:** `品牌電視廣告`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+參考圖片4中的飲料罐為主體，豎屏9:16，高飽和明亮夏日調、通透水感，生成30秒飲料清爽廣告。
+
+#### 提示詞
+
+```text
+參考圖片4中的飲料罐為主體，豎屏9:16，高飽和明亮夏日調、通透水感，生成30秒飲料清爽廣告。
+Shot 1：超高速微距特寫，一滴水珠砸在冰鎮飲料罐@Image 4 表面炸開，仰拍，<清脆爆裂水聲>，（明快電子節拍起）。
+Shot 2：鏡頭緩慢環繞佈滿冷凝水珠的罐身@Image 4，逆光下水珠晶瑩滾落，陽光穿透折射彩光。
+Shot 3：鏡頭快速拉遠，飲料傾倒入滿冰玻璃杯，氣泡翻湧上升，<氣泡嘶嘶聲>。
+Shot 4：鏡頭低角度仰拍手舉起飲料迎向烈日，檸檬薄荷在空中散落，（節拍上揚）。
+Shot 5：鏡頭緩慢推近杯口氣泡定格，高飽和夏日藍黃鋪滿，【一口 喚醒整個夏天】，（節拍清脆收束）。
+約束：全程高飽和明亮夏日調；飲料罐以圖片4為準；水珠氣泡通透質感突出。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 6: 母嬰品牌
+
+- **分類:** `品牌電視廣告`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+豎屏9:16，極致柔光奶油色調、朦朧夢幻淺景深，生成30秒母嬰品牌溫柔品牌片。
+
+#### 提示詞
+
+```text
+豎屏9:16，極致柔光奶油色調、朦朧夢幻淺景深，生成30秒母嬰品牌溫柔品牌片。
+Shot 1：固定機位微距特寫嬰兒蜷曲的小腳趾，晨間柔光如紗籠罩，（音樂盒清音輕起）。
+Shot 2：鏡頭緩慢拉遠，母親懷抱熟睡嬰兒輕輕搖晃，窗紗透進朦朧漫射光，<嬰兒細微呼吸聲>。
+Shot 3：鏡頭平穩橫移，母親低頭親吻嬰兒額頭，奶油色暖光漫過兩人輪廓。
+Shot 4：鏡頭緩慢升高俯拍母子相依於搖籃旁，柔軟棉織物鋪滿畫面，（弦樂溫柔加入）。
+Shot 5：鏡頭緩慢推近嬰兒綻開的微笑，柔光過曝暈染，【溫柔 是最初的守護】，（音樂盒弦樂收束）。
+約束：全程奶油色極致柔光；朦朧淺景深夢幻質感；情緒自始至終寧靜溫柔。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+<a id="category-18"></a>
+
+### 旅行與文化旅遊 (6)
+
+### No. 1: 古鎮航拍一鏡
+
+- **分類:** `旅行與文化旅遊`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+橫屏16:9，水墨青灰調、晨霧詩意電影感，生成30秒古鎮文旅航拍片，一鏡到底。
+
+#### 提示詞
+
+```text
+橫屏16:9，水墨青灰調、晨霧詩意電影感，生成30秒古鎮文旅航拍片，一鏡到底。
+Shot 1：航拍極低空掠過青石板水巷，晨霧中一葉烏篷船破水而來，（古箏一撥清音起）。
+Shot 2：鏡頭順勢緩慢升高，粉牆黛瓦馬頭牆層疊展開，炊煙自巷陌升騰，<櫓槳划水聲>。
+Shot 3：鏡頭平穩橫移跨越拱橋，橋下浣衣人影綽約，倒影在水面蕩漾。
+Shot 4：鏡頭持續升空環繞古鎮全景，河道如脈絡蜿蜒，晨霧漫過青灰屋脊，（笛聲悠遠加入）。
+Shot 5：鏡頭緩慢拉高俯瞰群山環抱下的古鎮定格，水墨青灰暈開天際，【千年一夢 枕水而居】，（古箏笛聲收束）。
+約束：全程一鏡到底航拍不切；水墨青灰晨霧調貫穿；東方詩意留白構圖。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 2: 海島度假
+
+- **分類:** `旅行與文化旅遊`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+橫屏16:9，通透高飽和熱帶調、明媚陽光質感，生成30秒海島度假旅行片。
+
+#### 提示詞
+
+```text
+橫屏16:9，通透高飽和熱帶調、明媚陽光質感，生成30秒海島度假旅行片。
+Shot 1：水下微距特寫陽光穿透碧藍海水投下的光柱，魚群倏忽游過，（悠揚烏克麗麗起）。
+Shot 2：鏡頭緩慢升出水面，露出白沙灘椰林與澄澈礁湖，無人機平穩拉遠，<海浪拍岸聲>。
+Shot 3：鏡頭低空跟拍一人躍入透明淺海，水花四濺漾開漣漪，陽光灑滿水面。
+Shot 4：鏡頭緩慢升高環繞俯瞰新月形海灣，帆船劃過碧綠海水，（節奏輕快明媚）。
+Shot 5：鏡頭推近沙灘上迎著夕陽舉杯的剪影，暖金光暈鋪滿，【把煩惱 留在岸的另一邊】，（烏克麗麗收束）。
+約束：全程通透高飽和熱帶調；海水碧藍澄澈質感突出；情緒輕鬆明媚。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 3: 雪山聖潔
+
+- **分類:** `旅行與文化旅遊`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+橫屏16:9，冷冽高對比雪白藍調、極致清透宏大感，生成30秒雪山文旅史詩片。
+
+#### 提示詞
+
+```text
+橫屏16:9，冷冽高對比雪白藍調、極致清透宏大感，生成30秒雪山文旅史詩片。
+Shot 1：極近微距特寫風雪中一片冰晶的鋒利稜面，冷藍逆光閃爍，<呼嘯寒風聲>，（低沉合唱人聲起）。
+Shot 2：鏡頭緩慢拉遠，孤峰雪山刺破雲海矗立天際，晨曦為峰頂染上金邊，畫面遼闊。
+Shot 3：鏡頭航拍平穩橫移掠過綿延雪脊，風捲起雪霧如絲帶飛舞，冷藍陰影明暗分明。
+Shot 4：鏡頭緩慢升空俯拍冰川裂谷蜿蜒而下，藍冰幽深透亮，（合唱層層疊湧宏大）。
+Shot 5：鏡頭仰拍定格於日照金山之巔，冷白與暖金交界處聖光傾瀉，【向上 只為觸碰純淨】，（人聲長音收束）。
+約束：全程冷冽雪白藍調高對比；宏大遼闊構圖；冰晶質感與日照金山點睛。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 4: 城市夜景
+
+- **分類:** `旅行與文化旅遊`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+橫屏16:9，賽博霓虹高飽和調、濕潤反光都市感，生成30秒城市夜景旅行片。
+
+#### 提示詞
+
+```text
+橫屏16:9，賽博霓虹高飽和調、濕潤反光都市感，生成30秒城市夜景旅行片。
+Shot 1：極致微距特寫雨滴順玻璃滑落，背後霓虹光斑暈成迷離光團，（電子合成器脈衝起）。
+Shot 2：鏡頭緩慢拉遠穿過窗戶，無人機俯瞰雨後車流光軌織成的繁華街道，<車流嘶鳴聲>。
+Shot 3：鏡頭航拍平穩升高環繞摩天樓群，玻璃幕牆倒映霓虹，光影層疊閃爍。
+Shot 4：鏡頭低空跟拍霓虹街巷中撐傘的行人，濕潤地面反射五彩燈火，（節拍律動推進）。
+Shot 5：鏡頭緩慢拉高俯瞰整座不夜城燈海定格，霓虹脈動如呼吸，【燈火之下 皆是故事】，（合成器收束）。
+約束：全程賽博霓虹高飽和；濕潤反光質感貫穿；光軌與霓虹層次豐富。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 5: 沙漠駝隊
+
+- **分類:** `旅行與文化旅遊`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+橫屏16:9，暖金橙沙漠調、大光比逆光史詩感，生成30秒沙漠文旅片。
+
+#### 提示詞
+
+```text
+橫屏16:9，暖金橙沙漠調、大光比逆光史詩感，生成30秒沙漠文旅片。
+Shot 1：極近微距特寫細沙自指縫簌簌流瀉，逆光下每一粒沙金光閃爍，（悠遠弦樂與手鼓起）。
+Shot 2：鏡頭緩慢拉遠，一列駝隊踏著起伏沙丘剪影緩行，夕陽巨大低垂於地平線，<駝鈴叮噹聲>。
+Shot 3：鏡頭航拍俯拍駝隊在沙脊上投下的修長斜影，沙丘曲線如綢緞起伏。
+Shot 4：鏡頭低角度仰拍領駝人迎風前行的逆光剪影，風捲沙塵飛揚，（手鼓節奏漸強）。
+Shot 5：鏡頭緩慢升空俯瞰駝隊沒入無垠金色沙海定格，暖金橙鋪滿天地，【穿越荒蕪 只為看見遼闊】，（弦樂手鼓收束）。
+約束：全程暖金橙大光比逆光；沙丘曲線與駝隊剪影為構圖核心；史詩遼遠情緒。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 6: 街頭美食巡遊（一鏡）
+
+- **分類:** `旅行與文化旅遊`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+豎屏9:16，暖橙煙火高飽和調、市井鮮活質感，生成30秒街頭美食巡遊片，一鏡到底。
+
+#### 提示詞
+
+```text
+豎屏9:16，暖橙煙火高飽和調、市井鮮活質感，生成30秒街頭美食巡遊片，一鏡到底。
+Shot 1：極致微距從鐵板上滋滋作響濺油的食材開始，鏡頭緩慢拉遠，熱氣蒸騰，<油花爆響聲>，（歡快市井打擊樂起）。
+Shot 2：鏡頭順勢平穩橫移穿過熙攘夜市，暖黃燈串下攤主翻炒火焰騰起，<人聲鼎沸叫賣聲>。
+Shot 3：鏡頭繼續跟拍鑽入小巷，掠過蒸籠掀蓋白霧湧出、烤串炭火通紅，煙火氣瀰漫。
+Shot 4：鏡頭緩慢環繞一桌食客大快朵頤，碰杯歡笑，暖橙燈光映滿笑臉，（打擊樂節奏歡騰）。
+Shot 5：鏡頭順勢升高俯拍整條美食長街燈火通明定格，人潮湧動，【人間煙火 最撫凡心】，（打擊樂收束）。
+約束：全程一鏡到底連續運鏡不切；暖橙煙火高飽和調；熱氣火焰煙火氣貫穿。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+<a id="category-19"></a>
+
+### 寵物與動物 (5)
+
+### No. 1: 萌貓特寫
+
+- **分類:** `寵物與動物`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+以貓咪@Image 1為主體，豎屏9:16，柔焦生活流、暖陽米白色調+淺景深，生成30秒治癒系萌寵短片。
+
+#### 提示詞
+
+```text
+以貓咪@Image 1為主體，豎屏9:16，柔焦生活流、暖陽米白色調+淺景深，生成30秒治癒系萌寵短片。
+Shot 1：特寫，貓咪@Image 1 突然睜大瞳孔直視鏡頭，固定機位，（清脆鋼片琴單音）<貓咪軟軟"喵">。
+Shot 2：微距，貓咪@Image 1 粉色鼻頭輕輕抽動、鬍鬚顫動，鏡頭緩慢推近，<細微鼻息聲>。
+Shot 3：中景，貓咪@Image 1 抬爪按住飄落的羽毛，鏡頭平穩橫移，（鋼片琴節奏輕快）。
+Shot 4：特寫，貓咪@Image 1 打了個哈欠露出小舌頭，鏡頭緩慢拉遠，<滿足呼嚕聲>。
+Shot 5：全景，貓咪@Image 1 蜷成一團閉眼睡去，鏡頭緩慢升起俯拍定格，（音樂漸弱）【今天也要好好休息】。
+約束：貓咪毛色花紋以Image 1為準全程一致，瞳孔與鼻頭保持粉色，禁止換種換色。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 2: 狗狗奔跑
+
+- **分類:** `寵物與動物`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+以狗狗@Image 1為主體，橫屏16:9，運動追焦、金色逆光草原+高速快門顆粒感，生成30秒熱血奔跑片。
+
+#### 提示詞
+
+```text
+以狗狗@Image 1為主體，橫屏16:9，運動追焦、金色逆光草原+高速快門顆粒感，生成30秒熱血奔跑片。
+Shot 1：低機位特寫，狗狗@Image 1 後腿蹬地爆發起跑揚起草屑，固定機位，（鼓點驟起）<爪子踏地悶響>。
+Shot 2：全景，狗狗@Image 1 舒展四肢橫穿草原，鏡頭平穩橫移追焦，<風聲灌耳>。
+Shot 3：跟拍中景，狗狗@Image 1 耳朵後掠、舌頭甩出，鏡頭低機位跟拍，（節奏加速）。
+Shot 4：特寫，狗狗@Image 1 騰空躍過小溪水花四濺，鏡頭緩慢推近升格慢動作，<水花濺落聲>。
+Shot 5：全景，狗狗@Image 1 衝向鏡頭前急停坐下咧嘴喘氣，鏡頭緩慢拉遠定格，（音樂收束）<歡快喘息>。
+約束：狗狗品種毛色以Image 1為準全程一致，奔跑步態符合真實四足力學，禁止漂浮滑步。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 3: 水下魚群
+
+- **分類:** `寵物與動物`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+以珊瑚礁熱帶魚群@Image 1為主體，橫屏16:9，紀錄片級水下攝影、丁達爾光柱+青藍通透水色，生成30秒海底探索片。
+
+#### 提示詞
+
+```text
+以珊瑚礁熱帶魚群@Image 1為主體，橫屏16:9，紀錄片級水下攝影、丁達爾光柱+青藍通透水色，生成30秒海底探索片。
+Shot 1：特寫，一條小丑魚@Image 1 從海葵觸手間探頭，固定機位，（空靈水滴音樂起）<氣泡咕嚕>。
+Shot 2：全景，成群熱帶魚@Image 1 匯聚成銀色漩渦，鏡頭緩慢環繞，<水流湧動聲>。
+Shot 3：中景，魚群@Image 1 集體轉向穿過光柱，鏡頭平穩橫移穿行，（弦樂鋪展）。
+Shot 4：仰拍全景，魚群@Image 1 游向海面剪影，鏡頭緩慢升起仰拍，<深海低頻嗡鳴>。
+Shot 5：特寫，小丑魚@Image 1 獨自游回海葵停駐，鏡頭緩慢拉遠定格，（音樂漸隱）。
+約束：小丑魚橙白條紋與礁石配色以Image 1為準，魚群游動保持自然錯位不重疊穿模，禁止整齊克隆隊列。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 4: 鳥類微距
+
+- **分類:** `寵物與動物`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+以蜂鳥@Image 1為主體，豎屏9:16，超微距高速攝影、晨露花叢+虛化奶油背景，生成30秒生態微觀片。
+
+#### 提示詞
+
+```text
+以蜂鳥@Image 1為主體，豎屏9:16，超微距高速攝影、晨露花叢+虛化奶油背景，生成30秒生態微觀片。
+Shot 1：微距特寫，蜂鳥@Image 1 懸停振翅化為透明弧影，固定機位，（豎琴泛音起）<高頻振翅嗡響>。
+Shot 2：特寫，蜂鳥@Image 1 細長喙探入花蕊吸蜜，鏡頭緩慢推近，<花瓣輕顫>。
+Shot 3：微距，蜂鳥@Image 1 喉部虹彩羽毛隨角度變色，鏡頭緩慢環繞，（豎琴滑音）。
+Shot 4：中景，蜂鳥@Image 1 抖落身上晨露珠，鏡頭平穩橫移升格慢動作，<水珠墜落>。
+Shot 5：全景，蜂鳥@Image 1 驟然彈射飛離畫面，鏡頭緩慢拉遠定格空枝，（音樂收束）。
+約束：蜂鳥虹彩羽色與喙形以Image 1為準，振翅呈現真實高速虛化殘影，禁止翅膀定格僵硬。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 5: 擬人寵物
+
+- **分類:** `寵物與動物`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+以廚師帽柴犬@圖片1為主體，豎屏9:16，皮克斯式3D卡通、暖廚房燈+飽和高光，生成30秒搞笑擬人短片。鎖定3D卡通渲染，禁止漂移寫實。
+
+#### 提示詞
+
+```text
+以廚師帽柴犬@圖片1為主體，豎屏9:16，皮克斯式3D卡通、暖廚房燈+飽和高光，生成30秒搞笑擬人短片。鎖定3D卡通渲染，禁止漂移寫實。
+鏡頭1：特寫，柴犬@圖片1 戴歪廚師帽嚴肅盯著平底鍋，固定機位，（滑稽巴松管起）{"今天，顛勺！"}。
+鏡頭2：中景，柴犬@圖片1 雙爪握鍋奮力一顛食材飛上天，鏡頭緩慢推近，<油花滋啦>。
+鏡頭3：全景，柴犬@圖片1 仰頭張嘴接住卻全砸臉上，鏡頭固定機位，（音效"叮"）<啪嘰糊臉>。
+鏡頭4：特寫，柴犬@圖片1 滿臉麵糊呆滯眨眼，鏡頭緩慢推近，{"...還行。"}。
+鏡頭5：中景，柴犬@圖片1 淡定端出焦黑料理獻寶，鏡頭緩慢拉遠定格，（歡快結尾）【翻車廚神·柴】。
+約束：柴犬毛色與廚師帽以圖片1為準全程一致，鎖定3D卡通畫風，五官擬人表情誇張但比例統一，禁止中途寫實化。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+<a id="category-20"></a>
+
+### 兒童教育與科普知識 (5)
+
+### No. 1: 火星探測科普
+
+- **分類:** `兒童教育與科普知識`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+以火星探測車@圖片1為主體，橫屏16:9，紀實科普CG、鏽紅星表+冷調星空，生成30秒航天科普片。
+
+#### 提示詞
+
+```text
+以火星探測車@圖片1為主體，橫屏16:9，紀實科普CG、鏽紅星表+冷調星空，生成30秒航天科普片。
+鏡頭1：全景，探測車@圖片1 靜立於紅色荒原地平線，鏡頭緩慢升起，（宏大合成器起）<火星風低嘯>。
+鏡頭2：特寫，探測車@圖片1 六輪碾過碎石緩行，鏡頭低機位跟拍，<機械咯吱>。
+鏡頭3：中景，探測車@圖片1 機械臂伸出採集岩樣，鏡頭緩慢推近，（弦樂漸強）【鑽取樣本·分析成分】。
+鏡頭4：仰拍，探測車@圖片1 抬起相機桅杆望向天空，鏡頭緩慢環繞，<數據滴滴聲>。
+鏡頭5：全景，探測車@圖片1 駛向遠方隕石坑，鏡頭緩慢拉遠俯拍定格，（音樂昇華）【下一站：未知】。
+約束：探測車結構與配色以圖片1為準全程一致，火星地表符合真實低重力揚塵，禁止出現地球植被藍天。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 2: 人體器官示意
+
+- **分類:** `兒童教育與科普知識`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+以3D心臟模型@圖片1為主體，橫屏16:9，醫學可視化、半透明肌理+暗底血紅脈絡光，生成30秒人體科普片。鎖定半透明醫學3D風，禁止漂移寫實血腥。
+
+#### 提示詞
+
+```text
+以3D心臟模型@圖片1為主體，橫屏16:9，醫學可視化、半透明肌理+暗底血紅脈絡光，生成30秒人體科普片。鎖定半透明醫學3D風，禁止漂移寫實血腥。
+鏡頭1：全景，心臟@圖片1 懸浮於深色空間緩緩搏動，鏡頭緩慢環繞，（低頻脈衝音樂起）<心跳咚咚>。
+鏡頭2：特寫，心臟@圖片1 表面冠狀動脈高亮浮現，鏡頭緩慢推近，【冠狀動脈·供血】。
+鏡頭3：剖面中景，心臟@圖片1 半透明化露出四腔血流，鏡頭平穩橫移，<血流湧動>。
+鏡頭4：特寫，心臟@圖片1 二尖瓣隨節拍開合，鏡頭固定機位，（節拍同步心跳）。
+鏡頭5：全景，心臟@圖片1 恢復完整持續搏動，鏡頭緩慢拉遠定格，（音樂平穩）【每天約10萬次跳動】。
+約束：心臟解剖結構與腔室位置以圖片1為準科學準確，保持半透明示意風格，禁止寫實血腥或結構錯位。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 3: 兒童繪本動畫
+
+- **分類:** `兒童教育與科普知識`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+以小熊@圖片1為主體，豎屏9:16，2D手繪繪本風、水彩紙紋+暖色蠟筆描邊，生成30秒睡前故事動畫。鎖定2D手繪水彩風，禁止漂移寫實或3D。
+
+#### 提示詞
+
+```text
+以小熊@圖片1為主體，豎屏9:16，2D手繪繪本風、水彩紙紋+暖色蠟筆描邊，生成30秒睡前故事動畫。鎖定2D手繪水彩風，禁止漂移寫實或3D。
+鏡頭1：中景，小熊@圖片1 推開木屋門望向星空，鏡頭固定機位，（八音盒旋律起）{"今晚的星星真亮呀。"}。
+鏡頭2：全景，小熊@圖片1 提著小燈籠走過花叢小徑，鏡頭平穩橫移，<草葉沙沙>。
+鏡頭3：特寫，小熊@圖片1 仰頭看一顆流星劃過，鏡頭緩慢推近，（叮咚一聲）【許個願吧】。
+鏡頭4：中景，小熊@圖片1 閉眼雙手合十許願，鏡頭緩慢環繞，<夜風輕柔>。
+鏡頭5：全景，小熊@圖片1 躺進草地蓋上葉子被入睡，鏡頭緩慢升起俯拍定格，（八音盒漸弱）{"晚安，小星星。"}。
+約束：小熊造型與配色以圖片1為準全程一致，鎖定2D手繪水彩筆觸，保留紙紋描邊，禁止轉3D或寫實化。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 4: 物理實驗演示
+
+- **分類:** `兒童教育與科普知識`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+以牛頓擺金屬球@圖片1為主體，橫屏16:9，理科演示寫實、純淨實驗室白+側逆硬光，生成30秒物理科普片。
+
+#### 提示詞
+
+```text
+以牛頓擺金屬球@圖片1為主體，橫屏16:9，理科演示寫實、純淨實驗室白+側逆硬光，生成30秒物理科普片。
+鏡頭1：特寫，牛頓擺@圖片1 一端小球被抬起懸停，固定機位，（懸念滴答音樂起）<手指鬆開輕響>。
+鏡頭2：中景，小球@圖片1 擺下撞擊瞬間能量傳遞，鏡頭緩慢推近升格慢動作，<清脆金屬撞擊>。
+鏡頭3：特寫，另一端小球@圖片1 被彈起騰空，鏡頭平穩跟拍上升，（音效"叮"）【動量守恆】。
+鏡頭4：全景，牛頓擺@圖片1 兩端交替往復擺動，鏡頭緩慢環繞，<規律節拍碰撞>。
+鏡頭5：中景，小球@圖片1 擺幅漸小趨於靜止，鏡頭緩慢拉遠定格，（音樂收束）【能量在碰撞中傳遞】。
+約束：金屬球數量與支架結構以圖片1為準，擺動遵循真實動量守恆物理規律，禁止違反力學的漂浮或增幅。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 5: 歷史場景重現
+
+- **分類:** `兒童教育與科普知識`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+以古羅馬鬥獸場@圖片1為主體，橫屏16:9，史詩歷史重現、金色黃昏塵光+做舊膠片顆粒，生成30秒歷史紀錄片。
+
+#### 提示詞
+
+```text
+以古羅馬鬥獸場@圖片1為主體，橫屏16:9，史詩歷史重現、金色黃昏塵光+做舊膠片顆粒，生成30秒歷史紀錄片。
+鏡頭1：全景，鬥獸場@圖片1 沐浴黃昏殘陽巍然矗立，鏡頭緩慢升起航拍，（史詩人聲吟唱起）<遠古風聲>。
+鏡頭2：中景，鬥獸場@圖片1 看台從殘破漸漸"生長"復原為滿座，鏡頭緩慢推近，<人群喧沸湧起>。
+鏡頭3：特寫，鬥獸場@圖片1 石砌拱門雕紋細節，鏡頭平穩橫移，（鼓點漸強）【公元80年·落成】。
+鏡頭4：仰拍全景，鬥獸場@圖片1 中央競技場沙地揚起塵土，鏡頭緩慢環繞，<號角長鳴>。
+鏡頭5：全景，鬥獸場@圖片1 復原畫面"消散"回歸今日廢墟，鏡頭緩慢拉遠俯拍定格，（音樂蒼涼收束）【千年之後，依然屹立】。
+約束：鬥獸場建築結構與殘損位置以圖片1為準，復原與廢墟形態一致對應，禁止臆造不符史實的現代元素。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+<a id="category-21"></a>
+
+### 遊戲、CG與幻想 (5)
+
+### No. 1: 巨龍俯衝
+
+- **分類:** `遊戲、CG與幻想`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+參考圖片1中的黑龍與騎士為主體，寬幅2.35:1，電影級CG、暖邊緣光+深藍陰影，生成30秒奇幻飛行片。
+
+#### 提示詞
+
+```text
+參考圖片1中的黑龍與騎士為主體，寬幅2.35:1，電影級CG、暖邊緣光+深藍陰影，生成30秒奇幻飛行片。
+Shot 1：全景，黑龍@Image 1 從峽谷騰空翼展張開，鏡頭緩慢升起跟隨，（宏大管弦樂起）。
+Shot 2：中景，騎士@Image 1 壓低身體、黑龍@Image 1 向右急轉俯衝，鏡頭平穩跟拍（略低機位），<風聲呼嘯>。
+Shot 3：特寫，黑龍@Image 1 收攏一側翅膀穿過瀑布水霧，鏡頭緩慢推近。
+Shot 4：全景，黑龍@Image 1 衝出霧氣滑入森林空地，鏡頭緩慢拉遠定格，（音樂收束）。
+約束：黑龍與騎士外形以圖片1為準全程一致，禁止分身雙胞胎。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 2: 魔法釋放
+
+- **分類:** `遊戲、CG與幻想`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+以女法師@圖片1為主體，寬幅2.35:1，電影級魔幻CG、幽藍符文光+粒子輝光，生成30秒法術詠唱片。
+
+#### 提示詞
+
+```text
+以女法師@Image 1為主體，寬幅2.35:1，電影級魔幻CG、幽藍符文光+粒子輝光，生成30秒法術詠唱片。
+Shot 1：特寫，女法師@Image 1 睜眼瞳中亮起符文，固定機位，（低沉聖詠驟起）{"以太之名——"}。
+Shot 2：中景，女法師@Image 1 抬手掌心匯聚旋轉法陣，鏡頭緩慢環繞，<能量嗡鳴攀升>。
+Shot 3：特寫，女法師@Image 1 指尖粒子凝聚成光球，鏡頭緩慢推近，（音樂屏息一頓）。
+Shot 4：全景，女法師@Image 1 雙手推出巨型冰霜爆發轟向前方，鏡頭平穩跟拍衝擊波，<轟然炸裂>。
+Shot 5：中景，女法師@Image 1 收勢喘息法陣餘光消散，鏡頭緩慢拉遠定格，（聖詠餘韻收束）。
+約束：女法師服飾與符文配色以圖片1為準全程一致，法陣與粒子始終保持幽藍色系，禁止中途變色或人物走形。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 3: 機甲登場
+
+- **分類:** `遊戲、CG與幻想`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+以巨型機甲@圖片1為主體，寬幅2.35:1，硬核工業CG、冷鋼金屬+機庫射燈與蒸汽，生成30秒機甲出擊片。
+
+#### 提示詞
+
+```text
+以巨型機甲@Image 1為主體，寬幅2.35:1，硬核工業CG、冷鋼金屬+機庫射燈與蒸汽，生成30秒機甲出擊片。
+Shot 1：特寫，機甲@Image 1 主攝影機眼部驟然亮起紅光，固定機位，（工業低音轟鳴起）<系統啟動嗡聲>。
+Shot 2：仰拍全景，機甲@Image 1 在機庫中緩緩抬頭站起，鏡頭緩慢升起仰拍，<液壓嘶鳴>。
+Shot 3：中景，機甲@Image 1 邁步踏地震動、蒸汽噴湧，鏡頭低機位跟拍，（鼓點砸下）<沉重金屬踏步>。
+Shot 4：特寫，機甲@Image 1 肩部飛彈艙展開鎖定，鏡頭緩慢推近，（音效"鎖定"嗶）【武裝就緒】。
+Shot 5：全景，機甲@Image 1 衝出機庫躍入戰場，鏡頭平穩跟拍再拉遠定格，（音樂爆發收束）<推進器轟鳴>。
+約束：機甲機體結構與塗裝以圖片1為準全程一致，機械關節運動符合重量感與液壓邏輯，禁止部件穿模或輕飄。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 4: 開放世界遠景
+
+- **分類:** `遊戲、CG與幻想`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+以幻想大陸全景@圖片1為主體，寬幅2.35:1，開放世界遊戲CG、體積雲晨霧+超遠視距景深，生成30秒世界觀展示片。
+
+#### 提示詞
+
+```text
+以幻想大陸全景@Image 1為主體，寬幅2.35:1，開放世界遊戲CG、體積雲晨霧+超遠視距景深，生成30秒世界觀展示片。
+Shot 1：全景，大陸@Image 1 晨霧漫過山谷與遠方懸浮島，鏡頭緩慢升起航拍，（遼闊弦樂起）<晨風與鳥鳴>。
+Shot 2：中景，大陸@Image 1 瀑布自巨崖傾瀉入雲海，鏡頭平穩橫移，<水聲轟隆>。
+Shot 3：全景，大陸@Image 1 一群巨獸掠過草原奔向遠方城郭，鏡頭緩慢跟拍，（弦樂層疊推進）。
+Shot 4：特寫，大陸@Image 1 古老遺跡石碑刻滿符文，鏡頭緩慢推近，<神秘低鳴>。
+Shot 5：全景，大陸@Image 1 鏡頭拉升揭示整片大陸全貌與雙日天空，鏡頭緩慢升起拉遠定格，（音樂磅礴收束）【世界，等你探索】。
+約束：大陸地貌與懸浮島佈局以圖片1為準全程一致，超遠景深保持體積霧層次，禁止地形拼接錯位或比例失真。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 5: 白模渲染演示
+
+- **分類:** `遊戲、CG與幻想`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+以場景白模@圖片1為主體、材質取自參考圖片2，橫屏16:9，即時渲染Breakdown演示、灰白無光澤底模起步，生成30秒從白模到成片的渲染進化片。
+
+#### 提示詞
+
+```text
+以場景白模@Image 1為主體、材質取自參考圖片2，橫屏16:9，即時渲染Breakdown演示、灰白無光澤底模起步，生成30秒從白模到成片的渲染進化片。
+Shot 1：全景，白模@Image 1 灰白無材質場景緩緩旋轉展示體塊，鏡頭緩慢環繞，（科技感電子樂起）【Blockout·白模】。
+Shot 2：中景，白模@Image 1 表面刷入材質@Image 2 逐面覆蓋石材木紋，鏡頭平穩橫移，<材質加載滴答>。
+Shot 3：特寫，場景@Image 1 法線與粗糙度細節浮現凹凸質感，鏡頭緩慢推近，【PBR材質·上色】。
+Shot 4：全景，場景@Image 1 燈光逐盞點亮投下陰影與反射，鏡頭緩慢升起，（音樂層次遞進）【Lighting·打光】。
+Shot 5：全景，場景@Image 1 後期調色與體積光加入成為終幀，鏡頭緩慢拉遠定格，（音樂收束）【Final Render】。
+約束：場景體塊與結構以圖片1為準全程一致，材質紋理取自圖片2逐步疊加，白模到成片僅改變著色不改變幾何佈局，禁止模型形變或穿幫。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+<a id="category-22"></a>
+
+### 動畫與卡通 (4)
+
+### No. 1: 吉卜力食物番
+
+- **分類:** `動畫與卡通`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+參考圖片1中的一雙手與深夜廚房為主體（手與廚房以圖片1為準），豎屏9:16，吉卜力手繪風、暖黃夜廚調，生成30秒治癒深夜食堂片。
+
+#### 提示詞
+
+```text
+參考圖片1中的一雙手與深夜廚房為主體（手與廚房以圖片1為準），豎屏9:16，吉卜力手繪風、暖黃夜廚調，生成30秒治癒深夜食堂片。
+Shot 1：極近特寫，一滴水珠從番茄表皮滾落映出暖燈，固定微俯機位，<水珠墜落輕響>，（治癒木吉他起）。
+Shot 2：中景，一隻手持刀切番茄紅汁滲出，鏡頭緩慢平移，<刀刃切過果肉的軟脆聲>。
+Shot 3：特寫，番茄塊滑入熱油鍋騰起白煙，鏡頭緩慢推近，<食材下鍋爆響>。
+Shot 4：極近特寫，手撒下羅勒葉片翻炒香氣升騰，鏡頭緩慢環繞，<鏟子翻炒的沙沙聲>。
+Shot 5：中景，熱湯盛入陶碗手捧至畫面中央，鏡頭緩慢拉遠，<湯汁咕嘟聲>，（木吉他收束）。
+約束：鎖定吉卜力手繪風禁止漂移寫實；全程僅一雙手不出現人臉與多餘的手；夜廚陳設以圖片1為準固定。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 2: Q版角色互動
+
+- **分類:** `動畫與卡通`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+參考圖片1中的兩隻圓頭大眼Q版角色為主體（造型與配色以圖片1為準），豎屏9:16，糖果色卡通短片風、高飽和柔光調，生成30秒萌系互動片。
+
+#### 提示詞
+
+```text
+參考圖片1中的兩隻圓頭大眼Q版角色為主體（造型與配色以圖片1為準），豎屏9:16，糖果色卡通短片風、高飽和柔光調，生成30秒萌系互動片。
+Shot 1：極近特寫，一隻Q版角色瞪大眼睛臉頰鼓起憋笑，固定機位，<卡通"啵"彈跳音效>，（俏皮馬林巴起）。
+Shot 2：中景，另一隻角色蹦跳著湊近遞上一顆愛心糖果，鏡頭緩慢橫移，<腳步彈跳"叮叮"聲>。
+Shot 3：全景，兩隻角色手拉手原地轉圈甩出星星拖尾，鏡頭緩慢環繞，{（角色）"一起轉呀！"}。
+Shot 4：特寫，一隻角色突然被絆倒眼裡蓄滿淚花，鏡頭緩慢推近，<誇張"哇"哭腔音效>。
+Shot 5：中景，另一隻角色撲上去擁抱兩顆心跳出畫面，鏡頭緩慢拉遠，【友誼滿格】，（馬林巴上揚收束）。
+約束：鎖定Q版糖果色卡通風禁止漂移寫實；兩角色造型與配色嚴格以圖片1為準；誇張表情與形變遵循卡通物理。
+通用約束：保持無字幕；不要生成 Logo；不要生成水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 3: 3D皮克斯風
+
+- **分類:** `動畫與卡通`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+參考圖片1中的小機器人角色為主體（造型與材質以圖片1為準），橫屏16:9，皮克斯3D動畫風、清晨暖陽質感調，生成30秒治癒探索短片。
+
+#### 提示詞
+
+```text
+參考圖片1中的小機器人角色為主體（造型與材質以圖片1為準），橫屏16:9，皮克斯3D動畫風、清晨暖陽質感調，生成30秒治癒探索短片。
+Shot 1：極近特寫，小機器人的圓眼鏡頭緩緩亮起對焦一朵蒲公英，固定機位，<機械對焦"嘀"聲>，（管弦樂輕柔起）。
+Shot 2：中景，小機器人歪頭好奇地伸出機械臂輕觸花瓣，鏡頭緩慢推近，<伺服馬達細微轉動聲>。
+Shot 3：全景，一陣風吹散蒲公英種子小機器人追著奔跑，鏡頭跟拍，<絨毛飄散的空氣聲>。
+Shot 4：仰拍，種子漫天飛舞小機器人張開雙臂仰望，鏡頭緩慢升降，（弦樂漸強）。
+Shot 5：遠景，小機器人獨自站在山丘頂朝陽升起拉長影子，鏡頭緩慢拉遠，（管弦樂高潮收束）。
+約束：鎖定皮克斯3D風禁止漂移寫實與吉卜力手繪；機器人造型材質以圖片1為準；次表面散射暖光貫穿全片。
+通用約束：保持無字幕；不要生成 Logo；不要生成水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 4: 水彩風景動畫
+
+- **分類:** `動畫與卡通`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+參考圖片1中的江南水鄉小鎮為主體（構圖與色調以圖片1為準），橫屏16:9，流動水彩手繪動畫風、雨後青灰淡彩調，生成30秒詩意四季流轉片。
+
+#### 提示詞
+
+```text
+參考圖片1中的江南水鄉小鎮為主體（構圖與色調以圖片1為準），橫屏16:9，流動水彩手繪動畫風、雨後青灰淡彩調，生成30秒詩意四季流轉片。
+Shot 1：極近特寫，一滴雨落入水面暈開漣漪墨色擴散，固定微俯機位，<雨滴入水的清響>，（古箏泛音起）。
+Shot 2：全景，青瓦白牆倒映水中水彩筆觸隨波輕蕩，鏡頭緩慢橫移，<細雨淅瀝聲>。
+Shot 3：遠景，一葉烏篷船劃過拱橋蕩開水紋，鏡頭緩慢跟拍，<木槳撥水聲>。
+Shot 4：中景，橋畔柳枝抽芽花瓣紛落色調轉為春粉，鏡頭緩慢推近，<微風拂葉聲>。
+Shot 5：遠景，暮色四合燈籠次第亮起倒映滿河，鏡頭緩慢升降，（古箏悠遠收束）。
+約束：鎖定流動水彩手繪風禁止漂移寫實與3D；水鄉構圖以圖片1為準；筆觸暈染感與紙紋肌理全程保留。
+通用約束：保持無字幕；不要生成 Logo；不要生成水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+<a id="category-23"></a>
+
+### 運動與健身 (4)
+
+### No. 1: 健身房力量
+
+- **分類:** `運動與健身`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+參考圖片1中的硬拉運動員為主體（人物與器械以圖片1為準），豎屏9:16，硬核健身廣告風、冷調高對比鋼鐵質感，生成30秒力量爆發片。
+
+#### 提示詞
+
+```text
+參考圖片1中的硬拉運動員為主體（人物與器械以圖片1為準），豎屏9:16，硬核健身廣告風、冷調高對比鋼鐵質感，生成30秒力量爆發片。
+Shot 1：極近特寫，掌心鎂粉重重拍向槓鈴粉末四濺，固定機位，<鎂粉拍擊的悶響>，（低頻鼓點脈衝起）。
+Shot 2：特寫，雙手死死纏握槓鈴青筋暴起，鏡頭緩慢推近，<鐵槓吱嘎受力聲>。
+Shot 3：全景，運動員發力起槓槓鈴片微微顫動，鏡頭緩慢升降跟隨起身，<深沉發力低吼>。
+Shot 4：仰拍，槓鈴舉至頂點肌肉線條被冷光勾勒，鏡頭緩慢環繞，（鼓點砸至最重）。
+Shot 5：特寫，槓鈴砸回地面彈起震動汗珠飛濺，鏡頭緩慢拉遠，<鐵片落地巨響>，（鼓點戛然而止）。
+約束：人物與器械以圖片1為準；冷調硬光高對比貫穿；槓鈴片顫動與汗珠須符合真實重量物理。
+通用約束：保持無字幕；不要生成 Logo；不要生成水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 2: 瑜伽舒展
+
+- **分類:** `運動與健身`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+參考圖片1中的瑜伽練習者與晨光教室為主體（人物與空間以圖片1為準），豎屏9:16，靜謐禪意生活方式風、晨霧柔光低飽和調，生成30秒身心舒展片。
+
+#### 提示詞
+
+```text
+參考圖片1中的瑜伽練習者與晨光教室為主體（人物與空間以圖片1為準），豎屏9:16，靜謐禪意生活方式風、晨霧柔光低飽和調，生成30秒身心舒展片。
+Shot 1：極近特寫，練習者閉眼深呼吸鼻息帶起細塵在光束中浮動，固定機位，<一次悠長呼吸聲>，（頌缽長音起）。
+Shot 2：全景，身體緩緩折疊進入前屈晨光灑過背脊，鏡頭緩慢升降，<衣物摩擦的細響>。
+Shot 3：中景，雙臂舒展流轉進入戰士式呼吸平穩，鏡頭緩慢環繞，（缽音與鳥鳴交織）。
+Shot 4：特寫，指尖輕點腳踝肌肉線條舒展拉伸，鏡頭緩慢平移，<肌腱拉伸的輕微聲>。
+Shot 5：全景，盤坐合十垂首晨霧漫過整個教室，鏡頭緩慢拉遠，（頌缽餘音收束）。
+約束：人物與晨光教室以圖片1為準；柔光低飽和禪意基調貫穿；動作連貫平緩禁止任何急促切換。
+通用約束：保持無字幕；不要生成 Logo；不要生成水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 3: 籃球扣籃
+
+- **分類:** `運動與健身`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+參考圖片1中的街球運動員為主體（人物與球場以圖片1為準），橫屏16:9，熱血街頭運動廣告風、黃昏暖橙硬光調，生成30秒扣籃高燃片。
+
+#### 提示詞
+
+```text
+參考圖片1中的街球運動員為主體（人物與球場以圖片1為準），橫屏16:9，熱血街頭運動廣告風、黃昏暖橙硬光調，生成30秒扣籃高燃片。
+Shot 1：極近特寫，籃球在指尖飛速旋轉紋路清晰，固定機位，<皮球旋轉的摩擦聲>，（電子鼓點重拍起）。
+Shot 2：全景，運動員運球突破急停變向鞋底摩擦地面，鏡頭跟拍，<球鞋急煞尖叫聲>。
+Shot 3：中景，雙腳蹬地騰空身體拉滿向籃筐飛躍，鏡頭緩慢升降跟隨起跳，<起跳蹬地的爆響>。
+Shot 4：仰拍，人在空中滯留手舉球即將砸下逆光剪影，鏡頭緩慢環繞，（鼓點抽空靜默一拍）。
+Shot 5：特寫，籃球暴力灌入籃網籃筐劇烈震顫，鏡頭緩慢推近，<籃筐哐當巨響>，（鼓點炸裂收束）。
+約束：人物與街頭球場以圖片1為準；黃昏暖橙硬光逆光貫穿；騰空滯空與籃網抖動須符合真實運動物理。
+通用約束：保持無字幕；不要生成 Logo；不要生成水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 4: 跑步剪影
+
+- **分類:** `運動與健身`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+參考圖片1中的晨跑者與海岸公路為主體（人物剪影與環境以圖片1為準），橫屏16:9，勵志運動品牌片風、日出逆光金橙調，生成30秒晨跑堅持片。
+
+#### 提示詞
+
+```text
+參考圖片1中的晨跑者與海岸公路為主體（人物剪影與環境以圖片1為準），橫屏16:9，勵志運動品牌片風、日出逆光金橙調，生成30秒晨跑堅持片。
+Shot 1：極近特寫，跑鞋踏上濕瀝青濺起細小水花，固定微俯機位，<鞋底觸地的踏響>，（激勵弦樂鋪底起）。
+Shot 2：中景，跑者逆光剪影勻速邁步汗水沿下頜滴落，鏡頭跟拍，<平穩有力的呼吸節奏>。
+Shot 3：全景，海岸線延展朝陽躍出海面染紅天際，鏡頭緩慢升降，（弦樂加入鼓點推進）。
+Shot 4：特寫，擺臂手錶數字跳動心率攀升，鏡頭緩慢平移，<手錶滴答提示音>。
+Shot 5：遠景，跑者剪影衝上坡頂張開雙臂擁抱朝陽，鏡頭緩慢拉遠，（弦樂鼓點齊鳴高潮收束）。
+約束：人物剪影與海岸公路以圖片1為準；日出逆光金橙調貫穿；跑姿步頻均勻連貫不出現頓挫。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+<a id="category-24"></a>
+
+### 音樂、舞蹈與MV (4)
+
+### No. 1: 舞蹈跟拍
+
+- **分類:** `音樂、舞蹈與MV`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+參考圖片1中的現代舞者與工業風空間為主體（人物與場景以圖片1為準），豎屏9:16，都市MV跟拍風、冷藍霓虹光影調，生成30秒律動舞蹈片。
+
+#### 提示詞
+
+```text
+參考圖片1中的現代舞者與工業風空間為主體（人物與場景以圖片1為準），豎屏9:16，都市MV跟拍風、冷藍霓虹光影調，生成30秒律動舞蹈片。
+Shot 1：極近特寫，舞者指尖隨第一記節拍驟然彈開，固定機位，<清脆響指>，（律動電子節拍起）。
+Shot 2：全景，身體大幅甩動舞步鋪開跟隨節拍擺動，鏡頭跟拍，<衣料破空甩動聲>。
+Shot 3：中景，旋轉跳躍裙擺劃出弧線霓虹拖影，鏡頭緩慢環繞，（節拍加密疊入貝斯）。
+Shot 4：特寫，腳尖急促踩點地面反光晃動，鏡頭緩慢平移，<鞋跟連續踏點聲>。
+Shot 5：全景，定格pose霓虹頻閃照亮全身輪廓，鏡頭緩慢拉遠，（節拍在重拍上收束）。
+約束：人物與工業風空間以圖片1為準；冷藍霓虹光影貫穿；運鏡節奏須與音樂重拍嚴格同步。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 2: 鋼琴獨奏
+
+- **分類:** `音樂、舞蹈與MV`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+參考圖片1中的鋼琴家與老劇院舞台為主體（人物與鋼琴以圖片1為準），橫屏16:9，古典音樂會電影感風、暖金聚光暗場調，生成30秒深情獨奏片。
+
+#### 提示詞
+
+```text
+參考圖片1中的鋼琴家與老劇院舞台為主體（人物與鋼琴以圖片1為準），橫屏16:9，古典音樂會電影感風、暖金聚光暗場調，生成30秒深情獨奏片。
+Shot 1：極近特寫，指尖懸停琴鍵上方輕輕落下按響第一音，固定機位，（鋼琴單音清越響起）。
+Shot 2：特寫，雙手在黑白鍵上流暢遊走琴錘起落，鏡頭緩慢平移，<琴鍵擊弦的清脆聲>。
+Shot 3：中景，琴家閉眼投入身體隨旋律微微俯仰，鏡頭緩慢推近，（旋律漸入高潮）。
+Shot 4：全景，聚光燈下鋼琴孤懸空曠舞台塵光浮動，鏡頭緩慢升降，（和弦層層疊起）。
+Shot 5：極近特寫，最後一鍵按下手指停駐餘音震顫，鏡頭緩慢拉遠，<琴弦餘音漸消>，（旋律靜靜收束）。
+約束：人物與鋼琴以圖片1為準；暖金聚光暗場影調貫穿；手部按鍵動作須與音符起落嚴格對應。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 3: 街舞battle
+
+- **分類:** `音樂、舞蹈與MV`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+參考圖片1中的兩位街舞舞者與地下場館為主體（人物與場地以圖片1為準），豎屏9:16，地下街舞紀實風、高對比暖冷混光調，生成30秒對決battle片。
+
+#### 提示詞
+
+```text
+參考圖片1中的兩位街舞舞者與地下場館為主體（人物與場地以圖片1為準），豎屏9:16，地下街舞紀實風、高對比暖冷混光調，生成30秒對決battle片。
+Shot 1：極近特寫，一名舞者壓低帽簷抬眼挑釁直視鏡頭，固定機位，<人群騷動起鬨聲>，（嘻哈鼓點砸下起）。
+Shot 2：全景，第一名舞者衝入場中爆發地板動作圍觀圈讓開，鏡頭跟拍，<手掌拍地的實響>。
+Shot 3：中景，托馬斯旋轉風車動作雙腿劃圈，鏡頭緩慢環繞，（人群喝彩疊入節拍）。
+Shot 4：特寫，對手接力頂胯定格凍結帽簷甩汗，鏡頭緩慢推近，<急促換氣與踏步聲>。
+Shot 5：全景，兩人同時定格對峙圍觀者齊聲爆發，鏡頭緩慢拉遠，{（圍觀者）"哦——！"}，（鼓點重拍收束）。
+約束：兩位舞者與地下場館以圖片1為準；暖冷混光高對比貫穿；地板動作旋轉須符合真實力學連貫不卡頓。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 4: 演唱會氛圍
+
+- **分類:** `音樂、舞蹈與MV`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+參考圖片1中的主唱與體育館舞台為主體（人物與舞台以圖片1為準），橫屏16:9，大型演唱會實錄風、彩色追光與螢光海調，生成30秒萬人合唱高燃片。
+
+#### 提示詞
+
+```text
+參考圖片1中的主唱與體育館舞台為主體（人物與舞台以圖片1為準），橫屏16:9，大型演唱會實錄風、彩色追光與螢光海調，生成30秒萬人合唱高燃片。
+Shot 1：極近特寫，主唱嘴唇貼近話筒睜眼開口唱出第一句，固定機位，{（主唱）"這一夜屬於你們！"}，（搖滾前奏轟鳴起）。
+Shot 2：全景，追光掃過舞台主唱張臂點燃全場，鏡頭緩慢升降，<觀眾山呼海嘯的歡呼>。
+Shot 3：遠景，看台螢光棒連成起伏光海隨節拍搖擺，鏡頭緩慢橫移，（副歌鼓點齊奏）。
+Shot 4：中景，主唱走向台前伸手觀眾伸臂相接，鏡頭跟拍，<萬人齊聲合唱>。
+Shot 5：全景，煙花與雷射同時噴發主唱高舉話筒剪影，鏡頭緩慢拉遠，【全場大合唱】，（副歌高潮轟然收束）。
+約束：人物與體育館舞台以圖片1為準；彩色追光與螢光海貫穿；燈光頻閃與煙花須與鼓點重拍同步。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+<a id="category-25"></a>
+
+### 節日與節氣 (5)
+
+### No. 1: 春節團圓
+
+- **分類:** `節日與節氣`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+參考圖片1、圖片2、圖片3中的家人為主體（各自以對應圖為準），橫屏16:9，喜慶溫情寫實、暖紅燈籠調，生成30秒春節短片。
+
+#### 提示詞
+
+```text
+參考圖片1、圖片2、圖片3中的家人為主體（各自以對應圖為準），橫屏16:9，喜慶溫情寫實、暖紅燈籠調，生成30秒春節短片。
+Shot 1：緩慢推近，窗外煙花綻放照亮貼著福字的窗欞，室內暖紅燈籠搖曳，（悠遠中式鐘聲與喜樂漸起）。
+Shot 2：環繞，一家人圍坐年夜飯桌舉杯，蒸騰熱氣與暖光，<碗筷輕碰聲>。
+Shot 3：固定機位，老人@Image 1 給孫輩夾菜慈愛微笑，桌面佳餚特寫虛化背景。
+Shot 4：平穩跟拍，孩子@Image 3 舉起紅包在院中蹦跳，紅燈籠串一路鋪展，<清脆歡笑聲>。
+Shot 5：仰拍，全家人@Image 2 抬頭望向漫天煙花驚嘆，光影灑滿笑臉。
+Shot 6：緩慢拉遠，全家門前舉杯定格於大紅燈籠下，出現字幕【新年快樂 闔家團圓】，（喜樂收束）。
+約束：各人物以對應圖片為準，禁止外形一致的分身雙胞胎，同框各一人；紅燈籠暖調貫穿全片。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 2: 情人節浪漫
+
+- **分類:** `節日與節氣`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+參考圖片1中的女子、圖片2中的男子為主體（各自以對應圖為準），豎屏9:16，法式膠片暖調浪漫寫實，生成30秒情人節短片。
+
+#### 提示詞
+
+```text
+參考圖片1中的女子、圖片2中的男子為主體（各自以對應圖為準），豎屏9:16，法式膠片暖調浪漫寫實，生成30秒情人節短片。
+Shot 1：緩慢推近，黃昏街角女子@Image 1 手捧玫瑰回眸淺笑，暖金逆光勾勒髮絲，（輕柔鋼琴單音起）。
+Shot 2：跟拍，男子@Image 2 穿過人群快步走近，霓虹光斑在身後流動，<心跳聲漸強>。
+Shot 3：環繞，兩人相擁旋轉於灑落花瓣的廣場，暖光旋轉成光暈，（弦樂層層推起）。
+Shot 4：固定機位，特寫十指相扣互戴對戒，戒面反光一閃。
+Shot 5：升降，鏡頭自二人上升掠過掛滿燈串的樹梢，夜空繁星點點，（音樂至高潮）。
+Shot 6：緩慢拉遠，二人依偎長椅剪影，出現字幕【愛你的每一天】，（鋼琴餘韻收束）。
+約束：女子以圖片1、男子以圖片2為準，二人外形須清晰區分，禁止雙胞胎化；暖金膠片調貫穿。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 3: 中秋賞月
+
+- **分類:** `節日與節氣`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+參考圖片1中的人物為主體（以圖片1為準），橫屏16:9，靜謐東方水墨寫意與寫實融合、青藍月華調，生成30秒中秋短片。
+
+#### 提示詞
+
+```text
+參考圖片1中的人物為主體（以圖片1為準），橫屏16:9，靜謐東方水墨寫意與寫實融合、青藍月華調，生成30秒中秋短片。
+Shot 1：仰拍，一輪滿月自雲海中緩緩浮出，清輝傾瀉，（古琴泛音悠然起）。
+Shot 2：緩慢推近，人物@Image 1 獨立庭院石桌前抬頭望月，桂樹影婆娑，<夜風拂葉聲>。
+Shot 3：固定機位，特寫月餅被掰開露出金黃流心，茶煙裊裊升起。
+Shot 4：平穩橫移，庭院燈籠與月影倒映於池水微波蕩漾，<水聲潺潺>。
+Shot 5：環繞，人物@Image 1 舉杯邀月對飲衣袂輕揚，月華流轉。
+Shot 6：緩慢拉遠，人影與巨大滿月同框成剪影，出現字幕【但願人長久】，（古琴收束）。
+約束：人物以圖片1為準；青藍月華冷調統一，避免暖色干擾月色氛圍。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 4: 聖誕氛圍
+
+- **分類:** `節日與節氣`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+參考圖片1、圖片2中的兩位家人為主體（各自以對應圖為準），豎屏9:16，北歐暖調童話寫實、壁爐橙光調，生成30秒聖誕短片。
+
+#### 提示詞
+
+```text
+參考圖片1、圖片2中的兩位家人為主體（各自以對應圖為準），豎屏9:16，北歐暖調童話寫實、壁爐橙光調，生成30秒聖誕短片。
+Shot 1：緩慢推近，窗外飄雪落在綴滿彩燈的聖誕樹上，室內壁爐火光跳動，（清脆鈴鐺與聖誕樂起）。
+Shot 2：固定機位，人物@Image 1 掛上最後一顆星形裝飾滿意微笑，彩燈映在臉上。
+Shot 3：跟拍，人物@Image 2 抱著禮物盒跑向樹下驚喜張望，暖橙光暈流轉，<拆禮物紙聲>。
+Shot 4：俯拍，桌上薑餅、熱可可與蠟燭鋪陳，熱氣與糖霜閃爍。
+Shot 5：環繞，兩人@Image 1@Image 2 依偎壁爐前碰杯，窗外雪花紛飛。
+Shot 6：緩慢拉遠，屋內暖光透過雪夜窗櫺，出現字幕【Merry Christmas】，（聖誕樂收束）。
+約束：兩人各以對應圖片為準，外形須區分，禁止雙胞胎化，同框各一人；壁爐暖橙調貫穿。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 5: 立春節氣
+
+- **分類:** `節日與節氣`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+無參考人物，橫屏16:9，二十四節氣東方美學、清新水彩寫意寫實、嫩綠新芽調，生成30秒立春節氣短片。
+
+#### 提示詞
+
+```text
+無參考人物，橫屏16:9，二十四節氣東方美學、清新水彩寫意寫實、嫩綠新芽調，生成30秒立春節氣短片。
+Shot 1：緩慢推近，殘雪覆蓋的枯枝頂端一粒嫩芽悄然頂出冰晶，晨光穿透，（清越竹笛單音起）。
+Shot 2：微距固定機位，冰凌融化滴落砸在濕潤泥土上，<水滴清脆聲>。
+Shot 3：平穩橫移，田野殘雪漸退嫩綠鋪展，第一株野花探頭，<春風輕拂聲>。
+Shot 4：仰拍，燕子掠過湛藍天空盤旋，柳條抽出新綠隨風擺動，（笛聲漸揚）。
+Shot 5：升降，鏡頭自嫩芽升起俯瞰甦醒的大地，溪流解凍奔湧，（絲竹層層推起）。
+Shot 6：緩慢拉遠，一樹新綠立於原野，出現字幕【立春 萬物始生】，（絲竹收束）。
+約束：色彩由冷灰殘雪過渡到暖嫩綠，體現由冬入春的時序變化；無人物出鏡。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+<a id="category-26"></a>
+
+### 自然、天文與紀錄片 (4)
+
+### No. 1: 星空延時
+
+- **分類:** `自然、天文與紀錄片`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+無參考人物，橫屏16:9，BBC紀錄片級星空延時攝影、深空幽藍調，生成30秒星空延時短片。
+
+#### 提示詞
+
+```text
+無參考人物，橫屏16:9，BBC紀錄片級星空延時攝影、深空幽藍調，生成30秒星空延時短片。
+Shot 1：仰拍，銀河拱橋橫貫天頂群星旋轉流動，前景孤峰剪影，（低沉宇宙氛圍電子樂起）。
+Shot 2：固定機位延時，星軌以北極星為心畫出同心圓弧，<夜蟲低鳴>。
+Shot 3：緩慢橫移，銀河緩緩沉入遠山，流星劃破夜空拖出長尾。
+Shot 4：升降，鏡頭自地面草原升起，銀河與地平線一同展開，（弦樂鋪底漸入）。
+Shot 5：緩慢推近，深空星雲的紫紅氣團在星海中翻湧，星點閃爍。
+Shot 6：緩慢拉遠，星空回落至一人孤帳微光，出現字幕【宇宙 · 亙古如斯】，（氛圍樂收束）。
+約束：全程延時質感，天體運動流暢連貫；深藍幽紫冷調統一，無人物特寫。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 2: 極光流動
+
+- **分類:** `自然、天文與紀錄片`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+無參考人物，橫屏16:9，北極紀錄片寫實、冰雪極夜與翠綠極光調，生成30秒極光短片。
+
+#### 提示詞
+
+```text
+無參考人物，橫屏16:9，北極紀錄片寫實、冰雪極夜與翠綠極光調，生成30秒極光短片。
+Shot 1：仰拍，翠綠極光簾幕自天際驟然點亮如波濤翻捲，（空靈合成器音牆驟起）。
+Shot 2：緩慢橫移，極光倒映於結冰湖面雪原一片銀白，<極寒風聲呼嘯>。
+Shot 3：固定機位延時，極光由綠轉紫急速舞動變幻，星點隱現其間。
+Shot 4：緩慢推近，極光光簾細節如絲綢般流瀉垂落，<冰面開裂低鳴>。
+Shot 5：升降，鏡頭掠過雪松林升向漫天極光，冷冽通透。
+Shot 6：緩慢拉遠，極光籠罩整片冰原孤木佇立，出現字幕【極地之光】，（音牆漸隱收束）。
+約束：極光色彩過渡自然流暢，避免生硬閃爍；冷調為主，無人物出鏡。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 3: 火山熔岩
+
+- **分類:** `自然、天文與紀錄片`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+無參考人物，橫屏16:9，地質紀錄片震撼寫實、熾紅熔岩與黑岩冷煙對比調，生成30秒火山短片。
+
+#### 提示詞
+
+```text
+無參考人物，橫屏16:9，地質紀錄片震撼寫實、熾紅熔岩與黑岩冷煙對比調，生成30秒火山短片。
+鏡頭1：緩慢推近，火山口熾紅熔岩翻滾沸騰迸濺火星，濃煙升騰，（低頻轟鳴鼓點驟起）。
+鏡頭2：固定機位，熔岩流緩慢漫過黑色岩地表面結出金紅裂紋，<岩漿咕嘟灼燒聲>。
+鏡頭3：俯拍，熔岩河如金色血脈蜿蜒流淌切開焦黑山坡。
+鏡頭4：緩慢橫移，熔岩墜入海面激起白色蒸汽爆裂，<水火相激爆裂聲>。
+鏡頭5：仰拍，夜空下火山噴發熔岩彈劃出橙紅弧線，煙柱沖天，（鼓點至高潮）。
+鏡頭6：緩慢拉遠，冷卻熔岩原上餘燼閃爍如星，出現字幕【大地 · 熾熱心臟】，（轟鳴漸息收束）。
+約束：熾紅暖光與黑岩冷調強烈對比；熔岩流動質感真實黏稠，無人物出鏡。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 4: 森林晨霧
+
+- **分類:** `自然、天文與紀錄片`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+無參考人物，橫屏16:9，自然紀錄片治癒寫實、晨光丁達爾與青翠霧林調，生成30秒森林晨霧短片。
+
+#### 提示詞
+
+```text
+無參考人物，橫屏16:9，自然紀錄片治癒寫實、晨光丁達爾與青翠霧林調，生成30秒森林晨霧短片。
+鏡頭1：緩慢推近，晨光穿透高大杉林形成道道丁達爾光束，薄霧流動，（空靈長笛與鳥鳴起）。
+鏡頭2：固定機位，露珠懸於蕨葉尖端折射晨光墜落，<清脆鳥鳴此起彼伏>。
+鏡頭3：平穩橫移，霧氣在林間苔石溪流上緩緩漂移，<溪水潺潺>。
+鏡頭4：仰拍，鏡頭沿樹幹上搖至林冠頂端陽光傾瀉而下，光斑跳動。
+鏡頭5：跟拍，一頭鹿悄然穿行霧林步履輕盈回眸，<落葉輕響>。
+鏡頭6：緩慢拉遠，晨霧中的森林全景漸次明亮，出現字幕【晨林 · 萬籟初醒】，（長笛餘韻收束）。
+約束：光束與霧氣層次通透自然；青翠柔和暖調，動物動作真實不僵硬，無人物出鏡。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+<a id="category-27"></a>
+
+### 擬人化與創意梗 (2)
+
+### No. 1: AI 模型格鬥擬人化
+
+- **分類:** `擬人化與創意梗`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+無參考人物，採用原創擬人格鬥選手（不影射任何真實公司或品牌商標），豎屏9:16，賽博競技場熱血動漫風、霓虹全息調，生成30秒擬人格鬥短片。
+
+#### 提示詞
+
+```text
+無參考人物，採用原創擬人格鬥選手（不影射任何真實公司或品牌商標），豎屏9:16，賽博競技場熱血動漫風、霓虹全息調，生成30秒擬人格鬥短片。
+鏡頭1：緩慢推近，全息競技場中央兩名原創機甲擬人選手對峙蓄力，胸口能量核心亮起，（燃系電子鼓點炸裂起）。
+鏡頭2：跟拍，藍色數據流選手揮出光拳殘影拉絲，<高頻能量嗡鳴>。
+鏡頭3：環繞，橙色算力選手側身閃避反手格擋火花四濺，霓虹光軌環繞。
+鏡頭4：仰拍，兩拳相撞爆發衝擊波掀翻全息看台粒子，字幕彈出【推理速度對決】。
+鏡頭5：固定機位慢鏡，藍方選手核心過載迸裂被擊退，代碼碎片飛散，<電流爆裂聲>。
+鏡頭6：緩慢拉遠，橙方選手立於擂台舉拳，全息榜單亮起，出現字幕【本輪勝出】，（鼓點收束）。
+約束：兩名選手配色造型須明顯區分（藍vs橙），禁止雙胞胎化，同框各一名；純原創擬人，不出現任何真實品牌標識或名稱。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
+### No. 2: 編程語言擬人化互懟
+
+- **分類:** `擬人化與創意梗`
+- **来源:** `community`
+- **作者:** Atlas Cloud
+- **语言:** `zh-TW`
+- **原始連結:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+
+#### 描述
+
+無參考人物，採用原創擬人角色（不影射任何真實公司或品牌商標），橫屏16:9，辦公室情景喜劇幽默風、明快暖調，生成30秒擬人互懟短片。
+
+#### 提示詞
+
+```text
+無參考人物，採用原創擬人角色（不影射任何真實公司或品牌商標），橫屏16:9，辦公室情景喜劇幽默風、明快暖調，生成30秒擬人互懟短片。
+鏡頭1：緩慢推近，兩名原創程式設計師擬人角色隔工位對視挑眉，桌面代碼全息屏閃爍，（俏皮爵士小調起）。
+鏡頭2：固定機位，蛇形吉祥物角色慵懶攤手吐槽台詞{我一行搞定，你寫二十行}，<鍵盤敲擊聲>。
+鏡頭3：跟拍，齒輪盔甲角色不服起身拍桌反駁{可我跑得比你快十倍}，全息屏彈出進度條。
+鏡頭4：環繞，兩角色背靠背互不相讓代碼符號在頭頂碰撞爆火花，<叮噹碰撞音效>。
+鏡頭5：俯拍，第三名咖啡杯萌寵角色端來兩杯咖啡打圓場，兩人尷尬對視。
+鏡頭6：緩慢拉遠，三角色勾肩碰杯和解大笑，出現字幕【各有所長 才是最強棧】，（爵士小調收束）。
+約束：三名角色造型配色須明顯區分（蛇形/齒輪/咖啡杯），禁止雙胞胎化，同框各一名；純原創擬人，不出現任何真實編程語言商標、logo 或註冊名稱。
+通用約束：保持無字幕；不要生成 Logo；不要生成浮水印；每個鏡頭只用一種運鏡；人物需自然微動非石像。
+```
+
 ## 本地使用
 
 ```bash
@@ -632,17 +3251,17 @@ npm run build-all
 
 ## More Atlas Cloud Tools
 
-- 📘 [Workflow: Seedream 5 → Seedance 2.5 (image-first / 先图后视频)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/blob/main/docs/workflow-seedream5-seedance2.5.md) — lock characters/scenes on cheap images first, then generate 30s video in one shot.
+- 📘 [Workflow: Seedream 5 → Seedance 2.5 (image-first / 先图后视频)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/docs/workflow-seedream5-seedance2.5.md) — lock characters/scenes on cheap images first, then generate 30s video in one shot.
 - [atlascloud-cli](https://github.com/AtlasCloudAI/cli) — run prompts from your terminal.
 - 🔌 [MCP Server](https://github.com/AtlasCloudAI/mcp-server) — connect Atlas Cloud to any MCP client.
 - [atlas-cloud-skills](https://github.com/AtlasCloudAI/atlas-cloud-skills) — skills for Claude Code, Codex, and Gemini CLI.
 - [atlascloud_comfyui](https://github.com/AtlasCloudAI/atlascloud_comfyui) — ComfyUI nodes for Atlas Cloud.
 - [n8n-nodes-atlascloud](https://github.com/AtlasCloudAI/n8n-nodes-atlascloud) — n8n automation nodes.
 - [Discord](https://discord.gg/MWmMr4q9es) — join the community.
-- [Website](https://www.atlascloud.ai?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts) — explore all models and docs.
+- [Website](https://www.atlascloud.ai?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills) — explore all models and docs.
 
 ## 📄 许可证
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> 此 README 為自動生成。 2026-07-22T09:55:39.126Z
+> 此 README 為自動生成。 2026-07-23T03:14:00.832Z

@@ -1,8 +1,8 @@
 import { type PromptRecord, type SortedPromptData } from "./cms-client.js";
 import { SUPPORTED_LANGUAGES, t } from "./i18n.js";
 
-const REPO = "awesome-seedance-2.5-prompts";
-const REPO_URL = "https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts";
+const REPO = "awesome-seedance-2.5-prompts-skills";
+const REPO_URL = "https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills";
 const UTM = `?utm_source=github&utm_campaign=${REPO}`;
 
 function buildCategoryAnchor(index: number): string {
@@ -26,7 +26,7 @@ function renderBadges(promptCount: number): string {
   return [
     "[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)",
     `[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)`,
-    `[![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedance-2.5-prompts?style=social)](${REPO_URL})`,
+    `[![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedance-2.5-prompts-skills?style=social)](${REPO_URL})`,
     `[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](${REPO_URL}/pulls)`,
     `[![Prompts](https://img.shields.io/badge/prompts-${promptCount}%2B-blue.svg)](${REPO_URL})`,
   ].join("\n");
@@ -59,6 +59,49 @@ function renderRunAnyPrompt(): string {
   ].join("\n");
 }
 
+function renderSkill(locale: string): string {
+  const base = `${REPO_URL}/blob/main/skills/consistent-character-video`;
+  if (locale === "zh" || locale === "zh-TW") {
+    const tw = locale === "zh-TW";
+    return [
+      "## 🧠 Claude Skill: Consistent-Character Video",
+      "",
+      tw
+        ? `> 本倉庫自帶一個可安裝的 **Claude Skill**（[\`skills/consistent-character-video/\`](${base})）：用「先出圖、後生成影片」的流水線，讓角色 / 產品在多鏡頭、30 秒長片中全程一致不漂移 —— 先用圖像模型（Seedream 5 等）鎖定主體與分鏡，再交給 Seedance 2.5 逐鏡動畫化。`
+        : `> 本仓库自带一个可安装的 **Claude Skill**（[\`skills/consistent-character-video/\`](${base})）：用「先出图、后生成视频」的流水线，让角色 / 产品在多镜头、30 秒长片中全程一致不漂移 —— 先用图像模型（Seedream 5 等）锁定主体与分镜，再交给 Seedance 2.5 逐镜动画化。`,
+      "",
+      tw ? "**安裝**：把 `skills/consistent-character-video/` 整個資料夾複製到 `~/.claude/skills/`（或專案的 `.claude/skills/`），然後直接讓 Claude「做一條角色一致的影片」即可觸發。"
+         : "**安装**：把 `skills/consistent-character-video/` 整个文件夹复制到 `~/.claude/skills/`（或项目的 `.claude/skills/`），然后直接让 Claude「做一条角色一致的视频」即可触发。",
+      "",
+      `- [\`SKILL.md\`](${base}/SKILL.md) — 完整流水线：角色圣经 → 角色定妆表 → 分镜九宫格 → 切图 → 逐镜 i2v → 拼接`,
+      `- [\`references/cinematography.md\`](${base}/references/cinematography.md) — 电影语言库：运镜 / 光影 / 构图（中英双语）`,
+      `- [\`references/prompt-blocks.md\`](${base}/references/prompt-blocks.md) · [\`prompt-templates.md\`](${base}/references/prompt-templates.md) — 提示词框架与各阶段模板（中英双语）`,
+      `- [\`references/troubleshooting.md\`](${base}/references/troubleshooting.md) — 漂移症状 → 原因 → 修复`,
+      `- [\`scripts/generate.mjs\`](${base}/scripts/generate.mjs) — 可执行流水线（配置驱动：grid / chain / reference / t2v 多模式）`,
+      "",
+      tw ? `> 配套教程：[Workflow：Seedream 5 → Seedance 2.5（先圖後影片）](${REPO_URL}/blob/main/docs/workflow-seedream5-seedance2.5.md)。下方 100+ 條分鏡提示詞可直接餵給這條流水線。`
+         : `> 配套教程：[Workflow：Seedream 5 → Seedance 2.5（先图后视频）](${REPO_URL}/blob/main/docs/workflow-seedream5-seedance2.5.md)。下方 100+ 条分镜提示词可直接喂给这条流水线。`,
+      "",
+    ].join("\n");
+  }
+  return [
+    "## 🧠 Claude Skill: Consistent-Character Video",
+    "",
+    `> This repo ships an installable **Claude Skill** ([\`skills/consistent-character-video/\`](${base})): an image-first pipeline that keeps a character / product identical across every shot of a multi-shot 30s video — lock the subject and storyboard as stills first (Seedream 5 or any image model), then let Seedance 2.5 animate each pre-approved frame so there is nothing left to drift.`,
+    "",
+    "**Install**: copy the `skills/consistent-character-video/` folder into `~/.claude/skills/` (or your project's `.claude/skills/`), then just ask Claude for \"a consistent-character video\" to trigger it.",
+    "",
+    `- [\`SKILL.md\`](${base}/SKILL.md) — the full pipeline: character bible → character sheet → storyboard grid → split → per-shot i2v → stitch`,
+    `- [\`references/cinematography.md\`](${base}/references/cinematography.md) — deep camera / lighting / composition vocabulary (EN + zh-CN)`,
+    `- [\`references/prompt-blocks.md\`](${base}/references/prompt-blocks.md) · [\`prompt-templates.md\`](${base}/references/prompt-templates.md) — the block framework & copy-paste templates for every stage (EN + zh-CN)`,
+    `- [\`references/troubleshooting.md\`](${base}/references/troubleshooting.md) — drift symptoms → causes → fixes`,
+    `- [\`scripts/generate.mjs\`](${base}/scripts/generate.mjs) — the executable pipeline (config-driven: grid / chain / reference / t2v modes)`,
+    "",
+    `> Companion guide: [Workflow: Seedream 5 → Seedance 2.5 (image-first)](${REPO_URL}/blob/main/docs/workflow-seedream5-seedance2.5.md). The 100+ storyboard prompts below are ready to feed straight into this pipeline.`,
+    "",
+  ].join("\n");
+}
+
 function renderMoreTools(): string {
   return [
     "## More Atlas Cloud Tools",
@@ -83,6 +126,7 @@ function renderContents(data: SortedPromptData, locale: string): string {
       .toLowerCase()
       .replace(/[^a-z0-9\s-]/g, "")
       .replace(/\s+/g, "-");
+  lines.push("- [🧠 Claude Skill: Consistent-Character Video](#-claude-skill-consistent-character-video)");
   lines.push(`- [🌐 ${t("viewInGallery", locale)}](#${anchor("🌐 " + t("viewInGallery", locale))})`);
   lines.push("- [🧩 Supported Models](#-supported-models)");
   lines.push("- [▶ Run any prompt via Atlas Cloud](#-run-any-prompt-via-atlas-cloud)");
@@ -245,6 +289,7 @@ export function generateMarkdown(data: SortedPromptData, locale: string): string
   lines.push("");
   lines.push(renderLanguageNavigation(locale));
   lines.push(renderContents(data, locale));
+  lines.push(renderSkill(locale));
   lines.push(`## 🌐 ${t("viewInGallery", locale)}`);
   lines.push("");
   lines.push(`- ${t("promptLibrary", locale)}: [${t("view", locale)}](${buildPromptLibraryUrl(locale)})`);

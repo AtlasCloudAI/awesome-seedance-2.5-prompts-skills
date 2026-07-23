@@ -1,0 +1,10 @@
+{
+  "_comment": "Whole-storyboard R2V example. Place a readable board at assets/storyboard.png and submit it as Image 1 in one request. Do not split it. Make a clean copy only if a test video renders a number, divider, or note.",
+  "mode": "reference",
+  "outDir": "build",
+  "modelProfile": "seedance-default",
+  "execution": { "adapter": "atlas-rest", "apiKeyEnv": "ATLASCLOUD_API_KEY", "verifyModels": true },
+  "refs": [{ "file": "../assets/storyboard.png" }],
+  "video": { "refModel": "bytedance/seedance-2.0/reference-to-video", "resolution": "1080p", "ratio": "9:16", "duration": 15, "generate_audio": true, "watermark": false },
+  "segments": [{ "refs": [1], "duration": 15, "prompt": "Follow the storyboard in Image 1 in left-to-right, top-to-bottom order. Generate one complete shot at a time. Naturally connect the subject, composition, action, and camera language in each panel. Keep the character, wardrobe, setting, lighting, and art direction consistent. Use Image 1 dividers, numbers, arrows, and notes only to understand the sequence and shot intention; do not render them into the final video." }]
+}

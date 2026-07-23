@@ -1,0 +1,33 @@
+{
+  "_comment": "chain(两段15秒连续动作)示例 · 番茄炒蛋。前段用 last_image 设计终点；后段从上一段真实尾帧续起。生成后必须人工检查衔接。rows*cols=关键帧数；segments 引用关键帧序号(1基)。",
+  "mode": "chain",
+  "outDir": "build",
+  "modelProfile": "seedance-default",
+  "execution": { "adapter": "atlas-rest", "apiKeyEnv": "ATLASCLOUD_API_KEY", "verifyModels": true },
+
+  "grid": {
+    "model": "bytedance/seedream-v5.0-pro/text-to-image",
+    "size": "2048*1152",
+    "rows": 1,
+    "cols": 3,
+    "prompt": "生成一张1行3列共3格的漫画分镜网格图，横向并排，吉卜力食物番手绘动画风格，暖黄色调的治愈厨房、黑铁锅，手绘颗粒质感、柔和光影。每格只有一双干净的手和食物、没有人脸、没有多余的手，格间细黑边。【任何格子都不要出现数字编号或文字】。从左到右是番茄炒蛋的三个关键节点：1一只手刚打好一碗金黄蛋液，旁边案板上是切好的红番茄块（起手备料）；2番茄块在黑铁锅里煸炒、渐渐煸出红色汤汁咕嘟冒泡（中段）；3成品番茄炒蛋盛入白瓷盘、红黄相间油亮、撒上翠绿葱花、热气升腾（收尾）。三格里这双手、黑铁锅与厨房完全一致；不要无关文字或角标。"
+  },
+
+  "video": {
+    "model": "bytedance/seedance-2.0/image-to-video",
+    "resolution": "1080p",
+    "ratio": "9:16",
+    "duration": 15,
+    "generate_audio": true,
+    "watermark": false
+  },
+
+  "styleSuffix": "吉卜力食物番手绘动画风格，竖屏，暖黄治愈厨房，只有一双干净的手和食物、没有人脸与多余的手，手绘颗粒质感、柔和暖光，动作低缓连贯。",
+
+  "segments": [
+    { "first": 1, "last": 2, "duration": 15, "prompt": "一只手把金黄蛋液缓缓倒入热油锅，蛋液迅速膨起、边缘冒泡，用锅铲轻轻划散成嫩黄蛋块并盛出；随后红番茄块下入同一口黑铁锅翻炒，渐渐煸出红色汤汁、开始咕嘟冒泡。镜头缓慢推近。" },
+    { "chain": true, "last": 3, "duration": 15, "prompt": "嫩黄的炒蛋倒回番茄锅中，一只手颠勺让蛋块与番茄红汁快速翻炒裹匀、汤汁收浓油亮；最后盛入白瓷盘、撒上翠绿葱花，热气袅袅升起。镜头缓慢推近定格。" }
+  ],
+
+  "seamTrimFrames": 1
+}

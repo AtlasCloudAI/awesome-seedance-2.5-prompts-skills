@@ -1,0 +1,21 @@
+{
+  "_comment": "Two 15-second continuous-action segments. The second segment starts from the real generated tail frame. Inspect the seam manually.",
+  "mode": "chain",
+  "outDir": "build",
+  "modelProfile": "seedance-default",
+  "execution": { "adapter": "atlas-rest", "apiKeyEnv": "ATLASCLOUD_API_KEY", "verifyModels": true },
+  "grid": {
+    "model": "bytedance/seedream-v5.0-pro/text-to-image",
+    "size": "2048*1152",
+    "rows": 1,
+    "cols": 3,
+    "prompt": "Create a 1-row, 3-panel visual storyboard for tomato-and-egg stir-fry. Warm hand-drawn food-animation style, cozy yellow kitchen, black iron wok, one consistent pair of clean hands only, no face. Panel 1: beaten egg beside diced tomato. Panel 2: tomato releases red juice in the wok. Panel 3: glossy finished tomato and egg on a white plate with scallion. Thin dividers, no unrelated text."
+  },
+  "video": { "model": "bytedance/seedance-2.0/image-to-video", "resolution": "1080p", "ratio": "9:16", "duration": 15, "generate_audio": true, "watermark": false },
+  "styleSuffix": "Warm hand-drawn food-animation style; one consistent pair of hands, black iron wok, and cozy kitchen; soft warm light; natural continuous motion.",
+  "segments": [
+    { "first": 1, "last": 2, "duration": 15, "prompt": "A hand pours beaten egg into hot oil; it puffs and is gently separated into soft yellow curds, then removed. Tomato enters the same wok and releases bubbling red juice. Slow push-in." },
+    { "chain": true, "last": 3, "duration": 15, "prompt": "Continue the same wok and action from the prior final frame. Return the egg to the tomatoes, toss until glossy, plate the dish, scatter scallion, and let steam rise. Slow push-in to the final composition." }
+  ],
+  "seamTrimFrames": 1
+}

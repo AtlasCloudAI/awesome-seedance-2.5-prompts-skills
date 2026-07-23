@@ -1,0 +1,41 @@
+{
+  "_comment": "shot-pairs 示例 · 两个独立 I2V 镜头。4 格分别是镜头1首/尾、镜头2首/尾；两镜头硬切，不延续上一段尾帧。",
+  "mode": "shot-pairs",
+  "outDir": "build",
+  "modelProfile": "seedance-default",
+  "execution": { "adapter": "atlas-rest", "apiKeyEnv": "ATLASCLOUD_API_KEY", "verifyModels": true },
+
+  "grid": {
+    "model": "bytedance/seedream-v5.0-pro/text-to-image",
+    "size": "2048*1152",
+    "rows": 1,
+    "cols": 4,
+    "prompt": "生成一张1行4列的无文字视觉分镜网格图。吉卜力食物番手绘动画风格，暖黄深夜厨房，黑铁锅、木台面、同一双干净的手，无人脸。第1格：俯拍，案板上摆好五花肉片和青辣椒；第2格：中近景，五花肉在黑铁锅中煸炒至金黄卷边；第3格：俯拍，翠绿青椒段刚倒入冒烟的锅中；第4格：中近景，辣椒炒肉盛入白瓷盘、热气升腾。四格保持同一双手、黑铁锅、厨房、暖黄柔光和手绘颗粒。只有细黑格线；不要数字、标题、字幕、气泡、logo或任何文字。"
+  },
+
+  "video": {
+    "model": "bytedance/seedance-2.0/image-to-video",
+    "resolution": "1080p",
+    "ratio": "9:16",
+    "duration": 5,
+    "generate_audio": true,
+    "watermark": false
+  },
+
+  "styleSuffix": "吉卜力食物番手绘动画风格，竖屏，暖黄治愈厨房，同一双干净的手和同一口黑铁锅，无人脸、无多余的手，动作低缓自然，每个镜头以一种主导运镜为主；需要复合时保持一个同步意图。",
+
+  "segments": [
+    {
+      "first": 1,
+      "last": 2,
+      "duration": 5,
+      "prompt": "从图片1的备料画面开始，一只手把五花肉片依次滑入烧热的黑铁锅，肉片滋滋作响、渗出油脂、边缘逐渐金黄微卷。镜头从俯拍自然收束到图片2的中近景构图，缓慢推近。"
+    },
+    {
+      "first": 3,
+      "last": 4,
+      "duration": 5,
+      "prompt": "从图片3的青椒下锅画面开始，一只手用锅铲轻轻翻炒，青椒表皮渐渐起虎皮，肉片与青椒油亮混合；随后盛入白瓷盘。镜头平稳横移，收束到图片4的成品构图。"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "_comment": "Two independent I2V shots. Panels 1/2 are the first/last frame of Shot 1; panels 3/4 are the first/last frame of Shot 2. The shots use a hard cut and do not inherit a tail frame.",
+  "mode": "shot-pairs",
+  "outDir": "build",
+  "modelProfile": "seedance-default",
+  "execution": { "adapter": "atlas-rest", "apiKeyEnv": "ATLASCLOUD_API_KEY", "verifyModels": true },
+  "grid": { "model": "bytedance/seedream-v5.0-pro/text-to-image", "size": "2048*1152", "rows": 1, "cols": 4, "prompt": "Create a clean 1-row, 4-panel visual storyboard. Warm hand-drawn food-animation style, late-night kitchen, black iron wok, wood counter, one consistent pair of clean hands, no face. Panel 1: ingredients on board. Panel 2: pork searing in the wok. Panel 3: green peppers entering the wok. Panel 4: finished pork and peppers on a white plate. Keep all visual invariants consistent. Thin dividers only; no numbers, captions, bubbles, logos, or text." },
+  "video": { "model": "bytedance/seedance-2.0/image-to-video", "resolution": "1080p", "ratio": "9:16", "duration": 5, "generate_audio": true, "watermark": false },
+  "styleSuffix": "Warm hand-drawn food-animation style, vertical frame, one pair of hands and one black iron wok, no face or extra hands, natural motion, one clear camera intention per shot.",
+  "segments": [
+    { "first": 1, "last": 2, "duration": 5, "prompt": "Start from the ingredients in Image 1. A hand slides pork into the hot wok; it sizzles, renders fat, and turns golden at the edges. Slowly move from the top view into Image 2's medium-close composition." },
+    { "first": 3, "last": 4, "duration": 5, "prompt": "Start from Image 3 as green pepper enters the wok. A hand gently stirs until the pepper blisters and the dish is plated. Smooth lateral move into Image 4's final composition." }
+  ]
+}

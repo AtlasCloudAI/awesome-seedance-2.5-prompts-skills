@@ -2,20 +2,21 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedance-2.5-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-111%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+[![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedance-2.5-prompts-skills?style=social)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/pulls)
+[![Prompts](https://img.shields.io/badge/prompts-111%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 > 基于 AtlasCloud `homepage-v2` 数据源整理的 Seedance 2.5 提示词与预览视频仓库。30 秒原生 · 50 个全模态参考 · 灵活局部编辑。
 
 > 所有提示词仅用于学习、整理和检索。如有内容需要移除，请提交 issue。
 
-[![English](https://img.shields.io/badge/English-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/blob/main/README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-%E5%BD%93%E5%89%8D-brightgreen)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/blob/main/i18n/README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/blob/main/i18n/README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/blob/main/i18n/README_ja.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/blob/main/i18n/README_ko.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/blob/main/i18n/README_th.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/blob/main/i18n/README_vi.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/blob/main/i18n/README_hi.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/blob/main/i18n/README_es.md) [![Deutsch](https://img.shields.io/badge/Deutsch-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/blob/main/i18n/README_de.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/blob/main/i18n/README_fr.md) [![Italiano](https://img.shields.io/badge/Italiano-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/blob/main/i18n/README_it.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/blob/main/i18n/README_pt.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/blob/main/i18n/README_tr.md) [![العربية](https://img.shields.io/badge/%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/blob/main/i18n/README_ar.md) [![Bahasa Indonesia](https://img.shields.io/badge/Bahasa%20Indonesia-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/blob/main/i18n/README_id.md) [![Nederlands](https://img.shields.io/badge/Nederlands-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/blob/main/i18n/README_nl.md) [![Polski](https://img.shields.io/badge/Polski-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/blob/main/i18n/README_pl.md) [![Русский](https://img.shields.io/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/blob/main/i18n/README_ru.md) [![Svenska](https://img.shields.io/badge/Svenska-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/blob/main/i18n/README_sv.md)
+[![English](https://img.shields.io/badge/English-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-%E5%BD%93%E5%89%8D-brightgreen)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_ja.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_ko.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_th.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_vi.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_hi.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_es.md) [![Deutsch](https://img.shields.io/badge/Deutsch-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_de.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_fr.md) [![Italiano](https://img.shields.io/badge/Italiano-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_it.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_pt.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_tr.md) [![العربية](https://img.shields.io/badge/%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_ar.md) [![Bahasa Indonesia](https://img.shields.io/badge/Bahasa%20Indonesia-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_id.md) [![Nederlands](https://img.shields.io/badge/Nederlands-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_nl.md) [![Polski](https://img.shields.io/badge/Polski-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_pl.md) [![Русский](https://img.shields.io/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_ru.md) [![Svenska](https://img.shields.io/badge/Svenska-%E6%9F%A5%E7%9C%8B-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_sv.md)
 
 ---
 
 ## 📖 Contents
 
+- [🧠 Claude Skill: Consistent-Character Video](#-claude-skill-consistent-character-video)
 - [🌐 在 AtlasCloud 查看](#-atlascloud-)
 - [🧩 Supported Models](#-supported-models)
 - [▶ Run any prompt via Atlas Cloud](#-run-any-prompt-via-atlas-cloud)
@@ -26,10 +27,24 @@
 - [More Atlas Cloud Tools](#more-atlas-cloud-tools)
 - [📄 许可证](#-)
 
+## 🧠 Claude Skill: Consistent-Character Video
+
+> 本仓库自带一个可安装的 **Claude Skill**（[`skills/consistent-character-video/`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/consistent-character-video)）：用「先出图、后生成视频」的流水线，让角色 / 产品在多镜头、30 秒长片中全程一致不漂移 —— 先用图像模型（Seedream 5 等）锁定主体与分镜，再交给 Seedance 2.5 逐镜动画化。
+
+**安装**：把 `skills/consistent-character-video/` 整个文件夹复制到 `~/.claude/skills/`（或项目的 `.claude/skills/`），然后直接让 Claude「做一条角色一致的视频」即可触发。
+
+- [`SKILL.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/consistent-character-video/SKILL.md) — 完整流水线：角色圣经 → 角色定妆表 → 分镜九宫格 → 切图 → 逐镜 i2v → 拼接
+- [`references/cinematography.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/consistent-character-video/references/cinematography.md) — 电影语言库：运镜 / 光影 / 构图（中英双语）
+- [`references/prompt-blocks.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/consistent-character-video/references/prompt-blocks.md) · [`prompt-templates.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/consistent-character-video/references/prompt-templates.md) — 提示词框架与各阶段模板（中英双语）
+- [`references/troubleshooting.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/consistent-character-video/references/troubleshooting.md) — 漂移症状 → 原因 → 修复
+- [`scripts/generate.mjs`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/consistent-character-video/scripts/generate.mjs) — 可执行流水线（配置驱动：grid / chain / reference / t2v 多模式）
+
+> 配套教程：[Workflow：Seedream 5 → Seedance 2.5（先图后视频）](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/docs/workflow-seedream5-seedance2.5.md)。下方 100+ 条分镜提示词可直接喂给这条流水线。
+
 ## 🌐 在 AtlasCloud 查看
 
-- 提示词库: [查看](https://www.atlascloud.ai/prompts-hub/seedance-2-5-prompt?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts&locale=zh-CN)
-- 模型页: [查看](https://www.atlascloud.ai/zh/models/bytedance/seedance-2.5/text-to-video?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts)
+- 提示词库: [查看](https://www.atlascloud.ai/prompts-hub/seedance-2-5-prompt?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills&locale=zh-CN)
+- 模型页: [查看](https://www.atlascloud.ai/zh/models/bytedance/seedance-2.5/text-to-video?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills)
 
 ## 🧩 Supported Models
 
@@ -38,7 +53,7 @@
 - 🧊 **3D** — Seed3D 2.0 · Hunyuan 3D Pro · Hunyuan 3D Rapid
 - 💬 **LLM** — Claude · GPT · DeepSeek · MiniMax · Kimi · GLM · Qwen
 - 🔊 **Audio** — Grok TTS
-- 📚 **Explore more** — [300+ models »](https://www.atlascloud.ai/models?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts)
+- 📚 **Explore more** — [300+ models »](https://www.atlascloud.ai/models?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills)
 
 ## ▶ Run any prompt via Atlas Cloud
 
@@ -46,7 +61,7 @@
 
 **CLI:** Prefer the terminal? Use [atlascloud-cli](https://github.com/AtlasCloudAI/cli) to run prompts directly.
 
-**[→ Get your free Atlas Cloud API key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts)**
+**[→ Get your free Atlas Cloud API key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills)**
 
 ## 🤔 Seedance 2.5 模型简介
 
@@ -71,7 +86,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 | 提示词总数 | **111** |
 | 分类数 | **27** |
 | 预览视频数 | **11** |
-| 最后更新 | **2026-07-22T09:55:39.121Z** |
+| 最后更新 | **2026-07-23T03:14:00.831Z** |
 
 ## 🏷️ 按分类浏览
 
@@ -652,7 +667,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -677,7 +692,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -702,7 +717,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -727,7 +742,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -752,7 +767,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -777,7 +792,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -802,7 +817,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -827,7 +842,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -856,7 +871,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -881,7 +896,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -906,7 +921,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -931,7 +946,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -956,7 +971,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -981,7 +996,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1006,7 +1021,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1031,7 +1046,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1060,7 +1075,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1085,7 +1100,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1110,7 +1125,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1135,7 +1150,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1160,7 +1175,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1185,7 +1200,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1214,7 +1229,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1239,7 +1254,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1264,7 +1279,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1289,7 +1304,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1314,7 +1329,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1339,7 +1354,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1368,7 +1383,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1393,7 +1408,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1418,7 +1433,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1443,7 +1458,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1472,7 +1487,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1497,7 +1512,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1522,7 +1537,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1547,7 +1562,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1576,7 +1591,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1601,7 +1616,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1626,7 +1641,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1651,7 +1666,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1676,7 +1691,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1701,7 +1716,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1730,7 +1745,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1754,7 +1769,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1779,7 +1794,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1804,7 +1819,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1829,7 +1844,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1854,7 +1869,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1879,7 +1894,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1904,7 +1919,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1933,7 +1948,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1958,7 +1973,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -1983,7 +1998,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2008,7 +2023,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2033,7 +2048,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2058,7 +2073,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2087,7 +2102,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2112,7 +2127,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2137,7 +2152,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2162,7 +2177,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2187,7 +2202,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2212,7 +2227,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2241,7 +2256,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2266,7 +2281,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2291,7 +2306,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2316,7 +2331,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2341,7 +2356,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2370,7 +2385,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2395,7 +2410,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2420,7 +2435,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2445,7 +2460,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2470,7 +2485,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2499,7 +2514,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2523,7 +2538,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2548,7 +2563,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2573,7 +2588,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2598,7 +2613,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2627,7 +2642,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2652,7 +2667,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2677,7 +2692,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2702,7 +2717,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2731,7 +2746,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2756,7 +2771,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2781,7 +2796,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2806,7 +2821,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2835,7 +2850,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2860,7 +2875,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2885,7 +2900,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2910,7 +2925,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2939,7 +2954,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2965,7 +2980,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -2991,7 +3006,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -3017,7 +3032,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -3043,7 +3058,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -3073,7 +3088,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -3099,7 +3114,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -3125,7 +3140,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -3151,7 +3166,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -3181,7 +3196,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -3207,7 +3222,7 @@ Seedance 2.5 是 Seedance 2.0 的重大升级，带来三大提升：① 30 秒�
 - **来源:** `community`
 - **作者:** Atlas Cloud
 - **语言:** `zh`
-- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts)
+- **原始链接:** [查看](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 #### 描述
 
@@ -3236,17 +3251,17 @@ npm run build-all
 
 ## More Atlas Cloud Tools
 
-- 📘 [Workflow: Seedream 5 → Seedance 2.5 (image-first / 先图后视频)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts/blob/main/docs/workflow-seedream5-seedance2.5.md) — lock characters/scenes on cheap images first, then generate 30s video in one shot.
+- 📘 [Workflow: Seedream 5 → Seedance 2.5 (image-first / 先图后视频)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/docs/workflow-seedream5-seedance2.5.md) — lock characters/scenes on cheap images first, then generate 30s video in one shot.
 - [atlascloud-cli](https://github.com/AtlasCloudAI/cli) — run prompts from your terminal.
 - 🔌 [MCP Server](https://github.com/AtlasCloudAI/mcp-server) — connect Atlas Cloud to any MCP client.
 - [atlas-cloud-skills](https://github.com/AtlasCloudAI/atlas-cloud-skills) — skills for Claude Code, Codex, and Gemini CLI.
 - [atlascloud_comfyui](https://github.com/AtlasCloudAI/atlascloud_comfyui) — ComfyUI nodes for Atlas Cloud.
 - [n8n-nodes-atlascloud](https://github.com/AtlasCloudAI/n8n-nodes-atlascloud) — n8n automation nodes.
 - [Discord](https://discord.gg/MWmMr4q9es) — join the community.
-- [Website](https://www.atlascloud.ai?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts) — explore all models and docs.
+- [Website](https://www.atlascloud.ai?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills) — explore all models and docs.
 
 ## 📄 许可证
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> 此 README 为自动生成。 2026-07-22T09:55:39.121Z
+> 此 README 为自动生成。 2026-07-23T03:14:00.831Z
