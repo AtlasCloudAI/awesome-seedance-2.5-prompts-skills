@@ -1,42 +1,96 @@
-name: 🎬 Submit a Prompt
-description: Contribute a Seedance 2 video prompt to the collection
-title: "[Prompt] <short title>"
+name: 🎬 Submit a Seedance 2.5 Prompt
+description: Share a tested Seedance 2.5 video prompt and its real output
+title: "[Prompt]: "
 labels: ["prompt-submission"]
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for contributing! Approved prompts are added to the README and you're credited in the acknowledgements.
-        Bonus: attach a **real preview video generated via [Atlas Cloud](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-seedance-2-prompt)**.
+        ## Submit your Seedance 2.5 prompt
+
+        Thanks for contributing to the collection. Approved submissions may be added to the README with attribution.
+
+        Submit one prompt per issue. Do not include API keys, tokens, or other secrets.
+
   - type: input
-    id: title
+    id: prompt_title
     attributes:
-      label: Title
-      placeholder: e.g. "Slow push-in on a rainy street"
+      label: Prompt title
+      description: Give the prompt a short, descriptive name.
+      placeholder: "Example: Crystal ball match-cut film"
     validations:
       required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Briefly explain what the prompt creates and what makes the result useful or interesting.
+      placeholder: "Describe the subject, action, visual result, or intended use..."
+    validations:
+      required: true
+
   - type: textarea
     id: prompt
     attributes:
-      label: Prompt
-      description: The full prompt text (include camera, subject, motion).
+      label: Full prompt
+      description: Paste the complete Seedance 2.5 prompt exactly as it was tested.
       render: text
     validations:
       required: true
-  - type: dropdown
-    id: category
+
+  - type: textarea
+    id: generated_output
     attributes:
-      label: Category
-      options: [Camera language, Subject, Motion, Style, UGC, Ads, Meme, Other]
+      label: Generated Seedance 2.5 output
+      description: |
+        Drag and drop the generated video, GIF, or screenshots here, or paste a publicly accessible preview URL.
+        The output must have been generated from the submitted prompt.
+      placeholder: "Upload the generated result or paste its public URL..."
     validations:
       required: true
-  - type: input
-    id: preview
+
+  - type: upload
+    id: input_assets
     attributes:
-      label: Preview video URL (optional)
-      description: An MP4/GIF preview generated via Atlas Cloud (Seedance 2 / Kling 3 / Veo 3.1…).
+      label: Input assets (optional)
+      description: |
+        If the prompt uses reference images or videos, upload them here in the same order used by the prompt.
+    validations:
+      required: false
+      accept: ".png,.jpg,.jpeg,.webp,.gif,.mp4,.mov,.webm"
+
   - type: input
-    id: author
+    id: author_name
     attributes:
-      label: Your handle (for credit)
+      label: Author or display name
+      description: Enter the name or handle that should receive attribution.
       placeholder: "@yourname"
+    validations:
+      required: true
+
+  - type: input
+    id: author_link
+    attributes:
+      label: Author profile (optional)
+      description: Link to the author's website or social profile.
+      placeholder: "https://..."
+    validations:
+      required: false
+
+  - type: input
+    id: source_link
+    attributes:
+      label: Original source (optional)
+      description: If this is not your original prompt, provide the original public source.
+      placeholder: "https://..."
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Submission confirmation
+      options:
+        - label: I confirm that I have the right to share this prompt and output, that the output was generated from the submitted prompt, and that they may be published in this repository with attribution.
+          required: true

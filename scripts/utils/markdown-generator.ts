@@ -4,6 +4,7 @@ import { SUPPORTED_LANGUAGES, t } from "./i18n.js";
 const REPO = "awesome-seedance-2.5-prompts-skills";
 const REPO_URL = "https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills";
 const UTM = `?utm_source=github&utm_campaign=${REPO}`;
+const PROMPT_SUBMISSION_URL = `${REPO_URL}/issues/new?template=prompt.yml`;
 
 function buildCategoryAnchor(index: number): string {
   return `category-${index + 1}`;
@@ -354,14 +355,14 @@ function renderQuickLinks(locale: string): string {
   const skillUrl = `${REPO_URL}/tree/main/skills/seedance-2-5-skill`;
   const labels =
     locale === "zh"
-      ? ["浏览提示词", "安装 Seedance 2.5 Skill", "在 Atlas Cloud 生成", "获取 API Key"]
+      ? ["浏览提示词", "提交提示词", "安装 Seedance 2.5 Skill", "在 Atlas Cloud 生成", "获取 API Key"]
       : locale === "zh-TW"
-        ? ["瀏覽提示詞", "安裝 Seedance 2.5 Skill", "在 Atlas Cloud 生成", "取得 API Key"]
-        : ["Browse prompts", "Install Seedance 2.5 Skill", "Generate with Atlas Cloud", "Get an API key"];
+        ? ["瀏覽提示詞", "提交提示詞", "安裝 Seedance 2.5 Skill", "在 Atlas Cloud 生成", "取得 API Key"]
+        : ["Browse prompts", "Submit your prompt", "Install Seedance 2.5 Skill", "Generate with Atlas Cloud", "Get an API key"];
 
   return [
-    `| [${labels[0]}](${buildPromptLibraryUrl(locale)}) | [${labels[1]}](${skillUrl}) | [${labels[2]}](${buildAtlasHomepageUrl()}) | [${labels[3]}](${apiKeyUrl}) |`,
-    "|---|---|---|---|",
+    `| [${labels[0]}](${buildPromptLibraryUrl(locale)}) | [${labels[1]}](${PROMPT_SUBMISSION_URL}) | [${labels[2]}](${skillUrl}) | [${labels[3]}](${buildAtlasHomepageUrl()}) | [${labels[4]}](${apiKeyUrl}) |`,
+    "|---|---|---|---|---|",
     "",
     renderLanguageNavigation(locale),
   ].join("\n");
