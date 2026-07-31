@@ -4,7 +4,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedance-2.5-prompts-skills?style=social)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-111%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+[![Prompts](https://img.shields.io/badge/prompts-143%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 一个经过整理的 Seedance 2.5 视频提示词库，以及可安装的 **Seedance 2.5 Skill**。这个 Agent Skill 可以优化提示词、按需规划并检查 Storyboard，并生成可控视频。Storyboard 图片默认使用 Seedream 5.0 Pro，当前视频生成默认使用 Seedance 2.0；只有当所选服务商实际提供 Seedance 2.5 时，才切换到 2.5。
 
@@ -135,10 +135,10 @@ npx skills add AtlasCloudAI/atlas-cloud-skills --skill atlas-cloud
 
 | 指标 | 数量 |
 |--------|-------|
-| 提示词总数 | **111** |
-| 分类数 | **27** |
-| 预览视频数 | **11** |
-| 最后更新 | **2026-07-28** |
+| 提示词总数 | **143** |
+| 分类数 | **32** |
+| 预览视频数 | **43** |
+| 最后更新 | **2026-07-31** |
 
 <a id="featured-prompts"></a>
 
@@ -392,6 +392,11 @@ npx skills add AtlasCloudAI/atlas-cloud-skills --skill atlas-cloud
 - [`节日 / 节气`](#category-25): **5**
 - [`自然 / 天文 / 纪录片`](#category-26): **4**
 - [`拟人化 / 创意梗`](#category-27): **2**
+- [`影视创作`](#category-28): **11**
+- [`广告电商`](#category-29): **8**
+- [`知识科普`](#category-30): **6**
+- [`工业制造`](#category-31): **4**
+- [`多元场景`](#category-32): **3**
 
 <a id="all-prompts"></a>
 
@@ -3207,6 +3212,918 @@ npx skills add AtlasCloudAI/atlas-cloud-skills --skill atlas-cloud
 通用约束：保持无字幕；不要生成 Logo；不要生成水印；每个镜头只用一种运镜；人物需自然微动非石像。
 ```
 
+<a id="category-28"></a>
+
+### 影视创作 (11)
+
+### No. 1: 无对白叙事
+
+- **分类:** `影视创作`
+- **来源:** `official`
+- **作者:** ByteDance Seedance
+- **语言:** `zh`
+- **视频:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/practice/MWbJbaCQaoatRYxE7OacS8V8nwe.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/MWbJbaCQaoatRYxE7OacS8V8nwe.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+从写信、出门、穿过向日葵田到寄信，镜头在室内浅景深、门廊光影转换和金色山谷全景之间连续切换，画面调性与情绪走向从头到尾保持一致。
+
+#### 提示词
+
+```text
+一段30秒的无字视觉故事，带着法国乡村的静谧优雅，发生在普罗旺斯某个夏日午后。一位年轻女子身着米白色亚麻连衣裙，在石砌小屋内一张老木桌旁写完一封手写信，随后走出门外，沿着碎石小径穿过向日葵花田，来到村庄边缘一个复古黄色邮箱前，轻轻将信塞入其中。镜头从室内桌面的浅景深特写开始，穿过门廊——光线渐渐让位于阴影——最终上升拉开，呈现出金色山谷的全景宽画面。全程只有环境音——蝉鸣、风声、笔触纸面的沙沙声，以及邮箱轻轻合上的咔哒声——像是寄出一封远方书信后，久久停留的那一片寂静。
+```
+
+### No. 2: 概念短片
+
+- **分类:** `影视创作`
+- **来源:** `official`
+- **作者:** ByteDance Seedance
+- **语言:** `zh`
+- **视频:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/practice/EW71b98pRo92ZhxEhw9cwt8anTf.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/EW71b98pRo92ZhxEhw9cwt8anTf.mp4" controls muted playsinline width="720"></video>
+
+- **Inputs:**
+
+<p>
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/SCJobdAUIoe0CnxvyTEclVlXn8e.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/WhAVbHX4TouQC4x4sPQcSCyJnhc.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/TlUgbdVKMoNuyHxegaScdfGMn8c.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/VpaAbSTr5oMhLnxGZdIcVvupnTg.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/Upefblg4Ao6AKpx0EGYcBjxinNm.jpg" width="180" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+单段 30s 内串联梦境般的多重场景，镜头连续流转。而氛围、光感与叙事基调始终统一，适合 MV、概念片等强视觉表达。
+
+#### 提示词
+
+```text
+电影级品牌概念短片。@图片1为首帧，画面微微晃动，镜头逐渐推近，来到窗外快速后退的树影，树影后退速度越来愈快，突然切到@图片2，速度突然放缓，镜头顺着溪流缓缓前进，鸟语花香。
+镜头下移，来到水下，音效有水中气泡的声音，一群橙色的水母从镜头前优美地游过@图片3，镜头缓缓后拉，有一群小鱼晃过镜头后从水里穿到窗内@图片4，少女左看右看，在观赏小鱼
+镜头缓缓后拉，画面虚焦，随后又重新对焦画面变清晰，跟随音乐节奏切换：中式园林花窗@图片5光线转圈、教堂玻璃彩窗、飞机舷窗、穹顶天窗、飘窗、百叶窗、欧洲老虎窗、门上猫眼、相机取景框、鸟类眼睛、人类眼睛特写。
+画面停留在人类眼睛特写，随后眼睛闭上，画面黑屏，再突然一睁眼，眼睛中央出现“seedance”带重音。
+```
+
+### No. 3: 多角色群像戏
+
+- **分类:** `影视创作`
+- **来源:** `official`
+- **作者:** ByteDance Seedance
+- **语言:** `zh`
+- **视频:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/practice/ADlYbIFE1owYQUx9lX4cgF4wnab.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/ADlYbIFE1owYQUx9lX4cgF4wnab.mp4" controls muted playsinline width="720"></video>
+
+- **Inputs:**
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/YWeqbwPsmoTsgWxNn2eck5Kwnph.mp4" controls muted width="360"></video>
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/QMgBb66LPozhpPx9TR3cxNKVnPc.mp4" controls muted width="360"></video>
+
+#### 描述
+
+多名演员与环境设定并稳定保持
+
+#### 提示词
+
+```text
+30秒，16:9，一镜到底，真实电影感，欧式宫殿宴会厅派对群像镜头。场景参考 @图片8、@图片13、@图片17，主吊灯细节参考 @图片15，香槟杯参考 @图片1 和 @图片10，香槟塔参考 @图片3 和 @图片6，彩带参考 @图片19。人物为：男1参考 @图片2，男2参考 @图片11，男3参考 @图片4，男4参考 @图片7，女1参考 @图片9，女2参考 @图片5，男5参考 @图片16，女3参考 @图片18，男6参考 @图片12，女4参考 @图片14，男7参考 @图片20，其余背景宾客保持同一晚宴风格补足群像。 
+ 
+镜头从男2端着托盘开始。男2双手端托盘，托盘在胸前，托盘上放数只香槟杯。男1从画面左前方伸出右手，用右手拿起一只香槟杯，举到右肩前方，面向前方宾客大声说："Everyone, enjoy this party!"（音色参考 @音频1）说话时右手举杯，左手张开，头略微上扬。说完后立刻张嘴大笑，先看左边，再看右边。镜头同时向后拉成五人群像。男1站中间，右手举杯，左手张开。男3站男1左后方，右手举杯到肩膀高度，看向男1。男4站男1右后方，左手拿杯放在胸前，右手向上挥拳一次，看向男1。女1站男1左侧，双手在胸前鼓掌两次。女2站男1右侧，右手举杯，左手抬起欢呼。后景宾客也跟着举杯、鼓掌、转头看向男1。 
+ 
+男2完成递酒后，双手继续端托盘，从开场五人组前方向画面右侧走，托盘始终保持水平。镜头跟着男2向右移动，前景掠过礼服裙摆、持杯的手、人物肩膀和侧脸，背景持续能看到吊灯、帷幕、立柱、舞池和香槟塔。男2走到第二组群像前停下，站在中前景，双手端托盘。 
+ 
+第二组群像保持同一画面同一空间。画面左侧是碰杯组。男5站在女3对面，右手从男2托盘上拿起一只香槟杯，抬到胸前，看向女3说："Cheers to tonight."（音色参考 @音频2）女3右手拿着自己的香槟杯，抬起右手与男5轻碰一次，然后把杯子收回胸前。画面右侧是邀舞组。男6和女4面对面站立，两个人都空手，不拿香槟杯。男6看着女4，右手向前伸出，手掌朝上，说："May I have this dance?"（音色参考 @音频3）女4先停顿一瞬间，再抬眼看男6，露出笑容，然后把左手放到男6右手上。这个画面里同时存在左侧碰杯、右侧邀舞、服务生端托盘和背景宾客活动。 
+ 
+女4接受邀请后，男6右手牵着女4左手，带她走向舞池中央，两个人全程空手。女4右手提起裙摆方便移动。镜头跟着他们进入舞池。舞池边人群开始响应：有人鼓掌，有人举杯，有人身体轻摆。男6到达舞池中央后，左手牵女4右手，右手扶到女4背后，女4左手搭到男6肩部附近，进入舞蹈姿态。男7站舞池边鼓掌，其余背景宾客沿舞池外圈做鼓掌、举杯、轻摆动作。 
+ 
+镜头随后围绕男6和女4顺时针环绕。男6带女4完成两段舞蹈动作：第一段，男6带女4转半圈；第二段，男6抬高手，让女4原地转一整圈，女4红色裙摆展开。背景中的人群沿舞池外圈继续鼓掌、举杯、摆动，男1和开场五人组也在背景里继续举杯和欢呼。彩带在这一段从舞池正上方落下，位置集中在舞池中央和男女主头顶上方，数量少，只落少量细长彩带，垂直下落，不铺满整个大厅。镜头最后继续环绕两位舞者，保持他们在画面中心，背景是舞池、人群、吊灯、帷幕和少量下落的彩带，形成收尾画面。
+[0-3s] 近景拍摄，镜头聚焦在 @图1 正在拨动 @图2 古琴琴弦的手上。左侧一尊青铜香炉 @图3 青烟袅袅。背景中，一名白衣男子 @图4 模糊的身影正在吹奏 @图5。音效参考 @音效1，场景设定在水面 @图6 的小船 @图7 上，远景的山参考 @图8。 
+[3-5s] 白衣男子 @图4 立【于船头/起身】…一个圆形异象，@图9 的女子持 @图10 袭来，音效参考 @音效2。
+[5-10s] 白衣男子与红衣女子在湖面上空激烈交火，音效参考 @音效3。红衣女子持红伞，男子持扇 @图11。下方的水面被强大的真气激起巨大的环状浪花，音效参考 @音效4，如同一场水之风暴，特效参考 @视频1。 
+[10-20s] 白衣男子追逐红衣女子进入竹林 @图12，在水面上施展轻功 ……（后续段落被视频封面遮挡，未继续显现）
+Create a 30-second video with realistic cinematic texture, 16:9 aspect ratio, documentary street photography style, warm and everyday lifelike atmosphere.
+Street scene environment references @image1: late-afternoon street corner, red brick buildings, pedestrian zebra crossings, storefronts along the road, roadside vehicles and passersby, soft directional afternoon sunlight, transparent natural color tones without heavy color grading filters.
+Figures and outfits of the main dancers reference @image2; appearances of pedestrian dancers reference @image3, @image4, @image5, @image6. All characters have distinct natural facial features, no uniform performance costumes.
+Smooth multi-angle handheld one-shot long take camera movement: high oblique overhead shot, sidewalk tracking shot, shoulder close-up shot, low-angle shot focusing on footwork.
+Background music audio track references @audio1, upbeat rhythmic street pop music that aligns perfectly with the dance beats.
+Plot: A girl wearing an orange knit beanie and over-ear headphones crosses the street, dancing gently alone to the music rhythm. Passersby are gradually drawn to the groove and join the casual group dance with loose, natural movements. There is motion blur on flowing hair and clothes, and background pedestrians fill out the street crowd.
+Restore the authentic textures of brick walls, asphalt roads, knit fabrics and denim, delivering a lively and laid-back overall mood.
+Avoid distorted human bodies, duplicate faces, neon night lighting, fantasy special effects, stage performance aesthetic, watermarks and subtitles.
+```
+
+### No. 4: 3D 白模分镜预演
+
+- **分类:** `影视创作`
+- **来源:** `official`
+- **作者:** ByteDance Seedance
+- **语言:** `zh`
+- **视频:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/practice/O12JbJG1EogvJAxe7mNc5GMgnAf.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/O12JbJG1EogvJAxe7mNc5GMgnAf.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+专业级 3D 资产 + 材质参考输入，结构与镜头调度原样承接。
+
+#### 提示词
+
+```text
+保持 @视频1 中的镜头运动、时长、构图、景别、空间关系、物体位置、模型结构和运动轨迹不变，以 @图片1 作为材质、光照、色彩和整体氛围参考，将 @视频1 中的白膜材质替换为接近 @图片1 的真实材质，加入自然光影、接触阴影、环境光、反射、高光和空间层次，整体呈现真实电影级渲染质感。
+```
+
+### No. 5: 猩猩攀岩动作迁移
+
+- **分类:** `影视创作`
+- **来源:** `official`
+- **作者:** ByteDance Seedance
+- **语言:** `zh`
+- **视频:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/practice/AwvebsQReoTFxbxKvFAcUVtOnab.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/AwvebsQReoTFxbxKvFAcUVtOnab.mp4" controls muted playsinline width="720"></video>
+
+- **Inputs:**
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/ChKGbDGL1oayHqxbziuc4ZL3nXd.mp4" controls muted width="360"></video>
+
+#### 描述
+
+以真人攀岩视频为参考，将同一套攀爬动作、发力节奏与身体结构精准迁移到一只猩猩身上，画面兼具电影质感与生物合理性。
+
+#### 提示词
+
+```text
+将@视频1 中的动作迁移到一只在悬崖上攀岩的大猩猩身上，不改变运镜节奏及动作。
+```
+
+### No. 6: 影片光源重布
+
+- **分类:** `影视创作`
+- **来源:** `official`
+- **作者:** ByteDance Seedance
+- **语言:** `zh`
+- **视频:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/practice/GBLzbpW8EoHrHWxtkoWcjAwGnDe.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/GBLzbpW8EoHrHWxtkoWcjAwGnDe.mp4" controls muted playsinline width="720"></video>
+
+- **Inputs:**
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/FVWgbfxqZoe7Jqxus8uchWXTn2e.mp4" controls muted width="360"></video>
+
+#### 描述
+
+在保留原片构图、人物与运镜的前提下，一次性重写整段影片的光源布局：光位、色温、明暗层次与阴影方向同步变化，气氛从原版切换到全新光影语言。
+
+#### 提示词
+
+```text
+参考@视频1的光线从正午刺眼的顶光，改为日落时的侧光。
+```
+
+### No. 7: 更换演员表情&年龄
+
+- **分类:** `影视创作`
+- **来源:** `official`
+- **作者:** ByteDance Seedance
+- **语言:** `zh`
+- **视频:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/practice/XmHWb3Yiyoo9L3xTJKPcc8UUnjz.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/XmHWb3Yiyoo9L3xTJKPcc8UUnjz.mp4" controls muted playsinline width="720"></video>
+
+- **Inputs:**
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/EAb4bxC13oyN07x9eThcWxEDnTD.mp4" controls muted width="360"></video>
+
+#### 描述
+
+画面、镜头与节奏不变，仅对演员年龄与微表情精准编辑，一镜连续完成。
+
+#### 提示词
+
+```text
+保留@视频1的构图、机位、光线与表演节奏，只改写画面里女主的样貌与神情：让她从二十多岁自然地老去到六十岁，眼神里的隐忍慢慢化开，泪光滑过眼角，嘴角一点点扬起，最后破涕为笑。全程一镜到底，不跳切、不闪烁，五官随年龄渐变而不漂移。
+```
+
+### No. 8: 调整影片风格
+
+- **分类:** `影视创作`
+- **来源:** `official`
+- **作者:** ByteDance Seedance
+- **语言:** `zh`
+- **视频:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/practice/Lt8tbaa9woyiHqxV4C3cxsBenqc.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/Lt8tbaa9woyiHqxV4C3cxsBenqc.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+构图与运镜完全不变，一键切换实拍写实、插画、漫画等整体视觉风格
+
+#### 提示词
+
+```text
+保持@视频1 的运镜和节奏，将画面风格依次改为 黑白漫画风格、日本动漫风格、美式硬核风格、水墨动画风格。
+```
+
+### No. 9: 短素材延长成片
+
+- **分类:** `影视创作`
+- **来源:** `official`
+- **作者:** ByteDance Seedance
+- **语言:** `zh`
+- **视频:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/practice/BDAxb7BPSokb0NxxtF9cJBKWn0f.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/BDAxb7BPSokb0NxxtF9cJBKWn0f.mp4" controls muted playsinline width="720"></video>
+
+- **Inputs:**
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/QtxMbkHtmo95Dxx1ZKNcxVwrnQc.mp4" controls muted width="360"></video>
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/R6IDb4oPAoIzIxxW1wccdUg4nSc.mp4" controls muted width="360"></video>
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/EKMkbP8ubowXRRx6UtwcLQrNnYe.mp4" controls muted width="360"></video>
+
+#### 描述
+
+高保真时序延长，把短镜头自然延展为更长成片。
+
+#### 提示词
+
+```text
+在@视频 1 的基础上续写 5 秒的视频，讲一只蜜蜂飞来落在画上，接着微距特写蜜蜂腿部和腹部沾满金黄色花粉颗粒,蜜蜂振翅起飞,镜头跟随它飞向另一朵同种花上,慢镜头中,花粉从蜜蜂绒毛上抖落,精准落入花蕊——授粉瞬间被放大。
+在@视频2的基础上，续写 5 秒的视频，内容是延时摄影质感:原本的黄色花瓣缓缓凋谢,花蕊位置开始膨胀,从青涩小果实逐渐生长、转色、饱满,最终成为一颗成熟的豆荚。豆荚表面挂着晨露,在阳光下泛着柔和高光
+
+在@视频 3 的基础上续写 5 秒的视频延时摄影，背景闪过白天黑夜，成熟果实自然裂开,一颗种子顺势滑落掉下，镜头跟随它划过空气、落入湿润的泥土@图片 1 中。
+在@视频 3 的基础上，续写 5 秒的视频延时摄影，背景闪过白天黑夜，成熟果实自然裂开,一颗种子顺势滑落掉下，镜头跟随它划过空气、落入湿润的泥土@图片 1 中。
+```
+
+### No. 10: 多人多场景快切
+
+- **分类:** `影视创作`
+- **来源:** `official`
+- **作者:** ByteDance Seedance
+- **语言:** `zh`
+- **视频:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/practice/Cs8Gbu4Ago8I13xgegQcO76Engh.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/Cs8Gbu4Ago8I13xgegQcO76Engh.mp4" controls muted playsinline width="720"></video>
+
+- **Inputs:**
+
+<p>
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/C3uabE721o2Ov1xpWRYckNTXntg.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/L8t2bJxeYoNjEyxB13vcm0l0nIe.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/T0jjb7hsSojtIrxE5EycYrWenbb.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/T9n2bryJ9oR6auxTvnpcqtDOnPd.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/CoTibF329oAIZYxfVddcwqavnJd.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/LvNEbKeysohsInxB0gucxNxCnAh.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/X6Zobh6Zxo7dp3x0iwFc8noFnRc.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/IUBfbxj7ho3mmhxmuahcJB0Fn7e.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/XJKPbkmdEogXHDxwbHjcGp7gnCe.jpg" width="180" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+生成结果
+
+#### 提示词
+
+```text
+真人实拍风格，快速剪辑，电影感，4K，24fps，温暖自然光，真实人物表演，自然口型同步，无字幕。以一朵鲜花的传递作为整支视频的核心视觉线索，花从一个国家快速传到下一个国家，串联全球不同地域与人群。每到一个场景，都有一个人物接过花、露出真诚微笑，并用当地语言说 “谢谢”。整体节奏轻快流畅，镜头富有动感，强调真实街头 / 生活气息、跨文化温暖连接、人与人之间的善意传递。
+转场方式：以前一个人物把花递出画面，下一镜头由另一个人物在新场景中接住花
+或使用快速甩镜、运动模糊、前景遮挡完成无缝转场
+保持花在画面中的视觉连续性，形成 “一镜传全球” 的感觉
+镜头风格：手持跟拍、轻微镜头晃动、快速推拉、近景与中景结合、真实环境音氛围、电影级街拍质感。背景音乐温馨、轻快、有世界旅行感，结尾温柔淡出。
+场景 1 【@图片1】中国花店内，真实生活化场景。女孩接过一枝玫瑰，看向镜头微笑，自然地说：“谢谢！”镜头跟随花从画面右侧递入，女孩接花后轻轻扬起花束。
+场景 2【@图片2】英格兰街头，微凉天气，街景自然。男士接过一枝康乃馨，微笑点头，说：“Thank you!”通过甩镜转场，花从上一场景甩入这一场景。
+场景 3 【@图片3】墨西哥市场，色彩丰富，充满烟火气。阿姨接过一束万寿菊，双手合十，温暖地说：“¡Gracias!”镜头快速掠过摊位与人群，定格在接花瞬间。
+场景 4 【@图片4】印尼乡村，自然阳光洒落。孩子接过一朵鸡蛋花，开心微笑，微微鞠躬，说：“Terima kasih!”镜头带一点奔跑感，氛围纯真自然。
+场景 5 【@图片5】泰国街头，热闹市井。摊贩接过一串茉莉花环，双手合十，亲切地说：“ขอบคุณค่ะ!”镜头轻快推进，花环在阳光下微微摆动。
+场景 6 【@图片6】阿拉伯庭院，光影柔和，环境雅致。女士接过一枝沙漠玫瑰，抚胸微笑，说：“شكراً!”画面安静而温暖，人物神情真挚。
+场景 7 【@图片7】巴西社区，氛围热情鲜活。男孩接过一朵非洲菊，十分开心，说：“Obrigado!”镜头富有节奏感，充满生命力。
+场景 8 【@图片8】日本街道，上班族接过便当上的一朵小花，礼貌鞠躬，说：“ありがとう！”镜头短促利落，保留都市节奏感。
+场景 9 【@图片9】韩国街头，现代都市感。女青年接过一枝杜鹃花，双手自然合拢，微笑说：“감사합니다!”镜头在她微笑的瞬间稍作停留，随后画面柔和淡出。
+```
+
+### No. 11: 多语种版本同步发行
+
+- **分类:** `影视创作`
+- **来源:** `official`
+- **作者:** ByteDance Seedance
+- **语言:** `zh`
+- **视频:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/practice/EAm4b2mXJovmFFxS6sWcbUWvnob.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/EAm4b2mXJovmFFxS6sWcbUWvnob.mp4" controls muted playsinline width="720"></video>
+
+- **Inputs:**
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/Nnrybd5xPoqmQhxgXeacYG8Gn8b.mp4" controls muted width="360"></video>
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/EwDwbSynfoHRStxwPvAcyLj2nnb.mp4" controls muted width="360"></video>
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/KaZzbc0vqok7AHxXtKfcilbcnUb.mp4" controls muted width="360"></video>
+
+#### 描述
+
+电影预告片宣发，一次创作输出多语种口播版本
+
+#### 提示词
+
+```text
+将声音、台词、旁白、标题字幕中的任何英语都改为法语/日语，其他均保持一致
+```
+
+<a id="category-29"></a>
+
+### 广告电商 (8)
+
+### No. 1: 实拍广告 TVC
+
+- **分类:** `广告电商`
+- **来源:** `official`
+- **作者:** ByteDance Seedance
+- **语言:** `zh`
+- **视频:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/practice/VZKCbOaqPoS8O0xQX0UcaeijnEb.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/VZKCbOaqPoS8O0xQX0UcaeijnEb.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+单段 30s 完整承载从产品细节到场景演绎的品牌叙事。
+
+#### 提示词
+
+```text
+制作一支30秒竖屏家居广告。主产品为浅灰绿色模块组合沙发，圆润弧形线条，低矮厚实坐垫，搭配米白毯和棕色抱枕。
+前15秒为纯白无缝影棚产品展示：沙发完整陈列，镜头依次慢推近、水平横移、侧向平移展示轮廓与形态，最后后拉至全景定格。布光均匀柔和，背景纯白干净，不扫光、不闪白。
+后15秒转入暖光客厅傍晚：女主人穿米白针织家居服坐在沙发上读书，腿搭米白毯；轻放咖啡杯，猫跳上沙发；孩子跑入靠在肩上，女主人低头微笑；夜晚落地灯亮起，三者安静靠在沙发上，镜头缓慢后拉定格，留出品牌标识空间。整体风格克制、温柔、干净，画面真实自然。
+```
+
+### No. 2: 3D 动画广告
+
+- **分类:** `广告电商`
+- **来源:** `official`
+- **作者:** ByteDance Seedance
+- **语言:** `zh`
+- **视频:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/practice/XPVCbTesxoHYQExDgKXcg2r1nrg.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/XPVCbTesxoHYQExDgKXcg2r1nrg.mp4" controls muted playsinline width="720"></video>
+
+- **Inputs:**
+
+<p>
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/VZnGbGIjboQKRqxyAoIcBADanQH.jpg" width="180" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+生成结果
+
+#### 提示词
+
+```text
+3D 动画广告风，色彩明亮通透，果肉和汁水要有强烈的清爽感与冲击力。整体气质像高质量商业动画短片，带一点夸张幽默。沙漠角蜥角色可爱、灵动，表情丰富，参考【图片1】。画面质感参考图中那种柔和自然光、细腻绒毛 / 表皮质感、梦幻微距景深、真实中带一点童趣 的感觉。
+0-3 秒：画面一片被烈日暴晒的沙漠。空气热得扭曲，沙地发烫，远处像在冒烟。一只沙漠角蜥 趴在滚烫的沙子上，舌头微微吐着，眼神涣散，快被晒干了。它走两步就晃一下，整只沙漠角蜥像快要 “蒸发” 了。
+音效热浪呼呼声，轻微夸张的干裂声。
+3-6 秒：画面沙漠角蜥突然停住，鼻子动了动。它低头一看，沙子里竟然埋着一颗 冰凉饱满、带着水珠的葡萄柚。葡萄柚在阳光下晶莹发亮，表皮细腻，像沙漠里突然出现的奇迹。
+表演蜥蜴眼睛瞬间瞪大，像看到救命稻草。
+音效“叮” 一下的发现音效。
+6-8 秒：画面沙漠角蜥一个飞扑冲过去，双手死死抱住葡萄柚，整张脸贴在果皮上。它露出 “终于活过来了” 的幸福表情。画面定住 1 秒，形成一个夸张又好笑的广告记忆点。
+音效扑通一声，随后安静半秒。
+8-11 秒：画面沙漠角蜥抓住葡萄柚。葡萄柚果皮裂开，里面饱满的果肉闪着透亮光泽。下一瞬间，汁水不是流出来，而是像海啸一样喷涌而出。
+音效“咔嚓” 咬开声，接一声夸张的果汁爆开声。
+11-16 秒：画面橙粉色、清透发亮的葡萄柚汁水疯狂涌出，顺着沙丘倾泻，迅速淹没整片沙漠。干燥的黄沙瞬间变成一片 清凉、闪光、带着果香感的夏日海洋。沙漠里的仙人掌、石头、小沙丘纷纷被果汁海浪吞没，画面夸张又梦幻。
+表演沙漠角蜥刚开始还很兴奋，下一秒发现不对，表情从惊喜变成惊恐。
+16-20 秒：画面沙漠角蜥差点被 “葡萄柚海” 淹没，慌忙死死抱住半颗葡萄柚，像抱着救生圈一样漂浮在海面上。它湿漉漉地探出头，表情一脸懵。海面波光粼粼，颜色像被阳光照亮的果汁。
+音效夸张扑腾声，海浪声，带一点喜剧感。
+20-23 秒：画面突然切白屏。屏幕正中出现品牌字样和 slogan：“Seedance 葡萄柚，咬开的是果肉，涌出来的是夏天。”
+旁白念出整句：“Seedance 葡萄柚，咬开的是果肉，涌出来的是夏天。”
+音效干净清爽的品牌提示音。
+23-29 秒：画面白屏切回。沙漠角蜥已经悠闲地坐在漂浮的葡萄柚上，戴着一副小墨镜，抱着吸管杯，慢悠悠漂在 “果汁海面” 上度假。周围漂着橙色果肉、小冰块、清凉水花，天空变得湛蓝，气氛一下子从 “求生” 变成 “度假”。最后沙漠角蜥满足地靠在葡萄柚上，镜头拉远，定格在清爽、明亮、好玩的夏日画面里。
+音效轻松夏日音乐，海浪轻拍声。
+字幕可只保留品牌名，不必加太多字。
+```
+
+### No. 3: 时尚品牌小片
+
+- **分类:** `广告电商`
+- **来源:** `official`
+- **作者:** ByteDance Seedance
+- **语言:** `zh`
+- **视频:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/practice/NETbbXBkGoqQVfx45MecQhwJnPw.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/NETbbXBkGoqQVfx45MecQhwJnPw.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+一次性投喂服装、手袋、鞋履等多组单品与模特、场景参考，模型自由组合输出多套穿搭与多场景时尚成片，商品细节与模特形象全程稳定保持。
+
+#### 提示词
+
+```text
+请生成一条30秒的一镜到底视频，脚本：6 位模特依次接力入画，整段运镜穿梭到底，配乐卡点切换造型。@图片1 戴着 @图片2 在 @图片3 的场景中，音效参考 @音效1。@图片3 穿着 @图片4，戴着 @图片五 的帽子，戴上了 @图片6 墨镜，端着咖啡走出来，背景是 @图片7 摆放着 @图片8，音效参考 @音效2。@图片9 在 @图片10 的场景中，穿着 @图片11 和 @图片12 摆 pose。@图片13 拎着 @图片14，穿着 @图片15 在 @图片16 中走，音效参考 @音效3。@图片17 头戴 @图片18，拎着 @图片19，在 @图片20 走来，音效参考 @音效4。@图片21 戴着 @图片22 在 @图片23 走秀，音效参考 @音效5。
+```
+
+### No. 4: 商品使用指导视频
+
+- **分类:** `广告电商`
+- **来源:** `official`
+- **作者:** ByteDance Seedance
+- **语言:** `zh`
+- **视频:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/practice/Af3ybJHOMog78LxqeOwcPMfondb.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/Af3ybJHOMog78LxqeOwcPMfondb.mp4" controls muted playsinline width="720"></video>
+
+- **Inputs:**
+
+<p>
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/YeYyb1e2RomrrKxnyiHcsblonuf.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/H6zlbhQB6oL8lUxOdw4c91HdnVc.jpg" width="180" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+商品使用指导视频
+
+#### 提示词
+
+```text
+产品是@图片1,安装使用说明是@图,2,创作一段蒸烤一体机的首次使用全流程视频。
+```
+
+### No. 5: 爆款视频复用
+
+- **分类:** `广告电商`
+- **来源:** `official`
+- **作者:** ByteDance Seedance
+- **语言:** `zh`
+- **视频:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/practice/G1ckbrvQ5o06p8x6DqCcMOfanmg.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/G1ckbrvQ5o06p8x6DqCcMOfanmg.mp4" controls muted playsinline width="720"></video>
+
+- **Inputs:**
+
+<p>
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/Q4Qmb6mHqoTqFjx8ae5c3cP1nTg.jpg" width="180" referrerpolicy="no-referrer">
+</p>
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/BhNmbZNGlo5A6mxuytLcdMXmnue.mp4" controls muted width="360"></video>
+
+#### 描述
+
+爆款视频复用
+
+#### 提示词
+
+```text
+参考 @视频1 的运镜方式与剪辑节奏，生成一条耳机@图片的广告短片。适配符合产品调性的场景，强调现代、简洁、科技感。产品特写与场景全景的切换点与原片一致，保持同样的运动速度与转场方式。
+```
+
+### No. 6: 电商 SKU 批量复用
+
+- **分类:** `广告电商`
+- **来源:** `official`
+- **作者:** ByteDance Seedance
+- **语言:** `zh`
+- **视频:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/practice/YZxrby2fOo4SvpxiIWKcUq4Gnjf.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/YZxrby2fOo4SvpxiIWKcUq4Gnjf.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+同一镜头内批量替换商品款式 / 颜色，一次拍摄覆盖整条 SKU。
+
+#### 提示词
+
+```text
+汽水饮品图是@图片1,场景图@图片2，通过特写、近景、中景、远景镜头对汽水饮品进行展示,镜头衔接连贯,主体保持一致。
+
+把@视频1中的汽水饮料瓶替换成@图片3粉色饮料瓶
+
+把@视频2中的汽水饮料瓶替换成@图片4紫色饮料瓶
+
+把@视频3中的汽水饮料瓶替换成@图片5绿色饮料瓶
+```
+
+### No. 7: 出海广告本地化适配
+
+- **分类:** `广告电商`
+- **来源:** `official`
+- **作者:** ByteDance Seedance
+- **语言:** `zh`
+- **视频:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/practice/UWsWbIH01oeBvBxtJMSc6YtsnTf.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/UWsWbIH01oeBvBxtJMSc6YtsnTf.mp4" controls muted playsinline width="720"></video>
+
+- **Inputs:**
+
+<p>
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/Y57jbgLP7oRUqbxgMkdchDBIndb.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/CDtAbUvfxohDo0x5DfXcwz0dn7d.jpg" width="180" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+镜头与节奏不变，快速更换人种 / 商品 / 文案产出多地区版本。
+
+#### 提示词
+
+```text
+@图片 1 是产品图，@图片 2是主播和场景图。主播在说台词的同时，双手和台词进行同样的挥动讲解。表情真实自然。
+0-2 秒：@图片 2 固定镜头，主角对着镜头说中文，台词是「清晨第一杯咖啡，等不了。」。
+(2–5s)按下开关，固定镜头，台词是「按一下，3 秒出杯。」
+(5–9s)继续看着镜头说，台词是「办公室、出差、深夜赶稿——现磨咖啡随身就有。」
+(9–12s)看着镜头说，台词是「打工人续命神器，限时直降。」
+将视频中的人物换成美国女性，将文案旁白改成英语。
+将视频中的人物换成西班牙男性，将文案旁白改成西班牙语。
+将视频中的人物换成印度尼西亚女性，将文案旁白改成印度尼西亚语。
+将视频中的人物换成马来西亚男性，将文案旁白改成马来西亚语。
+```
+
+### No. 8: 家居装修方案演示
+
+- **分类:** `广告电商`
+- **来源:** `official`
+- **作者:** ByteDance Seedance
+- **语言:** `zh`
+- **视频:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/practice/WTR5b7FAgoMxH3xZ8KZcRFI6ndd.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/WTR5b7FAgoMxH3xZ8KZcRFI6ndd.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+仅凭一句简单提示词，模型即可在同一空间基础上重新演绎全新装修风格：墙面材质、家具形制、软装配色、灯光氛围整体切换，同时保持房型结构与镜头调度不变，让设计师能在客户沟通现场快速试装、比对多套方案。
+
+#### 提示词
+
+```text
+Use the input video as the exact source and preserve the original camera movement, timing, composition, room layout, lighting, shadows, furniture positions, and all objects.
+Only edit two materials in the living room:
+1. Replace the light fabric sofa on the right side of the room with a rich brown leather sofa. Keep the exact same sofa shape, size, position, cushion layout, armrests, backrest, and perspective. The new sofa should look like realistic brown leather, with natural leather grain, subtle wrinkles, stitching, soft glossy highlights, and physically believable reflections from the window light.
+
+2. Replace the visible warm wooden floor with polished white marble flooring. Keep the exact same floor plane, perspective, scale, and room geometry. The marble should be white to light gray with natural subtle veins, realistic seams, and controlled polished reflections. The marble reflections should respond to the window light, furniture legs, plants, sofa base, and room shadows.
+
+Everything else must remain unchanged: the window, curtains, walls, wall art, TV, TV console, plants, rug, coffee table, books, radiator, shelves, doorframe, lighting, shadows, camera motion, and overall warm interior atmosphere. The rug and coffee table stay exactly where they are, on top of the new marble floor. The edit should look like a realistic interior renovation, not a new generated room.
+
+Maintain temporal consistency across the full video. The sofa and floor materials must remain stable from frame to frame with no flickering, warping, melting, or object changes. Preserve the original video’s natural daylight, warm tone, soft shadows, lens behavior, and smooth camera movement.
+Negative Prompt
+Do not change the room layout. Do not move furniture. Do not add or remove objects. Do not change the rug, coffee table, TV, plants, curtains, window, wall art, shelves, radiator, or doorframe. Do not change the camera movement. Do not change the sofa shape or size. Do not make the leather look plastic. Do not make the marble overly reflective like a mirror. Do not create broken or chaotic marble veins. Do not replace the rug with marble. Do not alter the walls or ceiling. No people, no text, no logo, no UI, no selection mask, no fantasy effect, no melting transition, no flickering.
+```
+
+<a id="category-30"></a>
+
+### 知识科普 (6)
+
+### No. 1: 天文知识可视化
+
+- **分类:** `知识科普`
+- **来源:** `official`
+- **作者:** ByteDance Seedance
+- **语言:** `zh`
+- **视频:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/practice/L2TybNnL9omysrxtB1QcCu4Ingb.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/L2TybNnL9omysrxtB1QcCu4Ingb.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+将抽象原理转化为连续可视化视频
+
+#### 提示词
+
+```text
+生成一条科普视频，在讲月球是如何诞生的。画面质感要有电影感，视觉效果要强，在爆炸/汇聚的过程中要有视觉的张力。要符合事实情况，遵循科学依据。
+
+0-2s：太空远景，画面下方是地球弧面与蓝色大气层，上方远处有一颗暗红色小天体悬在黑色宇宙中，镜头基本静止，缓慢呈现地球与天体的距离关系
+2-3s：切到近景，一颗表面布满橙红熔岩裂缝的巨大天体靠近地球边缘，地球大气层在右下方形成蓝色弧线，镜头静止，天体压迫感增强
+台词：45亿年前，地球被一颗火星大小的天体撞击
+3-5s：熔岩天体撞击地球边缘，强烈白橙色爆光从接触点喷发，大量炽热碎片和火焰沿地球表面向外飞散，镜头跟随爆炸冲击连续推进
+5-8s：撞击后的炽热物质在太空中汇聚成发光的橙红熔融球体，周围有碎片和尘埃盘旋，背景可见地球一侧，镜头由近到远缓慢拉开
+8-10s：地球旁边出现发光的环状熔融物质与碎片带，橙红色物质围绕地球轨道分布，黑色太空背景，镜头保持远景观察
+台词：撞击让两者部分熔化，物质被甩入地球轨道
+10-12s：切到月面近景，灰色坑洼地表上布满橙红色熔融裂缝，碎石和尘埃散落，画面从灼热裂缝逐渐过渡到冷却的灰色表面
+12-14s：灰色月面继续成形，坑洼地貌更稳定，画面右侧出现月球边缘和暗面，镜头缓慢拉远，表现月球从碎片中聚合完成
+台词：碎片在几千万年内，聚成了月球，你头顶的月亮，就是这次撞击的产物
+14-21s：地球与月球同框，镜头拉远，月球在远离地球的方向上运动。地球和月球中间出现标尺，标尺上有数字的不停生长
+台词：它至今仍以每年3.8厘米的速度远离地球
+```
+
+### No. 2: 儿童科普动画
+
+- **分类:** `知识科普`
+- **来源:** `official`
+- **作者:** ByteDance Seedance
+- **语言:** `zh`
+- **视频:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/practice/QvIBbkhjxo8wZyxbQV1cQpGknVg.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/QvIBbkhjxo8wZyxbQV1cQpGknVg.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+国风插画长卷配合旁白逐句讲解，画面随讲述连续展开。
+
+#### 提示词
+
+```text
+儿童向丝路文化科普动画短片，敦煌壁画与丝路长卷风格，岩彩平面动画，矿物颜料质感，赭石、绢白、石青、石绿、黛青、朱砂、金线点缀，平面分层，长卷式流动构图，不要真实摄影，不要 3D 写实，不要幼稚卡通。重点突出石榴的由来与传播，不强调现代饮用方式，现代部分控制在 7 秒以内。
+00:00-00:04，一幅丝路长卷缓缓展开，枝头出现一颗轻轻晃动的石榴。口播：“你知道吗？我们今天常见的石榴，其实很早很早以前，就来自中国西边很远的地方 —— 西域。”
+00:04-00:08，一只手轻轻摘下石榴，把它捧起，远山、纹样和道路展开。口播：“一开始，它生长在阳光充足的土地上。后来，人们把它带上旅途，准备去更远的地方。”
+00:08-00:15，驼队带着石榴穿过沙漠、绿洲和城门。口播：“石榴跟着驼队慢慢往前走。一路上，它要穿过沙漠，经过绿洲，还要走过高高的城门。这条很长很长的路，就是古代有名的丝绸之路。”
+00:15-00:20，石榴随着商旅进入更多城镇与生活场景。口播：“丝绸之路运送的，不只有丝绸。很多远方的水果、香料和种子，也会沿着这条路来到新的地方。石榴就是这样，慢慢被更多人认识了。”
+00:20-00:23，石榴被切开，露出像红宝石一样的果粒。口播：“后来，人们发现，石榴不仅好看，里面还藏着许多像红宝石一样的小果粒。”
+00:23-00:27，长卷中的古代场景慢慢过渡到今天，石榴出现在现代桌面，一群小朋友围坐在一起吃石榴。口播：“就这样，经过很长很长的传播，石榴从西域出发，最后走进了今天的生活。”
+00:27-00:30，枝头石榴、驼队、沙漠、绿洲、城门和今天桌上的石榴在长卷中汇合。口播：“所以，一颗小小的石榴，也藏着一段跨越土地和时间的旅行。”
+```
+
+### No. 3: 真人口播知识讲解
+
+- **分类:** `知识科普`
+- **来源:** `official`
+- **作者:** ByteDance Seedance
+- **语言:** `zh`
+- **视频:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/practice/P1nebyD4RoY92qx6gZXcBIlsn6b.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/P1nebyD4RoY92qx6gZXcBIlsn6b.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+真人全程口播配合实物道具自然演示，口型与节奏连贯。
+
+#### 提示词
+
+```text
+扎羊角辫的6岁小女孩坐在沙发上，面前摆着各朝代瓷器小模型，举着模型一一介绍： ①举粗陶小罐：「最早的瓷器是从陶器变来的哦，商朝就有原始瓷啦」，背景淡入商朝原始瓷文物画面； ②举青釉小碗：「唐朝越窑的青瓷、邢窑的白瓷最有名，还有花花的唐三彩」，背景淡入唐三彩文物画面； ③举天青色小碟子：「宋朝的瓷器最好看，汝窑的天青色要等雨过天晴才能烧出来哦」，背景淡入汝窑文物画面； ④举青花瓷小瓶：「明清的时候青花瓷、珐琅彩就都有啦，还卖到全世界呢」，背景淡入青花瓷文物画面。 最后小女孩举着自己画的青花瓷画对着镜头笑，配轻快儿童BGM。
+```
+
+### No. 4: 结构拆解与原理还原
+
+- **分类:** `知识科普`
+- **来源:** `official`
+- **作者:** ByteDance Seedance
+- **语言:** `zh`
+- **视频:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/practice/R38mboLWqoo5dUxnQcgcm8Lonse.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/R38mboLWqoo5dUxnQcgcm8Lonse.mp4" controls muted playsinline width="720"></video>
+
+- **Inputs:**
+
+<p>
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/VTcabmBIaoKjE5xySHgcACqpnxe.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/LtpZbHIZ8ocs5nxN73Cc36zrnIf.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/VKrNbMybMoE2OvxhM1ScZQVCnqg.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/SSWEb7ocyotKylxOKAEcdITTnnh.jpg" width="180" referrerpolicy="no-referrer">
+</p>
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/I8nGbUjO6oS42gxa1aQcUPwznGd.mp4" controls muted width="360"></video>
+
+#### 描述
+
+参考视频运镜与节奏，还原参考图背后的结构与逻辑。
+
+#### 提示词
+
+```text
+参考@视频1的创意生成视频，要求 还原@图片1 @图片2 @图片3 @图片4 房子组装全过程。
+```
+
+### No. 5: 货币的演变
+
+- **分类:** `知识科普`
+- **来源:** `official`
+- **作者:** ByteDance Seedance
+- **语言:** `zh`
+- **视频:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/practice/MO5abFaRQoVVJFx0Cl4cTpprnrn.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/MO5abFaRQoVVJFx0Cl4cTpprnrn.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+用木质桌面上的微缩世界，把从以物易物、贝币铜钱、宋代交子、现金卡片一路讲到今天移动支付的五千年货币史，串成一个连续镜头，可用作科普短视频或课堂开场素材。
+
+#### 提示词
+
+```text
+一段30秒的定格动画微缩视频，用英文讲解。在一张温暖的木桌上，五个微型世界从左到右依次排开——以物换物、贝壳与铜钱、宋代纸币、现代现金与银行卡、当今移动支付。镜头缓缓横移，扫过这条手工打造的货币时间线，画面中有黏土小人、移轴镜头，配以平静的英文旁白。五千年货币史，在一个连续长镜头中娓娓道来——从握在手心的重量，到放在口袋里的轻盈。
+```
+
+### No. 6: 航海纪念馆多语言讲解
+
+- **分类:** `知识科普`
+- **来源:** `official`
+- **作者:** ByteDance Seedance
+- **语言:** `zh`
+- **视频:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/practice/SxhXb84bIoDMlAxIvXHcvQ9inlg.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/SxhXb84bIoDMlAxIvXHcvQ9inlg.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+同一位讲解员穿行于航海纪念馆不同展区，面对不同文物自然切换 英语 → 新加坡口音中文 → 马来语 → 日语，人物形象、口型、语速与情绪全程一致。
+
+#### 提示词
+
+```text
+30s multilingual Southeast Asian heritage museum documentary. One guide leads through four connected galleries about trade, migration, craft, and Singapore's regional history. Warm, authentic museum realism, not tourism advertising.
+0-7.5s Port Model Gallery, English.Singapore harbor and Malacca Strait model, moving ship lights, blue map wall. Guide: "Singapore has always been a meeting point, not just a destination."
+7.5-15s Ceramics & Spice Room, Mandarin.Blue-white porcelain, spice jars, cinnamon, cloves, pepper, wooden crates, warm light. Guide: "这些瓷器和香料，记录的是一条从海上长出来的生活方式。"
+15-22.5s Malacca Trade Gallery, Malay.Teak walls, ship model, batik, pewter, route maps, brass lanterns. Guide: "Di Selat Melaka, kapal, rempah dan bahasa bertemu. Perdagangan menghubungkan banyak budaya."
+22.5-30s Travel Objects Gallery, Japanese.Suitcases, letters, textiles, family photos in glass cases, soft paper light. Guide: "旅の品物は、場所を移すたびに、新しい意味を持ちます。"
+Camera: 16:9 warm documentary style, slow museum walkthrough, guide moments mixed with object close-ups.
+```
+
+<a id="category-31"></a>
+
+### 工业制造 (4)
+
+### No. 1: 无人机第一视角飞行
+
+- **分类:** `工业制造`
+- **来源:** `official`
+- **作者:** ByteDance Seedance
+- **语言:** `zh`
+- **视频:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/practice/FYZLbJbYAoZnebxNbmjcNftOnof.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/FYZLbJbYAoZnebxNbmjcNftOnof.mp4" controls muted playsinline width="720"></video>
+
+- **Inputs:**
+
+<p>
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/BclrbOuHCombYzxuomCcukA8nDf.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/Fjnwb4mgooj4jsx3f1LczZgDngh.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/E2WCbFIm1ouDK6x8bMVcd9VKnl2.jpg" width="180" referrerpolicy="no-referrer">
+</p>
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/MzWbb548foIsEExKn5RcBf8YnCb.mp4" controls muted width="360"></video>
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/Rt4wbGmgmonGhmxc25Ic9oW6nzf.mp4" controls muted width="360"></video>
+
+#### 描述
+
+场景
+
+#### 提示词
+
+```text
+总设定：第一人称 FPV 竞速无人机视角，电影级实拍质感，一镜到底无剪辑，总时长 25 秒。晴天，通透蓝天，真实光照与大气透视。镜头始终朝无人机前进方向，高速带轻微机身姿态倾斜与惯性摆动。空间关系严格按红线单向推进：起点（左下山坡）→ 瀑布顶 ① → 瀑布底 → 村庄 ② → 远处两座山之间的缝隙 ③ → 山谷深处远景，全程向前、不回头、不倒飞、不绕回起点。
+运动路径（按顺序连续衔接）：
+无人机从峡谷左下方绿色山坡上低空启动，贴坡加速爬升，朝左侧崖壁上倾泻而下的大瀑布飞去；沿瀑布左侧崖壁一路向上攀升，绕到瀑布顶端，从上方俯瞰跌水口与源头溪流（对应标记 ①）。
+越过瀑布顶后，无人机压低机头，沿瀑布外侧崖壁向下俯冲，掠过飞溅的水雾边缘（不进入水帘），落到瀑布底部的河面上方；随即转向右侧，沿蜿蜒河流以流畅波浪线高速前飞，贴着屋顶掠过山谷中段的石屋村落（对应标记 ②）。
+穿过村庄后继续沿河谷向右深入，全速冲向远景中最高的两座山，从两座峰之间的 V 形缝隙正中央穿过（对应标记 ③），出画进入开阔山谷远景，稳定收尾。
+负向限制：不出现任何画面文字 / 标记 / 红线 / 编号；不要从正面穿过水帘、不要钻进水雾里；）；不朝后飞、不无故盘旋停滞；天气光照全程一致；总时长严格 25 秒，不得中途黑场或加速跳切。
+生成一段 15 秒第一人称 FPV 视角的超高速无人机穿梭视频，电影级，一镜到底。镜头从黄浦江江面 / 东方明珠电视塔底座附近的低空起点出发，先极速拉升并流畅环绕东方明珠的塔身、下球体、上球体与塔尖天线，再按照图片中红线轨迹的空间关系高速飞越黄浦江，冲向陆家嘴金融区，在上海中心大厦、上海环球金融中心（SWFC）、金茂大厦三件套之间左右穿梭、上下起伏，最后沿图片箭头方向，（但是不要出现红线，只是引导作用）向浦东天际线右前方冲刺，在开阔的城市远景中结束。
+生成一段 15 秒第一人称 FPV 视角的超高速无人机穿梭视频，电影级，一镜到底。镜头从东京塔底座附近的低空起点出发，先极速拉升并流畅环绕东京塔的红白塔身、大展望台与塔尖，再按照图片中红线轨迹的空间关系，高速掠过港区与涩谷密集的城市屋顶，冲向新宿超高层建筑群，在都厅、Mode 学园茧塔与玻璃幕墙高楼之间左右穿梭、上下起伏，最后沿图片箭头方向向新宿天际线右前方冲刺，在黄昏金色余晖下的东京远景中结束。（但是不要出现红线，只是引导作用）
+```
+
+### No. 2: 机器人动作交互
+
+- **分类:** `工业制造`
+- **来源:** `official`
+- **作者:** ByteDance Seedance
+- **语言:** `zh`
+- **视频:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/practice/ReWIb1A8ioUhHdxqglycaGksnAd.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/ReWIb1A8ioUhHdxqglycaGksnAd.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+生成结果
+
+#### 提示词
+
+```text
+灶台上从左到右摆着：装一颗白色鸡蛋的小白瓷碗、燃气灶、白色圆形瓷盘。灶台后方立着敞口不锈钢油壶（无盖）、木柄锅铲、黑色不粘平底锅。这些物件从始至终都在画面里。
+一台白色人形双臂家务机器人站在灶台前。右手握住锅柄把不粘平底锅放到灶眼上，左手食指与拇指捏住燃气灶旋钮，逆时针缓慢拧动，随着旋钮转动的动作，灶眼上升起稳定的蓝色火焰。右手拿起油壶倒极少量油入锅，仅够在锅底薄薄铺开一层油膜，看不到明显的液态油面，把油壶放回原位。
+右手从小白瓷碗中稳稳捏起鸡蛋，横移到锅口上方。镜头缓慢推近到鸡蛋和锅沿的近景特写，右手把鸡蛋侧面在锅沿上轻轻磕一下，能明显看到蛋壳接触锅沿、蛋壳出现横向裂缝、边缘微微翘起；左手过来，双手拇指和食指分别捏住两半蛋壳向两侧掰开，蛋液滑入锅中，蛋清凝固泛白，蛋黄居中。镜头缓慢拉回原机位。双手把两半空蛋壳分别放到灶台右侧一角，并排摆放。
+机器人左手握住锅柄稳住锅，右手拿起木柄锅铲，用铲头轻轻推推蛋边整理形状；此时锅中煎蛋朝上的一面是白色蛋清覆盖着一颗凸起的完整黄色蛋黄。等蛋底部凝固后，铲头从蛋底整体铲起，把煎蛋向上一抛并翻面，蛋落回锅中；翻面之后朝上的一面是均匀的浅金黄色、表面平整、边缘微焦，蛋黄被压在下方看不见；翻面完成后煎蛋保持这一面朝上继续在锅中煎一小会，机器人不再做第二次翻面。
+现代开放式厨房，浅灰色橱柜，晨光从右侧窗户照入，暖调。第三人称固定广角中景，机位在灶台正前方稍高处；仅磕蛋掰壳时镜头缓慢推近做近景特写，随后拉回原机位，一镜到底。声音：旋钮拧动的轻微咔哒声、点火 "啵" 声、蛋壳磕锅沿的清脆响声、油煎持续滋滋声、锅铲金属摩擦声。
+```
+
+### No. 3: 3D 资产产品演示
+
+- **分类:** `工业制造`
+- **来源:** `official`
+- **作者:** ByteDance Seedance
+- **语言:** `zh`
+- **视频:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/practice/WnhCbJrNTobHsoxQVSpcxYZUn1v.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/WnhCbJrNTobHsoxQVSpcxYZUn1v.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+专业级 3D 白模 + 材质参考原样承接，生成结构功能演示
+
+#### 提示词
+
+```text
+产品是@图片1,产品组装内容是@图2@图片3,帮我生成一条工业安装视频,画面要统一,步骤要清晰,组装要有逻辑。
+```
+
+### No. 4: 合成机器人训练数据
+
+- **分类:** `工业制造`
+- **来源:** `official`
+- **作者:** ByteDance Seedance
+- **语言:** `zh`
+- **视频:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/practice/KtzObM1CcoFUw1xOwjrcSTGpnyg.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/KtzObM1CcoFUw1xOwjrcSTGpnyg.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+合成机器人训练数据
+
+#### 提示词
+
+```text
+修改@视频1,将左侧机械臂和夹爪替换为@图片1中的银色机械手;
+将抓取的物品替换为一片全麦吐司;将原本的绿色墙面和蓝色桌替换为干净的白灰色工业实验室环境,背景有金属设备架、灰白工作台和白色实验室灯光。
+```
+
+<a id="category-32"></a>
+
+### 多元场景 (3)
+
+### No. 1: 人物多场景穿梭
+
+- **分类:** `多元场景`
+- **来源:** `official`
+- **作者:** ByteDance Seedance
+- **语言:** `zh`
+- **视频:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/practice/TI9FbK8udoOOBcxoMXwc8RHsnuc.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/TI9FbK8udoOOBcxoMXwc8RHsnuc.mp4" controls muted playsinline width="720"></video>
+
+- **Inputs:**
+
+<p>
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/H2hhbKRUioZWHBxSzf2ciiYYnzh.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/Qmu5bOfBboOzjMxv5gtcOqf1nWd.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/PMQYbqg1oo0R4bxD1Xmcs47enYd.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/UA6FbzwjaonxPLxAiX9cO7sYneG.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/IwDubCEzPo0YgjxXN9HcqvfCnlc.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/MrP3bwhrYon48AxWypeclMgMnYc.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/UhZ1bi0rMooWHVxx8NycEYVMngd.jpg" width="180" referrerpolicy="no-referrer">
+</p>
+
+#### 描述
+
+人物多场景穿梭
+
+#### 提示词
+
+```text
+一镜到底，镜头平稳跟随一个穿黑色大衣的人，参考【图片1】，从左向右穿过六个相连的不同色调、不同氛围的房间。每个房间结构相同：白墙、人字拼浅色木地板、法式双开落地窗、白纱帘，参考【图片2】但窗外风景和室内氛围完全不同。主角全程匀速走动，穿过墙壁上敞开的每一扇门。
+0-5秒，第一个房间，主题为美漫打斗，主角进入屋内与人物【图片3】打斗，人物落败；
+5-10秒，第二个房间，主题为温暖，毛毡风格，窗外场景为向日葵田【图片4】，室内光线暖橙柔光，有一个画家正在画向日葵【图片5】。主角进入后也变成毛毡风格；
+10-15秒，第三个房间，主题为悲伤，整个画面为黑白漫画定格动画风格，窗外阴雨，室内光线冷灰低沉，一个人独自坐在空房间中央地板上，低头抱膝，身旁一只手机亮着无人接听的通话界面。主角进入房间后关上房间的灯，马上开灯，房间内变为彩色，瞬间生长出满屋鲜花；
+15-20秒，第四个房间，主题为欢乐，整个场景为浸泡在海里的房间，参考【图片6】，主角游进房间，身旁有美丽的珊瑚礁和鱼群；
+20-25秒，第五个房间，主题为惊喜，窗外场景漫天烟花夜空，参考【图片7】，室内光线彩色闪烁映射，主角被卷入欢呼气氛。
+25-30秒，最后主角来到一个空白房间，站在中央打了个响指，同时音效为响指声。
+整体电影质感，高级时装广告风格，光线完全由窗外场景决定形成强烈情绪反差，画面无文字。
+```
+
+### No. 2: 拟人化 IP 角色片
+
+- **分类:** `多元场景`
+- **来源:** `official`
+- **作者:** ByteDance Seedance
+- **语言:** `zh`
+- **视频:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/practice/QdVZbo9isoHQDExZOk6cczHZnId.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/QdVZbo9isoHQDExZOk6cczHZnId.mp4" controls muted playsinline width="720"></video>
+
+- **Inputs:**
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/DvOobIDNxoXgkSxkzdYczYE6nXg.mp4" controls muted width="360"></video>
+
+#### 描述
+
+拟物角色与真实场景无缝融合，形象、动作、口音全程统一，把想象里的角色搬进现实剧情。
+
+#### 提示词
+
+```text
+中景画面中，拟人化向日葵组成一支特色花植乐队，植株整齐排布。温暖阳光倾泻而下，金黄花瓣在光影下明艳亮眼。微风掠过花丛，花叶轻晃，传来细碎沙沙声响。 队伍前方的向日葵面前架设立式麦克风，它用右“手”叶片下压麦克风调整成适合的高度，用低沉柔和的英式口音说：“伙伴们，让我们用歌声传递美好。” 其余向日葵各自持有不同乐器，开始演奏各自的乐器：有的向日葵用叶片敲打着圆鼓，有的背着吉他，还有的搭配吹奏类乐器，各司其职默契配合。领头向日葵摆正身形，正对立麦，伸长叶片在头顶卡着节奏拍手，准备开启演唱。
+美国西部片风格。烈日黄沙小镇，一只戴迷你牛仔帽、穿流苏皮马甲的橘猫推门而入，门轴“吱呀”一声带起尘土。镜头立刻快推：站在吧台后擦杯子的络腮胡老板，看到橘猫后手一抖，杯子碎落在地；角落三位牛仔同时转头，嚼烟草的嘴定格，特写他们瞪大的眼珠子与抽动的胡茬，背景配“嗖嗖”三声鞭梢抽风特效。镜头回到橘猫中景，它用后爪蹬了蹬木地板的灰尘，抬下巴，奶凶却拖长调子带着美式口音：“鲜奶，兄弟。没人出来迎我一下吗?” 全场静半秒，随即牛仔们齐刷刷摘下帽子，发出“哇哦——”拉长惊叹，口琴滑音上扬。镜头360°环绕橘猫拍摄，展现它走向吧台，跳上长脚凳后傲娇的小表情。
+```
+
+### No. 3: 舞蹈动作迁移
+
+- **分类:** `多元场景`
+- **来源:** `official`
+- **作者:** ByteDance Seedance
+- **语言:** `zh`
+- **视频:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/practice/KXkjbKCs6olcPvxX3qPcEnfGngh.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/KXkjbKCs6olcPvxX3qPcEnfGngh.mp4" controls muted playsinline width="720"></video>
+
+- **Inputs:**
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/Q1fIbHFaWoqo51xmkw0cnaVjnye.mp4" controls muted width="360"></video>
+
+#### 描述
+
+以真人舞者动作视频作为参考，将动作精准迁移到目标角色身上：动作轨迹、节拍与肢体细节高度对齐，同时保留敦煌造型的服饰、发饰与身法韵律。
+
+#### 提示词
+
+```text
+参考@视频1中的人物动作，生成在莫高窟前穿着敦煌元素服饰的舞蹈视频。
+```
+
 <a id="faq"></a>
 
 ## ❓ 常见问题
@@ -3264,4 +4181,4 @@ npx tsc --noEmit
 
 > 所有提示词仅用于学习、整理和检索。如有内容需要移除，请提交 issue。
 
-> 此 README 为自动生成。 2026-07-28.
+> 此 README 为自动生成。 2026-07-31.
