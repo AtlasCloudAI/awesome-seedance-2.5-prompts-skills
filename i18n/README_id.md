@@ -4,7 +4,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedance-2.5-prompts-skills?style=social)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-143%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+[![Prompts](https://img.shields.io/badge/prompts-150%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 A curated library of Seedance 2.5 video prompts plus **Seedance 2.5 Skill**, an installable Agent Skill that improves prompts, plans and reviews storyboards when needed, and generates controllable video. It uses Seedream 5.0 Pro for storyboard images and Seedance 2.0 as the current executable video default, switching to Seedance 2.5 only when the selected provider exposes it.
 
@@ -135,10 +135,10 @@ Every prompt record keeps its category, source platform, author, source link, in
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **143** |
-| Categories | **32** |
-| Preview Videos | **43** |
-| Last Updated | **2026-07-31** |
+| Total Prompts | **150** |
+| Categories | **33** |
+| Preview Videos | **50** |
+| Last Updated | **2026-08-01** |
 
 <a id="featured-prompts"></a>
 
@@ -397,6 +397,7 @@ Gaya iklan cerah dan berwarna-warni dengan biskuit buah sebagai bintang utama, d
 - [`Knowledge & Explainer`](#category-30): **6**
 - [`Industrial & Manufacturing`](#category-31): **4**
 - [`Creative & Misc`](#category-32): **3**
+- [`Capability Showcase`](#category-33): **7**
 
 <a id="all-prompts"></a>
 
@@ -875,7 +876,7 @@ Kendala: Warna botol, skala badan botol, dan model dot harus konsisten sepanjang
 Kendala Umum: Pertahankan tanpa subtitle; jangan hasilkan Logo; jangan hasilkan watermark; setiap shot hanya menggunakan satu jenis gerakan kamera; orang harus bergerak alami sedikit, bukan seperti patung.
 ```
 
-### No. 7: 食品礼盒
+### No. 7: Kotak Hadiah Makanan
 
 - **Category:** `Live Commerce E-Dagang`
 - **Source:** `community`
@@ -884,22 +885,22 @@ Kendala Umum: Pertahankan tanpa subtitle; jangan hasilkan Logo; jangan hasilkan 
 
 #### Description
 
-竖屏9:16，节庆精致写实风，主体为一款中式点心礼盒，生成30秒食品礼盒展示短片。
+Rasio vertikal 9:16, gaya realistis halus bertema perayaan, subjek utama adalah kotak hadiah kue tradisional Tiongkok, hasilkan video pendek 30 detik untuk menampilkan kotak hadiah makanan.
 
 #### Prompt
 
 ```text
-竖屏9:16，节庆精致写实风，主体为一款中式点心礼盒，生成30秒食品礼盒展示短片。
-Shot 1：中景，红金礼盒静置于木质桌面，镜头缓慢推近至烫金封面，暖调侧光，（喜庆国风音乐起）。
-Shot 2：特写，双手缓缓揭开盒盖露出分格点心，镜头俯拍全貌，<盒盖开启声>。
-Shot 3：微距特写，镜头平稳横移扫过每格点心的酥皮与馅料纹理。
-Shot 4：中近景，手拈起一块点心展示层次，镜头缓慢环绕。
-Shot 5：中景，礼盒合拢系上丝带，镜头缓慢拉远收尾，（音乐收束）。
-约束：礼盒配色、烫金图案与点心种类全程一致；木桌与暖调布光锁定；点心摆放位置前后连贯。
-通用约束：保持无字幕；不要生成 Logo；不要生成水印；每个镜头只用一种运镜；人物需自然微动非石像。
+Rasio vertikal 9:16, gaya realistis halus bertema perayaan, subjek utama adalah kotak hadiah kue tradisional Tiongkok, hasilkan video pendek 30 detik untuk menampilkan kotak hadiah makanan.
+Shot 1：Medium shot, kotak hadiah merah-emas diam di atas meja kayu, kamera perlahan mendekat ke sampul berlapis emas, pencahayaan samping hangat, (musik bertema perayaan Tiongkok dimulai).
+Shot 2：Close-up, kedua tangan perlahan membuka tutup kotak memperlihatkan kue-kue yang tersusun rapi, kamera memotret dari atas untuk tampilan penuh, <suara tutup kotak terbuka>.
+Shot 3：Makro close-up, kamera bergerak horizontal dengan stabil menyusuri tekstur kulit dan isian setiap kue.
+Shot 4：Medium close-up, tangan mengambil sepotong kue untuk menunjukkan lapisannya, kamera perlahan mengelilingi.
+Shot 5：Medium shot, kotak hadiah ditutup dan diikat dengan pita, kamera perlahan menjauh untuk mengakhiri, (musik berakhir).
+Kendala: Warna kotak hadiah, pola berlapis emas, dan jenis kue harus konsisten sepanjang video; meja kayu dan pencahayaan hangat terkunci; penempatan kue harus konsisten dari awal hingga akhir.
+Kendala umum: Pertahankan tanpa teks/subtitle; Jangan hasilkan Logo; Jangan hasilkan watermark; Setiap shot hanya menggunakan satu jenis gerakan kamera; Orang harus bergerak alami sedikit, bukan seperti patung.
 ```
 
-### No. 8: 数码配件（快闪促销风，含字幕）
+### No. 8: Aksesori Digital (Gaya Promo Kilat, dengan Subtitle)
 
 - **Category:** `Live Commerce E-Dagang`
 - **Source:** `community`
@@ -908,26 +909,26 @@ Shot 5：中景，礼盒合拢系上丝带，镜头缓慢拉远收尾，（音�
 
 #### Description
 
-竖屏9:16，快闪促销高对比写实风，主体为一副无线降噪耳机，生成30秒促销快闪短片。
+Rasio vertikal 9:16, gaya realis kontras tinggi promo kilat, subjek utama adalah sepasang headphone nirkabel peredam bising, hasilkan video pendek promo kilat 30 detik.
 
 #### Prompt
 
 ```text
-竖屏9:16，快闪促销高对比写实风，主体为一副无线降噪耳机，生成30秒促销快闪短片。
-Shot 1：特写，耳机悬浮旋转于霓虹渐变背景，镜头快速推近，（强节奏电子鼓点起）<开机提示音>，【全场直降 ¥300】。
-Shot 2：微距特写，镜头切至耳罩转轴与充电触点，硬光高光扫过。
-Shot 3：中景，镜头切至佩戴耳机的人随鼓点点头，光影频闪，【主动降噪 40小时续航】。
-Shot 4：特写，镜头快速横移掠过充电盒开合，<磁吸吸附声>，【限时秒杀 前100名】。
-Shot 5：中近景，耳机与价格标签同框，镜头快速拉远定格，（鼓点收束）【立即抢购】。
-约束：耳机配色与外形全程一致；霓虹背景色板锁定；字幕随镜头切换出现节奏统一，画面保持高对比促销感。
-通用约束：保持无字幕；不要生成 Logo；不要生成水印；每个镜头只用一种运镜；人物需自然微动非石像。
+Rasio vertikal 9:16, gaya realis kontras tinggi promo kilat, subjek utama adalah sepasang headphone nirkabel peredam bising, hasilkan video pendek promo kilat 30 detik.
+Shot 1: Close-up, headphone melayang berputar di latar belakang gradien neon, kamera cepat mendekat, (ketukan drum elektronik berirama kuat dimulai) <suara prompt nyala>, 【Potongan Langsung ¥300】.
+Shot 2: Close-up makro, potongan kamera ke engsel earcup dan titik kontak pengisian, sorotan cahaya keras menyapu.
+Shot 3: Medium shot, potongan kamera ke orang memakai headphone mengangguk mengikuti ketukan drum, kilatan cahaya, 【Peredam Bising Aktif Daya Tahan 40 Jam】.
+Shot 4: Close-up, kamera cepat bergerak melintas membuka-tutup casing pengisian, <suara tarikan magnet>, 【Buru-buru Beli Waktu Terbatas 100 Pembeli Pertama】.
+Shot 5: Medium close-up, headphone dan label harga dalam satu frame, kamera cepat menarik jauh dan berhenti, (ketukan drum berakhir) 【Beli Sekarang Juga】.
+Kendala: Warna dan bentuk headphone konsisten sepanjang video; palet warna latar belakang neon terkunci; subtitle muncul seragam dengan ritme pergantian shot, pertahankan nuansa promosi kontras tinggi.
+Kendala Umum: Pertahankan tanpa subtitle; jangan hasilkan Logo; jangan hasilkan watermark; setiap shot hanya gunakan satu jenis gerakan kamera; orang perlu bergerak alami sedikit bukan seperti patung.
 ```
 
 <a id="category-10"></a>
 
 ### Kuliner & Restoran (8)
 
-### No. 1: 火锅上桌
+### No. 1: Hot Pot Disajikan
 
 - **Category:** `Kuliner & Restoran`
 - **Source:** `community`
@@ -936,22 +937,22 @@ Shot 5：中近景，耳机与价格标签同框，镜头快速拉远定格，�
 
 #### Description
 
-竖屏9:16，热气腾腾食欲写实风，主体为一锅鸳鸯火锅，生成30秒火锅上桌短片。
+Portrait 9:16, gaya realistis penuh uap dan menggugah selera, subjek utama adalah hot pot yin-yang, hasilkan film pendek 30 detik tentang hot pot disajikan.
 
 #### Prompt
 
 ```text
-竖屏9:16，热气腾腾食欲写实风，主体为一锅鸳鸯火锅，生成30秒火锅上桌短片。
-Shot 1：中景，鸳鸯锅端上木桌红汤翻滚，镜头缓慢推近至沸腾油花，暖黄餐厅光，（热闹市井音乐起）<汤底咕嘟声>。
-Shot 2：特写，手将毛肚下入红汤七上八下，镜头俯拍热气升腾，<涮烫声>。
-Shot 3：微距特写，镜头平稳横移扫过虾滑、鲜切牛肉与蔬菜拼盘。
-Shot 4：中近景，筷子夹起裹满红油的肉片提拉，镜头跟拍向上，<油滴声>。
-Shot 5：中景，众人举筷同框氛围拉满，镜头缓慢拉远收尾，（音乐收束）。
-约束：鸳鸯锅样式、汤色与菜品摆盘全程一致；餐厅暖光与木桌锁定；蒸汽与沸腾状态持续贯穿。
-通用约束：保持无字幕；不要生成 Logo；不要生成水印；每个镜头只用一种运镜；人物需自然微动非石像。
+Portrait 9:16, gaya realistis penuh uap dan menggugah selera, subjek utama adalah hot pot yin-yang, hasilkan film pendek 30 detik tentang hot pot disajikan.
+Shot 1：Medium shot, hot pot yin-yang diletakkan di atas meja kayu dengan kuah merah mendidih, kamera perlahan mendekat ke gelembung minyak yang mendidih, cahaya restoran hangat kekuningan, (musik ramai pasar dimulai) <suara kuah mendidih>.
+Shot 2：Close-up, tangan memasukkan tripe ke dalam kuah merah tujuh kali naik delapan kali turun, kamera angle atas dengan uap mengepul, <suara mencocol>.
+Shot 3：Makro close-up, kamera bergerak horizontal dengan stabil menyapu udang cincang, daging sapi iris segar, dan piring sayuran.
+Shot 4：Medium close-up, sumpit menjepit irisan daging yang dilapisi minyak merah dan menariknya ke atas, kamera mengikuti gerakan ke atas, <suara tetesan minyak>.
+Shot 5：Medium shot, beberapa orang mengangkat sumpit bersama-sama suasana penuh, kamera perlahan zoom out mengakhiri, (musik berakhir).
+Kendala: Gaya hot pot yin-yang, warna kuah, dan penyajian hidangan konsisten sepanjang video; cahaya hangat restoran dan meja kayu terkunci; uap dan keadaan mendidih berlanjut terus.
+Kendala umum: Pertahankan tanpa teks; jangan hasilkan Logo; jangan hasilkan watermark; setiap shot hanya menggunakan satu jenis gerakan kamera; orang perlu bergerak alami sedikit bukan patung.
 ```
 
-### No. 2: 咖啡拉花
+### No. 2: Latte Art
 
 - **Category:** `Kuliner & Restoran`
 - **Source:** `community`
@@ -960,22 +961,22 @@ Shot 5：中景，众人举筷同框氛围拉满，镜头缓慢拉远收尾，�
 
 #### Description
 
-竖屏9:16，静谧文艺写实风，主体为一杯手工拉花拿铁，生成30秒咖啡拉花短片。
+Portrait 9:16, serene and artistic realistic style, featuring a handcrafted latte with latte art. Generate a 30-second latte art short film.
 
 #### Prompt
 
 ```text
-竖屏9:16，静谧文艺写实风，主体为一杯手工拉花拿铁，生成30秒咖啡拉花短片。
-Shot 1：特写，浓缩咖啡萃取滴落入杯，镜头缓慢推近至油脂纹路，窗边自然光，（舒缓爵士乐起）<萃取滴落声>。
-Shot 2：中近景，手持奶缸开始注入奶泡，镜头固定机位平视液面，<奶泡注入声>。
-Shot 3：微距特写，镜头俯拍奶泡在咖啡表面晕开成叶形纹路。
-Shot 4：特写，手腕轻抖收尾拉出叶脉，镜头缓慢环绕杯口。
-Shot 5：中景，成品拿铁端起置于窗边，镜头缓慢拉远收尾，（音乐收束）。
-约束：拉花图案由注入到成型连贯一致；窗边自然光与桌面锁定；奶泡纹理清晰无断层。
-通用约束：保持无字幕；不要生成 Logo；不要生成水印；每个镜头只用一种运镜；人物需自然微动非石像。
+Portrait 9:16, serene and artistic realistic style, featuring a handcrafted latte with latte art. Generate a 30-second latte art short film.
+Shot 1: Close-up, espresso extraction drips into the cup, the camera slowly pushes in on the crema texture, natural light by the window, (gentle jazz music starts) <dripping sound of extraction>.
+Shot 2: Medium close-up, hand holding a milk pitcher begins to pour milk foam, camera fixed at eye-level view of the liquid surface, <sound of milk foam pouring>.
+Shot 3: Macro close-up, camera looks down as milk foam spreads on the coffee surface forming a leaf pattern.
+Shot 4: Close-up, a gentle flick of the wrist finishes pulling out the leaf veins, camera slowly orbits the rim of the cup.
+Shot 5: Medium shot, the finished latte is picked up and placed by the window, camera slowly pulls back to end, (music concludes).
+Constraints: The latte art pattern must be consistent from pouring to completion; natural light by the window and the tabletop are locked; milk foam texture must be clear and seamless.
+General constraints: Keep it without subtitles; do not generate a Logo; do not generate a watermark; use only one camera movement per shot; people should have natural, slight movement, not be statues.
 ```
 
-### No. 3: 甜品切开流心（熔岩巧克力）
+### No. 3: Pencuci Mulut Terbelah Mengalirkan Isian (Cokelat Lava)
 
 - **Category:** `Kuliner & Restoran`
 - **Source:** `community`
@@ -984,22 +985,22 @@ Shot 5：中景，成品拿铁端起置于窗边，镜头缓慢拉远收尾，�
 
 #### Description
 
-竖屏9:16，浓郁诱人写实风，主体为一块熔岩巧克力蛋糕，生成30秒甜品流心短片。
+Portrait 9:16, gaya realistis yang kaya dan menggoda, subjek utama adalah kue cokelat lava, hasilkan video pendek 30 detik pencuci mulut berisi cairan.
 
 #### Prompt
 
 ```text
-竖屏9:16，浓郁诱人写实风，主体为一块熔岩巧克力蛋糕，生成30秒甜品流心短片。
-Shot 1：中近景，熔岩蛋糕盛于白瓷盘撒糖粉，镜头缓慢推近，暖调聚光，（轻柔浪漫音乐起）。
-Shot 2：特写，叉子轻压蛋糕表层出现裂口，镜头固定机位贴近，<酥皮轻裂声>。
-Shot 3：微距特写，刀叉切开瞬间巧克力流心缓缓涌出，镜头俯拍高潮时刻，<浓浆流淌声>。
-Shot 4：特写，叉起一块拉丝流心提起，镜头缓慢升降跟随拉丝。
-Shot 5：中景，流心蛋糕与冰淇淋同框，镜头缓慢拉远收尾，（音乐收束）。
-约束：蛋糕外壳与流心颜色质地全程一致；白瓷盘与暖调聚光锁定；流心涌出为核心money shot需清晰突出。
-通用约束：保持无字幕；不要生成 Logo；不要生成水印；每个镜头只用一种运镜；人物需自然微动非石像。
+Portrait 9:16, gaya realistis yang kaya dan menggoda, subjek utama adalah kue cokelat lava, hasilkan video pendek 30 detik pencuci mulut berisi cairan.
+Shot 1: Medium close-up, kue lava disajikan di piring porselen putih dengan taburan gula halus, kamera perlahan mendekat, pencahayaan spot hangat, (musik lembut romantis dimulai).
+Shot 2: Close-up, garpu menekan permukaan kue hingga muncul retakan, kamera tetap posisi dekat, <suara kulit luar renyah retak>.
+Shot 3: Makro close-up, saat pisau dan garpu membelah, isian cokelat cair perlahan mengalir keluar, kamera bidik dari atas momen klimaks, <suara saus kental mengalir>.
+Shot 4: Close-up, garpu mengangkat sepotong dengan isian cair menarik benang, kamera perlahan naik turun mengikuti benang.
+Shot 5: Medium shot, kue berisi cairan dan es krim dalam satu frame, kamera perlahan menjauh mengakhiri, (musik berakhir).
+Kendala: Warna dan tekstur kulit luar kue serta isian cair harus konsisten sepanjang video; piring porselen putih dan pencahayaan spot hangat terkunci; aliran keluar isian cair sebagai money shot inti harus jelas dan menonjol.
+Kendala umum: Pertahankan tanpa teks; jangan hasilkan Logo; jangan hasilkan watermark; setiap shot hanya gunakan satu jenis gerakan kamera; karakter perlu bergerak alami sedikit bukan patung.
 ```
 
-### No. 4: 烧烤炙烤
+### No. 4: Panggang Bakar
 
 - **Category:** `Kuliner & Restoran`
 - **Source:** `community`
@@ -1008,19 +1009,19 @@ Shot 5：中景，流心蛋糕与冰淇淋同框，镜头缓慢拉远收尾，�
 
 #### Description
 
-横屏16:9，烟火气粗犷写实风，主体为炭火烧烤的肉串，生成30秒烧烤炙烤短片。
+Layar horizontal 16:9, gaya realis kasar penuh asap dan api, subjek utama adalah sate yang dipanggang di atas bara arang, hasilkan video pendek 30 detik tentang proses pemanggangan.
 
 #### Prompt
 
 ```text
-横屏16:9，烟火气粗犷写实风，主体为炭火烧烤的肉串，生成30秒烧烤炙烤短片。
-Shot 1：特写，肉串置于炭火网上油脂滴落起火苗，镜头缓慢推近，暖红炭火光，（动感烧烤氛围乐起）<炭火滋滋声>。
-Shot 2：微距特写，镜头平稳横移扫过肉串焦糖色脆壳与撒落的孜辣椒面。
-Shot 3：中景，手翻转肉串腾起烟雾与火光，镜头跟拍手部动作，<翻烤爆响>。
-Shot 4：特写，刷酱笔扫过肉串酱汁渗入，镜头固定机位贴近。
-Shot 5：中近景，烤好的肉串码盘端起，镜头缓慢拉远收尾，（音乐收束）。
-约束：肉串种类与炙烤上色程度前后连贯；炭火与暖红光锁定；烟雾与火苗贯穿营造烟火气。
-通用约束：保持无字幕；不要生成 Logo；不要生成水印；每个镜头只用一种运镜；人物需自然微动非石像。
+Layar horizontal 16:9, gaya realis kasar penuh asap dan api, subjek utama adalah sate yang dipanggang di atas bara arang, hasilkan video pendek 30 detik tentang proses pemanggangan.
+Shot 1: Close-up, sate diletakkan di atas jaring bara arang, lemak menetes dan menyalakan api kecil, kamera perlahan mendekat, cahaya bara arang hangat kemerahan, (musik atmosfer memanggang yang dinamis dimulai) <suara desis bara arang>.
+Shot 2: Makro close-up, kamera bergerak horizontal dengan stabil menyapu permukaan sate yang berkerak karamel dan taburan bubuk jintan serta cabai.
+Shot 3: Medium shot, tangan membalik sate mengangkat asap dan percikan api, kamera mengikuti gerakan tangan, <suara letupan dan balikan saat memanggang>.
+Shot 4: Close-up, kuas saus menyapu sate dan saus meresap, kamera tetap, posisi dekat.
+Shot 5: Medium close-up, sate yang sudah matang ditata di piring dan diangkat, kamera perlahan menjauh mengakhiri, (musik berakhir).
+Kendala: Jenis sate dan tingkat kematangan/kecoklatan harus konsisten antar shot; cahaya bara arang dan kemerahan hangat terkunci; asap dan api kecil hadir sepanjang video untuk menciptakan atmosfer berasap dan berapi.
+Kendala umum: Pertahankan tanpa teks/subtitle; Jangan hasilkan Logo; Jangan hasilkan watermark; Setiap shot hanya menggunakan satu jenis gerakan kamera; Orang/orang harus bergerak alami sedikit, bukan seperti patung.
 ```
 
 ### No. 5: Penataan Sajian Makanan Jepang
@@ -2206,7 +2207,7 @@ Kendala: Seluruh adegan cyber neon saturasi tinggi; tekstur basah dan memantul k
 Kendala umum: Tetap tanpa teks; jangan hasilkan Logo; jangan hasilkan watermark; setiap shot hanya menggunakan satu jenis gerakan kamera; karakter harus bergerak alami ringan bukan seperti patung.
 ```
 
-### No. 5: 沙漠驼队
+### No. 5: Kafilah Unta Gurun
 
 - **Category:** `Perjalanan / Wisata Budaya`
 - **Source:** `community`
@@ -2215,22 +2216,22 @@ Kendala umum: Tetap tanpa teks; jangan hasilkan Logo; jangan hasilkan watermark;
 
 #### Description
 
-横屏16:9，暖金橙沙漠调、大光比逆光史诗感，生成30秒沙漠文旅片。
+Layar horizontal 16:9, nuansa gurun hangat emas-oranye, cahaya kontras tinggi siluet epik, hasilkan video pariwisata gurun 30 detik.
 
 #### Prompt
 
 ```text
-横屏16:9，暖金橙沙漠调、大光比逆光史诗感，生成30秒沙漠文旅片。
-Shot 1：极近微距特写细沙自指缝簌簌流泻，逆光下每一粒沙金光闪烁，（悠远弦乐与手鼓起）。
-Shot 2：镜头缓慢拉远，一列驼队踏着起伏沙丘剪影缓行，夕阳巨大低垂于地平线，<驼铃叮当声>。
-Shot 3：镜头航拍俯拍驼队在沙脊上投下的修长斜影，沙丘曲线如绸缎起伏。
-Shot 4：镜头低角度仰拍领驼人迎风前行的逆光剪影，风卷沙尘飞扬，（手鼓节奏渐强）。
-Shot 5：镜头缓慢升空俯瞰驼队没入无垠金色沙海定格，暖金橙铺满天地，【穿越荒芜 只为看见辽阔】，（弦乐手鼓收束）。
-约束：全程暖金橙大光比逆光；沙丘曲线与驼队剪影为构图核心；史诗辽远情绪。
-通用约束：保持无字幕；不要生成 Logo；不要生成水印；每个镜头只用一种运镜；人物需自然微动非石像。
+Layar horizontal 16:9, nuansa gurun hangat emas-oranye, cahaya kontras tinggi siluet epik, hasilkan video pariwisata gurun 30 detik.
+Shot 1：Ekstrem close-up mikro butiran pasir halus mengalir deras dari sela-sela jari, setiap butir berkilau keemasan dalam cahaya siluet, (musik senar jauh dan suara drum tangan mulai).
+Shot 2：Kamera perlahan menarik jauh, barisan kafilah unta berjalan perlahan sebagai siluet di atas bukit pasir yang bergelombang, matahari terbenam besar menggantung rendah di cakrawala, <suara gemerincing lonceng unta>.
+Shot 3：Kamera drone memotret dari atas, bayangan panjang miring kafilah unta di punggung bukit pasir, lekukan bukit pasir bergelombang seperti sutra.
+Shot 4：Kamera sudut rendah memotret siluet pemimpin unta berjalan melawan angin dalam cahaya siluet, angin berdebu menerbangkan pasir, (ritme drum tangan semakin kuat).
+Shot 5：Kamera perlahan naik ke udara memandang kafilah unta menghilang ke dalam hamparan pasir keemasan tak berujung, hangat emas-oranye memenuhi langit dan bumi, 【Melintasi kekosongan, hanya untuk menyaksikan keluasan】, (musik senar dan drum tangan berakhir).
+Kendala: Sepanjang video nuansa hangat emas-oranye dengan cahaya kontras tinggi siluet; lekukan bukit pasir dan siluet kafilah unta sebagai inti komposisi; emosi epik dan luas.
+Kendala umum: Tetap tanpa teks/subtitle; jangan hasilkan Logo; jangan hasilkan watermark; setiap shot hanya menggunakan satu jenis gerakan kamera; orang/orang perlu bergerak alami sedikit, bukan seperti patung.
 ```
 
-### No. 6: 街头美食巡游（一镜）
+### No. 6: Tur Kuliner Jalanan (Satu Shot)
 
 - **Category:** `Perjalanan / Wisata Budaya`
 - **Source:** `community`
@@ -2239,26 +2240,26 @@ Shot 5：镜头缓慢升空俯瞰驼队没入无垠金色沙海定格，暖金�
 
 #### Description
 
-竖屏9:16，暖橙烟火高饱和调、市井鲜活质感，生成30秒街头美食巡游片，一镜到底。
+Rasio vertikal 9:16, nuansa hangat oranye api berasap dengan saturasi tinggi, tekstur hidup khas perkotaan, hasilkan video tur kuliner jalanan 30 detik, satu shot berkelanjutan.
 
 #### Prompt
 
 ```text
-竖屏9:16，暖橙烟火高饱和调、市井鲜活质感，生成30秒街头美食巡游片，一镜到底。
-Shot 1：极致微距从铁板上滋滋作响溅油的食材开始，镜头缓慢拉远，热气蒸腾，<油花爆响声>，（欢快市井打击乐起）。
-Shot 2：镜头顺势平稳横移穿过熙攘夜市，暖黄灯串下摊主翻炒火焰腾起，<人声鼎沸叫卖声>。
-Shot 3：镜头继续跟拍钻入小巷，掠过蒸笼掀盖白雾涌出、烤串炭火通红，烟火气弥漫。
-Shot 4：镜头缓慢环绕一桌食客大快朵颐，碰杯欢笑，暖橙灯光映满笑脸，（打击乐节奏欢腾）。
-Shot 5：镜头顺势升高俯拍整条美食长街灯火通明定格，人潮涌动，【人间烟火 最抚凡心】，（打击乐收束）。
-约束：全程一镜到底连续运镜不切；暖橙烟火高饱和调；热气火焰烟火气贯穿。
-通用约束：保持无字幕；不要生成 Logo；不要生成水印；每个镜头只用一种运镜；人物需自然微动非石像。
+Rasio vertikal 9:16, nuansa hangat oranye api berasap dengan saturasi tinggi, tekstur hidup khas perkotaan, hasilkan video tur kuliner jalanan 30 detik, satu shot berkelanjutan.
+Shot 1: Makro ekstrem dimulai dari bahan makanan yang mendesis dan memercikkan minyak di atas wajan besi, kamera perlahan menarik jauh, uap panas mengepul, <suara letupan minyak>, (musik perkusi ceria khas perkotaan dimulai).
+Shot 2: Kamera dengan lancar bergerak horizontal melintasi pasar malam yang ramai, di bawah lampu-lampu kuning hangat, penjaja mengaduk-aduk hingga api berkobar, <suara riuh rendah orang dan teriakan penjual>.
+Shot 3: Kamera terus mengikuti dan menyusup ke lorong kecil, menyapu tutup kukusan yang terbuka dengan kabut putih mengepul, tusuk sate dengan bara arang membara, suasana api berasap menyebar.
+Shot 4: Kamera perlahan mengitari meja tempat sekelompok pelanggan makan dengan lahap, bersulang dan tertawa, cahaya lampu oranye hangat memenuhi wajah-wajah tersenyum, (ritme musik perkusi riang gembira).
+Shot 5: Kamera dengan lancar naik dan memotret dari atas seluruh jalan panjang kuliner yang terang benderang oleh lampu, berhenti sejenak, kerumunan orang bergerak, 【Asap kehidupan duniawi, paling menenangkan hati biasa】, (musik perkusi berakhir).
+Kendala: Sepanjang video satu shot berkelanjutan tanpa potongan; nuansa hangat oranye api berasap dengan saturasi tinggi; uap panas, api, dan suasana api berasap hadir terus-menerus.
+Kendala umum: Pertahankan tanpa teks/subtitle; jangan hasilkan Logo; jangan hasilkan watermark; setiap shot hanya menggunakan satu jenis gerakan kamera; orang-orang perlu bergerak alami sedikit, bukan seperti patung.
 ```
 
 <a id="category-19"></a>
 
 ### Hewan Peliharaan / Satwa (5)
 
-### No. 1: 萌猫特写
+### No. 1: Kucing Imut Close-up
 
 - **Category:** `Hewan Peliharaan / Satwa`
 - **Source:** `community`
@@ -2267,22 +2268,22 @@ Shot 5：镜头顺势升高俯拍整条美食长街灯火通明定格，人潮�
 
 #### Description
 
-以猫咪@Image 1为主体，竖屏9:16，柔焦生活流、暖阳米白色调+浅景深，生成30秒治愈系萌宠短片。
+Dengan kucing @Image 1 sebagai subjek utama, rasio vertikal 9:16, aliran kehidupan soft focus, nuansa putih hangat berjemur + depth of field dangkal, menghasilkan video pendek hewan peliharaan yang menenangkan selama 30 detik.
 
 #### Prompt
 
 ```text
-以猫咪@Image 1为主体，竖屏9:16，柔焦生活流、暖阳米白色调+浅景深，生成30秒治愈系萌宠短片。
-Shot 1：特写，猫咪@Image 1 突然睁大瞳孔直视镜头，固定机位，（清脆钢片琴单音）<猫咪软软"喵">。
-Shot 2：微距，猫咪@Image 1 粉色鼻头轻轻抽动、胡须颤动，镜头缓慢推近，<细微鼻息声>。
-Shot 3：中景，猫咪@Image 1 抬爪按住飘落的羽毛，镜头平稳横移，（钢片琴节奏轻快）。
-Shot 4：特写，猫咪@Image 1 打了个哈欠露出小舌头，镜头缓慢拉远，<满足呼噜声>。
-Shot 5：全景，猫咪@Image 1 蜷成一团闭眼睡去，镜头缓慢升起俯拍定格，（音乐渐弱）【今天也要好好休息】。
-约束：猫咪毛色花纹以Image 1为准全程一致，瞳孔与鼻头保持粉色，禁止换种换色。
-通用约束：保持无字幕；不要生成 Logo；不要生成水印；每个镜头只用一种运镜；人物需自然微动非石像。
+Dengan kucing @Image 1 sebagai subjek utama, rasio vertikal 9:16, aliran kehidupan soft focus, nuansa putih hangat berjemur + depth of field dangkal, menghasilkan video pendek hewan peliharaan yang menenangkan selama 30 detik.
+Shot 1: Close-up, kucing @Image 1 tiba-tiba membuka pupil lebar menatap langsung ke kamera, kamera tetap, (suara single note celesta yang jernih) <kucing mengeluarkan suara 'meow' lembut>.
+Shot 2: Makro, hidung merah muda kucing @Image 1 berkedut lembut, kumis bergetar, kamera perlahan mendekat, <suara napas halus>.
+Shot 3: Medium shot, kucing @Image 1 mengangkat cakar menahan bulu yang jatuh melayang, kamera bergerak horizontal dengan stabil, (ritme celesta ringan dan ceria).
+Shot 4: Close-up, kucing @Image 1 menguap memperlihatkan lidah kecil, kamera perlahan menjauh, <suara dengkur puas>.
+Shot 5: Full shot, kucing @Image 1 meringkuk menjadi bola tertidur dengan mata tertutup, kamera perlahan naik memotret dari atas dan freeze, (musik perlahan melemah) 【Hari ini juga harus istirahat yang baik】.
+Kendala: Warna dan pola bulu kucing harus konsisten mengikuti Image 1 sepanjang video, pupil dan hidung tetap berwarna merah muda, dilarang mengganti ras atau warna.
+Kendala umum: Pertahankan tanpa subtitle; Jangan menghasilkan Logo; Jangan menghasilkan watermark; Setiap shot hanya menggunakan satu jenis gerakan kamera; Karakter manusia harus bergerak alami sedikit, bukan seperti patung.
 ```
 
-### No. 2: 狗狗奔跑
+### No. 2: Anjing Berlari
 
 - **Category:** `Hewan Peliharaan / Satwa`
 - **Source:** `community`
@@ -2291,22 +2292,22 @@ Shot 5：全景，猫咪@Image 1 蜷成一团闭眼睡去，镜头缓慢升起�
 
 #### Description
 
-以狗狗@Image 1为主体，横屏16:9，运动追焦、金色逆光草原+高速快门颗粒感，生成30秒热血奔跑片。
+Dengan anjing @Image 1 sebagai subjek utama, format landscape 16:9, fokus tracking gerakan, padang rumput backlight emas + butiran tekstur kecepatan rana tinggi, hasilkan klip lari penuh semangat 30 detik.
 
 #### Prompt
 
 ```text
-以狗狗@Image 1为主体，横屏16:9，运动追焦、金色逆光草原+高速快门颗粒感，生成30秒热血奔跑片。
-Shot 1：低机位特写，狗狗@Image 1 后腿蹬地爆发起跑扬起草屑，固定机位，（鼓点骤起）<爪子踏地闷响>。
-Shot 2：全景，狗狗@Image 1 舒展四肢横穿草原，镜头平稳横移追焦，<风声灌耳>。
-Shot 3：跟拍中景，狗狗@Image 1 耳朵后掠、舌头甩出，镜头低机位跟拍，（节奏加速）。
-Shot 4：特写，狗狗@Image 1 腾空跃过小溪水花四溅，镜头缓慢推近升格慢动作，<水花溅落声>。
-Shot 5：全景，狗狗@Image 1 冲向镜头前急停坐下咧嘴喘气，镜头缓慢拉远定格，（音乐收束）<欢快喘息>。
-约束：狗狗品种毛色以Image 1为准全程一致，奔跑步态符合真实四足力学，禁止漂浮滑步。
-通用约束：保持无字幕；不要生成 Logo；不要生成水印；每个镜头只用一种运镜；人物需自然微动非石像。
+Dengan anjing @Image 1 sebagai subjek utama, format landscape 16:9, fokus tracking gerakan, padang rumput backlight emas + butiran tekstur kecepatan rana tinggi, hasilkan klip lari penuh semangat 30 detik.
+Shot 1: Close-up sudut rendah, anjing @Image 1 kaki belakang mendorong tanah meledak memulai lari mengepulkan serpihan rumput, kamera tetap, (ketukan drum tiba-tiba dimulai) <suara tapak kaki menapak tanah yang berat>.
+Shot 2: Wide shot, anjing @Image 1 merentangkan kaki melintasi padang rumput, kamera meluncur horizontal dengan stabil untuk fokus tracking, <suara angin menderu di telinga>.
+Shot 3: Medium shot mengikuti, telinga anjing @Image 1 tertarik ke belakang, lidah terjulur, kamera mengikuti dari sudut rendah, (ritme semakin cepat).
+Shot 4: Close-up, anjing @Image 1 melompat melintasi aliran kecil memercikkan air, kamera perlahan mendorong ke depan dengan gerakan lambat slow motion, <suara percikan air jatuh>.
+Shot 5: Wide shot, anjing @Image 1 berlari ke arah kamera lalu berhenti mendadak dan duduk sambil terengah-engah tersenyum, kamera perlahan menarik jauh dan membekukan frame, (musik berakhir) <napas riang gembira>.
+Kendala: Jenis dan warna bulu anjing harus konsisten mengikuti Image 1 sepanjang video, gaya lari harus sesuai dengan mekanika berkaki empat yang realistis, dilarang mengambang atau meluncur.
+Kendala Umum: Pertahankan tanpa subtitle; jangan hasilkan Logo; jangan hasilkan watermark; setiap shot hanya menggunakan satu jenis gerakan kamera; karakter harus bergerak alami sedikit, bukan seperti patung.
 ```
 
-### No. 3: 水下鱼群
+### No. 3: Kawanan Ikan Bawah Air
 
 - **Category:** `Hewan Peliharaan / Satwa`
 - **Source:** `community`
@@ -2315,22 +2316,22 @@ Shot 5：全景，狗狗@Image 1 冲向镜头前急停坐下咧嘴喘气，镜�
 
 #### Description
 
-以珊瑚礁热带鱼群@Image 1为主体，横屏16:9，纪录片级水下摄影、丁达尔光柱+青蓝通透水色，生成30秒海底探索片。
+Dengan kawanan ikan tropis terumbu karang @Image 1 sebagai subjek utama, format lanskap 16:9, fotografi bawah air tingkat dokumenter, pilar cahaya Tyndall + warna air biru kehijauan yang jernih, menghasilkan film eksplorasi bawah laut 30 detik.
 
 #### Prompt
 
 ```text
-以珊瑚礁热带鱼群@Image 1为主体，横屏16:9，纪录片级水下摄影、丁达尔光柱+青蓝通透水色，生成30秒海底探索片。
-Shot 1：特写，一条小丑鱼@Image 1 从海葵触手间探头，固定机位，（空灵水滴音乐起）<气泡咕噜>。
-Shot 2：全景，成群热带鱼@Image 1 汇聚成银色漩涡，镜头缓慢环绕，<水流涌动声>。
-Shot 3：中景，鱼群@Image 1 集体转向穿过光柱，镜头平稳横移穿行，（弦乐铺展）。
-Shot 4：仰拍全景，鱼群@Image 1 游向海面剪影，镜头缓慢升起仰拍，<深海低频嗡鸣>。
-Shot 5：特写，小丑鱼@Image 1 独自游回海葵停驻，镜头缓慢拉远定格，（音乐渐隐）。
-约束：小丑鱼橙白条纹与礁石配色以Image 1为准，鱼群游动保持自然错位不重叠穿模，禁止整齐克隆队列。
-通用约束：保持无字幕；不要生成 Logo；不要生成水印；每个镜头只用一种运镜；人物需自然微动非石像。
+Dengan kawanan ikan tropis terumbu karang @Image 1 sebagai subjek utama, format lanskap 16:9, fotografi bawah air tingkat dokumenter, pilar cahaya Tyndall + warna air biru kehijauan yang jernih, menghasilkan film eksplorasi bawah laut 30 detik.
+Shot 1: Close-up, seekor ikan badut @Image 1 mengintip dari antara tentakel anemon laut, kamera tetap, (musik tetesan air yang ethereal dimulai) <gelembung menggelegak>.
+Shot 2: Panorama, kawanan ikan tropis @Image 1 berkumpul membentuk pusaran perak, kamera berputar perlahan, <suara arus air bergerak>.
+Shot 3: Medium shot, kawanan ikan @Image 1 berbelok bersama melewati pilar cahaya, kamera bergerak lateral dengan stabil melintas, (tali musik mengembangkan).
+Shot 4: Panorama sudut rendah, kawanan ikan @Image 1 berenang menuju siluet permukaan air, kamera perlahan naik memotret dari bawah, <dengungan frekuensi rendah laut dalam>.
+Shot 5: Close-up, ikan badut @Image 1 berenang sendirian kembali dan berhenti di anemon, kamera perlahan zoom out dan membekukan frame, (musik memudar secara bertahap).
+Kendala: Warna garis oranye-putih ikan badut dan warna bebatuan karang mengacu pada Image 1, gerakan kawanan ikan tetap alami dengan posisi tidak beraturan dan tidak tumpang tindih menembus model, dilarang barisan kloning yang rapi.
+Kendala umum: Tetap tanpa teks; Jangan menghasilkan Logo; Jangan menghasilkan watermark; Setiap shot hanya menggunakan satu jenis gerakan kamera; Karakter perlu bergerak alami sedikit bukan patung batu.
 ```
 
-### No. 4: 鸟类微距
+### No. 4: Makro Burung
 
 - **Category:** `Hewan Peliharaan / Satwa`
 - **Source:** `community`
@@ -2339,19 +2340,19 @@ Shot 5：特写，小丑鱼@Image 1 独自游回海葵停驻，镜头缓慢拉�
 
 #### Description
 
-以蜂鸟@Image 1为主体，竖屏9:16，超微距高速摄影、晨露花丛+虚化奶油背景，生成30秒生态微观片。
+Dengan burung kolibri @Image 1 sebagai subjek utama, rasio vertikal 9:16, fotografi kecepatan tinggi makro ekstrem, bunga-bunga dengan embun pagi + latar belakang blur lembut, menghasilkan film mikro ekologi 30 detik.
 
 #### Prompt
 
 ```text
-以蜂鸟@Image 1为主体，竖屏9:16，超微距高速摄影、晨露花丛+虚化奶油背景，生成30秒生态微观片。
-Shot 1：微距特写，蜂鸟@Image 1 悬停振翅化为透明弧影，固定机位，（竖琴泛音起）<高频振翅嗡响>。
-Shot 2：特写，蜂鸟@Image 1 细长喙探入花蕊吸蜜，镜头缓慢推近，<花瓣轻颤>。
-Shot 3：微距，蜂鸟@Image 1 喉部虹彩羽毛随角度变色，镜头缓慢环绕，（竖琴滑音）。
-Shot 4：中景，蜂鸟@Image 1 抖落身上晨露珠，镜头平稳横移升格慢动作，<水珠坠落>。
-Shot 5：全景，蜂鸟@Image 1 骤然弹射飞离画面，镜头缓慢拉远定格空枝，（音乐收束）。
-约束：蜂鸟虹彩羽色与喙形以Image 1为准，振翅呈现真实高速虚化残影，禁止翅膀定格僵硬。
-通用约束：保持无字幕；不要生成 Logo；不要生成水印；每个镜头只用一种运镜；人物需自然微动非石像。
+Dengan burung kolibri @Image 1 sebagai subjek utama, rasio vertikal 9:16, fotografi kecepatan tinggi makro ekstrem, bunga-bunga dengan embun pagi + latar belakang blur lembut, menghasilkan film mikro ekologi 30 detik.
+Shot 1: Close-up makro, burung kolibri @Image 1 melayang mengepakkan sayap berubah menjadi bayangan busur transparan, kamera tetap, (harmonik harpa dimulai) <suara dengung kepakan sayap frekuensi tinggi>.
+Shot 2: Close-up, paruh panjang ramping burung kolibri @Image 1 menyelidiki ke dalam benang sari untuk menghisap nektar, kamera perlahan mendorong mendekat, <kelopak bunga bergetar lembut>.
+Shot 3: Makro, bulu berwarna pelangi di tenggorokan burung kolibri @Image 1 berubah warna sesuai sudut, kamera perlahan mengelilingi, (glissando harpa).
+Shot 4: Medium shot, burung kolibri @Image 1 menggoyangkan butiran embun pagi dari tubuhnya, kamera bergerak horizontal dengan stabil slow motion kecepatan tinggi, <butiran air jatuh>.
+Shot 5: Long shot, burung kolibri @Image 1 tiba-tiba melesat terbang meninggalkan frame, kamera perlahan menarik jauh dan membekukan dahan kosong, (musik berakhir).
+Kendala: Warna pelangi bulu dan bentuk paruh kolibri mengacu pada Image 1, kepakan sayap menampilkan bayangan kabur kecepatan tinggi yang realistis, dilarang sayap kaku membeku.
+Kendala umum: Tetap tanpa teks; jangan menghasilkan Logo; jangan menghasilkan watermark; setiap shot hanya menggunakan satu jenis gerakan kamera; karakter perlu bergerak alami sedikit bukan patung batu.
 ```
 
 ### No. 5: Hewan Peliharaan Personifikasi
@@ -4109,6 +4110,243 @@ Using a real dancer's motion video as reference, precisely transfer the movement
 Referencing the character movements in @Video 1, generate a dance video featuring a character wearing Dunhuang-style attire in front of the Mogao Caves.
 ```
 
+<a id="category-33"></a>
+
+### Capability Showcase (7)
+
+### No. 1: Extended Scene: Warm Living Room Life
+
+- **Category:** `Capability Showcase`
+- **Source:** `official`
+- **Author:** ByteDance Seedance
+- **Language:** `id`
+- **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/practice/HnGzbX7hfoxGmgxCuL0cLYUXnMg.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/HnGzbX7hfoxGmgxCuL0cLYUXnMg.mp4" controls muted playsinline width="720"></video>
+
+- **Inputs:**
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/WZJHb7wJyoGQjuxhUSXcA6dTnsh.mp4" controls muted width="360"></video>
+
+#### Description
+
+Seamlessly extend a warm living room scene with reading, a cat, a child, and evening ambiance.
+
+#### Prompt
+
+```text
+Using @Video 1 as the original footage, keep the sofa, color palette, lighting, and camera movement logic completely consistent. Naturally extend the timeline at its end and seamlessly continue the warm living room life scene: The hostess, wearing beige knit loungewear, sits on the same sofa reading, with a beige blanket on her lap, and gently places a coffee cup on the tea table; a cat lightly jumps onto the cushion; a child runs in and leans on her shoulder, the hostess looks down and smiles; the floor lamp lights up at night, the three quietly lean on the sofa, the camera slowly pulls back and holds, leaving space for the brand logo.
+```
+
+### No. 2: Gecko Escape Plan: Audio Reference
+
+- **Category:** `Capability Showcase`
+- **Source:** `official`
+- **Author:** ByteDance Seedance
+- **Language:** `id`
+- **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/practice/A3R1bhWLqo5lCgxSjyDc7IFtn2E.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/A3R1bhWLqo5lCgxSjyDc7IFtn2E.mp4" controls muted playsinline width="720"></video>
+
+#### Description
+
+Two geckos, one cautious and one impulsive, plan their escape from a circus backstage in a 3D animated short.
+
+#### Prompt
+
+```text
+[Two Geckos' Escape Meeting — 3D Animation | Circus Backstage | About 20 Seconds]
+
+[Logline] The opening uses an establishing shot to show 'this is the circus backstage', then two geckos (one chubby, one tiny) discuss escape strategies, have a brief argument, and finally reach an agreement; amplified backstage ambient noise is primary, with background music almost always present, intensifying at key emotional points.
+
+[Character Reference (Appearance 100% consistent, no drift throughout)]
+——Chubby: A plump, round-bodied gecko with a rotund belly, short thick limbs, skin with warm brown spotted matte scale texture, a thick short tail storing fat making it look pudgy, wide toe pads, puffy cheeks, large round eyes, a simple expression, and slightly slow movements; personality is cautious, timid, loves to eat, but can muster courage and think of solutions at critical moments.
+——Tiny: A petite juvenile gecko, eyes large and bright almost filling its small head, skin with light yellow-green fresh scale color and fine spots, tail thin and flexible, toe tips can adhere for climbing, movements are agile and jumpy; personality is impatient, impulsive, fearless, and the one who proposes the escape.
+
+[Voice Reference (Fixed voice per character)]
+Chubby: Low, simple, middle-aged male voice, slightly slow speech, with a timid tremble. Reference [Audio 1].
+Tiny: High, fast, youthful voice, sharp and impulsive, voice cracks when emotions run high. Reference [Audio 2].
+[Ambient Sound Reference]
+——Ambience: A layer of circus backstage ambient noise (distant tent clamor, faint animal sounds, canvas flapping in wind, wooden frame creaking, distant human voices with reverb, etc.) runs throughout as the scene's atmospheric base; ambient sound volume is overall amplified, most prominent in the opening establishing shot, serving as the main sound field of the entire piece; ambient sound reference [Audio 3].
+
+[Background Music Reference]
+——Accent: A piece of background music (playfully suspenseful, light with a touch of tension), almost always present as a base, appearing for a long duration, gently fades in from the opening establishing shot, volume intensifies at the proposal, argument climax, and ending freeze-frame; only briefly lowered during dense dialogue to make way for lines, but never completely disappears, does not cover dialogue, does not overpower; music reference [Audio 4].
+[Scene Lock (Geometrically constant, no drift throughout)]
+Circus Backstage: Inside a dim, cluttered circus backstage tent, ambient noise reference matches ambient sound — left side has a row of animal cages (cold light seeps through gaps), center has several stacked prop boxes and rolled-up colorful tent canvas, right side has a canvas flap exit leading outside (gaps emit night blue light) and a swaying warm yellow hanging lamp, ground is trampled wood shavings and straw. Layout locked: Two geckos surround a large prop box used as a table in the center — Chubby lies on the left side of the box (x~30%), back against the cages; Tiny climbs / hops on top or right side of the box (x~65%), most active, toe tips occasionally adhering to the box surface. Exit is at the far right of the frame.
+[3D Animation Style / Visual Texture] High-quality 3D animation, fine rendering of scales and skin (visible detailed texture of each scale, skin micro-gloss and muscle movement, softness of toe pad adhesion), character expressions exaggerated and lively, rich with cartoon performance tension; night circus backstage atmosphere — cold blue ambient light primary, right-side warm yellow hanging lamp secondary, teal-and-amber warm-cool contrast, shallow depth of field, cinematic lighting, 55mm virtual lens.
+
+[Shot Language] Handheld-style agile camera movement with real operational weight; editing rhythm driven by emotion, emotional climax points can sync with accentuated downbeats from [Audio 4]. Opening uses an establishing shot to show the scene, then each segment first uses a positioning wide shot to establish the two geckos' relative positions, then cuts into coverage shots. Moderate use of rhythmic staging: quick whip pans switching between speakers, crash-in close-ups landing on emotional climax points, fast-cut shot/reverse-shot during argument. Facial close-ups must capture eyes, vertical pupil contraction, throat movement, toe tip gripping, and mouth shapes; eye lines look at each other, never at the camera; natural blinking (including gecko-style eye licking) and eye movement. Hard cuts, no dissolves.
+[Hard Locks] Only the two named geckos throughout, no third gecko, no extras, no clones/duplicates; their size difference (plump / petite) maintained every frame; dialogue spoken word-for-word (English), only one main speaker at a time (argument climax allows brief overlapping/interrupting); opening establishing shot segment has no dialogue; audio track hierarchy: amplified [Audio 3] ambient noise primary, [Audio 4] accent background music long-duration base and intensifying at key points, not covering dialogue; no subtitles / on-screen text; 3D realistic scale skin, stable, no extra limbs or ghosting.
+
+Shot 1 (0–3 sec) · Establishing Shot (No Dialogue)
+Pure environment shot, no character dialogue: camera slowly pans across the circus backstage tent interior — left side animal cages' cold light, center stacked prop boxes and rolled colorful tent canvas, right side canvas flap exit emitting night blue light and swaying warm yellow lamp, trampled wood shavings and straw on ground. This segment ambient noise volume is highest, most prominent (tent clamor, distant animal sounds, canvas flapping in wind, frame creaking), [Audio 4] accent gently fades in here as a base, clearly establishing 'this is the circus backstage'. Hard cut.
+
+Shot 2 (3–7 sec) · Positioning + Proposal
+Positioning wide shot reveals two geckos surrounding the central prop box. Hard cut. — Handheld medium shot pushes in on Tiny (voice reference [Audio 2]), it hops onto the box, toe tips audibly adhere to the surface (with crisp adhesion sound effect), speaking low and urgent: "Tonight — we break out of here!" — Reverse shot to Chubby (voice reference [Audio 1]) facial close-up, throat constricts, vertical pupils tremble, trembling voice: "B-break out? It's dangerous…"
+
+Shot 3 (7–13 sec) · Argument Confrontation (Climax)
+Fast-cut shot/reverse-shot argument, allows brief overlapping dialogue, — Tiny (voice reference [Audio 2]) jumps, tail flicks, points at Chubby, voice cracking: "You're just a coward!" — Chubby (voice reference [Audio 1]) unusually raises volume to overpower it, near tears: "Stop shouting — the guard'll hear us!" Facial close-ups: each face showing anger and panic, vertical pupils contracting, throat and tail shaking violently; at the argument peak, music and ambient noise briefly lower to highlight the two arguing voices.
+
+Shot 4 (13–18 sec) · Turning Point + Agreement
+— Chubby (voice reference [Audio 1]) suddenly musters courage, serious: "I'll block the guard. You slip out and open the door." — Whip pan to Tiny, pauses, vertical pupils relax, grins: "…That actually works!" (Music warms up, volume rises again)
+
+Shot 5 (18–20 sec) · Freeze Frame High-Five
+Slow push two-gecko side-by-side shot: both geckos extend small claws (toe pads touch) stacked together (with gentle toe pad contact sound effect), eyes look together towards the right exit, [Audio 4] accent ends with one accentuated downbeat. Tiny (voice reference [Audio 2]) whispers: "Midnight. We move." Night light from the canvas flap gap illuminates their determined faces, frame freezes on their resolute expressions, amplified ambient noise and music together fade out.
+
+[Negative Constraints] No third gecko or any extras/clones; their sizes and appearances must not drift or face-swap; no duplicated props; no character duplicates in mirror reflections; no subtitles, no on-screen text, no text overlays; only hard cuts, no dissolves; opening establishing shot segment must not have character dialogue; maintain the emotional arc of "ambient setup → proposal → argument confrontation → agreement", ending must land on both parties agreeing and determined; audio track hierarchy fixed as amplified ambient noise primary, background music long-duration base and intensifying at key points, not covering dialogue. Characters speak English (All characters speak English).
+```
+
+### No. 3: Headphone Ad: Cinematic Motion And Rhythm Transfer
+
+- **Category:** `Capability Showcase`
+- **Source:** `official`
+- **Author:** ByteDance Seedance
+- **Language:** `id`
+- **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/practice/BOp2bIPSBoX7XexnVWKcgib7nxg.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/BOp2bIPSBoX7XexnVWKcgib7nxg.mp4" controls muted playsinline width="720"></video>
+
+- **Inputs:**
+
+<p>
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/WLVebLB37oqQcuxhL8GcnLPJnvd.jpg" width="180" referrerpolicy="no-referrer">
+</p>
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/OW6hboG1IoKFvgxZF7OclqYCnye.mp4" controls muted width="360"></video>
+
+#### Description
+
+Create a headphone ad by transferring the camera work and editing rhythm from a reference video.
+
+#### Prompt
+
+```text
+Reference the camera movement techniques and editing rhythm of @Video 1 to generate an advertising short film for the headphones @Image. Adapt to scenes that match the product's tone, emphasizing modernity, simplicity, and a sense of technology. The switching points between product close-ups and scene panoramas are consistent with the original film, maintaining the same motion speed and transition methods.
+```
+
+### No. 4: One-Shot Journey Through Time
+
+- **Category:** `Capability Showcase`
+- **Source:** `official`
+- **Author:** ByteDance Seedance
+- **Language:** `id`
+- **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/practice/Y45Dbn2wjo73dyx2MencnrVOnDb.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/Y45Dbn2wjo73dyx2MencnrVOnDb.mp4" controls muted playsinline width="720"></video>
+
+- **Inputs:**
+
+<p>
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/FFjKbfMzKoHxEWxbCU8c5vB3n9e.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/BRZFbmkk6oOgaJx98bxcR5bunVf.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/ZR6Tb4dSTotLNKxZoGEcTlMqn9e.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/WxWqbQ3PJoG2asxMGPvcl7CInRh.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/EygIbzFAgoSuWQxVNYBcjrDunGf.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/AueXb1JUqonfRfxyKNKcinednnd.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/LDhubYpeYoIqaQx7cJ4c2DNcnpd.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/LP9ubVtwSoYkNZxnnEUc4KqKnyc.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/A0JMbZZkaoKTG4xOQA2cu054nrh.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/QuwxbzNvBo820IxoG6ncMfWSnYg.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/QS1Jbr7PEo9xq5xwKtGcYKzgn9b.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/KTuxbEw9qoOCTPxmpJxc7iEsnBh.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/N4yqbYos8olyHMx3xwncSC5snlf.jpg" width="180" referrerpolicy="no-referrer">
+</p>
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/O18Mbz7JbogifhxUBQGcbIGZnQc.mp4" controls muted width="360"></video>
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/WpovbZilboy4QGxBHcPcE8oLnBb.mp4" controls muted width="360"></video>
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/Bic2bbcq6oLab1xEzxGcjV8XnoJ.mp4" controls muted width="360"></video>
+
+#### Description
+
+A 26-second one-shot film follows a solitary woman through shifting seasons and day into night.
+
+#### Prompt
+
+```text
+Core Instruction: A full 26-second one-shot (One-Shot) narrative short film, stable follow shot, referencing [Video 1] and smooth orbiting camera movement, referencing [Video 2] interwoven. Smooth sense of progression. Achieve day-night alternation and seasonal flow within the shot. The protagonist is a European woman [Image 1], placed in a bustling crowd full of life, highlighting an extreme sense of loneliness and cinematic photography quality.
+
+Segmented Camera Movement and Scene Description:
+0-3 seconds (steady back follow): An old wooden door [Image 2] creaks open, the camera closely follows the European woman's back wearing [Image 3] as she steps out. She pauses slightly at the threshold, the street ahead dappled with light and shadow, the sounds of hawking and crowds washing over her. Her expression is detached as she slowly steps forward to merge into the street.
+3-6 seconds (back/side follow): The camera maintains smooth follow, she enters a crowded morning market, atmosphere reference [Video 3]. Both sides are packed with vibrantly colored fruit stalls and spice shops, a troupe of street performers is breathing fire dragons, reference [Image 4], the firelight illuminates the crowd, but she doesn't glance sideways, walking at a steady pace through.
+6-9 seconds (side smooth orbit): The camera begins a smooth orbit towards the front side, capturing the protagonist's profile. She passes a noisy butcher shop [Image 5], a young mother carrying a baby [Image 6] brushes past her, the baby stares at her curiously, but she merely lowers her eyes slightly to avoid the gaze, not pausing at all.
+9-12 seconds (front reverse follow): The camera continues orbiting to the protagonist's front, performing a reverse follow shot. The crowd ahead suddenly parts naturally like Moses parting the sea, a large elephant draped in ornate red cloth [Image 7] appears from the right side of the frame with steady steps, occupying most of the frame.
+12-15 seconds (gap penetration and orbit back): At the moment the woman and the elephant are about to collide, the camera cleverly slides through the narrow gap between the elephant and the woman, orbiting back to her back. The elephant passes by, massive and quiet, mischievous children cheer and chase it. Elephant bells, laughter are deafening, yet she doesn't even slow her pace.
+15-18 seconds (environmental light gradient): As she walks, the light within the long shot magically transforms—the piercing summer sunlight instantly softens, a gust of wind swirls up a sky full of golden leaves [Image 8], the season seamlessly transitions to late autumn within the same long shot. Leaves brush past her shoulder.
+18-21 seconds (360-degree immersive orbit): Ahead suddenly erupts into a grand street festival [Image 9]. The air sprays confetti and shredded paper, vendors lean out cheering. At this moment, the camera executes a continuous 360-degree orbiting shot, creating an extremely strong visual tear between the quiet, lonely protagonist and the狂热 surroundings.
+21-24 seconds (orbit back to side/rear): When the camera completes its orbit and returns to her side/rear, the falling confetti has quietly transformed into a sky full of falling snow—instantly winter [Image 10]. Pedestrians纷纷 put up umbrellas or pull up hoods, the woman shivers slightly, turns up her coat collar, her clothing changes to [Image 11], continuing her solitary walk in the snow.
+24-26 seconds (slow push follow): As she walks towards the end of the long street, the sky visibly darkens during her progression, day seamlessly sinks into night. The dim yellow street lamps and stall light bulbs on both sides light up one after another [Image 12], vendors pack up their goods, the喧闹声 seems to be slowly absorbed and distanced by the heavy snow, her steps gradually slow. The night sky suddenly erupts with grand fireworks [Image 13], fireworks sound reference [Audio 1]五彩 light spots flicker and dance on the building walls and in her eyes. The world remains热闹, yet she looks up quietly, the camera slowly pulls back, ending gently here.
+```
+
+### No. 5: Martial Scene Swap: Cold Weapon Duel
+
+- **Category:** `Capability Showcase`
+- **Source:** `official`
+- **Author:** ByteDance Seedance
+- **Language:** `id`
+- **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/practice/FL7ib6OOSoe96MxqNlgckIWGnVg.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/FL7ib6OOSoe96MxqNlgckIWGnVg.mp4" controls muted playsinline width="720"></video>
+
+- **Inputs:**
+
+<p>
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/DoDXbFDxQo4pPIxlikCc2P7Rn7c.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/MUDCbrgtSoDt0lxHkSscA2WEnsC.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/U1HIb6IRqoTYB6x3UK1cstAGnnb.jpg" width="180" referrerpolicy="no-referrer">
+</p>
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/AboGbncdgoC2jRxvQIvcB0lHn1b.mp4" controls muted width="360"></video>
+
+#### Description
+
+Replace a bare-handed fight with a cold weapon duel in a classical, atmospheric setting.
+
+#### Prompt
+
+```text
+Replace the bare-handed fight video of two people @Video 1 with the empty-handed probing style before a cold weapon duel.
+Replace the scene with a medieval stone castle platform, ancient courtyard flat ground, mountain fortress outer platform, or simple stone brick dueling ground, with a background of ancient castle walls, wind, fog, distant mountain lines, and flat stone ground @Image 1.
+Replace the clothing of the man in dark clothes in the video with @Image 2, and replace the man in light clothes with @Image 3. Keep the actions unchanged, do not alter the original rhythm.
+AI effects only enhance environment and texture: wind blowing clothes, light fog, a small amount of dust at contact points, cold metallic reflective texture, slight grain, and epic color grading. Overall style is restrained, realistic, classical hardcore duel atmosphere. Background music hits the beat.
+```
+
+### No. 6: Complex Emotions In Theater Audience
+
+- **Category:** `Capability Showcase`
+- **Source:** `official`
+- **Author:** ByteDance Seedance
+- **Language:** `id`
+- **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/practice/XdEWbJtQkoZkZ2xIKCScwAmrnkf.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/XdEWbJtQkoZkZ2xIKCScwAmrnkf.mp4" controls muted playsinline width="720"></video>
+
+#### Description
+
+A young girl in a theater audience watches a performance with a mix of pride, heartache, and suppressed tears.
+
+#### Prompt
+
+```text
+Theater audience, a young girl with her hands clasped near her chin, gazing at the performance on stage. Her emotions are complex and mixed; there is pride in her eyes, heartache, and the glimmer of suppressed tears. Her lips are lightly pressed together, her eyelashes tremble, tears well up in her eyes but she forces them not to fall. The core presentation is the authentic, mixed feelings of watching someone dearest to you shine.
+```
+
+### No. 7: Acceptance Letter's Quiet Joy
+
+- **Category:** `Capability Showcase`
+- **Source:** `official`
+- **Author:** ByteDance Seedance
+- **Language:** `id`
+- **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/practice/PcB8bEhXwo12taxDwXVchOfqnlc.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/PcB8bEhXwo12taxDwXVchOfqnlc.mp4" controls muted playsinline width="720"></video>
+
+#### Description
+
+A young woman experiences restrained, complex emotions upon receiving her acceptance letter at dusk.
+
+#### Prompt
+
+```text
+A young East Asian woman sits by a study window at dusk, facing a laptop, warm golden side/back light on her face. Her performance is deeply restrained, with emotion conveyed through her eyes, shallow breathing, a choked throat, and trembling fingertips. She moves from disbelief to tearful suspension; as one tear falls, a faint smile appears, ending in quiet relief as she looks outside. Slow, steady camera movement, close-ups for micro-expressions, a slight push-in at the moment the tear gives way to a smile, soft focus on " Acceptance Letter," 35mm film texture, shallow depth of field, low-light grain.
+```
+
 <a id="faq"></a>
 
 ## ❓ Frequently asked questions
@@ -4166,4 +4404,4 @@ npx tsc --noEmit
 
 > All prompts are shared for learning, organization, and discovery. Open an issue if anything should be removed.
 
-> This README is auto-generated. 2026-07-31.
+> This README is auto-generated. 2026-08-01.

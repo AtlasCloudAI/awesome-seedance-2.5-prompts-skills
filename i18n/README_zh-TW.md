@@ -4,7 +4,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedance-2.5-prompts-skills?style=social)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-143%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+[![Prompts](https://img.shields.io/badge/prompts-150%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 一個經過整理的 Seedance 2.5 影片提示詞庫，以及可安裝的 **Seedance 2.5 Skill**。這個 Agent Skill 可以最佳化提示詞、視需要規劃並檢查 Storyboard，並生成可控影片。Storyboard 圖片預設使用 Seedream 5.0 Pro，目前影片生成預設使用 Seedance 2.0；只有所選服務商實際提供 Seedance 2.5 時，才切換到 2.5。
 
@@ -135,10 +135,10 @@ npx skills add AtlasCloudAI/atlas-cloud-skills --skill atlas-cloud
 
 | 指標 | 數量 |
 |--------|-------|
-| 提示詞總數 | **143** |
-| 分類數 | **32** |
-| 預覽影片數 | **43** |
-| 最後更新 | **2026-07-31** |
+| 提示詞總數 | **150** |
+| 分類數 | **33** |
+| 預覽影片數 | **50** |
+| 最後更新 | **2026-08-01** |
 
 <a id="featured-prompts"></a>
 
@@ -397,6 +397,7 @@ npx skills add AtlasCloudAI/atlas-cloud-skills --skill atlas-cloud
 - [`知识科普`](#category-30): **6**
 - [`工业制造`](#category-31): **4**
 - [`多元场景`](#category-32): **3**
+- [`能力演示`](#category-33): **7**
 
 <a id="all-prompts"></a>
 
@@ -4124,6 +4125,245 @@ Camera: 16:9 warm documentary style, slow museum walkthrough, guide moments mixe
 参考@视频1中的人物动作，生成在莫高窟前穿着敦煌元素服饰的舞蹈视频。
 ```
 
+<a id="category-33"></a>
+
+### 能力演示 (7)
+
+### No. 1: 视频延长:暖光客厅生活场景
+
+- **分類:** `能力演示`
+- **來源:** `official`
+- **作者:** ByteDance Seedance
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/practice/HnGzbX7hfoxGmgxCuL0cLYUXnMg.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/HnGzbX7hfoxGmgxCuL0cLYUXnMg.mp4" controls muted playsinline width="720"></video>
+
+- **Inputs:**
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/WZJHb7wJyoGQjuxhUSXcA6dTnsh.mp4" controls muted width="360"></video>
+
+#### 描述
+
+以 @视频1 为原片，保持沙发、配色、光影与运镜逻辑完全一致，在其结尾自然延长时序、无缝续接暖光客厅生活场景：女主人穿米白针织家居服坐在同一
+
+#### 提示詞
+
+```text
+以 @视频1 为原片，保持沙发、配色、光影与运镜逻辑完全一致，在其结尾自然延长时序、无缝续接暖光客厅生活场景：女主人穿米白针织家居服坐在同一张沙发上读书、腿上搭米白毯，把咖啡杯轻放到茶几；猫轻轻跳上坐垫；孩子跑入靠到肩上，女主人低头微笑；夜晚落地灯亮起，三者安静靠在沙发上，镜头缓慢后拉定格，画面留出品牌标识空间。
+```
+
+### No. 2: 仅音频参考:两只守宫的越狱会议
+
+- **分類:** `能力演示`
+- **來源:** `official`
+- **作者:** ByteDance Seedance
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/practice/A3R1bhWLqo5lCgxSjyDc7IFtn2E.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/A3R1bhWLqo5lCgxSjyDc7IFtn2E.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+【两只守宫的越狱会议 — 3D 动画 | 马戏团后台 | 约 20 秒】
+
+【一句话梗概】 开场先留一段环境空镜交代"这是马戏团后台"，随后
+
+#### 提示詞
+
+```text
+【两只守宫的越狱会议 — 3D 动画 | 马戏团后台 | 约 20 秒】
+
+【一句话梗概】 开场先留一段环境空镜交代"这是马戏团后台"，随后两只守宫（一只胖胖的、一只小小的）商量逃出马戏团的策略，爆发简短争执，最后达成一致；以放大的马戏团后台环境音底噪为主，背景音乐几乎全程铺底、在关键情绪点加强。
+
+【角色参考（外形 100% 保持一致，全程不漂移）】
+——胖胖：一只体型胖圆的守宫，圆滚滚的肚子、四肢短粗、皮肤是暖褐带斑点的哑光鳞纹，尾巴又粗又短、储着脂肪显得肉墩墩，趾垫宽大，脸颊鼓鼓、大眼圆睁，表情憨厚，动作慢半拍；性格谨慎、怕事、爱吃，但关键时刻能鼓起勇气想出办法。
+——小小：一只体型娇小的幼年守宫，眼睛又大又亮、几乎占满小脑袋，皮肤是浅黄绿的鲜嫩鳞色、带细小斑点，尾巴细而灵活，趾尖能吸附攀爬，动作机灵跳脱；性格急躁、冲动、天不怕地不怕，是提出越狱的那一个。
+
+【声音参考（每角色声线固定）】
+胖胖：低沉憨厚的中年雄性嗓音，语速偏慢，带点胆怯的颤音。参考【音频1】。
+小小：又高又快的少年嗓音，尖锐冲动，情绪一上来就破音。参考【音频2】。
+【环境音效参考】
+——环境：全程铺一层马戏团后台的环境音底噪（远处帐篷内的嘈杂、隐约的动物响动、帆布被风吹动、木架吱呀、远处人声混响等），作为场景氛围底噪；环境音效音量整体放大，尤其在开场空镜段落最为突出，是全片的主要声场；环境音效参考【音频 3】。
+
+【背景音乐参考】
+——点缀：一段背景音乐（俏皮悬疑、轻快带一点紧张感），几乎全程铺底、出现时长较长，从开场空镜就轻轻淡入，在提议、争执高潮、结尾定格处音量加强；仅在对白密集时短暂压低，让位给台词，但不完全消失，不覆盖对白、不喧宾夺主；音乐参考【音频4】。
+【场景锁定（几何恒定，全程不漂移）】
+马戏团后台：一个昏暗杂乱的马戏团后台帐篷内，环境音底噪参考环境音效 —— 左侧是一排关动物的铁笼（冷光从笼缝透入），中央是几只堆叠的道具箱与卷起的彩色帐篷布，右侧是通往外面的帆布帘出口（缝隙透出夜色蓝光）与一盏摇晃的暖黄挂灯，地面是踩脏的木屑与稻草。布局锁定：两只守宫围着中央一只当桌子用的大道具箱 —— 胖胖 趴在箱子左侧（x~30%），背靠铁笼；小小 攀 / 蹦在箱子上方或右侧（x~65%），最活跃，趾尖时不时吸附在箱面上。出口在画面最右。
+【3D 动画风格 / 画面质感】 高品质 3D 动画，鳞片与皮肤精细渲染（可见每片鳞纹的细腻质感、皮肤微光泽与肌肉运动、趾垫吸附的柔软感），角色表情夸张而生动、富有卡通表演张力；夜晚马戏团后台的氛围 —— 冷蓝色环境光为主、右侧暖黄挂灯为辅，teal-and-amber 冷暖对比，浅景深，电影级打光，55mm 虚拟镜头。
+
+【镜头语言】 手持感的灵动运镜带真实操作重量；剪辑节奏由情绪驱动，情绪爆发点可与【音频4】点缀 加强的重拍呼应。开场用环境空镜交代场景，随后每个段落先用一个定位广角交代两只守宫的相对位置，再切入覆盖镜头。适度使用节奏性调度：快速甩镜在两个说话者之间切换、猛推特写（crash-in）卡在情绪爆发点、争执时快切正反打。面部特写要拍到眼神、竖瞳收缩、喉部鼓动、趾尖抓握与嘴型；视线互相对视、绝不看镜头；自然的眨眼（含守宫式舔眼）与眼神流动。硬切，无叠化。
+【硬性锁定】 全程只有两只具名守宫，无第三只守宫、无群众、无分身克隆；两者体型差异（胖圆 / 娇小）每一帧都保持；对白逐字念出（英文），同一时刻只有一个主要说话者（争执高潮允许短暂抢话重叠）；开场空镜段落无对白；音轨层次：放大的 【音频3】环境底噪为主、【音频4】点缀 背景音乐长时间铺底并在关键点加强、不覆盖对白；无字幕 / 画面文字；3D 写实鳞片皮肤、稳定、无多余肢体或重影。
+
+镜头 1（0–3 秒）· 环境空镜（无对话）
+纯环境镜头，无角色对话：镜头缓慢扫过马戏团后台帐篷内部——左侧关动物的铁笼冷光、中央堆叠的道具箱与卷起的彩色帐篷布、右侧透出夜色蓝光的帆布帘出口与摇晃的暖黄挂灯、地上踩脏的木屑稻草。此段 环境音底噪音量最大、最突出（帐篷嘈杂、远处动物响动、帆布被风吹动、木架吱呀），从这里轻轻淡入铺底，明确交代"这里是马戏团后台"。硬切。
+
+镜头 2（3–7 秒）· 定位 + 提议
+定位广角带出两只守宫围着中央道具箱。硬切。—— 手持中景推近 小小（音色参考【音频2】），它蹦到箱子上、趾尖啪地吸住箱面（伴清脆吸附音效），压低又急促:"Tonight — we break out of here!" —— 反打 胖胖（音色参考【音频1】）面部特写，喉部一缩、竖瞳一颤，颤声:"B-break out? It's dangerous…"
+
+镜头 3（7–13 秒）· 争执对抗（高潮）
+争执快切正反打，允许短暂抢话重叠，—— 小小（音色参考【音频2】）跳脚，尾巴甩动，指着胖胖，破音:"You're just a coward!" ——胖胖（音色参考【音频1】）罕见地拔高音量盖过它，快哭了:"Stop shouting — the guard'll hear us!" 面部特写：两张脸各自的怒与慌，竖瞳收缩、喉部与尾巴剧烈抖动；争执尖峰处音乐与环境底噪短暂压低，突出两只的争执声。
+
+镜头 4（13–18 秒）· 转机 + 达成一致
+——胖胖（音色参考【音频1】）忽然壮起胆子，认真:"I'll block the guard. You slip out and open the door." —— 甩镜到小小，愣了一下，竖瞳松动，咧嘴一笑:"…That actually works!"（音乐回暖、音量重新抬起）
+
+镜头 5（18–20 秒）· 定格击掌
+慢推两守宫并肩双人镜头：两只守宫伸出小爪（趾垫相贴）叠在一起（伴轻轻的趾垫相碰音效），眼神一致望向右侧出口，【音频4】点缀 收尾一记加强的重拍收束。小小（音色参考【音频2】）低声:"Midnight. We move." 帆布帘缝的夜光映在两张下定决心的脸上，画面在它们坚定的表情中定格，放大的环境底噪与音乐一同缓缓收尾。
+
+【负向约束】 不得出现第三只守宫或任何群众 / 克隆；两者体型与外形不得互相漂移或换脸；不得复制道具；无镜面倒影中的角色分身；无字幕、无画面文字、无文字叠层；仅硬切、无叠化；开场空镜段落不得出现角色对白；保持 "环境铺垫→提议→争执对抗→达成一致" 的情绪曲线，结尾必须落在两方一致、下定决心上；音轨层次固定为放大的环境底噪为主、背景音乐长时间铺底并在关键点加强、不覆盖对白。角色说英文（All characters speak English）。
+```
+
+### No. 3: 耳机广告:运镜与节奏迁移
+
+- **分類:** `能力演示`
+- **來源:** `official`
+- **作者:** ByteDance Seedance
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/practice/BOp2bIPSBoX7XexnVWKcgib7nxg.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/BOp2bIPSBoX7XexnVWKcgib7nxg.mp4" controls muted playsinline width="720"></video>
+
+- **Inputs:**
+
+<p>
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/WLVebLB37oqQcuxhL8GcnLPJnvd.jpg" width="180" referrerpolicy="no-referrer">
+</p>
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/OW6hboG1IoKFvgxZF7OclqYCnye.mp4" controls muted width="360"></video>
+
+#### 描述
+
+参考 @视频1 的运镜方式与剪辑节奏，生成一条耳机@图片的广告短片。适配符合产品调性的场景，强调现代、简洁、科技感。产品特写与场景全景的切换
+
+#### 提示詞
+
+```text
+参考 @视频1 的运镜方式与剪辑节奏，生成一条耳机@图片的广告短片。适配符合产品调性的场景，强调现代、简洁、科技感。产品特写与场景全景的切换点与原片一致，保持同样的运动速度与转场方式。
+```
+
+### No. 4: 26秒一镜到底:昼夜交替四季流转
+
+- **分類:** `能力演示`
+- **來源:** `official`
+- **作者:** ByteDance Seedance
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/practice/Y45Dbn2wjo73dyx2MencnrVOnDb.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/Y45Dbn2wjo73dyx2MencnrVOnDb.mp4" controls muted playsinline width="720"></video>
+
+- **Inputs:**
+
+<p>
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/FFjKbfMzKoHxEWxbCU8c5vB3n9e.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/BRZFbmkk6oOgaJx98bxcR5bunVf.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/ZR6Tb4dSTotLNKxZoGEcTlMqn9e.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/WxWqbQ3PJoG2asxMGPvcl7CInRh.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/EygIbzFAgoSuWQxVNYBcjrDunGf.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/AueXb1JUqonfRfxyKNKcinednnd.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/LDhubYpeYoIqaQx7cJ4c2DNcnpd.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/LP9ubVtwSoYkNZxnnEUc4KqKnyc.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/A0JMbZZkaoKTG4xOQA2cu054nrh.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/QuwxbzNvBo820IxoG6ncMfWSnYg.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/QS1Jbr7PEo9xq5xwKtGcYKzgn9b.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/KTuxbEw9qoOCTPxmpJxc7iEsnBh.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/N4yqbYos8olyHMx3xwncSC5snlf.jpg" width="180" referrerpolicy="no-referrer">
+</p>
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/O18Mbz7JbogifhxUBQGcbIGZnQc.mp4" controls muted width="360"></video>
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/WpovbZilboy4QGxBHcPcE8oLnBb.mp4" controls muted width="360"></video>
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/Bic2bbcq6oLab1xEzxGcjV8XnoJ.mp4" controls muted width="360"></video>
+
+#### 描述
+
+核心指令： 全程 26 秒一镜到底（One-Shot）叙事短片，稳定跟拍，参考【视频1】与平滑环绕运镜，参考【视频2】交织。平滑行进感。镜头
+
+#### 提示詞
+
+```text
+核心指令： 全程 26 秒一镜到底（One-Shot）叙事短片，稳定跟拍，参考【视频1】与平滑环绕运镜，参考【视频2】交织。平滑行进感。镜头内实现昼夜交替与四季流转。主角是一位欧洲女人【图片1】，置身充满烟火气的人海，凸显极致的孤独感与电影摄影质感。
+分段运镜与场景描述：
+0-3 秒（平稳背跟）： 老旧木门【图片2】“吱呀”推开，镜头紧随欧洲女人穿着【图片3】的背影步出。他在门槛处微停，前方街巷光影斑驳，叫卖与人潮声扑面而来。她神情疏离，缓缓迈步融入街道。
+3-6 秒（背侧方跟拍）： 镜头保持平滑跟进，她步入拥挤的早市，氛围参考【视频3】。两侧挤满色泽浓郁的水果摊与香料铺，一队街头杂耍艺人正喷吐火龙，参考【图片4】，火光照亮人群，但她目不斜视，步伐匀速穿过。
+6-9 秒（侧面平滑环绕）： 镜头开始向侧前方平滑环绕，捕捉主角的侧脸。她走过喧闹的肉铺【图片5】，一位年轻母亲抱着婴儿【图片6】与他擦肩，婴儿好奇地紧盯她，她却只是微微垂下眼眸避开视线，没有丝毫停留。
+9-12 秒（正前方倒退跟拍）： 镜头继续绕至主角正前方，进行倒退跟拍。前方人群突然如摩西分海般自然退至两侧，一只披着华丽红布的巨大大象【图片7】迈着沉稳的步伐，从画面右侧出现，占据了大半个画面。
+12-15 秒（缝隙穿透与绕回）： 女人与大象即将相撞的瞬间，镜头巧妙地贴着大象与女人之间的狭窄缝隙滑过，重新绕回她的背影。大象庞大而安静地掠过，顽童们欢呼追逐。象铃声、笑声鼎沸，她却连脚步都未曾放缓。
+15-18 秒（环境光影渐变）： 伴随她的行走，长镜头内的光影奇幻变幻——盛夏的刺眼阳光瞬间柔和，一阵微风卷起漫天金黄的落叶【图片8】，季节在同一个长镜头中无缝过渡至深秋。落叶拂过她的肩膀。
+18-21 秒（360度沉浸环绕）： 前方骤然陷入一场盛大的街头庆典【图片9】。空中喷吐出漫天彩带与碎纸，摊贩探出身子欢呼。镜头在此刻展开一段连贯的 360 度环绕运镜，将安静孤寂的主角与狂热的周遭形成极其强烈的视觉撕裂。
+21-24 秒（绕回侧后方）： 当镜头环绕一周结束回到她侧后方时，飘落的彩带已悄然化作漫天飞雪——瞬间入冬【图片10】。行人们纷纷撑起伞或戴上兜帽，女人微微瑟缩，竖起大衣衣领，服装变成【图片11】，在雪地中继续孤身前行。
+24-26 秒（慢推跟拍）： 随着她走向长街尽头，天色在行进中以肉眼可见的速度暗下，白昼无缝沉入黑夜。两侧昏黄的路灯与小摊的灯泡次第亮起【图片12】，小贩收拾货物，喧闹声仿佛被大雪慢慢吸收、拉远，她的脚步逐渐放缓。夜空骤然绽放盛大的烟花【图片13】，烟花绽放声音参考【音频1】五彩光斑在楼墙与她的眼眸中闪烁跳跃。世界热闹依旧，而她安静仰望，镜头缓缓拉远，在此温柔收束。
+```
+
+### No. 5: 武打场景替换:冷兵器对决
+
+- **分類:** `能力演示`
+- **來源:** `official`
+- **作者:** ByteDance Seedance
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/practice/FL7ib6OOSoe96MxqNlgckIWGnVg.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/FL7ib6OOSoe96MxqNlgckIWGnVg.mp4" controls muted playsinline width="720"></video>
+
+- **Inputs:**
+
+<p>
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/DoDXbFDxQo4pPIxlikCc2P7Rn7c.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/MUDCbrgtSoDt0lxHkSscA2WEnsC.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/U1HIb6IRqoTYB6x3UK1cstAGnnb.jpg" width="180" referrerpolicy="no-referrer">
+</p>
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/AboGbncdgoC2jRxvQIvcB0lHn1b.mp4" controls muted width="360"></video>
+
+#### 描述
+
+将两人武打素版视频 @视频1 替换为冷兵器对决前的空手试探风。
+场景替换为中世纪石堡平台、古老庭院平地、山间堡垒外平台或简洁石砖决斗场，背景
+
+#### 提示詞
+
+```text
+将两人武打素版视频 @视频1 替换为冷兵器对决前的空手试探风。
+场景替换为中世纪石堡平台、古老庭院平地、山间堡垒外平台或简洁石砖决斗场，背景为古堡墙体、风、雾、远处山线，地面平整石质 @图片1 。
+视频中深色衣服的男子的服饰替换为 @图片2 ，视频中浅色衣服的男子替换为 @图片3。动作仍然保持不变，不改变原始节奏。
+AI 特效仅做环境和质感强化：风吹衣摆、轻雾、接触点少量尘土、金属冷色反光质感、轻微颗粒和史诗感调色。整体风格为克制、真实、古典硬派决斗氛围。背景音乐卡点
+```
+
+### No. 6: 复杂情绪表演:剧场观众席
+
+- **分類:** `能力演示`
+- **來源:** `official`
+- **作者:** ByteDance Seedance
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/practice/XdEWbJtQkoZkZ2xIKCScwAmrnkf.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/XdEWbJtQkoZkZ2xIKCScwAmrnkf.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+剧场观众席，一名年轻女孩双手交叠贴近下巴，凝望台上的表演。她的情绪复杂而混合，眼里有骄傲、有心疼、有隐忍的泪光，嘴唇轻抿，睫毛颤动，泪水在眼
+
+#### 提示詞
+
+```text
+剧场观众席，一名年轻女孩双手交叠贴近下巴，凝望台上的表演。她的情绪复杂而混合，眼里有骄傲、有心疼、有隐忍的泪光，嘴唇轻抿，睫毛颤动，泪水在眼眶打转却强忍不落。核心呈现看着最亲的人发光时那种五味杂陈的真实情绪。
+```
+
+### No. 7: 复杂情绪表演:录取通知
+
+- **分類:** `能力演示`
+- **來源:** `official`
+- **作者:** ByteDance Seedance
+- **語言:** `zh-TW`
+- **影片:** [查看](https://static.atlascloud.ai/model/example/seedance-2.5/practice/PcB8bEhXwo12taxDwXVchOfqnlc.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/PcB8bEhXwo12taxDwXVchOfqnlc.mp4" controls muted playsinline width="720"></video>
+
+#### 描述
+
+A young East Asian woman sits by a study window at dusk, facing a lapt
+
+#### 提示詞
+
+```text
+A young East Asian woman sits by a study window at dusk, facing a laptop, warm golden side/back light on her face. Her performance is deeply restrained, with emotion conveyed through her eyes, shallow breathing, a choked throat, and trembling fingertips. She moves from disbelief to tearful suspension; as one tear falls, a faint smile appears, ending in quiet relief as she looks outside. Slow, steady camera movement, close-ups for micro-expressions, a slight push-in at the moment the tear gives way to a smile, soft focus on " Acceptance Letter," 35mm film texture, shallow depth of field, low-light grain.
+```
+
 <a id="faq"></a>
 
 ## ❓ 常見問題
@@ -4181,4 +4421,4 @@ npx tsc --noEmit
 
 > 所有提示詞僅用於學習、整理與檢索。如有內容需要移除，請提交 issue。
 
-> 此 README 為自動生成。 2026-07-31.
+> 此 README 為自動生成。 2026-08-01.

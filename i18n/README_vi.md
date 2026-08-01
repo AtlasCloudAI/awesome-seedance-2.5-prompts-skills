@@ -4,7 +4,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedance-2.5-prompts-skills?style=social)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-43%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+[![Prompts](https://img.shields.io/badge/prompts-150%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 A curated library of Seedance 2.5 video prompts plus **Seedance 2.5 Skill**, an installable Agent Skill that improves prompts, plans and reviews storyboards when needed, and generates controllable video. It uses Seedream 5.0 Pro for storyboard images and Seedance 2.0 as the current executable video default, switching to Seedance 2.5 only when the selected provider exposes it.
 
@@ -135,10 +135,10 @@ Every prompt record keeps its category, source platform, author, source link, in
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **43** |
-| Categories | **13** |
-| Preview Videos | **43** |
-| Last Updated | **2026-07-31** |
+| Total Prompts | **150** |
+| Categories | **33** |
+| Preview Videos | **50** |
+| Last Updated | **2026-08-01** |
 
 <a id="featured-prompts"></a>
 
@@ -373,11 +373,31 @@ Phong cách quảng cáo tươi sáng, đầy màu sắc với bánh quy trái c
 - [`Tham chiếu đa phương thức (ảnh+video)`](#category-6): **1**
 - [`Tham chiếu ảnh`](#category-7): **1**
 - [`Tham chiếu ảnh (Điện ảnh)`](#category-8): **1**
-- [`Film & Storytelling`](#category-9): **11**
-- [`Advertising & E-commerce`](#category-10): **8**
-- [`Knowledge & Explainer`](#category-11): **6**
-- [`Industrial & Manufacturing`](#category-12): **4**
-- [`Creative & Misc`](#category-13): **3**
+- [`Thương Mại Điện Tử Bán Hàng`](#category-9): **8**
+- [`Ẩm Thực & Nhà Hàng`](#category-10): **8**
+- [`Làm Đẹp & Thời Trang`](#category-11): **6**
+- [`Kỹ Thuật Số & Công Nghệ`](#category-12): **6**
+- [`Ô Tô`](#category-13): **4**
+- [`Bất Động Sản & Nội Thất`](#category-14): **4**
+- [`Nhân Vật Nói Chuyện / Người Số`](#category-15): **6**
+- [`Phim Ngắn / Kể Chuyện Tình Cảm`](#category-16): **8**
+- [`Quảng Cáo Thương Hiệu / TVC`](#category-17): **6**
+- [`Du Lịch / Văn Hóa Du Lịch`](#category-18): **6**
+- [`Thú Cưng / Động Vật`](#category-19): **5**
+- [`Trẻ Em / Giáo Dục / Khoa Học Phổ Thông`](#category-20): **5**
+- [`Trò Chơi / Đồ Họa CG / Giả Tưởng`](#category-21): **5**
+- [`Hoạt Hình / Phim Hoạt Hình`](#category-22): **4**
+- [`Thể Thao / Thể Dục`](#category-23): **4**
+- [`Âm Nhạc / Khiêu Vũ / Video Âm Nhạc`](#category-24): **4**
+- [`Lễ Hội / Tiết Khí`](#category-25): **5**
+- [`Thiên Nhiên / Thiên Văn / Phim Tài Liệu`](#category-26): **4**
+- [`Nhân Hóa / Ý Tưởng Sáng Tạo`](#category-27): **2**
+- [`Film & Storytelling`](#category-28): **11**
+- [`Advertising & E-commerce`](#category-29): **8**
+- [`Knowledge & Explainer`](#category-30): **6**
+- [`Industrial & Manufacturing`](#category-31): **4**
+- [`Creative & Misc`](#category-32): **3**
+- [`Capability Showcase`](#category-33): **7**
 
 <a id="all-prompts"></a>
 
@@ -710,6 +730,2491 @@ Một phim ngắn điện ảnh hài đen dài khoảng 30 giây: một gã đà
 
 <a id="category-9"></a>
 
+### Thương Mại Điện Tử Bán Hàng (8)
+
+### No. 1: Trình diễn trang phục trên người
+
+- **Category:** `Thương Mại Điện Tử Bán Hàng`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Lấy người mẫu trong Hình 1 (tham khảo ảnh cận mặt từ Hình 1, kiểu trang điểm và tạo mẫu tóc tham khảo ảnh toàn thân Hình 2) làm chủ thể, tỷ lệ dọc 9:16, phong cách thời trang hiện thực, tạo video ngắn trình diễn trang phục 30 giây.
+
+#### Prompt
+
+```text
+Lấy người mẫu trong Hình 1 (tham khảo ảnh cận mặt từ Hình 1, kiểu trang điểm và tạo mẫu tóc tham khảo ảnh toàn thân Hình 2) làm chủ thể, tỷ lệ dọc 9:16, phong cách thời trang hiện thực, tạo video ngắn trình diễn trang phục 30 giây.
+Shot 1: Cảnh trung, người mẫu @Image 1 đứng nghiêng bất ngờ xoay người vẩy vạt áo choàng, ánh sáng đỉnh dịu nhẹ trong studio thuần màu tô nét đường viền, máy quay từ từ đẩy gần, (nhạc điện tử thời trang sôi động cất lên) <tiếng vải ma sát>.
+Shot 2: Cận cảnh, máy quay di chuyển ngang ổn định quét qua các chi tiết đường may vai và ve áo, ánh sáng ngược bên làm bật độ bóng của chất liệu.
+Shot 3: Toàn cảnh, người mẫu @Image 1 bước đi tự nhiên trình diễn dáng tổng thể và độ rủ của form, máy quay bám theo ổn định.
+Shot 4: Cảnh trung, người mẫu @Image 1 giơ tay chỉnh cổ áo và ngoảnh lại, máy quay từ từ bay vòng nửa vòng.
+Shot 5: Cận cảnh trung, người mẫu @Image 1 đứng yên mỉm cười, máy quay từ từ kéo xa kết thúc, (âm nhạc kết thúc).
+Ràng buộc: Khuôn mặt người mẫu và kiểu trang điểm/tóc phải nhất quán xuyên suốt theo Hình 1 và Hình 2; nền studio và ánh sáng đỉnh cố định không đổi.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo watermark; Mỗi shot chỉ sử dụng một kiểu vận hành máy quay; Nhân vật cần cử động tự nhiên nhẹ, không như tượng đá.
+```
+
+### No. 2: Chi tiết giày ủng
+
+- **Category:** `Thương Mại Điện Tử Bán Hàng`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Tỷ lệ dọc 9:16, phong cách hiện thực cao cấp sang trọng, chủ thể là một đôi bốt ngắn da thật, tạo video ngắn chi tiết giày ủng 30 giây.
+
+#### Prompt
+
+```text
+Tỷ lệ dọc 9:16, phong cách hiện thực cao cấp sang trọng, chủ thể là một đôi bốt ngắn da thật, tạo video ngắn chi tiết giày ủng 30 giây.
+Shot 1: Cận cảnh macro, đôi bốt ngắn đặt yên trên bệ đá mờ, máy quay từ từ đẩy gần đến đường may mũi giày, ánh sáng bên tông lạnh quét qua da, (nhạc điện tử không khí trầm khởi đầu) <tiếng chạm nhẹ vào da>.
+Shot 2: Cận cảnh, máy quay bay vòng quanh thân giày một vòng trình diễn dáng giày mượt mà và độ cong gót, tấm phản quang bổ sung ánh sáng.
+Shot 3: Cận cảnh macro, góc máy cố định, đầu ngón tay lật lưỡi gà để lộ logo lót trong và đường may.
+Shot 4: Cảnh trung, bàn chân đi giày đạp đất và nhẹ nhàng nhấc gót, máy quay quay từ trên xuống bắt khoảnh khắc chạm đất, <tiếng gót giày gõ đất>.
+Shot 5: Cận cảnh, máy quay từ từ kéo xa dừng lại ở toàn cảnh thân giày, (âm nhạc kết thúc).
+Ràng buộc: Kiểu dáng bốt ngắn, vân da và phối màu phải nhất quán xuyên suốt; Bệ đá và ánh sáng tông lạnh khóa cố định; Ngăn hình dáng hai chiếc giày trái phải không nhất quán.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo watermark; Mỗi shot chỉ sử dụng một kiểu vận hành máy quay; Nhân vật cần cử động tự nhiên nhẹ, không như tượng đá.
+```
+
+### No. 3: Trình diễn mở đóng túi xách
+
+- **Category:** `Thương Mại Điện Tử Bán Hàng`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Tỷ lệ dọc 9:16, phong cách hiện thực cao cấp tối giản, chủ thể là một chiếc túi xách tay đi làm, tạo video ngắn trình diễn chức năng túi xách 30 giây.
+
+#### Prompt
+
+```text
+Tỷ lệ dọc 9:16, phong cách hiện thực cao cấp tối giản, chủ thể là một chiếc túi xách tay đi làm, tạo video ngắn trình diễn chức năng túi xách 30 giây.
+Shot 1: Cảnh trung, túi xách tay đứng thẳng mặt trước trên mặt bàn thuần màu, máy quay từ từ đẩy gần đến khóa kim loại, ánh sáng đỉnh dịu nhẹ, (nhạc nhẹ sảng khoái khởi đầu).
+Shot 2: Cận cảnh, hai tay kéo mở khóa kéo mở rộng ngăn chính, máy quay quay từ trên xuống trình diễn các ngăn bên trong và vị trí để thẻ, <tiếng khóa kéo trượt>.
+Shot 3: Cận cảnh, tay lần lượt đặt máy tính xách tay và bình nước vào, máy quay di chuyển ngang ổn định trình diễn sức chứa.
+Shot 4: Cảnh trung, một tay nhấc thân túy lên trình diễn khả năng chịu lực của quai xách và độ cứng cáp, máy quay quay từ dưới lên.
+Shot 5: Cảnh trung, đóng khóa kim loại thân túy trở về vị trí, máy quay từ từ kéo xa kết thúc, (âm nhạc kết thúc).
+Ràng buộc: Màu sắc túi xách, phần cứng và form dáng phải nhất quán xuyên suốt; Mặt bàn và ánh sáng đỉnh khóa cố định; Hành động mở đóng phải liền mạch không nhảy cảnh.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo watermark; Mỗi shot chỉ sử dụng một kiểu vận hành máy quay; Nhân vật cần cử động tự nhiên nhẹ, không như tượng đá.
+```
+
+### No. 4: Trang sức
+
+- **Category:** `Thương Mại Điện Tử Bán Hàng`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Tỷ lệ dọc 9:16, phong cách hiện thực sang trọng tinh tế, chủ thể là một dây chuyền kim cương, tạo video ngắn 30 giây giới thiệu trang sức.
+
+#### Prompt
+
+```text
+Tỷ lệ dọc 9:16, phong cách hiện thực sang trọng tinh tế, chủ thể là một dây chuyền kim cương, tạo video ngắn 30 giây giới thiệu trang sức.
+Shot 1: Cận cảnh macro, dây chuyền đặt trên khay nhung đen, máy quay từ từ tiến vào viên kim cương chính, đèn spotlight chiếu ra ánh lửa, (nhạc dây du dương cất lên) <âm thanh kim loại trong trẻo nhẹ nhàng>.
+Shot 2: Cận cảnh, máy quay bay vòng quanh viên kim cương chính nửa vòng để bắt các đốm sáng khúc xạ từ nhiều góc, hậu cảnh tối.
+Shot 3: Cận trung cảnh, người mẫu đeo dây chuyền trên cổ, máy quay di chuyển lên xuống từ xương đòn lên đến mặt dây, ánh sáng mềm bổ sung cho khuôn mặt.
+Shot 4: Cận cảnh macro, góc máy cố định, mặt dây lung linh nhẹ nhàng theo nhịp thở.
+Shot 5: Cận cảnh, máy quay từ từ kéo ra tập trung vào ánh lửa và dừng hình, (nhạc dây kết thúc).
+Ràng buộc: Kiểu dây chuyền, giác cắt kim cương và chân đá phải nhất quán xuyên suốt; Nền nhung đen và ánh sáng đèn spotlight phải cố định; Màu da cổ ở cảnh đeo phải nhất quán với cảnh trong studio.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo watermark; Mỗi shot chỉ dùng một cách vận máy; Nhân vật cần cử động tự nhiên nhẹ nhàng, không phải tượng đá.
+```
+
+### No. 5: Trình diễn đồ gia dụng (Máy xay tốc độ cao)
+
+- **Category:** `Thương Mại Điện Tử Bán Hàng`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Tỷ lệ dọc 9:16, phong cách hiện thực cuộc sống nhà bếp sáng sủa, chủ thể là một máy xay tốc độ cao, tạo video ngắn 30 giây trình diễn đồ gia dụng.
+
+#### Prompt
+
+```text
+Tỷ lệ dọc 9:16, phong cách hiện thực cuộc sống nhà bếp sáng sủa, chủ thể là một máy xay tốc độ cao, tạo video ngắn 30 giây trình diễn đồ gia dụng.
+Shot 1: Trung cảnh, máy xay đặt trên mặt bàn sáng màu, máy quay từ từ tiến vào bảng điều khiển, ánh sáng ban mai chiếu xiên, (nhạc nhẹ vui tươi cuộc sống cất lên).
+Shot 2: Cận cảnh, tay đổ trái cây và đá viên vào cốc, máy quay góc nhìn từ trên xuống miệng cốc, <âm thanh nguyên liệu rơi vào>.
+Shot 3: Cận cảnh, nhấn nút khởi động lưỡi dao quay tốc độ cao xay nhuyễn, góc máy cố định áp sát thành cốc, <âm thanh máy xay ồn ào>.
+Shot 4: Trung cảnh, đổ sinh tố mịn ra ly thủy tinh, máy quay di chuyển ngang ổn định theo dòng chất lỏng.
+Shot 5: Cận trung cảnh, thành phẩm sinh tố và thân máy cùng khung hình, máy quay từ từ kéo ra kết thúc, (âm nhạc kết thúc).
+Ràng buộc: Màu thân máy xay, bảng điều khiển và cốc phải nhất quán xuyên suốt; Mặt bàn bếp và ánh sáng ban mai phải cố định; Kết cấu sinh tố phải nhất quán trước sau.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo watermark; Mỗi shot chỉ dùng một cách vận máy; Nhân vật cần cử động tự nhiên nhẹ nhàng, không phải tượng đá.
+```
+
+### No. 6: Đồ dùng mẹ và bé
+
+- **Category:** `Thương Mại Điện Tử Bán Hàng`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Tỷ lệ dọc 9:16, phong cách hiện thực cuộc sống dịu dàng chữa lành, chủ thể là một bình sữa giữ nhiệt cho trẻ sơ sinh, tạo video ngắn 30 giây giới thiệu đồ dùng mẹ và bé.
+
+#### Prompt
+
+```text
+Tỷ lệ dọc 9:16, phong cách hiện thực cuộc sống dịu dàng chữa lành, chủ thể là một bình sữa giữ nhiệt cho trẻ sơ sinh, tạo video ngắn 30 giây giới thiệu đồ dùng mẹ và bé.
+Shot 1: Cận trung cảnh, bình sữa đứng trên đệm mềm trong phòng trẻ, máy quay từ từ tiến vào núm vú chống đầy hơi, ánh sáng mềm ấm áp, (nhạc piano dịu dàng cất lên).
+Shot 2: Cận cảnh, tay vặn mở nắp bình để giới thiệu thiết kế miệng rộng và vạch chia, máy quay di chuyển ngang ổn định, <âm thanh vặn nắp nhẹ nhàng>.
+Shot 3: Cận cảnh, sau khi đổ nước ấm vào, tay chạm vào thân bình để cảm nhận nhiệt độ ổn định, góc máy cố định.
+Shot 4: Trung cảnh, người mẹ cầm bình sữa lắc nhẹ thử nhiệt độ chuẩn bị cho ăn, máy quay di chuyển lên xuống chậm rãi, <âm thanh nước lắc nhẹ>.
+Shot 5: Cận trung cảnh, bình sữa và thú nhồi bông mềm mại cùng khung hình dừng lại, máy quay từ từ kéo ra kết thúc, (âm nhạc kết thúc).
+Ràng buộc: Màu bình sữa, vạch chia trên thân bình và kiểu núm vú phải nhất quán xuyên suốt; Ánh sáng ấm trong phòng trẻ và nền đệm mềm phải cố định; Tông màu hình ảnh phải giữ ấm áp dịu dàng.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo watermark; Mỗi shot chỉ dùng một cách vận máy; Nhân vật cần cử động tự nhiên nhẹ nhàng, không phải tượng đá.
+```
+
+### No. 7: Hộp Quà Thực Phẩm
+
+- **Category:** `Thương Mại Điện Tử Bán Hàng`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Tỷ lệ dọc 9:16, phong cách tinh tế hiện thực lễ hội, chủ thể là một hộp quà bánh điểm tâm Trung Hoa, tạo video ngắn 30 giây giới thiệu hộp quà thực phẩm.
+
+#### Prompt
+
+```text
+Tỷ lệ dọc 9:16, phong cách tinh tế hiện thực lễ hội, chủ thể là một hộp quà bánh điểm tâm Trung Hoa, tạo video ngắn 30 giây giới thiệu hộp quà thực phẩm.
+Shot 1：Cảnh trung, hộp quà màu đỏ vàng đặt yên trên mặt bàn gỗ, ống kính từ từ tiến gần đến bìa mạ vàng, ánh sáng bên tông ấm, (nhạc phong cách quốc phong vui tươi bắt đầu).
+Shot 2：Cận cảnh đặc tả, đôi tay từ từ mở nắp hộp lộ ra các ngăn bánh điểm tâm, ống kính chụp từ trên xuống toàn cảnh, <âm thanh mở nắp hộp>.
+Shot 3：Cận cảnh vi mô, ống kính di chuyển ngang ổn định quét qua kết cấu vỏ bánh và nhân của từng ngăn bánh.
+Shot 4：Cảnh trung-cận, tay nhấc một chiếc bánh lên để trưng bày các lớp, ống kính từ từ bay vòng quanh.
+Shot 5：Cảnh trung, hộp quà đóng lại và buộc ruy băng, ống kính từ từ kéo xa kết thúc, (âm nhạc kết thúc).
+Ràng buộc: Màu sắc hộp quà, hoa văn mạ vàng và loại bánh điểm tâm phải nhất quán xuyên suốt; bàn gỗ và ánh sáng bố trí tông ấm cố định; vị trí xếp bánh phải liên tục trước sau.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo watermark; Mỗi shot chỉ sử dụng một cách vận hành ống kính; Nhân vật cần chuyển động tự nhiên nhẹ không phải tượng đá.
+```
+
+### No. 8: Phụ Kiện Kỹ Thuật Số (Phong Cách Flash Sale, Có Phụ Đề)
+
+- **Category:** `Thương Mại Điện Tử Bán Hàng`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Tỷ lệ dọc 9:16, phong cách flash sale hiện thực tương phản cao, chủ thể là một tai nghe không dây chống ồn, tạo video ngắn 30 giây flash sale.
+
+#### Prompt
+
+```text
+Tỷ lệ dọc 9:16, phong cách flash sale hiện thực tương phản cao, chủ thể là một tai nghe không dây chống ồn, tạo video ngắn 30 giây flash sale.
+Shot 1: Cận cảnh, tai nghe lơ lửng xoay trên nền chuyển màu neon, ống kính nhanh chóng đẩy tới, (tiếng trống điện tử nhịp mạnh bắt đầu) <âm thanh báo khởi động>, 【Giảm thẳng ¥300 toàn bộ】.
+Shot 2: Cận cảnh vi mô, ống kính cắt đến trục quay và điểm tiếp xúc sạc của đệm tai, ánh sáng cứng quét qua tạo điểm sáng.
+Shot 3: Cảnh trung, ống kính cắt đến người đeo tai nghe gật đầu theo nhịp trống, ánh sáng nhấp nháy, 【Chống ồn chủ động, thời lượng pin 40 giờ】.
+Shot 4: Cận cảnh, ống kính nhanh chóng di chuyển ngang qua hộp sạc đóng mở, <âm thanh hút từ>, 【Mua sắm nhanh giới hạn thời gian, 100 người đầu tiên】.
+Shot 5: Cận cảnh trung, tai nghe và nhãn giá cùng khung hình, ống kính nhanh chóng kéo ra xa và dừng hình, (tiếng trống thu lại) 【Mua ngay lập tức】.
+Ràng buộc: Màu sắc và hình dáng tai nghe nhất quán xuyên suốt; bảng màu nền neon được khóa; phụ đề xuất hiện đồng bộ với nhịp chuyển cảnh, hình ảnh duy trì cảm giác khuyến mãi tương phản cao.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo hình mờ; Mỗi cảnh chỉ sử dụng một loại chuyển động máy quay; Nhân vật cần chuyển động tự nhiên nhẹ, không phải tượng đá.
+```
+
+<a id="category-10"></a>
+
+### Ẩm Thực & Nhà Hàng (8)
+
+### No. 1: Lẩu lên bàn
+
+- **Category:** `Ẩm Thực & Nhà Hàng`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Tỷ lệ dọc 9:16, phong cách hiện thực kích thích vị giác với hơi nóng bốc lên nghi ngút, chủ thể là một nồi lẩu âm dương, tạo video ngắn 30 giây lẩu lên bàn.
+
+#### Prompt
+
+```text
+Tỷ lệ dọc 9:16, phong cách hiện thực kích thích vị giác với hơi nóng bốc lên nghi ngút, chủ thể là một nồi lẩu âm dương, tạo video ngắn 30 giây lẩu lên bàn.
+Shot 1：Cảnh trung, nồi lẩu âm dương được đặt lên bàn gỗ với nước lẩu đỏ sôi sùng sục, máy quay từ từ đẩy gần vào những bong bóng dầu đang sôi, ánh sáng nhà hàng ấm vàng, (âm nhạc sôi động phố phường bắt đầu) <tiếng nước lẩu sôi ùng ục>.
+Shot 2：Cận cảnh, tay thả dạ dày bò vào nồi lẩu đỏ 'bảy lần lên tám lần xuống', máy quay góc nhìn từ trên cao xuống khói hơi nóng bốc lên, <tiếng nhúng lẩu>.
+Shot 3：Cận cảnh vi mô, máy quay di chuyển ngang ổn định quét qua tôm viên, thịt bò tươi cắt lát và đĩa rau củ tổng hợp.
+Shot 4：Cảnh trung-cận, đũa gắp miếng thịt phủ đầy dầu lẩu đỏ nhấc lên, máy quay theo dõi chuyển động đi lên, <tiếng giọt dầu rơi>.
+Shot 5：Cảnh trung, mọi người cùng giơ đũa trong khung hình tạo không khí đầy đặn, máy quay từ từ kéo xa kết thúc, (âm nhạc kết thúc).
+Ràng buộc: Kiểu dáng nồi lẩu âm dương, màu nước lẩu và cách bày biện món ăn phải nhất quán xuyên suốt; ánh sáng ấm nhà hàng và bàn gỗ cố định; hơi nước và trạng thái sôi phải liên tục xuyên suốt.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo hình mờ; Mỗi cảnh quay chỉ sử dụng một cách vận hành máy quay; Nhân vật cần chuyển động tự nhiên nhẹ nhàng không phải tượng đá.
+```
+
+### No. 2: Nghệ thuật vẽ hình trên cà phê
+
+- **Category:** `Ẩm Thực & Nhà Hàng`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Tỷ lệ dọc 9:16, phong cách tĩnh lặng nghệ thuật hiện thực, chủ thể là một ly latte vẽ hình thủ công, tạo video ngắn 30 giây về nghệ thuật vẽ hình trên cà phê.
+
+#### Prompt
+
+```text
+Tỷ lệ dọc 9:16, phong cách tĩnh lặng nghệ thuật hiện thực, chủ thể là một ly latte vẽ hình thủ công, tạo video ngắn 30 giây về nghệ thuật vẽ hình trên cà phê.
+Shot 1: Cận cảnh, espresso nhỏ giọt rơi vào cốc, máy quay từ từ đẩy gần đến vân lớp bọt dầu, ánh sáng tự nhiên bên cửa sổ, (nhạc jazz thư giãn bắt đầu) <âm thanh nhỏ giọt chiết xuất>.
+Shot 2: Cận trung cảnh, tay cầm bình sữa bắt đầu rót bọt sữa, máy quay cố định góc ngang ngang tầm mắt với mặt chất lỏng, <âm thanh rót bọt sữa>.
+Shot 3: Cận cảnh macro, máy quay chụp từ trên xuống bọt sữa lan tỏa trên bề mặt cà phê tạo thành vân hình chiếc lá.
+Shot 4: Cận cảnh, cổ tay nhẹ nhàng lắc kết thúc vẽ ra gân lá, máy quay từ từ bay vòng quanh miệng cốc.
+Shot 5: Trung cảnh, ly latte thành phẩm được nhấc lên đặt cạnh cửa sổ, máy quay từ từ kéo xa kết thúc, (âm nhạc kết thúc).
+Ràng buộc: Họa tiết vẽ hình phải liên tục nhất quán từ lúc rót đến khi định hình; ánh sáng tự nhiên bên cửa sổ và mặt bàn cố định; vân bọt sữa rõ ràng không đứt đoạn.
+Ràng buộc chung: Giữ không có phụ đề; không tạo Logo; không tạo watermark; mỗi shot chỉ dùng một cách vận máy; nhân vật cần chuyển động tự nhiên nhẹ nhàng không như tượng đá.
+```
+
+### No. 3: Món tráng miệng cắt ra chảy nhân (Sô cô la nham thạch)
+
+- **Category:** `Ẩm Thực & Nhà Hàng`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Tỷ lệ dọc 9:16, phong cách hiện thực đậm đà hấp dẫn, chủ thể là một chiếc bánh sô cô la nham thạch, tạo video ngắn 30 giây về món tráng miệng chảy nhân.
+
+#### Prompt
+
+```text
+Tỷ lệ dọc 9:16, phong cách hiện thực đậm đà hấp dẫn, chủ thể là một chiếc bánh sô cô la nham thạch, tạo video ngắn 30 giây về món tráng miệng chảy nhân.
+Shot 1: Cận trung cảnh, bánh nham thạch đựng trên đĩa sứ trắng rắc bột đường, máy quay từ từ đẩy gần, ánh sáng tập trung ấm áp, (nhạc nhẹ nhàng lãng mạn bắt đầu).
+Shot 2: Cận cảnh, dĩa nhẹ nhàng ấn xuống bề mặt bánh tạo vết nứt, máy quay cố định góc gần sát, <âm thanh vỏ giòn nhẹ nứt>.
+Shot 3: Cận cảnh macro, dao dĩa cắt ngang khoảnh khắc nhân sô cô la nham thạch từ từ trào ra, máy quay chụp từ trên xuống thời khắc cao trào, <âm thanh chất lỏng đặc chảy>.
+Shot 4: Cận cảnh, dĩa xúc một miếng kéo sợi nhân lên, máy quay từ từ nâng hạ theo sợi kéo.
+Shot 5: Trung cảnh, bánh nham thạch và kem cùng khung hình, máy quay từ từ kéo xa kết thúc, (âm nhạc kết thúc).
+Ràng buộc: Màu sắc và chất liệu vỏ bánh và nhân phải nhất quán xuyên suốt; đĩa sứ trắng và ánh sáng tập trung ấm áp cố định; cảnh nhân trào ra là money shot cốt lõi cần làm nổi bật rõ ràng.
+Ràng buộc chung: Giữ không có phụ đề; không tạo Logo; không tạo watermark; mỗi shot chỉ dùng một cách vận máy; nhân vật cần chuyển động tự nhiên nhẹ nhàng không như tượng đá.
+```
+
+### No. 4: Nướng thịt xiên
+
+- **Category:** `Ẩm Thực & Nhà Hàng`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Tỷ lệ ngang 16:9, phong cách hiện thực mộc mạc khói lửa, chủ thể là xiên thịt nướng than hoa, tạo video ngắn 30 giây về nướng thịt xiên.
+
+#### Prompt
+
+```text
+Tỷ lệ ngang 16:9, phong cách hiện thực mộc mạc khói lửa, chủ thể là xiên thịt nướng than hoa, tạo video ngắn 30 giây về nướng thịt xiên.
+Shot 1: Cận cảnh, xiên thịt đặt trên vỉ than hoa mỡ nhỏ giọt bắt lửa, máy quay từ từ đẩy gần, ánh lửa than ấm đỏ, (nhạc không khí nướng thịt sôi động bắt đầu) <âm thanh than hoa xèo xèo>.
+Shot 2: Cận cảnh macro, máy quay di chuyển ngang ổn định quét qua lớp vỏ giòn màu caramel của xiên thịt và ớt bột, thì là là rắc rơi.
+Shot 3: Trung cảnh, tay lật xiên thịt bốc khói và ánh lửa, máy quay theo dõi động tác tay, <âm thanh lật nướng nổ lách tách>.
+Shot 4: Cận cảnh, chổi quét sốt phết qua xiên thịt nước sốt thấm vào, máy quay cố định góc gần sát.
+Shot 5: Cận trung cảnh, xiên thịt nướng chín xếp đĩa nhấc lên, máy quay từ từ kéo xa kết thúc, (âm nhạc kết thúc).
+Ràng buộc: Loại thịt xiên và mức độ chín vàng phải nhất quán trước sau; ánh than hoa và ánh sáng ấm đỏ cố định; khói và ngọn lửa xuyên suốt tạo không khí khói lửa.
+Ràng buộc chung: Giữ không có phụ đề; không tạo Logo; không tạo watermark; mỗi shot chỉ dùng một cách vận máy; nhân vật cần chuyển động tự nhiên nhẹ nhàng không như tượng đá.
+```
+
+### No. 5: Trình bày món ăn Nhật
+
+- **Category:** `Ẩm Thực & Nhà Hàng`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Tỷ lệ dọc 9:16, phong cách tả thực thiền tối giản, chủ thể là một đĩa sashimi, tạo video ngắn 30 giây về trình bày món ăn Nhật.
+
+#### Prompt
+
+```text
+Tỷ lệ dọc 9:16, phong cách tả thực thiền tối giản, chủ thể là một đĩa sashimi, tạo video ngắn 30 giây về trình bày món ăn Nhật.
+Shot 1: Cảnh trung, đĩa đá đen dài đặt trên mặt bàn gỗ nguyên bản, máy quay từ từ tiến lại gần, ánh sáng đỉnh tông lạnh, (nhạc cổ tranh thanh lạnh bắt đầu).
+Shot 2: Cận cảnh, tay dùng kẹp đặt chính xác miếng sashimi cá ngừ và lá tía tô, góc máy nhìn từ trên xuống bố cục, <âm thanh nhẹ nhàng đặt nguyên liệu>.
+Shot 3: Cận cảnh macro, máy quay di chuyển ngang ổn định quét qua vân mỡ cá hồi và ánh sáng của hạt đá.
+Shot 4: Cận cảnh trung, rưới nước tương điểm xuyết wasabi và cánh hoa, máy quay từ từ bao quanh thành phẩm.
+Shot 5: Toàn cảnh, đĩa sashimi hoàn chỉnh đóng khung giữa, máy quay từ từ kéo xa kết thúc, (âm nhạc kết thúc).
+Ràng buộc: Loại sashimi, độ dày lát cắt và vị trí trình bày nhất quán xuyên suốt; đĩa đá đen và ánh sáng đỉnh tông lạnh cố định; bố cục giữ sự tối giản và khoảng trống.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo watermark; Mỗi shot chỉ dùng một cách vận máy; Nhân vật cần chuyển động tự nhiên nhẹ nhàng không phải tượng đá.
+```
+
+### No. 6: Pha chế trà sữa
+
+- **Category:** `Ẩm Thực & Nhà Hàng`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Tỷ lệ dọc 9:16, phong cách tả thực tươi mới tràn đầy sức sống, chủ thể là một ly trà sữa trân châu thủ công, tạo video ngắn 30 giây về pha chế trà sữa.
+
+#### Prompt
+
+```text
+Tỷ lệ dọc 9:16, phong cách tả thực tươi mới tràn đầy sức sống, chủ thể là một ly trà sữa trân châu thủ công, tạo video ngắn 30 giây về pha chế trà sữa.
+Shot 1: Cận cảnh, trân châu đường đen nấu chín đổ vào đáy ly tạo vết trên thành, máy quay từ từ tiến lại gần, ánh sáng quầy bar sáng sủa, (nhạc pop nhẹ nhàng bắt đầu) <âm thanh trân châu rơi vào ly>.
+Shot 2: Cận cảnh trung, tay cầm bình sữa rót nước trà mới pha và sữa tươi vào, góc máy cố định nhìn ngang tầm mắt thể hiện sự phân tầng, <âm thanh rót>.
+Shot 3: Cận cảnh macro, góc máy nhìn từ trên xuống, đá viên được thả vào khuấy động sự hòa quyện giữa trà và sữa, <âm thanh va chạm của đá>.
+Shot 4: Cận cảnh, máy đóng nắp ép màng cốc và cắm ống hút, máy quay theo dõi hành động cắm ống hút, <âm thanh xuyên qua màng>.
+Shot 5: Cảnh trung, tay giơ ly trà sữa thành phẩm lắc nhẹ để trưng bày trân châu cuộn trào, máy quay từ từ kéo xa kết thúc, (âm nhạc kết thúc).
+Ràng buộc: Sự phân tầng của trà sữa và màu sắc trân châu nhất quán xuyên suốt; ánh sáng quầy bar sáng và nền cố định; các bước thực hiện liên tục không nhảy cóc.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo watermark; Mỗi shot chỉ dùng một cách vận máy; Nhân vật cần chuyển động tự nhiên nhẹ nhàng không phải tượng đá.
+```
+
+### No. 7: Kéo sợi mì
+
+- **Category:** `Ẩm Thực & Nhà Hàng`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Tỷ lệ ngang 16:9, phong cách tả thực thủ công tâm huyết, chủ thể là quá trình làm mì kéo tay, tạo video ngắn 30 giây về mì kéo.
+
+#### Prompt
+
+```text
+Tỷ lệ ngang 16:9, phong cách tả thực thủ công tâm huyết, chủ thể là quá trình làm mì kéo tay, tạo video ngắn 30 giây về mì kéo.
+Shot 1: Cảnh trung, khối bột đã nhào để yên trên bàn mì, hai tay ấn xuống để bột nghỉ, máy quay từ từ tiến lại gần, ánh sáng bếp tông ấm, (nhạc dân tộc sôi động bắt đầu) <âm thanh nhào bột>.
+Shot 2: Cận cảnh, hai tay kéo giãn khối bột lặp lại việc gập đôi và đập lên bàn, máy quay theo dõi đường cong của bàn tay, <âm thanh đập mì lên bàn>.
+Shot 3: Cận cảnh trung, sợi mì càng kéo càng mảnh thành sợi thả vào nồi nước sôi, góc máy nhìn từ trên xuống thể hiện hơi nước cuộn trào, <âm thanh sôi ùng ục khi thả mì>.
+Shot 4: Cận cảnh, vớt mì xếp vào tô lớn và rưới nước dùng lên, máy quay di chuyển ngang ổn định trưng bày nước dùng.
+Shot 5: Cảnh trung, rắc hành lá, bày thịt bò hoàn thành thành phẩm, máy quay từ từ kéo xa kết thúc, (âm nhạc kết thúc).
+Ràng buộc: Độ dày sợi mì và phần topping thành phẩm nhất quán trước sau; ánh sáng bếp ấm và bàn mì cố định; động tác kéo giãn liên tục thể hiện cảm giác thủ công.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo watermark; Mỗi shot chỉ dùng một cách vận máy; Nhân vật cần chuyển động tự nhiên nhẹ nhàng không phải tượng đá.
+```
+
+### No. 8: Cảnh bữa sáng (một cảnh quay liên tục)
+
+- **Category:** `Ẩm Thực & Nhà Hàng`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Tỷ lệ dọc 9:16, phong cách hiện thực cuộc sống ấm áp và chữa lành, chủ thể là một bữa sáng kiểu Trung Quốc, tạo video ngắn 30 giây cảnh bữa sáng một cảnh quay liên tục.
+
+#### Prompt
+
+```text
+Tỷ lệ dọc 9:16, phong cách hiện thực cuộc sống ấm áp và chữa lành, chủ thể là một bữa sáng kiểu Trung Quốc, tạo video ngắn 30 giây cảnh bữa sáng một cảnh quay liên tục.
+Shot 1: Một cảnh quay liên tục theo dõi, ánh sáng ban mai xuyên qua rèm chiếu lên bàn ăn, máy quay từ từ đẩy gần vào những chiếc bánh bao nhỏ xíu bốc khói nghi ngút, (nhạc piano buổi sáng dịu dàng cất lên) <âm thanh mở nắp xửng hấp>.
+Shot 2: Cùng một cảnh quay dài đó di chuyển ngang một cách ổn định, lướt qua trứng chiên vàng ruộm, quẩy và sữa đậu nành, hơi nóng và những đốm sáng chuyển động.
+Shot 3: Cùng một cảnh quay dài đó di chuyển lên xuống một cách chậm rãi, tay gắp một chiếc bánh bao nhúng giấm và nhấc lên, <âm thanh nước súp nhỏ giọt>.
+Shot 4: Cùng một cảnh quay dài đó di chuyển vòng quanh một nửa vòng nhỏ, lướt qua trang sách mở và tách cà phê bốc khói bên cạnh bàn ăn.
+Shot 5: Cùng một cảnh quay dài đó từ từ kéo xa ra, dừng lại ở toàn cảnh bữa sáng ấm cúng, (âm nhạc kết thúc).
+Ràng buộc: Duy trì một cảnh quay dài liên tục duy nhất không cắt suốt video; bày biện món ăn và tông màu ánh sáng ban mai nhất quán xuyên suốt; chuyển động máy quay kết nối mượt mà thể hiện chất lượng một cảnh quay liên tục.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo hình mờ; Mỗi shot chỉ sử dụng một kiểu vận hành máy quay; Nhân vật cần chuyển động tự nhiên nhẹ nhàng, không phải tượng đá.
+```
+
+<a id="category-11"></a>
+
+### Làm Đẹp & Thời Trang (6)
+
+### No. 1: Thử màu son
+
+- **Category:** `Làm Đẹp & Thời Trang`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Tham chiếu son môi trong Image 1 (màu thỏi son và logo trên thân ống lấy theo Image 1) làm chủ thể, tỷ lệ dọc 9:16, chất lượng trang điểm bão hòa cao, tạo video ngắn thử màu 30 giây.
+
+#### Prompt
+
+```text
+Tham chiếu son môi trong Image 1 (màu thỏi son và logo trên thân ống lấy theo Image 1) làm chủ thể, tỷ lệ dọc 9:16, chất lượng trang điểm bão hòa cao, tạo video ngắn thử màu 30 giây.
+Shot 1: Cận cảnh cực gần, thỏi son @Image 1 từ từ xoay ra, ánh phản quang trên bề mặt nhung lụa chuyển động, máy quay từ từ đẩy gần, (nhạc điện tử sắc nét cất lên) <âm thanh nhẹ xoay nắp>.
+Shot 2: Cận cảnh, máy quay di chuyển ngang ổn định quét qua vùng môi, thỏi son kẻ một nét qua đôi môi để lại màu sắc đầy đặn.
+Shot 3: Cảnh trung-cận, quay ngước lên người mẫu mím môi cười, màu môi hiện lên dưới ánh sáng dịu, 【Mã màu hôm nay · Đỏ chính】.
+Shot 4: Cận cảnh, máy quay bay vòng quanh nửa mặt người mẫu, ánh highlight trên môi chảy theo chuyển động quay đầu.
+Shot 5: Cảnh trung, người mẫu cầm son @Image 1 đối diện gương dừng hình, máy quay từ từ kéo xa, (âm nhạc kết thúc).
+Ràng buộc: Màu thỏi son và logo trên thân ống lấy theo Image 1 không thay đổi; Màu môi phải nhất quán với màu thỏi son.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo hình mờ; Mỗi shot chỉ sử dụng một kiểu vận hành máy quay; Nhân vật cần chuyển động tự nhiên nhẹ nhàng, không phải tượng đá.
+```
+
+### No. 2: Đánh phấn nền
+
+- **Category:** `Làm Đẹp & Thời Trang`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Tham chiếu chai kem nền trong Image 1 (thân chai và ống nhỏ giọt lấy theo Image 1) làm chủ thể, tỷ lệ dọc 9:16, cảm giác trang điểm chăm sóc da sạch sẽ và trong suốt, tạo video ngắn đánh phấn nền 30 giây.
+
+#### Prompt
+
+```text
+Tham chiếu chai kem nền trong Image 1 (thân chai và ống nhỏ giọt lấy theo Image 1) làm chủ thể, tỷ lệ dọc 9:16, cảm giác trang điểm chăm sóc da sạch sẽ và trong suốt, tạo video ngắn đánh phấn nền 30 giây.
+Shot 1: Cận cảnh cực gần, một giọt kem nền @Image 1 từ ống nhỏ giọt rơi xuống mu bàn tay, kết cấu lan tỏa, máy quay từ từ đẩy gần, <âm thanh giọt chất lỏng rơi>.
+Shot 2: Cận cảnh, máy quay di chuyển ngang ổn định, mút trang điểm ấn và tán đều trên má, kết cấu da dần trở nên đồng đều.
+Shot 3: Cảnh trung-cận, theo dõi người mẫu quay đầu, má hiện lên ánh sáng hoàn hảo dưới ánh sáng tự nhiên.
+Shot 4: Cận cảnh, quay ngước lên người mẫu nhắm mắt đánh phấn, bóng lông mi mềm mại, (nhạc piano nhẹ nhàng).
+Shot 5: Cảnh trung, người mẫu cầm chai kem nền @Image 1 cười dừng hình, máy quay từ từ kéo xa, 【Cảm giác nude hoàn hảo】.
+Ràng buộc: Thân chai và ống nhỏ giọt lấy theo Image 1; Lớp trang điểm phải chân thực, không có cảm giác nhựa do làm mịn quá mức.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo hình mờ; Mỗi shot chỉ sử dụng một kiểu vận hành máy quay; Nhân vật cần chuyển động tự nhiên nhẹ nhàng, không phải tượng đá.
+```
+
+### No. 3: Hương thơm bầu không khí
+
+- **Category:** `Làm Đẹp & Thời Trang`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Tham khảo chai nước hoa trong Hình 1 (hình dáng chai và chữ khắc lấy Hình 1 làm chuẩn) làm chủ thể, màn hình ngang 16:9, ánh sáng bầu không khí cổ điển Pháp, tạo video ngắn 30 giây.
+
+#### Prompt
+
+```text
+Tham khảo chai nước hoa trong Hình 1 (hình dáng chai và chữ khắc lấy Hình 1 làm chuẩn) làm chủ thể, màn hình ngang 16:9, ánh sáng bầu không khí cổ điển Pháp, tạo video ngắn 30 giây.
+Shot 1: Cận cảnh, chai nước hoa @Hình 1 đứng trên bệ đá cạnh cửa sổ, ánh sáng ban mai xuyên qua chai khúc xạ thành đốm sáng, máy quay từ từ đẩy gần, (âm nhạc dây tạo bầu không khí bắt đầu).
+Shot 2: Cảnh trung, máy quay từ từ bao quanh thân chai, mặt cắt thủy tinh phản chiếu ánh sáng ấm chuyển động.
+Shot 3: Cận cảnh, quay ngước cảnh phun sương, hạt sương lơ lửng trong ánh sáng ngược thành hạt bụi vàng nhỏ, <âm thanh phun sương nhẹ>.
+Shot 4: Cảnh trung-cận, quay theo làn sương bay về phía rèm voan, bóng rèm nhẹ nhàng đung đưa theo gió.
+Shot 5: Cảnh trung, chai nước hoa @Hình 1 trở lại bệ đá dừng hình, máy quay từ từ kéo xa, (âm nhạc dây nhỏ dần).
+Ràng buộc: Hình dáng chai và chữ khắc trên thân chai lấy Hình 1 làm chuẩn; bầu không khí khóa vào tông ấm cổ điển Pháp không lệch sang màu lạnh.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo watermark; Mỗi shot chỉ dùng một cách vận máy; Nhân vật cần chuyển động tự nhiên nhẹ nhàng không phải tượng đá.
+```
+
+### No. 4: Tinh chất dưỡng da rơi xuống
+
+- **Category:** `Làm Đẹp & Thời Trang`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Tham khảo chai tinh chất trong Hình 1 (thân chai và vạch chia trên ống nhỏ giọt lấy Hình 1 làm chuẩn) làm chủ thể, màn hình dọc 9:16, chất cảm trong suốt tươi sáng độ ẩm cao, tạo video ngắn 30 giây về chất liệu.
+
+#### Prompt
+
+```text
+Tham khảo chai tinh chất trong Hình 1 (thân chai và vạch chia trên ống nhỏ giọt lấy Hình 1 làm chuẩn) làm chủ thể, màn hình dọc 9:16, chất cảm trong suốt tươi sáng độ ẩm cao, tạo video ngắn 30 giây về chất liệu.
+Shot 1: Cận cảnh cực gần, ống nhỏ giọt lơ lửng giữa không trung, một giọt tinh chất @Hình 1 sắp rơi chưa rơi, máy quay cố định, <âm thanh bong bóng nhỏ>.
+Shot 2: Cận cảnh cực gần, tinh chất rơi xuống đập vào mặt nước, gợn sóng lan tỏa chậm, máy quay từ từ đẩy gần, (âm nhạc giọt nước điểm xuyết).
+Shot 3: Cận cảnh, máy quay di chuyển ngang ổn định, tinh chất kéo ra sợi chỉ óng ánh trên đầu ngón tay.
+Shot 4: Cảnh trung-cận, quay từ trên xuống cảnh tinh chất thoa lên mu bàn tay, ánh bóng trải ra như gương.
+Shot 5: Cảnh trung, chai tinh chất @Hình 1 đứng trên nền ánh nước dừng hình, máy quay từ từ nâng lên, 【Khóa ẩm 24 giờ】.
+Ràng buộc: Thân chai và vạch chia trên ống nhỏ giọt lấy Hình 1 làm chuẩn; Chất liệu phải trong suốt kéo sợi không đục.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo watermark; Mỗi shot chỉ dùng một cách vận máy; Nhân vật cần chuyển động tự nhiên nhẹ nhàng không phải tượng đá.
+```
+
+### No. 5: Chụp ảnh đường phố thời trang
+
+- **Category:** `Làm Đẹp & Thời Trang`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Tham khảo tạo hình người mẫu trong Hình 1 (trang phục và phụ kiện lấy Hình 1 làm chuẩn) làm chủ thể, màn hình dọc 9:16, cảm giác phố thị hạt phim, tạo video ngắn 30 giây chụp đường phố.
+
+#### Prompt
+
+```text
+Tham khảo tạo hình người mẫu trong Hình 1 (trang phục và phụ kiện lấy Hình 1 làm chuẩn) làm chủ thể, màn hình dọc 9:16, cảm giác phố thị hạt phim, tạo video ngắn 30 giây chụp đường phố.
+Shot 1: Cảnh trung, người mẫu @Hình 1 đẩy cửa kính bước ra đường, gió thổi tung vạt áo, máy quay quay theo, (nhịp điệu disco cổ điển bắt đầu).
+Shot 2: Toàn cảnh, máy quay di chuyển ngang ổn định theo dõi người mẫu đi qua cửa kính đèn neon, bóng đổ chảy trôi.
+Shot 3: Cảnh trung-cận, quay ngước cảnh người mẫu ngoảnh lại tháo kính râm, ánh sáng ngược viền vàng tóc.
+Shot 4: Cận cảnh, máy quay từ từ đẩy gần chi tiết phụ kiện, ánh kim loại lấp lánh.
+Shot 5: Toàn cảnh, người mẫu @Hình 1 đứng giữa đường dang tay dừng hình, máy quay từ từ kéo xa nâng lên, 【CITY WALK】 (âm nhạc kết thúc).
+Ràng buộc: Trang phục và phụ kiện lấy Hình 1 làm chuẩn không thay kiểu dáng; Hạt phim và tông màu đèn neon đô thị khóa toàn bộ.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo watermark; Mỗi shot chỉ dùng một cách vận máy; Nhân vật cần chuyển động tự nhiên nhẹ nhàng không phải tượng đá.
+```
+
+### No. 6: Trình diễn kiểu tóc
+
+- **Category:** `Làm Đẹp & Thời Trang`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Lấy kiểu tóc của người mẫu trong Hình 1 (màu tóc và kiểu dáng lấy Hình 1 làm chuẩn) làm chủ thể, tỷ lệ dọc 9:16, chất lượng ánh sáng mềm mại cấp độ quảng cáo salon, tạo video ngắn 30 giây về kiểu tóc.
+
+#### Prompt
+
+```text
+Lấy kiểu tóc của người mẫu trong Hình 1 (màu tóc và kiểu dáng lấy Hình 1 làm chuẩn) làm chủ thể, tỷ lệ dọc 9:16, chất lượng ánh sáng mềm mại cấp độ quảng cáo salon, tạo video ngắn 30 giây về kiểu tóc.
+Shot 1: Cận cảnh, người mẫu @Image 1 cúi đầu chuẩn bị, tóc rủ xuống che mặt, máy quay cố định, (nhạc nhịp điệu đoạn dạo đầu).
+Shot 2: Cận trung cảnh, người mẫu đột ngột ngẩng đầu, tóc tung lên tạo đường cong trong chuyển động chậm, máy quay từ từ kéo xa ra, <tiếng gió khi tung tóc>.
+Shot 3: Cận cảnh, máy quay bay vòng quanh đầu, ánh sáng quét qua độ bóng mượt của sợi tóc.
+Shot 4: Trung cảnh, máy quay theo dõi ngón tay người mẫu luồn qua tóc, các lớp tóc rơi xuống rõ ràng.
+Shot 5: Cận trung cảnh, người mẫu @Image 1 quay người nhìn lại và đóng băng khung hình, kiểu tóc đầy đặn cố định, máy quay từ từ đẩy gần vào, 【bóng loáng như gương】.
+Ràng buộc: Màu tóc và đường nét kiểu dáng lấy Hình 1 làm chuẩn; động tác tung tóc phải tự nhiên mượt mà, không xuyên mô hình hoặc đứt gãy.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo hình mờ; Mỗi shot chỉ dùng một cách vận máy; Nhân vật cần chuyển động tự nhiên nhẹ, không như tượng đá.
+```
+
+<a id="category-12"></a>
+
+### Kỹ Thuật Số & Công Nghệ (6)
+
+### No. 1: Điện thoại xoay sản phẩm
+
+- **Category:** `Kỹ Thuật Số & Công Nghệ`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Lấy điện thoại trong Hình 1 (thân máy và logo lấy Hình 1 làm chuẩn) làm chủ thể, tỷ lệ ngang 16:9, cảm giác cao cấp công nghệ tông lạnh, tạo video giới thiệu sản phẩm 30 giây.
+
+#### Prompt
+
+```text
+Lấy điện thoại trong Hình 1 (thân máy và logo lấy Hình 1 làm chuẩn) làm chủ thể, tỷ lệ ngang 16:9, cảm giác cao cấp công nghệ tông lạnh, tạo video giới thiệu sản phẩm 30 giây.
+Shot 1: Cực cận cảnh, điện thoại @Image 1 trên mặt bàn tối sáng màn hình lên, viền sáng lạnh, máy quay từ từ đẩy gần vào, (âm thanh điện tử tần số thấp bắt đầu).
+Shot 2: Trung cảnh, máy quay bay vòng ổn định giới thiệu chất liệu kim loại mặt lưng và cụm camera của điện thoại @Image 1.
+Shot 3: Cận cảnh, máy quay từ từ di chuyển ngang quét qua chi tiết nút bên và cổng kết nối.
+Shot 4: Cận trung cảnh, góc thấp quay điện thoại @Image 1 từ từ đứng lên lơ lửng, ánh sáng lạnh lan lên từ phía dưới.
+Shot 5: Trung cảnh, điện thoại @Image 1 lơ lửng xoay và đóng băng khung hình, máy quay từ từ kéo xa ra, (âm nhạc kết thúc).
+Ràng buộc: Thân máy và logo lấy Hình 1 làm chuẩn, không thay đổi thiết kế; Không hư cấu nội dung giao diện; Ánh sáng công nghiệp tông lạnh cố định xuyên suốt.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo hình mờ; Mỗi shot chỉ dùng một cách vận máy; Nhân vật cần chuyển động tự nhiên nhẹ, không như tượng đá.
+```
+
+### No. 2: Tai nghe bật ra khỏi hộp sạc
+
+- **Category:** `Kỹ Thuật Số & Công Nghệ`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Lấy hộp sạc tai nghe trong Hình 1 (hình dáng và logo lấy Hình 1 làm chuẩn) làm chủ thể, tỷ lệ ngang 16:9, chất lượng quay trong studio tối giản trắng tinh, tạo video ngắn mở hộp 30 giây.
+
+#### Prompt
+
+```text
+Lấy hộp sạc tai nghe trong Hình 1 (hình dáng và logo lấy Hình 1 làm chuẩn) làm chủ thể, tỷ lệ ngang 16:9, chất lượng quay trong studio tối giản trắng tinh, tạo video ngắn mở hộp 30 giây.
+Shot 1: Cực cận cảnh, hộp sạc @Image 1 đặt yên trên mặt bàn trắng tinh, đầu ngón tay sắp chạm vào nắp hộp, máy quay cố định, (âm thanh nhắc nhở thanh).
+Shot 2: Cận cảnh, nắp hộp từ từ mở ra, đèn chỉ thị sáng lên, máy quay từ từ đẩy gần vào, <tiếng khớp mở/đóng>.
+Shot 3: Cận trung cảnh, tai nghe từ trong hộp từ từ nổi lên lơ lửng, máy quay từ từ nâng lên hạ xuống theo dõi.
+Shot 4: Cận cảnh, máy quay bay vòng quanh một bên tai nghe, giới thiệu góc đeo và lỗ micrô.
+Shot 5: Trung cảnh, tai nghe và hộp sạc @Image 1 đặt cạnh nhau đóng băng khung hình, máy quay từ từ kéo xa ra, 【liền mạch mang theo người】.
+Ràng buộc: Hình dáng và logo lấy Hình 1 làm chuẩn, không thay đổi cấu trúc; Nền trắng tinh liền mạch cố định, không thêm vật lạ.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo hình mờ; Mỗi shot chỉ dùng một cách vận máy; Nhân vật cần chuyển động tự nhiên nhẹ, không như tượng đá.
+```
+
+### No. 3: Mở Đóng Máy Tính Xách Tay
+
+- **Category:** `Kỹ Thuật Số & Công Nghệ`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Tham chiếu hình ảnh máy tính xách tay trong Ảnh 1 (vỏ và logo lấy Ảnh 1 làm chuẩn) làm chủ thể, màn hình ngang 16:9, chất cảm kim loại cao cấp ánh sáng lạnh, tạo video ngắn giới thiệu 30 giây.
+
+#### Prompt
+
+```text
+Tham chiếu hình ảnh máy tính xách tay trong Ảnh 1 (vỏ và logo lấy Ảnh 1 làm chuẩn) làm chủ thể, màn hình ngang 16:9, chất cảm kim loại cao cấp ánh sáng lạnh, tạo video ngắn giới thiệu 30 giây.
+Shot 1: Cận cảnh cực gần, máy tính xách tay @Image 1 nằm nghiêng nắp đóng, ánh sáng lạnh quét qua bản lề hợp kim nhôm, máy quay di chuyển ngang chậm, (âm thanh nền tần số thấp bắt đầu).
+Shot 2: Cận trung cảnh, bản lề màn hình mở ra từ từ đến tư thế đứng thẳng, màn hình sáng dần, máy quay từ từ đẩy gần, <âm thanh giảm chấn bản lề>.
+Shot 3: Cận cảnh, quay từ trên xuống, đèn nền bàn phím sáng lên từng phím một, sóng ánh sáng chảy qua.
+Shot 4: Trung cảnh, máy quay ổn định bay vòng quanh giới thiệu mặt bên siêu mỏng của thân máy và các cổng kết nối.
+Shot 5: Trung cảnh, máy tính xách tay @Image 1 ở tư thế mở một nửa lơ lửng đóng băng, máy quay từ từ kéo xa, (âm nhạc kết thúc).
+Ràng buộc: Độ dày vỏ và logo lấy Ảnh 1 làm chuẩn; không hư cấu nội dung UI cụ thể trên màn hình; ánh sáng lạnh kim loại khóa xuyên suốt.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo hình mờ; Mỗi shot chỉ dùng một cách vận máy; Nhân vật cần cử động tự nhiên nhẹ nhàng không phải tượng đá.
+```
+
+### No. 4: Giao Diện Đồng Hồ Thông Minh
+
+- **Category:** `Kỹ Thuật Số & Công Nghệ`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Tham chiếu hình ảnh đồng hồ thông minh trong Ảnh 1 (vỏ đồng hồ và dây đeo lấy Ảnh 1 làm chuẩn) làm chủ thể, màn hình dọc 9:16, cảm giác công nghệ nhanh nhẹn tràn đầy sức sống, tạo video ngắn chức năng 30 giây.
+
+#### Prompt
+
+```text
+Tham chiếu hình ảnh đồng hồ thông minh trong Ảnh 1 (vỏ đồng hồ và dây đeo lấy Ảnh 1 làm chuẩn) làm chủ thể, màn hình dọc 9:16, cảm giác công nghệ nhanh nhẹn tràn đầy sức sống, tạo video ngắn chức năng 30 giây.
+Shot 1: Cận cảnh cực gần, đồng hồ @Image 1 mặt đồng hồ sáng lên khi nâng cổ tay, hiệu ứng động mở ra, máy quay từ từ đẩy gần, (âm nhạc điện tử nhanh nhẹn bắt đầu).
+Shot 2: Cận cảnh, máy quay di chuyển ngang chậm, núm xoay chuyển đổi các thẻ mặt đồng hồ.
+Shot 3: Cận trung cảnh, quay theo chuyển động lắc cổ tay, vòng dữ liệu thể thao nhảy theo hành động.
+Shot 4: Cận cảnh, bay vòng quanh giới thiệu chất cảm mặt bên vỏ đồng hồ và khóa dây đeo.
+Shot 5: Trung cảnh, đồng hồ @Image 1 đeo trên cổ tay đóng băng nâng lên, máy quay từ từ kéo xa, 【Bảo vệ suốt ngày đêm】.
+Ràng buộc: Vỏ đồng hồ và dây đeo lấy Ảnh 1 làm chuẩn; hiệu ứng động giao diện đơn giản không hư cấu chi tiết số liệu cụ thể.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo hình mờ; Mỗi shot chỉ dùng một cách vận máy; Nhân vật cần cử động tự nhiên nhẹ nhàng không phải tượng đá.
+```
+
+### No. 5: Máy Bay Không Người Lái Bay
+
+- **Category:** `Kỹ Thuật Số & Công Nghệ`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Tham chiếu hình ảnh máy bay không người lái trong Ảnh 1 (thân máy và cánh quạt lấy Ảnh 1 làm chuẩn) làm chủ thể, màn hình ngang 16:9, cảm giác phóng sự quay từ trên không rộng mở, tạo video ngắn bay 30 giây.
+
+#### Prompt
+
+```text
+Tham chiếu hình ảnh máy bay không người lái trong Ảnh 1 (thân máy và cánh quạt lấy Ảnh 1 làm chuẩn) làm chủ thể, màn hình ngang 16:9, cảm giác phóng sự quay từ trên không rộng mở, tạo video ngắn bay 30 giây.
+Shot 1: Cận trung cảnh, máy bay không người lái @Image 1 từ từ cất cánh từ bãi cỏ, cánh quạt tốc độ cao mờ ảo, máy quay di chuyển lên xuống chậm theo dõi, <tiếng vo ve cánh quạt> (âm nhạc nền bắt đầu).
+Shot 2: Cận cảnh, máy quay bay vòng quanh thân máy đang lơ lửng, bệ đỡ camera điều chỉnh nhẹ hướng ống kính.
+Shot 3: Toàn cảnh, quay theo máy bay không người lái lướt qua mặt hồ, bóng đổ trượt theo.
+Shot 4: Viễn cảnh rộng, quay từ trên xuống máy bay không người lái bay qua sống núi, mặt đất trải ra bên dưới.
+Shot 5: Trung cảnh, máy bay không người lái @Image 1 ổn định quay về lơ lửng đóng băng, máy quay từ từ kéo xa, (âm nhạc kết thúc).
+Ràng buộc: Cấu trúc thân máy và cánh quạt lấy Ảnh 1 làm chuẩn; tư thế bay phải ổn định phù hợp với động lực học không khí thực tế không trôi dạt rung lắc.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo hình mờ; Mỗi shot chỉ dùng một cách vận máy; Nhân vật cần cử động tự nhiên nhẹ nhàng không phải tượng đá.
+```
+
+### No. 6: Cận cảnh chip (Kỹ thuật số thực tế)
+
+- **Category:** `Kỹ Thuật Số & Công Nghệ`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Lấy chip trong Hình 1 (vỏ bọc và chữ in lụa theo đúng Hình 1) làm chủ thể, màn hình ngang 16:9, chất lượng cận cảnh kỹ thuật số lạnh lùng thực tế, tạo video ngắn cận cảnh 30 giây.
+
+#### Prompt
+
+```text
+Tham chiếu chip trong Hình 1 (vỏ bọc và chữ in lụa theo đúng Hình 1) làm chủ thể, màn hình ngang 16:9, chất lượng cận cảnh kỹ thuật số lạnh lùng thực tế, tạo video ngắn cận cảnh 30 giây.
+Shot 1: Cận cảnh cực gần, chip @Image 1 nằm yên trên bảng mạch, chân vàng phát ánh sáng lạnh, máy quay từ từ đẩy gần, (âm thanh công nghiệp tần số thấp bắt đầu).
+Shot 2: Cận cảnh, máy quay di chuyển ngang ổn định quét qua bề mặt vỏ bọc có chữ in lụa và cạnh cắt.
+Shot 3: Cận cảnh, quay từ trên xuống điểm hàn và đường mạch, độ sâu trường ảnh nông đến mức chỉ một đường rõ nét.
+Shot 4: Cận cảnh trung bình, máy quay từ từ kéo xa lộ ra toàn bộ mảng bảng mạch, đèn chỉ thị sáng tắt.
+Shot 5: Cận cảnh, chip @Image 1 đóng băng trong ánh sáng lạnh, máy quay từ từ bay vòng quanh kết thúc, (nhạc dần yếu đi).
+Ràng buộc: Mẫu vỏ bọc và chữ in lụa theo đúng Hình 1 không thay đổi; độ sâu trường ảnh cận cảnh chân thực, không hư cấu cấu trúc mạch không tồn tại.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo watermark; Mỗi shot chỉ dùng một cách vận máy; Nhân vật cần cử động tự nhiên nhẹ, không như tượng đá.
+```
+
+<a id="category-13"></a>
+
+### Ô Tô (4)
+
+### No. 1: Quay theo cảnh đêm
+
+- **Category:** `Ô Tô`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Lấy xe ô tô trong Hình 1 (mẫu xe và màu sơn theo đúng Hình 1) làm chủ thể, màn hình ngang 16:9, chất lượng điện ảnh cảnh đêm cyberpunk, tạo video ngắn quay theo 30 giây.
+
+#### Prompt
+
+```text
+Tham chiếu xe ô tô trong Hình 1 (mẫu xe và màu sơn theo đúng Hình 1) làm chủ thể, màn hình ngang 16:9, chất lượng điện ảnh cảnh đêm cyberpunk, tạo video ngắn quay theo 30 giây.
+Shot 1: Cận cảnh trung bình, xe @Image 1 dừng ở ngã tư đèn neon, đèn xe sáng lên, mặt đường ướt phản chiếu ánh sáng, máy quay từ từ đẩy gần, (nhịp điện tử trầm bắt đầu) <tiếng động cơ gầm nhẹ>.
+Shot 2: Cảnh trung bình, quay theo bên hông xe chạy qua con phố dài đèn neon, dải ánh sáng chảy trên lớp sơn xe.
+Shot 3: Cận cảnh, máy quay di chuyển ngang ổn định quét qua đèn pha trước và lưới tản nhiệt ánh sáng lạnh.
+Shot 4: Toàn cảnh, quay ngước lên xe xuyên qua đường hầm, ánh sáng đèn trần dạng dải lướt qua nhanh.
+Shot 5: Cảnh trung bình, xe @Image 1 chạy ra khỏi đường hầm giảm tốc dừng lại, máy quay từ từ kéo xa và nâng lên, (nhịp điệu kết thúc).
+Ràng buộc: Mẫu xe và màu sơn theo đúng Hình 1 không thay đổi; Không khí cảnh đêm neon và phản quang mặt đường ướt khóa xuyên suốt.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo watermark; Mỗi shot chỉ dùng một cách vận máy; Nhân vật cần cử động tự nhiên nhẹ, không như tượng đá.
+```
+
+### No. 2: Cận cảnh chi tiết cắt nhanh
+
+- **Category:** `Ô Tô`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Lấy xe ô tô trong Hình 1 (mẫu xe và màu sơn theo đúng Hình 1) làm chủ thể, màn hình ngang 16:9, chất lượng công nghiệp cứng cáp tương phản cao, tạo video ngắn chi tiết 30 giây.
+
+#### Prompt
+
+```text
+Tham chiếu xe ô tô trong Hình 1 (mẫu xe và màu sơn theo đúng Hình 1) làm chủ thể, màn hình ngang 16:9, chất lượng công nghiệp cứng cáp tương phản cao, tạo video ngắn chi tiết 30 giây.
+Shot 1: Cận cảnh cực gần, đèn pha xe @Image 1 sáng lên đường viền đèn, ánh sáng lạnh phác họa góc cạnh, máy quay từ từ đẩy gần, (tiếng trống dồn dập bắt đầu).
+Shot 2: Cận cảnh, máy quay cắt đến vành xe, xoay chậm phản chiếu vệt sáng.
+Shot 3: Cận cảnh, máy quay cắt đến logo xe và lưới tản nhiệt, ánh sáng kim loại cao quét qua.
+Shot 4: Cận cảnh, máy quay cắt đến ống xả và đường nét cánh gió sau, máy quay di chuyển ngang ổn định.
+Shot 5: Cảnh trung bình, toàn bộ xe @Image 1 đóng băng trong chùm ánh sáng, máy quay từ từ kéo xa, (tiếng trống kết thúc) 【Mỗi chỗ đều sắc bén】.
+Ràng buộc: Mẫu xe và màu sơn theo đúng Hình 1; Cắt nhanh mỗi shot tập trung vào một bộ phận đơn lẻ không lặp lại; Ánh sáng cứng tương phản cao khóa xuyên suốt.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo watermark; Mỗi shot chỉ dùng một cách vận máy; Nhân vật cần cử động tự nhiên nhẹ, không như tượng đá.
+```
+
+### No. 3: Cảnh Việt Dã
+
+- **Category:** `Ô Tô`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Lấy xe việt dã trong Ảnh 1 (kiểu xe và màu sơn theo đúng Ảnh 1) làm chủ thể, màn hình ngang 16:9, cảm giác phim tài liệu hoang dã thô ráp, tạo video ngắn 30 giây về việt dã.
+
+#### Prompt
+
+```text
+Tham khảo xe việt dã trong Ảnh 1 (kiểu xe và màu sơn theo đúng Ảnh 1) làm chủ thể, màn hình ngang 16:9, cảm giác phim tài liệu hoang dã thô ráp, tạo video ngắn 30 giây về việt dã.
+Shot 1: Cảnh trung, xe việt dã @Image 1 lao lên đụn cát tung lên đám bụi, máy quay theo dõi, <tiếng lốp nghiền cát> (nhạc trống hùng tráng bắt đầu).
+Shot 2: Cận cảnh, quay ngược lên bánh xe lăn qua đá sỏi, bùn cát bắn tung tóe vào ống kính.
+Shot 3: Toàn cảnh, máy quay di chuyển ngang ổn định sang bên theo dõi xe vượt qua suối cạn, nước bắn tung tóe.
+Shot 4: Cảnh rất xa, quay từ trên cao xe việt dã xuyên qua vết xe trên hoang nguyên, khói bụi kéo dài.
+Shot 5: Cảnh trung, xe việt dã @Image 1 leo lên đỉnh sườn núi dừng lại ổn định, máy quay từ từ nâng lên kéo xa, (nhạc trống kết thúc).
+Ràng buộc: Kiểu xe và màu sơn theo đúng Ảnh 1; động lực việt dã phải phù hợp với địa hình thực tế, không lơ lửng, trượt, méo mó.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo hình mờ; Mỗi shot chỉ dùng một cách vận máy; Nhân vật cần chuyển động tự nhiên nhẹ, không như tượng đá.
+```
+
+### No. 4: Trưng Bày Nội Thất
+
+- **Category:** `Ô Tô`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Lấy nội thất ô tô trong Ảnh 1 (chất liệu và phối màu theo đúng Ảnh 1) làm chủ thể, màn hình ngang 16:9, ánh sáng khoang cabin cao cấp ấm áp, tạo video ngắn 30 giây về nội thất.
+
+#### Prompt
+
+```text
+Tham khảo nội thất ô tô trong Ảnh 1 (chất liệu và phối màu theo đúng Ảnh 1) làm chủ thể, màn hình ngang 16:9, ánh sáng khoang cabin cao cấp ấm áp, tạo video ngắn 30 giây về nội thất.
+Shot 1: Cận cảnh cực gần, đường may ghế da thật nội thất @Image 1 gợn sóng dưới ánh sáng ấm, máy quay di chuyển ngang chậm, (nhạc không khí thư giãn bắt đầu).
+Shot 2: Cảnh trung-cận, máy quay từ từ đẩy gần vào màn hình trung tâm, đèn ambient lần lượt sáng lên.
+Shot 3: Cận cảnh, bao quanh vô lăng và lẫy chuyển số, ánh sáng phản chiếu trên thanh trang trí kim loại chuyển động.
+Shot 4: Cảnh trung, quay từ trên cao toàn cảnh khoang cabin, ánh sáng từ cửa sổ trời đổ xuống từ trên cao.
+Shot 5: Cảnh trung-cận, máy quay từ từ nâng lên kết thúc ở khoang cabin ổn định, ánh sáng ấm lan tỏa, (nhạc nhỏ dần) 【Khoang cabin tĩnh lặng】.
+Ràng buộc: Chất liệu và phối màu theo đúng Ảnh 1, không thay đổi; Không hư cấu nội dung UI cụ thể của màn hình trung tâm; Ánh sáng khoang cabin tông ấm cố định xuyên suốt.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo hình mờ; Mỗi shot chỉ dùng một cách vận máy; Nhân vật cần chuyển động tự nhiên nhẹ, không như tượng đá.
+```
+
+<a id="category-14"></a>
+
+### Bất Động Sản & Nội Thất (4)
+
+### No. 1: Tham Quan Không Gian Phòng Khách
+
+- **Category:** `Bất Động Sản & Nội Thất`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Màn hình dọc 9:16, video quảng cáo chất lượng bất động sản, tông sáng ấm trắng trong suốt, tạo video ngắn 30 giây tham quan không gian phòng khách.
+
+#### Prompt
+
+```text
+Màn hình dọc 9:16, video quảng cáo chất lượng bất động sản, tông sáng ấm trắng trong suốt, tạo video ngắn 30 giây tham quan không gian phòng khách.
+Shot 1: Vị trí máy cố định, ánh sáng ban mai chiếu xiên từ cửa sổ kính lớn vào phòng khách trống, bụi lơ lửng trong cột sáng, (nhạc piano thư giãn bắt đầu).
+Shot 2: Di chuyển ngang ổn định, máy quay lướt sát mặt sàn gỗ nguyên tấm và ghế sofa vải màu be, hoa văn gối rõ ràng, <tiếng bước chân nhẹ>.
+Shot 3: Từ từ đẩy gần, lấy nét vào tách cà phê đang bốc khói và cuốn sách mở trên bàn trà, ánh sáng ấm rơi xuống, (dây đàn hòa vào).
+Shot 4: Nâng hạ, vị trí máy từ từ nâng lên từ mặt đất, thể hiện bố cục thông thoáng giữa phòng khách và khu bếp mở, 【Diện tích xây dựng 98㎡ Thông thoáng Nam Bắc】.
+Shot 5: Từ từ kéo xa, lùi về đến cửa ra vào nhìn lại toàn bộ chiều sâu phòng khách, ổn định tông ấm trắng, (nhạc kết thúc).
+Ràng buộc: Xuyên suốt không có nhân vật xuất hiện; Phong cách bày trí nội thất thống nhất theo phong cách hiện đại tối giản gỗ nguyên tấm; Ánh sáng giữ nhất quán tông ấm trắng buổi sáng.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo hình mờ; Mỗi shot chỉ dùng một cách vận máy; Nhân vật cần chuyển động tự nhiên nhẹ, không như tượng đá.
+```
+
+### No. 2: Chi tiết nhà bếp
+
+- **Category:** `Bất Động Sản & Nội Thất`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Tỷ lệ dọc 9:16, quảng cáo chất lượng cao cấp của thiết bị gia dụng, màu xám kim loại lạnh lẽo phối với màu gỗ ấm áp, tạo video ngắn 30 giây về chi tiết nhà bếp.
+
+#### Prompt
+
+```text
+Tỷ lệ dọc 9:16, quảng cáo chất lượng cao cấp của thiết bị gia dụng, màu xám kim loại lạnh lẽo phối với màu gỗ ấm áp, tạo video ngắn 30 giây về chi tiết nhà bếp.
+Shot 1: Cận cảnh, nước từ vòi chảy xuống bồn rửa inox, những giọt nước bắn tung tóe trong chuyển động chậm, <tiếng nước chảy róc rách>.
+Shot 2: Di chuyển ngang ổn định, máy quay trượt dọc mặt đá thạch anh qua dao, thớt và rau quả tươi, ánh sáng lạnh làm nổi bật, (nhịp điệu nhẹ nhàng bắt đầu).
+Shot 3: Đẩy vào chậm, ngăn kéo tự động trượt ra để lộ ngăn chia và tay cầm mờ, tông màu gỗ ấm, <tiếng ray trượt mượt mà của ngăn kéo>.
+Shot 4: Góc quay từ trên cao, ngọn lửa xanh của bếp ga bùng lên, dầu trong chảo nhảy múa, hơi nóng bốc lên, <tiếng tách tách khi bật lửa><tiếng dầu xèo xèo>.
+Shot 5: Góc quay từ dưới lên, góc máy từ bếp nhìn lên máy hút mùi phía trên và đèn LED âm trần, ánh sáng phản chiếu trên kim loại, 【Thiết bị bếp tích hợp âm tường】, (âm nhạc kết thúc).
+Ràng buộc: Không có người xuất hiện trong toàn bộ video; mặt bàn luôn ngăn nắp, không có đồ lộn xộn; chất liệu kim loại và gỗ có chất lượng nhất quán xuyên suốt.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo hình mờ; Mỗi shot chỉ sử dụng một chuyển động máy; Nhân vật cần chuyển động tự nhiên nhẹ nhàng, không phải tượng đá.
+```
+
+### No. 3: Góc nhìn từ trên xuống mặt bằng (minh họa)
+
+- **Category:** `Bất Động Sản & Nội Thất`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Tỷ lệ ngang 16:9, phong cách minh họa trực quan hóa kiến trúc, mô hình trắng sạch sẽ với ánh sáng trời dịu nhẹ, tạo video ngắn 30 giây minh họa góc nhìn từ trên xuống mặt bằng.
+
+#### Prompt
+
+```text
+Tỷ lệ ngang 16:9, phong cách minh họa trực quan hóa kiến trúc, mô hình trắng sạch sẽ với ánh sáng trời dịu nhẹ, tạo video ngắn 30 giây minh họa góc nhìn từ trên xuống mặt bằng.
+Shot 1: Góc quay từ trên cao, nhìn thẳng từ trên xuống toàn bộ mặt bằng mô hình trắng, đường ngăn cách rõ ràng, (âm thanh điện tử tối giản bắt đầu).
+Shot 2: Đẩy vào chậm, máy quay đi xuống xuyên qua "trần nhà biến mất" vào khu vực minh họa phòng khách, đồ nội thất hiển thị trong suốt một nửa, <hiệu ứng âm thanh chuyển không gian>.
+Shot 3: Bay vòng quanh, xoay một vòng quanh khu vực minh họa phòng ngủ chính, thể hiện cửa sổ lớn và tuyến di chuyển phòng thay đồ, ánh sáng dịu dần sáng lên, (nhịp điệu mạnh dần).
+Shot 4: Di chuyển ngang ổn định, trượt dọc theo tuyến di chuyển minh họa hành lang về phía phòng ngủ phụ và phòng tắm, chú thích xuất hiện, 【3 phòng ngủ 2 phòng khách, phân khu động tĩnh】.
+Shot 5: Nâng lên, góc máy được kéo lên cao trở lại góc nhìn toàn cảnh từ trên xuống và chồng lên dữ liệu diện tích, ánh sáng trời đóng băng khung hình, (âm nhạc kết thúc).
+Ràng buộc: Toàn bộ là mô hình minh họa trắng, không phải cảnh thực, cần có dòng chữ "Hình minh họa chỉ mang tính chất tham khảo"; Tỷ lệ và cấu trúc mặt bằng nhất quán xuyên suốt; Không có đồ nội thất và người thật.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo hình mờ; Mỗi shot chỉ sử dụng một chuyển động máy; Nhân vật cần chuyển động tự nhiên nhẹ nhàng, không phải tượng đá.
+```
+
+### No. 4: Bầu không khí phòng ngủ
+
+- **Category:** `Bất Động Sản & Nội Thất`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Tỷ lệ dọc 9:16, quảng cáo bầu không khí sống chậm, tông màu ấm với đèn ngủ cam, tạo video ngắn 30 giây về bầu không khí phòng ngủ.
+
+#### Prompt
+
+```text
+Tỷ lệ dọc 9:16, quảng cáo bầu không khí sống chậm, tông màu ấm với đèn ngủ cam, tạo video ngắn 30 giây về bầu không khí phòng ngủ.
+Shot 1: Góc máy cố định, đèn ngủ ấm bật sáng khoảnh khắc chiếu sáng bộ ga gối màu trơn và rèm cửa hé mở, (nhạc nền bắt đầu).
+Shot 2: Đẩy vào chậm, máy quay áp sát cạnh gối lướt qua những nếp gấp mềm mại của chăn và cuốn sách mở, ánh sáng và bóng tối dần ấm lên, <tiếng mưa nhẹ ngoài cửa sổ>.
+Shot 3: Di chuyển ngang ổn định, dọc theo chân giường trượt qua cây xanh và tinh dầu thơm trên cửa sổ lớn, ánh sáng cam ấm chảy trôi, (tiếng piano nhẹ nhàng điểm xuyết).
+Shot 4: Nâng lên, góc máy từ từ nâng lên nhìn từ trên xuống toàn bộ giường và ánh sáng dịu từ đèn treo, tạo cảm giác bao bọc an giấc, 【Phòng ngủ có ánh sáng và thông gió tốt】.
+Shot 5: Kéo ra chậm, lùi về phía cửa phòng nhìn lại toàn cảnh phòng ngủ dưới ánh đèn ấm, tông màu dịu đóng băng khung hình, (âm nhạc kết thúc).
+Ràng buộc: Không có người xuất hiện trong toàn bộ video; Ánh đèn duy trì tông màu cam ấm của đêm nhất quán; Bộ ga gối và bày trí duy trì phong cách thanh lịch, thống nhất.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo hình mờ; Mỗi shot chỉ sử dụng một chuyển động máy; Nhân vật cần chuyển động tự nhiên nhẹ nhàng, không phải tượng đá.
+```
+
+<a id="category-15"></a>
+
+### Nhân Vật Nói Chuyện / Người Số (6)
+
+### No. 1: Kiến thức khẩu bá
+
+- **Category:** `Nhân Vật Nói Chuyện / Người Số`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Người dẫn chương trình gắn với @Image 1 (trang điểm và tạo kiểu khuôn mặt theo hình tương ứng), tỷ lệ dọc 9:16, phong cách diễn xuất sạch sẽ của blogger kiến thức, ánh sáng mềm sáng, tạo video clip khẩu bá kiến thức 30 giây.
+
+#### Prompt
+
+```text
+Người dẫn chương trình gắn với @Image 1 (trang điểm và tạo kiểu khuôn mặt theo hình tương ứng), tỷ lệ dọc 9:16, phong cách diễn xuất sạch sẽ của blogger kiến thức, ánh sáng mềm sáng, tạo video clip khẩu bá kiến thức 30 giây.
+Shot 1: Cận trung cảnh, người dẫn @Image 1 nhìn thẳng vào ống kính, nghiêng người về phía trước ném ra câu hỏi, nền giá sách xóa phông nhẹ, máy quay cố định, {Bạn có biết 90% mọi người đều dùng sai không?}.
+Shot 2: Đẩy gần chậm, người dẫn @Image 1 vừa nói vừa giơ ngón tay nhấn mạnh, ánh mắt kiên định, ánh sáng ấm làm sáng, (nhạc nền nhẹ nhàng bắt đầu).
+Shot 3: Cắt cảnh sang, biểu đồ điểm chính hiện lên ở phía bên phải màn hình, người dẫn @Image 1 quay người chỉ tay, di chuyển ngang ổn định, 【Điểm một hai ba】.
+Shot 4: Cận trung cảnh, người dẫn @Image 1 quay người về vị trí cũ, mỉm cười tổng kết, giọng điệu chậm lại, máy quay cố định, {Nhớ ba điểm này là đủ}.
+Shot 5: Kéo xa chậm, người dẫn @Image 1 gật đầu kết thúc và vẫy tay, ánh sáng mềm đóng băng khung hình, (âm nhạc kết thúc).
+Ràng buộc: Khuôn mặt người dẫn phải nhất quán xuyên suốt theo Image 1; khẩu hình phải khớp chính xác với lời thoại; nền diễn xuất cố định không thay đổi.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo watermark; Mỗi shot chỉ sử dụng một cách vận máy; Nhân vật cần cử động tự nhiên nhẹ, không như tượng đá.
+```
+
+### No. 2: Bản tin thời sự
+
+- **Category:** `Nhân Vật Nói Chuyện / Người Số`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Người dẫn chương trình gắn với @Image 1 (trang điểm và tạo kiểu khuôn mặt theo hình tương ứng), tỷ lệ ngang 16:9, phòng thu thời sự uy tín, tông màu chuyên nghiệp lạnh xanh, tạo video clip bản tin thời sự 30 giây.
+
+#### Prompt
+
+```text
+Người dẫn chương trình gắn với @Image 1 (trang điểm và tạo kiểu khuôn mặt theo hình tương ứng), tỷ lệ ngang 16:9, phòng thu thời sự uy tín, tông màu chuyên nghiệp lạnh xanh, tạo video clip bản tin thời sự 30 giây.
+Shot 1: Trung cảnh, người dẫn @Image 1 ngồi ngay ngắn, nhìn thẳng vào ống kính mở đầu, phía sau là màn hình phòng thu màu xanh, máy quay cố định, {Kính chào quý vị khán giả, chào mừng đến với bản tin kỳ này}.
+Shot 2: Đẩy gần chậm, người dẫn @Image 1 thần sắc nghiêm túc đọc lời dẫn, tốc độ nói đều đặn, ánh sáng xanh lạnh, 【Tin tức chính hôm nay】.
+Shot 3: Cắt cảnh sang, cửa sổ hình ảnh tin tức hiện lên phía sau bên phải người dẫn @Image 1, di chuyển ngang ổn định, <âm thanh nhắc trong phòng thu>.
+Shot 4: Cận trung cảnh, người dẫn @Image 1 quay sang một máy quay khác tiếp tục đọc tin, ánh mắt chuyển đổi tự nhiên, máy quay cố định, (nhạc nền trầm).
+Shot 5: Kéo xa chậm, người dẫn @Image 1 chắp tay chào kết thúc, đóng băng khung hình với tông xanh lạnh, {Cảm ơn đã theo dõi, hẹn gặp lại trong chương trình sau}.
+Ràng buộc: Khuôn mặt người dẫn phải nhất quán xuyên suốt theo Image 1; khẩu hình phải khớp chính xác với lời thoại; tư thế ngồi ngay ngắn chuyên nghiệp, nền phòng thu cố định.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo watermark; Mỗi shot chỉ sử dụng một cách vận máy; Nhân vật cần cử động tự nhiên nhẹ, không như tượng đá.
+```
+
+### No. 3: Khẩu bá bán hàng
+
+- **Category:** `Nhân Vật Nói Chuyện / Người Số`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Người dẫn chương trình gắn với @Image 2 (trang điểm và tạo kiểu khuôn mặt theo hình tương ứng), tỷ lệ dọc 9:16, phong cách bán hàng trực tiếp sôi động, tông ấm sáng bão hòa cao, tạo video clip khẩu bá bán hàng 30 giây.
+
+#### Prompt
+
+```text
+Người dẫn chương trình gắn với @Image 2 (trang điểm và tạo kiểu khuôn mặt theo hình tương ứng), tỷ lệ dọc 9:16, phong cách bán hàng trực tiếp sôi động, tông ấm sáng bão hòa cao, tạo video clip khẩu bá bán hàng 30 giây.
+Shot 1: Cận trung cảnh, người dẫn @Image 2 giơ cao sản phẩm áp sát ống kính nhiệt tình mời chào, máy quay cố định, {Mọi người nhìn đây, hôm nay sản phẩm này thực sự tuyệt vời!}.
+Shot 2: Đẩy gần chậm, người dẫn @Image 2 dùng tay chỉ vào điểm bán hàng của sản phẩm, biểu cảm phấn khích phóng đại, ánh sáng ấm bão hòa cao, <âm thanh 'ting' mở liên kết>.
+Shot 3: Cắt cảnh sang, nhãn giá nổ hiện lên góc dưới bên trái màn hình, người dẫn @Image 2 vỗ tay nhấn mạnh, di chuyển ngang ổn định, 【Giảm giá giới hạn thời gian Chỉ 99】.
+Shot 4: Trung cảnh, người dẫn @Image 2 giơ sản phẩm trái phải để trưng bày chi tiết, tốc độ nói nhanh hơn, máy quay cố định, (nhạc khuyến mãi sôi động).
+Shot 5: Đẩy gần chậm, người dẫn @Image 2 giơ ngón tay cái thúc đẩy đơn hàng kết thúc, đóng băng khung hình với tông ấm, {Chậm tay là hết, nhanh tay đặt hàng đi!}.
+Ràng buộc: Khuôn mặt người dẫn phải nhất quán xuyên suốt theo Image 2; khẩu hình phải khớp chính xác với lời thoại; ngoại hình sản phẩm phải nhất quán; nền kệ trưng bày hàng hóa cố định.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo watermark; Mỗi shot chỉ sử dụng một cách vận máy; Nhân vật cần cử động tự nhiên nhẹ, không như tượng đá.
+```
+
+### No. 4: Đài tình cảm đêm khuya
+
+- **Category:** `Nhân Vật Nói Chuyện / Người Số`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Người dẫn chương trình gắn với @Image 3 (trang điểm khuôn mặt theo hình tương ứng), tỷ lệ dọc 9:16, không khí đài phát thanh đêm khuya, ánh sáng cam ấm áp độ tương phản thấp, tạo video ngắn đài tình cảm 30 giây.
+
+#### Prompt
+
+```text
+Người dẫn chương trình gắn với @Image 3 (trang điểm khuôn mặt theo hình tương ứng), tỷ lệ dọc 9:16, không khí đài phát thanh đêm khuya, ánh sáng cam ấm áp độ tương phản thấp, tạo video ngắn đài tình cảm 30 giây.
+Shot 1: Cận trung, người dẫn @Image 3 quay nghiêng vào mic nhắm mắt mở lời nhẹ nhàng, đèn bàn cam ấm chiếu sáng bên, máy quay cố định, (tiếng piano dịu dàng cất lên) {Đêm đã khuya, bạn vẫn chưa ngủ có ổn không}.
+Shot 2: Đẩy gần chậm rãi, người dẫn @Image 3 mở mắt nhìn vào khoảng không với vẻ mặt dịu dàng, ánh sáng lấp lánh trong mắt, ánh sáng ấm lan tỏa, <tiếng mưa đêm nhẹ ngoài cửa sổ>.
+Shot 3: Di chuyển ngang ổn định, ống kính lướt qua tai nghe và tách trà ấm trên bàn, người dẫn @Image 3 vào khung thì thầm, (tiếng piano mạnh dần).
+Shot 4: Cận cảnh, người dẫn @Image 3 khẽ mỉm cười an ủi nhẹ nhàng, lông mi rung nhẹ, ánh sáng cam ấm áp nhẹ, {Mong bạn được thế giới này đối xử dịu dàng}.
+Shot 5: Kéo xa chậm rãi, người dẫn @Image 3 tháo tai nghe cúi đầu mỉm cười kết thúc, ánh sáng nhẹ đóng băng khung hình, (âm nhạc kết thúc).
+Ràng buộc: Khuôn mặt người dẫn phải nhất quán theo Image 3 xuyên suốt; khẩu hình phải khớp chính xác với lời thoại; cảm xúc được thể hiện ra ngoài qua lông mi rung nhẹ và ánh sáng trong mắt, cấm diễn xuất kiểu lời bình trực tiếp; tông màu đêm cam ấm phải nhất quán xuyên suốt.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo watermark; Mỗi shot chỉ dùng một kiểu vận động máy quay; Nhân vật cần cử động tự nhiên nhẹ nhàng, không như tượng đá.
+```
+
+### No. 5: Giảng viên giảng dạy
+
+- **Category:** `Nhân Vật Nói Chuyện / Người Số`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Giảng viên gắn với @Image 1 (trang điểm khuôn mặt theo hình tương ứng), tỷ lệ ngang 16:9, lớp học trực tuyến sáng sủa chuyên nghiệp, tông màu bảng trắng sạch sẽ, tạo video ngắn giảng viên giảng dạy 30 giây.
+
+#### Prompt
+
+```text
+Giảng viên gắn với @Image 1 (trang điểm khuôn mặt theo hình tương ứng), tỷ lệ ngang 16:9, lớp học trực tuyến sáng sủa chuyên nghiệp, tông màu bảng trắng sạch sẽ, tạo video ngắn giảng viên giảng dạy 30 giây.
+Shot 1: Toàn trung, giảng viên @Image 1 đứng trước bảng trắng quay lại hướng về ống kính bắt đầu giảng, cầm bút đánh dấu, máy quay cố định, {Bài học hôm nay chúng ta chỉ nói về một công thức cốt lõi}.
+Shot 2: Di chuyển ngang ổn định, giảng viên @Image 1 vừa đi vừa viết từ khóa lên bảng trắng, ống kính di chuyển theo, ánh sáng trắng sáng, <tiếng bút đánh dấu viết>.
+Shot 3: Ống kính cắt đến, khu vực chữ viết trên bảng phóng to hiện lên công thức được làm nổi bật, giảng viên @Image 1 quay người chỉ tay, đẩy gần chậm rãi, 【Công thức cốt lõi】.
+Shot 4: Cận trung, giảng viên @Image 1 quay lại ống kính giải thích ví dụ, biểu cảm sinh động, máy quay cố định, (nhạc nền học tập vui tươi nhẹ nhàng).
+Shot 5: Kéo xa chậm rãi, giảng viên @Image 1 dang hai tay mỉm cười kết thúc và gật đầu, ánh sáng trắng đóng băng khung hình, {Hiểu chưa, hẹn gặp lại bài sau}.
+Ràng buộc: Khuôn mặt giảng viên phải nhất quán theo Image 1 xuyên suốt; khẩu hình phải khớp chính xác với lời thoại; nội dung viết trên bảng trắng phải liền mạch trước sau; nền lớp học cố định.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo watermark; Mỗi shot chỉ dùng một kiểu vận động máy quay; Nhân vật cần cử động tự nhiên nhẹ nhàng, không như tượng đá.
+```
+
+### No. 6: Bản sao đa ngôn ngữ (bao gồm ý tưởng nhiệm vụ chỉnh sửa)
+
+- **Category:** `Nhân Vật Nói Chuyện / Người Số`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Người kỹ thuật số gắn với @Image 1 (trang điểm khuôn mặt theo hình tương ứng), tỷ lệ dọc 9:16, phong cách diễn xuất thống nhất thương hiệu xuyên quốc gia, tông màu xanh công nghệ đơn giản, tạo video ngắn bản sao đa ngôn ngữ 30 giây.
+
+#### Prompt
+
+```text
+Người kỹ thuật số gắn với @Image 1 (trang điểm khuôn mặt theo hình tương ứng), tỷ lệ dọc 9:16, phong cách diễn xuất thống nhất thương hiệu xuyên quốc gia, tông màu xanh công nghệ đơn giản, tạo video ngắn bản sao đa ngôn ngữ 30 giây.
+Shot 1: Cận trung, người kỹ thuật số @Image 1 nhìn thẳng ống kính chào hỏi mở đầu bằng tiếng Trung, màn hình nền xanh công nghệ, máy quay cố định, {Chào mọi người, hoan nghênh tìm hiểu sản phẩm của chúng tôi}【Tiếng Trung】.
+Shot 2: Ống kính cắt đến, cùng một người kỹ thuật số @Image 1 chuyển đổi liền mạch sang phát ngôn tiếng Anh, khẩu hình khớp với tiếng Anh, đẩy gần chậm rãi, {Hello everyone, welcome}【English】.
+Shot 3: Ống kính cắt đến, người kỹ thuật số @Image 1 chuyển sang lời chào tiếng Nhật, thần thái nhất quán, di chuyển ngang ổn định, {Mina-san konnichiwa}【日本語】.
+Shot 4: Toàn trung, người kỹ thuật số @Image 1 dang rộng tay cử chỉ chào đón, nền hiện lên dòng chữ phụ đề đa ngôn ngữ, máy quay cố định, (nhạc nền cảm giác công nghệ).
+Shot 5: Kéo xa chậm rãi, người kỹ thuật số @Image 1 mỉm cười gật đầu kết thúc, tông màu xanh đóng băng khung hình, (âm nhạc kết thúc).
+Ràng buộc: Ý tưởng nhiệm vụ chỉnh sửa — Đầu tiên tạo shot bản gốc tiếng Trung, sau đó dùng lệnh chỉnh sửa 'giữ nguyên nhân vật và vận động máy quay, chỉ thay thế lời thoại và khẩu hình thành ngôn ngữ mục tiêu' để tạo ra các bản sao tiếng Anh/Nhật, đảm bảo khuôn mặt @Image 1, vị trí máy quay, nền, trang phục hoàn toàn nhất quán xuyên suốt; khẩu hình từng ngôn ngữ phải khớp chính xác với lời thoại tương ứng; cấm bản sao xuất hiện hiện tượng khuôn mặt trôi dạt.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo watermark; Mỗi shot chỉ dùng một kiểu vận động máy quay; Nhân vật cần cử động tự nhiên nhẹ nhàng, không như tượng đá.
+```
+
+<a id="category-16"></a>
+
+### Phim Ngắn / Kể Chuyện Tình Cảm (8)
+
+### No. 1: Tái ngộ ở cửa hàng tiện lợi (Đảo ngược cảm xúc)
+
+- **Category:** `Phim Ngắn / Kể Chuyện Tình Cảm`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Tham khảo nữ chính trong Ảnh 1, nam chính trong Ảnh 3 (trang điểm, tạo hình khuôn mặt theo ảnh tương ứng), tỷ lệ dọc 9:16, phong cách điện ảnh chân thực, chuyển từ xanh lạnh sang cam ấm, tạo đoạn phim ngắn tình cảm 30 giây.
+
+#### Prompt
+
+```text
+Tham khảo nữ chính trong Ảnh 1, nam chính trong Ảnh 3 (trang điểm, tạo hình khuôn mặt theo ảnh tương ứng), tỷ lệ dọc 9:16, phong cách điện ảnh chân thực, chuyển từ xanh lạnh sang cam ấm, tạo đoạn phim ngắn tình cảm 30 giây.
+Shot 1: Toàn cảnh, nữ chính @Image 1 một mình tựa cửa sổ cúi đầu khuấy cà phê, tông đêm xanh lạnh, máy quay từ từ tiến gần, (tiếng piano nhẹ bắt đầu).
+Shot 2: Cận trung, nam chính @Image 3 đẩy cửa vào khung hình, nữ chính @Image 1 ngẩng đầu sững sờ, góc máy cố định có cảm giác hơi thở, <chuông cửa leng keng>.
+Shot 3: Cận cảnh, máy quay cắt qua lại giữa hai người, tông màu dần ấm lên, nam chính @Image 3 nói nhẹ {Anh đến đón em rồi}, (tiếng piano mạnh dần).
+Shot 4: Cận cảnh, nữ chính @Image 1 mắt đỏ hoe khóe miệng nhếch lên, máy quay từ từ kéo xa, dừng hình cam ấm, (âm nhạc kết thúc).
+Ràng buộc: Khuôn mặt nam nữ chính phải nhất quán theo ảnh tương ứng; cảnh cửa hàng tiện lợi cố định; đảo ngược cảm xúc thể hiện qua mắt đỏ và miệng run; cấm nhân vật phân thân/song sinh.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo hình mờ; Mỗi shot chỉ dùng một cách vận máy; Nhân vật cần cử động tự nhiên nhẹ, không như tượng đá.
+```
+
+### No. 2: Độc thoại đêm mưa
+
+- **Category:** `Phim Ngắn / Kể Chuyện Tình Cảm`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Nhân vật chính gắn với @Image 2 (trang điểm, tạo hình khuôn mặt theo ảnh tương ứng), tỷ lệ dọc 9:16, phong cách văn nghệ chân thực lạnh, đêm mưa xám xanh độ bão hòa thấp, tạo đoạn phim ngắn độc thoại tình cảm 30 giây.
+
+#### Prompt
+
+```text
+Nhân vật chính gắn với @Image 2 (trang điểm, tạo hình khuôn mặt theo ảnh tương ứng), tỷ lệ dọc 9:16, phong cách văn nghệ chân thực lạnh, đêm mưa xám xanh độ bão hòa thấp, tạo đoạn phim ngắn độc thoại tình cảm 30 giây.
+Shot 1: Cận cảnh, mưa chảy dọc theo cửa sổ kính uốn lượn, bóng mờ của nhân vật chính @Image 2 hiện ra sau cửa sổ, góc máy cố định, <tiếng mưa rơi lộp độp> (tiếng cello trầm bắt đầu).
+Shot 2: Từ từ tiến gần, nhân vật chính @Image 2 áp mặt vào cửa sổ nhìn chằm chằm đèn đường đêm mưa, đầu ngón tay chạm vào tấm kính lạnh, ánh sáng lạnh xám xanh, {Có những lời, chỉ có thể nói với cơn mưa}.
+Shot 3: Di chuyển ngang ổn định, máy quay lướt qua chiếc điện thoại đã tắt và tách trà nguội một nửa trên bàn, nhân vật chính @Image 2 vào khung hình từ bên cạnh, (tiếng cello mạnh dần).
+Shot 4: Cận trung, nhân vật chính @Image 2 hít một hơi sâu nhắm mắt, một giọt nước mắt lăn trên má trùng với vệt mưa trên cửa sổ, từ từ tiến gần, <mưa to dần>.
+Shot 5: Từ từ kéo xa, nhân vật chính @Image 2 mở mắt nở nụ cười nhẹ nhàng giải tỏa quay lưng rời khỏi cửa sổ, dừng hình xám xanh, (âm nhạc kết thúc).
+Ràng buộc: Khuôn mặt nhân vật chính phải nhất quán theo Ảnh 2; cảm xúc thể hiện qua đầu ngón tay chạm kính và vệt nước mắt, cấm lời thoại trực tiếp nói "tôi rất buồn"; tông màu đêm mưa xám xanh và cảnh phải nhất quán xuyên suốt.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo hình mờ; Mỗi shot chỉ dùng một cách vận máy; Nhân vật cần cử động tự nhiên nhẹ, không như tượng đá.
+```
+
+### No. 3: Bàn ăn gia đình
+
+- **Category:** `Phim Ngắn / Kể Chuyện Tình Cảm`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Tham khảo người mẹ trong Ảnh 1, người cha trong Ảnh 2, đứa trẻ trong Ảnh 4 (trang điểm, tạo hình khuôn mặt theo ảnh tương ứng), tỷ lệ ngang 16:9, phong cách đời sống ấm áp chân thực, tông màu vàng ấm tại gia, tạo đoạn phim ngắn tình cảm gia đình 30 giây.
+
+#### Prompt
+
+```text
+Tham khảo người mẹ trong Ảnh 1, người cha trong Ảnh 2, đứa trẻ trong Ảnh 4 (trang điểm, tạo hình khuôn mặt theo ảnh tương ứng), tỷ lệ ngang 16:9, phong cách đời sống ấm áp chân thực, tông màu vàng ấm tại gia, tạo đoạn phim ngắn tình cảm gia đình 30 giây.
+Shot 1: Toàn cảnh, ba người trong gia đình ngồi quây quần bàn ăn, món ăn nóng bốc hơi trắng, mẹ @Image 1 đang gắp thức ăn cho con @Image 4, ánh đèn vàng ấm, góc máy cố định, (dân ca ấm áp bắt đầu) <tiếng bát đũa khẽ chạm>.
+Shot 2: Cận trung, cha @Image 2 cười múc canh cho mẹ @Image 1, hai người nhìn nhau mỉm cười, từ từ tiến gần, <tiếng thìa canh leng keng>.
+Shot 3: Cận cảnh, con @Image 4 phồng má ăn ngon lành ngẩng đầu cười toe toét, ánh sáng ấm rọi lên mặt, máy quay cắt đến.
+Shot 4: Trung cảnh, mẹ @Image 1 đưa tay lau khóe miệng cho cha @Image 2, cha ngạc nhiên rồi nắm lấy tay bà, di chuyển ngang ổn định, (dân ca ấm dần).
+Shot 5: Di chuyển lên xuống chậm, góc máy nâng lên nhìn xuống bàn ăn đầy thức ăn và gia đình quây quần, dừng hình vàng ấm, (âm nhạc kết thúc).
+Ràng buộc: Khuôn mặt ba nhân vật phải chính xác theo ảnh tương ứng, thể trạng/tuổi tác của mẹ/cha/con phải phân biệt rõ ràng, cấm nhân vật phân thân/song sinh hoặc khuôn mặt lẫn lộn; món ăn trên bàn và cảnh gia đình vàng ấm phải nhất quán xuyên suốt.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo hình mờ; Mỗi shot chỉ dùng một cách vận máy; Nhân vật cần cử động tự nhiên nhẹ, không như tượng đá.
+```
+
+### No. 4: Ga Nhà Ga Ly Biệt
+
+- **Category:** `Phim Ngắn / Kể Chuyện Tình Cảm`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Tham khảo nữ chính trong ảnh 1, nam chính trong ảnh 3 (trang điểm và tạo kiểu khuôn mặt theo ảnh tương ứng), tỷ lệ ngang 16:9, phong cách điện ảnh chân thực, sân ga tông lạnh với ánh sáng ngược ấm áp, tạo video ngắn 30 giây về cảm xúc chia ly.
+
+#### Prompt
+
+```text
+Tham khảo nữ chính trong ảnh 1, nam chính trong ảnh 3 (trang điểm và tạo kiểu khuôn mặt theo ảnh tương ứng), tỷ lệ ngang 16:9, phong cách điện ảnh chân thực, sân ga tông lạnh với ánh sáng ngược ấm áp, tạo video ngắn 30 giây về cảm xúc chia ly.
+Shot 1: Toàn cảnh, đám đông nhộn nhịp trên sân ga, nữ chính @Image 1 và nam chính @Image 3 đứng đối diện nắm chặt tay nhau, đoàn tàu bên cạnh, ánh sáng ngược tông lạnh, máy quay từ từ tiến gần, (dây đàn trầm khởi đầu) <Thông báo tàu vào ga>.
+Shot 2: Cận cảnh, những ngón tay đan chặt của hai người từ từ siết chặt rồi lại không nỡ buông ra, ánh sáng ngược ấm viền sáng, máy quay cố định.
+Shot 3: Cận trung cảnh, nam chính @Image 3 đưa tay lên vén lại mái tóc của nữ chính @Image 1 bị gió thổi rối, muốn nói mà không nói, máy quay từ từ tiến gần, {Đến nơi rồi... nhớ báo bình an}.
+Shot 4: Trung cảnh, nam chính @Image 3 quay người lên tàu, nữ chính @Image 1 đứng nguyên tại chỗ, vai run nhẹ cố kìm nén nước mắt, máy quay di chuyển ngang ổn định, (dây đàn cao lên) <Âm thanh nhắc nhở cửa tàu đóng>.
+Shot 5: Từ từ kéo xa, đoàn tàu rời đi, nữ chính @Image 1 đứng một mình trên sân ga trống vắng thành bóng cắt dưới ánh sáng ngược, tông lạnh đóng khung, (âm nhạc kết thúc).
+Ràng buộc: Khuôn mặt nam nữ chính phải nhất quán theo ảnh tương ứng xuyên suốt; cảm xúc chia ly thể hiện qua những ngón tay siết chặt và vai run rẩy, cấm khóc lóc trực diện; cảnh sân ga và ánh sáng ngược lạnh/ấm nhất quán xuyên suốt; cấm nhân vật phân thân/song sinh.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo watermark; Mỗi shot chỉ dùng một cách vận máy; Nhân vật cần cử động tự nhiên nhẹ, không như tượng đá.
+```
+
+### No. 5: Khoảnh Khắc Tỏa Sáng Nơi Công Sở
+
+- **Category:** `Phim Ngắn / Kể Chuyện Tình Cảm`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Nhân vật chính gắn với @Image 2 (trang điểm và tạo kiểu khuôn mặt theo ảnh tương ứng), tỷ lệ ngang 16:9, phong cách chân thực động lực thương mại, chuyển từ chất liệu kính thép xanh lạnh sang ánh vàng rực rỡ, tạo video ngắn 30 giây truyền cảm hứng công sở.
+
+#### Prompt
+
+```text
+Nhân vật chính gắn với @Image 2 (trang điểm và tạo kiểu khuôn mặt theo ảnh tương ứng), tỷ lệ ngang 16:9, phong cách chân thực động lực thương mại, chuyển từ chất liệu kính thép xanh lạnh sang ánh vàng rực rỡ, tạo video ngắn 30 giây truyền cảm hứng công sở.
+Shot 1: Cận trung cảnh, nhân vật chính @Image 2 ngồi một mình trong văn phòng đêm khuya, cau mày trước màn hình đầy dữ liệu, ánh sáng màn hình xanh lạnh chiếu lên mặt, máy quay cố định, (tiếng trống trầm khởi đầu) <Tiếng gõ bàn phím dồn dập>.
+Shot 2: Từ từ tiến gần, nhân vật chính @Image 2 đột nhiên ngẩng đầu, mắt sáng lên, cầm bút khoanh tròn điểm then chốt, ánh sáng màn hình bỗng sáng rực, <Âm thanh báo hiệu lóe sáng ý tưởng>.
+Shot 3: Quay theo, nhân vật chính @Image 2 đứng dậy bước nhanh qua hành lang, đẩy cửa phòng họp, máy quay theo sát phía sau lưng, (tiếng trống mạnh dần).
+Shot 4: Quay từ dưới lên, nhân vật chính @Image 2 đứng trước cửa kính văn phòng hướng về mọi người tự tin trình bày, đường chân trời thành phố làm nền, ánh sáng ngược mạ vàng, {Đây chính là câu trả lời của chúng ta}.
+Shot 5: Từ từ quay vòng, cả phòng đứng dậy vỗ tay, nhân vật chính @Image 2 thở phào nhẹ nhõm nở nụ cười, ánh vàng rực rỡ đóng khung, (âm nhạca lên cao điểm rồi kết thúc) <Tiếng vỗ tay vang dội>.
+Ràng buộc: Khuôn mặt nhân vật chính phải nhất quán theo ảnh 2 xuyên suốt; cung bậc cảm xúc thể hiện từ cau mày đến thư giãn, chuyển từ xanh lạnh sang vàng rực tương ứng từ thấp điểm đến khoảnh khắc tỏa sáng; cảnh văn phòng phải liền mạch, nhất quán.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo watermark; Mỗi shot chỉ dùng một cách vận máy; Nhân vật cần cử động tự nhiên nhẹ, không như tượng đá.
+```
+
+### No. 6: Tuổi Thanh Xuân Học Đường
+
+- **Category:** `Phim Ngắn / Kể Chuyện Tình Cảm`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Tham khảo nữ sinh trong ảnh 4, nam sinh trong ảnh 5 (trang điểm và tạo kiểu khuôn mặt theo ảnh tương ứng), tỷ lệ dọc 9:16, phong cách thanh xuân tươi sáng chân thực, ánh nắng ấm áp rực rỡ xuyên sáng, tạo video ngắn 30 giây về tuổi thanh xuân học đường.
+
+#### Prompt
+
+```text
+Tham khảo nữ sinh trong ảnh 4, nam sinh trong ảnh 5 (trang điểm và tạo kiểu khuôn mặt theo ảnh tương ứng), tỷ lệ dọc 9:16, phong cách thanh xuân tươi sáng chân thực, ánh nắng ấm áp rực rỡ xuyên sáng, tạo video ngắn 30 giây về tuổi thanh xuân học đường.
+Shot 1: Toàn cảnh, ánh nắng chiều xiên chiếu trên sân vận động, nữ sinh @Image 4 ôm sách bước nhanh qua đường chạy, gió thổi bay váy, máy quay từ từ tiến gần, (tiếng guitar tươi sáng khởi đầu) <Tiếng ve khe khẽ>.
+Shot 2: Cận trung cảnh, nam sinh @Image 5 đạp xe qua, phanh gấp quay đầu lại, ánh mắt hai người chạm nhau, cả hai đều giật mình, máy quay cố định, <Tiếng phanh xe đạp>.
+Shot 3: Cận cảnh, nữ sinh @Image 4 má ửng hồng cúi đầu mỉm cười, những cuốn sách rơi được nam sinh @Image 5 cúi xuống nhặt lên, máy quay chuyển sang ánh nắng ấm.
+Shot 4: Trung cảnh, hai người sánh vai đi qua con đường rợp bóng cây vừa đi vừa nói cười, những đốm sáng nhảy nhót trên mặt, máy quay đi theo, (tiếng guitar vui tươi dần).
+Shot 5: Từ từ nâng/hạ máy, máy quay nâng lên nhìn xuống bóng lưng hai người dần xa và ngôi trường ngập tràn ánh nắng vàng, ánh nắng ấm áp đóng khung, (âm nhạc kết thúc).
+Ràng buộc: Khuôn mặt nam nữ sinh phải nhất quán theo ảnh tương ứng xuyên suốt, phân biệt rõ ngoại hình nam nữ, cấm nhầm lẫn song sinh; cảnh học đường với ánh nắng ấm xuyên sáng nhất quán xuyên suốt; cảm xúc e thẹn thể hiện qua má ửng hồng và nụ cười mím môi.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo watermark; Mỗi shot chỉ dùng một cách vận máy; Nhân vật cần cử động tự nhiên nhẹ, không như tượng đá.
+```
+
+### No. 7: Hành Lang Hồi Hộp
+
+- **Category:** `Phim Ngắn / Kể Chuyện Tình Cảm`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Nhân vật chính gắn với @Hình 2 (trang điểm khuôn mặt theo hình tương ứng), tỷ lệ dọc 9:16, chân thực kinh dị hồi hộp, bóng tối tương phản cao xanh lục u tối lạnh lẽo, tạo video ngắn 30 giây hồi hộp.
+
+#### Prompt
+
+```text
+Nhân vật chính gắn với @Hình 2 (trang điểm khuôn mặt theo hình tương ứng), tỷ lệ dọc 9:16, chân thực kinh dị hồi hộp, bóng tối tương phản cao xanh lục u tối lạnh lẽo, tạo video ngắn 30 giây hồi hộp.
+Shot 1: Cận cảnh, một đèn hành lang nhấp nháy lúc sáng lúc tối, chùm sáng đèn pin của nhân vật chính @Hình 2 xuyên vào bóng tối, xanh lục u tối lạnh, góc máy cố định, <tiếng xèo xèo của đèn tuýp> (tiếng ù tần số thấp bắt đầu).
+Shot 2: Bám theo, máy quay áp sát lưng nhân vật chính @Hình 2 theo bước chân chậm rãi tiến sâu vào hành lang, bước chân do dự, bóng đổ dài, <tiếng vang bước chân>.
+Shot 3: Đẩy vào chậm, nhân vật chính @Hình 2 đột ngột dừng bước nín thở quay đầu, đồng tử co lại mồ hôi lạnh thấm ra, ánh xanh lục lạnh chiếu lên mặt, <tiếng động lạ phía sau lách cách>.
+Shot 4: Cắt cảnh tới, một khe cửa cuối hành lang rỉ ra ánh sáng mờ từ từ mở ra, nhân vật chính @Hình 2 giơ đèn cảnh giác lùi lại, (dây đàn bật cao chói tai).
+Shot 5: Kéo xa chậm, nhân vật chính @Hình 2 đứng cô độc giữa hành lang dài u tối, bóng tối xung quanh áp sát, xanh lục lạnh đóng khung, <đột ngột im lặng> (nhạc đột ngột dừng).
+Ràng buộc: Khuôn mặt nhân vật chính nhất quán theo Hình 2 xuyên suốt; cảm xúc căng thẳng thể hiện qua nín thở quay đầu và đồng tử co lại mồ hôi lạnh; ánh sáng bóng tối xanh lục u tối tương phản cao và cảnh hành lang nhất quán xuyên suốt; kết thúc dùng im lặng tạo khoảng trống kinh dị.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo watermark; Mỗi shot chỉ dùng một cách vận máy; Nhân vật cần cử động tự nhiên nhẹ không phải tượng đá.
+```
+
+### No. 8: Vỡ Lại Lành (Dùng nhiệm vụ chỉnh sửa tạo biến thể tương phản)
+
+- **Category:** `Phim Ngắn / Kể Chuyện Tình Cảm`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Tham khảo nữ chính trong Hình 1, nam chính trong Hình 3 (trang điểm khuôn mặt riêng theo hình tương ứng), tỷ lệ dọc 9:16, chân thực điện ảnh, từ xám lạnh mưa âm u chuyển sang vàng ấm nắng trong, tạo video ngắn tình cảm 30 giây vỡ lại lành.
+
+#### Prompt
+
+```text
+Tham khảo nữ chính trong Hình 1, nam chính trong Hình 3 (trang điểm khuôn mặt riêng theo hình tương ứng), tỷ lệ dọc 9:16, chân thực điện ảnh, từ xám lạnh mưa âm u chuyển sang vàng ấm nắng trong, tạo video ngắn tình cảm 30 giây vỡ lại lành.
+Shot 1: Trung cận cảnh, nữ chính @Hình 1 và nam chính @Hình 3 đứng quay lưng vào nhau trong cơn mưa xám lạnh mỗi người cúi đầu, khoảng cách giữa hai người kéo rộng, góc máy cố định, (tiếng piano nặng nề bắt đầu) <tiếng mưa lạnh lẽo>.
+Shot 2: Cận cảnh, một tấm ảnh cũ trải trong vũng nước bị mưa làm ướt, trong bóng phản chiếu gương hai người dần đi xa, đẩy vào chậm.
+Shot 3: Cắt cảnh tới, trời quang đổ ánh vàng ấm áp, nam chính @Hình 3 quay người đưa tay, nữ chính @Hình 1 từ từ ngoảnh lại mắt ngấn lệ, máy quay di chuyển ngang êm, (piano chuyển ấm dần mạnh).
+Shot 4: Trung cảnh, hai người ôm nhau đứng, nữ chính @Hình 1 cúi đầu vào vai nam chính @Hình 3, nam chính nhẹ nhàng vuốt tóc cô, ánh vàng ấm ngược sáng viền ngoài, máy quay vòng quanh chậm, {Xin lỗi, anh đã trở về}.
+Shot 5: Kéo xa chậm, hai bóng người dựa vào nhau hòa làm một dưới ánh nắng vàng ấm, đóng khung, (nhạc kết thúc viên mãn).
+Ràng buộc: Tư duy nhiệm vụ chỉnh sửa - đầu tiên tạo bản gốc Shot 1 đến Shot 2 "phiên bản xa cách mưa xám lạnh", sau đó dùng lệnh chỉnh sửa "giữ nguyên khuôn mặt nhân vật @Hình 1/@Hình 3, góc máy bố cục không đổi, chỉ đổi thời tiết thành nắng vàng ấm, tư thế từ quay lưng thành ôm nhau" để tạo biến thể tương phản Shot 3 đến Shot 5, đạt được đảo ngược ấm-lạnh cùng cảnh; khuôn mặt nam nữ chính nhất quán xuyên suốt, cấm phân thân song sinh; cảm xúc hòa giải thể hiện qua ngoảnh lại ngấn lệ và ôm nhau cúi đầu.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo watermark; Mỗi shot chỉ dùng một cách vận máy; Nhân vật cần cử động tự nhiên nhẹ không phải tượng đá.
+```
+
+<a id="category-17"></a>
+
+### Quảng Cáo Thương Hiệu / TVC (6)
+
+### No. 1: Thương hiệu hương thơm một cảnh quay liên tục
+
+- **Category:** `Quảng Cáo Thương Hiệu / TVC`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Tham khảo chai nước hoa trong Hình 1 làm chủ thể, tỷ lệ rộng 2.35:1, điện ảnh cao cấp, tông màu vàng hoàng hôn, tạo video ngắn 30 giây không khí thương hiệu, một cảnh quay liên tục.
+
+#### Prompt
+
+```text
+Tham khảo chai nước hoa trong Hình 1 làm chủ thể, tỷ lệ rộng 2.35:1, điện ảnh cao cấp, tông màu vàng hoàng hôn, tạo video ngắn 30 giây không khí thương hiệu, một cảnh quay liên tục.
+Shot 1: Cực cận cảnh bắt đầu từ một giọt nước đọng trên bề mặt chai @Hình 1, máy quay kéo xa chậm, giọt nước trượt xuống khúc xạ ánh sáng ấm, (dây đàn môi trường trầm thấp dần lên).
+Shot 2: Máy quay tiếp tục lên cao di chuyển ngang, chai nước hoa @Hình 1 từ từ đứng trên bàn đá cẩm thạch ẩm ướt, ánh sáng ngược bên viền ngoài thân chai, <tiếng giọt nước rơi nhẹ>.
+Shot 3: Máy quay vòng quanh thân chai nửa vòng êm ái, qua mặt kính cắt cạnh thể hiện sự khúc xạ ánh hoàng hôn của chất lỏng màu vàng, đốm sáng di chuyển trên mặt bàn.
+Shot 4: Máy quay thuận thế lên cao quay toàn cảnh bố cục, lụa và cánh hoa rải trên mặt bàn, vàng hoàng hôn trải đầy khung hình, 【Hương thơm như ánh sáng Dừng lại khoảnh khắc này】.
+Shot 5: Máy quay kéo xa chậm trở lại giọt nước cận cảnh, hình ảnh mờ nhoè đóng khung ở màu vàng hoàng hôn thương hiệu, (dây đàn một âm dài kết thúc).
+Ràng buộc: Xuyên suốt một cảnh quay liên tục không cắt; thân chai theo Hình 1; tông vàng hoàng hôn và chất liệu ẩm ướt xuyên suốt.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo watermark; Mỗi shot chỉ dùng một cách vận máy; Nhân vật cần cử động tự nhiên nhẹ không phải tượng đá.
+```
+
+### No. 2: Thương hiệu thể thao truyền cảm hứng
+
+- **Category:** `Quảng Cáo Thương Hiệu / TVC`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Lấy vận động viên trong Ảnh 2 làm chủ thể, tỷ lệ dọc 9:16, tương phản cao, tông lạnh cứng cáp, phong cách đường phố có hạt, tạo quảng cáo 30 giây truyền cảm hứng cho thương hiệu thể thao.
+
+#### Prompt
+
+```text
+Tham khảo vận động viên trong Ảnh 2 làm chủ thể, tỷ lệ dọc 9:16, tương phản cao, tông lạnh cứng cáp, phong cách đường phố có hạt, tạo quảng cáo 30 giây truyền cảm hứng cho thương hiệu thể thao seedance.
+Shot 1: Cận cảnh cực gần đôi mắt vận động viên @Image 2 đột ngột mở ra trong bóng tối, góc quay ngước lên, <tiếng thở gấp>, (tiếng trống trầm đập mạnh).
+Shot 2: Máy quay nhanh theo sát vận động viên @Image 2 lao ra khỏi ngõ hẻm tối, nước bắn tung từ dưới chân, đèn đường xanh lạnh kéo thành vệt sáng, <tiếng ma sát đế giày>.
+Shot 3: Góc máy thấp ngước lên quay cảnh họ bật nhảy vượt chướng ngại vật, bóng ngược sáng lấp đầy khung hình, (tiếng trống dồn dập tăng tốc).
+Shot 4: Máy quay di chuyển ngang ổn định theo bóng chạy nước rút từ bên hông, giọt mồ hôi bắn ra dưới ánh sáng cứng, đường cơ bắp căng ra, <tiếng tim đập thình thịch>.
+Shot 5: Máy quay từ từ đẩy gần vào khuôn mặt gầm thét của họ trước vạch đích, dừng hình với tông lạnh tương phản cao, 【Vượt qua không có điểm dừng】, (tiếng trống đột ngột dứt).
+Ràng buộc: Toàn bộ ánh sáng xanh lạnh cứng, tương phản cao; vận động viên lấy Ảnh 2 làm chuẩn; nhịp điệu từ chậm, nén đến bùng nổ tiến triển.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo watermark; Mỗi shot chỉ dùng một cách vận máy; Nhân vật cần chuyển động tự nhiên nhẹ, không như tượng đá.
+```
+
+### No. 3: Công ấm áp
+
+- **Category:** `Quảng Cáo Thương Hiệu / TVC`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Tỷ lệ dọc 9:16, ánh sáng tự nhiên dịu nhẹ, tông ấm chân thực, độ sâu trường ảnh nông, tạo đoạn phim ngắn 30 giây công ấm áp, cảm xúc từ cô đơn đến được đón nhận.
+
+#### Prompt
+
+```text
+Tỷ lệ dọc 9:16, ánh sáng tự nhiên dịu nhẹ, tông ấm chân thực, độ sâu trường ảnh nông, tạo đoạn phim ngắn 30 giây công ấm áp, cảm xúc từ cô đơn đến được đón nhận.
+Shot 1: Góc máy cố định cận cảnh đôi bàn tay nhỏ nắm chặt con búp bê vải phai màu, ánh sáng ban mai chiếu xiên làm bụi bay lơ lửng, (âm đàn piano đơn lẻ nhẹ nhàng cất lên).
+Shot 2: Máy quay từ từ kéo xa, cô bé đơn độc ngồi một góc lớp học nông thôn, ánh sáng ngược ngoài cửa sổ dịu dàng, <tiếng trẻ con nô đùa ở xa>.
+Shot 3: Máy quay di chuyển ngang ổn định, một bàn tay lớn đưa ra một cây bút chì, cô bé ngập ngừng ngẩng đầu, ánh sáng ấm tràn lên má cô.
+Shot 4: Máy quay theo sát cô bé được nắm tay dẫn đến giữa lớp học, các bạn vây quanh, độ sâu trường ảnh nông làm mờ nền, (dây đàn ấm áp trải ra).
+Shot 5: Máy quay từ từ nâng cao nhìn xuống cả lớp ngồi vây quanh đọc sách cùng nhau, ánh nắng ấm trải đầy mặt đất, 【Mỗi đứa trẻ đều xứng đáng được nhìn thấy】, (âm đàn piano và dây đàn kết thúc).
+Ràng buộc: Toàn bộ ánh sáng tự nhiên dịu nhẹ tông ấm; đường cong cảm xúc từ cô đơn đến được đón nhận; độ sâu trường ảnh nông làm nổi bật nhân vật.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo watermark; Mỗi shot chỉ dùng một cách vận máy; Nhân vật cần chuyển động tự nhiên nhẹ, không như tượng đá.
+```
+
+### No. 4: Cảm giác công nghệ tài chính
+
+- **Category:** `Quảng Cáo Thương Hiệu / TVC`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Tham khảo thẻ tín dụng trong Ảnh 3 làm chủ thể, tỷ lệ ngang 16:9, tông công nghệ xanh lam đậm lạnh lùng, chất lượng cao cấp tối giản, tạo phim thương hiệu 30 giây về công nghệ tài chính.
+
+#### Prompt
+
+```text
+Tham khảo thẻ tín dụng trong Ảnh 3 làm chủ thể, tỷ lệ ngang 16:9, tông công nghệ xanh lam đậm lạnh lùng, chất lượng cao cấp tối giản, tạo phim thương hiệu 30 giây về công nghệ tài chính seedance.
+Shot 1: Cực vi tiến sát vào kết cấu chip kim loại của thẻ tín dụng @Image 3, dòng ánh sáng dữ liệu xanh lướt qua bề mặt, (xung tổng hợp tần số thấp bắt đầu).
+Shot 2: Máy quay từ từ kéo xa, thẻ tín dụng @Image 3 lơ lửng trong không gian đen tuyền, các vòng dữ liệu bán trong suốt hiện ra xung quanh, <âm thanh quét điện tử>.
+Shot 3: Máy quay ổn định bay vòng quanh thẻ một vòng, lưới ánh sáng xanh chảy theo góc nhìn, ánh sáng và bóng di chuyển dọc theo cạnh kim loại.
+Shot 4: Máy quay nhìn xuống phía dưới thẻ, đường chân trời dữ liệu thành phố mọc lên, các điểm sáng xanh lạnh kết nối thành mạng lưới, (nhịp xung tiến triển).
+Shot 5: Máy quay từ từ đẩy gần vào thẻ dừng hình tại biểu tượng thương hiệu, xanh lam đậm dần tối, 【An toàn thấy trong mỗi lần tin tưởng】, (âm dài tổng hợp kết thúc).
+Ràng buộc: Toàn bộ tông công nghệ xanh lam đậm lạnh lùng; thẻ lấy Ảnh 3 làm chuẩn; chất lượng dòng ánh sáng dữ liệu xuyên suốt.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo watermark; Mỗi shot chỉ dùng một cách vận máy; Nhân vật cần chuyển động tự nhiên nhẹ, không như tượng đá.
+```
+
+### No. 5: Đồ uống tươi mát
+
+- **Category:** `Quảng Cáo Thương Hiệu / TVC`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Tham chiếu lon đồ uống trong Ảnh 4 làm chủ thể, tỷ lệ dọc 9:16, tông màu hè tươi sáng bão hòa cao, cảm giác nước trong suốt, tạo quảng cáo đồ uống tươi mát 30 giây.
+
+#### Prompt
+
+```text
+Tham chiếu lon đồ uống trong Ảnh 4 làm chủ thể, tỷ lệ dọc 9:16, tông màu hè tươi sáng bão hòa cao, cảm giác nước trong suốt, tạo quảng cáo đồ uống tươi mát 30 giây.
+Shot 1: Cận cảnh siêu vi tốc độ cao, một giọt nước rơi xuống bề mặt lon đồ uống đã ướp lạnh @Image 4 và bắn tung tóe, góc máy ngước lên, <âm thanh nước vỡ giòn tan>, (nhịp điện tử sôi động bắt đầu).
+Shot 2: Máy quay từ từ quay vòng quanh thân lon @Image 4 phủ đầy giọt nước ngưng tụ, những giọt nước lấp lánh lăn xuống dưới ánh sáng ngược, ánh sáng mặt trời xuyên qua khúc xạ ánh sáng màu.
+Shot 3: Máy quay kéo lùi nhanh, đồ uống đổ vào ly thủy tinh đầy đá, bong bóng sủi lên, <âm thanh xèo xèo của bong bóng>.
+Shot 4: Góc máy thấp ngước lên quay cảnh tay cầm đồ uống giơ lên đón ánh nắng gay gắt, chanh và bạc hà rơi rải rác trong không trung, (nhịp điệu lên cao).
+Shot 5: Máy quay từ từ đẩy tới, dừng hình trên bong bóng ở miệng ly, màu xanh dương và vàng mùa hè bão hòa cao tràn ngập, 【Một ngụm đánh thức cả mùa hè】, (nhịp điệu kết thúc giòn tan).
+Ràng buộc: Xuyên suốt tông màu hè tươi sáng bão hòa cao; lon đồ uống phải dựa chính xác theo Ảnh 4; nhấn mạnh chất liệu trong suốt của giọt nước và bong bóng.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo watermark; Mỗi shot chỉ sử dụng một chuyển động máy; Nhân vật cần chuyển động tự nhiên nhẹ nhàng, không phải tượng đá.
+```
+
+### No. 6: Thương hiệu mẹ và bé
+
+- **Category:** `Quảng Cáo Thương Hiệu / TVC`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Tỷ lệ dọc 9:16, tông màu kem ánh sáng mềm mại tối ưu, độ sâu trường ảnh nông mơ màng, tạo video thương hiệu dịu dàng 30 giây cho thương hiệu mẹ và bé.
+
+#### Prompt
+
+```text
+Tỷ lệ dọc 9:16, tông màu kem ánh sáng mềm mại tối ưu, độ sâu trường ảnh nông mơ màng, tạo video thương hiệu dịu dàng 30 giây cho thương hiệu mẹ và bé.
+Shot 1: Góc máy cố định cận cảnh siêu vi ngón chân nhỏ xíu co quắp của em bé, ánh sáng mềm buổi sáng bao phủ như tấm voan, (âm thanh trong trẻo của hộp nhạc nhẹ nhàng bắt đầu).
+Shot 2: Máy quay từ từ kéo lùi, người mẹ ôm đứa trẻ đang ngủ say và nhẹ nhàng đung đưa, ánh sáng khuếch tán mờ ảo xuyên qua rèm cửa, <tiếng thở nhỏ nhẹ của em bé>.
+Shot 3: Máy quay di chuyển ngang ổn định, người mẹ cúi đầu hôn lên trán em bé, ánh sáng ấm màu kem tràn qua đường nét của hai người.
+Shot 4: Máy quay từ từ nâng cao góc nhìn từ trên xuống quay cảnh mẹ con dựa vào nhau bên nôi, vải cotton mềm mại tràn đầy khung hình, (dây đàn nhẹ nhàng gia nhập).
+Shot 5: Máy quay từ từ đẩy tới gần nụ cười nở rộ của em bé, ánh sáng mềm bị phơi sáng quá mức tạo hiệu ứng nhòe, 【Dịu dàng là sự bảo vệ đầu tiên】, (hộp nhạc và dây đàn kết thúc).
+Ràng buộc: Xuyên suốt ánh sáng mềm mại tối ưu màu kem; Chất liệu mơ màng với độ sâu trường ảnh nông; Cảm xúc yên bình dịu dàng từ đầu đến cuối.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo watermark; Mỗi shot chỉ sử dụng một chuyển động máy; Nhân vật cần chuyển động tự nhiên nhẹ nhàng, không phải tượng đá.
+```
+
+<a id="category-18"></a>
+
+### Du Lịch / Văn Hóa Du Lịch (6)
+
+### No. 1: Cảnh quay trên không một mạch phố cổ
+
+- **Category:** `Du Lịch / Văn Hóa Du Lịch`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Tỷ lệ ngang 16:9, tông màu xám xanh mực nho, cảm giác điện ảnh thơ mộng sương sớm, tạo video quảng bá du lịch phố cổ quay trên không 30 giây, một cảnh quay một mạch.
+
+#### Prompt
+
+```text
+Tỷ lệ ngang 16:9, tông màu xám xanh mực nho, cảm giác điện ảnh thơ mộng sương sớm, tạo video quảng bá du lịch phố cổ quay trên không 30 giây, một cảnh quay một mạch.
+Shot 1: Quay trên không cực thấp lướt qua con hẻm nước lát đá xanh, một chiếc thuyền thúng phá nước mà đến trong làn sương sớm, (một tiếng gảy đàn tranh trong trẻo bắt đầu).
+Shot 2: Máy quay thuận thế từ từ nâng cao, những bức tường hồng mái ngói đen tường đầu ngựa xếp lớp mở ra, khói bếp bốc lên từ ngõ hẻm, <tiếng mái chèo khua nước>.
+Shot 3: Máy quay di chuyển ngang ổn định vượt qua cây cầu vòm, dưới cầu bóng người giặt đồ thấp thoáng, bóng nước gợn sóng trên mặt nước.
+Shot 4: Máy quay tiếp tục bay lên không trung quay vòng quanh toàn cảnh phố cổ, con sông uốn lượn như mạch máu, sương sớm tràn qua những nóc nhà xám xanh, (tiếng sáo vi vút xa xăm gia nhập).
+Shot 5: Máy quay từ từ kéo cao nhìn xuống dừng hình cảnh phố cổ được bao bọc bởi núi non, màu xám xanh mực nho loang ra chân trời, 【Ngàn năm một giấc mộng, nằm tựa bên dòng nước】, (tiếng đàn tranh và sáo kết thúc).
+Ràng buộc: Xuyên suốt một cảnh quay một mạch trên không không cắt; Tông màu xám xanh mực nho và sương sớm xuyên suốt; Bố cục thơ mộng phương Đông với khoảng trống.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo watermark; Mỗi shot chỉ sử dụng một chuyển động máy; Nhân vật cần chuyển động tự nhiên nhẹ nhàng, không phải tượng đá.
+```
+
+### No. 2: Kỳ nghỉ đảo
+
+- **Category:** `Du Lịch / Văn Hóa Du Lịch`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Tỷ lệ ngang 16:9, tông nhiệt đới bão hòa cao trong suốt, chất nắng tươi sáng, tạo video du lịch kỳ nghỉ đảo dài 30 giây.
+
+#### Prompt
+
+```text
+Tỷ lệ ngang 16:9, tông nhiệt đới bão hòa cao trong suốt, chất nắng tươi sáng, tạo video du lịch kỳ nghỉ đảo dài 30 giây.
+Shot 1: Cận cảnh vi mô dưới nước của những tia nắng xuyên qua làn nước xanh biếc, đàn cá bơi qua thoắt ẩn thoắt hiện, (âm thanh ukulele du dương bắt đầu).
+Shot 2: Máy quay từ từ nâng lên khỏi mặt nước, lộ ra bãi cát trắng, rừng dừa và đầm phá trong vắt, drone kéo lùi ổn định, <tiếng sóng vỗ bờ>.
+Shot 3: Máy quay bay thấp theo sát một người nhảy xuống vùng biển nông trong suốt, nước bắn tung tóe tạo ra những gợn sóng, ánh nắng trải đầy mặt nước.
+Shot 4: Máy quay từ từ bay lên cao và bay vòng quanh nhìn xuống vịnh hình lưỡi liềm, thuyền buồm lướt qua làn nước xanh lục, (nhịp điệu nhẹ nhàng tươi sáng).
+Shot 5: Máy quay đẩy gần vào bóng người cầm ly nâng lên dưới ánh hoàng hôn trên bãi biển, quầng sáng vàng ấm trải đầy, 【Hãy để những muộn phiền ở lại phía bên kia bờ】, (âm thanh ukulele kết thúc).
+Ràng buộc: Toàn bộ tông nhiệt đới bão hòa cao trong suốt; nhấn mạnh chất nước biển xanh biếc trong vắt; tâm trạng nhẹ nhàng tươi sáng.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo watermark; Mỗi shot chỉ sử dụng một chuyển động máy; Nhân vật cần chuyển động tự nhiên nhẹ, không phải tượng đá.
+```
+
+### No. 3: Núi tuyết thanh khiết
+
+- **Category:** `Du Lịch / Văn Hóa Du Lịch`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Tỷ lệ ngang 16:9, tông xanh trắng tuyết tương phản cao lạnh lẽo, cảm giác cực kỳ trong suốt hoành tráng, tạo video du lịch văn hóa sử thi núi tuyết dài 30 giây.
+
+#### Prompt
+
+```text
+Tỷ lệ ngang 16:9, tông xanh trắng tuyết tương phản cao lạnh lẽo, cảm giác cực kỳ trong suốt hoành tráng, tạo video du lịch văn hóa sử thi núi tuyết dài 30 giây.
+Shot 1: Cận cảnh vi mô cực gần một mặt tinh thể băng sắc nhọn trong bão tuyết, ánh sáng ngược xanh lạnh lấp lánh, <tiếng gió rít lạnh lẽo>, (giọng hát hợp xướng trầm bắt đầu).
+Shot 2: Máy quay từ từ kéo lùi, ngọn núi tuyết cô độc xuyên thủng biển mây đứng sừng sững ở chân trời, ánh bình minh nhuộm viền vàng cho đỉnh núi, khung cảnh rộng lớn.
+Shot 3: Máy quay drone bay ngang ổn định lướt qua những sống núi tuyết trải dài, gió cuốn sương tuyết bay như dải lụa, bóng xanh lạnh và sáng tối phân biệt rõ ràng.
+Shot 4: Máy quay từ từ bay lên cao nhìn xuống khe nứt sông băng uốn lượn chảy xuống, băng xanh sâu thẳm trong suốt, (hợp xướng lớp lớp dâng trào hoành tráng).
+Shot 5: Máy quay ngước lên định hình ở đỉnh núi vàng dưới ánh mặt trời, nơi giao thoa giữa trắng lạnh và vàng ấm có ánh sáng thánh đổ xuống, 【Vươn lên chỉ để chạm vào sự thuần khiết】, (giọng hát ngân dài kết thúc).
+Ràng buộc: Toàn bộ tông xanh trắng tuyết tương phản cao lạnh lẽo; Bố cục hoành tráng rộng lớn; Chất tinh thể băng và núi vàng dưới ánh mặt trời là điểm nhấn.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo watermark; Mỗi shot chỉ sử dụng một chuyển động máy; Nhân vật cần chuyển động tự nhiên nhẹ, không phải tượng đá.
+```
+
+### No. 4: Cảnh đêm thành phố
+
+- **Category:** `Du Lịch / Văn Hóa Du Lịch`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Tỷ lệ ngang 16:9, tông neon cyberpunk bão hòa cao, cảm giác đô thị ẩm ướt phản quang, tạo video du lịch cảnh đêm thành phố dài 30 giây.
+
+#### Prompt
+
+```text
+Tỷ lệ ngang 16:9, tông neon cyberpunk bão hòa cao, cảm giác đô thị ẩm ướt phản quang, tạo video du lịch cảnh đêm thành phố dài 30 giây.
+Shot 1: Cận cảnh vi mô cực hạn của giọt mưa trượt trên kính, phía sau những đốm sáng neon loang thành cụm sáng mê hoặc, (âm thanng tổng hợp điện tử xung động bắt đầu).
+Shot 2: Máy quay từ từ kéo lùi xuyên qua cửa sổ, drone nhìn xuống con phố sầm uất được dệt bởi những vệt sáng xe cộ sau cơn mưa, <tiếng xe cộ rít qua>.
+Shot 3: Máy quay drone bay lên cao ổn định vòng quanh cụm tòa nhà chọc trời, mặt kính phản chiếu ánh neon, ánh sáng và bóng đổ chồng lớp lấp lánh.
+Shot 4: Máy quay bay thấp theo sát người đi bộ cầm ô trong con hẻm neon, mặt đất ẩm ướt phản chiếu ánh đèn ngũ sắc, (nhịp điệu tiến tới).
+Shot 5: Máy quay từ từ kéo cao nhìn xuống toàn cảnh biển đèn của thành phố không ngủ định hình, ánh neon mạch đập như hơi thở, 【Dưới ánh đèn đều là câu chuyện】, (âm tổng hợp kết thúc).
+Ràng buộc: Toàn bộ tông neon cyberpunk bão hòa cao; Chất ẩm ướt phản quang xuyên suốt; Vệt sáng và tầng lớp neon phong phú.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo watermark; Mỗi shot chỉ sử dụng một chuyển động máy; Nhân vật cần chuyển động tự nhiên nhẹ, không phải tượng đá.
+```
+
+### No. 5: Đoàn lạc đà trên sa mạc
+
+- **Category:** `Du Lịch / Văn Hóa Du Lịch`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Tỷ lệ ngang 16:9, tông màu sa mạc vàng cam ấm, tỷ lệ ánh sáng tương phản cao ngược sáng cảm giác sử thi, tạo video du lịch sa mạc 30 giây.
+
+#### Prompt
+
+```text
+Tỷ lệ ngang 16:9, tông màu sa mạc vàng cam ấm, tỷ lệ ánh sáng tương phản cao ngược sáng cảm giác sử thi, tạo video du lịch sa mạc 30 giây.
+Shot 1: Cận cảnh cực gần cát mịn chảy xối xả qua kẽ tay, ngược sáng từng hạt cát lấp lánh ánh vàng, (âm nhạc dây xa xăm và tiếng trống tay).
+Shot 2: Ống kính từ từ kéo xa, một đoàn lạc đà bước đi chậm rãi thành bóng cắt trên những đụn cát nhấp nhô, mặt trời lặn khổng lồ thấp trên đường chân trời, <tiếng chuông lạc đà leng keng>.
+Shot 3: Ống kính quay từ trên không nhìn xuống bóng dài xiên của đoàn lạc đà trên sống cát, đường cong đụn cát mềm mại như lụa.
+Shot 4: Ống kính góc thấp ngước lên bóng cắt ngược sáng của người dẫn đầu lạc đà tiến về phía trước trong gió, gió cuốn bụi cát bay, (nhịp trống tay mạnh dần).
+Shot 5: Ống kính từ từ bay lên cao nhìn xuống đoàn lạc đà chìm vào biển cát vàng rộng lớn vô tận định hình, màu vàng cam ấm áp phủ đầy trời đất, 【Xuyên qua hoang vu chỉ để thấy được mênh mông】, (âm nhạc dây và trống tay kết thúc).
+Ràng buộc: Toàn bộ tông màu vàng cam ấm tỷ lệ ánh sáng tương phản cao ngược sáng; Đường cong đụn cát và bóng cắt đoàn lạc đà là trọng tâm bố cục; Cảm xúc sử thi xa vời.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo watermark; Mỗi shot chỉ dùng một cách vận hành máy quay; Nhân vật cần chuyển động tự nhiên nhẹ nhàng không phải tượng đá.
+```
+
+### No. 6: Tuần hành ẩm thực đường phố (một shot)
+
+- **Category:** `Du Lịch / Văn Hóa Du Lịch`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Tỷ lệ dọc 9:16, tông màu ấm cam khói lửa bão hòa cao, chất sống động đời thường, tạo video tuần hành ẩm thực đường phố 30 giây, một shot quay xuyên suốt.
+
+#### Prompt
+
+```text
+Tỷ lệ dọc 9:16, tông màu ấm cam khói lửa bão hòa cao, chất sống động đời thường, tạo video tuần hành ẩm thực đường phố 30 giây, một shot quay xuyên suốt.
+Shot 1: Cận cảnh cực gần bắt đầu từ nguyên liệu trên vỉ nóng xèo xèo bắn dầu, ống kính từ từ kéo xa, hơi nóng bốc lên, <tiếng dầu nổ lách tách>, (âm nhạc gõ vui vẻ đời thường bắt đầu).
+Shot 2: Ống kính thuận thế di chuyển ngang ổn định xuyên qua chợ đêm nhộn nhịp, dưới dây đèn vàng ấm chủ quán đảo lửa bùng lên, <tiếng ồn ào huyên náo tiếng rao bán>.
+Shot 3: Ống kính tiếp tục theo quay len vào ngõ hẻm, lướt qua nắp xửng hấp mở ra hơi trắng cuộn lên, xiên nướng than hồng rực, khói lửa lan tỏa.
+Shot 4: Ống kính từ từ vòng quanh một bàn thực khách đang ăn uống ngon lành, chạm cốc cười vui, ánh đèn cam ấm phản chiếu đầy nụ cười, (nhịp âm nhạc gõ vui tươi).
+Shot 5: Ống kính thuận thế bay lên cao nhìn xuống toàn cảnh con phố ẩm thực dài đèn sáng rực định hình, dòng người tấp nập, 【Khói lửa nhân gian an ủi lòng phàm nhất】, (âm nhạc gõ kết thúc).
+Ràng buộc: Toàn bộ một shot quay xuyên suốt vận hành máy quay liên tục không cắt; Tông màu ấm cam khói lửa bão hòa cao; Hơi nóng, lửa, khói lửa xuyên suốt.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo watermark; Mỗi shot chỉ dùng một cách vận hành máy quay; Nhân vật cần chuyển động tự nhiên nhẹ nhàng không phải tượng đá.
+```
+
+<a id="category-19"></a>
+
+### Thú Cưng / Động Vật (5)
+
+### No. 1: Cận cảnh mèo dễ thương
+
+- **Category:** `Thú Cưng / Động Vật`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Lấy chú mèo @Image 1 làm chủ thể, tỷ lệ dọc 9:16, dòng đời sống mềm mại, tông màu trắng be nắng ấm + độ sâu trường ảnh nông, tạo video ngắn thú cưng dễ thương chữa lành 30 giây.
+
+#### Prompt
+
+```text
+Lấy chú mèo @Image 1 làm chủ thể, tỷ lệ dọc 9:16, dòng đời sống mềm mại, tông màu trắng be nắng ấm + độ sâu trường ảnh nông, tạo video ngắn thú cưng dễ thương chữa lành 30 giây.
+Shot 1: Cận cảnh, chú mèo @Image 1 đột nhiên mở to đồng tử nhìn thẳng vào ống kính, máy quay cố định, (âm thanh đơn lẻ của đàn celesta trong trẻo) <tiếng mèo kêu "meo" mềm mại>.
+Shot 2: Cận cảnh cực gần, mũi hồng của chú mèo @Image 1 khẽ động đậy, râu rung nhẹ, ống kính từ từ đẩy gần, <tiếng thở mũi nhỏ>.
+Shot 3: Cảnh trung, chú mèo @Image 1 giơ chân ấn lên chiếc lông vũ rơi xuống, ống kính di chuyển ngang ổn định, (nhịp đàn celesta nhẹ nhàng vui tươi).
+Shot 4: Cận cảnh, chú mèo @Image 1 ngáp một cái lộ chiếc lưỡi nhỏ, ống kính từ từ kéo xa, <tiếng kêu gừ gừ thỏa mãn>.
+Shot 5: Toàn cảnh, chú mèo @Image 1 cuộn tròn ngủ say, ống kính từ từ bay lên nhìn xuống định hình, (âm nhạc nhỏ dần) 【Hôm nay cũng phải nghỉ ngơi thật tốt】.
+Ràng buộc: Màu lông và hoa văn của mèo phải nhất quán với Image 1 xuyên suốt, đồng tử và mũi giữ màu hồng, cấm thay đổi giống loài và màu sắc.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo watermark; Mỗi shot chỉ dùng một cách vận hành máy quay; Nhân vật cần chuyển động tự nhiên nhẹ nhàng không phải tượng đá.
+```
+
+### No. 2: Chó Con Chạy
+
+- **Category:** `Thú Cưng / Động Vật`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Lấy chú chó @Image 1 làm chủ thể, màn hình ngang 16:9, bắt nét chuyển động, đồng cỏ ánh sáng ngược vàng + cảm giác hạt tốc độ cao, tạo video 30 giây chạy sôi động.
+
+#### Prompt
+
+```text
+Lấy chú chó @Image 1 làm chủ thể, màn hình ngang 16:9, bắt nét chuyển động, đồng cỏ ánh sáng ngược vàng + cảm giác hạt tốc độ cao, tạo video 30 giây chạy sôi động.
+Shot 1: Cận cảnh góc máy thấp, chú chó @Image 1 dùng chân sau đạp đất bùng nổ khởi động làm bắn mảnh cỏ, góc máy cố định, (tiếng trống dồn dập nổi lên) <âm thanh bước chân chạm đất đục>.
+Shot 2: Toàn cảnh, chú chó @Image 1 duỗi chân chạy ngang qua đồng cỏ, máy quay di chuyển ngang ổn định bắt nét, <tiếng gió ùa vào tai>.
+Shot 3: Cảnh trung bình bám theo, chú chó @Image 1 tai ngả về sau, lưỡi vung ra, máy quay góc thấp bám theo, (nhịp điệu tăng tốc).
+Shot 4: Cận cảnh, chú chó @Image 1 bay qua con suối nhỏ nước bắn tung tóe, máy quay từ từ đẩy gần chuyển động chậm tăng cấp, <tiếng nước bắn rơi>.
+Shot 5: Toàn cảnh, chú chó @Image 1 lao về phía máy quay dừng gấp ngồi xuống thở hổn hển nhe răng, máy quay từ từ kéo xa đóng khung, (âm nhạc kết thúc) <tiếng thở vui vẻ>.
+Ràng buộc: Giống chó và màu lông phải nhất quán với Image 1 xuyên suốt, dáng chạy phù hợp với cơ học bốn chân thực tế, cấm trôi nổi trượt bước.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo watermark; Mỗi shot chỉ dùng một cách vận máy; Nhân vật cần cử động tự nhiên nhẹ không như tượng đá.
+```
+
+### No. 3: Đàn Cá Dưới Nước
+
+- **Category:** `Thú Cưng / Động Vật`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Lấy đàn cá nhiệt đới rạn san hô @Image 1 làm chủ thể, màn hình ngang 16:9, quay phim dưới nước cấp độ tài liệu, cột ánh sáng Tyndall + màu nước xanh lam trong suốt, tạo video 30 giây khám phá đáy biển.
+
+#### Prompt
+
+```text
+Lấy đàn cá nhiệt đới rạn san hô @Image 1 làm chủ thể, màn hình ngang 16:9, quay phim dưới nước cấp độ tài liệu, cột ánh sáng Tyndall + màu nước xanh lam trong suốt, tạo video 30 giây khám phá đáy biển.
+Shot 1: Cận cảnh, một con cá hề @Image 1 thò đầu ra từ giữa các xúc tu hải quỳ, góc máy cố định, (âm nhạc giọt nước thanh thoát nổi lên) <tiếng bong bóng ùng ục>.
+Shot 2: Toàn cảnh, đàn cá nhiệt đới @Image 1 tụ lại thành vòng xoáy bạc, máy quay từ từ bay vòng quanh, <tiếng dòng nước chảy>.
+Shot 3: Cảnh trung bình, đàn cá @Image 1 cùng chuyển hướng bơi xuyên qua cột ánh sáng, máy quay di chuyển ngang ổn định xuyên qua, (dây đàn trải ra).
+Shot 4: Toàn cảnh quay ngược lên, đàn cá @Image 1 bơi về phía mặt nước thành bóng cắt, máy quay từ từ nâng lên quay ngược, <tiếng ù tần số thấp vực sâu>.
+Shot 5: Cận cảnh, con cá hề @Image 1 một mình bơi trở lại dừng ở hải quỳ, máy quay từ từ kéo xa đóng khung, (âm nhạc mờ dần).
+Ràng buộc: Sọc cam trắng của cá hề và màu sắc rạn san hô phải theo Image 1, chuyển động của đàn cá giữ tự nhiên không chồng lấn xuyên mô hình, cấm hàng lối nhân bản ngay ngắn.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo watermark; Mỗi shot chỉ dùng một cách vận máy; Nhân vật cần cử động tự nhiên nhẹ không như tượng đá.
+```
+
+### No. 4: Cận Cảnh Chim
+
+- **Category:** `Thú Cưng / Động Vật`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Lấy chim ruồi @Image 1 làm chủ thể, màn hình dọc 9:16, quay phim siêu cận cảnh tốc độ cao, bụi hoa sương mai + nền mờ kem, tạo video 30 giây sinh thái vi mô.
+
+#### Prompt
+
+```text
+Lấy chim ruồi @Image 1 làm chủ thể, màn hình dọc 9:16, quay phim siêu cận cảnh tốc độ cao, bụi hoa sương mai + nền mờ kem, tạo video 30 giây sinh thái vi mô.
+Shot 1: Cận cảnh siêu vi, chim ruồi @Image 1 lơ lửng vỗ cánh hóa thành vòng cung trong suốt, góc máy cố định, (âm bội đàn hạc nổi lên) <tiếng vỗ cánh tần số cao vang vọng>.
+Shot 2: Cận cảnh, chim ruồi @Image 1 dùng mỏ dài thon thò vào nhụy hoa hút mật, máy quay từ từ đẩy gần, <cánh hoa rung nhẹ>.
+Shot 3: Cận cảnh siêu vi, lông cổ họng chim ruồi @Image 1 đổi màu cầu vồng theo góc độ, máy quay từ từ bay vòng quanh, (âm trượt đàn hạc).
+Shot 4: Cảnh trung bình, chim ruồi @Image 1 rũ giọt sương mai trên người, máy quay di chuyển ngang ổn định chuyển động chậm tăng cấp, <giọt nước rơi>.
+Shot 5: Toàn cảnh, chim ruồi @Image 1 đột ngột bắn đi bay khỏi khung hình, máy quay từ từ kéo xa đóng khung cành trống, (âm nhạc kết thúc).
+Ràng buộc: Màu lông cầu vồng và hình dạng mỏ chim ruồi phải theo Image 1, vỗ cánh thể hiện vệt mờ tốc độ cao thực tế, cấm cánh đóng khung cứng nhắc.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo watermark; Mỗi shot chỉ dùng một cách vận máy; Nhân vật cần cử động tự nhiên nhẹ không như tượng đá.
+```
+
+### No. 5: Thú cưng nhân hóa
+
+- **Category:** `Thú Cưng / Động Vật`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Lấy chú chó Shiba đội mũ đầu bếp @Image 1 làm chủ thể, tỷ lệ dọc 9:16, phong cách hoạt hình 3D Pixar, ánh sáng bếp ấm áp + highlight bão hòa, tạo video ngắn hài hước nhân hóa 30 giây. Khóa chặt render hoạt hình 3D, cấm lệch sang phong cách hiện thực.
+
+#### Prompt
+
+```text
+Lấy chú chó Shiba đội mũ đầu bếp @Image 1 làm chủ thể, tỷ lệ dọc 9:16, phong cách hoạt hình 3D Pixar, ánh sáng bếp ấm áp + highlight bão hòa, tạo video ngắn hài hước nhân hóa 30 giây. Khóa chặt render hoạt hình 3D, cấm lệch sang phong cách hiện thực.
+Shot 1: Cận cảnh, chó Shiba @Image 1 đội mũ đầu bếp lệch nghiêm túc nhìn chảo, máy quay cố định, (âm thanh kèn bassoon hài hước) {"Hôm nay, tung chảo!"}.
+Shot 2: Trung cảnh, chó Shiba @Image 1 dùng hai chân trước cầm chảo tung mạnh nguyên liệu bay lên trời, máy quay từ từ đẩy gần, <dầu mỡ xèo xèo>.
+Shot 3: Toàn cảnh, chó Shiba @Image 1 ngửa đầu há mồm đón nhưng nguyên liệu rơi hết lên mặt, máy quay cố định, (hiệu ứng âm thanh "ting") <bẹp một cái dính đầy mặt>.
+Shot 4: Cận cảnh, chó Shiba @Image 1 mặt đầy bột nhão ngơ ngác chớp mắt, máy quay từ từ đẩy gần, {"...cũng được."}.
+Shot 5: Trung cảnh, chó Shiba @Image 1 bình tĩnh bưng ra món ăn cháy đen dâng tặng, máy quay từ từ kéo xa đóng khung, (kết vui vẻ) 【Thần bếp lật tàu·Shiba】.
+Ràng buộc: Màu lông chó Shiba và mũ đầu bếp phải nhất quán với Image 1 trong suốt video, khóa chặt phong cách hoạt hình 3D, biểu cảm ngũ quan nhân hóa phóng đại nhưng tỷ lệ thống nhất, cấm chuyển sang hiện thực giữa chừng.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo watermark; Mỗi shot chỉ dùng một cách vận máy; Nhân vật cần có chuyển động tự nhiên nhẹ, không phải tượng đá.
+```
+
+<a id="category-20"></a>
+
+### Trẻ Em / Giáo Dục / Khoa Học Phổ Thông (5)
+
+### No. 1: Khoa học thám hiểm Sao Hỏa
+
+- **Category:** `Trẻ Em / Giáo Dục / Khoa Học Phổ Thông`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Lấy xe thám hiểm Sao Hỏa @Image 1 làm chủ thể, tỷ lệ ngang 16:9, CG khoa học thực tế, bề mặt sao rỉ sét + bầu trời sao tông lạnh, tạo video khoa học vũ trụ 30 giây.
+
+#### Prompt
+
+```text
+Lấy xe thám hiểm Sao Hỏa @Image 1 làm chủ thể, tỷ lệ ngang 16:9, CG khoa học thực tế, bề mặt sao rỉ sét + bầu trời sao tông lạnh, tạo video khoa học vũ trụ 30 giây.
+Shot 1: Toàn cảnh, xe thám hiểm @Image 1 đứng yên trên đường chân trời hoang mạc đỏ, máy quay từ từ nâng lên, (âm nhạc tổng hợp hoành tráng) <gió Sao Hỏa rít nhẹ>.
+Shot 2: Cận cảnh, xe thám hiểm @Image 1 sáu bánh lăn qua đá sỏi di chuyển chậm, máy quay góc thấp bám theo, <tiếng kêu cót két cơ khí>.
+Shot 3: Trung cảnh, xe thám hiểm @Image 1 cánh tay robot vươn ra thu thập mẫu đá, máy quay từ từ đẩy gần, (dây đàn mạnh dần) 【Khoan lấy mẫu·Phân tích thành phần】.
+Shot 4: Góc ngước, xe thám hiểm @Image 1 nâng cột camera nhìn lên bầu trời, máy quay từ từ bay vòng quanh, <tiếng bíp bíp dữ liệu>.
+Shot 5: Toàn cảnh, xe thám hiểm @Image 1 hướng về phía miệng hố va chạm phía xa, máy quay từ từ kéo xa góc nhìn từ trên cao đóng khung, (âm nhạc thăng hoa) 【Điểm đến tiếp theo: Chưa biết】.
+Ràng buộc: Cấu trúc và phối màu xe thám hiểm phải nhất quán với Image 1 trong suốt video, bề mặt Sao Hỏa phù hợp với bụi bay trong trọng lực thấp thực tế, cấm xuất hiện thực vật Trái Đất hay bầu trời xanh.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo watermark; Mỗi shot chỉ dùng một cách vận máy; Nhân vật cần có chuyển động tự nhiên nhẹ, không phải tượng đá.
+```
+
+### No. 2: Minh họa cơ quan cơ thể người
+
+- **Category:** `Trẻ Em / Giáo Dục / Khoa Học Phổ Thông`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Lấy mô hình tim 3D @Image 1 làm chủ thể, tỷ lệ ngang 16:9, hình ảnh hóa y học, kết cấu bán trong suốt + ánh sáng mạch máu đỏ tươi trên nền tối, tạo video khoa học cơ thể người 30 giây. Khóa chặt phong cách 3D y học bán trong suốt, cấm lệch sang hiện thực đẫm máu.
+
+#### Prompt
+
+```text
+Lấy mô hình tim 3D @Image 1 làm chủ thể, tỷ lệ ngang 16:9, hình ảnh hóa y học, kết cấu bán trong suốt + ánh sáng mạch máu đỏ tươi trên nền tối, tạo video khoa học cơ thể người 30 giây. Khóa chặt phong cách 3D y học bán trong suốt, cấm lệch sang hiện thực đẫm máu.
+Shot 1: Toàn cảnh, trái tim @Image 1 lơ lửng trong không gian tối đập nhẹ nhàng, máy quay từ từ bay vòng quanh, (âm nhạc xung tần số thấp) <tiếng tim đập thình thịch>.
+Shot 2: Cận cảnh, bề mặt trái tim @Image 1 động mạch vành nổi bật hiện lên, máy quay từ từ đẩy gần, 【Động mạch vành·Cung cấp máu】.
+Shot 3: Trung cảnh mặt cắt, trái tim @Image 1 trong suốt hóa lộ ra dòng máu trong bốn buồng, máy quay di chuyển ngang ổn định, <tiếng máu chảy cuồn cuộn>.
+Shot 4: Cận cảnh, van hai lá của trái tim @Image 1 đóng mở theo nhịp, máy quay cố định, (nhịp điệu đồng bộ với tim đập).
+Shot 5: Toàn cảnh, trái tim @Image 1 khôi phục nguyên vẹn tiếp tục đập, máy quay từ từ kéo xa đóng khung, (âm nhạc ổn định) 【Khoảng 100.000 lần đập mỗi ngày】.
+Ràng buộc: Cấu trúc giải phẫu tim và vị trí các buồng phải chính xác khoa học theo Image 1, giữ phong cách minh họa bán trong suốt, cấm hiện thực đẫm máu hoặc cấu trúc sai lệch.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo watermark; Mỗi shot chỉ dùng một cách vận máy; Nhân vật cần có chuyển động tự nhiên nhẹ, không phải tượng đá.
+```
+
+### No. 3: Hoạt hình sách tranh thiếu nhi
+
+- **Category:** `Trẻ Em / Giáo Dục / Khoa Học Phổ Thông`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Lấy chú gấu @Image 1 làm chủ thể, tỷ lệ dọc 9:16, phong cách vẽ tay 2D sách tranh, vân giấy màu nước + viền sáp màu ấm, tạo hoạt hình câu chuyện trước khi ngủ dài 30 giây. Khóa chặt phong cách vẽ tay màu nước 2D, cấm chuyển sang hiện thực trôi nổi hoặc 3D.
+
+#### Prompt
+
+```text
+Lấy chú gấu @Image 1 làm chủ thể, tỷ lệ dọc 9:16, phong cách vẽ tay 2D sách tranh, vân giấy màu nước + viền sáp màu ấm, tạo hoạt hình câu chuyện trước khi ngủ dài 30 giây. Khóa chặt phong cách vẽ tay màu nước 2D, cấm chuyển sang hiện thực trôi nổi hoặc 3D.
+Shot 1: Cảnh trung, chú gấu @Image 1 mở cửa nhà gỗ nhìn ra bầu trời sao, máy quay cố định, (giai điệu hộp nhạc vang lên) {"Đêm nay sao thật sáng."}.
+Shot 2: Toàn cảnh, chú gấu @Image 1 cầm chiếc đèn lồng nhỏ đi qua con đường nhỏ giữa đám hoa, máy quay di chuyển ngang ổn định, <tiếng xào xạc của lá cỏ>.
+Shot 3: Cận cảnh, chú gấu @Image 1 ngẩng đầu nhìn một ngôi sao băng vụt qua, máy quay từ từ đẩy vào gần, (tiếng 'ding dong') 【Hãy ước một điều】.
+Shot 4: Cảnh trung, chú gấu @Image 1 nhắm mắt chắp tay cầu nguyện, máy quay từ từ bay vòng quanh, <làn gió đêm nhẹ nhàng>.
+Shot 5: Toàn cảnh, chú gấu @Image 1 nằm xuống bãi cỏ đắp chăn lá đi vào giấc ngủ, máy quay từ từ bay lên chụp từ trên xuống đóng khung, (giai điệu hộp nhạc nhỏ dần) {"Chúc ngủ ngon, những ngôi sao nhỏ."}.
+Ràng buộc: Hình dáng và phối màu của chú gấu phải nhất quán với Image 1 trong suốt video, khóa chặt nét vẽ tay màu nước 2D, giữ lại viền và vân giấy, cấm chuyển sang 3D hoặc hiện thực hóa.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo hình mờ; Mỗi shot chỉ sử dụng một kiểu vận động máy; Nhân vật cần chuyển động tự nhiên nhẹ, không như tượng đá.
+```
+
+### No. 4: Trình diễn thí nghiệm vật lý
+
+- **Category:** `Trẻ Em / Giáo Dục / Khoa Học Phổ Thông`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Lấy quả cầu kim loại con lắc Newton @Image 1 làm chủ thể, tỷ lệ ngang 16:9, hiện thực trình diễn khoa học tự nhiên, phông trắng phòng thí nghiệm tinh khiết + ánh sáng cứng ngược bên, tạo video khoa học vật lý dài 30 giây.
+
+#### Prompt
+
+```text
+Lấy quả cầu kim loại con lắc Newton @Image 1 làm chủ thể, tỷ lệ ngang 16:9, hiện thực trình diễn khoa học tự nhiên, phông trắng phòng thí nghiệm tinh khiết + ánh sáng cứng ngược bên, tạo video khoa học vật lý dài 30 giây.
+Shot 1: Cận cảnh, một quả cầu đầu con lắc Newton @Image 1 được nâng lên lơ lửng, máy quay cố định, (âm nhạc tích tắc hồi hộp vang lên) <tiếng nhẹ ngón tay thả ra>.
+Shot 2: Cảnh trung, quả cầu @Image 1 đung đưa xuống va chạm truyền năng lượng trong khoảnh khắc, máy quay từ từ đẩy vào gần chuyển động chậm tốc độ cao, <tiếng va chạm kim loại thanh trong>.
+Shot 3: Cận cảnh, quả cầu đầu bên kia @Image 1 bị bật lên không trung, máy quay ổn định theo dõi quay lên, (hiệu ứng âm thanh "ting") 【Bảo toàn động lượng】.
+Shot 4: Toàn cảnh, con lắc Newton @Image 1 hai đầu đung đưa qua lại luân phiên, máy quay từ từ bay vòng quanh, <tiếng va chạm nhịp điệu đều đặn>.
+Shot 5: Cảnh trung, biên độ đung đưa của quả cầu @Image 1 dần nhỏ đi và dừng lại, máy quay từ từ kéo ra xa đóng khung, (âm nhạc kết thúc) 【Năng lượng được truyền qua va chạm】.
+Ràng buộc: Số lượng quả cầu kim loại và cấu trúc giá đỡ phải theo đúng Image 1, chuyển động đung đưa tuân theo quy luật vật lý bảo toàn động lượng thực tế, cấm bay lơ lửng hoặc khuếch đại vi phạm cơ học.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo hình mờ; Mỗi shot chỉ sử dụng một kiểu vận động máy; Nhân vật cần chuyển động tự nhiên nhẹ, không như tượng đá.
+```
+
+### No. 5: Tái hiện cảnh lịch sử
+
+- **Category:** `Trẻ Em / Giáo Dục / Khoa Học Phổ Thông`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Lấy đấu trường La Mã cổ đại @Image 1 làm chủ thể, tỷ lệ ngang 16:9, tái hiện lịch sử sử thi, ánh sáng hoàng hôn vàng bụi + hạt phim cũ, tạo phim tài liệu lịch sử dài 30 giây.
+
+#### Prompt
+
+```text
+Lấy đấu trường La Mã cổ đại @Image 1 làm chủ thể, tỷ lệ ngang 16:9, tái hiện lịch sử sử thi, ánh sáng hoàng hôn vàng bụi + hạt phim cũ, tạo phim tài liệu lịch sử dài 30 giây.
+Shot 1: Toàn cảnh, đấu trường @Image 1 tắm trong ánh tà dương hoàng hôn sừng sững hiên ngang, máy quay từ từ bay lên quay từ trên không, (tiếng ngâm nga giọng người sử thi vang lên) <tiếng gió cổ xưa>.
+Shot 2: Cảnh trung, khán đài đấu trường @Image 1 từ tàn phá dần dần "mọc lên" phục nguyên thành chỗ ngồi đầy ắp, máy quay từ từ đẩy vào gần, <tiếng ồn ào huyên náo của đám đông dâng lên>.
+Shot 3: Cận cảnh, chi tiết hoa văn chạm khắc trên cổng vòm đá của đấu trường @Image 1, máy quay di chuyển ngang ổn định, (tiếng trống mạnh dần) 【Năm 80 sau Công nguyên·Hoàn thành】.
+Shot 4: Toàn cảnh góc ngước, bụi cát bay lên từ bãi cát đấu trường trung tâm của đấu trường @Image 1, máy quay từ từ bay vòng quanh, <tiếng tù và vang dài>.
+Shot 5: Toàn cảnh, hình ảnh phục nguyên của đấu trường @Image 1 "tan biến" trở về phế tích ngày nay, máy quay từ từ kéo ra xa chụp từ trên xuống đóng khung, (âm nhạc kết thúc thê lương) 【Ngàn năm sau, vẫn sừng sững】.
+Ràng buộc: Cấu trúc kiến trúc và vị trí hư hại của đấu trường phải theo đúng Image 1, hình thái phục nguyên và phế tích phải tương ứng nhất quán, cấm bịa đặt các yếu tố hiện đại không phù hợp lịch sử.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo hình mờ; Mỗi shot chỉ sử dụng một kiểu vận động máy; Nhân vật cần chuyển động tự nhiên nhẹ, không như tượng đá.
+```
+
+<a id="category-21"></a>
+
+### Trò Chơi / Đồ Họa CG / Giả Tưởng (5)
+
+### No. 1: Rồng Lớn Bổ Nhào
+
+- **Category:** `Trò Chơi / Đồ Họa CG / Giả Tưởng`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Lấy hình ảnh Rồng Đen và Kỵ Sĩ từ Hình 1 làm chủ thể, tỷ lệ rộng 2.35:1, CG cấp điện ảnh, ánh sáng viền ấm + bóng tối xanh đậm, tạo video 30 giây bay lượn kỳ ảo.
+
+#### Prompt
+
+```text
+Tham khảo hình ảnh Rồng Đen và Kỵ Sĩ từ Hình 1 làm chủ thể, tỷ lệ rộng 2.35:1, CG cấp điện ảnh, ánh sáng viền ấm + bóng tối xanh đậm, tạo video 30 giây bay lượn kỳ ảo.
+Shot 1: Toàn cảnh, Rồng Đen @Hình 1 bay vút lên từ hẻm núi đôi cánh xòe rộng, máy quay từ từ nâng lên theo dõi, (nhạc giao hưởng hùng vĩ vang lên).
+Shot 2: Cận cảnh trung bình, Kỵ Sĩ @Hình 1 cúi thấp người, Rồng Đen @Hình 1 lao nhanh sang phải bổ nhào, máy quay ổn định theo dõi (góc máy hơi thấp), <tiếng gió rít>.
+Shot 3: Cận cảnh đặc tả, Rồng Đen @Hình 1 khép một bên cánh xuyên qua màn sương nước thác, máy quay từ từ đẩy gần.
+Shot 4: Toàn cảnh, Rồng Đen @Hình 1 lao ra khỏi màn sương trượt vào khoảng rừng trống, máy quay từ từ kéo xa định hình, (âm nhạc kết thúc).
+Ràng buộc: Hình dạng Rồng Đen và Kỵ Sĩ phải nhất quán với Hình 1 xuyên suốt, cấm phân thân/song sinh.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo hình mờ; Mỗi shot chỉ dùng một cách vận máy; Nhân vật cần chuyển động tự nhiên nhẹ, không như tượng đá.
+```
+
+### No. 2: Giải Phóng Phép Thuật
+
+- **Category:** `Trò Chơi / Đồ Họa CG / Giả Tưởng`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Lấy nữ pháp sư @Hình 1 làm chủ thể, tỷ lệ rộng 2.35:1, CG ma thuật cấp điện ảnh, ánh sáng phù văn xanh huyền + hào quang hạt, tạo video 30 giây niệm chú phép thuật.
+
+#### Prompt
+
+```text
+Lấy nữ pháp sư @Hình 1 làm chủ thể, tỷ lệ rộng 2.35:1, CG ma thuật cấp điện ảnh, ánh sáng phù văn xanh huyền + hào quang hạt, tạo video 30 giây niệm chú phép thuật.
+Shot 1: Cận cảnh đặc tả, nữ pháp sư @Hình 1 mở mắt, phù văn sáng lên trong đồng tử, góc máy cố định, (thánh ca trầm đột ngột vang lên) {"Nhân danh Aether——"}.
+Shot 2: Cận cảnh trung bình, nữ pháp sư @Hình 1 giơ tay, pháp trận xoay tròn tụ hội trong lòng bàn tay, máy quay từ từ bay vòng quanh, <tiếng o o năng lượng leo thang>.
+Shot 3: Cận cảnh đặc tả, nữ pháp sư @Hình 1 các hạt tụ lại thành quả cầu ánh sáng trên đầu ngón tay, máy quay từ từ đẩy gần, (âm nhạc nín thở dừng lại).
+Shot 4: Toàn cảnh, nữ pháp sư @Hình 1 đẩy hai tay tạo ra vụ nổ băng sương khổng lồ hướng về phía trước, máy quay ổn định theo dõi sóng xung kích, <tiếng nổ vang rền>.
+Shot 5: Cận cảnh trung bình, nữ pháp sư @Hình 1 thu thế thở hổn hển, ánh sáng pháp trận dần tắt, máy quay từ từ kéo xa định hình, (dư âm thánh ca kết thúc).
+Ràng buộc: Trang phục nữ pháp sư và màu sắc phù văn phải nhất quán với Hình 1 xuyên suốt, pháp trận và hạt luôn giữ tông màu xanh huyền, cấm đổi màu giữa chừng hoặc biến dạng nhân vật.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo hình mờ; Mỗi shot chỉ dùng một cách vận máy; Nhân vật cần chuyển động tự nhiên nhẹ, không như tượng đá.
+```
+
+### No. 3: Mecha Xuất Trận
+
+- **Category:** `Trò Chơi / Đồ Họa CG / Giả Tưởng`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Lấy Mecha khổng lồ @Hình 1 làm chủ thể, tỷ lệ rộng 2.35:1, CG công nghiệp cứng, kim loại thép lạnh + đèn chiếu nhà chứa và hơi nước, tạo video 30 giây Mecha xuất kích.
+
+#### Prompt
+
+```text
+Lấy Mecha khổng lồ @Hình 1 làm chủ thể, tỷ lệ rộng 2.35:1, CG công nghiệp cứng, kim loại thép lạnh + đèn chiếu nhà chứa và hơi nước, tạo video 30 giây Mecha xuất kích.
+Shot 1: Cận cảnh đặc tả, camera chính mắt Mecha @Hình 1 bật sáng đột ngột ánh đỏ, góc máy cố định, (tiếng gầm trầm công nghiệp vang lên) <tiếng o o hệ thống khởi động>.
+Shot 2: Toàn cảnh góc ngước, Mecha @Hình 1 trong nhà chứa từ từ ngẩng đầu đứng dậy, máy quay từ từ nâng lên góc ngước, <tiếng xì hơi thủy lực>.
+Shot 3: Cận cảnh trung bình, Mecha @Hình 1 bước chân rung chuyển mặt đất, hơi nước phun trào, máy quay góc thấp theo dõi, (tiếng trống đập xuống) <tiếng bước chân kim loại nặng nề>.
+Shot 4: Cận cảnh đặc tả, khoang tên lửa vai Mecha @Hình 1 mở ra khóa mục tiêu, máy quay từ từ đẩy gần, (hiệu ứng âm thanh "khóa mục tiêu" bíp) 【Vũ trang sẵn sàng】.
+Shot 5: Toàn cảnh, Mecha @Hình 1 lao ra khỏi nhà chứa nhảy vào chiến trường, máy quay ổn định theo dõi rồi kéo xa định hình, (âm nhạc bùng nổ kết thúc) <tiếng gầm động cơ đẩy>.
+Ràng buộc: Cấu trúc thân máy và lớp sơn Mecha phải nhất quán với Hình 1 xuyên suốt, chuyển động khớp cơ khí phù hợp với cảm giác trọng lượng và logic thủy lực, cấm xuyên mô hình bộ phận hoặc nhẹ bẫng.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo hình mờ; Mỗi shot chỉ dùng một cách vận máy; Nhân vật cần chuyển động tự nhiên nhẹ, không như tượng đá.
+```
+
+### No. 4: Tầm Nhìn Thế Giới Mở
+
+- **Category:** `Trò Chơi / Đồ Họa CG / Giả Tưởng`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Lấy toàn cảnh lục địa huyễn tưởng @Image 1 làm chủ thể, tỷ lệ rộng 2.35:1, CG game thế giới mở, mây khối sương sớm + độ sâu trường ảnh siêu xa, tạo video giới thiệu thế giới quan 30 giây.
+
+#### Prompt
+
+```text
+Lấy toàn cảnh lục địa huyễn tưởng @Image 1 làm chủ thể, tỷ lệ rộng 2.35:1, CG game thế giới mở, mây khối sương sớm + độ sâu trường ảnh siêu xa, tạo video giới thiệu thế giới quan 30 giây.
+Shot 1: Toàn cảnh, lục địa @Image 1 sương sớm tràn qua thung lũng và những hòn đảo lơ lửng phía xa, máy quay từ từ bay lên quay trên không, (nhạc dây rộng mở) <tiếng gió sớm và chim hót>.
+Shot 2: Cận trung, lục địa @Image 1 thác nước đổ từ vách đá khổng lồ xuống biển mây, máy quay di chuyển ngang ổn định, <tiếng nước ầm ầm>.
+Shot 3: Toàn cảnh, lục địa @Image 1 một đàn thú khổng lồ bay ngang qua thảo nguyên chạy về phía thành quách xa xa, máy quay từ từ theo dõi, (nhạc dây xếp lớp tiến triển).
+Shot 4: Cận cảnh, lục địa @Image 1 bia đá di tích cổ khắc đầy phù văn, máy quay từ từ đẩy vào gần, <tiếng vọng thần bí trầm thấp>.
+Shot 5: Toàn cảnh, lục địa @Image 1 máy quay kéo lên tiết lộ toàn bộ diện mạo lục địa và bầu trời hai mặt trời, máy quay từ từ bay lên kéo xa dừng hình, (âm nhạc hùng vĩ kết thúc) 【Thế giới, chờ bạn khám phá】.
+Ràng buộc: Địa hình lục địa và bố cục đảo lơ lửng phải nhất quán xuyên suốt theo Image 1, giữ tầng lớp sương mù khối cho độ sâu trường ảnh siêu xa, cấm địa hình ghép nối sai lệch hoặc tỷ lệ biến dạng.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo watermark; Mỗi shot chỉ dùng một cách vận máy; Nhân vật cần cử động tự nhiên nhẹ không phải tượng đá.
+```
+
+### No. 5: Trình Diễn Render Mô Hình Trắng
+
+- **Category:** `Trò Chơi / Đồ Họa CG / Giả Tưởng`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Lấy mô hình trắng cảnh @Image 1 làm chủ thể, vật liệu lấy từ ảnh tham khảo 2, màn ngang 16:9, trình diễn Breakdown render thời gian thực, bắt đầu từ mô hình đế trắng xám không bóng, tạo video tiến hóa render từ mô hình trắng đến thành phẩm 30 giây.
+
+#### Prompt
+
+```text
+Lấy mô hình trắng cảnh @Image 1 làm chủ thể, vật liệu lấy từ ảnh tham khảo 2, màn ngang 16:9, trình diễn Breakdown render thời gian thực, bắt đầu từ mô hình đế trắng xám không bóng, tạo video tiến hóa render từ mô hình trắng đến thành phẩm 30 giây.
+Shot 1: Toàn cảnh, mô hình trắng @Image 1 cảnh không vật liệu trắng xám từ từ xoay tròn trưng bày khối, máy quay từ từ bay vòng quanh, (nhạc điện tử cảm giác công nghệ) 【Blockout·Mô hình trắng】.
+Shot 2: Cận trung, mô hình trắng @Image 1 bề mặt được quét vật liệu @Image 2 phủ dần từng mặt đá gỗ, máy quay di chuyển ngang ổn định, <tiếng tích tắc tải vật liệu>.
+Shot 3: Cận cảnh, cảnh @Image 1 chi tiết pháp tuyến và độ nhám hiện lên chất lồi lõm, máy quay từ từ đẩy vào gần, 【PBR Material·Tô màu】.
+Shot 4: Toàn cảnh, cảnh @Image 1 đèn từng chiếc sáng lên chiếu bóng và phản xạ, máy quay từ từ bay lên, (âm nhạc tầng lớp tiến triển) 【Lighting·Chiếu sáng】.
+Shot 5: Toàn cảnh, cảnh @Image 1 chỉnh màu hậu kỳ và ánh sáng khối thêm vào trở thành khung hình cuối, máy quay từ từ kéo xa dừng hình, (âm nhạc kết thúc) 【Final Render】.
+Ràng buộc: Khối và cấu trúc cảnh phải nhất quán xuyên suốt theo Image 1, hoa văn vật liệu lấy từ Image 2 chồng dần lên, từ mô hình trắng đến thành phẩm chỉ thay đổi tô bóng không thay đổi bố cục hình học, cấm biến dạng mô hình hoặc lộ sơ hở.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo watermark; Mỗi shot chỉ dùng một cách vận máy; Nhân vật cần cử động tự nhiên nhẹ không phải tượng đá.
+```
+
+<a id="category-22"></a>
+
+### Hoạt Hình / Phim Hoạt Hình (4)
+
+### No. 1: Phim Thực Phẩm Ghibli
+
+- **Category:** `Hoạt Hình / Phim Hoạt Hình`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Tham khảo đôi tay và bếp đêm trong ảnh 1 làm chủ thể (tay và bếp phải theo ảnh 1), màn dọc 9:16, phong cách vẽ tay Ghibli, tông bếp đêm vàng ấm, tạo video quán ăn đêm chữa lành 30 giây.
+
+#### Prompt
+
+```text
+Tham khảo đôi tay và bếp đêm trong ảnh 1 làm chủ thể (tay và bếp phải theo ảnh 1), màn dọc 9:16, phong cách vẽ tay Ghibli, tông bếp đêm vàng ấm, tạo video quán ăn đêm chữa lành 30 giây.
+Shot 1: Cận cực gần, một giọt nước lăn từ vỏ cà chua phản chiếu ánh đèn ấm, góc máy cố định hơi nhìn xuống, <tiếng rơi nhẹ của giọt nước>, (nhạc guitar gỗ chữa lành bắt đầu).
+Shot 2: Cận trung, một tay cầm dao cắt cà chua nước đỏ thấm ra, máy quay từ từ di chuyển ngang, <tiếng giòn mềm của lưỡi dao cắt qua thịt quả>.
+Shot 3: Cận cảnh, miếng cà chua trượt vào chảo dầu nóng bốc khói trắng, máy quay từ từ đẩy vào gần, <tiếng nổ của nguyên liệu xuống chảo>.
+Shot 4: Cận cực gần, tay rắc lá húng quế xào lên hương thơm bốc lên, máy quay từ từ bay vòng quanh, <tiếng xào xào của xẻng>.
+Shot 5: Cận trung, canh nóng múc vào bát gốm tay bưng đến giữa khung hình, máy quay từ từ kéo xa, <tiếng sùng sục của nước canh>, (nhạc guitar gỗ kết thúc).
+Ràng buộc: Khóa phong cách vẽ tay Ghibli cấm trôi sang hiện thực; Xuyên suốt chỉ một đôi tay không xuất hiện mặt người và tay thừa; Bày trí bếp đêm phải cố định theo ảnh 1.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo watermark; Mỗi shot chỉ dùng một cách vận máy; Nhân vật cần cử động tự nhiên nhẹ không phải tượng đá.
+```
+
+### No. 2: Nhân vật Q tương tác
+
+- **Category:** `Hoạt Hình / Phim Hoạt Hình`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Lấy hai nhân vật Q mắt to đầu tròn trong Ảnh 1 làm chủ thể (kiểu dáng và phối màu theo đúng Ảnh 1), tỷ lệ dọc 9:16, phong cách phim hoạt hình màu kẹo, tông màu ánh sáng mềm bão hòa cao, tạo video tương tác dễ thương dài 30 giây.
+
+#### Prompt
+
+```text
+Tham khảo hai nhân vật Q mắt to đầu tròn trong Ảnh 1 làm chủ thể (kiểu dáng và phối màu theo đúng Ảnh 1), tỷ lệ dọc 9:16, phong cách phim hoạt hình màu kẹo, tông màu ánh sáng mềm bão hòa cao, tạo video tương tác dễ thương dài 30 giây.
+Shot 1: Cận cực gần, một nhân vật Q mở to mắt, má phồng lên cố nhịn cười, máy quay cố định, <hiệu ứng âm thanh bật 'bíp' hoạt hình>, (tiếng marimba tinh nghịch bắt đầu).
+Shot 2: Cảnh trung, nhân vật kia nhảy cẫng lại gần đưa ra một viên kẹo hình trái tim, máy quay di chuyển ngang chậm, <tiếng bước chân nhảy 'ting ting'>.
+Shot 3: Toàn cảnh, hai nhân vật nắm tay nhau xoay tròn tại chỗ tạo ra vệt đuôi sao, máy quay quay vòng quanh chậm, {(nhân vật) 'Cùng nhau xoay nào!'}.
+Shot 4: Cận cảnh, một nhân vật đột nhiên vấp ngã, mắt ngấn lệ, máy quay đẩy gần chậm, <hiệu ứng âm thanh khóc 'oa' phóng đại>.
+Shot 5: Cảnh trung, nhân vật kia lao tới ôm lấy, hai trái tim nhảy ra khỏi khung hình, máy quay kéo xa chậm, 【Tình bạn tràn đầy】, (tiếng marimba lên cao kết thúc).
+Ràng buộc: Khóa phong cách hoạt hình màu kẹo Q, cấm lệch sang hiện thực; Kiểu dáng và phối màu của hai nhân vật phải nghiêm ngặt theo Ảnh 1; Biểu cảm và biến dạng phóng đại tuân theo vật lý hoạt hình.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo watermark; Mỗi shot chỉ dùng một cách vận máy; Nhân vật cần cử động tự nhiên nhẹ, không phải tượng đá.
+```
+
+### No. 3: Phong cách 3D Pixar
+
+- **Category:** `Hoạt Hình / Phim Hoạt Hình`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Lấy nhân vật robot nhỏ trong Ảnh 1 làm chủ thể (kiểu dáng và chất liệu theo đúng Ảnh 1), tỷ lệ ngang 16:9, phong cách hoạt hình 3D Pixar, tông chất liệu ánh nắng ấm buổi sớm, tạo video ngắn khám phá trị liệu dài 30 giây.
+
+#### Prompt
+
+```text
+Tham khảo nhân vật robot nhỏ trong Ảnh 1 làm chủ thể (kiểu dáng và chất liệu theo đúng Ảnh 1), tỷ lệ ngang 16:9, phong cách hoạt hình 3D Pixar, tông chất liệu ánh nắng ấm buổi sớm, tạo video ngắn khám phá trị liệu dài 30 giây.
+Shot 1: Cận cực gần, ống kính mắt tròn của robot nhỏ từ từ sáng lên lấy nét vào một bông bồ công anh, máy quay cố định, <tiếng 'tít' lấy nét cơ khí>, (nhạc dây nhẹ nhàng bắt đầu).
+Shot 2: Cảnh trung, robot nhỏ nghiêng đầu tò mò duỗi cánh tay cơ khí chạm nhẹ vào cánh hoa, máy quay đẩy gần chậm, <tiếng động cơ servo quay nhẹ>.
+Shot 3: Toàn cảnh, một cơn gió thổi tán hạt bồ công anh, robot nhỏ chạy đuổi theo, máy quay theo chân, <tiếng không khí lông tơ bay tán loạn>.
+Shot 4: Góc ngước, hạt giống bay khắp trời, robot nhỏ dang rộng cánh tay ngước nhìn, máy quay nâng hạ chậm, (nhạc dây mạnh dần).
+Shot 5: Viễn cảnh, robot nhỏ đứng một mình trên đỉnh đồi, mặt trời mọc kéo dài bóng, máy quay kéo xa chậm, (nhạc dây lên cao điểm kết thúc).
+Ràng buộc: Khóa phong cách 3D Pixar, cấm lệch sang hiện thực và vẽ tay Ghibli; Kiểu dáng và chất liệu robot theo đúng Ảnh 1; Ánh sáng ấm tán xạ dưới bề mặt xuyên suốt toàn bộ video.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo watermark; Mỗi shot chỉ dùng một cách vận máy; Nhân vật cần cử động tự nhiên nhẹ, không phải tượng đá.
+```
+
+### No. 4: Hoạt hình phong cảnh màu nước
+
+- **Category:** `Hoạt Hình / Phim Hoạt Hình`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Lấy thị trấn sông nước Giang Nam trong Ảnh 1 làm chủ thể (bố cục và tông màu theo đúng Ảnh 1), tỷ lệ ngang 16:9, phong cách hoạt hình vẽ tay màu nước chảy, tông màu xám xanh nhạt sau mưa, tạo video chuyển mùa bốn mùa thi vị dài 30 giây.
+
+#### Prompt
+
+```text
+Tham khảo thị trấn sông nước Giang Nam trong Ảnh 1 làm chủ thể (bố cục và tông màu theo đúng Ảnh 1), tỷ lệ ngang 16:9, phong cách hoạt hình vẽ tay màu nước chảy, tông màu xám xanh nhạt sau mưa, tạo video chuyển mùa bốn mùa thi vị dài 30 giây.
+Shot 1: Cận cực gần, một giọt mưa rơi xuống mặt nước lan tỏa gợn sóng màu mực, góc máy hơi nhìn xuống cố định, <tiếng trong vắt giọt mưa rơi xuống nước>, (âm bồi đàn tranh bắt đầu).
+Shot 2: Toàn cảnh, tường trắng ngói xanh in bóng dưới nước, nét bút màu nước nhẹ nhàng dao động theo sóng, máy quay di chuyển ngang chậm, <tiếng mưa lất phất>.
+Shot 3: Viễn cảnh, một chiếc thuyền thúng lá chèo qua cầu vòm khuấy động vân nước, máy quay theo chân chậm, <tiếng mái chèo gỗ khua nước>.
+Shot 4: Cảnh trung, cành liễu bên cầu đâm chồi, cánh hoa rơi rải rác, tông màu chuyển sang hồng xuân, máy quay đẩy gần chậm, <tiếng gió thổi nhẹ qua lá>.
+Shot 5: Viễn cảnh, hoàng hôn buông xuống, đèn lồng lần lượt thắp sáng in đầy sông, máy quay nâng hạ chậm, (tiếng đàn tranh xa xăm kết thúc).
+Ràng buộc: Khóa phong cách vẽ tay màu nước chảy, cấm lệch sang hiện thực và 3D; Bố cục sông nước theo đúng Ảnh 1; Cảm giác loang màu và kết cấu vân giấy được giữ lại xuyên suốt.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo watermark; Mỗi shot chỉ dùng một cách vận máy; Nhân vật cần cử động tự nhiên nhẹ, không phải tượng đá.
+```
+
+<a id="category-23"></a>
+
+### Thể Thao / Thể Dục (4)
+
+### No. 1: Sức Mạnh Phòng Gym
+
+- **Category:** `Thể Thao / Thể Dục`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Lấy vận động viên cử tạ deadlift trong Ảnh 1 làm chủ thể (nhân vật và dụng cụ theo đúng Ảnh 1), tỷ lệ dọc 9:16, phong cách quảng cáo thể hình hầm hố, tông lạnh, độ tương phản cao với chất liệu thép, tạo video 30 giây bùng nổ sức mạnh.
+
+#### Prompt
+
+```text
+Tham khảo vận động viên cử tạ deadlift trong Ảnh 1 làm chủ thể (nhân vật và dụng cụ theo đúng Ảnh 1), tỷ lệ dọc 9:16, phong cách quảng cáo thể hình hầm hố, tông lạnh, độ tương phản cao với chất liệu thép, tạo video 30 giây bùng nổ sức mạnh.
+Shot 1: Cận cực gần, lòng bàn tay đập mạnh phấn magnesi vào thanh tạ, bột phấn bắn tung tóe, góc máy cố định, <âm thanh đục khi phấn đập>, (tiếng trống tần số thấp bắt đầu).
+Shot 2: Cận cảnh, hai tay siết chặt thanh tạ, gân xanh nổi lên, ống kính từ từ đẩy gần, <tiếng kẽo kẹt của thanh sắt chịu lực>.
+Shot 3: Toàn cảnh, vận động viên dùng lực nhấc thanh tạ lên, đĩa tạ rung nhẹ, ống kính nâng hạ chậm theo chuyển động đứng lên, <tiếng gầm gừ dùng lực trầm đục>.
+Shot 4: Góc máy ngước lên, thanh tạ được nâng lên đỉnh điểm, đường nét cơ bắp được ánh sáng lạnh tô đậm, ống kính từ từ bay vòng quanh, (tiếng trống đập nặng nhất).
+Shot 5: Cận cảnh, thanh tạ đập xuống đất nảy lên rung động, giọt mồ hôi bắn tung, ống kính từ từ kéo xa, <âm thanh lớn khi đĩa sắt chạm đất>, (tiếng trống ngừng đột ngột).
+Ràng buộc: Nhân vật và dụng cụ theo đúng Ảnh 1; tông lạnh, ánh sáng cứng, độ tương phản cao xuyên suốt; sự rung động của đĩa tạ và giọt mồ hôi phải tuân theo vật lý trọng lượng thực tế.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo watermark; Mỗi shot chỉ dùng một kiểu vận hành máy quay; Nhân vật cần chuyển động tự nhiên nhẹ, không phải tượng đá.
+```
+
+### No. 2: Duỗi Dài Yoga
+
+- **Category:** `Thể Thao / Thể Dục`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Lấy người tập yoga và phòng học ánh sáng ban mai trong Ảnh 1 làm chủ thể (nhân vật và không gian theo đúng Ảnh 1), tỷ lệ dọc 9:16, phong cách sống tĩnh lặng thiền ý, tông sáng mềm sương mai độ bão hòa thấp, tạo video 30 giây duỗi dài thân tâm.
+
+#### Prompt
+
+```text
+Tham khảo người tập yoga và phòng học ánh sáng ban mai trong Ảnh 1 làm chủ thể (nhân vật và không gian theo đúng Ảnh 1), tỷ lệ dọc 9:16, phong cách sống tĩnh lặng thiền ý, tông sáng mềm sương mai độ bão hòa thấp, tạo video 30 giây duỗi dài thân tâm.
+Shot 1: Cận cực gần, người tập nhắm mắt hít thở sâu, hơi thở làm bụi mịn bay lơ lửng trong tia sáng, góc máy cố định, <một tiếng thở dài>, (âm thanh dài của chuông Tingsha bắt đầu).
+Shot 2: Toàn cảnh, cơ thể từ từ gập lại vào tư thế gập trước, ánh sáng ban mai trải qua sống lưng, ống kính nâng hạ chậm, <tiếng sột soạt nhẹ của quần áo cọ xát>.
+Shot 3: Cảnh trung, hai cánh tay duỗi dài chuyển động vào tư thế chiến binh, hơi thở đều đặn, ống kính từ từ bay vòng quanh, (âm chuông và tiếng chim hót đan xen).
+Shot 4: Cận cảnh, đầu ngón tay chạm nhẹ vào mắt cá chân, đường nét cơ bắp duỗi dài căng ra, ống kính từ từ di chuyển ngang, <âm thanh nhẹ khi gân cơ căng>.
+Shot 5: Toàn cảnh, ngồi xếp bằng chắp tay cúi đầu, sương mai lan tỏa khắp phòng học, ống kính từ từ kéo xa, (âm chuông Tingsha dần tắt).
+Ràng buộc: Nhân vật và phòng học ánh sáng ban mai theo đúng Ảnh 1; tông sáng mềm, độ bão hòa thấp, thiền ý xuyên suốt; động tác liên tục chậm rãi, cấm mọi chuyển cảnh gấp gáp.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo watermark; Mỗi shot chỉ dùng một kiểu vận hành máy quay; Nhân vật cần chuyển động tự nhiên nhẹ, không phải tượng đá.
+```
+
+### No. 3: Bóng Rổ Dunk
+
+- **Category:** `Thể Thao / Thể Dục`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Lấy vận động viên bóng rổ đường phố trong Ảnh 1 làm chủ thể (nhân vật và sân bóng theo đúng Ảnh 1), tỷ lệ ngang 16:9, phong cách quảng cáo thể thao đường phố nhiệt huyết, tông ấm cam hoàng hôn ánh sáng cứng, tạo video 30 giây dunk cao trào.
+
+#### Prompt
+
+```text
+Tham khảo vận động viên bóng rổ đường phố trong Ảnh 1 làm chủ thể (nhân vật và sân bóng theo đúng Ảnh 1), tỷ lệ ngang 16:9, phong cách quảng cáo thể thao đường phố nhiệt huyết, tông ấm cam hoàng hôn ánh sáng cứng, tạo video 30 giây dunk cao trào.
+Shot 1: Cận cực gần, quả bóng rổ xoay nhanh trên đầu ngón tay, vân bóng rõ nét, góc máy cố định, <âm thanh ma sát khi bóng xoay>, (tiếng trống điện tử nặng bắt đầu).
+Shot 2: Toàn cảnh, vận động viên dẫn bóng vượt qua, dừng gấp đổi hướng, đế giày cọ xát mặt đất, ống kính theo chân, <tiếng rít khi giày phanh gấp>.
+Shot 3: Cảnh trung, hai chân đạp đất bật cao, thân hình căng hết cỡ bay về phía rổ, ống kính nâng hạ chậm theo chuyển động nhảy lên, <âm thanh nổ khi đạp đất bật lên>.
+Shot 4: Góc máy ngước lên, người lơ lửng trên không, tay giơ bóng sắp đập xuống, hình cắt ngược sáng, ống kính từ từ bay vòng quanh, (tiếng trống tạm ngừng một nhịp).
+Shot 5: Cận cảnh, quả bóng bạo lực đập vào lưới rổ, vành rổ rung lắc dữ dội, ống kính từ từ đẩy gần, <âm thanh vang ầm của vành rổ>, (tiếng trống nổ tung kết thúc).
+Ràng buộc: Nhân vật và sân bóng đường phố theo đúng Ảnh 1; ánh sáng cứng ấm cam hoàng hôn, ngược sáng xuyên suốt; sự bật cao lơ lửng và rung lắc lưới rổ phải tuân theo vật lý chuyển động thực tế.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo watermark; Mỗi shot chỉ dùng một kiểu vận hành máy quay; Nhân vật cần chuyển động tự nhiên nhẹ, không phải tượng đá.
+```
+
+### No. 4: Bóng Người Chạy Bộ
+
+- **Category:** `Thể Thao / Thể Dục`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Tham khảo Image 1 với người chạy bộ buổi sáng và con đường ven biển làm chủ thể (bóng người và môi trường theo đúng Image 1), tỷ lệ ngang 16:9, phong cách phim thương hiệu thể thao truyền cảm hứng, tông màu cam vàng ngược sáng bình minh, tạo video 30 giây về sự kiên trì chạy bộ buổi sáng.
+
+#### Prompt
+
+```text
+Tham khảo Image 1 với người chạy bộ buổi sáng và con đường ven biển làm chủ thể (bóng người và môi trường theo đúng Image 1), tỷ lệ ngang 16:9, phong cách phim thương hiệu thể thao truyền cảm hứng, tông màu cam vàng ngược sáng bình minh, tạo video 30 giây về sự kiên trì chạy bộ buổi sáng.
+Shot 1: Cận cực gần, giày chạy đạp lên nhựa đường ướt bắn lên những giọt nước nhỏ, góc máy cố định hơi nghiêng xuống, <âm thanh giày chạm đất>, (nhạc dây truyền cảm hứng nền bắt đầu).
+Shot 2: Cảnh trung, bóng người chạy ngược sáng bước đều đặn mồ hôi rơi dọc cằm, máy quay theo chuyển động, <nhịp thở đều đặn mạnh mẽ>.
+Shot 3: Toàn cảnh, đường bờ biển kéo dài mặt trời mọc nhảy lên khỏi mặt biển nhuộm đỏ chân trời, máy quay nâng hạ chậm, (nhạc dây thêm trống tiến triển).
+Shot 4: Cận cảnh, cánh tay đánh đồng hồ đeo tay số nhảy nhịp tim tăng, máy quay di chuyển ngang chậm, <âm thanh tích tắc đồng hồ>.
+Shot 5: Viễn cảnh, bóng người chạy lao lên đỉnh dốc dang rộng cánh tay ôm lấy bình minh, máy quay kéo xa chậm, (nhạc dây và trống cùng vang lên cao trào kết thúc).
+Ràng buộc: Bóng người và con đường ven biển theo đúng Image 1; tông màu cam vàng ngược sáng bình minh xuyên suốt; tư thế chạy và nhịp bước đều đặn liên tục không xuất hiện giật cục.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo watermark; Mỗi shot chỉ dùng một cách vận máy; Nhân vật cần chuyển động tự nhiên nhẹ không phải tượng đá.
+```
+
+<a id="category-24"></a>
+
+### Âm Nhạc / Khiêu Vũ / Video Âm Nhạc (4)
+
+### No. 1: Quay Theo Vũ Đạo
+
+- **Category:** `Âm Nhạc / Khiêu Vũ / Video Âm Nhạc`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Tham khảo Image 1 với vũ công hiện đại và không gian phong cách công nghiệp làm chủ thể (nhân vật và cảnh theo đúng Image 1), tỷ lệ dọc 9:16, phong cách MV đô thị quay theo, tông màu ánh sáng neon lạnh xanh, tạo video 30 giây về vũ đạo nhịp điệu.
+
+#### Prompt
+
+```text
+Tham khảo Image 1 với vũ công hiện đại và không gian phong cách công nghiệp làm chủ thể (nhân vật và cảnh theo đúng Image 1), tỷ lệ dọc 9:16, phong cách MV đô thị quay theo, tông màu ánh sáng neon lạnh xanh, tạo video 30 giây về vũ đạo nhịp điệu.
+Shot 1: Cận cực gần, đầu ngón tay vũ công bật mở theo nhịp đầu tiên, góc máy cố định, <tiếng búng tay thanh>,(nhịp điện tử sôi động bắt đầu).
+Shot 2: Toàn cảnh, cơ thể vung mạnh bước nhảy trải rộng đung đưa theo nhịp, máy quay theo chuyển động, <âm thanh vải quần áo vung xé không khí>.
+Shot 3: Cảnh trung, xoay người nhảy váy vẽ đường cong vệt kéo neon, máy quay xoay quanh chậm, (nhịp dày thêm trộn bass).
+Shot 4: Cận cảnh, mũi chân gõ nhịp gấp gáp trên mặt đất ánh sáng phản chiếu lung linh, máy quay di chuyển ngang chậm, <âm thanh gót giày gõ liên tục>.
+Shot 5: Toàn cảnh, tư thế dừng đèn neon nhấp nháy chiếu sáng toàn thân đường viền, máy quay kéo xa chậm, (nhịp kết thúc trên phách mạnh).
+Ràng buộc: Nhân vật và không gian phong cách công nghiệp theo đúng Image 1; tông màu ánh sáng neon lạnh xanh xuyên suốt; nhịp vận máy phải đồng bộ chặt chẽ với phách mạnh của nhạc.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo watermark; Mỗi shot chỉ dùng một cách vận máy; Nhân vật cần chuyển động tự nhiên nhẹ không phải tượng đá.
+```
+
+### No. 2: Độc Tấu Piano
+
+- **Category:** `Âm Nhạc / Khiêu Vũ / Video Âm Nhạc`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Tham khảo Image 1 với nghệ sĩ piano và sân khấu nhà hát cũ làm chủ thể (nhân vật và cây đàn piano theo đúng Image 1), tỷ lệ ngang 16:9, phong cách phim hòa nhạc cổ điển, tông màu vàng ấm ánh đèn sân khấu bóng tối, tạo video 30 giây độc tấu sâu lắng.
+
+#### Prompt
+
+```text
+Tham khảo Image 1 với nghệ sĩ piano và sân khấu nhà hát cũ làm chủ thể (nhân vật và cây đàn piano theo đúng Image 1), tỷ lệ ngang 16:9, phong cách phim hòa nhạc cổ điển, tông màu vàng ấm ánh đèn sân khấu bóng tối, tạo video 30 giây độc tấu sâu lắng.
+Shot 1: Cận cực gần, đầu ngón tay lơ lửng phía trên phím đàn nhẹ nhàng hạ xuống nhấn phím đầu tiên, góc máy cố định, (âm thanh đơn nốt piano trong trẻo vang lên).
+Shot 2: Cận cảnh, đôi tay di chuyển trôi chảy trên phím đen trắng búa đàn lên xuống, máy quay di chuyển ngang chậm, <âm thanh phím đàn gõ dây thanh>.
+Shot 3: Cảnh trung, nghệ sĩ nhắm mắt đắm chìm cơ thể hơi nghiêng ngả theo giai điệu, máy quay đẩy gần chậm, (giai điệu dần vào cao trào).
+Shot 4: Toàn cảnh, cây đàn piano đơn độc dưới ánh đèn sân khấu trống rỗng bụi ánh sáng lơ lửng, máy quay nâng hạ chậm, (hợp âm chồng lớp dâng lên).
+Shot 5: Cận cực gần, phím cuối cùng được nhấn xuống ngón tay dừng lại âm vang rung động, máy quay kéo xa chậm, <âm vang dây đàn dần tắt>, (giai điệu lặng lẽ kết thúc).
+Ràng buộc: Nhân vật và cây đàn piano theo đúng Image 1; tông màu vàng ấm ánh đèn sân khấu bóng tối xuyên suốt; động tác nhấn phím của tay phải tương ứng chặt chẽ với sự lên xuống của nốt nhạc.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo watermark; Mỗi shot chỉ dùng một cách vận máy; Nhân vật cần chuyển động tự nhiên nhẹ không phải tượng đá.
+```
+
+### No. 3: Trận Đấu Street Dance
+
+- **Category:** `Âm Nhạc / Khiêu Vũ / Video Âm Nhạc`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Lấy hai vũ công street dance và địa điểm ngầm trong Hình 1 làm chủ thể (nhân vật và địa điểm phải theo Hình 1), tỷ lệ dọc 9:16, phong cách tài liệu street dance ngầm, điều sáng hỗn hợp ấm lạnh tương phản cao, tạo một đoạn phim trận đấu battle dài 30 giây.
+
+#### Prompt
+
+```text
+Tham khảo hai vũ công street dance và địa điểm ngầm trong Hình 1 làm chủ thể (nhân vật và địa điểm phải theo Hình 1), tỷ lệ dọc 9:16, phong cách tài liệu street dance ngầm, điều sáng hỗn hợp ấm lạnh tương phản cao, tạo một đoạn phim trận đấu battle dài 30 giây.
+Shot 1: Cận cực gần, một vũ công ấn vành mũ xuống rồi ngước mắt thách thức nhìn thẳng vào ống kính, máy quay cố định, <tiếng đám đông xôn xao cổ vũ>, (tiếng trống hiphop đập mạnh bắt đầu).
+Shot 2: Toàn cảnh, vũ công thứ nhất xông vào giữa sàn bùng nổ động tác floorwork, vòng người xem tránh ra, máy quay theo chủ thể, <tiếng tay vỗ sàn thực tế>.
+Shot 3: Trung cảnh, động tác xoay Thomas windmill, chân vạch vòng tròn, máy quay di chuyển vòng quanh chậm, (tiếng reo hò của đám đông chồng lên nhịp phách).
+Shot 4: Cận cảnh, đối thủ tiếp sức, dừng tư thế hip thrust freeze, mồ hôi văng từ vành mũ, máy quay đẩy vào chậm, <tiếng thở gấp và dậm chân>.
+Shot 5: Toàn cảnh, hai người cùng lúc dừng tư thế đối đầu, khán giả vây quanh đồng thanh bùng nổ, máy quay kéo xa chậm, {(đám đông vây quanh) "Ồ——!"}, (tiếng trống trọng âm kết thúc).
+Ràng buộc: Hai vũ công và địa điểm ngầm phải theo Hình 1; ánh sáng hỗn hợp ấm lạnh tương phản cao xuyên suốt; động tác floorwork và xoay phải tuân theo cơ học thực tế, liền mạch không giật cục.
+Ràng buộc chung: Giữ nguyên không có phụ đề; Không tạo Logo; Không tạo watermark; Mỗi shot chỉ dùng một kiểu vận động máy; Nhân vật cần cử động tự nhiên nhẹ, không như tượng đá.
+```
+
+### No. 4: Bầu Không Khí Buổi Hòa Nhạc
+
+- **Category:** `Âm Nhạc / Khiêu Vũ / Video Âm Nhạc`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Tham khảo hình ảnh ca sĩ chính và sân khấu trong nhà thi đấu từ Hình 1 làm chủ thể (nhân vật và sân khấu phải theo Hình 1), tỷ lệ ngang 16:9, phong cách ghi hình thực tế buổi hòa nhạc lớn, điệu ánh sáng đuổi màu và biển đèn huỳnh quang, tạo clip 30 giây đoạn cao trào ngàn người cùng hát.
+
+#### Prompt
+
+```text
+Tham khảo hình ảnh ca sĩ chính và sân khấu trong nhà thi đấu từ Hình 1 làm chủ thể (nhân vật và sân khấu phải theo Hình 1), tỷ lệ ngang 16:9, phong cách ghi hình thực tế buổi hòa nhạc lớn, điệu ánh sáng đuổi màu và biển đèn huỳnh quang, tạo clip 30 giây đoạn cao trào ngàn người cùng hát.
+Shot 1: Cực cận đặc tả, môi ca sĩ chính áp sát mic mở mắt hát câu đầu tiên, máy quay cố định, {(Ca sĩ chính) "Đêm nay thuộc về các bạn!"}, (tiếng guitar rock mở đầu vang dội).
+Shot 2: Toàn cảnh, ánh đèn đuổi quét qua sân khấu ca sĩ chính dang tay thổi bùng sân khấu, máy quay nâng hạ chậm, <tiếng reo hò cuồng nhiệt như sóng biển của khán giả>.
+Shot 3: Viễn cảnh, đèn huỳnh quang trên khán đài nối thành biển ánh sáng nhấp nhô theo nhịp vẫy, máy quay di chuyển ngang chậm, (trống điểm hợp xướng cùng vang lên).
+Shot 4: Trung cảnh, ca sĩ chính bước ra phía trước sân khấu đưa tay, khán giả vươn tay đáp lại, máy quay bám theo, <ngàn người cùng hát vang>.
+Shot 5: Toàn cảnh, pháo hoa và tia laser đồng loạt bùng nổ, bóng cắt của ca sĩ chính giơ cao mic, máy quay kéo xa chậm, 【cả sân vận động cùng hát】, (đoạn cao trào hợp xướng bùng nổ rồi khép lại).
+Ràng buộc: Nhân vật và sân khấu nhà thi đấu phải theo Hình 1; ánh sáng đuổi màu và biển đèn huỳnh quang xuyên suốt; ánh đèn nhấp nháy và pháo hoa phải đồng bộ với nhịp trống mạnh.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo watermark; Mỗi shot chỉ dùng một cách vận máy; Nhân vật cần chuyển động tự nhiên nhẹ, không như tượng đá.
+```
+
+<a id="category-25"></a>
+
+### Lễ Hội / Tiết Khí (5)
+
+### No. 1: Đoàn tụ Tết Nguyên Đán
+
+- **Category:** `Lễ Hội / Tiết Khí`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Tham khảo các thành viên gia đình trong Hình 1, Hình 2, Hình 3 làm chủ thể (mỗi người theo hình tương ứng), tỷ lệ ngang 16:9, phong cách hiện thực ấm áp vui tươi, tông màu đỏ ấm của lồng đèn, tạo video ngắn 30 giây về Tết.
+
+#### Prompt
+
+```text
+Tham khảo các thành viên gia đình trong Hình 1, Hình 2, Hình 3 làm chủ thể (mỗi người theo hình tương ứng), tỷ lệ ngang 16:9, phong cách hiện thực ấm áp vui tươi, tông màu đỏ ấm của lồng đèn, tạo video ngắn 30 giây về Tết.
+Shot 1: Từ từ đẩy gần, pháo hoa ngoài cửa sổ bung nở chiếu sáng khung cửa sổ dán chữ Phúc, lồng đèn đỏ ấm trong nhà đung đưa, (tiếng chuông Trung Hoa xa xăm và âm nhạc vui tươi dần vang lên).
+Shot 2: Quay vòng quanh, cả gia đình quây quần bàn tiệc tất niên nâng ly, hơi nóng bốc lên và ánh sáng ấm áp, <tiếng va chạm nhẹ của bát đũa>.
+Shot 3: Góc máy cố định, người lớn tuổi @Image 1 gắp thức ăn cho cháu với nụ cười trìu mến, cận cảnh món ăn ngon trên bàn, hậu cảnh mờ.
+Shot 4: Theo dõi ổn định, đứa trẻ @Image 3 giơ phong bao lì xì nhảy nhót trong sân, chuỗi lồng đèn đỏ trải dài, <tiếng cười vui vẻ trong trẻo>.
+Shot 5: Quay ngước lên, cả gia đình @Image 2 ngước nhìn lên bầu trời đầy pháo hoa với vẻ ngạc nhiên thán phục, ánh sáng và bóng tối phủ đầy những khuôn mặt tươi cười.
+Shot 6: Từ từ kéo xa, cả gia đình trước cửa nâng ly dừng hình dưới chiếc lồng đèn đỏ lớn, xuất hiện dòng chữ 【Chúc Mừng Năm Mới Đoàn Tụ Gia Đình】, (âm nhạc vui tươi kết thúc).
+Ràng buộc: Các nhân vật phải theo hình ảnh tương ứng, cấm tạo ra các bản sao song sinh giống hệt nhau, mỗi người một khung hình khi cùng xuất hiện; tông màu đỏ ấm của lồng đèn xuyên suốt toàn bộ video.
+Ràng buộc chung: Giữ video không có phụ đề; không tạo Logo; không tạo hình mờ; mỗi shot chỉ sử dụng một kiểu vận động máy; nhân vật cần chuyển động tự nhiên nhẹ nhàng, không phải tượng đá.
+```
+
+### No. 2: Lãng mạn Ngày Valentine
+
+- **Category:** `Lễ Hội / Tiết Khí`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Tham khảo người phụ nữ trong Ảnh 1 và người đàn ông trong Ảnh 2 làm chủ thể (theo đúng ảnh tương ứng), tỷ lệ dọc 9:16, phong cách lãng mạn hiện thực với tông ấm phim Pháp, tạo video ngắn 30 giây cho Ngày Valentine.
+
+#### Prompt
+
+```text
+Tham khảo người phụ nữ trong Ảnh 1 và người đàn ông trong Ảnh 2 làm chủ thể (theo đúng ảnh tương ứng), tỷ lệ dọc 9:16, phong cách lãng mạn hiện thực với tông ấm phim Pháp, tạo video ngắn 30 giây cho Ngày Valentine.
+Shot 1: Từ từ đẩy gần, người phụ nữ @Image 1 ở góc phố hoàng hôn cầm hoa hồng ngoảnh lại mỉm cười nhẹ, ánh sáng ngược vàng ấm tô điểm mái tóc, (âm thanh piano nhẹ nhàng bắt đầu).
+Shot 2: Theo dõi, người đàn ông @Image 2 bước nhanh xuyên qua đám đông tiến lại gần, đốm sáng neon chảy trôi phía sau, <tiếng tim đập mạnh dần>.
+Shot 3: Vòng quanh, hai người ôm nhau xoay tròn trên quảng trường rải đầy cánh hoa, ánh sáng ấm xoay thành quầng sáng, (dây đàn dồn dập đẩy lên).
+Shot 4: Máy quay cố định, cận cảnh mười ngón tay đan vào nhau trao nhẫn, mặt nhẫn lóe sáng.
+Shot 5: Nâng hạ, máy quay từ hai người bay lên lướt qua ngọn cây treo đầy dây đèn, bầu trời đêm lấp lánh sao, (âm nhạc lên đến cao trào).
+Shot 6: Từ từ kéo xa, bóng đen hai người dựa vào nhau trên ghế dài, xuất hiện chữ 【Mỗi ngày yêu em】, (dư âm piano kết thúc).
+Ràng buộc: Người phụ nữ theo Ảnh 1, người đàn ông theo Ảnh 2, ngoại hình hai người phải phân biệt rõ ràng, cấm giống nhau như sinh đôi; tông phim vàng ấm xuyên suốt.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo watermark; Mỗi shot chỉ dùng một cách vận máy; Nhân vật cần cử động tự nhiên nhẹ nhàng, không như tượng đá.
+```
+
+### No. 3: Thưởng trăng Trung thu
+
+- **Category:** `Lễ Hội / Tiết Khí`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Tham khảo nhân vật trong Ảnh 1 làm chủ thể (theo đúng Ảnh 1), tỷ lệ ngang 16:9, phong cách hòa quyện thủy mặc Đông phương tĩnh lặng với hiện thực, tông xanh lam ánh trăng, tạo video ngắn 30 giây về Trung thu.
+
+#### Prompt
+
+```text
+Tham khảo nhân vật trong Ảnh 1 làm chủ thể (theo đúng Ảnh 1), tỷ lệ ngang 16:9, phong cách hòa quyện thủy mặc Đông phương tĩnh lặng với hiện thực, tông xanh lam ánh trăng, tạo video ngắn 30 giây về Trung thu.
+Shot 1: Quay ngước lên, một vầng trăng tròn từ biển mây từ từ nổi lên, ánh sáng trong xanh tuôn trào, (âm thanh cổ cầm phiếm âm thong thả bắt đầu).
+Shot 2: Từ từ đẩy gần, nhân vật @Image 1 đứng một mình trước bàn đá trong sân ngước nhìn trăng, bóng cây quế đung đưa, <tiếng gió đêm thổi qua lá>.
+Shot 3: Máy quay cố định, cận cảnh bánh trung thu được bẻ ra lộ nhân vàng chảy, khói trà bốc lên nhè nhẹ.
+Shot 4: Di chuyển ngang ổn định, đèn lồng sân vườn và bóng trăng phản chiếu trên mặt nước hồ gợn sóng lăn tăn, <tiếng nước chảy róc rách>.
+Shot 5: Vòng quanh, nhân vật @Image 1 nâng chén mời trăng cùng uống, tà áo nhẹ bay, ánh trăng chuyển động.
+Shot 6: Từ từ kéo xa, bóng người và vầng trăng tròn khổng lồ cùng khung hình thành bóng đen, xuất hiện chữ 【Nguyện người lâu dài】, (âm thanh cổ cầm kết thúc).
+Ràng buộc: Nhân vật theo đúng Ảnh 1; tông lạnh xanh lam ánh trăng thống nhất, tránh màu ấm làm ảnh hưởng không khí ánh trăng.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo watermark; Mỗi shot chỉ dùng một cách vận máy; Nhân vật cần cử động tự nhiên nhẹ nhàng, không như tượng đá.
+```
+
+### No. 4: Không khí Giáng sinh
+
+- **Category:** `Lễ Hội / Tiết Khí`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Tham khảo hai thành viên gia đình trong Ảnh 1 và Ảnh 2 làm chủ thể (theo đúng ảnh tương ứng), tỷ lệ dọc 9:16, phong cách hiện thực cổ tích Bắc Âu tông ấm, tông cam ánh lửa lò sưởi, tạo video ngắn 30 giây về Giáng sinh.
+
+#### Prompt
+
+```text
+Tham khảo hai thành viên gia đình trong Ảnh 1 và Ảnh 2 làm chủ thể (theo đúng ảnh tương ứng), tỷ lệ dọc 9:16, phong cách hiện thực cổ tích Bắc Âu tông ấm, tông cam ánh lửa lò sưởi, tạo video ngắn 30 giây về Giáng sinh.
+Shot 1: Từ từ đẩy gần, tuyết rơi ngoài cửa sổ đậu trên cây thông Noel lấp lánh đèn màu, trong nhà lửa lò sưởi nhảy múa, (tiếng chuông trong trẻo và nhạc Giáng sinh bắt đầu).
+Shot 2: Máy quay cố định, nhân vật @Image 1 treo lên ngôi sao trang trí cuối cùng mỉm cười hài lòng, ánh đèn màu phản chiếu trên mặt.
+Shot 3: Theo dõi, nhân vật @Image 2 ôm hộp quà chạy về phía cây thông ngạc nhiên nhìn quanh, quầng sáng cam ấm chuyển động, <tiếng xé giấy gói quà>.
+Shot 4: Quay từ trên xuống, bánh gừng, ca cao nóng và nến trải đầy trên bàn, hơi nóng và đường phủ lấp lánh.
+Shot 5: Vòng quanh, hai người @Image 1@Image 2 dựa vào nhau trước lò sưởi chạm cốc, ngoài cửa sổ tuyết bay phấp phới.
+Shot 6: Từ từ kéo xa, ánh sáng ấm trong nhà xuyên qua song cửa đêm tuyết, xuất hiện chữ 【Merry Christmas】, (nhạc Giáng sinh kết thúc).
+Ràng buộc: Hai người theo đúng ảnh tương ứng, ngoại hình phải phân biệt, cấm giống nhau như sinh đôi, cùng khung hình mỗi người một; tông cam ấm lò sưởi xuyên suốt.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo watermark; Mỗi shot chỉ dùng một cách vận máy; Nhân vật cần cử động tự nhiên nhẹ nhàng, không như tượng đá.
+```
+
+### No. 5: Tiết Lập Xuân
+
+- **Category:** `Lễ Hội / Tiết Khí`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Không có nhân vật tham chiếu, màn hình ngang 16:9, mỹ học phương Đông 24 tiết khí, phong cách thủy mặc tươi sáng phóng khoáng và hiện thực, tông màu chồi non xanh mướt, tạo video ngắn 30 giây về tiết Lập Xuân.
+
+#### Prompt
+
+```text
+Không có nhân vật tham chiếu, màn hình ngang 16:9, mỹ học phương Đông 24 tiết khí, phong cách thủy mặc tươi sáng phóng khoáng và hiện thực, tông màu chồi non xanh mướt, tạo video ngắn 30 giây về tiết Lập Xuân.
+Shot 1: Chậm rãi đẩy gần, một chồi non xanh mướt nhẹ nhàng đẩy lớp tinh thể băng ra khỏi đỉnh cành khô phủ tuyết tàn, ánh sáng ban mai xuyên qua, (âm thanh sáo trúc trong trẻo cất lên).
+Shot 2: Góc quay cố định cận cảnh, băng tan nhỏ giọt rơi xuống đất ẩm ướt, <âm thanh giọt nước trong vắt>.
+Shot 3: Di chuyển ngang ổn định, trên cánh đồng tuyết tàn dần lùi bước nhường chỗ cho màu xanh non trải rộng, bông hoa dại đầu tiên thò đầu, <âm thanh gió xuân nhẹ thổi>.
+Shot 4: Quay ngước lên, chim én lượn qua bầu trời xanh thẳm chao liệng, cành liễu đâm chồi xanh mới đung đưa theo gió, (tiếng sáo dần cao vút).
+Shot 5: Nâng hạ, ống kính từ chồi non nâng lên nhìn toàn cảnh mặt đất đang thức giấc, suối băng tan chảy cuồn cuộn, (âm nhạc tơ trúc từng tầng dâng lên).
+Shot 6: Chậm rãi kéo xa, một cây xanh non đứng sừng sững trên cánh đồng, xuất hiện chữ 【Lập Xuân Vạn Vật Bắt Đầu Sinh Sôi】, (âm nhạc tơ trúc thu lại kết thúc).
+Ràng buộc: Màu sắc chuyển từ xám lạnh tuyết tàn sang xanh non ấm áp, thể hiện sự thay đổi thời gian từ đông sang xuân; không có nhân vật xuất hiện.
+Ràng buộc chung: Giữ không có phụ đề; không tạo Logo; không tạo hình mờ; mỗi shot chỉ dùng một cách vận hành máy quay; nhân vật cần chuyển động tự nhiên nhẹ nhàng, không phải tượng đá.
+```
+
+<a id="category-26"></a>
+
+### Thiên Nhiên / Thiên Văn / Phim Tài Liệu (4)
+
+### No. 1: Time-lapse Bầu Trời Sao
+
+- **Category:** `Thiên Nhiên / Thiên Văn / Phim Tài Liệu`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Không có nhân vật tham chiếu, màn hình ngang 16:9, time-lapse chụp bầu trời sao cấp độ phim tài liệu BBC, tông màu xanh thẳm u huyền, tạo video ngắn 30 giây time-lapse bầu trời sao.
+
+#### Prompt
+
+```text
+Không có nhân vật tham chiếu, màn hình ngang 16:9, time-lapse chụp bầu trời sao cấp độ phim tài liệu BBC, tông màu xanh thẳm u huyền, tạo video ngắn 30 giây time-lapse bầu trời sao.
+Shot 1: Quay ngước lên, cầu vồng Ngân Hà vắt ngang đỉnh trời, các vì sao xoay chuyển trôi chảy, tiền cảnh là bóng cô phong đơn độc, (âm nhạc điện tử không gian vũ trụ trầm thấp cất lên).
+Shot 2: Góc quay cố định time-lapse, quỹ đạo sao vẽ những vòng cung đồng tâm lấy sao Bắc Cực làm tâm, <tiếng côn trùng đêm kêu thấp>.
+Shot 3: Di chuyển ngang chậm rãi, Ngân Hà từ từ chìm vào dãy núi xa, sao băng xé toạc màn đêm kéo theo đuôi dài.
+Shot 4: Nâng hạ, ống kính từ mặt đất thảo nguyên nâng lên, Ngân Hà và đường chân trời cùng lúc mở ra, (dây đàn trải nền dần vào).
+Shot 5: Chậm rãi đẩy gần, đám khí màu đỏ tím của tinh vân không gian sâu cuộn trào trong biển sao, các ngôi sao lấp lánh.
+Shot 6: Chậm rãi kéo xa, bầu trời sao trở về với ánh sáng yếu ớt từ chiếc lều đơn độc của một người, xuất hiện chữ 【Vũ Trụ · Vĩnh Hằng Như Thế】, (âm nhạc không gian thu lại kết thúc).
+Ràng buộc: Chất lượng time-lapse xuyên suốt, chuyển động thiên thể trôi chảy liên tục; tông lạnh xanh thẳm tím u huyền thống nhất, không có cận cảnh nhân vật.
+Ràng buộc chung: Giữ không có phụ đề; không tạo Logo; không tạo hình mờ; mỗi shot chỉ dùng một cách vận hành máy quay; nhân vật cần chuyển động tự nhiên nhẹ nhàng, không phải tượng đá.
+```
+
+### No. 2: Cực Quang Chuyển Động
+
+- **Category:** `Thiên Nhiên / Thiên Văn / Phim Tài Liệu`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Không có nhân vật tham chiếu, màn hình ngang 16:9, phong cách hiện thực phim tài liệu Bắc Cực, tông màu đêm cực băng tuyết và cực quang xanh lục, tạo video ngắn 30 giây về cực quang.
+
+#### Prompt
+
+```text
+Không có nhân vật tham chiếu, màn hình ngang 16:9, phong cách hiện thực phim tài liệu Bắc Cực, tông màu đêm cực băng tuyết và cực quang xanh lục, tạo video ngắn 30 giây về cực quang.
+Shot 1: Quay ngước lên, rèm cực quang xanh lục từ chân trời bất ngờ bừng sáng như sóng cuộn trào, (bức tường âm thanh tổng hợp linh thiêng bất ngờ cất lên).
+Shot 2: Di chuyển ngang chậm rãi, cực quang phản chiếu trên mặt hồ đóng băng, đồng tuyết một màu trắng bạc, <tiếng gió cực hàn rít gào>.
+Shot 3: Góc quay cố định time-lapse, cực quang chuyển từ xanh lục sang tím nhảy múa biến hóa nhanh chóng, các ngôi sao lấp ló ẩn hiện.
+Shot 4: Chậm rãi đẩy gần, chi tiết rèm ánh sáng cực quang như lụa chảy xuống rủ xuống, <âm thanh nứt vỡ băng mặt thấp trầm>.
+Shot 5: Nâng hạ, ống kính lướt qua rừng thông tuyết hướng lên bầu trời đầy cực quang, lạnh lẽo trong suốt.
+Shot 6: Chậm rãi kéo xa, cực quang bao trùm toàn bộ băng nguyên, cây cô mộc đứng sừng sững, xuất hiện chữ 【Cực Địa Chi Quang】, (bức tường âm thanh dần mờ đi kết thúc).
+Ràng buộc: Màu sắc cực quang chuyển tiếp tự nhiên trôi chảy, tránh nhấp nháy gượng gạo; chủ đạo tông lạnh, không có nhân vật xuất hiện.
+Ràng buộc chung: Giữ không có phụ đề; không tạo Logo; không tạo hình mờ; mỗi shot chỉ dùng một cách vận hành máy quay; nhân vật cần chuyển động tự nhiên nhẹ nhàng, không phải tượng đá.
+```
+
+### No. 3: Núi lửa dung nham
+
+- **Category:** `Thiên Nhiên / Thiên Văn / Phim Tài Liệu`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Không có người tham chiếu, màn hình ngang 16:9, phong cách tài liệu địa chất chân thực sống động, tông màu tương phản giữa dung nham đỏ rực và khói lạnh từ đá đen, tạo video ngắn 30 giây về núi lửa.
+
+#### Prompt
+
+```text
+Không có người tham chiếu, màn hình ngang 16:9, phong cách tài liệu địa chất chân thực sống động, tông màu tương phản giữa dung nham đỏ rực và khói lạnh từ đá đen, tạo video ngắn 30 giây về núi lửa.
+Shot 1: Chậm rãi đẩy gần, dung nham đỏ rực trong miệng núi lửa sôi sùng sục, bắn tia lửa, khói đặc cuộn lên, (tiếng trống trầm gầm rú bắt đầu).
+Shot 2: Máy quay cố định, dòng dung nham chảy chậm tràn qua bề mặt đất đá đen, tạo ra các vết nứt vàng đỏ, <âm thanh sôi sùng sục và cháy của dung nham>.
+Shot 3: Quay từ trên cao, sông dung nham như mạch máu vàng uốn lượn chảy qua sườn đồi cháy đen.
+Shot 4: Chậm rãi di chuyển ngang, dung nham rơi xuống mặt biển kích thích hơi nước trắng bùng nổ, <âm thanh nổ của nước và lửa tương tác>.
+Shot 5: Quay từ dưới lên, dưới bầu trời đêm, núi lửa phun trào, đạn dung nham vẽ ra những vòng cung cam đỏ, cột khói bốc cao, (tiếng trống lên đến cao trào).
+Shot 6: Chậm rãi kéo xa, trên đồng dung nham nguội lạnh, tàn lửa lấp lánh như sao, xuất hiện chữ 【Trái đất · Trái tim rực lửa】, (tiếng gầm rú dần lắng xuống và kết thúc).
+Ràng buộc: Ánh sáng ấm đỏ rực và tông lạnh của đá đen tương phản mạnh mẽ; chất lỏng chảy của dung nham chân thực, sền sệt, không có người xuất hiện.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo hình mờ; Mỗi shot chỉ sử dụng một chuyển động máy; Nhân vật cần chuyển động tự nhiên nhẹ nhàng, không phải tượng đá.
+```
+
+### No. 4: Sương mù buổi sáng trong rừng
+
+- **Category:** `Thiên Nhiên / Thiên Văn / Phim Tài Liệu`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Không có người tham chiếu, màn hình ngang 16:9, phong cách tài liệu tự nhiên chữa lành chân thực, tông màu ánh sáng buổi sáng Tyndall và rừng sương xanh tươi, tạo video ngắn 30 giây về sương mù rừng buổi sáng.
+
+#### Prompt
+
+```text
+Không có người tham chiếu, màn hình ngang 16:9, phong cách tài liệu tự nhiên chữa lành chân thực, tông màu ánh sáng buổi sáng Tyndall và rừng sương xanh tươi, tạo video ngắn 30 giây về sương mù rừng buổi sáng.
+Shot 1: Chậm rãi đẩy gần, ánh sáng buổi sáng xuyên qua rừng sam cao tạo thành từng tia sáng Tyndall, sương mỏng trôi chảy, (tiếng sáo dài thanh thoát và tiếng chim hót bắt đầu).
+Shot 2: Máy quay cố định, giọt sương treo trên đầu lá dương xỉ khúc xạ ánh sáng buổi sáng rơi xuống, <tiếng chim hót trong trẻo nối tiếp nhau>.
+Shot 3: Di chuyển ngang ổn định, sương mù trôi chảy nhẹ nhàng trên suối đá rêu trong rừng, <tiếng suối chảy róc rách>.
+Shot 4: Quay từ dưới lên, ống kính di chuyển lên theo thân cây đến đỉnh tán rừng, ánh nắng đổ xuống, đốm sáng nhảy múa.
+Shot 5: Theo dõi, một con nai nhẹ nhàng xuyên qua rừng sương, bước đi uyển chuyển ngoảnh lại nhìn, <tiếng lá rơi nhẹ>.
+Shot 6: Chậm rãi kéo xa, toàn cảnh khu rừng trong sương buổi sáng dần sáng lên, xuất hiện chữ 【Rừng sáng · Vạn vật thức giấc】, (âm hưởng tiếng sáo dần lắng xuống).
+Ràng buộc: Tia sáng và tầng sương mù trong suốt tự nhiên; tông màu xanh tươi dịu dàng ấm áp; động tác của động vật chân thực không cứng nhắc, không có người xuất hiện.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo hình mờ; Mỗi shot chỉ sử dụng một chuyển động máy; Nhân vật cần chuyển động tự nhiên nhẹ nhàng, không phải tượng đá.
+```
+
+<a id="category-27"></a>
+
+### Nhân Hóa / Ý Tưởng Sáng Tạo (2)
+
+### No. 1: Nhân hóa đấu vật mô hình AI
+
+- **Category:** `Nhân Hóa / Ý Tưởng Sáng Tạo`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Không có người tham chiếu, sử dụng võ sĩ đấu vật nhân hóa nguyên bản (không ám chỉ bất kỳ công ty thực tế hoặc nhãn hiệu thương mại nào), màn hình dọc 9:16, phong cách anime nhiệt huyết đấu trường cyber, tông màu neon toàn ảnh, tạo video ngắn 30 giây về đấu vật nhân hóa.
+
+#### Prompt
+
+```text
+Không có người tham chiếu, sử dụng võ sĩ đấu vật nhân hóa nguyên bản (không ám chỉ bất kỳ công ty thực tế hoặc nhãn hiệu thương mại nào), màn hình dọc 9:16, phong cách anime nhiệt huyết đấu trường cyber, tông màu neon toàn ảnh, tạo video ngắn 30 giây về đấu vật nhân hóa.
+Shot 1: Chậm rãi đẩy gần, giữa đấu trường toàn ảnh, hai võ sĩ nhân hóa cơ giới nguyên bản đối mặt nhau tích lũy sức mạnh, lõi năng lượng trên ngực sáng lên, (tiếng trống điện tử nhiệt huyết bùng nổ bắt đầu).
+Shot 2: Theo dõi, võ sĩ dòng dữ liệu màu xanh vung ra cú đấm ánh sáng với bóng mờ kéo dài, <tiếng o o năng lượng tần số cao>.
+Shot 3: Vòng quanh, võ sĩ sức tính toán màu cam né tránh, tay ngược lại đỡ đòn, tia lửa bắn tung tóe, quỹ đạo ánh sáng neon bao quanh.
+Shot 4: Quay từ dưới lên, hai nắm đấm va chạm bùng nổ sóng xung kích lật đổ khán đài toàn ảnh hạt, chữ bật ra 【Đối đầu tốc độ suy luận】.
+Shot 5: Máy quay cố định chuyển động chậm, lõi của võ sĩ phe xanh quá tải nứt vỡ bị đẩy lùi, mảnh mã bay tán loạn, <âm thanh nổ của dòng điện>.
+Shot 6: Chậm rãi kéo xa, võ sĩ phe cam đứng trên võ đài giơ nắm đấm, bảng xếp hạng toàn ảnh sáng lên, xuất hiện chữ 【Chiến thắng vòng này】, (tiếng trống kết thúc).
+Ràng buộc: Hai võ sĩ phải có màu sắc và thiết kế phân biệt rõ ràng (xanh vs cam), cấm giống hệt nhau, mỗi người một phe trong khung hình; hoàn toàn nhân hóa nguyên bản, không xuất hiện bất kỳ nhận diện thương hiệu hoặc tên thực tế nào.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo hình mờ; Mỗi shot chỉ sử dụng một chuyển động máy; Nhân vật cần chuyển động tự nhiên nhẹ nhàng, không phải tượng đá.
+```
+
+### No. 2: Ngôn ngữ lập trình nhân hóa đối đầu
+
+- **Category:** `Nhân Hóa / Ý Tưởng Sáng Tạo`
+- **Source:** `community`
+- **Author:** Atlas Cloud
+- **Language:** `vi`
+
+#### Description
+
+Không tham chiếu nhân vật thật, sử dụng nhân vật nhân hóa nguyên bản (không ám chỉ bất kỳ công ty hoặc thương hiệu thực tế nào), tỷ lệ ngang 16:9, phong cách hài kịch tình huống văn phòng, tông màu ấm sáng, tạo video ngắn 30 giây về cuộc đối đầu nhân hóa.
+
+#### Prompt
+
+```text
+Không tham chiếu nhân vật thật, sử dụng nhân vật nhân hóa nguyên bản (không ám chỉ bất kỳ công ty hoặc thương hiệu thực tế nào), tỷ lệ ngang 16:9, phong cách hài kịch tình huống văn phòng, tông màu ấm sáng, tạo video ngắn 30 giây về cuộc đối đầu nhân hóa.
+Shot 1: Chậm rãi đẩy gần, hai nhân vật nhân hóa lập trình viên nguyên bản nhìn nhau qua vách ngăn bàn làm việc, nhướng mày, màn hình toàn ảnh mã code trên bàn nhấp nháy, (giai điệu jazz tinh nghịch bắt đầu).
+Shot 2: Góc máy cố định, nhân vật linh vật hình rắn thả lỏng vươn tay, buông lời bình luận {Tôi một dòng xong, anh viết hai mươi dòng}, <âm thanh gõ bàn phím>.
+Shot 3: Quay theo, nhân vật áo giáp bánh răng không phục, đứng dậy đập bàn phản bác {Nhưng tôi chạy nhanh hơn anh gấp mười lần}, màn hình toàn ảnh bật lên thanh tiến trình.
+Shot 4: Quay vòng quanh, hai nhân vật dựa lưng vào nhau không chịu nhường, ký hiệu code va chạm trên đỉnh đầu tóe tia lửa, <hiệu ứng âm thanh va chạm leng keng>.
+Shot 5: Góc máy từ trên xuống, nhân vật thứ ba là thú cưng hình tách cà phê mang đến hai ly cà phê hòa giải, hai người nhìn nhau ngượng ngùng.
+Shot 6: Chậm rãi kéo xa, ba nhân vật khoác vai chạm cốc hòa giải cười lớn, xuất hiện dòng chữ 【Mỗi người có sở trường riêng mới là ngăn xếp mạnh nhất】, (giai điệu jazz kết thúc).
+Ràng buộc: Thiết kế và màu sắc của ba nhân vật phải phân biệt rõ ràng (hình rắn/bánh răng/tách cà phê), cấm giống hệt nhau, mỗi loại một nhân vật trong khung hình; nhân hóa hoàn toàn nguyên bản, không xuất hiện bất kỳ nhãn hiệu, logo hoặc tên đăng ký ngôn ngữ lập trình thực tế nào.
+Ràng buộc chung: Giữ không có phụ đề; Không tạo Logo; Không tạo hình mờ; Mỗi shot chỉ sử dụng một cách quay phim; Nhân vật cần cử động tự nhiên nhẹ, không phải tượng đá.
+```
+
+<a id="category-28"></a>
+
 ### Film & Storytelling (11)
 
 ### No. 1: Wordless Narrative
@@ -1018,7 +3523,7 @@ Movie trailer promotion, creating multiple language voiceover versions from a si
 Change any English in the sound, dialogue, narration, and title subtitles to French/Japanese, keep everything else consistent.
 ```
 
-<a id="category-10"></a>
+<a id="category-29"></a>
 
 ### Advertising & E-commerce (8)
 
@@ -1254,7 +3759,7 @@ Negative Prompt
 Do not change the room layout. Do not move furniture. Do not add or remove objects. Do not change the rug, coffee table, TV, plants, curtains, window, wall art, shelves, radiator, or doorframe. Do not change the camera movement. Do not change the sofa shape or size. Do not make the leather look plastic. Do not make the marble overly reflective like a mirror. Do not create broken or chaotic marble veins. Do not replace the rug with marble. Do not alter the walls or ceiling. No people, no text, no logo, no UI, no selection mask, no fantasy effect, no melting transition, no flickering.
 ```
 
-<a id="category-11"></a>
+<a id="category-30"></a>
 
 ### Knowledge & Explainer (6)
 
@@ -1413,7 +3918,7 @@ One guide moves through different exhibits, naturally switching between English,
 Camera: 16:9 warm documentary style, slow museum walkthrough, guide moments mixed with object close-ups.
 ```
 
-<a id="category-12"></a>
+<a id="category-31"></a>
 
 ### Industrial & Manufacturing (4)
 
@@ -1519,7 +4024,7 @@ Modify @Video 1, replace the left robotic arm and gripper with the silver roboti
 Replace the grabbed item with a slice of whole wheat toast; replace the original green wall and blue table with a clean white-gray industrial laboratory environment, with metal equipment racks, gray-white workbenches, and white laboratory lighting in the background.
 ```
 
-<a id="category-13"></a>
+<a id="category-32"></a>
 
 ### Creative & Misc (3)
 
@@ -1611,6 +4116,243 @@ Using a real dancer's motion video as reference, precisely transfer the movement
 Referencing the character movements in @Video 1, generate a dance video featuring a character wearing Dunhuang-style attire in front of the Mogao Caves.
 ```
 
+<a id="category-33"></a>
+
+### Capability Showcase (7)
+
+### No. 1: Extended Scene: Warm Living Room Life
+
+- **Category:** `Capability Showcase`
+- **Source:** `official`
+- **Author:** ByteDance Seedance
+- **Language:** `vi`
+- **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/practice/HnGzbX7hfoxGmgxCuL0cLYUXnMg.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/HnGzbX7hfoxGmgxCuL0cLYUXnMg.mp4" controls muted playsinline width="720"></video>
+
+- **Inputs:**
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/WZJHb7wJyoGQjuxhUSXcA6dTnsh.mp4" controls muted width="360"></video>
+
+#### Description
+
+Seamlessly extend a warm living room scene with reading, a cat, a child, and evening ambiance.
+
+#### Prompt
+
+```text
+Using @Video 1 as the original footage, keep the sofa, color palette, lighting, and camera movement logic completely consistent. Naturally extend the timeline at its end and seamlessly continue the warm living room life scene: The hostess, wearing beige knit loungewear, sits on the same sofa reading, with a beige blanket on her lap, and gently places a coffee cup on the tea table; a cat lightly jumps onto the cushion; a child runs in and leans on her shoulder, the hostess looks down and smiles; the floor lamp lights up at night, the three quietly lean on the sofa, the camera slowly pulls back and holds, leaving space for the brand logo.
+```
+
+### No. 2: Gecko Escape Plan: Audio Reference
+
+- **Category:** `Capability Showcase`
+- **Source:** `official`
+- **Author:** ByteDance Seedance
+- **Language:** `vi`
+- **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/practice/A3R1bhWLqo5lCgxSjyDc7IFtn2E.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/A3R1bhWLqo5lCgxSjyDc7IFtn2E.mp4" controls muted playsinline width="720"></video>
+
+#### Description
+
+Two geckos, one cautious and one impulsive, plan their escape from a circus backstage in a 3D animated short.
+
+#### Prompt
+
+```text
+[Two Geckos' Escape Meeting — 3D Animation | Circus Backstage | About 20 Seconds]
+
+[Logline] The opening uses an establishing shot to show 'this is the circus backstage', then two geckos (one chubby, one tiny) discuss escape strategies, have a brief argument, and finally reach an agreement; amplified backstage ambient noise is primary, with background music almost always present, intensifying at key emotional points.
+
+[Character Reference (Appearance 100% consistent, no drift throughout)]
+——Chubby: A plump, round-bodied gecko with a rotund belly, short thick limbs, skin with warm brown spotted matte scale texture, a thick short tail storing fat making it look pudgy, wide toe pads, puffy cheeks, large round eyes, a simple expression, and slightly slow movements; personality is cautious, timid, loves to eat, but can muster courage and think of solutions at critical moments.
+——Tiny: A petite juvenile gecko, eyes large and bright almost filling its small head, skin with light yellow-green fresh scale color and fine spots, tail thin and flexible, toe tips can adhere for climbing, movements are agile and jumpy; personality is impatient, impulsive, fearless, and the one who proposes the escape.
+
+[Voice Reference (Fixed voice per character)]
+Chubby: Low, simple, middle-aged male voice, slightly slow speech, with a timid tremble. Reference [Audio 1].
+Tiny: High, fast, youthful voice, sharp and impulsive, voice cracks when emotions run high. Reference [Audio 2].
+[Ambient Sound Reference]
+——Ambience: A layer of circus backstage ambient noise (distant tent clamor, faint animal sounds, canvas flapping in wind, wooden frame creaking, distant human voices with reverb, etc.) runs throughout as the scene's atmospheric base; ambient sound volume is overall amplified, most prominent in the opening establishing shot, serving as the main sound field of the entire piece; ambient sound reference [Audio 3].
+
+[Background Music Reference]
+——Accent: A piece of background music (playfully suspenseful, light with a touch of tension), almost always present as a base, appearing for a long duration, gently fades in from the opening establishing shot, volume intensifies at the proposal, argument climax, and ending freeze-frame; only briefly lowered during dense dialogue to make way for lines, but never completely disappears, does not cover dialogue, does not overpower; music reference [Audio 4].
+[Scene Lock (Geometrically constant, no drift throughout)]
+Circus Backstage: Inside a dim, cluttered circus backstage tent, ambient noise reference matches ambient sound — left side has a row of animal cages (cold light seeps through gaps), center has several stacked prop boxes and rolled-up colorful tent canvas, right side has a canvas flap exit leading outside (gaps emit night blue light) and a swaying warm yellow hanging lamp, ground is trampled wood shavings and straw. Layout locked: Two geckos surround a large prop box used as a table in the center — Chubby lies on the left side of the box (x~30%), back against the cages; Tiny climbs / hops on top or right side of the box (x~65%), most active, toe tips occasionally adhering to the box surface. Exit is at the far right of the frame.
+[3D Animation Style / Visual Texture] High-quality 3D animation, fine rendering of scales and skin (visible detailed texture of each scale, skin micro-gloss and muscle movement, softness of toe pad adhesion), character expressions exaggerated and lively, rich with cartoon performance tension; night circus backstage atmosphere — cold blue ambient light primary, right-side warm yellow hanging lamp secondary, teal-and-amber warm-cool contrast, shallow depth of field, cinematic lighting, 55mm virtual lens.
+
+[Shot Language] Handheld-style agile camera movement with real operational weight; editing rhythm driven by emotion, emotional climax points can sync with accentuated downbeats from [Audio 4]. Opening uses an establishing shot to show the scene, then each segment first uses a positioning wide shot to establish the two geckos' relative positions, then cuts into coverage shots. Moderate use of rhythmic staging: quick whip pans switching between speakers, crash-in close-ups landing on emotional climax points, fast-cut shot/reverse-shot during argument. Facial close-ups must capture eyes, vertical pupil contraction, throat movement, toe tip gripping, and mouth shapes; eye lines look at each other, never at the camera; natural blinking (including gecko-style eye licking) and eye movement. Hard cuts, no dissolves.
+[Hard Locks] Only the two named geckos throughout, no third gecko, no extras, no clones/duplicates; their size difference (plump / petite) maintained every frame; dialogue spoken word-for-word (English), only one main speaker at a time (argument climax allows brief overlapping/interrupting); opening establishing shot segment has no dialogue; audio track hierarchy: amplified [Audio 3] ambient noise primary, [Audio 4] accent background music long-duration base and intensifying at key points, not covering dialogue; no subtitles / on-screen text; 3D realistic scale skin, stable, no extra limbs or ghosting.
+
+Shot 1 (0–3 sec) · Establishing Shot (No Dialogue)
+Pure environment shot, no character dialogue: camera slowly pans across the circus backstage tent interior — left side animal cages' cold light, center stacked prop boxes and rolled colorful tent canvas, right side canvas flap exit emitting night blue light and swaying warm yellow lamp, trampled wood shavings and straw on ground. This segment ambient noise volume is highest, most prominent (tent clamor, distant animal sounds, canvas flapping in wind, frame creaking), [Audio 4] accent gently fades in here as a base, clearly establishing 'this is the circus backstage'. Hard cut.
+
+Shot 2 (3–7 sec) · Positioning + Proposal
+Positioning wide shot reveals two geckos surrounding the central prop box. Hard cut. — Handheld medium shot pushes in on Tiny (voice reference [Audio 2]), it hops onto the box, toe tips audibly adhere to the surface (with crisp adhesion sound effect), speaking low and urgent: "Tonight — we break out of here!" — Reverse shot to Chubby (voice reference [Audio 1]) facial close-up, throat constricts, vertical pupils tremble, trembling voice: "B-break out? It's dangerous…"
+
+Shot 3 (7–13 sec) · Argument Confrontation (Climax)
+Fast-cut shot/reverse-shot argument, allows brief overlapping dialogue, — Tiny (voice reference [Audio 2]) jumps, tail flicks, points at Chubby, voice cracking: "You're just a coward!" — Chubby (voice reference [Audio 1]) unusually raises volume to overpower it, near tears: "Stop shouting — the guard'll hear us!" Facial close-ups: each face showing anger and panic, vertical pupils contracting, throat and tail shaking violently; at the argument peak, music and ambient noise briefly lower to highlight the two arguing voices.
+
+Shot 4 (13–18 sec) · Turning Point + Agreement
+— Chubby (voice reference [Audio 1]) suddenly musters courage, serious: "I'll block the guard. You slip out and open the door." — Whip pan to Tiny, pauses, vertical pupils relax, grins: "…That actually works!" (Music warms up, volume rises again)
+
+Shot 5 (18–20 sec) · Freeze Frame High-Five
+Slow push two-gecko side-by-side shot: both geckos extend small claws (toe pads touch) stacked together (with gentle toe pad contact sound effect), eyes look together towards the right exit, [Audio 4] accent ends with one accentuated downbeat. Tiny (voice reference [Audio 2]) whispers: "Midnight. We move." Night light from the canvas flap gap illuminates their determined faces, frame freezes on their resolute expressions, amplified ambient noise and music together fade out.
+
+[Negative Constraints] No third gecko or any extras/clones; their sizes and appearances must not drift or face-swap; no duplicated props; no character duplicates in mirror reflections; no subtitles, no on-screen text, no text overlays; only hard cuts, no dissolves; opening establishing shot segment must not have character dialogue; maintain the emotional arc of "ambient setup → proposal → argument confrontation → agreement", ending must land on both parties agreeing and determined; audio track hierarchy fixed as amplified ambient noise primary, background music long-duration base and intensifying at key points, not covering dialogue. Characters speak English (All characters speak English).
+```
+
+### No. 3: Headphone Ad: Cinematic Motion And Rhythm Transfer
+
+- **Category:** `Capability Showcase`
+- **Source:** `official`
+- **Author:** ByteDance Seedance
+- **Language:** `vi`
+- **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/practice/BOp2bIPSBoX7XexnVWKcgib7nxg.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/BOp2bIPSBoX7XexnVWKcgib7nxg.mp4" controls muted playsinline width="720"></video>
+
+- **Inputs:**
+
+<p>
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/WLVebLB37oqQcuxhL8GcnLPJnvd.jpg" width="180" referrerpolicy="no-referrer">
+</p>
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/OW6hboG1IoKFvgxZF7OclqYCnye.mp4" controls muted width="360"></video>
+
+#### Description
+
+Create a headphone ad by transferring the camera work and editing rhythm from a reference video.
+
+#### Prompt
+
+```text
+Reference the camera movement techniques and editing rhythm of @Video 1 to generate an advertising short film for the headphones @Image. Adapt to scenes that match the product's tone, emphasizing modernity, simplicity, and a sense of technology. The switching points between product close-ups and scene panoramas are consistent with the original film, maintaining the same motion speed and transition methods.
+```
+
+### No. 4: One-Shot Journey Through Time
+
+- **Category:** `Capability Showcase`
+- **Source:** `official`
+- **Author:** ByteDance Seedance
+- **Language:** `vi`
+- **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/practice/Y45Dbn2wjo73dyx2MencnrVOnDb.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/Y45Dbn2wjo73dyx2MencnrVOnDb.mp4" controls muted playsinline width="720"></video>
+
+- **Inputs:**
+
+<p>
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/FFjKbfMzKoHxEWxbCU8c5vB3n9e.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/BRZFbmkk6oOgaJx98bxcR5bunVf.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/ZR6Tb4dSTotLNKxZoGEcTlMqn9e.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/WxWqbQ3PJoG2asxMGPvcl7CInRh.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/EygIbzFAgoSuWQxVNYBcjrDunGf.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/AueXb1JUqonfRfxyKNKcinednnd.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/LDhubYpeYoIqaQx7cJ4c2DNcnpd.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/LP9ubVtwSoYkNZxnnEUc4KqKnyc.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/A0JMbZZkaoKTG4xOQA2cu054nrh.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/QuwxbzNvBo820IxoG6ncMfWSnYg.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/QS1Jbr7PEo9xq5xwKtGcYKzgn9b.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/KTuxbEw9qoOCTPxmpJxc7iEsnBh.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/N4yqbYos8olyHMx3xwncSC5snlf.jpg" width="180" referrerpolicy="no-referrer">
+</p>
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/O18Mbz7JbogifhxUBQGcbIGZnQc.mp4" controls muted width="360"></video>
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/WpovbZilboy4QGxBHcPcE8oLnBb.mp4" controls muted width="360"></video>
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/Bic2bbcq6oLab1xEzxGcjV8XnoJ.mp4" controls muted width="360"></video>
+
+#### Description
+
+A 26-second one-shot film follows a solitary woman through shifting seasons and day into night.
+
+#### Prompt
+
+```text
+Core Instruction: A full 26-second one-shot (One-Shot) narrative short film, stable follow shot, referencing [Video 1] and smooth orbiting camera movement, referencing [Video 2] interwoven. Smooth sense of progression. Achieve day-night alternation and seasonal flow within the shot. The protagonist is a European woman [Image 1], placed in a bustling crowd full of life, highlighting an extreme sense of loneliness and cinematic photography quality.
+
+Segmented Camera Movement and Scene Description:
+0-3 seconds (steady back follow): An old wooden door [Image 2] creaks open, the camera closely follows the European woman's back wearing [Image 3] as she steps out. She pauses slightly at the threshold, the street ahead dappled with light and shadow, the sounds of hawking and crowds washing over her. Her expression is detached as she slowly steps forward to merge into the street.
+3-6 seconds (back/side follow): The camera maintains smooth follow, she enters a crowded morning market, atmosphere reference [Video 3]. Both sides are packed with vibrantly colored fruit stalls and spice shops, a troupe of street performers is breathing fire dragons, reference [Image 4], the firelight illuminates the crowd, but she doesn't glance sideways, walking at a steady pace through.
+6-9 seconds (side smooth orbit): The camera begins a smooth orbit towards the front side, capturing the protagonist's profile. She passes a noisy butcher shop [Image 5], a young mother carrying a baby [Image 6] brushes past her, the baby stares at her curiously, but she merely lowers her eyes slightly to avoid the gaze, not pausing at all.
+9-12 seconds (front reverse follow): The camera continues orbiting to the protagonist's front, performing a reverse follow shot. The crowd ahead suddenly parts naturally like Moses parting the sea, a large elephant draped in ornate red cloth [Image 7] appears from the right side of the frame with steady steps, occupying most of the frame.
+12-15 seconds (gap penetration and orbit back): At the moment the woman and the elephant are about to collide, the camera cleverly slides through the narrow gap between the elephant and the woman, orbiting back to her back. The elephant passes by, massive and quiet, mischievous children cheer and chase it. Elephant bells, laughter are deafening, yet she doesn't even slow her pace.
+15-18 seconds (environmental light gradient): As she walks, the light within the long shot magically transforms—the piercing summer sunlight instantly softens, a gust of wind swirls up a sky full of golden leaves [Image 8], the season seamlessly transitions to late autumn within the same long shot. Leaves brush past her shoulder.
+18-21 seconds (360-degree immersive orbit): Ahead suddenly erupts into a grand street festival [Image 9]. The air sprays confetti and shredded paper, vendors lean out cheering. At this moment, the camera executes a continuous 360-degree orbiting shot, creating an extremely strong visual tear between the quiet, lonely protagonist and the狂热 surroundings.
+21-24 seconds (orbit back to side/rear): When the camera completes its orbit and returns to her side/rear, the falling confetti has quietly transformed into a sky full of falling snow—instantly winter [Image 10]. Pedestrians纷纷 put up umbrellas or pull up hoods, the woman shivers slightly, turns up her coat collar, her clothing changes to [Image 11], continuing her solitary walk in the snow.
+24-26 seconds (slow push follow): As she walks towards the end of the long street, the sky visibly darkens during her progression, day seamlessly sinks into night. The dim yellow street lamps and stall light bulbs on both sides light up one after another [Image 12], vendors pack up their goods, the喧闹声 seems to be slowly absorbed and distanced by the heavy snow, her steps gradually slow. The night sky suddenly erupts with grand fireworks [Image 13], fireworks sound reference [Audio 1]五彩 light spots flicker and dance on the building walls and in her eyes. The world remains热闹, yet she looks up quietly, the camera slowly pulls back, ending gently here.
+```
+
+### No. 5: Martial Scene Swap: Cold Weapon Duel
+
+- **Category:** `Capability Showcase`
+- **Source:** `official`
+- **Author:** ByteDance Seedance
+- **Language:** `vi`
+- **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/practice/FL7ib6OOSoe96MxqNlgckIWGnVg.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/FL7ib6OOSoe96MxqNlgckIWGnVg.mp4" controls muted playsinline width="720"></video>
+
+- **Inputs:**
+
+<p>
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/DoDXbFDxQo4pPIxlikCc2P7Rn7c.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/MUDCbrgtSoDt0lxHkSscA2WEnsC.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/U1HIb6IRqoTYB6x3UK1cstAGnnb.jpg" width="180" referrerpolicy="no-referrer">
+</p>
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/AboGbncdgoC2jRxvQIvcB0lHn1b.mp4" controls muted width="360"></video>
+
+#### Description
+
+Replace a bare-handed fight with a cold weapon duel in a classical, atmospheric setting.
+
+#### Prompt
+
+```text
+Replace the bare-handed fight video of two people @Video 1 with the empty-handed probing style before a cold weapon duel.
+Replace the scene with a medieval stone castle platform, ancient courtyard flat ground, mountain fortress outer platform, or simple stone brick dueling ground, with a background of ancient castle walls, wind, fog, distant mountain lines, and flat stone ground @Image 1.
+Replace the clothing of the man in dark clothes in the video with @Image 2, and replace the man in light clothes with @Image 3. Keep the actions unchanged, do not alter the original rhythm.
+AI effects only enhance environment and texture: wind blowing clothes, light fog, a small amount of dust at contact points, cold metallic reflective texture, slight grain, and epic color grading. Overall style is restrained, realistic, classical hardcore duel atmosphere. Background music hits the beat.
+```
+
+### No. 6: Complex Emotions In Theater Audience
+
+- **Category:** `Capability Showcase`
+- **Source:** `official`
+- **Author:** ByteDance Seedance
+- **Language:** `vi`
+- **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/practice/XdEWbJtQkoZkZ2xIKCScwAmrnkf.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/XdEWbJtQkoZkZ2xIKCScwAmrnkf.mp4" controls muted playsinline width="720"></video>
+
+#### Description
+
+A young girl in a theater audience watches a performance with a mix of pride, heartache, and suppressed tears.
+
+#### Prompt
+
+```text
+Theater audience, a young girl with her hands clasped near her chin, gazing at the performance on stage. Her emotions are complex and mixed; there is pride in her eyes, heartache, and the glimmer of suppressed tears. Her lips are lightly pressed together, her eyelashes tremble, tears well up in her eyes but she forces them not to fall. The core presentation is the authentic, mixed feelings of watching someone dearest to you shine.
+```
+
+### No. 7: Acceptance Letter's Quiet Joy
+
+- **Category:** `Capability Showcase`
+- **Source:** `official`
+- **Author:** ByteDance Seedance
+- **Language:** `vi`
+- **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/practice/PcB8bEhXwo12taxDwXVchOfqnlc.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/PcB8bEhXwo12taxDwXVchOfqnlc.mp4" controls muted playsinline width="720"></video>
+
+#### Description
+
+A young woman experiences restrained, complex emotions upon receiving her acceptance letter at dusk.
+
+#### Prompt
+
+```text
+A young East Asian woman sits by a study window at dusk, facing a laptop, warm golden side/back light on her face. Her performance is deeply restrained, with emotion conveyed through her eyes, shallow breathing, a choked throat, and trembling fingertips. She moves from disbelief to tearful suspension; as one tear falls, a faint smile appears, ending in quiet relief as she looks outside. Slow, steady camera movement, close-ups for micro-expressions, a slight push-in at the moment the tear gives way to a smile, soft focus on " Acceptance Letter," 35mm film texture, shallow depth of field, low-light grain.
+```
+
 <a id="faq"></a>
 
 ## ❓ Frequently asked questions
@@ -1668,4 +4410,4 @@ npx tsc --noEmit
 
 > All prompts are shared for learning, organization, and discovery. Open an issue if anything should be removed.
 
-> This README is auto-generated. 2026-07-31.
+> This README is auto-generated. 2026-08-01.

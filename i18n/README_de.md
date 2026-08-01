@@ -4,7 +4,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedance-2.5-prompts-skills?style=social)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-143%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
+[![Prompts](https://img.shields.io/badge/prompts-150%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills)
 
 A curated library of Seedance 2.5 video prompts plus **Seedance 2.5 Skill**, an installable Agent Skill that improves prompts, plans and reviews storyboards when needed, and generates controllable video. It uses Seedream 5.0 Pro for storyboard images and Seedance 2.0 as the current executable video default, switching to Seedance 2.5 only when the selected provider exposes it.
 
@@ -135,10 +135,10 @@ Every prompt record keeps its category, source platform, author, source link, in
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **143** |
-| Categories | **32** |
-| Preview Videos | **43** |
-| Last Updated | **2026-07-31** |
+| Total Prompts | **150** |
+| Categories | **33** |
+| Preview Videos | **50** |
+| Last Updated | **2026-08-01** |
 
 <a id="featured-prompts"></a>
 
@@ -397,6 +397,7 @@ Ein heller, farbenfroher Werbestil mit Frucht-Keksen als Hauptdarsteller, in vie
 - [`Knowledge & Explainer`](#category-30): **6**
 - [`Industrial & Manufacturing`](#category-31): **4**
 - [`Creative & Misc`](#category-32): **3**
+- [`Capability Showcase`](#category-33): **7**
 
 <a id="all-prompts"></a>
 
@@ -851,7 +852,7 @@ Shot 5: Halbnah, das fertige Smoothie und das Gerät sind zusammen im Bild, die 
 通用约束：Ohne Untertitel; kein Logo generieren; kein Wasserzeichen generieren; jede Einstellung verwendet nur eine Kamerabewegung; Personen müssen sich natürlich und leicht bewegen, nicht wie Statuen.
 ```
 
-### No. 6: Baby- und Mutterschaftsprodukte
+### No. 6: Baby and Maternity Products
 
 - **Category:** `E-Commerce Und Live-Shopping`
 - **Source:** `community`
@@ -860,19 +861,19 @@ Shot 5: Halbnah, das fertige Smoothie und das Gerät sind zusammen im Bild, die 
 
 #### Description
 
-Hochformat 9:16, sanfter, heilsamer realistischer Alltagsstil. Hauptmotiv ist eine Baby-Isolierflasche. Generiere einen 30-Sekunden-Präsentationsfilm für Baby- und Mutterschaftsprodukte.
+Portrait 9:16, soft, healing realistic daily life style. The main subject is a baby insulated bottle. Generate a 30-second presentation video for baby and maternity products.
 
 #### Prompt
 
 ```text
-Hochformat 9:16, sanfter, heilsamer realistischer Alltagsstil. Hauptmotiv ist eine Baby-Isolierflasche. Generiere einen 30-Sekunden-Präsentationsfilm für Baby- und Mutterschaftsprodukte.
-Shot 1: Halbnah, die Flasche steht auf einer weichen Unterlage im Kinderzimmer, die Kamera fährt langsam auf den Anti-Kolik-Sauger zu, warmes, weiches Licht, (sanfte Klaviermusik beginnt).
-Shot 2: Großaufnahme, eine Hand schraubt den Deckel ab und zeigt die breite Öffnung und die Skala, die Kamera schwenkt gleichmäßig horizontal, <sanftes Geräusch des Deckelabschraubens>.
-Shot 3: Großaufnahme, nach dem Einfüllen von warmem Wasser berührt eine Hand die Flasche, um die konstante Temperatur zu spüren, die Kamera ist fest positioniert.
-Shot 4: Halbtotale, die Mutter hält die Flasche, schüttelt sie leicht, um die Temperatur zu prüfen, und bereitet sich auf die Fütterung vor, die Kamera fährt langsam auf und ab, <leichtes Geräusch des Wasserschwappens>.
-Shot 5: Halbnah, die Flasche und ein weiches Kuscheltier sind zusammen im Bild für die Endpose, die Kamera zoomt langsam heraus zum Abschluss, (Musik klingt aus).
-约束：Die Farbe der Flasche, die Skala am Flaschenkörper und das Saugermodell müssen während des gesamten Videos konsistent sein; das warme Licht im Kinderzimmer und der weiche Unterlagenhintergrund bleiben unverändert; die Bildstimmung muss sanft und warm bleiben.
-通用约束：Ohne Untertitel; kein Logo generieren; kein Wasserzeichen generieren; jede Einstellung verwendet nur eine Kamerabewegung; Personen müssen sich natürlich und leicht bewegen, nicht wie Statuen.
+Portrait 9:16, soft, healing realistic daily life style. The main subject is a baby insulated bottle. Generate a 30-second presentation video for baby and maternity products.
+Shot 1: Medium close-up, the bottle stands on a soft mat in the nursery, the camera slowly pushes in towards the anti-colic nipple, warm, soft lighting, (gentle piano music begins).
+Shot 2: Close-up, a hand unscrews the cap to reveal the wide opening and the scale, the camera pans smoothly horizontally, <gentle sound of cap unscrewing>.
+Shot 3: Close-up, after pouring in warm water, a hand touches the bottle to feel the constant temperature, the camera is fixed.
+Shot 4: Medium full shot, the mother holds the bottle, gently shakes it to check the temperature, and prepares for feeding, the camera slowly tilts up and down, <gentle sound of water sloshing>.
+Shot 5: Medium close-up, the bottle and a soft plush toy are together in the frame for the final pose, the camera slowly zooms out to conclude, (music fades out).
+Constraints: The color of the bottle, the scale on the bottle body, and the nipple model must be consistent throughout the entire video; the warm lighting in the nursery and the soft mat background remain unchanged; the image mood must remain soft and warm.
+General Constraints: Without subtitles; do not generate a logo; do not generate a watermark; each shot uses only one camera movement; people must move naturally and lightly, not like statues.
 ```
 
 ### No. 7: Lebensmittel-Geschenkbox
@@ -1243,7 +1244,7 @@ Shot 5: Totale, Model @Image 1 bleibt in der Straßenmitte stehen, breitet die A
 通用约束: Ohne Untertitel; Kein Logo generieren; Kein Wasserzeichen generieren; Jede Einstellung verwendet nur eine Kamerabewegung; Personen müssen sich natürlich und leicht bewegen, nicht wie Statuen.
 ```
 
-### No. 6: Frisuren-Präsentation
+### No. 6: Hairstyle Presentation
 
 - **Category:** `Beauty Und Mode`
 - **Source:** `community`
@@ -1252,19 +1253,19 @@ Shot 5: Totale, Model @Image 1 bleibt in der Straßenmitte stehen, breitet die A
 
 #### Description
 
-Die Model-Frisur aus Bild 1 (Haarfarbe und Styling wie in Bild 1) als Hauptmotiv, Hochformat 9:16, Salon-Werbequalität mit weichem Licht, generiere einen 30-Sekunden-Frisuren-Kurzfilm.
+The model's hairstyle from Image 1 (hair color and styling as in Image 1) as the main motif, portrait 9:16 format, salon advertising quality with soft light, generate a 30-second hairstyle short film.
 
 #### Prompt
 
 ```text
-Die Model-Frisur aus Bild 1 (Haarfarbe und Styling wie in Bild 1) als Hauptmotiv, Hochformat 9:16, Salon-Werbequalität mit weichem Licht, generiere einen 30-Sekunden-Frisuren-Kurzfilm.
-Shot 1: Nahaufnahme, Model @Image 1 senkt den Kopf, Haare fallen vor das Gesicht, Kamera feststehend, (rhythmische Musik-Intro).
-Shot 2: Amerikanische, Model wirft den Kopf plötzlich zurück, Haare werfen in Zeitlupe eine Kurve, Kamera fährt langsam zurück, <Rauschen der bewegten Haare>.
-Shot 3: Nahaufnahme, Kamera umkreist den Kopf, Licht streicht über die glatten Glanzlichter der Haare.
-Shot 4: Halbtotale, Kamera folgt den Fingern des Models, die durch das Haar gleiten, die Haarsträhnen fallen in klaren Schichten.
-Shot 5: Amerikanische, Model @Image 1 dreht sich um, blickt zurück und friert ein, Frisur ist voll und definiert, Kamera fährt langsam heran, 【Spiegelglanz】.
-约束: Haarfarbe und Frisurenkontur wie in Bild 1; Haarwurf muss natürlich und geschmeidig sein, ohne Durchdringung oder Brüche.
-通用约束: Ohne Untertitel; Kein Logo generieren; Kein Wasserzeichen generieren; Jede Einstellung verwendet nur eine Kamerabewegung; Personen müssen sich natürlich und leicht bewegen, nicht wie Statuen.
+The model's hairstyle from Image 1 (hair color and styling as in Image 1) as the main motif, portrait 9:16 format, salon advertising quality with soft light, generate a 30-second hairstyle short film.
+Shot 1: Close-up, model @Image 1 lowers her head, hair falls in front of her face, static camera, (rhythmic music intro).
+Shot 2: Medium shot, model suddenly throws her head back, hair swings in slow motion in an arc, camera slowly pulls back, <sound of moving hair>.
+Shot 3: Close-up, camera circles the head, light glides over the smooth highlights of the hair.
+Shot 4: Medium full shot, camera follows the model's fingers as they glide through the hair, the hair strands fall in clear layers.
+Shot 5: Medium shot, model @Image 1 turns around, looks back and freezes, hairstyle is full and defined, camera slowly pushes in, 【mirror shine】.
+Constraints: Hair color and hairstyle contour as in Image 1; hair movement must be natural and smooth, without penetration or breaks.
+General constraints: No subtitles; Do not generate a logo; Do not generate a watermark; Each shot uses only one camera movement; People must move naturally and lightly, not like statues.
 ```
 
 <a id="category-12"></a>
@@ -2194,7 +2195,7 @@ Shot 5: Die Kamera zoomt langsam heraus und blickt von oben auf das gesamte näc
 Constraints: Durchgehend Cyberpunk-Neon-hochgesättigt; feuchte, reflektierende Textur durchgehend; Lichtspuren und Neonlichter mit reichhaltigen Schichten.
 ```
 
-### No. 5: 沙漠驼队
+### No. 5: Wüstenkarawane
 
 - **Category:** `Reisen Und Kulturtourismus`
 - **Source:** `community`
@@ -2203,22 +2204,22 @@ Constraints: Durchgehend Cyberpunk-Neon-hochgesättigt; feuchte, reflektierende 
 
 #### Description
 
-横屏16:9，暖金橙沙漠调、大光比逆光史诗感，生成30秒沙漠文旅片。
+Querformat 16:9, warme gold-orange Wüstenfarben, hoher Kontrast durch Gegenlicht, epische Atmosphäre. Generiere einen 30-Sekunden-Wüsten-Kulturfilm.
 
 #### Prompt
 
 ```text
-横屏16:9，暖金橙沙漠调、大光比逆光史诗感，生成30秒沙漠文旅片。
-Shot 1：极近微距特写细沙自指缝簌簌流泻，逆光下每一粒沙金光闪烁，（悠远弦乐与手鼓起）。
-Shot 2：镜头缓慢拉远，一列驼队踏着起伏沙丘剪影缓行，夕阳巨大低垂于地平线，<驼铃叮当声>。
-Shot 3：镜头航拍俯拍驼队在沙脊上投下的修长斜影，沙丘曲线如绸缎起伏。
-Shot 4：镜头低角度仰拍领驼人迎风前行的逆光剪影，风卷沙尘飞扬，（手鼓节奏渐强）。
-Shot 5：镜头缓慢升空俯瞰驼队没入无垠金色沙海定格，暖金橙铺满天地，【穿越荒芜 只为看见辽阔】，（弦乐手鼓收束）。
-约束：全程暖金橙大光比逆光；沙丘曲线与驼队剪影为构图核心；史诗辽远情绪。
-通用约束：保持无字幕；不要生成 Logo；不要生成水印；每个镜头只用一种运镜；人物需自然微动非石像。
+Querformat 16:9, warme gold-orange Wüstenfarben, hoher Kontrast durch Gegenlicht, epische Atmosphäre. Generiere einen 30-Sekunden-Wüsten-Kulturfilm.
+Shot 1: Extreme Nahaufnahme, Makro: Feiner Sand rieselt durch die Finger, im Gegenlicht glitzert jedes Sandkorn golden, (ferne Streichinstrumente und Handtrommel beginnen).
+Shot 2: Die Kamera zoomt langsam heraus, eine Kamelkarawane schreitet als Silhouette über die welligen Dünen, die riesige Sonne steht tief am Horizont, <Glocken der Kamele klingeln>.
+Shot 3: Luftaufnahme von oben: Die Kamelkarawane wirft lange Schatten auf einen Dünenkamm, die Dünenkurven schwingen wie Seide.
+Shot 4: Kameraperspektive von unten nach oben: Silhouette des führenden Kameltreibers, der gegen den Wind voranschreitet, Staub wirbelt im Wind auf, (Handtrommel-Rhythmus wird stärker).
+Shot 5: Die Kamera steigt langsam auf und blickt von oben auf die Karawane, die in der endlosen goldenen Sandwüste verschwindet und einfriert, warmes Gold-Orange füllt Himmel und Erde, 【Durch die Öde reisen, nur um die Weite zu sehen】, (Streichinstrumente und Handtrommel klingen aus).
+Einschränkungen: Durchgehend warme Gold-Orange-Farben, hoher Kontrast durch Gegenlicht; Dünenkurven und Karawanensilhouetten sind das zentrale Kompositionselement; epische, weite Stimmung.
+Allgemeine Einschränkungen: Keine Untertitel; kein Logo generieren; kein Wasserzeichen generieren; jede Einstellung verwendet nur eine Kamerabewegung; Personen müssen sich natürlich, leicht bewegen, nicht wie Statuen.
 ```
 
-### No. 6: 街头美食巡游（一镜）
+### No. 6: Street Food Tour (One Take)
 
 - **Category:** `Reisen Und Kulturtourismus`
 - **Source:** `community`
@@ -2227,26 +2228,26 @@ Shot 5：镜头缓慢升空俯瞰驼队没入无垠金色沙海定格，暖金�
 
 #### Description
 
-竖屏9:16，暖橙烟火高饱和调、市井鲜活质感，生成30秒街头美食巡游片，一镜到底。
+Hochformat 9:16, warm-orange, rauchige, hochgesättigte Farbpalette, lebendige, alltägliche Textur. Generiere einen 30-Sekunden-Street-Food-Tour-Film in einer Einstellung.
 
 #### Prompt
 
 ```text
-竖屏9:16，暖橙烟火高饱和调、市井鲜活质感，生成30秒街头美食巡游片，一镜到底。
-Shot 1：极致微距从铁板上滋滋作响溅油的食材开始，镜头缓慢拉远，热气蒸腾，<油花爆响声>，（欢快市井打击乐起）。
-Shot 2：镜头顺势平稳横移穿过熙攘夜市，暖黄灯串下摊主翻炒火焰腾起，<人声鼎沸叫卖声>。
-Shot 3：镜头继续跟拍钻入小巷，掠过蒸笼掀盖白雾涌出、烤串炭火通红，烟火气弥漫。
-Shot 4：镜头缓慢环绕一桌食客大快朵颐，碰杯欢笑，暖橙灯光映满笑脸，（打击乐节奏欢腾）。
-Shot 5：镜头顺势升高俯拍整条美食长街灯火通明定格，人潮涌动，【人间烟火 最抚凡心】，（打击乐收束）。
-约束：全程一镜到底连续运镜不切；暖橙烟火高饱和调；热气火焰烟火气贯穿。
-通用约束：保持无字幕；不要生成 Logo；不要生成水印；每个镜头只用一种运镜；人物需自然微动非石像。
+Hochformat 9:16, warm-orange, rauchige, hochgesättigte Farbpalette, lebendige, alltägliche Textur. Generiere einen 30-Sekunden-Street-Food-Tour-Film in einer Einstellung.
+Shot 1: Extremes Makro beginnend mit zischenden, spritzenden Zutaten auf der Eisenplatte, Kamera zieht langsam zurück, Dampf steigt auf, <Geräusch von spritzendem Fett>, (fröhliche, alltägliche Perkussionsmusik setzt ein).
+Shot 2: Kamera schwenkt nahtlos und ruhig durch den belebten Nachtmarkt, unter warmen gelben Lichterketten wirft ein Verkäufer Zutaten in die Pfanne, Flammen schlagen hoch, <Geräusch von lebhaftem Stimmengewirr und Ausrufen>.
+Shot 3: Kamera folgt weiter und gleitet in eine Gasse, streift über Dampf, der aus geöffneten Bambuskörben aufsteigt, und über glühende Holzkohle von Grillspießen, Rauch und Atmosphäre erfüllen die Luft.
+Shot 4: Kamera umkreist langsam einen Tisch mit Gästen, die genüsslich essen, anstoßen und lachen, warmes orangefarbenes Licht erfüllt die lachenden Gesichter, (Perkussionsrhythmus wird fröhlich und lebhaft).
+Shot 5: Kamera steigt nahtlos auf und zeigt aus der Vogelperspektive die gesamte, hell erleuchtete lange Straße mit Essensständen im finalen Bild, Menschenmassen strömen, 【Menschlicher Rauch und Feuer beruhigen am meisten das gewöhnliche Herz】, (Perkussionsmusik klingt aus).
+Einschränkungen: Durchgehend eine ununterbrochene Kameraführung in einer Einstellung ohne Schnitte; warm-orange, rauchige, hochgesättigte Farbpalette; Dampf, Flammen und Rauchatmosphäre durchgehend präsent.
+Allgemeine Einschränkungen: Keine Untertitel; kein Logo generieren; kein Wasserzeichen generieren; Jede Einstellung verwendet nur eine Kamerabewegung; Personen müssen sich natürlich, leicht bewegen, nicht wie Statuen.
 ```
 
 <a id="category-19"></a>
 
 ### Haustiere Und Tiere (5)
 
-### No. 1: 萌猫特写
+### No. 1: Niedliche Katzen-Nahaufnahme
 
 - **Category:** `Haustiere Und Tiere`
 - **Source:** `community`
@@ -2255,22 +2256,22 @@ Shot 5：镜头顺势升高俯拍整条美食长街灯火通明定格，人潮�
 
 #### Description
 
-以猫咪@Image 1为主体，竖屏9:16，柔焦生活流、暖阳米白色调+浅景深，生成30秒治愈系萌宠短片。
+Mit der Katze @Image 1 als Hauptmotiv, Hochformat 9:16, weichgezeichneter Lebensstil, warme Sonnenlicht-/Beigetöne + geringe Schärfentiefe, generiere einen 30-sekündigen heilsamen Kurzfilm mit süßen Haustieren.
 
 #### Prompt
 
 ```text
-以猫咪@Image 1为主体，竖屏9:16，柔焦生活流、暖阳米白色调+浅景深，生成30秒治愈系萌宠短片。
-Shot 1：特写，猫咪@Image 1 突然睁大瞳孔直视镜头，固定机位，（清脆钢片琴单音）<猫咪软软"喵">。
-Shot 2：微距，猫咪@Image 1 粉色鼻头轻轻抽动、胡须颤动，镜头缓慢推近，<细微鼻息声>。
-Shot 3：中景，猫咪@Image 1 抬爪按住飘落的羽毛，镜头平稳横移，（钢片琴节奏轻快）。
-Shot 4：特写，猫咪@Image 1 打了个哈欠露出小舌头，镜头缓慢拉远，<满足呼噜声>。
-Shot 5：全景，猫咪@Image 1 蜷成一团闭眼睡去，镜头缓慢升起俯拍定格，（音乐渐弱）【今天也要好好休息】。
-约束：猫咪毛色花纹以Image 1为准全程一致，瞳孔与鼻头保持粉色，禁止换种换色。
-通用约束：保持无字幕；不要生成 Logo；不要生成水印；每个镜头只用一种运镜；人物需自然微动非石像。
+Mit der Katze @Image 1 als Hauptmotiv, Hochformat 9:16, weichgezeichneter Lebensstil, warme Sonnenlicht-/Beigetöne + geringe Schärfentiefe, generiere einen 30-sekündigen heilsamen Kurzfilm mit süßen Haustieren.
+Shot 1: Nahaufnahme, die Katze @Image 1 öffnet plötzlich weit ihre Pupillen und schaut direkt in die Kamera, feste Kameraposition, (heller Glockenspiel-Einzelson) <weiches Katzen-"Miau">.
+Shot 2: Makro, die rosafarbene Nase der Katze @Image 1 zuckt leicht, die Schnurrhaare zittern, die Kamera fährt langsam näher, <leises Nasengeräusch>.
+Shot 3: Halbtotale, die Katze @Image 1 hebt ihre Pfote und hält eine herabfallende Feder fest, die Kamera schwenkt gleichmäßig horizontal, (Glockenspiel-Rhythmus wird beschwingt).
+Shot 4: Nahaufnahme, die Katze @Image 1 gähnt und zeigt ihre kleine Zunge, die Kamera zoomt langsam heraus, <zufriedenes Schnurren>.
+Shot 5: Totale, die Katze @Image 1 rollt sich zu einem Ball zusammen und schläft mit geschlossenen Augen ein, die Kamera steigt langsam auf und schwenkt nach unten für ein Freeze-Frame, (Musik verklingt) 【Heute auch schön ausruhen】.
+Einschränkungen: Das Fellmuster der Katze muss durchgehend mit Image 1 übereinstimmen, Pupillen und Nase müssen rosa bleiben, Rassen- oder Farbwechsel sind verboten.
+Allgemeine Einschränkungen: Keine Untertitel; Kein Logo generieren; Kein Wasserzeichen generieren; Jede Einstellung verwendet nur eine Kamerabewegung; Personen müssen sich natürlich und leicht bewegen, nicht wie Statuen.
 ```
 
-### No. 2: 狗狗奔跑
+### No. 2: Hund im Sprint
 
 - **Category:** `Haustiere Und Tiere`
 - **Source:** `community`
@@ -2279,22 +2280,22 @@ Shot 5：全景，猫咪@Image 1 蜷成一团闭眼睡去，镜头缓慢升起�
 
 #### Description
 
-以狗狗@Image 1为主体，横屏16:9，运动追焦、金色逆光草原+高速快门颗粒感，生成30秒热血奔跑片。
+Mit dem Hund @Image 1 als Hauptmotiv, Querformat 16:9, Sport-Fokusverfolgung, goldenes Gegenlicht auf einer Wiese + Körnung durch hohe Verschlusszeit, erzeuge einen 30-sekündigen, mitreißenden Rennfilm.
 
 #### Prompt
 
 ```text
-以狗狗@Image 1为主体，横屏16:9，运动追焦、金色逆光草原+高速快门颗粒感，生成30秒热血奔跑片。
-Shot 1：低机位特写，狗狗@Image 1 后腿蹬地爆发起跑扬起草屑，固定机位，（鼓点骤起）<爪子踏地闷响>。
-Shot 2：全景，狗狗@Image 1 舒展四肢横穿草原，镜头平稳横移追焦，<风声灌耳>。
-Shot 3：跟拍中景，狗狗@Image 1 耳朵后掠、舌头甩出，镜头低机位跟拍，（节奏加速）。
-Shot 4：特写，狗狗@Image 1 腾空跃过小溪水花四溅，镜头缓慢推近升格慢动作，<水花溅落声>。
-Shot 5：全景，狗狗@Image 1 冲向镜头前急停坐下咧嘴喘气，镜头缓慢拉远定格，（音乐收束）<欢快喘息>。
-约束：狗狗品种毛色以Image 1为准全程一致，奔跑步态符合真实四足力学，禁止漂浮滑步。
-通用约束：保持无字幕；不要生成 Logo；不要生成水印；每个镜头只用一种运镜；人物需自然微动非石像。
+Mit dem Hund @Image 1 als Hauptmotiv, Querformat 16:9, Sport-Fokusverfolgung, goldenes Gegenlicht auf einer Wiese + Körnung durch hohe Verschlusszeit, erzeuge einen 30-sekündigen, mitreißenden Rennfilm.
+Shot 1: Niedrige Kameraposition, Nahaufnahme, der Hund @Image 1 stößt sich mit den Hinterbeinen ab und startet explosiv, wirbelt dabei Gras auf, feste Kameraposition, (plötzlicher Trommelschlag) <dumpfes Geräusch der Pfoten auf dem Boden>.
+Shot 2: Totale, der Hund @Image 1 streckt seine Gliedmaßen und durchquert die Wiese, die Kamera verfolgt ihn mit einer gleichmäßigen Schwenkbewegung, <Rauschen des Windes in den Ohren>.
+Shot 3: Verfolgungsaufnahme, Halbtotale, die Ohren des Hundes @Image 1 sind nach hinten gelegt, die Zunge hängt heraus, die Kamera folgt ihm aus niedriger Position, (Beschleunigung des Rhythmus).
+Shot 4: Nahaufnahme, der Hund @Image 1 springt über einen Bach und spritzt dabei Wasser auf, die Kamera fährt langsam vor und zeigt Zeitlupe, <Plätschern des Wassers>.
+Shot 5: Totale, der Hund @Image 1 rennt auf die Kamera zu, stoppt abrupt, setzt sich und hechelt fröhlich, die Kamera zoomt langsam heraus und verharrt, (Musik klingt aus) <fröhliches Hecheln>.
+Einschränkungen: Rasse und Fellfarbe des Hundes müssen durchgehend mit Image 1 übereinstimmen, die Laufbewegung muss der realen Vierbeiner-Biomechanik entsprechen, Schweben oder Gleiten ist verboten.
+Allgemeine Einschränkungen: Ohne Untertitel; Kein Logo generieren; Kein Wasserzeichen generieren; Jede Einstellung verwendet nur eine Kamerabewegung; Personen müssen sich natürlich leicht bewegen, nicht wie Statuen.
 ```
 
-### No. 3: 水下鱼群
+### No. 3: Unterwasser-Fischschwarm
 
 - **Category:** `Haustiere Und Tiere`
 - **Source:** `community`
@@ -2303,19 +2304,19 @@ Shot 5：全景，狗狗@Image 1 冲向镜头前急停坐下咧嘴喘气，镜�
 
 #### Description
 
-以珊瑚礁热带鱼群@Image 1为主体，横屏16:9，纪录片级水下摄影、丁达尔光柱+青蓝通透水色，生成30秒海底探索片。
+Mit tropischen Korallenriff-Fischschwärmen @Image 1 als Hauptmotiv, Querformat 16:9, dokumentarische Unterwasseraufnahmen, Tyndall-Lichtstrahlen + türkis-blaue, klare Wasserfarbe, generiere einen 30-sekündigen Meereserkundungsfilm.
 
 #### Prompt
 
 ```text
-以珊瑚礁热带鱼群@Image 1为主体，横屏16:9，纪录片级水下摄影、丁达尔光柱+青蓝通透水色，生成30秒海底探索片。
-Shot 1：特写，一条小丑鱼@Image 1 从海葵触手间探头，固定机位，（空灵水滴音乐起）<气泡咕噜>。
-Shot 2：全景，成群热带鱼@Image 1 汇聚成银色漩涡，镜头缓慢环绕，<水流涌动声>。
-Shot 3：中景，鱼群@Image 1 集体转向穿过光柱，镜头平稳横移穿行，（弦乐铺展）。
-Shot 4：仰拍全景，鱼群@Image 1 游向海面剪影，镜头缓慢升起仰拍，<深海低频嗡鸣>。
-Shot 5：特写，小丑鱼@Image 1 独自游回海葵停驻，镜头缓慢拉远定格，（音乐渐隐）。
-约束：小丑鱼橙白条纹与礁石配色以Image 1为准，鱼群游动保持自然错位不重叠穿模，禁止整齐克隆队列。
-通用约束：保持无字幕；不要生成 Logo；不要生成水印；每个镜头只用一种运镜；人物需自然微动非石像。
+Mit tropischen Korallenriff-Fischschwärmen @Image 1 als Hauptmotiv, Querformat 16:9, dokumentarische Unterwasseraufnahmen, Tyndall-Lichtstrahlen + türkis-blaue, klare Wasserfarbe, generiere einen 30-sekündigen Meereserkundungsfilm.
+Shot 1: Nahaufnahme, ein Clownfisch @Image 1 lugt zwischen den Tentakeln einer Seeanemone hervor, feste Kameraposition, (ätherische Wassertropfenmusik beginnt) <Blubbern von Luftblasen>.
+Shot 2: Totale, ein Schwarm tropischer Fische @Image 1 formt einen silbernen Wirbel, die Kamera schwenkt langsam um ihn herum, <Rauschen der Wasserströmung>.
+Shot 3: Halbtotale, der Fischschwarm @Image 1 dreht geschlossen ab und schwimmt durch einen Lichtstrahl, die Kamera fährt ruhig seitlich durch, (Streicher entfalten sich).
+Shot 4: Untersicht-Totale, der Fischschwarm @Image 1 schwimmt als Silhouette zur Wasseroberfläche, die Kamera steigt langsam auf und filmt nach oben, <tiefes, niederfrequentes Brummen der Tiefsee>.
+Shot 5: Nahaufnahme, der Clownfisch @Image 1 schwimmt allein zurück zur Seeanemone und verharrt dort, die Kamera zoomt langsam heraus und verweilt, (Musik verklingt).
+Constraints: Die orange-weiße Streifung des Clownfischs und die Farbgebung der Riffsteine entsprechen Image 1. Die Schwimmbewegungen des Fischschwarms müssen natürliche Versetzungen beibehalten, ohne Überlappungen oder Durchdringungen. Gleichmäßig geklonte Reihen sind verboten.
+Allgemeine Constraints: Keine Untertitel; Kein Logo generieren; Kein Wasserzeichen generieren; Jede Einstellung verwendet nur eine Kamerabewegung; Personen müssen sich natürlich und leicht bewegen, nicht wie Statuen.
 ```
 
 ### No. 4: 鸟类微距
@@ -2494,7 +2495,7 @@ Allgemeine Einschränkungen: Keine Untertitel; Kein Logo generieren; Kein Wasser
 
 ### Spiele, CG Und Fantasy (5)
 
-### No. 1: 巨龙俯冲
+### No. 1: Drachensturz
 
 - **Category:** `Spiele, CG Und Fantasy`
 - **Source:** `community`
@@ -2503,21 +2504,21 @@ Allgemeine Einschränkungen: Keine Untertitel; Kein Logo generieren; Kein Wasser
 
 #### Description
 
-参考图片1中的黑龙与骑士为主体，宽幅2.35:1，电影级CG、暖边缘光+深蓝阴影，生成30秒奇幻飞行片。
+Referenzierend auf den schwarzen Drachen und den Reiter aus Bild 1, Breitbild 2.35:1, filmreife CG, warme Randlichter + tiefblaue Schatten, generiere einen 30-sekündigen Fantasy-Flugfilm.
 
 #### Prompt
 
 ```text
-参考图片1中的黑龙与骑士为主体，宽幅2.35:1，电影级CG、暖边缘光+深蓝阴影，生成30秒奇幻飞行片。
-镜头1：全景，黑龙@图片1 从峡谷腾空翼展张开，镜头缓慢升起跟随，（宏大管弦乐起）。
-镜头2：中景，骑士@图片1 压低身体、黑龙@图片1 向右急转俯冲，镜头平稳跟拍（略低机位），<风声呼啸>。
-镜头3：特写，黑龙@图片1 收拢一侧翅膀穿过瀑布水雾，镜头缓慢推近。
-镜头4：全景，黑龙@图片1 冲出雾气滑入森林空地，镜头缓慢拉远定格，（音乐收束）。
-约束：黑龙与骑士外形以图片1为准全程一致，禁止分身双胞胎。
-通用约束：保持无字幕；不要生成 Logo；不要生成水印；每个镜头只用一种运镜；人物需自然微动非石像。
+Referenzierend auf den schwarzen Drachen und den Reiter aus Bild 1, Breitbild 2.35:1, filmreife CG, warme Randlichter + tiefblaue Schatten, generiere einen 30-sekündigen Fantasy-Flugfilm.
+Shot 1: Totale, der schwarze Drache @Image 1 erhebt sich mit ausgebreiteten Schwingen aus einer Schlucht, die Kamera schwenkt langsam nach oben und folgt, {großes orchestrales Musikstück beginnt}.
+Shot 2: Halbtotale, der Reiter @Image 1 drückt sich tief, der schwarze Drache @Image 1 stürzt sich in einer scharfen Rechtskurve nach unten, die Kamera folgt ruhig (leicht niedrige Kameraposition), <Rauschen des Windes>.
+Shot 3: Großaufnahme, der schwarze Drache @Image 1 zieht einen Flügel an und durchquert den Sprühnebel eines Wasserfalls, die Kamera fährt langsam näher.
+Shot 4: Totale, der schwarze Drache @Image 1 schießt aus dem Nebel und gleitet in eine Waldlichtung, die Kamera zoomt langsam heraus und verharrt, {Musik klingt aus}.
+Einschränkungen: Die Erscheinung des schwarzen Drachen und des Reiters muss durchgehend mit Bild 1 übereinstimmen, Doppelgänger/Zwillinge sind verboten.
+Allgemeine Einschränkungen: Halte es untertitelfrei; generiere kein Logo; generiere kein Wasserzeichen; verwende nur eine Kamerabewegung pro Shot; Figuren müssen sich natürlich und leicht bewegen, nicht wie Statuen.
 ```
 
-### No. 2: 魔法释放
+### No. 2: Magische Entfesselung
 
 - **Category:** `Spiele, CG Und Fantasy`
 - **Source:** `community`
@@ -2526,22 +2527,22 @@ Allgemeine Einschränkungen: Keine Untertitel; Kein Logo generieren; Kein Wasser
 
 #### Description
 
-以女法师@图片1为主体，宽幅2.35:1，电影级魔幻CG、幽蓝符文光+粒子辉光，生成30秒法术咏唱片。
+Mit der Zauberin @Image 1 als Hauptfigur, Breitbildformat 2.35:1, filmreife Fantasy-CG, türkisfarbene Runenlichter + Partikelglühen, erzeuge einen 30-Sekunden-Zaubergesang-Clip.
 
 #### Prompt
 
 ```text
-以女法师@图片1为主体，宽幅2.35:1，电影级魔幻CG、幽蓝符文光+粒子辉光，生成30秒法术咏唱片。
-镜头1：特写，女法师@图片1 睁眼瞳中亮起符文，固定机位，（低沉圣咏骤起）{"以太之名——"}。
-镜头2：中景，女法师@图片1 抬手掌心汇聚旋转法阵，镜头缓慢环绕，<能量嗡鸣攀升>。
-镜头3：特写，女法师@图片1 指尖粒子凝聚成光球，镜头缓慢推近，（音乐屏息一顿）。
-镜头4：全景，女法师@图片1 双手推出巨型冰霜爆发轰向前方，镜头平稳跟拍冲击波，<轰然炸裂>。
-镜头5：中景，女法师@图片1 收势喘息法阵余光消散，镜头缓慢拉远定格，（圣咏余韵收束）。
-约束：女法师服饰与符文配色以图片1为准全程一致，法阵与粒子始终保持幽蓝色系，禁止中途变色或人物走形。
-通用约束：保持无字幕；不要生成 Logo；不要生成水印；每个镜头只用一种运镜；人物需自然微动非石像。
+Mit der Zauberin @Image 1 als Hauptfigur, Breitbildformat 2.35:1, filmreife Fantasy-CG, türkisfarbene Runenlichter + Partikelglühen, erzeuge einen 30-Sekunden-Zaubergesang-Clip.
+Shot 1: Nahaufnahme, in den Augen der Zauberin @Image 1 leuchten Runen auf, feste Kameraposition, (tiefer Choral setzt plötzlich ein) {"Im Namen des Äthers —"}.
+Shot 2: Halbtotale, die Zauberin @Image 1 hebt ihre Hand, in ihrer Handfläche sammelt sich ein rotierendes Zauberkreis, die Kamera umkreist langsam, <Energiesummen steigt an>.
+Shot 3: Nahaufnahme, an den Fingerspitzen der Zauberin @Image 1 ballen sich Partikel zu einer Lichtkugel, die Kamera fährt langsam näher, (die Musik hält für einen Moment den Atem an).
+Shot 4: Totale, die Zauberin @Image 1 stößt mit beiden Händen einen riesigen Frostausbruch nach vorne aus, die Kamera folgt ruhig der Druckwelle, <explodiert mit einem Krachen>.
+Shot 5: Halbtotale, die Zauberin @Image 1 beendet ihre Haltung und keucht, das Nachglühen des Zauberkreises verblasst, die Kamera zoomt langsam heraus und verharrt, (der Choral klingt aus).
+Einschränkungen: Die Kleidung der Zauberin und die Farbgebung der Runen müssen durchgehend mit Image 1 übereinstimmen, Zauberkreis und Partikel müssen stets in türkisfarbenen Tönen bleiben, Farbwechsel während des Clips oder Verformungen der Figur sind verboten.
+Allgemeine Einschränkungen: Keine Untertitel; kein Logo generieren; kein Wasserzeichen generieren; jede Einstellung verwendet nur eine Kamerabewegung; die Figur muss sich natürlich leicht bewegen, nicht wie eine Statue.
 ```
 
-### No. 3: 机甲登场
+### No. 3: Mech-Auftritt
 
 - **Category:** `Spiele, CG Und Fantasy`
 - **Source:** `community`
@@ -2550,22 +2551,22 @@ Allgemeine Einschränkungen: Keine Untertitel; Kein Logo generieren; Kein Wasser
 
 #### Description
 
-以巨型机甲@图片1为主体，宽幅2.35:1，硬核工业CG、冷钢金属+机库射灯与蒸汽，生成30秒机甲出击片。
+Mit dem riesigen Mech @Image 1 als Hauptelement, Breitbild 2.35:1, Hardcore-Industrie-CG, kalter Stahlmetall + Hangar-Scheinwerfer und Dampf, generiere einen 30-Sekunden-Mech-Ausfall-Film.
 
 #### Prompt
 
 ```text
-以巨型机甲@图片1为主体，宽幅2.35:1，硬核工业CG、冷钢金属+机库射灯与蒸汽，生成30秒机甲出击片。
-镜头1：特写，机甲@图片1 主摄像头眼部骤然亮起红光，固定机位，（工业低音轰鸣起）<系统启动嗡声>。
-镜头2：仰拍全景，机甲@图片1 在机库中缓缓抬头站起，镜头缓慢升起仰拍，<液压嘶鸣>。
-镜头3：中景，机甲@图片1 迈步踏地震动、蒸汽喷涌，镜头低机位跟拍，（鼓点砸下）<沉重金属踏步>。
-镜头4：特写，机甲@图片1 肩部导弹舱展开锁定，镜头缓慢推近，（音效"锁定"哔）【武装就绪】。
-镜头5：全景，机甲@图片1 冲出机库跃入战场，镜头平稳跟拍再拉远定格，（音乐爆发收束）<推进器轰鸣>。
-约束：机甲机体结构与涂装以图片1为准全程一致，机械关节运动符合重量感与液压逻辑，禁止部件穿模或轻飘。
-通用约束：保持无字幕；不要生成 Logo；不要生成水印；每个镜头只用一种运镜；人物需自然微动非石像。
+Mit dem riesigen Mech @Image 1 als Hauptelement, Breitbild 2.35:1, Hardcore-Industrie-CG, kalter Stahlmetall + Hangar-Scheinwerfer und Dampf, generiere einen 30-Sekunden-Mech-Ausfall-Film.
+Shot 1: Nahaufnahme, das Hauptkamera-Auge des Mechs @Image 1 leuchtet plötzlich rot auf, feste Kameraposition, (industrielles Bassdröhnen setzt ein) <Systemstart-Summen>.
+Shot 2: Aufsicht-Totale, der Mech @Image 1 erhebt sich langsam im Hangar, Kamera steigt langsam auf und schaut nach oben, <Hydraulik-Zischen>.
+Shot 3: Halbtotale, der Mech @Image 1 macht einen Schritt, der Boden bebt, Dampf strömt aus, Kamera niedrige Position folgt, (Trommelschlag setzt ein) <schwerer Metallschritt>.
+Shot 4: Nahaufnahme, die Schulter-Raketenwerfer des Mechs @Image 1 entfalten sich und zielen, Kamera fährt langsam heran, (Soundeffekt "Zielerfassung" Piep) 【Bewaffnung bereit】.
+Shot 5: Totale, der Mech @Image 1 stürmt aus dem Hangar und springt ins Schlachtfeld, Kamera folgt ruhig und zoomt dann heraus zum Standbild, (Musik bricht aus und endet) <Triebwerksdröhnen>.
+Constraints: Die Mech-Körperstruktur und Lackierung müssen durchgehend mit Image 1 übereinstimmen, die Gelenkbewegungen müssen Gewicht und Hydrauliklogik entsprechen, Teiledurchdringung oder Leichtigkeit sind verboten.
+Allgemeine Constraints: Keine Untertitel; Kein Logo generieren; Kein Wasserzeichen generieren; Jede Einstellung verwendet nur eine Kamerabewegung; Figuren benötigen natürliche Mikrobewegungen, keine Statuen.
 ```
 
-### No. 4: 开放世界远景
+### No. 4: Offene Welt-Perspektive
 
 - **Category:** `Spiele, CG Und Fantasy`
 - **Source:** `community`
@@ -2574,22 +2575,29 @@ Allgemeine Einschränkungen: Keine Untertitel; Kein Logo generieren; Kein Wasser
 
 #### Description
 
-以幻想大陆全景@图片1为主体，宽幅2.35:1，开放世界游戏CG、体积云晨雾+超远视距景深，生成30秒世界观展示片。
+Generiere einen 30-Sekunden-Weltanschauungs-Showreel mit dem Panorama der Fantasie-Kontinent @Image 1 als Hauptelement, im Breitbildformat 2.35:1, im Stil von Open-World-Spiel-CG, mit volumetrischen Wolken/Morgennebel + extremer Tiefenschärfe.
 
 #### Prompt
 
 ```text
-以幻想大陆全景@图片1为主体，宽幅2.35:1，开放世界游戏CG、体积云晨雾+超远视距景深，生成30秒世界观展示片。
-镜头1：全景，大陆@图片1 晨雾漫过山谷与远方悬浮岛，镜头缓慢升起航拍，（辽阔弦乐起）<晨风与鸟鸣>。
-镜头2：中景，大陆@图片1 瀑布自巨崖倾泻入云海，镜头平稳横移，<水声轰隆>。
-镜头3：全景，大陆@图片1 一群巨兽掠过草原奔向远方城郭，镜头缓慢跟拍，（弦乐层叠推进）。
-镜头4：特写，大陆@图片1 古老遗迹石碑刻满符文，镜头缓慢推近，<神秘低鸣>。
-镜头5：全景，大陆@图片1 镜头拉升揭示整片大陆全貌与双日天空，镜头缓慢升起拉远定格，（音乐磅礴收束）【世界，等你探索】。
-约束：大陆地貌与悬浮岛布局以图片1为准全程一致，超远景深保持体积雾层次，禁止地形拼接错位或比例失真。
-通用约束：保持无字幕；不要生成 Logo；不要生成水印；每个镜头只用一种运镜；人物需自然微动非石像。
+Generiere einen 30-Sekunden-Weltanschauungs-Showreel mit dem Panorama der Fantasie-Kontinent @Image 1 als Hauptelement, im Breitbildformat 2.35:1, im Stil von Open-World-Spiel-CG, mit volumetrischen Wolken/Morgennebel + extremer Tiefenschärfe.
+
+Shot 1: Totale, Kontinent @Image 1. Morgennebel zieht durch Täler und über ferne schwebende Inseln. Die Kamera hebt sich langsam für eine Kamerafahrt. (Weite Streicher setzen ein) <Morgenwind und Vogelgezwitscher>.
+
+Shot 2: Halbtotale, Kontinent @Image 1. Ein Wasserfall stürzt von einer gewaltigen Klippe in ein Wolkenmeer. Die Kamera schwenkt gleichmäßig horizontal. <Donnerndes Wassergeräusch>.
+
+Shot 3: Totale, Kontinent @Image 1. Eine Herde riesiger Kreaturen zieht über die Prärie in Richtung einer fernen Stadt. Die Kamera folgt langsam. (Streicher bauen sich schichtweise auf).
+
+Shot 4: Großaufnahme, Kontinent @Image 1. Alte Ruinen, ein mit Runen bedeckter Steintisch. Die Kamera fährt langsam heran. <Geheimnisvolles, tiefes Summen>.
+
+Shot 5: Totale, Kontinent @Image 1. Die Kamera zoomt heraus und enthüllt die gesamte Landmasse des Kontinents und einen Himmel mit zwei Sonnen. Die Kamera hebt sich langsam, zoomt weiter heraus und hält das Bild fest. (Musik endet majestätisch) 【Die Welt wartet darauf, erkundet zu werden】.
+
+Einschränkungen: Die Topographie des Kontinents und die Anordnung der schwebenden Inseln müssen durchgehend mit Image 1 übereinstimmen. Die extreme Tiefenschärfe mit volumetrischem Nebel muss beibehalten werden. Verboten sind falsche Geländeverbindungen oder verzerrte Proportionen.
+
+Allgemeine Einschränkungen: Keine Untertitel; Generiere kein Logo; Generiere kein Wasserzeichen; Jede Einstellung verwendet nur eine Kamerabewegung; Figuren müssen sich natürlich leicht bewegen, nicht wie Statuen.
 ```
 
-### No. 5: 白模渲染演示
+### No. 5: Clay Render Demo
 
 - **Category:** `Spiele, CG Und Fantasy`
 - **Source:** `community`
@@ -2598,26 +2606,26 @@ Allgemeine Einschränkungen: Keine Untertitel; Kein Logo generieren; Kein Wasser
 
 #### Description
 
-以场景白模@图片1为主体、材质取自参考图片2，横屏16:9，实时渲染Breakdown演示、灰白无光泽底模起步，生成30秒从白模到成片的渲染进化片。
+Using the scene clay model @Image 1 as the main subject, with materials taken from reference image 2, landscape 16:9, a real-time rendering breakdown demo, starting from a matte gray-white base model, generating a 30-second evolution reel from clay render to final piece.
 
 #### Prompt
 
 ```text
-以场景白模@图片1为主体、材质取自参考图片2，横屏16:9，实时渲染Breakdown演示、灰白无光泽底模起步，生成30秒从白模到成片的渲染进化片。
-镜头1：全景，白模@图片1 灰白无材质场景缓缓旋转展示体块，镜头缓慢环绕，（科技感电子乐起）【Blockout·白模】。
-镜头2：中景，白模@图片1 表面刷入材质@图片2 逐面覆盖石材木纹，镜头平稳横移，<材质加载滴答>。
-镜头3：特写，场景@图片1 法线与粗糙度细节浮现凹凸质感，镜头缓慢推近，【PBR材质·上色】。
-镜头4：全景，场景@图片1 灯光逐盏点亮投下阴影与反射，镜头缓慢升起，（音乐层次递进）【Lighting·打光】。
-镜头5：全景，场景@图片1 后期调色与体积光加入成为终帧，镜头缓慢拉远定格，（音乐收束）【Final Render】。
-约束：场景体块与结构以图片1为准全程一致，材质纹理取自图片2逐步叠加，白模到成片仅改变着色不改变几何布局，禁止模型形变或穿帮。
-通用约束：保持无字幕；不要生成 Logo；不要生成水印；每个镜头只用一种运镜；人物需自然微动非石像。
+Using the scene clay model @Image 1 as the main subject, with materials taken from reference image 2, landscape 16:9, a real-time rendering breakdown demo, starting from a matte gray-white base model, generating a 30-second evolution reel from clay render to final piece.
+Shot 1: Wide shot, the clay model @Image 1, a gray-white scene without materials, slowly rotates to showcase the massing, the camera slowly orbits, (futuristic electronic music starts) 【Blockout·Clay Model】.
+Shot 2: Medium shot, the surface of the clay model @Image 1 is brushed with materials from @Image 2, covering stone and wood textures face by face, the camera pans smoothly, <material loading ticks>.
+Shot 3: Close-up, the scene @Image 1 reveals normal and roughness details, showing bumpy texture, the camera slowly pushes in, 【PBR Material·Coloring】.
+Shot 4: Wide shot, the scene @Image 1 has lights turned on one by one, casting shadows and reflections, the camera slowly rises, (music builds up in layers) 【Lighting·Illumination】.
+Shot 5: Wide shot, the scene @Image 1 incorporates post-processing color grading and volumetric light to become the final frame, the camera slowly pulls back and holds, (music concludes) 【Final Render】.
+Constraints: The scene massing and structure must remain consistent with Image 1 throughout, material textures are taken from Image 2 and applied progressively, the transition from clay model to final piece only changes shading, not geometric layout, prohibit model deformation or visual errors.
+General constraints: Keep it without subtitles; do not generate a Logo; do not generate watermarks; use only one camera movement per shot; characters should have natural, subtle movements, not be statue-like.
 ```
 
 <a id="category-22"></a>
 
 ### Animation Und Cartoons (4)
 
-### No. 1: 吉卜力食物番
+### No. 1: Ghibli Food Episode
 
 - **Category:** `Animation Und Cartoons`
 - **Source:** `community`
@@ -2626,19 +2634,19 @@ Allgemeine Einschränkungen: Keine Untertitel; Kein Logo generieren; Kein Wasser
 
 #### Description
 
-参考图片1中的一双手与深夜厨房为主体（手与厨房以图片1为准），竖屏9:16，吉卜力手绘风、暖黄夜厨调，生成30秒治愈深夜食堂片。
+Referenzieren Sie die Hände und die nächtliche Küche aus Bild 1 als Hauptelemente (Hände und Küche genau wie in Bild 1), Hochformat 9:16, Ghibli-Handzeichnungsstil, warme gelbe Nachtküchen-Stimmung, um einen 30-sekündigen heilsamen 'Midnight Diner'-Clip zu generieren.
 
 #### Prompt
 
 ```text
-参考图片1中的一双手与深夜厨房为主体（手与厨房以图片1为准），竖屏9:16，吉卜力手绘风、暖黄夜厨调，生成30秒治愈深夜食堂片。
-镜头1：极近特写，一滴水珠从番茄表皮滚落映出暖灯，固定微俯机位，<水珠坠落轻响>，（治愈木吉他起）。
-镜头2：中景，一只手持刀切番茄红汁渗出，镜头缓慢平移，<刀刃切过果肉的软脆声>。
-镜头3：特写，番茄块滑入热油锅腾起白烟，镜头缓慢推近，<食材下锅爆响>。
-镜头4：极近特写，手撒下罗勒叶片翻炒香气升腾，镜头缓慢环绕，<铲子翻炒的沙沙声>。
-镜头5：中景，热汤盛入陶碗手捧至画面中央，镜头缓慢拉远，<汤汁咕嘟声>，（木吉他收束）。
-约束：锁定吉卜力手绘风禁止漂移写实；全程仅一双手不出现人脸与多余的手；夜厨陈设以图片1为准固定。
-通用约束：保持无字幕；不要生成 Logo；不要生成水印；每个镜头只用一种运镜；人物需自然微动非石像。
+Referenzieren Sie die Hände und die nächtliche Küche aus Bild 1 als Hauptelemente (Hände und Küche genau wie in Bild 1), Hochformat 9:16, Ghibli-Handzeichnungsstil, warme gelbe Nachtküchen-Stimmung, um einen 30-sekündigen heilsamen 'Midnight Diner'-Clip zu generieren.
+Shot 1: Extrem nahe Aufnahme, ein Wassertropfen rollt von der Tomatenhaut und spiegelt das warme Licht, feste leicht geneigte Kameraposition, <leises Geräusch des fallenden Tropfens>, (heilende Akustikgitarre beginnt).
+Shot 2: Halbtotale, eine Hand hält ein Messer und schneidet eine Tomate, roter Saft tritt aus, die Kamera schwenkt langsam, <Geräusch der Klinge, die durch das weiche, knusprige Fruchtfleisch schneidet>.
+Shot 3: Nahaufnahme, Tomatenstücke gleiten in eine Pfanne mit heißem Öl, weißer Dampf steigt auf, die Kamera fährt langsam näher, <lautes Zischen, wenn die Zutaten in die Pfanne kommen>.
+Shot 4: Extrem nahe Aufnahme, eine Hand streut Basilikumblätter und rührt sie unter, Duft steigt auf, die Kamera umkreist langsam, <raschelndes Geräusch des Pfannenwendens>.
+Shot 5: Halbtotale, heiße Suppe wird in eine Keramikschale gefüllt, Hände halten sie in die Bildmitte, die Kamera zoomt langsam heraus, <blubberndes Geräusch der Suppe>, (Akustikgitarre klingt aus).
+Einschränkungen: Ghibli-Handzeichnungsstil festlegen, Abdrift in Realismus verbieten; durchgehend nur ein Paar Hände, keine Gesichter oder zusätzlichen Hände zeigen; nächtliche Kücheneinrichtung genau wie in Bild 1 festhalten.
+Allgemeine Einschränkungen: Untertitel frei halten; kein Logo generieren; kein Wasserzeichen generieren; jede Einstellung verwendet nur eine Kamerabewegung; Personen müssen sich natürlich leicht bewegen, nicht wie Statuen.
 ```
 
 ### No. 2: Chibi-Charakter-Interaktion
@@ -2789,7 +2797,7 @@ Einschränkungen: Person und Streetball-Spielfeld gemäß Bild 1; warmes orangef
 Allgemeine Einschränkungen: Keine Untertitel; Kein Logo generieren; Kein Wasserzeichen generieren; Jede Einstellung verwendet nur eine Kamerabewegung; Figuren müssen sich natürlich leicht bewegen, nicht wie Statuen.
 ```
 
-### No. 4: Laufende Silhouette
+### No. 4: Running Silhouette
 
 - **Category:** `Sport Und Fitness`
 - **Source:** `community`
@@ -2798,19 +2806,19 @@ Allgemeine Einschränkungen: Keine Untertitel; Kein Logo generieren; Kein Wasser
 
 #### Description
 
-Referenzieren Sie den Morgenläufer und die Küstenstraße aus Bild 1 als Hauptmotiv (Personensilhouette und Umgebung entsprechend Bild 1), Querformat 16:9, Stil eines motivierenden Sportmarkenfilms, Sonnenaufgang-Gegenlicht in Gold-Orange-Tönen, generieren Sie einen 30-Sekunden-Film über das Durchhalten beim Morgenlauf.
+Reference the morning runner and coastal road from Image 1 as the main motif (person silhouette and environment according to Image 1), landscape 16:9, style of an inspiring sports brand film, sunrise backlight in gold-orange tones, generate a 30-second film about perseverance during a morning run.
 
 #### Prompt
 
 ```text
-Referenzieren Sie den Morgenläufer und die Küstenstraße aus Bild 1 als Hauptmotiv (Personensilhouette und Umgebung entsprechend Bild 1), Querformat 16:9, Stil eines motivierenden Sportmarkenfilms, Sonnenaufgang-Gegenlicht in Gold-Orange-Tönen, generieren Sie einen 30-Sekunden-Film über das Durchhalten beim Morgenlauf.
-Shot 1: Extreme Nahaufnahme, Laufschuh tritt auf nassen Asphalt und spritzt feine Wassertropfen, feste leicht schräg von oben Kamera, <Geräusch des Auftretens der Schuhsohle>, (motivierende Streicher legen den Grund).
-Shot 2: Halbtotale, Läufer-Gegenlichtsilhouette schreitet gleichmäßig, Schweiß tropft entlang des Kinns, Kamera folgt, <gleichmäßiger, kraftvoller Atemrhythmus>.
-Shot 3: Totale, Küstenlinie erstreckt sich, Sonne springt über das Meer und färbt den Himmel rot, Kamera hebt und senkt sich langsam, (Streicher setzen mit Trommelschlägen ein).
-Shot 4: Nahaufnahme, schwingender Arm, Uhr zeigt springende Zahlen, Herzfrequenz steigt, Kamera schwenkt langsam, <Ticken/Ton der Uhr>.
-Shot 5: Weit, Läufer-Silhouette erreicht Hügelkamm, breitet Arme aus und umarmt die Morgensonne, Kamera zoomt langsam heraus, (Streicher und Trommelschläge erreichen Höhepunkt und klingen aus).
-约束：Personensilhouette und Küstenstraße entsprechend Bild 1; Sonnenaufgang-Gegenlicht in Gold-Orange-Tönen durchgehend; Laufhaltung und Schrittfrequenz gleichmäßig und fließend, keine ruckartigen Bewegungen.
-通用约束：Ohne Untertitel; Kein Logo generieren; Kein Wasserzeichen generieren; Jede Einstellung verwendet nur eine Kamerabewegung; Personen müssen sich natürlich und leicht bewegen, nicht wie Statuen.
+Reference the morning runner and coastal road from Image 1 as the main motif (person silhouette and environment according to Image 1), landscape 16:9, style of an inspiring sports brand film, sunrise backlight in gold-orange tones, generate a 30-second film about perseverance during a morning run.
+Shot 1: Extreme close-up, running shoe steps on wet asphalt and splashes fine water droplets, fixed slightly tilted from above camera, <sound of the sole hitting the ground>, (motivational strings set the foundation).
+Shot 2: Medium long shot, runner backlight silhouette strides evenly, sweat drips along the chin, camera follows, <steady, powerful breathing rhythm>.
+Shot 3: Long shot, coastline stretches, sun jumps over the sea and colors the sky red, camera rises and falls slowly, (strings enter with drum beats).
+Shot 4: Close-up, swinging arm, watch shows jumping numbers, heart rate rises, camera pans slowly, <ticking/sound of the watch>.
+Shot 5: Wide shot, runner silhouette reaches hill ridge, spreads arms and embraces the morning sun, camera zooms out slowly, (strings and drum beats reach climax and fade out).
+Constraints: Person silhouette and coastal road according to Image 1; sunrise backlight in gold-orange tones throughout; running posture and stride frequency steady and fluid, no jerky movements.
+General constraints: Without subtitles; Do not generate logo; Do not generate watermark; Each shot uses only one camera movement; People must move naturally and lightly, not like statues.
 ```
 
 <a id="category-24"></a>
@@ -2841,7 +2849,7 @@ Shot 5: Totale, Pose einfrieren, Neon-Licht blinkt und beleuchtet die gesamte Ko
 通用约束：Ohne Untertitel; Kein Logo generieren; Kein Wasserzeichen generieren; Jede Einstellung verwendet nur eine Kamerabewegung; Personen müssen sich natürlich und leicht bewegen, nicht wie Statuen.
 ```
 
-### No. 2: Klaviersolo
+### No. 2: Piano Solo
 
 - **Category:** `Musik, Tanz Und Musikvideos`
 - **Source:** `community`
@@ -2850,19 +2858,19 @@ Shot 5: Totale, Pose einfrieren, Neon-Licht blinkt und beleuchtet die gesamte Ko
 
 #### Description
 
-Referenzieren Sie den Pianisten und die Bühne des alten Theaters aus Bild 1 als Hauptmotiv (Person und Klavier entsprechend Bild 1), Querformat 16:9, Stil klassischer Konzertfilm-Ästhetik, warme goldene Spotlights auf dunklem Hintergrund, generieren Sie einen 30-Sekunden-leidenschaftlichen Solofilm.
+Reference the pianist and the old theater stage from Image 1 as the main motif (person and piano according to Image 1), landscape 16:9, style of classic concert film aesthetics, warm golden spotlights on a dark background, generate a 30-second passionate solo film.
 
 #### Prompt
 
 ```text
-Referenzieren Sie den Pianisten und die Bühne des alten Theaters aus Bild 1 als Hauptmotiv (Person und Klavier entsprechend Bild 1), Querformat 16:9, Stil klassischer Konzertfilm-Ästhetik, warme goldene Spotlights auf dunklem Hintergrund, generieren Sie einen 30-Sekunden-leidenschaftlichen Solofilm.
-Shot 1: Extreme Nahaufnahme, Fingerspitzen schweben über den Tasten und senken sich sanft, um die erste Note zu spielen, feste Kamera, (klarer, hoher Klang einer einzelnen Klaviernote erklingt).
-Shot 2: Nahaufnahme, Hände gleiten flüssig über die schwarzen und weißen Tasten, Hämmer heben und senken sich, Kamera schwenkt langsam, <klirrendes Geräusch der anschlagenden Tasten/Saiten>.
-Shot 3: Halbtotale, Pianist schließt die Augen, vertieft, Körper wiegt sich leicht mit der Melodie, Kamera fährt langsam näher, (Melodie baut sich zum Höhepunkt auf).
-Shot 4: Totale, Klavier steht einsam im Scheinwerferlicht auf der leeren Bühne, Staubpartikel schweben im Licht, Kamera hebt und senkt sich langsam, (Akkorde schichten sich auf).
-Shot 5: Extreme Nahaufnahme, letzte Taste wird gedrückt, Finger verharren, Nachklang vibriert, Kamera zoomt langsam heraus, <Nachklang der Saiten verklingt allmählich>, (Melodie klingt leise aus).
-约束：Person und Klavier entsprechend Bild 1; Warme goldene Spotlights auf dunklem Hintergrund durchgehend; Hand- und Tastenbewegungen müssen streng mit dem Beginn und Ende der Noten korrespondieren.
-通用约束：Ohne Untertitel; Kein Logo generieren; Kein Wasserzeichen generieren; Jede Einstellung verwendet nur eine Kamerabewegung; Personen müssen sich natürlich und leicht bewegen, nicht wie Statuen.
+Reference the pianist and the old theater stage from Image 1 as the main motif (person and piano according to Image 1), landscape 16:9, style of classic concert film aesthetics, warm golden spotlights on a dark background, generate a 30-second passionate solo film.
+Shot 1: Extreme close-up, fingertips hover over the keys and gently descend to play the first note, fixed camera, (clear, high sound of a single piano note resonates).
+Shot 2: Close-up, hands glide fluidly over the black and white keys, hammers rise and fall, camera pans slowly, <clattering sound of the striking keys/strings>.
+Shot 3: Medium shot, pianist closes eyes, immersed, body sways slightly with the melody, camera slowly dollies in, (melody builds to a climax).
+Shot 4: Wide shot, piano stands alone in the spotlight on the empty stage, dust particles float in the light, camera slowly tilts up and down, (chords layer).
+Shot 5: Extreme close-up, final key is pressed, fingers linger, resonance vibrates, camera slowly zooms out, <resonance of the strings gradually fades>, (melody quietly fades out).
+Constraints: Person and piano according to Image 1; Warm golden spotlights on a dark background throughout; Hand and key movements must strictly correspond with the start and end of the notes.
+General constraints: No subtitles; Do not generate a logo; Do not generate a watermark; Each shot uses only one camera movement; People must move naturally and lightly, not like statues.
 ```
 
 ### No. 3: Streetdance-Battle
@@ -2917,7 +2925,7 @@ Shot 5: Totale, Feuerwerk und Laser brechen gleichzeitig aus, Sänger hebt das M
 
 ### Feste Und Jahreszeiten (5)
 
-### No. 1: Frühlingsfest-Familientreffen
+### No. 1: Spring Festival Family Reunion
 
 - **Category:** `Feste Und Jahreszeiten`
 - **Source:** `community`
@@ -2926,20 +2934,20 @@ Shot 5: Totale, Feuerwerk und Laser brechen gleichzeitig aus, Sänger hebt das M
 
 #### Description
 
-Referenzieren Sie die Familienmitglieder aus Bild 1, Bild 2 und Bild 3 als Hauptmotiv (jeweils entsprechend der jeweiligen Referenzbilder), Querformat 16:9, festlich-herzlicher Realismus, warme rote Laternen-Stimmung, generieren Sie einen 30-Sekunden-Frühlingsfest-Kurzfilm.
+Reference the family members from Image 1, Image 2, and Image 3 as the main subjects (each according to their respective reference images), landscape 16:9, festive-heartwarming realism, warm red lantern atmosphere, generate a 30-second Spring Festival short film.
 
 #### Prompt
 
 ```text
-Referenzieren Sie die Familienmitglieder aus Bild 1, Bild 2 und Bild 3 als Hauptmotiv (jeweils entsprechend der jeweiligen Referenzbilder), Querformat 16:9, festlich-herzlicher Realismus, warme rote Laternen-Stimmung, generieren Sie einen 30-Sekunden-Frühlingsfest-Kurzfilm.
-Shot 1: Langsames Heranfahren, draußen explodiert Feuerwerk und beleuchtet das Fensterkreuz mit dem angebrachten Glückszeichen, drinnen schwingen warme rote Laternen, (ferne chinesische Glockentöne und festliche Musik setzen allmählich ein).
-Shot 2: Umkreisung, Familie sitzt um den Neujahrsabend-Esstisch, erhebt die Gläser, aufsteigender Dampf und warmes Licht, <leises Klirren von Geschirr und Stäbchen>.
-Shot 3: Feste Kamera, ältere Person @Image 1 gibt Enkelkindern Essen, liebevolles Lächeln, Nahaufnahme der köstlichen Speisen auf dem Tisch, Hintergrund unscharf.
-Shot 4: Sanfte Verfolgungsfahrt, Kind @Image 3 hüpft mit einem roten Umschlag im Hof, rote Laternenketten erstrecken sich, <helles, fröhliches Lachen>.
-Shot 5: Untersicht, ganze Familie @Image 2 blickt erstaunt zum Feuerwerkshimmel auf, Licht und Schatten bedecken die lächelnden Gesichter.
-Shot 6: Langsames Herauszoomen, ganze Familie steht vor der Tür, Gläser erhoben, eingefroren unter den großen roten Laternen, erscheint der Text 【Frohes neues Jahr, glückliche Familienvereinigung】, (festliche Musik klingt aus).
-约束：Jede Person entsprechend ihrem jeweiligen Referenzbild, Doppelgänger/Zwillinge mit identischem Aussehen verboten, jeweils eine Person im Bild; Rote Laternen, warme Stimmung durchgehend im gesamten Film.
-通用约束：Ohne Untertitel; Kein Logo generieren; Kein Wasserzeichen generieren; Jede Einstellung verwendet nur eine Kamerabewegung; Personen müssen sich natürlich und leicht bewegen, nicht wie Statuen.
+Reference the family members from Image 1, Image 2, and Image 3 as the main subjects (each according to their respective reference images), landscape 16:9, festive-heartwarming realism, warm red lantern atmosphere, generate a 30-second Spring Festival short film.
+Shot 1: Slow push-in, fireworks explode outside illuminating the window lattice with the attached fortune character, warm red lanterns sway inside, (distant Chinese bell sounds and festive music gradually begin).
+Shot 2: Orbiting shot, family sits around the New Year's Eve dinner table, raising their glasses, rising steam and warm light, <soft clinking of dishes and chopsticks>.
+Shot 3: Static camera, elderly person @Image 1 serves food to grandchildren, loving smile, close-up of delicious dishes on the table, background blurred.
+Shot 4: Gentle tracking shot, child @Image 3 hops in the courtyard with a red envelope, strings of red lanterns extend, <bright, cheerful laughter>.
+Shot 5: Low-angle shot, entire family @Image 2 looks up in awe at the fireworks-filled sky, light and shadow cover the smiling faces.
+Shot 6: Slow zoom-out, entire family stands in front of the door, glasses raised, frozen under the large red lanterns, the text 【Happy New Year, joyful family reunion】 appears, (festive music fades out).
+Constraints: Each person according to their respective reference image, doppelgangers/twins with identical appearance forbidden, only one person per image; Red lanterns, warm atmosphere consistent throughout the entire film.
+General constraints: No subtitles; Do not generate logo; Do not generate watermark; Each shot uses only one camera movement; People must move naturally and lightly, not like statues.
 ```
 
 ### No. 2: Valentinstag Romantik
@@ -4103,6 +4111,243 @@ Using a real dancer's motion video as reference, precisely transfer the movement
 Referencing the character movements in @Video 1, generate a dance video featuring a character wearing Dunhuang-style attire in front of the Mogao Caves.
 ```
 
+<a id="category-33"></a>
+
+### Capability Showcase (7)
+
+### No. 1: Extended Scene: Warm Living Room Life
+
+- **Category:** `Capability Showcase`
+- **Source:** `official`
+- **Author:** ByteDance Seedance
+- **Language:** `de`
+- **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/practice/HnGzbX7hfoxGmgxCuL0cLYUXnMg.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/HnGzbX7hfoxGmgxCuL0cLYUXnMg.mp4" controls muted playsinline width="720"></video>
+
+- **Inputs:**
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/WZJHb7wJyoGQjuxhUSXcA6dTnsh.mp4" controls muted width="360"></video>
+
+#### Description
+
+Seamlessly extend a warm living room scene with reading, a cat, a child, and evening ambiance.
+
+#### Prompt
+
+```text
+Using @Video 1 as the original footage, keep the sofa, color palette, lighting, and camera movement logic completely consistent. Naturally extend the timeline at its end and seamlessly continue the warm living room life scene: The hostess, wearing beige knit loungewear, sits on the same sofa reading, with a beige blanket on her lap, and gently places a coffee cup on the tea table; a cat lightly jumps onto the cushion; a child runs in and leans on her shoulder, the hostess looks down and smiles; the floor lamp lights up at night, the three quietly lean on the sofa, the camera slowly pulls back and holds, leaving space for the brand logo.
+```
+
+### No. 2: Gecko Escape Plan: Audio Reference
+
+- **Category:** `Capability Showcase`
+- **Source:** `official`
+- **Author:** ByteDance Seedance
+- **Language:** `de`
+- **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/practice/A3R1bhWLqo5lCgxSjyDc7IFtn2E.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/A3R1bhWLqo5lCgxSjyDc7IFtn2E.mp4" controls muted playsinline width="720"></video>
+
+#### Description
+
+Two geckos, one cautious and one impulsive, plan their escape from a circus backstage in a 3D animated short.
+
+#### Prompt
+
+```text
+[Two Geckos' Escape Meeting — 3D Animation | Circus Backstage | About 20 Seconds]
+
+[Logline] The opening uses an establishing shot to show 'this is the circus backstage', then two geckos (one chubby, one tiny) discuss escape strategies, have a brief argument, and finally reach an agreement; amplified backstage ambient noise is primary, with background music almost always present, intensifying at key emotional points.
+
+[Character Reference (Appearance 100% consistent, no drift throughout)]
+——Chubby: A plump, round-bodied gecko with a rotund belly, short thick limbs, skin with warm brown spotted matte scale texture, a thick short tail storing fat making it look pudgy, wide toe pads, puffy cheeks, large round eyes, a simple expression, and slightly slow movements; personality is cautious, timid, loves to eat, but can muster courage and think of solutions at critical moments.
+——Tiny: A petite juvenile gecko, eyes large and bright almost filling its small head, skin with light yellow-green fresh scale color and fine spots, tail thin and flexible, toe tips can adhere for climbing, movements are agile and jumpy; personality is impatient, impulsive, fearless, and the one who proposes the escape.
+
+[Voice Reference (Fixed voice per character)]
+Chubby: Low, simple, middle-aged male voice, slightly slow speech, with a timid tremble. Reference [Audio 1].
+Tiny: High, fast, youthful voice, sharp and impulsive, voice cracks when emotions run high. Reference [Audio 2].
+[Ambient Sound Reference]
+——Ambience: A layer of circus backstage ambient noise (distant tent clamor, faint animal sounds, canvas flapping in wind, wooden frame creaking, distant human voices with reverb, etc.) runs throughout as the scene's atmospheric base; ambient sound volume is overall amplified, most prominent in the opening establishing shot, serving as the main sound field of the entire piece; ambient sound reference [Audio 3].
+
+[Background Music Reference]
+——Accent: A piece of background music (playfully suspenseful, light with a touch of tension), almost always present as a base, appearing for a long duration, gently fades in from the opening establishing shot, volume intensifies at the proposal, argument climax, and ending freeze-frame; only briefly lowered during dense dialogue to make way for lines, but never completely disappears, does not cover dialogue, does not overpower; music reference [Audio 4].
+[Scene Lock (Geometrically constant, no drift throughout)]
+Circus Backstage: Inside a dim, cluttered circus backstage tent, ambient noise reference matches ambient sound — left side has a row of animal cages (cold light seeps through gaps), center has several stacked prop boxes and rolled-up colorful tent canvas, right side has a canvas flap exit leading outside (gaps emit night blue light) and a swaying warm yellow hanging lamp, ground is trampled wood shavings and straw. Layout locked: Two geckos surround a large prop box used as a table in the center — Chubby lies on the left side of the box (x~30%), back against the cages; Tiny climbs / hops on top or right side of the box (x~65%), most active, toe tips occasionally adhering to the box surface. Exit is at the far right of the frame.
+[3D Animation Style / Visual Texture] High-quality 3D animation, fine rendering of scales and skin (visible detailed texture of each scale, skin micro-gloss and muscle movement, softness of toe pad adhesion), character expressions exaggerated and lively, rich with cartoon performance tension; night circus backstage atmosphere — cold blue ambient light primary, right-side warm yellow hanging lamp secondary, teal-and-amber warm-cool contrast, shallow depth of field, cinematic lighting, 55mm virtual lens.
+
+[Shot Language] Handheld-style agile camera movement with real operational weight; editing rhythm driven by emotion, emotional climax points can sync with accentuated downbeats from [Audio 4]. Opening uses an establishing shot to show the scene, then each segment first uses a positioning wide shot to establish the two geckos' relative positions, then cuts into coverage shots. Moderate use of rhythmic staging: quick whip pans switching between speakers, crash-in close-ups landing on emotional climax points, fast-cut shot/reverse-shot during argument. Facial close-ups must capture eyes, vertical pupil contraction, throat movement, toe tip gripping, and mouth shapes; eye lines look at each other, never at the camera; natural blinking (including gecko-style eye licking) and eye movement. Hard cuts, no dissolves.
+[Hard Locks] Only the two named geckos throughout, no third gecko, no extras, no clones/duplicates; their size difference (plump / petite) maintained every frame; dialogue spoken word-for-word (English), only one main speaker at a time (argument climax allows brief overlapping/interrupting); opening establishing shot segment has no dialogue; audio track hierarchy: amplified [Audio 3] ambient noise primary, [Audio 4] accent background music long-duration base and intensifying at key points, not covering dialogue; no subtitles / on-screen text; 3D realistic scale skin, stable, no extra limbs or ghosting.
+
+Shot 1 (0–3 sec) · Establishing Shot (No Dialogue)
+Pure environment shot, no character dialogue: camera slowly pans across the circus backstage tent interior — left side animal cages' cold light, center stacked prop boxes and rolled colorful tent canvas, right side canvas flap exit emitting night blue light and swaying warm yellow lamp, trampled wood shavings and straw on ground. This segment ambient noise volume is highest, most prominent (tent clamor, distant animal sounds, canvas flapping in wind, frame creaking), [Audio 4] accent gently fades in here as a base, clearly establishing 'this is the circus backstage'. Hard cut.
+
+Shot 2 (3–7 sec) · Positioning + Proposal
+Positioning wide shot reveals two geckos surrounding the central prop box. Hard cut. — Handheld medium shot pushes in on Tiny (voice reference [Audio 2]), it hops onto the box, toe tips audibly adhere to the surface (with crisp adhesion sound effect), speaking low and urgent: "Tonight — we break out of here!" — Reverse shot to Chubby (voice reference [Audio 1]) facial close-up, throat constricts, vertical pupils tremble, trembling voice: "B-break out? It's dangerous…"
+
+Shot 3 (7–13 sec) · Argument Confrontation (Climax)
+Fast-cut shot/reverse-shot argument, allows brief overlapping dialogue, — Tiny (voice reference [Audio 2]) jumps, tail flicks, points at Chubby, voice cracking: "You're just a coward!" — Chubby (voice reference [Audio 1]) unusually raises volume to overpower it, near tears: "Stop shouting — the guard'll hear us!" Facial close-ups: each face showing anger and panic, vertical pupils contracting, throat and tail shaking violently; at the argument peak, music and ambient noise briefly lower to highlight the two arguing voices.
+
+Shot 4 (13–18 sec) · Turning Point + Agreement
+— Chubby (voice reference [Audio 1]) suddenly musters courage, serious: "I'll block the guard. You slip out and open the door." — Whip pan to Tiny, pauses, vertical pupils relax, grins: "…That actually works!" (Music warms up, volume rises again)
+
+Shot 5 (18–20 sec) · Freeze Frame High-Five
+Slow push two-gecko side-by-side shot: both geckos extend small claws (toe pads touch) stacked together (with gentle toe pad contact sound effect), eyes look together towards the right exit, [Audio 4] accent ends with one accentuated downbeat. Tiny (voice reference [Audio 2]) whispers: "Midnight. We move." Night light from the canvas flap gap illuminates their determined faces, frame freezes on their resolute expressions, amplified ambient noise and music together fade out.
+
+[Negative Constraints] No third gecko or any extras/clones; their sizes and appearances must not drift or face-swap; no duplicated props; no character duplicates in mirror reflections; no subtitles, no on-screen text, no text overlays; only hard cuts, no dissolves; opening establishing shot segment must not have character dialogue; maintain the emotional arc of "ambient setup → proposal → argument confrontation → agreement", ending must land on both parties agreeing and determined; audio track hierarchy fixed as amplified ambient noise primary, background music long-duration base and intensifying at key points, not covering dialogue. Characters speak English (All characters speak English).
+```
+
+### No. 3: Headphone Ad: Cinematic Motion And Rhythm Transfer
+
+- **Category:** `Capability Showcase`
+- **Source:** `official`
+- **Author:** ByteDance Seedance
+- **Language:** `de`
+- **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/practice/BOp2bIPSBoX7XexnVWKcgib7nxg.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/BOp2bIPSBoX7XexnVWKcgib7nxg.mp4" controls muted playsinline width="720"></video>
+
+- **Inputs:**
+
+<p>
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/WLVebLB37oqQcuxhL8GcnLPJnvd.jpg" width="180" referrerpolicy="no-referrer">
+</p>
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/OW6hboG1IoKFvgxZF7OclqYCnye.mp4" controls muted width="360"></video>
+
+#### Description
+
+Create a headphone ad by transferring the camera work and editing rhythm from a reference video.
+
+#### Prompt
+
+```text
+Reference the camera movement techniques and editing rhythm of @Video 1 to generate an advertising short film for the headphones @Image. Adapt to scenes that match the product's tone, emphasizing modernity, simplicity, and a sense of technology. The switching points between product close-ups and scene panoramas are consistent with the original film, maintaining the same motion speed and transition methods.
+```
+
+### No. 4: One-Shot Journey Through Time
+
+- **Category:** `Capability Showcase`
+- **Source:** `official`
+- **Author:** ByteDance Seedance
+- **Language:** `de`
+- **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/practice/Y45Dbn2wjo73dyx2MencnrVOnDb.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/Y45Dbn2wjo73dyx2MencnrVOnDb.mp4" controls muted playsinline width="720"></video>
+
+- **Inputs:**
+
+<p>
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/FFjKbfMzKoHxEWxbCU8c5vB3n9e.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/BRZFbmkk6oOgaJx98bxcR5bunVf.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/ZR6Tb4dSTotLNKxZoGEcTlMqn9e.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/WxWqbQ3PJoG2asxMGPvcl7CInRh.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/EygIbzFAgoSuWQxVNYBcjrDunGf.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/AueXb1JUqonfRfxyKNKcinednnd.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/LDhubYpeYoIqaQx7cJ4c2DNcnpd.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/LP9ubVtwSoYkNZxnnEUc4KqKnyc.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/A0JMbZZkaoKTG4xOQA2cu054nrh.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/QuwxbzNvBo820IxoG6ncMfWSnYg.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/QS1Jbr7PEo9xq5xwKtGcYKzgn9b.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/KTuxbEw9qoOCTPxmpJxc7iEsnBh.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/N4yqbYos8olyHMx3xwncSC5snlf.jpg" width="180" referrerpolicy="no-referrer">
+</p>
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/O18Mbz7JbogifhxUBQGcbIGZnQc.mp4" controls muted width="360"></video>
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/WpovbZilboy4QGxBHcPcE8oLnBb.mp4" controls muted width="360"></video>
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/Bic2bbcq6oLab1xEzxGcjV8XnoJ.mp4" controls muted width="360"></video>
+
+#### Description
+
+A 26-second one-shot film follows a solitary woman through shifting seasons and day into night.
+
+#### Prompt
+
+```text
+Core Instruction: A full 26-second one-shot (One-Shot) narrative short film, stable follow shot, referencing [Video 1] and smooth orbiting camera movement, referencing [Video 2] interwoven. Smooth sense of progression. Achieve day-night alternation and seasonal flow within the shot. The protagonist is a European woman [Image 1], placed in a bustling crowd full of life, highlighting an extreme sense of loneliness and cinematic photography quality.
+
+Segmented Camera Movement and Scene Description:
+0-3 seconds (steady back follow): An old wooden door [Image 2] creaks open, the camera closely follows the European woman's back wearing [Image 3] as she steps out. She pauses slightly at the threshold, the street ahead dappled with light and shadow, the sounds of hawking and crowds washing over her. Her expression is detached as she slowly steps forward to merge into the street.
+3-6 seconds (back/side follow): The camera maintains smooth follow, she enters a crowded morning market, atmosphere reference [Video 3]. Both sides are packed with vibrantly colored fruit stalls and spice shops, a troupe of street performers is breathing fire dragons, reference [Image 4], the firelight illuminates the crowd, but she doesn't glance sideways, walking at a steady pace through.
+6-9 seconds (side smooth orbit): The camera begins a smooth orbit towards the front side, capturing the protagonist's profile. She passes a noisy butcher shop [Image 5], a young mother carrying a baby [Image 6] brushes past her, the baby stares at her curiously, but she merely lowers her eyes slightly to avoid the gaze, not pausing at all.
+9-12 seconds (front reverse follow): The camera continues orbiting to the protagonist's front, performing a reverse follow shot. The crowd ahead suddenly parts naturally like Moses parting the sea, a large elephant draped in ornate red cloth [Image 7] appears from the right side of the frame with steady steps, occupying most of the frame.
+12-15 seconds (gap penetration and orbit back): At the moment the woman and the elephant are about to collide, the camera cleverly slides through the narrow gap between the elephant and the woman, orbiting back to her back. The elephant passes by, massive and quiet, mischievous children cheer and chase it. Elephant bells, laughter are deafening, yet she doesn't even slow her pace.
+15-18 seconds (environmental light gradient): As she walks, the light within the long shot magically transforms—the piercing summer sunlight instantly softens, a gust of wind swirls up a sky full of golden leaves [Image 8], the season seamlessly transitions to late autumn within the same long shot. Leaves brush past her shoulder.
+18-21 seconds (360-degree immersive orbit): Ahead suddenly erupts into a grand street festival [Image 9]. The air sprays confetti and shredded paper, vendors lean out cheering. At this moment, the camera executes a continuous 360-degree orbiting shot, creating an extremely strong visual tear between the quiet, lonely protagonist and the狂热 surroundings.
+21-24 seconds (orbit back to side/rear): When the camera completes its orbit and returns to her side/rear, the falling confetti has quietly transformed into a sky full of falling snow—instantly winter [Image 10]. Pedestrians纷纷 put up umbrellas or pull up hoods, the woman shivers slightly, turns up her coat collar, her clothing changes to [Image 11], continuing her solitary walk in the snow.
+24-26 seconds (slow push follow): As she walks towards the end of the long street, the sky visibly darkens during her progression, day seamlessly sinks into night. The dim yellow street lamps and stall light bulbs on both sides light up one after another [Image 12], vendors pack up their goods, the喧闹声 seems to be slowly absorbed and distanced by the heavy snow, her steps gradually slow. The night sky suddenly erupts with grand fireworks [Image 13], fireworks sound reference [Audio 1]五彩 light spots flicker and dance on the building walls and in her eyes. The world remains热闹, yet she looks up quietly, the camera slowly pulls back, ending gently here.
+```
+
+### No. 5: Martial Scene Swap: Cold Weapon Duel
+
+- **Category:** `Capability Showcase`
+- **Source:** `official`
+- **Author:** ByteDance Seedance
+- **Language:** `de`
+- **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/practice/FL7ib6OOSoe96MxqNlgckIWGnVg.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/FL7ib6OOSoe96MxqNlgckIWGnVg.mp4" controls muted playsinline width="720"></video>
+
+- **Inputs:**
+
+<p>
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/DoDXbFDxQo4pPIxlikCc2P7Rn7c.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/MUDCbrgtSoDt0lxHkSscA2WEnsC.jpg" width="180" referrerpolicy="no-referrer">
+  <img src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/U1HIb6IRqoTYB6x3UK1cstAGnnb.jpg" width="180" referrerpolicy="no-referrer">
+</p>
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/AboGbncdgoC2jRxvQIvcB0lHn1b.mp4" controls muted width="360"></video>
+
+#### Description
+
+Replace a bare-handed fight with a cold weapon duel in a classical, atmospheric setting.
+
+#### Prompt
+
+```text
+Replace the bare-handed fight video of two people @Video 1 with the empty-handed probing style before a cold weapon duel.
+Replace the scene with a medieval stone castle platform, ancient courtyard flat ground, mountain fortress outer platform, or simple stone brick dueling ground, with a background of ancient castle walls, wind, fog, distant mountain lines, and flat stone ground @Image 1.
+Replace the clothing of the man in dark clothes in the video with @Image 2, and replace the man in light clothes with @Image 3. Keep the actions unchanged, do not alter the original rhythm.
+AI effects only enhance environment and texture: wind blowing clothes, light fog, a small amount of dust at contact points, cold metallic reflective texture, slight grain, and epic color grading. Overall style is restrained, realistic, classical hardcore duel atmosphere. Background music hits the beat.
+```
+
+### No. 6: Complex Emotions In Theater Audience
+
+- **Category:** `Capability Showcase`
+- **Source:** `official`
+- **Author:** ByteDance Seedance
+- **Language:** `de`
+- **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/practice/XdEWbJtQkoZkZ2xIKCScwAmrnkf.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/XdEWbJtQkoZkZ2xIKCScwAmrnkf.mp4" controls muted playsinline width="720"></video>
+
+#### Description
+
+A young girl in a theater audience watches a performance with a mix of pride, heartache, and suppressed tears.
+
+#### Prompt
+
+```text
+Theater audience, a young girl with her hands clasped near her chin, gazing at the performance on stage. Her emotions are complex and mixed; there is pride in her eyes, heartache, and the glimmer of suppressed tears. Her lips are lightly pressed together, her eyelashes tremble, tears well up in her eyes but she forces them not to fall. The core presentation is the authentic, mixed feelings of watching someone dearest to you shine.
+```
+
+### No. 7: Acceptance Letter's Quiet Joy
+
+- **Category:** `Capability Showcase`
+- **Source:** `official`
+- **Author:** ByteDance Seedance
+- **Language:** `de`
+- **Video:** [View](https://static.atlascloud.ai/model/example/seedance-2.5/practice/PcB8bEhXwo12taxDwXVchOfqnlc.mp4)
+
+<video src="https://static.atlascloud.ai/model/example/seedance-2.5/practice/PcB8bEhXwo12taxDwXVchOfqnlc.mp4" controls muted playsinline width="720"></video>
+
+#### Description
+
+A young woman experiences restrained, complex emotions upon receiving her acceptance letter at dusk.
+
+#### Prompt
+
+```text
+A young East Asian woman sits by a study window at dusk, facing a laptop, warm golden side/back light on her face. Her performance is deeply restrained, with emotion conveyed through her eyes, shallow breathing, a choked throat, and trembling fingertips. She moves from disbelief to tearful suspension; as one tear falls, a faint smile appears, ending in quiet relief as she looks outside. Slow, steady camera movement, close-ups for micro-expressions, a slight push-in at the moment the tear gives way to a smile, soft focus on " Acceptance Letter," 35mm film texture, shallow depth of field, low-light grain.
+```
+
 <a id="faq"></a>
 
 ## ❓ Frequently asked questions
@@ -4160,4 +4405,4 @@ npx tsc --noEmit
 
 > All prompts are shared for learning, organization, and discovery. Open an issue if anything should be removed.
 
-> This README is auto-generated. 2026-07-31.
+> This README is auto-generated. 2026-08-01.
