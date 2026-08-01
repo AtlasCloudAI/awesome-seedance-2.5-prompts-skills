@@ -3103,7 +3103,7 @@ Shot 6: Lento alejamiento, las auroras envuelven toda la tundra helada con un á
 Restricciones: La transición de colores de las auroras debe ser natural y fluida, evitar parpadeos bruscos; tono frío predominante, sin aparición de personas.
 ```
 
-### No. 3: Volcanic Lava
+### No. 3: Lava Volcánica
 
 - **Category:** `Naturaleza / Astronomía / Documental`
 - **Source:** `community`
@@ -3112,23 +3112,23 @@ Restricciones: La transición de colores de las auroras debe ser natural y fluid
 
 #### Description
 
-No reference characters, landscape 16:9, geological documentary stunning realism, contrast between fiery red lava and black rock with cold smoke tones, generate a 30-second volcano short film.
+Sin personajes de referencia, pantalla horizontal 16:9, documental geológico impactante y realista, paleta de contraste entre lava roja incandescente y roca negra con humo frío, genera un cortometraje de 30 segundos sobre un volcán.
 
 #### Prompt
 
 ```text
-No reference characters, landscape 16:9, geological documentary stunning realism, contrast between fiery red lava and black rock with cold smoke tones, generate a 30-second volcano short film.
-Shot 1: Slow push-in, fiery red lava boils and splatters sparks inside the volcanic crater, thick smoke billows, (low-frequency rumbling drumbeats suddenly start).
-Shot 2: Fixed camera position, lava flow slowly spreads over black rocky ground surface forming golden-red cracks, <gurgling, scorching sound of magma>.
-Shot 3: Overhead shot, lava river winds like a golden vein cutting through the charred hillside.
-Shot 4: Slow pan, lava falls into the sea surface causing white steam explosions, <sound of water and fire violently interacting>.
-Shot 5: Low-angle shot, under the night sky, volcanic eruption launches lava bombs tracing orange-red arcs, smoke column rises skyward, (drumbeats reach climax).
-Shot 6: Slow pull-out, on the cooled lava field, embers flicker like stars, subtitle appears 【Earth · Fiery Heart】, (rumbling gradually fades and concludes).
-Constraints: Strong contrast between fiery red warm light and black rock cool tones; lava flow texture realistic and viscous, no characters appear.
-General constraints: Keep without subtitles; do not generate Logo; do not generate watermarks; each shot uses only one camera movement; characters need natural slight movement, not statues.
+Sin personajes de referencia, pantalla horizontal 16:9, documental geológico impactante y realista, paleta de contraste entre lava roja incandescente y roca negra con humo frío, genera un cortometraje de 30 segundos sobre un volcán.
+Imagen 1: Acercamiento lento, lava roja incandescente hierve y salpica chispas en el cráter del volcán, denso humo se eleva, (sonido de tambores graves y retumbantes comienza abruptamente).
+Imagen 2: Cámara fija, un flujo de lava se extiende lentamente sobre la superficie de roca negra formando grietas doradas y rojizas, <sonido de burbujeo y quema de la lava>.
+Imagen 3: Vista aérea, un río de lava serpentea como una vena dorada cortando la ladera de la colina ennegrecida.
+Imagen 4: Desplazamiento horizontal lento, la lava cae al mar provocando una explosión de vapor blanco, <sonido de explosión por interacción agua-fuego>.
+Imagen 5: Contrapicado, bajo el cielo nocturno, proyectiles de lava de la erupción trazan arcos anaranjados y rojos, una columna de humo se eleva hacia el cielo, (los tambores alcanzan su clímax).
+Imagen 6: Alejamiento lento, sobre el campo de lava enfriada, las brasas restantes brillan como estrellas, aparece el subtítulo 【Tierra · Corazón Ardiente】, (el retumbar se desvanece gradualmente y concluye).
+Restricciones: Fuerte contraste entre la cálida luz roja incandescente y los tonos fríos de la roca negra; textura de flujo de lava realista y viscosa, sin aparición de personas.
+Restricciones generales: Mantener sin subtítulos; no generar Logotipos; no generar marcas de agua; cada toma debe usar solo un tipo de movimiento de cámara; las personas, si aparecen, deben moverse naturalmente, no como estatuas.
 ```
 
-### No. 4: Forest Morning Mist
+### No. 4: Niebla Matutina en el Bosque
 
 - **Category:** `Naturaleza / Astronomía / Documental`
 - **Source:** `community`
@@ -3137,27 +3137,27 @@ General constraints: Keep without subtitles; do not generate Logo; do not genera
 
 #### Description
 
-No reference characters, landscape 16:9, nature documentary healing realism, morning light Tyndall effect and verdant misty forest tones, generate a 30-second forest morning mist short film.
+Sin personajes de referencia, pantalla horizontal 16:9, estilo realista y terapéutico de documental natural, luz matinal de efecto Tyndall y paleta de bosque brumoso verde esmeralda, generar un cortometraje de 30 segundos sobre la niebla matutina en el bosque.
 
 #### Prompt
 
 ```text
-No reference characters, landscape 16:9, nature documentary healing realism, morning light Tyndall effect and verdant misty forest tones, generate a 30-second forest morning mist short film.
-Shot 1: Slow push-in, morning light penetrates tall fir forest forming distinct Tyndall beams, thin mist flows, (ethereal flute and bird songs start).
-Shot 2: Fixed camera position, dewdrop hangs from fern leaf tip refracting morning light before falling, <crisp bird calls echoing>.
-Shot 3: Smooth pan, mist drifts slowly over mossy rocks and stream in the forest, <babbling stream>.
-Shot 4: Low-angle shot, camera tilts up along tree trunk to the forest canopy where sunlight pours down, light spots dance.
-Shot 5: Follow shot, a deer walks quietly through the misty forest with light steps, glances back, <rustling of fallen leaves>.
-Shot 6: Slow pull-out, panoramic view of forest in morning mist gradually brightens, subtitle appears 【Morning Forest · All Sounds Awaken】, (flute melody fades and concludes).
-Constraints: Beams and mist layers transparent and natural; verdant soft warm tones, animal movements realistic and not stiff, no characters appear.
-General constraints: Keep without subtitles; do not generate Logo; do not generate watermarks; each shot uses only one camera movement; characters need natural slight movement, not statues.
+Sin personajes de referencia, pantalla horizontal 16:9, estilo realista y terapéutico de documental natural, luz matinal de efecto Tyndall y paleta de bosque brumoso verde esmeralda, generar un cortometraje de 30 segundos sobre la niebla matutina en el bosque.
+Imagen 1: Acercamiento lento, la luz matutina atraviesa un alto bosque de abetos formando haces de efecto Tyndall, la neblina fluye, (comienzan flauta etérea y canto de pájaros).
+Imagen 2: Cámara fija, gotas de rocío cuelgan de la punta de una hoja de helecho refractando la luz matutina al caer, <canto claro de pájaros que se suceden>.
+Imagen 3: Desplazamiento horizontal suave, la niebla se desplaza lentamente sobre un arroyo de musgo y piedras en el bosque, <sonido de agua fluyendo>.
+Imagen 4: Toma en contrapicado, la cámara sube a lo largo del tronco hasta la copa de los árboles donde la luz del sol se derrama, motas de luz saltan.
+Imagen 5: Seguimiento, un ciervo atraviesa sigilosamente el bosque brumoso con paso ligero y mira hacia atrás, <sonido ligero de hojas cayendo>.
+Imagen 6: Alejamiento lento, vista panorámica del bosque en la niebla matutina que gradualmente se ilumina, aparece el texto 【Bosque Matutino · El Despertar de Todos los Sonidos】, (resonancia final de la flauta).
+Restricciones: Los haces de luz y la niebla deben tener capas translúcidas y naturales; tonos verdes esmeralda suaves y cálidos, movimientos animales realistas y no rígidos, sin aparición de personas.
+Restricciones generales: Mantener sin subtítulos; no generar logotipos; no generar marcas de agua; usar solo un tipo de movimiento de cámara por toma; los personajes deben moverse naturalmente y ligeramente, no como estatuas.
 ```
 
 <a id="category-27"></a>
 
 ### Antropomorfización / Broma Creativa (2)
 
-### No. 1: AI Model Personified Fighting
+### No. 1: Lucha de modelos de IA personificada
 
 - **Category:** `Antropomorfización / Broma Creativa`
 - **Source:** `community`
@@ -3166,23 +3166,23 @@ General constraints: Keep without subtitles; do not generate Logo; do not genera
 
 #### Description
 
-No reference characters, use original personified fighting contestants (not referencing any real company or brand trademarks), vertical 9:16, cyber arena热血 anime style, neon holographic tones, generate a 30-second personified fighting short film.
+Sin referencias a personas reales, se utilizan luchadores personificados originales (sin aludir a ninguna empresa real o marca comercial), formato vertical 9:16, estilo de anime apasionado en una arena cibernética, con tonos de neón y hologramas, generando un corto de 30 segundos de lucha personificada.
 
 #### Prompt
 
 ```text
-No reference characters, use original personified fighting contestants (not referencing any real company or brand trademarks), vertical 9:16, cyber arena热血 anime style, neon holographic tones, generate a 30-second personified fighting short film.
-Shot 1: Slow push-in, in the center of the holographic arena, two original mecha-personified contestants face off and charge up, their chest energy cores light up, (fiery electronic drumbeats explode and start).
-Shot 2: Follow shot, blue data-stream contestant throws a light punch with trailing afterimages, <high-frequency energy hum>.
-Shot 3: Orbiting shot, orange computing-power contestant sidesteps to evade and blocks with a backhand, sparks fly, neon light trails orbit.
-Shot 4: Low-angle shot, two fists collide releasing a shockwave that flips over holographic spectator stands particles, subtitle pops up 【Reasoning Speed Duel】.
-Shot 5: Fixed camera position slow motion, blue contestant's core overloads and cracks as they are knocked back, code fragments scatter, <electric current crackling sound>.
-Shot 6: Slow pull-out, orange contestant stands on the ring raising a fist, holographic leaderboard lights up, subtitle appears 【This Round Winner】, (drumbeats conclude).
-Constraints: Two contestants' color schemes and designs must be clearly distinct (blue vs orange), no twin-like appearance, one of each in frame; purely original personifications, do not include any real brand logos or names.
-General constraints: Keep without subtitles; do not generate Logo; do not generate watermarks; each shot uses only one camera movement; characters need natural slight movement, not statues.
+Sin referencias a personas reales, se utilizan luchadores personificados originales (sin aludir a ninguna empresa real o marca comercial), formato vertical 9:16, estilo de anime apasionado en una arena cibernética, con tonos de neón y hologramas, generando un corto de 30 segundos de lucha personificada.
+Imagen 1: Acercamiento lento, dos luchadores personificados de mecas originales se enfrentan y acumulan energía en el centro de la arena holográfica, los núcleos de energía en sus pechos se iluminan, (estallan redobles electrónicos apasionados).
+Imagen 2: Seguimiento, el luchador con flujo de datos azul lanza un puño de luz con estela de movimiento, <zumbido de alta frecuencia de energía>.
+Imagen 3: Envolvente, el luchador de potencia de cálculo naranja esquiva de lado y bloquea con la mano contralla, chispas salpicando, orbitado por trayectorias de luz de neón.
+Imagen 4: Contrapicado, dos puños chocan liberando una onda de choque que levanta partículas de las gradas holográficas, aparece un subtítulo 【Duelo de velocidad de inferencia】.
+Imagen 5: Cámara fija en cámara lenta, el núcleo del luchador azul se sobrecarga y se agrieta al ser repelido, fragmentos de código vuelan, <sonido de explosión eléctrica>.
+Imagen 6: Alejamiento lento, el luchador naranja se alza en el ring con el puño en alto, la tabla de posiciones holográfica se ilumina, aparece el subtítulo 【Ganador de esta ronda】, (los redobles concluyen).
+Restricciones: Los colores y diseños de los dos luchadores deben diferenciarse claramente (azul vs naranja), prohibida la gemelización, uno de cada en pantalla; personificación puramente original, sin aparecer ningún logotipo o nombre de marca real.
+Restricciones generales: Mantener sin subtítulos; no generar Logotipos; no generar marcas de agua; cada imagen usa solo un tipo de movimiento de cámara; los personajes deben moverse naturalmente de forma sutil, no como estatuas.
 ```
 
-### No. 2: Programming Language Personifications Bickering
+### No. 2: Lenguajes de Programación Personificados en una Pelea Divertida
 
 - **Category:** `Antropomorfización / Broma Creativa`
 - **Source:** `community`
@@ -3191,20 +3191,20 @@ General constraints: Keep without subtitles; do not generate Logo; do not genera
 
 #### Description
 
-No reference characters, use original personified characters (not referencing any real company or brand trademarks), landscape 16:9, office sitcom humorous style, bright warm tones, generate a 30-second personified bickering short film.
+Sin referencias a personas reales, utilizando personajes personificados originales (sin aludir a ninguna empresa real o marca registrada), formato horizontal 16:9, estilo de comedia de situación en oficina, tono humorístico, paleta de colores brillantes y cálidos, generando un corto de 30 segundos de personificaciones peleando.
 
 #### Prompt
 
 ```text
-No reference characters, use original personified characters (not referencing any real company or brand trademarks), landscape 16:9, office sitcom humorous style, bright warm tones, generate a 30-second personified bickering short film.
-Shot 1: Slow push-in, two original programmer-personified characters look at each other across workstations raising eyebrows, desktop code holographic screens flicker, (playful jazz tune starts).
-Shot 2: Fixed camera position, snake mascot character lazily shrugs and delivers吐槽 line {I do it in one line, you write twenty}, <keyboard typing sounds>.
-Shot 3: Follow shot, gear armor character不服 stands up slamming the table retorting {But I run ten times faster than you}, holographic screen pops up a progress bar.
-Shot 4: Orbiting shot, two characters stand back-to-back refusing to yield, code symbols collide above their heads bursting sparks, <clinking collision sound effects>.
-Shot 5: Overhead shot, third coffee cup cute pet character brings two cups of coffee to mediate, the two look at each other awkwardly.
-Shot 6: Slow pull-out, three characters put arms around shoulders clinking cups reconciling and laughing, subtitle appears 【Each Has Its Strengths, That's The Strongest Stack】, (jazz tune concludes).
-Constraints: Three characters' designs and color schemes must be clearly distinct (snake/gear/coffee cup), no twin-like appearance, one of each in frame; purely original personifications, do not include any real programming language trademarks, logos, or registered names.
-General constraints: Keep without subtitles; do not generate Logo; do not generate watermarks; each shot uses only one camera movement; characters need natural slight movement, not statues.
+Sin referencias a personas reales, utilizando personajes personificados originales (sin aludir a ninguna empresa real o marca registrada), formato horizontal 16:9, estilo de comedia de situación en oficina, tono humorístico, paleta de colores brillantes y cálidos, generando un corto de 30 segundos de personificaciones peleando.
+Imagen 1: Acercamiento lento, dos personajes personificados originales de programadores se miran a través de sus cubículos levantando una ceja, las pantallas holográficas en sus escritorios muestran código parpadeante, (comienza una melodía de jazz juguetona).
+Imagen 2: Cámara fija, un personaje mascota con forma de serpiente se encoge de hombros perezosamente y dice su línea {Yo lo resuelvo en una línea, tú escribes veinte}, <sonido de teclado mecanográfico>.
+Imagen 3: Seguimiento, un personaje con armadura de engranajes se levanta indignado, golpea la mesa y replica {¡Pero yo corro diez veces más rápido que tú!}, una barra de progreso aparece en la pantalla holográfica.
+Imagen 4: Toma envolvente, los dos personajes espalda con espalda, sin ceder, símbolos de código chocan sobre sus cabezas creando chispas, <efecto de sonido de choque metálico>.
+Imagen 5: Vista desde arriba, un tercer personaje mascota adorable con forma de taza de café trae dos tazas para calmar la situación, los dos se miran con vergüenza.
+Imagen 6: Alejamiento lento, los tres personajes se abrazan por los hombros, chocan las tazas, se ríen a carcajadas reconciliándose, aparece el texto en pantalla 【Cada uno con su fortaleza forma la pila más poderosa】, (la melodía de jazz concluye).
+Restricciones: Los diseños y colores de los tres personajes deben diferenciarse claramente (serpiente/engranajes/taza de café), prohibido que parezcan gemelos, solo uno de cada en pantalla; personajes personificados completamente originales, sin aparecer logotipos, marcas registradas o nombres reales de lenguajes de programación.
+Restricciones generales: Mantener sin subtítulos; no generar Logotipos; no generar marcas de agua; usar solo un tipo de movimiento de cámara por toma; los personajes deben tener movimientos naturales y sutiles, no ser estáticos como estatuas.
 ```
 
 <a id="category-28"></a>

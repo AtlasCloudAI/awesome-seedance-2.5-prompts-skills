@@ -961,19 +961,19 @@ Kendala umum: Pertahankan tanpa teks; jangan hasilkan Logo; jangan hasilkan wate
 
 #### Description
 
-Portrait 9:16, serene and artistic realistic style, featuring a handcrafted latte with latte art. Generate a 30-second latte art short film.
+Portrait 9:16, gaya realis artistik yang tenang, subjek utama adalah secangkir latte dengan latte art buatan tangan, menghasilkan film pendek latte art 30 detik.
 
 #### Prompt
 
 ```text
-Portrait 9:16, serene and artistic realistic style, featuring a handcrafted latte with latte art. Generate a 30-second latte art short film.
-Shot 1: Close-up, espresso extraction drips into the cup, the camera slowly pushes in on the crema texture, natural light by the window, (gentle jazz music starts) <dripping sound of extraction>.
-Shot 2: Medium close-up, hand holding a milk pitcher begins to pour milk foam, camera fixed at eye-level view of the liquid surface, <sound of milk foam pouring>.
-Shot 3: Macro close-up, camera looks down as milk foam spreads on the coffee surface forming a leaf pattern.
-Shot 4: Close-up, a gentle flick of the wrist finishes pulling out the leaf veins, camera slowly orbits the rim of the cup.
-Shot 5: Medium shot, the finished latte is picked up and placed by the window, camera slowly pulls back to end, (music concludes).
-Constraints: The latte art pattern must be consistent from pouring to completion; natural light by the window and the tabletop are locked; milk foam texture must be clear and seamless.
-General constraints: Keep it without subtitles; do not generate a Logo; do not generate a watermark; use only one camera movement per shot; people should have natural, slight movement, not be statues.
+Portrait 9:16, gaya realis artistik yang tenang, subjek utama adalah secangkir latte dengan latte art buatan tangan, menghasilkan film pendek latte art 30 detik.
+Gambar 1: Close-up, ekstraksi espresso menetes ke dalam cangkir, kamera perlahan mendekat ke tekstur crema, cahaya alami di tepi jendela, (musik jazz yang menenangkan dimulai) <suara tetesan ekstraksi>.
+Gambar 2: Medium close-up, tangan memegang pitcher susu mulai menuang busa susu, kamera posisi tetap pandangan sejajar dengan permukaan cairan, <suara menuang busa susu>.
+Gambar 3: Close-up makro, kamera mengambil gambar dari atas saat busa susu menyebar di permukaan kopi membentuk pola daun.
+Gambar 4: Close-up, pergelangan tangan bergoyang ringan untuk menyelesaikan dan menarik urat daun, kamera perlahan mengelilingi bibir cangkir.
+Gambar 5: Medium shot, latte jadi diangkat dan diletakkan di tepi jendela, kamera perlahan zoom out untuk mengakhiri, (musik berakhir).
+Kendala: Pola latte art harus konsisten dan lancar dari menuang hingga terbentuk; cahaya alami di tepi jendela dan permukaan meja terkunci; tekstur busa susu jelas tanpa terputus.
+Kendala umum: Pertahankan tanpa teks; jangan buat Logo; jangan buat watermark; setiap gambar hanya menggunakan satu jenis gerakan kamera; orang harus bergerak alami sedikit, bukan seperti patung.
 ```
 
 ### No. 3: Pencuci Mulut Terbelah Mengalirkan Isian (Cokelat Lava)
@@ -1620,7 +1620,7 @@ Kendala umum: Tetap tanpa teks; jangan hasilkan Logo; jangan hasilkan watermark;
 
 ### Narasi Tokoh / Avatar Digital (6)
 
-### No. 1: Knowledge Monologue
+### No. 1: Pengetahuan Narasi Lisan
 
 - **Category:** `Narasi Tokoh / Avatar Digital`
 - **Source:** `community`
@@ -1629,22 +1629,22 @@ Kendala umum: Tetap tanpa teks; jangan hasilkan Logo; jangan hasilkan watermark;
 
 #### Description
 
-Presenter bound to @Image 1 (facial makeup and styling according to the corresponding image), vertical screen 9:16, clean studio style of a knowledge creator, bright soft light, generate a 30-second knowledge monologue short video.
+Pembawa acara terikat @Gambar 1 (riasan wajah sesuai dengan gambar yang ditentukan), rasio vertikal 9:16, gaya studio bersih blogger pengetahuan, pencahayaan lembut terang, hasilkan klip pendek narasi lisan pengetahuan 30 detik.
 
 #### Prompt
 
 ```text
-Presenter bound to @Image 1 (facial makeup and styling according to the corresponding image), vertical screen 9:16, clean studio style of a knowledge creator, bright soft light, generate a 30-second knowledge monologue short video.
-Shot 1: Medium close-up, presenter @Image 1 leans forward looking directly at the camera to pose a question, shallow depth of field bookshelf background, fixed camera, {Did you know 90% of people use it wrong?}.
-Shot 2: Slow push-in, presenter @Image 1 emphasizes by raising a finger while speaking, determined gaze, warm light brightening, (upbeat background music starts).
-Shot 3: Cut to, key point graphics appear on the right side of the screen, presenter @Image 1 turns sideways and points, smooth pan, 【Key point one two three】.
-Shot 4: Medium close-up, presenter @Image 1 straightens up, smiles and concludes, tone slows down, fixed camera, {Remember these three points is enough}.
-Shot 5: Slow pull-out, presenter @Image 1 nods to conclude and waves, soft light freeze frame, (music concludes).
-Constraints: Presenter's face must remain consistent with Image 1 throughout; lip sync must strictly match the dialogue; studio background remains fixed.
-General constraints: Keep no subtitles; do not generate Logo; do not generate watermarks; use only one camera movement per shot; characters should have natural slight movements, not statue-like.
+Pembawa acara terikat @Gambar 1 (riasan wajah sesuai dengan gambar yang ditentukan), rasio vertikal 9:16, gaya studio bersih blogger pengetahuan, pencahayaan lembut terang, hasilkan klip pendek narasi lisan pengetahuan 30 detik.
+Shot 1: Medium close-up, pembawa acara @Gambar 1 menatap kamera, tubuh condong ke depan mengajukan pertanyaan, latar belakang rak buku depth of field dangkal, kamera tetap, {Tahukah kamu 90% orang menggunakannya dengan salah?}.
+Shot 2: Perlahan dorong mendekat, pembawa acara @Gambar 1 berbicara sambil menegaskan dengan jari, tatapan mata yakin, cahaya hangat menyorot, (musik latar ringan dimulai).
+Shot 3: Potong ke shot, ilustrasi poin-poin penting muncul di sisi kanan layar, pembawa acara @Gambar 1 menunjuk sambil menoleh ke samping, pergerakan kamera horizontal stabil, 【Poin Penting Satu Dua Tiga】.
+Shot 4: Medium close-up, pembawa acara @Gambar 1 kembali ke posisi tubuh tegak tersenyum menyimpulkan, nada suara melambat, kamera tetap, {Ingat tiga poin ini saja sudah cukup}.
+Shot 5: Perlahan tarik menjauh, pembawa acara @Gambar 1 mengangguk mengakhiri dan melambaikan tangan, cahaya lembut membekukan frame, (musik berakhir).
+Kendala: Wajah pembawa acara harus konsisten sesuai Gambar 1 sepanjang video; gerakan bibir harus selaras ketat dengan dialog; latar belakang studio tetap tidak berubah.
+Kendala Umum: Pertahankan tanpa subtitle; jangan hasilkan Logo; jangan hasilkan watermark; setiap shot hanya menggunakan satu jenis pergerakan kamera; karakter harus bergerak alami sedikit, bukan seperti patung.
 ```
 
-### No. 2: News Broadcast
+### No. 2: Siaran Berita
 
 - **Category:** `Narasi Tokoh / Avatar Digital`
 - **Source:** `community`
@@ -1653,22 +1653,22 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 
 #### Description
 
-Anchor bound to @Image 1 (facial makeup and styling according to the corresponding image), horizontal screen 16:9, authoritative news studio, cool blue professional tone, generate a 30-second news broadcast short video.
+Pembawa acara terikat @Gambar1 (riasan wajah sesuai dengan gambar yang sesuai), layar horizontal 16:9, studio berita otoritatif, nada profesional biru dingin, hasilkan klip pendek siaran berita 30 detik.
 
 #### Prompt
 
 ```text
-Anchor bound to @Image 1 (facial makeup and styling according to the corresponding image), horizontal screen 16:9, authoritative news studio, cool blue professional tone, generate a 30-second news broadcast short video.
-Shot 1: Medium shot, anchor @Image 1 sits upright, looks directly at the camera to open, blue studio screen behind, fixed camera, {Good evening viewers, welcome to this broadcast}.
-Shot 2: Slow push-in, anchor @Image 1 reports the lead with a serious expression, steady pace, cool blue light, 【Today's headlines】.
-Shot 3: Cut to, a news footage window appears behind and to the right of anchor @Image 1, smooth pan, <studio cue sound>.
-Shot 4: Medium close-up, anchor @Image 1 turns to another camera to continue reporting, natural eye contact switch, fixed camera, (low background music).
-Shot 5: Slow pull-out, anchor @Image 1 concludes with hands folded in a gesture of thanks, cool blue freeze frame, {Thank you for watching, see you next time}.
-Constraints: Anchor's face must remain consistent with Image 1 throughout; lip sync must strictly match the dialogue; posture upright and professional, studio background fixed.
-General constraints: Keep no subtitles; do not generate Logo; do not generate watermarks; use only one camera movement per shot; characters should have natural slight movements, not statue-like.
+Pembawa acara terikat @Gambar1 (riasan wajah sesuai dengan gambar yang sesuai), layar horizontal 16:9, studio berita otoritatif, nada profesional biru dingin, hasilkan klip pendek siaran berita 30 detik.
+Shot 1: Medium shot, pembawa acara @Gambar1 duduk tegak membuka acara dengan menatap langsung ke kamera, layar biru studio di belakang, kamera tetap, {Selamat malam pemirsa, selamat menonton siaran kali ini}.
+Shot 2: Perlahan mendekat, pembawa acara @Gambar1 dengan ekspresi serius membacakan pengantar berita, kecepatan bicara stabil, cahaya biru dingin, 【Berita Utama Hari Ini】.
+Shot 3: Kamera beralih, jendela gambar berita muncul di belakang kanan pembawa acara @Gambar1, bergerak horizontal dengan stabil, <suara isyarat studio>.
+Shot 4: Medium close-up, pembawa acara @Gambar1 berbalik ke kamera lain melanjutkan siaran, peralihan tatapan alami, kamera tetap, (musik latar rendah).
+Shot 5: Perlahan menjauh, pembawa acara @Gambar1 melipat tangan memberikan salam penutup, pembekuan biru dingin, {Terima kasih telah menonton, sampai jumpa di edisi berikutnya}.
+Kendala: Wajah pembawa acara harus konsisten dengan Gambar1 sepanjang video; gerak bibir harus selaras ketat dengan dialog; postur duduk tegak dan profesional, latar belakang studio tetap.
+Kendala umum: Pertahankan tanpa subtitle; jangan hasilkan Logo; jangan hasilkan watermark; setiap shot hanya menggunakan satu jenis gerakan kamera; karakter harus bergerak alami sedikit, bukan seperti patung.
 ```
 
-### No. 3: Livestream Sales Monologue
+### No. 3: Pembawa Acara Penjualan
 
 - **Category:** `Narasi Tokoh / Avatar Digital`
 - **Source:** `community`
@@ -1677,22 +1677,29 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 
 #### Description
 
-Host bound to @Image 2 (facial makeup and styling according to the corresponding image), vertical screen 9:16, lively livestream sales style, bright high-saturation warm tone, generate a 30-second sales monologue short video.
+Pembawa acara terikat @Gambar2 (riasan wajah mengacu pada gambar yang sesuai), rasio vertikal 9:16, gaya siaran langsung penjualan yang ramai, nada hangat cerah dengan saturasi tinggi, hasilkan klip pendek pembawa acara penjualan 30 detik.
 
 #### Prompt
 
 ```text
-Host bound to @Image 2 (facial makeup and styling according to the corresponding image), vertical screen 9:16, lively livestream sales style, bright high-saturation warm tone, generate a 30-second sales monologue short video.
-Shot 1: Medium close-up, host @Image 2 holds up the product close to the camera, enthusiastically calls out, fixed camera, {Family, look here, this product today is absolutely amazing!}.
-Shot 2: Slow push-in, host @Image 2 points out the product's selling points, exaggerated excited expression, high-saturation warm light, <ding link-up sound effect>.
-Shot 3: Cut to, a price explosion sticker appears at the bottom left of the screen, host @Image 2 claps hands to emphasize, smooth pan, 【Limited time price drop, only 99】.
-Shot 4: Medium shot, host @Image 2 holds up the product, showing details left and right, speech speeds up, fixed camera, (energetic promotional music).
-Shot 5: Slow push-in, host @Image 2 gives a thumbs up to urge orders, warm tone freeze frame, {Don't miss out, hurry and place your order!}.
-Constraints: Host's face must remain consistent with Image 2 throughout; lip sync must strictly match the dialogue; product appearance remains consistent; background shelf display fixed.
-General constraints: Keep no subtitles; do not generate Logo; do not generate watermarks; use only one camera movement per shot; characters should have natural slight movements, not statue-like.
+Pembawa acara terikat @Gambar2 (riasan wajah mengacu pada gambar yang sesuai), rasio vertikal 9:16, gaya siaran langsung penjualan yang ramai, nada hangat cerah dengan saturasi tinggi, hasilkan klip pendek pembawa acara penjualan 30 detik.
+
+Shot 1: Medium close-up, pembawa acara @Gambar2 mengangkat produk dengan kedua tangan mendekati kamera sambil berseru antusias, kamera tetap, {Lihat, keluarga! Yang satu ini hari ini benar-benar luar biasa!}.
+
+Shot 2: Perlahan dorong mendekat, pembawa acara @Gambar2 menunjuk fitur produk dengan jari, ekspresi berlebihan dan bersemangat, cahaya hangat saturasi tinggi, <efek suara 'ding' tautan tersedia>.
+
+Shot 3: Potong ke shot, stiker ledakan harga muncul di kiri bawah layar, pembawa acara @Gambar2 bertepuk tangan menekankan, gerakan horizontal halus, 【Turun harga terbatas waktu, hanya 99】.
+
+Shot 4: Medium shot, pembawa acara @Gambar2 mengangkat produk menunjukkan detail ke kiri dan kanan, kecepatan bicara meningkat, kamera tetap, (musik promosi bersemangat).
+
+Shot 5: Perlahan dorong mendekat, pembawa acara @Gambar2 mengacungkan jempol untuk mendorong pesanan dan penutup, beku dengan nada hangat, {Habis jika lambat, buruan pesan!}.
+
+Kendala: Wajah pembawa acara harus konsisten dengan Gambar2 sepanjang video; gerakan bibir harus selaras ketat dengan dialog; tampilan produk harus konsisten; rak latar belakang tetap.
+
+Kendala umum: Pertahankan tanpa subtitle; jangan hasilkan Logo; jangan hasilkan watermark; setiap shot hanya menggunakan satu jenis gerakan kamera; karakter harus bergerak alami sedikit, bukan seperti patung.
 ```
 
-### No. 4: Late-Night Emotional Radio
+### No. 4: Stasiun Radio Emosional Tengah Malam
 
 - **Category:** `Narasi Tokoh / Avatar Digital`
 - **Source:** `community`
@@ -1701,22 +1708,22 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 
 #### Description
 
-Host bound to @Image 3 (facial makeup and styling according to the corresponding image), vertical screen 9:16, late-night radio atmosphere, warm orange low-contrast micro-light, generate a 30-second emotional radio short video.
+Pembawa acara terikat @Gambar3 (riasan wajah sesuai gambar referensi), rasio vertikal 9:16, suasana stasiun radio tengah malam, cahaya oranye hangat kontras rendah, hasilkan klip pendek stasiun radio emosional 30 detik.
 
 #### Prompt
 
 ```text
-Host bound to @Image 3 (facial makeup and styling according to the corresponding image), vertical screen 9:16, late-night radio atmosphere, warm orange low-contrast micro-light, generate a 30-second emotional radio short video.
-Shot 1: Medium close-up, host @Image 3 turns slightly towards the microphone, closes eyes and speaks softly, warm orange desk lamp side light, fixed camera, (gentle piano starts) {It's late, how are you who haven't slept yet}.
-Shot 2: Slow push-in, host @Image 3 opens eyes looking into the distance with a gentle expression, eyes glistening, warm light glow, <sound of light night rain outside the window>.
-Shot 3: Smooth pan, camera glides past headphones and a warm teacup on the desk, host @Image 3 enters frame whispering, (piano crescendo).
-Shot 4: Close-up, host @Image 3 smiles slightly, softly comforts, eyelashes flutter slightly, warm orange micro-light, {May you be treated gently by this world}.
-Shot 5: Slow pull-out, host @Image 3 takes off headphones, lowers head smiling to conclude, micro-light freeze frame, (music concludes).
-Constraints: Host's face must remain consistent with Image 3 throughout; lip sync must strictly match the dialogue; emotions externalized through eyelash flutters and glistening eyes,禁止直白旁白式表演; warm orange night tone consistent throughout.
-General constraints: Keep no subtitles; do not generate Logo; do not generate watermarks; use only one camera movement per shot; characters should have natural slight movements, not statue-like.
+Pembawa acara terikat @Gambar3 (riasan wajah sesuai gambar referensi), rasio vertikal 9:16, suasana stasiun radio tengah malam, cahaya oranye hangat kontras rendah, hasilkan klip pendek stasiun radio emosional 30 detik.
+Shot 1: Medium close-up, pembawa acara @Gambar3 membelakangi mikrofon dengan mata tertutup berbicara lembut, lampu meja oranye hangat menyinari dari samping, kamera tetap, (piano lembut mulai) {Sudah larut malam, apakah kamu yang belum tidur baik-baik saja?}.
+Shot 2: Perlahan mendekat, pembawa acara @Gambar3 membuka mata menatap kehampaan dengan ekspresi lembut, mata berkilau, cahaya hangat menyebar, <suara hujan malam di luar jendela>.
+Shot 3: Bergerak horizontal stabil, kamera menyapu headphone di atas meja dan cangkir teh hangat, pembawa acara @Gambar3 masuk ke dalam frame berbisik, (piano semakin kuat).
+Shot 4: Close-up, pembawa acara @Gambar3 tersenyum tipis menghibur dengan lembut, bulu mata bergetar halus, cahaya oranye hangat redup, {Semoga kamu diperlakukan dengan lembut oleh dunia ini}.
+Shot 5: Perlahan menjauh, pembawa acara @Gambar3 melepas headphone menunduk tersenyum mengakhiri, cahaya redup membeku, (musik berakhir).
+Kendala: Wajah pembawa acara harus konsisten sesuai Gambar3 sepanjang video; gerak bibir harus selaras ketat dengan dialog; emosi diekspresikan melalui getaran halus bulu mata dan kilauan di mata, dilarang akting naratif yang eksplisit; nuansa malam oranye hangat harus konsisten sepanjang video.
+Kendala umum: Pertahankan tanpa subtitle; jangan hasilkan Logo; jangan hasilkan watermark; setiap shot hanya menggunakan satu jenis gerakan kamera; karakter harus bergerak alami sedikit, bukan seperti patung.
 ```
 
-### No. 5: Teaching Instructor
+### No. 5: Instruktur Pengajar
 
 - **Category:** `Narasi Tokoh / Avatar Digital`
 - **Source:** `community`
@@ -1725,22 +1732,22 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 
 #### Description
 
-Instructor bound to @Image 1 (facial makeup and styling according to the corresponding image), horizontal screen 16:9, bright professional online classroom, clean whiteboard tone, generate a 30-second teaching instructor short video.
+Instruktur terikat dengan @Gambar 1 (riasan wajah sesuai dengan gambar referensi), rasio layar horizontal 16:9, suasana kelas online cerah dan profesional, papan tulis dengan nuansa segar, hasilkan video pendek instruktur pengajar 30 detik.
 
 #### Prompt
 
 ```text
-Instructor bound to @Image 1 (facial makeup and styling according to the corresponding image), horizontal screen 16:9, bright professional online classroom, clean whiteboard tone, generate a 30-second teaching instructor short video.
-Shot 1: Medium shot, instructor @Image 1 stands in front of whiteboard, turns to face camera to start lecture, holds marker, fixed camera, {In this lesson, we'll only cover one core formula}.
-Shot 2: Smooth pan, instructor @Image 1 walks while writing keywords on whiteboard, camera follows movement, bright white light, <sound of marker writing>.
-Shot 3: Cut to, whiteboard writing area zooms in, formula highlighted, instructor @Image 1 turns sideways pointing, slow push-in, 【Core formula】.
-Shot 4: Medium close-up, instructor @Image 1 turns back to camera explaining with examples, lively expression, fixed camera, (light learning background music).
-Shot 5: Slow pull-out, instructor @Image 1 spreads hands smiling to conclude and nods, white light freeze frame, {Understood? See you next lesson}.
-Constraints: Instructor's face must remain consistent with Image 1 throughout; lip sync must strictly match the dialogue; whiteboard content coherent throughout; classroom background fixed.
-General constraints: Keep no subtitles; do not generate Logo; do not generate watermarks; use only one camera movement per shot; characters should have natural slight movements, not statue-like.
+Instruktur terikat dengan @Gambar 1 (riasan wajah sesuai dengan gambar referensi), rasio layar horizontal 16:9, suasana kelas online cerah dan profesional, papan tulis dengan nuansa segar, hasilkan video pendek instruktur pengajar 30 detik.
+Shot 1: Medium shot, instruktur @Gambar 1 berdiri di depan papan tulis berbalik menghadap kamera dan mulai mengajar, memegang spidol, kamera tetap, {Pelajaran kali ini kita hanya akan membahas satu rumus inti}.
+Shot 2: Bergerak horizontal dengan stabil, instruktur @Gambar 1 berjalan sambil menulis kata kunci di papan tulis, kamera mengikuti pergerakannya, cahaya putih terang, <suara spidol menulis>.
+Shot 3: Potong ke, area tulisan di papan tulis diperbesar dengan rumus menyala, instruktur @Gambar 1 menunjuk sambil menyamping, perlahan mendekat, 【Rumus Inti】.
+Shot 4: Medium close-up, instruktur @Gambar 1 berbalik ke kamera memberikan contoh penjelasan, ekspresi hidup, kamera tetap, (musik latar belajar yang riang).
+Shot 5: Perlahan menjauh, instruktur @Gambar 1 membentangkan kedua tangan sambil tersenyum mengakhiri dan mengangguk, cahaya putih membeku, {Mengerti? Sampai jumpa di pelajaran berikutnya}.
+Kendala: Wajah instruktur harus konsisten sesuai Gambar 1 sepanjang video; gerak bibir harus selaras ketat dengan dialog; konten tulisan di papan tulis harus koheren dari awal hingga akhir; latar belakang kelas tetap.
+Kendala Umum: Pertahankan tanpa subtitle; jangan hasilkan Logo; jangan hasilkan watermark; setiap shot hanya menggunakan satu jenis pergerakan kamera; karakter harus bergerak alami sedikit, bukan seperti patung.
 ```
 
-### No. 6: Multilingual Avatar (Including Editing Task Concept)
+### No. 6: Avatar Multibahasa (Termasuk Ide Tugas Penyuntingan)
 
 - **Category:** `Narasi Tokoh / Avatar Digital`
 - **Source:** `community`
@@ -1749,19 +1756,26 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 
 #### Description
 
-Digital human bound to @Image 1 (facial makeup and styling according to the corresponding image), vertical screen 9:16, unified studio style for multinational brand, simple tech blue tone, generate a 30-second multilingual avatar short video.
+Avatar digital terikat pada @Gambar1 (riasan wajah sesuai dengan gambar referensi), rasio vertikal 9:16, gaya siaran seragam merek multinasional, nuansa biru teknologi yang sederhana, hasilkan video pendek 30 detik avatar multibahasa.
 
 #### Prompt
 
 ```text
-Digital human bound to @Image 1 (facial makeup and styling according to the corresponding image), vertical screen 9:16, unified studio style for multinational brand, simple tech blue tone, generate a 30-second multilingual avatar short video.
-Shot 1: Medium close-up, digital human @Image 1 looks directly at camera, greets in Chinese to open, tech blue background screen, fixed camera, {Hello everyone, welcome to learn about our product}【Chinese】.
-Shot 2: Cut to, same digital human @Image 1 seamlessly switches to English monologue, lip sync aligned to English, slow push-in, {Hello everyone, welcome}【English】.
-Shot 3: Cut to, digital human @Image 1 switches to Japanese greeting, consistent demeanor, smooth pan, {Mina-san konnichiwa}【Japanese】.
-Shot 4: Medium shot, digital human @Image 1 opens arms in welcoming gesture, multilingual subtitle stream appears in background, fixed camera, (tech-sounding background music).
-Shot 5: Slow pull-out, digital human @Image 1 smiles and nods to conclude, blue tone freeze frame, (music concludes).
-Constraints: Editing task concept — First generate the Chinese master shots, then use editing instructions 'keep character and camera movements unchanged, only replace dialogue and lip sync to target language' to derive English/Japanese avatars, ensuring face @Image 1, camera position, background, attire remain completely consistent throughout; lip sync for each language must strictly match corresponding dialogue;禁止分身出现面容漂移.
-General constraints: Keep no subtitles; do not generate Logo; do not generate watermarks; use only one camera movement per shot; characters should have natural slight movements, not statue-like.
+Avatar digital terikat pada @Gambar1 (riasan wajah sesuai dengan gambar referensi), rasio vertikal 9:16, gaya siaran seragam merek multinasional, nuansa biru teknologi yang sederhana, hasilkan video pendek 30 detik avatar multibahasa.
+
+Shot 1: Medium close-up, avatar digital @Gambar1 menyapa pembuka dalam bahasa Mandarin menghadap kamera, latar layar biru teknologi, kamera tetap, {Halo semuanya, selamat datang untuk mengenal produk kami}【Bahasa Mandarin】.
+
+Shot 2: Potong ke shot, avatar digital yang sama @Gambar1 beralih mulus ke siaran lisan bahasa Inggris, gerak bibir selaras dengan bahasa Inggris, perlahan dorong mendekat, {Hello everyone, welcome}【English】.
+
+Shot 3: Potong ke shot, avatar digital @Gambar1 beralih ke sapaan bahasa Jepang, ekspresi konsisten, pergeseran horizontal halus, {Minasan konnichiwa}【Bahasa Jepang】.
+
+Shot 4: Medium shot, avatar digital @Gambar1 membuka lengan dengan gerakan tangan menyambut, aliran subtitle multibahasa muncul di latar belakang, kamera tetap, (musik latar berkesan teknologi).
+
+Shot 5: Perlahan tarik menjauh, avatar digital @Gambar1 mengangguk sambil tersenyum untuk penutup, nuansa biru membeku, (musik berakhir).
+
+Kendala: Ide tugas penyuntingan — pertama buat shot master bahasa Mandarin, lalu gunakan instruksi penyuntingan "pertahankan karakter dan pergerakan kamera tidak berubah, hanya ganti dialog dan gerak bibir ke bahasa target" untuk menurunkan avatar bahasa Inggris/Jepang, pastikan wajah @Gambar1, posisi kamera, latar belakang, pakaian konsisten sepanjang video; gerak bibir setiap bahasa harus selaras ketat dengan dialog yang sesuai; larang avatar mengalami pergeseran wajah.
+
+Kendala umum: Pertahankan tanpa subtitle; jangan hasilkan Logo; jangan hasilkan watermark; setiap shot hanya gunakan satu jenis pergerakan kamera; karakter perlu bergerak alami sedikit, bukan seperti patung.
 ```
 
 <a id="category-16"></a>

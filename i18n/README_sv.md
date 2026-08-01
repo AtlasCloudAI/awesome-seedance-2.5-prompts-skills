@@ -2816,14 +2816,13 @@ Referera till morgonlöparen och kustvägen i Bild 1 som huvudmotiv (personens s
 #### Prompt
 
 ```text
-Referera till morgonlöparen och kustvägen i Bild 1 som huvudmotiv (personens silhuett och miljön ska matcha Bild 1), horisontellt format 16:9, inspirerande sportvarumärkesstil, soluppgångs-motljus i gyllene/apelsin nyanser, generera en 30-sekunders film om morgonlöpningsuthållighet.
 Shot 1: Extrem närbild, löparsko trampar på våt asfalt och stänker upp små vattendroppar, fast kamera med lätt fågelperspektiv, <ljudet av skosulan som möter marken>, (inspirerande stråkarmusik börjar lägga grunden).
 Shot 2: Mellanbild, löparens motljussilhuett tar jämna steg med svett som droppar längs hakan, kameran följer med, <stadiga och kraftfulla andningsrytmer>.
 Shot 3: Totalbild, kustlinjen sträcker ut sig, morgonsolen hoppar upp över havet och färgar himlen röd, kameran rör sig långsamt uppåt och nedåt, (stråkarmusik med trumvirvel tillkommer och driver framåt).
 Shot 4: Närbild, armens svängning, klockans siffror hoppar, hjärtfrekvensen stiger, kameran panorerar långsamt, <klickande ljud från klockan>.
 Shot 5: Fjärrbild, löparens silhuett rusar upp till toppen av en backe och sprider ut armarna för att omfamna morgonsolen, kameran drar sig långsamt utåt, (stråkarmusik och trumvirvel når en gemensam klimax och avslutas).
-约束：人物剪影与海岸公路以图片1为准；日出逆光金橙调贯穿；跑姿步频均匀连贯不出现顿挫。
-通用约束：保持无字幕；不要生成 Logo；不要生成水印；每个镜头只用一种运镜；人物需自然微动非石像。
+Constraints: Personens silhuett och kustvägen ska matcha Bild 1; Soluppgångs-motljus i gyllene/apelsin nyanser ska genomsyra hela filmen; Löpstil och stegfrekvens ska vara jämn och sammanhängande, utan ryckigheter.
+Generella constraints: Behåll utan textning; Generera inte någon logotyp; Generera inte något vattenstämpel; Använd endast en typ av kamerarörelse per shot; Personen ska ha naturliga, små rörelser och inte vara statisk som en staty.
 ```
 
 <a id="category-24"></a>
@@ -2845,13 +2844,13 @@ Referera till den moderna dansaren och det industriella utrymmet i Bild 1 som hu
 
 ```text
 Referera till den moderna dansaren och det industriella utrymmet i Bild 1 som huvudmotiv (personen och scenen ska matcha Bild 1), vertikalt format 9:16, stadig MV-följningsstil, kallblå neonljus skuggstil, generera en 30-sekunders film om rytmisk dans.
-Shot 1: Extrem närbild, dansarens fingertoppar öppnas plötsligt med det första taktslaget, fast kamera, <skarp knäppning med fingrarna>, (rytmisk elektronisk beat börjar).
-Shot 2: Totalbild, kroppen svänger kraftfullt, dansstegen breddas och följer med i takt, kameran följer med, <ljudet av kläder som piskar genom luften>.
-Shot 3: Mellanbild, snurrande hopp, kjolen ritar en båge med neondragering, kameran rör sig långsamt runt, (beaten blir tätare och en bas läggs till).
-Shot 4: Närbild, tårna trampar snabbt på marken, reflektioner skakar, kameran panorerar långsamt, <ljudet av kontinuerliga klackslag>.
-Shot 5: Totalbild, fryst pose, neonljus blinkar och belyser hela kroppens kontur, kameran drar sig långsamt utåt, (beaten avslutas på ett betonat slag).
-约束：人物与工业风空间以图片1为准；冷蓝霓虹光影贯穿；运镜节奏须与音乐重拍严格同步。
-通用约束：保持无字幕；不要生成 Logo；不要生成水印；每个镜头只用一种运镜；人物需自然微动非石像。
+Skott 1: Extrem närbild, dansarens fingertoppar öppnas plötsligt med det första taktslaget, fast kamera, <skarp knäppning med fingrarna>, (rytmisk elektronisk beat börjar).
+Skott 2: Totalbild, kroppen svänger kraftfullt, dansstegen breddas och följer med i takt, kameran följer med, <ljudet av kläder som piskar genom luften>.
+Skott 3: Mellanbild, snurrande hopp, kjolen ritar en båge med neondragering, kameran rör sig långsamt runt, (beaten blir tätare och en bas läggs till).
+Skott 4: Närbild, tårna trampar snabbt på marken, reflektioner skakar, kameran panorerar långsamt, <ljudet av kontinuerliga klackslag>.
+Skott 5: Totalbild, fryst pose, neonljus blinkar och belyser hela kroppens kontur, kameran drar sig långsamt utåt, (beaten avslutas på ett betonat slag).
+Begränsningar: Karaktären och det industriella utrymmet ska matcha Bild 1; Kallblå neonljus och skuggor ska genomsyra hela; Kamerarörelsens rytm måste vara strikt synkroniserad med musiken betonade slag.
+Allmänna begränsningar: Håll utan text; Generera inte någon logotyp; Generera inte något vattenstämpel; Använd endast en typ av kamerarörelse per skott; Personen ska ha naturliga, subtila rörelser och inte vara statisk som en staty.
 ```
 
 ### No. 2: Pianosolo
@@ -2869,13 +2868,13 @@ Referera till pianisten och scenen i den gamla teatern i Bild 1 som huvudmotiv (
 
 ```text
 Referera till pianisten och scenen i den gamla teatern i Bild 1 som huvudmotiv (personen och pianot ska matcha Bild 1), horisontellt format 16:9, klassisk konsertfilmkänsla, varmt gyllene strålkastarljus mörk bakgrundsstil, generera en 30-sekunders film om känslosam soloframförande.
-Shot 1: Extrem närbild, fingertoppar svävar ovanför tangenterna och sänks försiktigt för att spela den första tonen, fast kamera, (pianots ensamma ton klingar klart).
-Shot 2: Närbild, händer glider flytande över de svarta och vita tangenterna, hammarna lyfts och sänks, kameran panorerar långsamt, <det klara ljudet av tangenter som slår an strängarna>.
-Shot 3: Mellanbild, pianisten är slutna ögon, engagerad, kroppen svajar lätt med melodin, kameran zoomar långsamt in, (melodin går gradvis in i en klimax).
-Shot 4: Totalbild, pianot står ensamt under strålkastarljuset på den tomma scenen med dammpartiklar som flyter i ljuset, kameran rör sig långsamt uppåt och nedåt, (ackorden byggs lager på lager).
-Shot 5: Extrem närbild, den sista tangenten trycks ned, fingrarna stannar kvar, efterskalvet vibrerar, kameran drar sig långsamt utåt, <pianosträngarnas efterskalv dör bort>, (melodin avslutas tyst).
-约束：人物与钢琴以图片1为准；暖金聚光暗场影调贯穿；手部按键动作须与音符起落严格对应。
-通用约束：保持无字幕；不要生成 Logo；不要生成水印；每个镜头只用一种运镜；人物需自然微动非石像。
+Skott 1: Extrem närbild, fingertoppar svävar ovanför tangenterna och sänks försiktigt för att spela den första tonen, fast kamera, (pianots ensamma ton klingar klart).
+Skott 2: Närbild, händer glider flytande över de svarta och vita tangenterna, hammarna lyfts och sänks, kameran panorerar långsamt, <det klara ljudet av tangenter som slår an strängarna>.
+Skott 3: Mellanbild, pianisten är slutna ögon, engagerad, kroppen svajar lätt med melodin, kameran zoomar långsamt in, (melodin går gradvis in i en klimax).
+Skott 4: Totalbild, pianot står ensamt under strålkastarljuset på den tomma scenen med dammpartiklar som flyter i ljuset, kameran rör sig långsamt uppåt och nedåt, (ackorden byggs lager på lager).
+Skott 5: Extrem närbild, den sista tangenten trycks ned, fingrarna stannar kvar, efterskalvet vibrerar, kameran drar sig långsamt utåt, <pianosträngarnas efterskalv dör bort>, (melodin avslutas tyst).
+Begränsningar: Personen och pianot ska matcha Bild 1; Varmt gyllene strålkastarljus och mörk bakgrundsstil ska genomsyra hela; Handrörelserna och tangenttryckningarna måste strikt korrespondera med tonernas uppkomst och avtagande.
+Allmänna begränsningar: Behåll utan textremsor; Generera inte någon logotyp; Generera inte något vattenstämpel; Använd endast en kamerarörelse per skott; Personen ska ha naturliga, subtila rörelser och inte vara statyaktig.
 ```
 
 ### No. 3: Gatudansbattle

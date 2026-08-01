@@ -747,13 +747,13 @@ Das Model aus Bild 1 (Gesicht gemäß Nahaufnahme Bild 1, Styling und Make-up ge
 
 ```text
 Das Model aus Bild 1 (Gesicht gemäß Nahaufnahme Bild 1, Styling und Make-up gemäß Ganzkörperaufnahme Bild 2) als Hauptmotiv, Hochformat 9:16, modisch-realistischer Stil. Generiere einen 30-Sekunden-Kleidungspräsentationsfilm.
-Shot 1: Halbtotale, Model @Image 1 steht seitlich, dreht sich plötzlich um und lässt den Mantelsaum schwingen. Sanftes, reines Studiostudio-Oberlicht zeichnet die Silhouette nach, die Kamera fährt langsam näher, (beschwingte, modische Elektromusik beginnt) <Geräusch von Stoffreibung>.
-Shot 2: Großaufnahme, die Kamera schwenkt gleichmäßig horizontal über Schulternahtverlauf und Reversnähte, Seitenlicht von hinten betont den Stoffglanz.
-Shot 3: Totale, Model @Image 1 geht natürlich und zeigt den Gesamtschnitt und den Fall des Schnitts, die Kamera folgt gleichmäßig.
-Shot 4: Halbtotale, Model @Image 1 hebt die Hand, richtet den Kragen und blickt über die Schulter, die Kamera umkreist es langsam eine halbe Runde.
-Shot 5: Halbnah, Model @Image 1 lächelt in einer Endpose, die Kamera zoomt langsam heraus zum Abschluss, (Musik klingt aus).
-约束：Das Gesicht des Models sowie Styling und Make-up müssen während des gesamten Videos konsistent mit Bild 1 und Bild 2 sein; der Studiostudio-Hintergrund und das Oberlicht bleiben unverändert.
-通用约束：Ohne Untertitel; kein Logo generieren; kein Wasserzeichen generieren; jede Einstellung verwendet nur eine Kamerabewegung; Personen müssen sich natürlich und leicht bewegen, nicht wie Statuen.
+Einstellung 1: Halbtotale, Model @Image 1 steht seitlich, dreht sich plötzlich um und lässt den Mantelsaum schwingen. Sanftes, reines Studiostudio-Oberlicht zeichnet die Silhouette nach, die Kamera fährt langsam näher, (beschwingte, modische Elektromusik beginnt) <Geräusch von Stoffreibung>.
+Einstellung 2: Großaufnahme, die Kamera schwenkt gleichmäßig horizontal über Schulternahtverlauf und Reversnähte, Seitenlicht von hinten betont den Stoffglanz.
+Einstellung 3: Totale, Model @Image 1 geht natürlich und zeigt den Gesamtschnitt und den Fall des Schnitts, die Kamera folgt gleichmäßig.
+Einstellung 4: Halbtotale, Model @Image 1 hebt die Hand, richtet den Kragen und blickt über die Schulter, die Kamera umkreist es langsam eine halbe Runde.
+Einstellung 5: Halbnah, Model @Image 1 lächelt in einer Endpose, die Kamera zoomt langsam heraus zum Abschluss, (Musik klingt aus).
+Constraints: Das Gesicht des Models sowie Styling und Make-up müssen während des gesamten Videos konsistent mit Bild 1 und Bild 2 sein; der Studiostudio-Hintergrund und das Oberlicht bleiben unverändert.
+Allgemeine Constraints: Ohne Untertitel; kein Logo generieren; kein Wasserzeichen generieren; jede Einstellung verwendet nur eine Kamerabewegung; Personen müssen sich natürlich und leicht bewegen, nicht wie Statuen.
 ```
 
 ### No. 2: Schuh- und Stiefeldetails
@@ -771,13 +771,13 @@ Hochformat 9:16, hochwertiger, realistischer Stil mit Fokus auf Materialität. H
 
 ```text
 Hochformat 9:16, hochwertiger, realistischer Stil mit Fokus auf Materialität. Hauptmotiv ist ein Paar Lederstiefeletten. Generiere einen 30-Sekunden-Detailfilm über Schuhe/Stiefel.
-Shot 1: Makro-Großaufnahme, die Stiefeletten ruhen auf einer matten Steinplatte, die Kamera fährt langsam auf die Naht an der Schuhspitze zu, kaltes Seitenlicht streift über das Leder, (tiefe, atmosphärische Elektromusik beginnt) <leises Berührungsgeräusch von Leder>.
-Shot 2: Großaufnahme, die Kamera umkreist den Schuh einmal und zeigt die stromlinienförmige Form und die Fersenkurve, Reflektor füllt das Licht auf.
-Shot 3: Makro-Großaufnahme, feste Kameraposition, eine Fingerspitze klappt die Lasche um und zeigt das Innenfutter-Logo und die Nähte.
-Shot 4: Halbtotale, ein beschuhter Fuß tritt auf den Boden und hebt leicht die Ferse, die Kamera filmt von oben und fängt den Moment des Aufsetzens ein, <Geräusch des Fersenauftritts>.
-Shot 5: Großaufnahme, die Kamera zoomt langsam heraus und fokussiert auf die gesamte Schuhform, (Musik klingt aus).
-约束：Stiefeletten-Modell, Ledertextur und Farbgebung müssen während des gesamten Videos konsistent sein; die Steinplatte und die kalte Lichtsetzung bleiben unverändert; verhindern, dass die Form des linken und rechten Schuhs nicht übereinstimmt.
-通用约束：Ohne Untertitel; kein Logo generieren; kein Wasserzeichen generieren; jede Einstellung verwendet nur eine Kamerabewegung; Personen müssen sich natürlich und leicht bewegen, nicht wie Statuen.
+Einstellung 1: Makro-Großaufnahme, die Stiefeletten ruhen auf einer matten Steinplatte, die Kamera fährt langsam auf die Naht an der Schuhspitze zu, kaltes Seitenlicht streift über das Leder, (tiefe, atmosphärische Elektromusik beginnt) <leises Berührungsgeräusch von Leder>.
+Einstellung 2: Großaufnahme, die Kamera umkreist den Schuh einmal und zeigt die stromlinienförmige Form und die Fersenkurve, Reflektor füllt das Licht auf.
+Einstellung 3: Makro-Großaufnahme, feste Kameraposition, eine Fingerspitze klappt die Lasche um und zeigt das Innenfutter-Logo und die Nähte.
+Einstellung 4: Halbtotale, ein beschuhter Fuß tritt auf den Boden und hebt leicht die Ferse, die Kamera filmt von oben und fängt den Moment des Aufsetzens ein, <Geräusch des Fersenauftritts>.
+Einstellung 5: Großaufnahme, die Kamera zoomt langsam heraus und fokussiert auf die gesamte Schuhform, (Musik klingt aus).
+Constraints: Stiefeletten-Modell, Ledertextur und Farbgebung müssen während des gesamten Videos konsistent sein; die Steinplatte und die kalte Lichtsetzung bleiben unverändert; verhindern, dass die Form des linken und rechten Schuhs nicht übereinstimmt.
+Allgemeine Constraints: Ohne Untertitel; kein Logo generieren; kein Wasserzeichen generieren; jede Einstellung verwendet nur eine Kamerabewegung; Personen müssen sich natürlich und leicht bewegen, nicht wie Statuen.
 ```
 
 ### No. 3: Tasche Öffnen/Schließen Demonstration
@@ -795,13 +795,13 @@ Hochformat 9:16, minimalistischer, hochwertiger realistischer Stil. Hauptmotiv i
 
 ```text
 Hochformat 9:16, minimalistischer, hochwertiger realistischer Stil. Hauptmotiv ist eine Pendler-Handtasche. Generiere einen 30-Sekunden-Funktionsdemonstrationsfilm für die Tasche.
-Shot 1: Halbtotale, die Handtasche steht frontal auf einer einfarbigen Oberfläche, die Kamera fährt langsam auf das Metallschloss zu, sanftes Oberlicht, (frische, leichte Musik beginnt).
-Shot 2: Großaufnahme, zwei Hände öffnen den Reißverschluss und zeigen das Hauptfach, die Kamera filmt von oben und zeigt die Innenaufteilung und Kartenfächer, <Geräusch des gleitenden Reißverschlusses>.
-Shot 3: Großaufnahme, eine Hand legt nacheinander einen Laptop und eine Wasserflasche hinein, die Kamera schwenkt gleichmäßig horizontal und zeigt das Fassungsvermögen.
-Shot 4: Halbtotale, eine Hand hebt die Tasche und zeigt die Tragfähigkeit des Griffs und die Steifheit, die Kamera filmt von unten.
-Shot 5: Halbtotale, das Schloss wird geschlossen und die Tasche kehrt in ihre Position zurück, die Kamera zoomt langsam heraus zum Abschluss, (Musik klingt aus).
-约束：Die Farbe der Handtasche, die Metallbeschläge und die Form müssen während des gesamten Videos konsistent sein; die Oberfläche und das Oberlicht bleiben unverändert; die Öffnungs- und Schließbewegungen müssen fließend sein, ohne Sprünge.
-通用约束：Ohne Untertitel; kein Logo generieren; kein Wasserzeichen generieren; jede Einstellung verwendet nur eine Kamerabewegung; Personen müssen sich natürlich und leicht bewegen, nicht wie Statuen.
+Einstellung 1: Halbtotale, die Handtasche steht frontal auf einer einfarbigen Oberfläche, die Kamera fährt langsam auf das Metallschloss zu, sanftes Oberlicht, (frische, leichte Musik beginnt).
+Einstellung 2: Großaufnahme, zwei Hände öffnen den Reißverschluss und zeigen das Hauptfach, die Kamera filmt von oben und zeigt die Innenaufteilung und Kartenfächer, <Geräusch des gleitenden Reissverschlusses>.
+Einstellung 3: Großaufnahme, eine Hand legt nacheinander einen Laptop und eine Wasserflasche hinein, die Kamera schwenkt gleichmäßig horizontal und zeigt das Fassungsvermögen.
+Einstellung 4: Halbtotale, eine Hand hebt die Tasche und zeigt die Tragfähigkeit des Griffs und die Steifheit, die Kamera filmt von unten.
+Einstellung 5: Halbtotale, das Schloss wird geschlossen und die Tasche kehrt in ihre Position zurück, die Kamera zoomt langsam heraus zum Abschluss, (Musik klingt aus).
+Constraints: Die Farbe der Handtasche, die Metallbeschläge und die Form müssen während des gesamten Videos konsistent sein; die Oberfläche und das Oberlicht bleiben unverändert; die Öffnungs- und Schließbewegungen müssen fließend sein, ohne Sprüngen.
+Allgemeine Constraints: Ohne Untertitel; kein Logo generieren; kein Wasserzeichen generieren; jede Einstellung verwendet nur eine Kamerabewegung; Personen müssen sich natürlich und leicht bewegen, nicht wie Statuen.
 ```
 
 ### No. 4: Schmuck und Juwelen
@@ -819,13 +819,13 @@ Hochformat 9:16, luxuriöser, raffinierter realistischer Stil. Hauptmotiv ist ei
 
 ```text
 Hochformat 9:16, luxuriöser, raffinierter realistischer Stil. Hauptmotiv ist eine Diamantkette. Generiere einen 30-Sekunden-Schmuckpräsentationsfilm.
-Shot 1: Makro-Großaufnahme, die Kette liegt auf einem schwarzen Samtkissen, die Kamera fährt langsam auf den Hauptdiamanten zu, ein Scheinwerfer erzeugt das Feuer, (eleganter Streicherklang beginnt) <leises, metallisches Klingen>.
-Shot 2: Großaufnahme, die Kamera umkreist den Hauptdiamanten eine halbe Runde und fängt Lichtreflexe aus verschiedenen Winkeln ein, der Hintergrund ist abgedunkelt.
-Shot 3: Halbnah, das Model trägt die Kette am Hals, die Kamera fährt von den Schlüsselbeinen nach oben zum Anhänger, weiches Aufhelllicht für das Gesicht.
-Shot 4: Makro-Großaufnahme, feste Kameraposition, der Anhänger schimmert leicht im Atemrhythmus.
-Shot 5: Großaufnahme, die Kamera zoomt langsam heraus und fokussiert auf das Feuer für die Endpose, (Streicher klingen aus).
-约束：Das Kettendesign, der Diamantschliff und die Fassung müssen während des gesamten Videos konsistent sein; der schwarze Samthintergrund und die Scheinwerferbeleuchtung bleiben unverändert; die Hautfarbe des Halses im getragenen Abschnitt muss mit der im Studioabschnitt übereinstimmen.
-通用约束：Ohne Untertitel; kein Logo generieren; kein Wasserzeichen generieren; jede Einstellung verwendet nur eine Kamerabewegung; Personen müssen sich natürlich und leicht bewegen, nicht wie Statuen.
+Einstellung 1: Makro-Großaufnahme, die Kette liegt auf einem schwarzen Samtkissen, die Kamera fährt langsam auf den Hauptdiamanten zu, ein Scheinwerfer erzeugt das Feuer, (eleganter Streicherklang beginnt) <leises, metallisches Klingen>.
+Einstellung 2: Großaufnahme, die Kamera umkreist den Hauptdiamanten eine halbe Runde und fängt Lichtreflexe aus verschiedenen Winkeln ein, der Hintergrund ist abgedunkelt.
+Einstellung 3: Halbnah, das Model trägt die Kette am Hals, die Kamera fährt von den Schlüsselbeinen nach oben zum Anhänger, weiches Aufhelllicht für das Gesicht.
+Einstellung 4: Makro-Großaufnahme, feste Kameraposition, der Anhänger schimmert leicht im Atemrhythmus.
+Einstellung 5: Großaufnahme, die Kamera zoomt langsam heraus und fokussiert auf das Feuer für die Endpose, (Streicher klingen aus).
+Constraints: Das Kettendesign, der Diamantschliff und die Fassung müssen während des gesamten Videos konsistent sein; der schwarze Samthintergrund und die Scheinwerferbeleuchtung bleiben unverändert; die Hautfarbe des Halses im getragenen Abschnitt muss mit der im Studioabschnitt übereinstimmen.
+Allgemeine Constraints: Ohne Untertitel; kein Logo generieren; kein Wasserzeichen generieren; jede Einstellung verwendet nur eine Kamerabewegung; Personen müssen sich natürlich und leicht bewegen, nicht wie Statuen.
 ```
 
 ### No. 5: Haushaltsgeräte Präsentation (Hochleistungsmixer)
@@ -843,16 +843,23 @@ Hochformat 9:16, heller, realistischer Küchenalltagsstil. Hauptmotiv ist ein Ho
 
 ```text
 Hochformat 9:16, heller, realistischer Küchenalltagsstil. Hauptmotiv ist ein Hochgeschwindigkeits-Mixer. Generiere einen 30-Sekunden-Demonstrationsfilm für das Haushaltsgerät.
-Shot 1: Halbtotale, der Mixer steht auf einer hellen Arbeitsplatte, die Kamera fährt langsam auf das Bedienfeld zu, schräges Morgenlicht, (beschwingte, lebendige leichte Musik beginnt).
-Shot 2: Großaufnahme, eine Hand schüttet Obst und Eiswürfel in den Behälter, die Kamera filmt von oben auf die Öffnung, <Geräusch fallender Zutaten>.
-Shot 3: Großaufnahme, der Startknopf wird gedrückt, die Messer rotieren mit hoher Geschwindigkeit und zerkleinern, die Kamera ist fest positioniert nahe an der Behälterwand, <Geräusch des Mixers>.
-Shot 4: Halbtotale, der feine Smoothie wird in ein Glas gegossen, die Kamera schwenkt gleichmäßig horizontal und folgt dem Fluss.
-Shot 5: Halbnah, das fertige Smoothie und das Gerät sind zusammen im Bild, die Kamera zoomt langsam heraus zum Abschluss, (Musik klingt aus).
-约束：Die Gehäusefarbe des Mixers, das Bedienfeld und der Behälter müssen während des gesamten Videos konsistent sein; die Küchenarbeitsplatte und das Morgenlicht bleiben unverändert; die Konsistenz des Smoothies muss vorher und nachher stimmig sein.
-通用约束：Ohne Untertitel; kein Logo generieren; kein Wasserzeichen generieren; jede Einstellung verwendet nur eine Kamerabewegung; Personen müssen sich natürlich und leicht bewegen, nicht wie Statuen.
+
+Einstellung 1: Halbtotale, der Mixer steht auf einer hellen Arbeitsplatte, die Kamera fährt langsam auf das Bedienfeld zu, schräges Morgenlicht, (beschwingte, lebendige leichte Musik beginnt).
+
+Einstellung 2: Großaufnahme, eine Hand schüttet Obst und Eiswürfel in den Behälter, die Kamera filmt von oben auf die Öffnung, <Geräusch fallender Zutaten>.
+
+Einstellung 3: Großaufnahme, der Startknopf wird gedrückt, die Messer rotieren mit hoher Geschwindigkeit und zerkleinern, die Kamera ist fest positioniert nahe an der Behälterwand, <Geräusch des Mixers>.
+
+Einstellung 4: Halbtotale, der feine Smoothie wird in ein Glas gegossen, die Kamera schwenkt gleichmäßig horizontal und folgt dem Fluss.
+
+Einstellung 5: Halbnah, das fertige Smoothie und das Gerät sind zusammen im Bild, die Kamera zoomt langsam heraus zum Abschluss, (Musik klingt aus).
+
+Constraints: Die Gehäusefarbe des Mixers, das Bedienfeld und der Behälter müssen während des gesamten Videos konsistent sein; die Küchenarbeitsplatte und das Morgenlicht bleiben unverändert; die Konsistenz des Smoothies muss vorher und nachher stimmig sein.
+
+Allgemeine Constraints: Ohne Untertitel; kein Logo generieren; kein Wasserzeichen generieren; jede Einstellung verwendet nur eine Kamerabewegung; Personen müssen sich natürlich und leicht bewegen, nicht wie Statuen.
 ```
 
-### No. 6: Baby and Maternity Products
+### No. 6: Babyartikel
 
 - **Category:** `E-Commerce Und Live-Shopping`
 - **Source:** `community`
@@ -861,19 +868,19 @@ Shot 5: Halbnah, das fertige Smoothie und das Gerät sind zusammen im Bild, die 
 
 #### Description
 
-Portrait 9:16, soft, healing realistic daily life style. The main subject is a baby insulated bottle. Generate a 30-second presentation video for baby and maternity products.
+Hochformat 9:16, sanfter, heilender, lebensechter Stil. Das Hauptmotiv ist eine Baby-Isolierflasche. Erzeuge einen 30-Sekunden-Kurzfilm zur Präsentation von Babyartikeln.
 
 #### Prompt
 
 ```text
-Portrait 9:16, soft, healing realistic daily life style. The main subject is a baby insulated bottle. Generate a 30-second presentation video for baby and maternity products.
-Shot 1: Medium close-up, the bottle stands on a soft mat in the nursery, the camera slowly pushes in towards the anti-colic nipple, warm, soft lighting, (gentle piano music begins).
-Shot 2: Close-up, a hand unscrews the cap to reveal the wide opening and the scale, the camera pans smoothly horizontally, <gentle sound of cap unscrewing>.
-Shot 3: Close-up, after pouring in warm water, a hand touches the bottle to feel the constant temperature, the camera is fixed.
-Shot 4: Medium full shot, the mother holds the bottle, gently shakes it to check the temperature, and prepares for feeding, the camera slowly tilts up and down, <gentle sound of water sloshing>.
-Shot 5: Medium close-up, the bottle and a soft plush toy are together in the frame for the final pose, the camera slowly zooms out to conclude, (music fades out).
-Constraints: The color of the bottle, the scale on the bottle body, and the nipple model must be consistent throughout the entire video; the warm lighting in the nursery and the soft mat background remain unchanged; the image mood must remain soft and warm.
-General Constraints: Without subtitles; do not generate a logo; do not generate a watermark; each shot uses only one camera movement; people must move naturally and lightly, not like statues.
+Hochformat 9:16, sanfter, heilender, lebensechter Stil. Das Hauptmotiv ist eine Baby-Isolierflasche. Erzeuge einen 30-Sekunden-Kurzfilm zur Präsentation von Babyartikeln.
+Bild 1: Halbnahaufnahme, die Flasche steht auf einem weichen Kissen im Kinderzimmer, die Kamera fährt langsam auf den Anti-Kolik-Sauger zu, warmes, weiches Licht, (sanfte Klaviermusik setzt ein).
+Bild 2: Großaufnahme, eine Hand schraubt den Deckel ab, um die breite Öffnung und die Skala zu zeigen, die Kamera schwenkt ruhig horizontal, <sanftes Schraubgeräusch>.
+Bild 3: Großaufnahme, nach dem Eingießen von warmem Wasser berührt eine Hand die Flasche, um die konstante Temperatur zu spüren, die Kamera ist fest positioniert.
+Bild 4: Halbtotale, eine Mutter hält die Flasche, schüttelt sie sanft, um die Temperatur zu prüfen, und bereitet sich auf die Fütterung vor, die Kamera fährt langsam auf und ab, <sanftes Plätschern des Wassers>.
+Bild 5: Halbnahaufnahme, die Flasche und ein weiches Kuscheltier sind gemeinsam im Bild und frieren ein, die Kamera zoomt langsam heraus zum Abschluss, (Musik klingt aus).
+Einschränkungen: Flaschenfarbe, Skala am Flaschenkörper und Saugerdesign müssen durchgängig konsistent sein; warmes Licht im Kinderzimmer und Kissenhintergrund sind festgelegt; die Bildstimmung muss sanft und warm bleiben.
+Allgemeine Einschränkungen: Keine Untertitel; kein Logo erzeugen; kein Wasserzeichen erzeugen; jede Einstellung verwendet nur eine Kamerabewegung; Personen müssen sich natürlich und leicht bewegen, nicht wie Statuen.
 ```
 
 ### No. 7: Lebensmittel-Geschenkbox
@@ -1039,13 +1046,13 @@ Hochformat 9:16, minimalistischer, zen-inspirierter realistischer Stil. Hauptmot
 
 ```text
 Hochformat 9:16, minimalistischer, zen-inspirierter realistischer Stil. Hauptmotiv ist ein Sashimi-Platte. Generiere einen 30-Sekunden-Kurzfilm über die Präsentation von japanischem Essen.
-Shot 1: Halbtotale, eine schwarze Steinplatte liegt auf einem Holztisch, die Kamera fährt langsam näher, kaltes Oberlicht, (klare, kühle Guzheng-Musik beginnt).
-Shot 2: Großaufnahme, eine Hand platziert mit einer Pinzette präzise Thunfisch-Sashimi und Shiso-Blätter, Kameraperspektive von oben, <Geräusch des leichten Ablegens der Zutaten>.
-Shot 3: Makro-Großaufnahme, die Kamera schwenkt gleichmäßig horizontal über die Fettmaserung des Lachses und den Glanz der Eiskristalle.
-Shot 4: Halbnaheinstellung, Sojasauce wird über das Gericht geträufelt, Wasabi und Blütenblätter werden garniert, die Kamera umkreist langsam das fertige Gericht.
-Shot 5: Totale, die komplette Sashimi-Platte ist zentriert eingefroren, die Kamera zoomt langsam heraus zum Abschluss, (Musik klingt aus).
-约束：Die Sashimi-Sorten, Schnittdicke und Anordnung bleiben durchgehend konsistent; Die schwarze Steinplatte und das kalte Oberlicht sind festgelegt; Die Komposition bleibt minimalistisch mit viel Weißraum.
-通用约束：字幕なしを保持；Logoを生成しない；透かしを生成しない；各ショットは1種類のカメラムーブメントのみを使用；人物は自然な微動で、石像のように静止しない。
+Einstellung 1: Halbtotale, eine schwarze Steinplatte liegt auf einem Holztisch, die Kamera fährt langsam näher, kaltes Oberlicht, (klare, kühle Guzheng-Musik beginnt).
+Einstellung 2: Großaufnahme, eine Hand platziert mit einer Pinzette präzise Thunfisch-Sashimi und Shiso-Blätter, Kameraperspektive von oben, <Geräusch des leichten Ablegens der Zutaten>.
+Einstellung 3: Makro-Großaufnahme, die Kamera schwenkt gleichmäßig horizontal über die Fettmaserung des Lachses und den Glanz der Eiskristalle.
+Einstellung 4: Halbnaheinstellung, Sojasauce wird über das Gericht geträufelt, Wasabi und Blütenblätter werden garniert, die Kamera umkreist langsam das fertige Gericht.
+Einstellung 5: Totale, die komplette Sashimi-Platte ist zentriert eingefroren, die Kamera zoomt langsam heraus zum Abschluss, (Musik klingt aus).
+Einschränkungen: Die Sashimi-Sorten, Schnittdicke und Anordnung bleiben durchgehend konsistent; Die schwarze Steinplatte und das kalte Oberlicht sind festgelegt; Die Komposition bleibt minimalistisch mit viel Weißraum.
+Allgemeine Einschränkungen: 【字幕なし】 beibehalten; Kein Logo generieren; Kein Wasserzeichen generieren; Jede Einstellung verwendet nur eine Art Kamerabewegung; Personen zeigen natürliche, leichte Bewegungen und verharren nicht statuenhaft.
 ```
 
 ### No. 6: Bubble Tea Zubereitung
@@ -1063,13 +1070,13 @@ Hochformat 9:16, frischer, lebendiger realistischer Stil. Hauptmotiv ist ein han
 
 ```text
 Hochformat 9:16, frischer, lebendiger realistischer Stil. Hauptmotiv ist ein handgemachter Bubble Tea mit Perlen. Generiere einen 30-Sekunden-Kurzfilm über die Zubereitung von Bubble Tea.
-Shot 1: Großaufnahme, gekochte braune Zuckerperlen werden in den Becherboden gegossen und bilden Streifen an der Wand, die Kamera fährt langsam näher, helles Barlicht, (beschwingte Popmusik beginnt) <Geräusch der Perlen, die in den Becher fallen>.
-Shot 2: Halbnaheinstellung, eine Hand gießt frisch gebrühten Tee und frische Milch aus einem Milchkännchen ein, Kamera feststehend auf Augenhöhe zeigt die Schichten, <Geräusch des Eingießens>.
-Shot 3: Makro-Großaufnahme, Kamera von oben, Eiswürfel werden hineingeworfen und verursachen Vermischung von Tee und Milch, <Klirren der Eiswürfel>.
-Shot 4: Großaufnahme, Versiegelungsmaschine presst die Folie auf den Becher und ein Strohhalm wird eingesteckt, Kamera folgt der Bewegung des Einsteckens, <Geräusch des Durchstechens der Folie>.
-Shot 5: Halbtotale, eine Hand hält das fertige Getränk und schüttelt es leicht, um die wirbelnden Perlen zu zeigen, die Kamera zoomt langsam heraus zum Abschluss, (Musik klingt aus).
-约束：Die Schichtung des Tees und die Farbe der Perlen bleiben durchgehend konsistent; Das helle Barlicht und der Hintergrund sind festgelegt; Die Zubereitungsschritte sind in einer zusammenhängenden Reihenfolge ohne Sprünge.
-通用约束：字幕なしを保持；Logoを生成しない；透かしを生成しない；各ショットは1種類のカメラムーブメントのみを使用；人物は自然な微動で、石像のように静止しない。
+Einstellung 1: Großaufnahme, gekochte braune Zuckerperlen werden in den Becherboden gegossen und bilden Streifen an der Wand, die Kamera fährt langsam näher, helles Barlicht, (beschwingte Popmusik beginnt) <Geräusch der Perlen, die in den Becher fallen>.
+Einstellung 2: Halbnaheinstellung, eine Hand gießt frisch gebrühten Tee und frische Milch aus einem Milchkännchen ein, Kamera feststehend auf Augenhöhe zeigt die Schichten, <Geräusch des Eingießens>.
+Einstellung 3: Makro-Großaufnahme, Kamera von oben, Eiswürfel werden hineingeworfen und verursachen Vermischung von Tee und Milch, <Klirren der Eiswürfel>.
+Einstellung 4: Großaufnahme, Versiegelungsmaschine presst die Folie auf den Becher und ein Strohhalm wird eingesteckt, Kamera folgt der Bewegung des Einsteckens, <Geräusch des Durchstechens der Folie>.
+Einstellung 5: Halbtotale, eine Hand hält das fertige Getränk und schüttelt es leicht, um die wirbelnden Perlen zu zeigen, die Kamera zoomt langsam heraus zum Abschluss, (Musik klingt aus).
+Einschränkungen: Die Schichtung des Tees und die Farbe der Perlen bleiben durchgehend konsistent; Das helle Barlicht und der Hintergrund sind festgelegt; Die Zubereitungsschritte sind in einer zusammenhängenden Reihenfolge ohne Sprünge.
+Allgemeine Einschränkungen: 【字幕なし】 beibehalten; Kein Logo generieren; Kein Wasserzeichen generieren; Jede Einstellung verwendet nur eine Art Kamerabewegung; Personen haben natürliche Mikrobewegungen und verharren nicht statuenhaft still.
 ```
 
 ### No. 7: Handgezogene Nudeln
@@ -1087,16 +1094,23 @@ Querformat 16:9, handwerklich-meisterhafter realistischer Stil. Hauptmotiv ist d
 
 ```text
 Querformat 16:9, handwerklich-meisterhafter realistischer Stil. Hauptmotiv ist die Herstellung handgezogener Nudeln. Generiere einen 30-Sekunden-Kurzfilm über handgezogene Nudeln.
-Shot 1: Halbtotale, der geknetete Teigklumpen ruht auf dem Nudelbrett, Hände drücken ihn zurück zur Ruhe, die Kamera fährt langsam näher, warmes Küchenlicht, (muntere Volksmusik beginnt) <Geräusch des Knetens>.
-Shot 2: Großaufnahme, Hände ziehen und dehnen den Teig, falten ihn wiederholt und schlagen ihn auf das Brett, Kamera folgt der Handbewegung, <Geräusch des Schlags auf das Brett>.
-Shot 3: Halbnaheinstellung, die Nudeln werden immer dünner gezogen und als Fäden in kochendes Wasser gegeben, Kamera von oben zeigt aufsteigenden Dampf, <Zischen beim Eintauchen ins kochende Wasser>.
-Shot 4: Großaufnahme, Nudeln werden herausgehoben und in eine Schüssel gelegt, Brühe wird darüber gegossen, Kamera schwenkt gleichmäßig horizontal und zeigt die Brühe.
-Shot 5: Halbtotale, Frühlingszwiebeln werden gestreut und Rindfleisch als Topping platziert, fertiges Gericht, Kamera zoomt langsam heraus zum Abschluss, (Musik klingt aus).
-约束：Die Dicke der Nudeln und das fertige Topping sind vorher und nachher konsistent; Das warme Küchenlicht und der Nudelbrett sind festgelegt; Die Dehnbewegungen sind fließend und zeigen den handgemachten Charakter.
-通用约束：字幕なしを保持；Logoを生成しない；透かしを生成しない；各ショットは1種類のカメラムーブメントのみを使用；人物は自然な微動で、石像のように静止しない。
+
+Einstellung 1: Halbtotale, der geknetete Teigklumpen ruht auf dem Nudelbrett, Hände drücken ihn zurück zur Ruhe, die Kamera fährt langsam näher, warmes Küchenlicht, (muntere Volksmusik beginnt) <Geräusch des Knetens>.
+
+Einstellung 2: Großaufnahme, Hände ziehen und dehnen den Teig, falten ihn wiederholt und schlagen ihn auf das Brett, Kamera folgt der Handbewegung, <Geräusch des Schlags auf das Brett>.
+
+Einstellung 3: Halbnaheinstellung, die Nudeln werden immer dünner gezogen und als Fäden in kochendes Wasser gegeben, Kamera von oben zeigt aufsteigenden Dampf, <Zischen beim Eintauchen ins kochende Wasser>.
+
+Einstellung 4: Großaufnahme, Nudeln werden herausgehoben und in eine Schüssel gelegt, Brühe wird darüber gegossen, Kamera schwenkt gleichmäßig horizontal und zeigt die Brühe.
+
+Einstellung 5: Halbtotale, Frühlingszwiebeln werden gestreut und Rindfleisch als Topping platziert, fertiges Gericht, Kamera zoomt langsam heraus zum Abschluss, (Musik klingt aus).
+
+Constraints: Die Dicke der Nudeln und das fertige Topping sind vorher und nachher konsistent; Das warme Küchenlicht und der Nudelbrett sind festgelegt; Die Dehnbewegungen sind fließend und zeigen den handgemachten Charakter.
+
+Allgemeine Constraints: 【字幕なし】を保持；【Logo】を生成しない；【透かし】を生成しない；各ショットは1種類のカメラムーブメントのみを使用；人物は自然な微動で、石像のように静止しない。
 ```
 
-### No. 8: Frühstücksszene (One-Take)
+### No. 8: Frühstüksszene (One-Take)
 
 - **Category:** `Essen Und Gastronomie`
 - **Source:** `community`
@@ -1111,13 +1125,13 @@ Hochformat 9:16, warmer, heilender, lebensnaher realistischer Stil. Hauptmotiv i
 
 ```text
 Hochformat 9:16, warmer, heilender, lebensnaher realistischer Stil. Hauptmotiv ist ein chinesisches Frühstück. Generiere einen 30-Sekunden-One-Take-Kurzfilm einer Frühstücksszene.
-Shot 1: One-Take Verfolgungsaufnahme, Morgenlicht fällt durch den Vorhang auf den Esstisch, Kamera fährt langsam näher an dampfende Xiaolongbao, (sanfte Morgen-Klaviermusik beginnt) <Geräusch des Öffnens des Dämpfers>.
-Shot 2: Derselbe lange Take schwenkt nahtlos und gleichmäßig horizontal, gleitet über goldbraunes Spiegelei, Youtiao und Sojamilch, Dampf und Lichtflecken fließen.
-Shot 3: Derselbe lange Take steigt und sinkt nahtlos langsam, eine Hand nimmt ein Xiaolongbao, tunkt es in Essig und hebt es an, <Geräusch des tropfenden Suds>.
-Shot 4: Derselbe lange Take umkreist nahtlos eine kleine halbe Runde, streift über ein aufgeschlagenes Buch und eine dampfende Kaffeetasse neben dem Tisch.
-Shot 5: Derselbe lange Take zoomt nahtlos langsam heraus, friert das gemütliche Frühstückspanorama ein, (Musik klingt aus).
-约束：Durchgehend eine einzige, ununterbrochene lange Kamerabewegung ohne Schnitte; Die Anordnung der Speisen und der Morgenlicht-Grundton bleiben durchgehend konsistent; Die Kamerabewegungen sind sanft und nahtlos verbunden, um die One-Take-Qualität zu zeigen.
-通用约束：字幕なしを保持；Logoを生成しない；透かしを生成しない；各ショットは1種類のカメラムーブメントのみを使用；人物は自然な微動で、石像のように静止しない。
+Einstellung 1: One-Take Verfolgungsaufnahme, Morgenlicht fällt durch den Vorhang auf den Esstisch, Kamera fährt langsam näher an dampfende Xiaolongbao, (sanfte Morgen-Klaviermusik beginnt) <Geräusch des Öffnens des Dämpfers>.
+Einstellung 2: Derselbe lange Take schwenkt nahtlos und gleichmäßig horizontal, gleitet über goldbraunes Spiegelei, Youtiao und Sojamilch, Dampf und Lichtflecken fließen.
+Einstellung 3: Derselbe lange Take steigt und sinkt nahtlos langsam, eine Hand nimmt ein Xiaolongbao, tunkt es in Essig und hebt es an, <Geräusch des tropfenden Suds>.
+Einstellung 4: Derselbe lange Take umkreist nahtlos eine kleine halbe Runde, streift über ein aufgeschlagenes Buch und eine dampfende Kaffeetasse neben dem Tisch.
+Einstellung 5: Derselbe lange Take zoomt nahtlos langsam heraus, friert das gemütliche Frühstükspanorama ein, (Musik klingt aus).
+Constraints: Durchgehend eine einzige, ununterbrochene lange Kamerabewegung ohne Schnitte; Die Anordnung der Speisen und der Morgenlicht-Grundton bleiben durchgehend konsistent; Die Kamerabewegungen sind sanft und nahtlos verbunden, um die One-Take-Qualität zu zeigen.
+Allgemeine Constraints: Keine Untertitel; Kein Logo generieren; Kein Wasserzeichen generieren; Jede Einstellung verwendet nur eine Art Kamerabewegung; Personen mit natürlichen, leichten Bewegungen, nicht statisch wie Statuen.
 ```
 
 <a id="category-11"></a>
@@ -1139,13 +1153,13 @@ Bezug nehmend auf den Lippenstift in Image 1 (Farbton des Stifts und Logo auf de
 
 ```text
 Bezug nehmend auf den Lippenstift in Image 1 (Farbton des Stifts und Logo auf der Hülse entsprechen Image 1) als Hauptmotiv, Hochformat 9:16, hochgesättigte Make-up-Ästhetik. Generiere einen 30-Sekunden-Farbtest-Kurzfilm.
-Shot 1: Extreme Großaufnahme, der Lippenstift @Image 1 wird langsam herausgedreht, Samtreflexe fließen, Kamera fährt langsam näher, (knackige Elektromusik beginnt) <leichtes Geräusch des Drehens>.
-Shot 2: Großaufnahme, Kamera schwenkt gleichmäßig horizontal über die Lippen, der Stift zieht einen Strich über die Lippen und hinterlässt eine satte Farbe.
-Shot 3: Halbnaheinstellung, Untersicht des Models, das die Lippen schließt und lächelt, die Lippenfarbe zeigt sich im weichen Licht, 【Heutiger Farbton · Rot】.
-Shot 4: Großaufnahme, Kamera umkreist das Profil des Models, der Glanz auf den Lippen fließt mit der Kopfdrehung.
-Shot 5: Halbtotale, Model hält den Lippenstift @Image 1 und friert vor dem Spiegel ein, Kamera zoomt langsam heraus, (Musik klingt aus).
-约束：Farbton des Stifts und Logo auf der Hülse entsprechen Image 1 und werden nicht geändert; Die Lippenfarbe muss mit der Stiftfarbe übereinstimmen.
-通用约束：字幕なしを保持；Logoを生成しない；透かしを生成しない；各ショットは1種類のカメラムーブメントのみを使用；人物は自然な微動で、石像のように静止しない。
+Einstellung 1: Extreme Großaufnahme, der Lippenstift @Image 1 wird langsam herausgedreht, Samtreflexe fließen, Kamera fährt langsam näher, (knackige Elektromusik beginnt) <leichtes Geräusch des Drehens>.
+Einstellung 2: Großaufnahme, Kamera schwenkt gleichmäßig horizontal über die Lippen, der Stift zieht einen Strich über die Lippen und hinterlässt eine satte Farbe.
+Einstellung 3: Halbnaheinstellung, Untersicht des Models, das die Lippen schließt und lächelt, die Lippenfarbe zeigt sich im weichen Licht, 【Heutiger Farbton · Rot】.
+Einstellung 4: Großaufnahme, Kamera umkreist das Profil des Models, der Glanz auf den Lippen fließt mit der Kopfdrehung.
+Einstellung 5: Halbtotale, Model hält den Lippenstift @Image 1 und friert vor dem Spiegel ein, Kamera zoomt langsam heraus, (Musik klingt aus).
+Constraints: Farbton des Stifts und Logo auf der Hülse entsprechen Image 1 und werden nicht geändert; Die Lippenfarbe muss mit der Stiftfarbe übereinstimmen.
+Allgemeine Constraints: Keine Untertitel; Kein Logo generieren; Kein Wasserzeichen generieren; Jede Einstellung verwendet nur eine Art Kamerabewegung; Personen zeigen natürliche, leichte Bewegungen und verharren nicht statuenhaft still.
 ```
 
 ### No. 2: Foundation-Auftrag
@@ -1163,13 +1177,13 @@ Bezug nehmend auf die Foundation-Flasche in Image 1 (Flasche und Pipette entspre
 
 ```text
 Bezug nehmend auf die Foundation-Flasche in Image 1 (Flasche und Pipette entsprechen Image 1) als Hauptmotiv, Hochformat 9:16, saubere, durchscheinende Hautpflege-Make-up-Ästhetik. Generiere einen 30-Sekunden-Auftrags-Kurzfilm.
-Shot 1: Extreme Großaufnahme, ein Tropfen Foundation @Image 1 fällt von der Pipette auf den Handrücken, die Konsistenz breitet sich aus, Kamera fährt langsam näher, <Geräusch des fallenden Tropfens>.
-Shot 2: Großaufnahme, Kamera schwenkt gleichmäßig horizontal, ein Make-up-Schwamm drückt und verblendet auf der Wange, die Hauttextur wird allmählich gleichmäßig.
-Shot 3: Halbnaheinstellung, Kamera folgt dem Model, das den Kopf dreht, die Wange zeigt im natürlichen Licht einen makellosen Glanz.
-Shot 4: Großaufnahme, Untersicht des Models mit geschlossenen Augen beim Auftragen, Wimpern werfen sanfte Schatten, (sanfte Klaviermusik).
-Shot 5: Halbtotale, Model hält die Foundation-Flasche @Image 1 und lächelt eingefroren, Kamera zoomt langsam heraus, 【Nackte, makellose Haut】.
-约束：Flasche und Pipette entsprechen Image 1; Das Make-up muss realistisch sein, ohne übermäßige Weichzeichnung oder Plastik-Look.
-通用约束：字幕なしを保持；Logoを生成しない；透かしを生成しない；各ショットは1種類のカメラムーブメントのみを使用；人物は自然な微動で、石像のように静止しない。
+Einstellung 1: Extreme Großaufnahme, ein Tropfen Foundation @Image 1 fällt von der Pipette auf den Handrücken, die Konsistenz breitet sich aus, Kamera fährt langsam näher, <Geräusch des fallenden Tropfens>.
+Einstellung 2: Großaufnahme, Kamera schwenkt gleichmäßig horizontal, ein Make-up-Schwamm drückt und verblendet auf der Wange, die Hauttextur wird allmählich gleichmäßig.
+Einstellung 3: Halbnaheinstellung, Kamera folgt dem Model, das den Kopf dreht, die Wange zeigt im natürlichen Licht einen makellosen Glanz.
+Einstellung 4: Großaufnahme, Untersicht des Models mit geschlossenen Augen beim Auftragen, Wimpern werfen sanfte Schatten, (sanfte Klaviermusik).
+Einstellung 5: Halbtotale, Model hält die Foundation-Flasche @Image 1 und lächelt eingefroren, Kamera zoomt langsam heraus, 【Nackte, makellose Haut】.
+Constraints: Flasche und Pipette entsprechen Image 1; Das Make-up muss realistisch sein, ohne übermäßige Weichzeichnung oder Plastik-Look.
+Allgemeine Constraints: Keine Untertitel; Kein Logo generieren; Kein Wasserzeichen generieren; Jede Einstellung verwendet nur eine Art Kamerabewegung; Personen zeigen natürliche, leichte Bewegungen und verharren nicht statuenhaft still.
 ```
 
 ### No. 3: Parfüm-Atmosphäre
@@ -1187,13 +1201,13 @@ Das Parfümflakon aus Bild 1 (Form und Gravur wie in Bild 1) als Hauptmotiv, Que
 
 ```text
 Das Parfümflakon aus Bild 1 (Form und Gravur wie in Bild 1) als Hauptmotiv, Querformat 16:9, französisch-retro Licht- und Schattenspiel, generiere einen 30-Sekunden-Atmosphären-Kurzfilm.
-Shot 1: Nahaufnahme, das Parfümflakon @Image 1 steht auf einer Fensterbank aus Stein, Morgenlicht bricht sich durch die Flasche und erzeugt Lichtreflexe, die Kamera fährt langsam heran, (Streicher-Atmosphäre setzt ein).
-Shot 2: Halbtotale, die Kamera umkreist langsam die Flasche, die Glasschneiden reflektieren fließendes, warmes Licht.
-Shot 3: Nahaufnahme, Untersicht des Sprühstoßes, Sprühnebel schwebt im Gegenlicht wie goldener Staub, <leises Sprühgeräusch>.
-Shot 4: Amerikanische, die Kamera folgt dem Nebel, der zu einem Vorhang aus Tüll treibt, der Vorhang schwingt sanft im Wind.
-Shot 5: Halbtotale, das Parfümflakon @Image 1 kommt auf der Steinbank zur Ruhe und friert ein, die Kamera fährt langsam zurück, (Streicher verklingen).
-约束: Form und Gravur auf der Flasche wie in Bild 1; Atmosphäre auf warme, französisch-retro Farben festgelegt, keine kalten Töne.
-通用约束: Ohne Untertitel; Kein Logo generieren; Kein Wasserzeichen generieren; Jede Einstellung verwendet nur eine Kamerabewegung; Personen müssen sich natürlich und leicht bewegen, nicht wie Statuen.
+Einstellung 1: Nahaufnahme, das Parfümflakon @Image 1 steht auf einer Fensterbank aus Stein, Morgenlicht bricht sich durch die Flasche und erzeugt Lichtreflexe, die Kamera fährt langsam heran, (Streicher-Atmosphäre setzt ein).
+Einstellung 2: Halbtotale, die Kamera umkreist langsam die Flasche, die Glasschneiden reflektieren fließendes, warmes Licht.
+Einstellung 3: Nahaufnahme, Untersicht des Sprühstoßes, Sprühnebel schwebt im Gegenlicht wie goldener Staub, <leises Sprühgeräusch>.
+Einstellung 4: Amerikanische, die Kamera folgt dem Nebel, der zu einem Vorhang aus Tüll treibt, der Vorhang schwingt sanft im Wind.
+Einstellung 5: Halbtotale, das Parfümflakon @Image 1 kommt auf der Steinbank zur Ruhe und friert ein, die Kamera fährt langsam zurück, (Streicher verklingen).
+Constraints: Form und Gravur auf der Flasche wie in Bild 1; Atmosphäre auf warme, französisch-retro Farben festgelegt, keine kalten Töne.
+Generelle Constraints: Ohne Untertitel; Kein Logo generieren; Kein Wasserzeichen generieren; Jede Einstellung verwendet nur eine Kamerabewegung; Personen müssen sich natürlich und leicht bewegen, nicht wie Statuen.
 ```
 
 ### No. 4: Serum-Tropfen
@@ -1211,13 +1225,13 @@ Das Serumfläschchen aus Bild 1 (Flasche und Pipetten-Skala wie in Bild 1) als H
 
 ```text
 Das Serumfläschchen aus Bild 1 (Flasche und Pipetten-Skala wie in Bild 1) als Hauptmotiv, Hochformat 9:16, kristallklare, hochfeuchtigkeitsspendende Textur, generiere einen 30-Sekunden-Textur-Kurzfilm.
-Shot 1: Extreme Nahaufnahme, Pipette schwebt in der Luft, ein Tropfen Serum @Image 1 hängt kurz vor dem Fallen, Kamera feststehend, <leises Blubbergeräusch>.
-Shot 2: Extreme Nahaufnahme, Serum tropft langsam auf die Wasseroberfläche, langsame Wellen breiten sich aus, Kamera fährt langsam heran, (Wassertropfen-Musikakzent).
-Shot 3: Nahaufnahme, Kamera schwenkt gleichmäßig horizontal, Serum zieht einen glänzenden Faden zwischen den Fingerspitzen.
-Shot 4: Amerikanische, Aufsicht auf Serum, das auf den Handrücken aufgetragen wird, Glanz breitet sich wie ein Spiegel aus.
-Shot 5: Halbtotale, das Serumfläschchen @Image 1 steht vor einem Wasserlicht-Hintergrund eingefroren, Kamera fährt langsam nach oben, 【24-Stunden-Feuchtigkeitssperre】.
-约束: Flasche und Pipetten-Skala wie in Bild 1; Textur muss durchscheinend und fadenziehend sein, nicht trüb.
-通用约束: Ohne Untertitel; Kein Logo generieren; Kein Wasserzeichen generieren; Jede Einstellung verwendet nur eine Kamerabewegung; Personen müssen sich natürlich und leicht bewegen, nicht wie Statuen.
+Einstellung 1: Extreme Nahaufnahme, Pipette schwebt in der Luft, ein Tropfen Serum @Image 1 hängt kurz vor dem Fallen, Kamera feststehend, <leises Blubbergeräusch>.
+Einstellung 2: Extreme Nahaufnahme, Serum tropft langsam auf die Wasseroberfläche, langsame Wellen breiten sich aus, Kamera fährt langsam heran, (Wassertropfen-Musikakzent).
+Einstellung 3: Nahaufnahme, Kamera schwenkt gleichmäßig horizontal, Serum zieht einen glänzenden Faden zwischen den Fingerspitzen.
+Einstellung 4: Amerikanische, Aufsicht auf Serum, das auf den Handrücken aufgetragen wird, Glanz breitet sich wie ein Spiegel aus.
+Einstellung 5: Halbtotale, das Serumfläschchen @Image 1 steht vor einem Wasserlicht-Hintergrund eingefroren, Kamera fährt langsam nach oben, 【24-Stunden-Feuchtigkeitssperre】.
+Constraints: Flasche und Pipetten-Skala wie in Bild 1; Textur muss durchscheinend und fadenziehend sein, nicht trüb.
+Allgemeine Constraints: Ohne Untertitel; Kein Logo generieren; Kein Wasserzeichen generieren; Jede Einstellung verwendet nur eine Kamerabewegung; Personen müssen sich natürlich und leicht bewegen, nicht wie Statuen.
 ```
 
 ### No. 5: Fashion Streetstyle
@@ -1235,16 +1249,16 @@ Das Model-Outfit aus Bild 1 (Kleidung und Accessoires wie in Bild 1) als Hauptmo
 
 ```text
 Das Model-Outfit aus Bild 1 (Kleidung und Accessoires wie in Bild 1) als Hauptmotiv, Hochformat 9:16, Filmkorn-Urban-Streetstyle-Gefühl, generiere einen 30-Sekunden-Streetstyle-Kurzfilm.
-Shot 1: Halbtotale, Model @Image 1 schiebt eine Glastür auf und tritt auf die Straße, Wind weht die Kleidung, Kamera folgt, (Retro-Disco-Rhythmus setzt ein).
-Shot 2: Totale, Kamera schwenkt gleichmäßig horizontal und folgt dem Model, das an Neon-Schaufenstern vorbeigeht, Reflexionen fließen.
-Shot 3: Amerikanische, Untersicht des Models, das sich umdreht und die Sonnenbrille abnimmt, Gegenlicht zeichnet goldene Haarspitzen nach.
-Shot 4: Nahaufnahme, Kamera fährt langsam auf Accessoire-Details heran, Metallreflexe blitzen auf.
-Shot 5: Totale, Model @Image 1 bleibt in der Straßenmitte stehen, breitet die Arme aus und friert ein, Kamera fährt langsam zurück und nach oben, 【CITY WALK】 (Musik klingt aus).
-约束: Kleidung und Accessoires wie in Bild 1, Stil unverändert; Filmkorn und urbane Neon-Farbpalette für den gesamten Verlauf festgelegt.
-通用约束: Ohne Untertitel; Kein Logo generieren; Kein Wasserzeichen generieren; Jede Einstellung verwendet nur eine Kamerabewegung; Personen müssen sich natürlich und leicht bewegen, nicht wie Statuen.
+Einstellung 1: Halbtotale, Model @Image 1 schiebt eine Glastür auf und tritt auf die Straße, Wind weht die Kleidung, Kamera folgt, (Retro-Disco-Rhythmus setzt ein).
+Einstellung 2: Totale, Kamera schwenkt gleichmäßig horizontal und folgt dem Model, das an Neon-Schaufenstern vorbeigeht, Reflexionen fließen.
+Einstellung 3: Amerikanische, Untersicht des Models, das sich umdreht und die Sonnenbrille abnimmt, Gegenlicht zeichnet goldene Haarspitzen nach.
+Einstellung 4: Nahaufnahme, Kamera fährt langsam auf Accessoire-Details heran, Metallreflexe blitzen auf.
+Einstellung 5: Totale, Model @Image 1 bleibt in der Straßenmitte stehen, breitet die Arme aus und friert ein, Kamera fährt langsam zurück und nach oben, 【CITY WALK】 (Musik klingt aus).
+Constraints: Kleidung und Accessoires wie in Bild 1, Stil unverändert; Filmkorn und urbane Neon-Farbpalette für den gesamten Verlauf festgelegt.
+Allgemeine Constraints: Ohne Untertitel; Kein Logo generieren; Kein Wasserzeichen generieren; Jede Einstellung verwendet nur eine Kamerabewegung; Personen müssen sich natürlich und leicht bewegen, nicht wie Statuen.
 ```
 
-### No. 6: Hairstyle Presentation
+### No. 6: Frisurenpräsentation
 
 - **Category:** `Beauty Und Mode`
 - **Source:** `community`
@@ -1253,19 +1267,19 @@ Shot 5: Totale, Model @Image 1 bleibt in der Straßenmitte stehen, breitet die A
 
 #### Description
 
-The model's hairstyle from Image 1 (hair color and styling as in Image 1) as the main motif, portrait 9:16 format, salon advertising quality with soft light, generate a 30-second hairstyle short film.
+Die Frisur des Models aus Bild 1 (Haarfarbe und Stil entsprechend Bild 1) steht im Mittelpunkt. Hochformat 9:16, weiche Salon-Werbequalität. Erzeuge einen 30-Sekunden-Frisuren-Kurzfilm.
 
 #### Prompt
 
 ```text
-The model's hairstyle from Image 1 (hair color and styling as in Image 1) as the main motif, portrait 9:16 format, salon advertising quality with soft light, generate a 30-second hairstyle short film.
-Shot 1: Close-up, model @Image 1 lowers her head, hair falls in front of her face, static camera, (rhythmic music intro).
-Shot 2: Medium shot, model suddenly throws her head back, hair swings in slow motion in an arc, camera slowly pulls back, <sound of moving hair>.
-Shot 3: Close-up, camera circles the head, light glides over the smooth highlights of the hair.
-Shot 4: Medium full shot, camera follows the model's fingers as they glide through the hair, the hair strands fall in clear layers.
-Shot 5: Medium shot, model @Image 1 turns around, looks back and freezes, hairstyle is full and defined, camera slowly pushes in, 【mirror shine】.
-Constraints: Hair color and hairstyle contour as in Image 1; hair movement must be natural and smooth, without penetration or breaks.
-General constraints: No subtitles; Do not generate a logo; Do not generate a watermark; Each shot uses only one camera movement; People must move naturally and lightly, not like statues.
+Die Frisur des Models aus Bild 1 (Haarfarbe und Stil entsprechend Bild 1) steht im Mittelpunkt. Hochformat 9:16, weiche Salon-Werbequalität. Erzeuge einen 30-Sekunden-Frisuren-Kurzfilm.
+Einstellung 1: Großaufnahme. Das Model @Image 1 senkt den Kopf in Vorbereitung, Haare fallen und verdecken das Gesicht, Kamera feststehend, (rhythmische Musikintro).
+Einstellung 2: Halbnahe. Das Model wirft den Kopf plötzlich zurück, Haare zeichnen in Zeitlupe eine bogenförmige Linie, Kamera zoomt langsam heraus, <Geräusch des Haarewerfens>.
+Einstellung 3: Großaufnahme. Kamera umkreist den Kopf, Licht und Schatten streifen über die glatten Glanzlichter der Haare.
+Einstellung 4: Halbtotale. Folgeschuss der Finger des Models, die durch das Haar gleiten, die Haarsträhnen fallen in klaren Schichten herab.
+Einstellung 5: Halbnahe. Das Model @Image 1 dreht sich um und blickt zurück, verharrt in einer Pose, die Frisur ist voll und definiert, Kamera fährt langsam heran, 【spiegelglänzend】.
+Einschränkungen: Haarfarbe und Stilkontur müssen Bild 1 entsprechen; Haarewerfen muss natürlich und glatt sein, ohne Durchdringung oder Brüche.
+Allgemeine Einschränkungen: Keine Untertitel; Kein Logo generieren; Kein Wasserzeichen generieren; Jede Einstellung verwendet nur eine Kamerabewegung; Personen müssen sich natürlich leicht bewegen, nicht wie Statuen.
 ```
 
 <a id="category-12"></a>
@@ -1287,13 +1301,13 @@ Das Smartphone aus Bild 1 (Gehäuse und Logo wie in Bild 1) als Hauptmotiv, Quer
 
 ```text
 Das Smartphone aus Bild 1 (Gehäuse und Logo wie in Bild 1) als Hauptmotiv, Querformat 16:9, technologisches High-End-Gefühl in kühler Farbpalette, generiere einen 30-Sekunden-Produktpräsentationsfilm.
-Shot 1: Extreme Nahaufnahme, Smartphone @Image 1 auf dunkler Oberfläche, Bildschirm leuchtet auf, kaltes Licht konturiert es, Kamera fährt langsam heran, (niedrigfrequente elektronische Töne setzen ein).
-Shot 2: Halbtotale, Kamera umkreist gleichmäßig das Smartphone @Image 1 und zeigt die Metalloptik der Rückseite und das Kameramodul.
-Shot 3: Nahaufnahme, Kamera schwenkt langsam horizontal über Details wie Seitentasten und Anschlüsse.
-Shot 4: Amerikanische, Untersicht des Smartphones @Image 1, das sich langsam aufrichtet und schwebt, kaltes Licht steigt von unten auf.
-Shot 5: Halbtotale, Smartphone @Image 1 schwebt rotierend eingefroren, Kamera fährt langsam zurück, (Musik klingt aus).
-约束: Gehäuse und Logo wie in Bild 1, Design unverändert; Keine fiktiven Interface-Inhalte; Kühle, industrielle Lichtpalette für den gesamten Verlauf festgelegt.
-通用约束: Ohne Untertitel; Kein Logo generieren; Kein Wasserzeichen generieren; Jede Einstellung verwendet nur eine Kamerabewegung; Personen müssen sich natürlich und leicht bewegen, nicht wie Statuen.
+Einstellung 1: Extreme Nahaufnahme, Smartphone @Image 1 auf dunkler Oberfläche, Bildschirm leuchtet auf, kaltes Licht konturiert es, Kamera fährt langsam heran, (niedrigfrequente elektronische Töne setzen ein).
+Einstellung 2: Halbtotale, Kamera umkreist gleichmäßig das Smartphone @Image 1 und zeigt die Metalloptik der Rückseite und das Kameramodul.
+Einstellung 3: Nahaufnahme, Kamera schwenkt langsam horizontal über Details wie Seitentasten und Anschlüsse.
+Einstellung 4: Amerikanische, Untersicht des Smartphones @Image 1, das sich langsam aufrichtet und schwebt, kaltes Licht steigt von unten auf.
+Einstellung 5: Halbtotale, Smartphone @Image 1 schwebt rotierend eingefroren, Kamera fährt langsam zurück, (Musik klingt aus).
+Constraints: Gehäuse und Logo wie in Bild 1, Design unverändert; Keine fiktiven Interface-Inhalte; Kühle, industrielle Lichtpalette für den gesamten Verlauf festgelegt.
+Allgemeine Constraints: Ohne Untertitel; Kein Logo generieren; Kein Wasserzeichen generieren; Jede Einstellung verwendet nur eine Kamerabewegung; Personen müssen sich natürlich und leicht bewegen, nicht wie Statuen.
 ```
 
 ### No. 2: Kopfhörer aus Ladecase
@@ -1311,13 +1325,13 @@ Das Kopfhörer-Ladecase aus Bild 1 (Form und Logo wie in Bild 1) als Hauptmotiv,
 
 ```text
 Das Kopfhörer-Ladecase aus Bild 1 (Form und Logo wie in Bild 1) als Hauptmotiv, Querformat 16:9, minimalistischer, reinweißer Studio-Look, generiere einen 30-Sekunden-Unboxing-Kurzfilm.
-Shot 1: Extreme Nahaufnahme, Ladecase @Image 1 ruht auf reinweißer Oberfläche, Finger nähert sich dem Deckel, Kamera feststehend, (klarer Signalton).
-Shot 2: Nahaufnahme, Deckel öffnet sich langsam, LED-Leuchte blinkt auf, Kamera fährt langsam heran, <Geräusch des öffnenden/schließenden Verschlusses>.
-Shot 3: Amerikanische, Kopfhörer heben sich langsam aus dem Case und schweben, Kamera folgt langsam mit Auf-/Abbewegung.
-Shot 4: Nahaufnahme, Kamera umkreist einen einzelnen Kopfhörer, zeigt Einführwinkel und Mikrofonöffnungen.
-Shot 5: Halbtotale, Kopfhörer und Ladecase @Image 1 nebeneinander eingefroren, Kamera fährt langsam zurück, 【Nahtlos tragbar】.
-约束: Form und Logo wie in Bild 1, Struktur unverändert; Reinweißer, nahtloser Hintergrund festgelegt, keine zusätzlichen Objekte.
-通用约束: Ohne Untertitel; Kein Logo generieren; Kein Wasserzeichen generieren; Jede Einstellung verwendet nur eine Kamerabewegung; Personen müssen sich natürlich und leicht bewegen, nicht wie Statuen.
+Einstellung 1: Extreme Nahaufnahme, Ladecase @Image 1 ruht auf reinweißer Oberfläche, Finger nähert sich dem Deckel, Kamera feststehend, (klarer Signalton).
+Einstellung 2: Nahaufnahme, Deckel öffnet sich langsam, LED-Leuchte blinkt auf, Kamera fährt langsam heran, <Geräusch des öffnenden/schließenden Verschlusses>.
+Einstellung 3: Amerikanische, Kopfhörer heben sich langsam aus dem Case und schweben, Kamera folgt langsam mit Auf-/Abbewegung.
+Einstellung 4: Nahaufnahme, Kamera umkreist einen einzelnen Kopfhörer, zeigt Einführwinkel und Mikrofonöffnungen.
+Einstellung 5: Halbtotale, Kopfhörer und Ladecase @Image 1 nebeneinander eingefroren, Kamera fährt langsam zurück, 【Nahtlos tragbar】.
+Constraints: Form und Logo wie in Bild 1, Struktur unverändert; Reinweißer, nahtloser Hintergrund festgelegt, keine zusätzlichen Objekte.
+Allgemeine Constraints: Ohne Untertitel; Kein Logo generieren; Kein Wasserzeichen generieren; Jede Einstellung verwendet nur eine Kamerabewegung; Personen müssen sich natürlich und leicht bewegen, nicht wie Statuen.
 ```
 
 ### No. 3: Notebook Öffnen und Schließen
@@ -1629,13 +1643,13 @@ Der Moderator ist an @Image 1 gebunden (Gesichts-Make-up und Styling entsprechen
 
 ```text
 Der Moderator ist an @Image 1 gebunden (Gesichts-Make-up und Styling entsprechend dem Bild), Hochformat 9:16, sauberer Studio-Stil eines Wissens-Bloggers, helles weiches Licht. Generiere einen 30-Sekunden-Wissens-Monolog-Kurzfilm.
-Shot 1: Halbnahe, Moderator @Image 1 schaut direkt in die Kamera, lehnt sich vor und stellt eine Frage, Hintergrund mit unscharfen Bücherregalen, feste Kameraposition, {Wusstest du, dass 90% der Leute es falsch machen?}.
-Shot 2: Langsames Heranzoomen, Moderator @Image 1 betont mit erhobenem Finger während er spricht, entschlossener Blick, warmes Licht hebt hervor, (lebhafte Hintergrundmusik setzt ein).
-Shot 3: Schnitt zu, auf der rechten Bildschirmseite erscheinen grafische Schlüsselpunkt-Illustrationen, Moderator @Image 1 zeigt seitlich darauf, sanfte horizontale Kamerafahrt, 【Schlüsselpunkt eins zwei drei】.
-Shot 4: Halbnahe, Moderator @Image 1 richtet sich wieder auf, lächelt und fasst zusammen, verlangsamter Tonfall, feste Kameraposition, {Merkt euch einfach diese drei Punkte}.
-Shot 5: Langsames Herauszoomen, Moderator @Image 1 nickt zum Abschluss und winkt, weiches Licht, Standbild, (Musik klingt aus).
-约束：主播面部以图片1为准全程一致；口型与台词严格对齐；演播背景固定不变。
-通用约束：保持无字幕；不要生成 Logo；不要生成水印；每个镜头只用一种运镜；人物需自然微动非石像。
+Einstellung 1: Halbnahe, Moderator @Image 1 schaut direkt in die Kamera, lehnt sich vor und stellt eine Frage, Hintergrund mit unscharfen Bücherregalen, feste Kameraposition, {Wusstest du, dass 90% der Leute es falsch machen?}.
+Einstellung 2: Langsames Heranzoomen, Moderator @Image 1 betont mit erhobenem Finger während er spricht, entschlossener Blick, warmes Licht hebt hervor, (lebhafte Hintergrundmusik setzt ein).
+Einstellung 3: Schnitt zu, auf der rechten Bildschirmseite erscheinen grafische Schlüsselpunkt-Illustrationen, Moderator @Image 1 zeigt seitlich darauf, sanfte horizontale Kamerafahrt, 【Schlüsselpunkt eins zwei drei】.
+Einstellung 4: Halbnahe, Moderator @Image 1 richtet sich wieder auf, lächelt und fasst zusammen, verlangsamter Tonfall, feste Kameraposition, {Merkt euch einfach diese drei Punkte}.
+Einstellung 5: Langsames Herauszoomen, Moderator @Image 1 nickt zum Abschluss und winkt, weiches Licht, Standbild, (Musik klingt aus).
+Constraints: Das Gesicht des Moderators muss durchgehend mit Bild 1 übereinstimmen; Lippenbewegungen müssen streng mit dem Text übereinstimmen; der Studio-Hintergrund muss unverändert bleiben.
+Allgemeine Constraints: Keine Untertitel; kein Logo generieren; kein Wasserzeichen generieren; jede Einstellung verwendet nur eine Kamerabewegung; die Person muss sich natürlich leicht bewegen, nicht wie eine Statue.
 ```
 
 ### No. 2: Nachrichtensendung
@@ -1653,13 +1667,13 @@ Der Moderator ist an @Image 1 gebunden (Gesichts-Make-up und Styling entsprechen
 
 ```text
 Der Moderator ist an @Image 1 gebunden (Gesichts-Make-up und Styling entsprechend dem Bild), Querformat 16:9, autoritäres Nachrichtenstudio, kühl-blaue professionelle Farbgebung. Generiere einen 30-Sekunden-Nachrichten-Kurzfilm.
-Shot 1: Halbtotale, Moderator @Image 1 sitzt aufrecht und eröffnet mit direktem Blick in die Kamera, blaue Studiowand im Hintergrund, feste Kameraposition, {Guten Abend, liebe Zuschauer, willkommen zu unserer heutigen Sendung}.
-Shot 2: Langsames Heranzoomen, Moderator @Image 1 spricht mit ernstem Gesichtsausdruck die Einleitung, gleichmäßiges Sprechtempo, kühl-blaues Licht, 【Die Nachrichten des Tages】.
-Shot 3: Schnitt zu, rechts hinter Moderator @Image 1 erscheint ein Fenster mit Nachrichtenbildern, sanfte horizontale Kamerafahrt, <Studio-Hinweiston>.
-Shot 4: Halbnahe, Moderator @Image 1 wendet sich einer anderen Kamera zu und setzt die Sendung fort, natürlicher Blickwechsel, feste Kameraposition, (düstere Hintergrundmusik).
-Shot 5: Langsames Herauszoomen, Moderator @Image 1 legt die Hände übereinander zum Abschiedsgruß, kühl-blaues Standbild, {Vielen Dank fürs Zuschauen, bis zur nächsten Sendung}.
-约束：主播面部以图片1为准全程一致；口型与台词严格对齐；坐姿端正专业，演播室背景固定。
-通用约束：保持无字幕；不要生成 Logo；不要生成水印；每个镜头只用一种运镜；人物需自然微动非石像。
+Einstellung 1: Halbtotale, Moderator @Image 1 sitzt aufrecht und eröffnet mit direktem Blick in die Kamera, blaue Studiowand im Hintergrund, feste Kameraposition, {Guten Abend, liebe Zuschauer, willkommen zu unserer heutigen Sendung}.
+Einstellung 2: Langsames Heranzoomen, Moderator @Image 1 spricht mit ernstem Gesichtsausdruck die Einleitung, gleichmäßiges Sprechtempo, kühl-blaues Licht, 【Die Nachrichten des Tages】.
+Einstellung 3: Schnitt zu, rechts hinter Moderator @Image 1 erscheint ein Fenster mit Nachrichtenbildern, sanfte horizontale Kamerafahrt, <Studio-Hinweiston>.
+Einstellung 4: Halbnahe, Moderator @Image 1 wendet sich einer anderen Kamera zu und setzt die Sendung fort, natürlicher Blickwechsel, feste Kameraposition, (düstere Hintergrundmusik).
+Einstellung 5: Langsames Herauszoomen, Moderator @Image 1 legt die Hände übereinander zum Abschiedsgruß, kühl-blaues Standbild, {Vielen Dank fürs Zuschauen, bis zur nächsten Sendung}.
+Constraints: Das Gesicht des Moderators muss durchgehend mit Bild 1 übereinstimmen; Lippenbewegungen und Dialog müssen streng synchronisiert sein; aufrechte und professionelle Sitzhaltung, feststehender Studiobackground.
+Allgemeine Constraints: Untertitel vermeiden; Kein Logo generieren; Kein Wasserzeichen generieren; Jede Einstellung verwendet nur eine Kamerabewegung; Figuren müssen sich natürlich und leicht bewegen, nicht wie Statuen.
 ```
 
 ### No. 3: Verkaufs-Monolog
@@ -1677,13 +1691,13 @@ Der Moderator ist an @Image 2 gebunden (Gesichts-Make-up und Styling entsprechen
 
 ```text
 Der Moderator ist an @Image 2 gebunden (Gesichts-Make-up und Styling entsprechend dem Bild), Hochformat 9:16, lebhafter Live-Stream-Verkaufsstil, heller, hochgesättigter Warmton. Generiere einen 30-Sekunden-Verkaufsmonolog-Kurzfilm.
-Shot 1: Halbnahe, Moderator @Image 2 hält das Produkt mit beiden Händen hoch, rückt es nah an die Kamera und ruft enthusiastisch, feste Kameraposition, {Leute, schaut her, das heutige Produkt ist wirklich der Hammer!}.
-Shot 2: Langsames Heranzoomen, Moderator @Image 2 fährt mit dem Finger über die Verkaufsargumente des Produkts, übertrieben aufgeregter Gesichtsausdruck, hochgesättigtes warmes Licht, <Ding, Soundeffekt für Link-Freigabe>.
-Shot 3: Schnitt zu, links unten auf dem Bildschirm erscheint ein Preis-Explosions-Sticker, Moderator @Image 2 klatscht in die Hände zur Betonung, sanfte horizontale Kamerafahrt, 【Zeitlich begrenzter Preissturz, nur 99】.
-Shot 4: Halbtotale, Moderator @Image 2 hält das Produkt hoch und zeigt Details nach links und rechts, beschleunigtes Sprechtempo, feste Kameraposition, (aufpeitschende Verkaufsmusik).
-Shot 5: Langsames Heranzoomen, Moderator @Image 2 zeigt den Daumen hoch zum abschließenden Kaufaufruf, warmtoniges Standbild, {Schnell sein, sonst ist es ausverkauft!}.
-约束：主播面部以图片2为准全程一致；口型与台词严格对齐；产品外观保持一致；背景货架陈列固定。
-通用约束：保持无字幕；不要生成 Logo；不要生成水印；每个镜头只用一种运镜；人物需自然微动非石像。
+Einstellung 1: Halbnahe, Moderator @Image 2 hält das Produkt mit beiden Händen hoch, rückt es nah an die Kamera und ruft enthusiastisch, feste Kameraposition, {Leute, schaut her, das heutige Produkt ist wirklich der Hammer!}.
+Einstellung 2: Langsames Heranzoomen, Moderator @Image 2 fährt mit dem Finger über die Verkaufsargumente des Produkts, übertrieben aufgeregter Gesichtsausdruck, hochgesättigtes warmes Licht, <Ding, Soundeffekt für Link-Freigabe>.
+Einstellung 3: Schnitt zu, links unten auf dem Bildschirm erscheint ein Preis-Explosions-Sticker, Moderator @Image 2 klatscht in die Hände zur Betonung, sanfte horizontale Kamerafahrt, 【Zeitlich begrenzter Preissturz, nur 99】.
+Einstellung 4: Halbtotale, Moderator @Image 2 hält das Produkt hoch und zeigt Details nach links und rechts, beschleunigtes Sprechtempo, feste Kameraposition, (aufpeitschende Verkaufsmusik).
+Einstellung 5: Langsames Heranzoomen, Moderator @Image 2 zeigt den Daumen hoch zum abschließenden Kaufaufruf, warmtoniges Standbild, {Schnell sein, sonst ist es ausverkauft!}.
+Constraints: Das Gesicht des Moderators muss während der gesamten Szene mit Bild 2 übereinstimmen; Lippenbewegungen und Dialog müssen streng synchronisiert sein; Das Produktaussehen muss konsistent bleiben; Die Hintergrundregalpräsentation ist fest.
+Allgemeine Constraints: Ohne Untertitel bleiben; Kein Logo generieren; Kein Wasserzeichen generieren; Jede Einstellung verwendet nur eine Kamerabewegung; Die Person muss sich natürlich und leicht bewegen, nicht wie eine Statue.
 ```
 
 ### No. 4: Nächtliches Gefühlsradio
@@ -1701,13 +1715,13 @@ Der Moderator ist an @Image 3 gebunden (Gesichts-Make-up und Styling entsprechen
 
 ```text
 Der Moderator ist an @Image 3 gebunden (Gesichts-Make-up und Styling entsprechend dem Bild), Hochformat 9:16, nächtliche Radio-Atmosphäre, warm-oranges Mikrolicht, geringer Kontrast. Generiere einen 30-Sekunden-Gefühlsradio-Kurzfilm.
-Shot 1: Halbnahe, Moderator @Image 3 sitzt seitlich zum Mikrofon, schließt die Augen und spricht leise, warm-orange Lampe wirft Seitenlicht, feste Kameraposition, (sanftes Klavier setzt ein) {Es ist spät, geht es dir gut, der du noch nicht schläfst?}.
-Shot 2: Langsames Heranzoomen, Moderator @Image 3 öffnet die Augen, blickt ins Leere mit sanftem Ausdruck, Augen glänzen, warmes Licht verblendet, <leises Nachtregengeräusch vor dem Fenster>.
-Shot 3: Sanfte horizontale Kamerafahrt, die Kamera schwenkt über Kopfhörer und eine warme Tasse Tee auf dem Tisch, Moderator @Image 3 kommt ins Bild und flüstert, (Klavier wird stärker).
-Shot 4: Großaufnahme, Moderator @Image 3 lächelt leicht und tröstet leise, Wimpern zittern leicht, warm-oranges Mikrolicht, {Mögest du von dieser Welt sanft behandelt werden}.
-Shot 5: Langsames Herauszoomen, Moderator @Image 3 nimmt die Kopfhörer ab, senkt den Kopf und lächelt zum Abschluss, Mikrolicht-Standbild, (Musik klingt aus).
-约束：主播面部以图片3为准全程一致；口型与台词严格对齐；情绪用睫毛微颤与眼底泛光外化，禁止直白旁白式表演；暖橙夜调全程一致。
-通用约束：保持无字幕；不要生成 Logo；不要生成水印；每个镜头只用一种运镜；人物需自然微动非石像。
+Einstellung 1: Halbnahe, Moderator @Image 3 sitzt seitlich zum Mikrofon, schließt die Augen und spricht leise, warm-orange Lampe wirft Seitenlicht, feste Kameraposition, (sanftes Klavier setzt ein) {Es ist spät, geht es dir gut, der du noch nicht schläfst?}.
+Einstellung 2: Langsames Heranzoomen, Moderator @Image 3 öffnet die Augen, blickt ins Leere mit sanftem Ausdruck, Augen glänzen, warmes Licht verblendet, <leises Nachtregengeräusch vor dem Fenster>.
+Einstellung 3: Sanfte horizontale Kamerafahrt, die Kamera schwenkt über Kopfhörer und eine warme Tasse Tee auf dem Tisch, Moderator @Image 3 kommt ins Bild und flüstert, (Klavier wird stärker).
+Einstellung 4: Großaufnahme, Moderator @Image 3 lächelt leicht und tröstet leise, Wimpern zittern leicht, warm-oranges Mikrolicht, {Mögest du von dieser Welt sanft behandelt werden}.
+Einstellung 5: Langsames Herauszoomen, Moderator @Image 3 nimmt die Kopfhörer ab, senkt den Kopf und lächelt zum Abschluss, Mikrolicht-Standbild, (Musik klingt aus).
+Constraints: Das Gesicht des Moderators muss durchgehend mit Bild 3 übereinstimmen; Lippensynchronisation muss streng mit dem Text übereinstimmen; Emotionen müssen durch leichtes Zittern der Wimpern und Glanz in den Augen externalisiert werden, direkte erzählerische Darstellung ist verboten; der warm-orange Nachtton muss durchgehend konsistent sein.
+Allgemeine Constraints: Keine Untertitel; kein Logo generieren; kein Wasserzeichen generieren; jede Einstellung verwendet nur eine Kamerabewegung; die Person muss sich natürlich leicht bewegen, nicht wie eine Statue.
 ```
 
 ### No. 5: Lehrkraft
@@ -1725,16 +1739,16 @@ Der Dozent ist an @Image 1 gebunden (Gesichts-Make-up und Styling entsprechend d
 
 ```text
 Der Dozent ist an @Image 1 gebunden (Gesichts-Make-up und Styling entsprechend dem Bild), Querformat 16:9, heller professioneller Online-Kurs-Stil, frischer Whiteboard-Ton. Generiere einen 30-Sekunden-Lehrkraft-Kurzfilm.
-Shot 1: Halbtotale, Dozent @Image 1 steht vor einem Whiteboard, dreht sich zur Kamera und beginnt den Unterricht, hält einen Marker, feste Kameraposition, {In dieser Lektion behandeln wir nur eine Kernformel}.
-Shot 2: Sanfte horizontale Kamerafahrt, Dozent @Image 1 geht und schreibt Schlüsselwörter auf das Whiteboard, die Kamera folgt der Bewegung, helles weißes Licht, <Marker-Schreibgeräusch>.
-Shot 3: Schnitt zu, der Whiteboard-Bereich mit der Formel wird vergrößert und die Formel wird hervorgehoben, Dozent @Image 1 zeigt seitlich darauf, langsames Heranzoomen, 【Kernformel】.
-Shot 4: Halbnahe, Dozent @Image 1 wendet sich wieder der Kamera zu und erklärt ein Beispiel, lebhafte Mimik, feste Kameraposition, (beschwingte Lern-Hintergrundmusik).
-Shot 5: Langsames Herauszoomen, Dozent @Image 1 breitet die Hände aus, lächelt, fasst zusammen und nickt, weißes Licht, Standbild, {Verstanden? Bis zur nächsten Lektion}.
-约束：讲师面部以图片1为准全程一致；口型与台词严格对齐；白板板书内容前后连贯；课堂背景固定。
-通用约束：保持无字幕；不要生成 Logo；不要生成水印；每个镜头只用一种运镜；人物需自然微动非石像。
+Einstellung 1: Halbtotale, Dozent @Image 1 steht vor einem Whiteboard, dreht sich zur Kamera und beginnt den Unterricht, hält einen Marker, feste Kameraposition, {In dieser Lektion behandeln wir nur eine Kernformel}.
+Einstellung 2: Sanfte horizontale Kamerafahrt, Dozent @Image 1 geht und schreibt Schlüsselwörter auf das Whiteboard, die Kamera folgt der Bewegung, helles weißes Licht, <Marker-Schreibgeräusch>.
+Einstellung 3: Schnitt zu, der Whiteboard-Bereich mit der Formel wird vergrößert und die Formel wird hervorgehoben, Dozent @Image 1 zeigt seitlich darauf, langsames Heranzoomen, 【Kernformel】.
+Einstellung 4: Halbnahe, Dozent @Image 1 wendet sich wieder der Kamera zu und erklärt ein Beispiel, lebhafte Mimik, feste Kameraposition, (beschwingte Lern-Hintergrundmusik).
+Einstellung 5: Langsames Herauszoomen, Dozent @Image 1 breitet die Hände aus, lächelt, fasst zusammen und nickt, weißes Licht, Standbild, {Verstanden? Bis zur nächsten Lektion}.
+Constraints: Das Gesicht des Dozenten muss durchgehend mit Bild 1 übereinstimmen; Lippenbewegungen und Dialog müssen streng synchron sein; Der Whiteboard-Inhalt muss in sich schlüssig sein; Der Unterrichtshintergrund ist fest.
+Allgemeine Constraints: Keine Untertitel; Kein Logo generieren; Kein Wasserzeichen generieren; Jede Einstellung verwendet nur eine Kamerabewegung; Die Person sollte sich natürlich und leicht bewegen, nicht wie eine Statue.
 ```
 
-### No. 6: Mehrsprachiges Alter Ego (enthält Bearbeitungsaufgaben-Ansatz)
+### No. 6: Multilinguales Alter Ego (enthält Bearbeitungsaufgaben-Ansatz)
 
 - **Category:** `Personenvideos Und Digitale Avatare`
 - **Source:** `community`
@@ -1749,20 +1763,20 @@ Der Digital Human ist an @Image 1 gebunden (Gesichts-Make-up und Styling entspre
 
 ```text
 Der Digital Human ist an @Image 1 gebunden (Gesichts-Make-up und Styling entsprechend dem Bild), Hochformat 9:16, einheitlicher Studio-Stil für globale Marken, einfaches technologisches Blau. Generiere einen 30-Sekunden-Mehrsprachen-Alter-Ego-Kurzfilm.
-Shot 1: Halbnahe, Digital Human @Image 1 begrüßt mit direktem Blick in die Kamera auf Chinesisch, technologisch blauer Hintergrundbildschirm, feste Kameraposition, {Hallo zusammen, willkommen zur Vorstellung unseres Produkts}【Chinesisch】.
-Shot 2: Schnitt zu, derselbe Digital Human @Image 1 wechselt nahtlos zur englischen Sprachausgabe, Lippenbewegungen synchron zum Englischen, langsames Heranzoomen, {Hello everyone, welcome}【Englisch】.
-Shot 3: Schnitt zu, Digital Human @Image 1 wechselt zur japanischen Begrüßung, gleiche Ausstrahlung, sanfte horizontale Kamerafahrt, {Minasan konnichiwa}【Japanisch】.
-Shot 4: Halbtotale, Digital Human @Image 1 macht eine einladende Geste mit ausgebreiteten Armen, im Hintergrund erscheint ein Strom von Untertiteln in mehreren Sprachen, feste Kameraposition, (technologisch klingende Hintergrundmusik).
-Shot 5: Langsames Herauszoomen, Digital Human @Image 1 lächelt und nickt zum Abschluss, blauer Ton, Standbild, (Musik klingt aus).
-约束：编辑任务思路——先生成中文母版镜头，再用"保持人物与运镜不变、仅替换台词与口型为目标语言"的编辑指令派生英/日分身，确保面部@图片1、机位、背景、着装全程完全一致；各语种口型与对应台词严格对齐；禁止分身出现面容漂移。
-通用约束：保持无字幕；不要生成 Logo；不要生成水印；每个镜头只用一种运镜；人物需自然微动非石像。
+Einstellung 1: Halbnahe, Digital Human @Image 1 begrüßt mit direktem Blick in die Kamera auf Chinesisch, technologisch blauer Hintergrundbildschirm, feste Kameraposition, {Hallo zusammen, willkommen zur Vorstellung unseres Produkts}【Chinesisch】.
+Einstellung 2: Schnitt zu, derselbe Digital Human @Image 1 wechselt nahtlos zur englischen Sprachausgabe, Lippenbewegungen synchron zum Englischen, langsames Heranzoomen, {Hello everyone, welcome}【Englisch】.
+Einstellung 3: Schnitt zu, Digital Human @Image 1 wechselt zur japanischen Begrüßung, gleiche Ausstrahlung, sanfte horizontale Kamerafahrt, {Minasan konnichiwa}【Japanisch】.
+Einstellung 4: Halbtotale, Digital Human @Image 1 macht eine einladende Geste mit ausgebreiteten Armen, im Hintergrund erscheint ein Strom von Untertiteln in mehreren Sprachen, feste Kameraposition, (technologisch klingende Hintergrundmusik).
+Einstellung 5: Langsames Herauszoomen, Digital Human @Image 1 lächelt und nickt zum Abschluss, blauer Ton, Standbild, (Musik klingt aus).
+Constraints: Bearbeitungsaufgaben-Ansatz – Zuerst chinesische Master-Einstellungen generieren, dann mit der Bearbeitungsanweisung 'Behalte Person und Kamerabewegung unverändert, ersetze nur den Text und die Lippenbewegungen entsprechend der Zielsprache' englische/japanische Versionen ableiten, um sicherzustellen, dass das Gesicht @Bild 1, Kameraposition, Hintergrund und Kleidung durchgehend völlig identisch sind; Lippenbewegungen müssen streng mit dem entsprechenden Text jeder Sprache übereinstimmen; Verhindere Gesichtsverschiebungen in den abgeleiteten Versionen.
+Allgemeine Constraints: Ohne Untertitel halten; Kein Logo generieren; Kein Wasserzeichen generieren; Jede Einstellung verwendet nur eine Kamerabewegung; Die Person sollte sich natürlich leicht bewegen, nicht wie eine Statue.
 ```
 
 <a id="category-16"></a>
 
 ### Kurzserien Und Emotionale Geschichten (8)
 
-### No. 1: Convenience Store Reunion (Emotional Reversal)
+### No. 1: Wiedersehen im Convenience Store (Emotionale Wendung)
 
 - **Category:** `Kurzserien Und Emotionale Geschichten`
 - **Source:** `community`
@@ -1771,21 +1785,21 @@ Shot 5: Langsames Herauszoomen, Digital Human @Image 1 lächelt und nickt zum Ab
 
 #### Description
 
-Refer to the female lead from Image 1 and the male lead from Image 3 (their facial makeup/hairstyles should match the respective images), vertical 9:16, cinematic realism, cold blue transitioning to warm orange, generate a 30-second emotional short drama.
+Referenzieren Sie die Hauptdarstellerin aus Bild 1 und den Hauptdarsteller aus Bild 3 (Gesichts-Make-up/Stil entsprechend der jeweiligen Referenzbilder), Hochformat 9:16, filmischer Realismus, kaltes Blau wechselt zu warmem Orange, generieren Sie einen 30-sekündigen emotionalen Kurzfilm.
 
 #### Prompt
 
 ```text
-Refer to the female lead from Image 1 and the male lead from Image 3 (their facial makeup/hairstyles should match the respective images), vertical 9:16, cinematic realism, cold blue transitioning to warm orange, generate a 30-second emotional short drama.
-Shot 1: Wide shot, the female lead @Image 1 leans against the window alone, head bowed, stirring coffee, cold blue night tone, the camera slowly pushes in, (light piano starts).
-Shot 2: Medium close-up, the male lead @Image 3 pushes the door open and enters the frame, the female lead @Image 1 looks up, stunned, fixed camera with breathing sensation, <doorbell dings>.
-Shot 3: Close-up, the shot cuts back and forth between the two, color tone gradually warms, the male lead @Image 3 says softly {I'm here to pick you up}, (piano intensifies).
-Shot 4: Close-up, the female lead @Image 1's eyes redden, corners of the mouth turn up, the camera slowly pulls out, warm orange freeze frame, (music resolves).
-Constraints: The faces of the male and female leads must remain consistent with the corresponding images throughout; convenience store setting is fixed; emotional reversal is externalized through reddening eyes and trembling lips; do not generate doppelgangers/twins.
-General constraints: Keep without subtitles; do not generate Logo; do not generate watermarks; use only one camera movement per shot; characters should have natural, subtle movements, not be statues.
+Referenzieren Sie die Hauptdarstellerin aus Bild 1 und den Hauptdarsteller aus Bild 3 (Gesichts-Make-up/Stil entsprechend der jeweiligen Referenzbilder), Hochformat 9:16, filmischer Realismus, kaltes Blau wechselt zu warmem Orange, generieren Sie einen 30-sekündigen emotionalen Kurzfilm.
+Einstellung 1: Totale, Hauptdarstellerin @Bild 1 lehnt allein am Fenster, rührt ihren Kaffee, kaltblaue Nachtstimmung, Kamera fährt langsam näher, (leises Klavier setzt ein).
+Einstellung 2: Halbnahe, Hauptdarsteller @Bild 3 schiebt die Tür auf und tritt ins Bild, Hauptdarstellerin @Bild 1 blickt auf und erstarrt, feste Kameraposition mit Atem-Unruhe, <Türklingel bimmelt>.
+Einstellung 3: Großaufnahme, Schnitt hin und her zwischen den beiden, Farbton wird allmählich wärmer, Hauptdarsteller @Bild 3 sagt leise {Ich bin gekommen, um dich abzuholen}, (Klavier wird stärker).
+Einstellung 4: Großaufnahme, Hauptdarstellerin @Bild 1 mit geröteten Augen und einem Lächeln auf den Lippen, Kamera zoomt langsam zurück, warmes Orange als Standbild, (Musik klingt aus).
+Einschränkungen: Gesichter der Hauptdarsteller müssen während der gesamten Szene mit den entsprechenden Referenzbildern übereinstimmen; Convenience-Store-Szene ist fest; emotionale Wendung wird durch gerötete Augen und zitternde Mundwinkel externalisiert; Doppelgänger/Zwillinge verboten.
+Allgemeine Einschränkungen: Ohne Untertitel halten; kein Logo generieren; kein Wasserzeichen generieren; jede Einstellung verwendet nur eine Kamerabewegung; Figuren müssen sich natürlich leicht bewegen, nicht wie Statuen.
 ```
 
-### No. 2: Rainy Night Monologue
+### No. 2: Regennacht-Monolog
 
 - **Category:** `Kurzserien Und Emotionale Geschichten`
 - **Source:** `community`
@@ -1794,22 +1808,22 @@ General constraints: Keep without subtitles; do not generate Logo; do not genera
 
 #### Description
 
-Protagonist bound to @Image 2 (facial makeup/hairstyle should match the corresponding image), vertical 9:16, cool-toned literary realism, bluish-grey rainy night low saturation, generate a 30-second emotional monologue short film.
+Hauptfigur gebunden an @Bild 2 (Gesichtsschminke entsprechend dem Bild), Hochformat 9:16, kühler, literarischer Realismus, graublaue Regennacht mit geringer Sättigung, generiere einen 30-Sekunden emotionalen Monolog-Kurzfilm.
 
 #### Prompt
 
 ```text
-Protagonist bound to @Image 2 (facial makeup/hairstyle should match the corresponding image), vertical 9:16, cool-toned literary realism, bluish-grey rainy night low saturation, generate a 30-second emotional monologue short film.
-Shot 1: Close-up, rainwater trickles down the glass window, the protagonist's @Image 2 blurred reflection appears behind the glass, fixed camera, <sound of light rain> (low cello starts).
-Shot 2: Slow push-in, the protagonist @Image 2 gazes out at the rainy night streetlights, fingertip pressed against the cold glass, bluish-grey cold light, {Some words can only be told to the rain}.
-Shot 3: Smooth pan, the camera glides past a phone on the table that has gone dark and a half-cooled cup of tea, the protagonist's @Image 2 profile enters the frame, (cello intensifies).
-Shot 4: Medium close-up, the protagonist @Image 2 takes a deep breath and closes their eyes, a tear traces down the cheek, overlapping with a raindrop on the window, slow push-in, <rain intensifies>.
-Shot 5: Slow pull-out, the protagonist @Image 2 opens their eyes, pulls a relieved faint smile, and turns away from the window, bluish-grey freeze frame, (music resolves).
-Constraints: The protagonist's face must remain consistent with Image 2 throughout; emotions are externalized through the fingertip against the window and the tear track, avoid direct dialogue like "I'm very sad"; the bluish-grey rainy night tone and setting remain consistent throughout.
-General constraints: Keep without subtitles; do not generate Logo; do not generate watermarks; use only one camera movement per shot; characters should have natural, subtle movements, not be statues.
+Hauptfigur gebunden an @Bild 2 (Gesichtsschminke entsprechend dem Bild), Hochformat 9:16, kühler, literarischer Realismus, graublaue Regennacht mit geringer Sättigung, generiere einen 30-Sekunden emotionalen Monolog-Kurzfilm.
+Einstellung 1: Nahaufnahme, Regenwasser rinnt das Fenster hinab, verschwommenes Spiegelbild der Hauptfigur @Bild 2 erscheint hinter dem Glas, feste Kameraposition, <leises Rauschen des Regens> (tiefes Cello setzt ein).
+Einstellung 2: Langsames Heranzoomen, Hauptfigur @Bild 2 blickt durch das Fenster auf die Straßenlaternen der Regennacht, Fingerspitze berührt das kalte Glas, graublaues kaltes Licht, {Manche Worte kann man nur dem Regen erzählen}.
+Einstellung 3: Sanfte Schwenkbewegung, Kamera gleitet über ein ausgeschaltetes Handy und halbkalten Tee auf dem Tisch, Hauptfigur @Bild 2 kommt mit ihrem Profil ins Bild, (Cello wird allmählich stärker).
+Einstellung 4: Halbnahe Einstellung, Hauptfigur @Bild 2 atmet tief ein und schließt die Augen, eine Träne rinnt über die Wange und überlappt sich mit den Regenspuren auf dem Fenster, langsames Heranzoomen, <Regen wird stärker>.
+Einstellung 5: Langsames Herauszoomen, Hauptfigur @Bild 2 öffnet die Augen, ein erlöstes, flüchtiges Lächeln erscheint, sie wendet sich vom Fenster ab, graublauer Standbild-Effekt, (Musik klingt aus).
+Einschränkungen: Gesicht der Hauptfigur muss durchgehend mit Bild 2 übereinstimmen; Emotionen durch die berührende Fingerspitze und die Tränenspur äußern, direkte Aussagen wie "Ich bin traurig" verbieten; Graublauer Regennacht-Ton und Szenen müssen durchgehend konsistent sein.
+Allgemeine Einschränkungen: Keine Untertitel; Kein Logo generieren; Kein Wasserzeichen generieren; Jede Einstellung verwendet nur eine Kamerabewegung; Figuren müssen sich natürlich und leicht bewegen, nicht wie Statuen.
 ```
 
-### No. 3: Family Dining Table
+### No. 3: Familientisch
 
 - **Category:** `Kurzserien Und Emotionale Geschichten`
 - **Source:** `community`
@@ -1818,22 +1832,22 @@ General constraints: Keep without subtitles; do not generate Logo; do not genera
 
 #### Description
 
-Refer to the mother from Image 1, the father from Image 2, and the child from Image 4 (their facial makeup/hairstyles should match the respective images), horizontal 16:9, warm life realism, warm yellow home tone, generate a 30-second family emotional short film.
+Bezugnehmend auf die Mutter in Bild 1, den Vater in Bild 2 und das Kind in Bild 4 (jeweils mit dem entsprechenden Gesichtsstyling der Referenzbilder), Querformat 16:9, gemütlicher, realistischer Lebensstil mit warmen, häuslichen Gelbtönen, generiere einen 30-sekündigen Familien-Emotions-Kurzfilm.
 
 #### Prompt
 
 ```text
-Refer to the mother from Image 1, the father from Image 2, and the child from Image 4 (their facial makeup/hairstyles should match the respective images), horizontal 16:9, warm life realism, warm yellow home tone, generate a 30-second family emotional short film.
-Shot 1: Wide shot, the family of three sits around the dining table, steam rises from hot dishes, the mother @Image 1 is serving food to the child @Image 4, warm yellow lighting, fixed camera, (warm folk music starts) <clinking of bowls and chopsticks>.
-Shot 2: Medium close-up, the father @Image 2 smiles as he serves soup to the mother @Image 1, they exchange a smile, slow push-in, <clinking of soup ladle>.
-Shot 3: Close-up, the child @Image 4 puffs cheeks while eating heartily, looks up and grins, warm light falls on the face, cut to this shot.
-Shot 4: Medium shot, the mother @Image 1 reaches out to wipe a corner of the father's @Image 2 mouth, the father is taken aback then holds her hand, smooth pan, (folk music warms).
-Shot 5: Slow crane up, the camera rises to look down on the table full of food and the family leaning together, warm yellow freeze frame, (music resolves).
-Constraints: The faces of the three characters must strictly match the corresponding images, the mother/father/child should have distinct body types and ages, do not generate doppelgangers/twins or facial confusion; the table dishes and warm yellow home setting remain consistent throughout.
-General constraints: Keep without subtitles; do not generate Logo; do not generate watermarks; use only one camera movement per shot; characters should have natural, subtle movements, not be statues.
+Bezugnehmend auf die Mutter in Bild 1, den Vater in Bild 2 und das Kind in Bild 4 (jeweils mit dem entsprechenden Gesichtsstyling der Referenzbilder), Querformat 16:9, gemütlicher, realistischer Lebensstil mit warmen, häuslichen Gelbtönen, generiere einen 30-sekündigen Familien-Emotions-Kurzfilm.
+Einstellung 1: Totale, die dreiköpfige Familie sitzt um den Esstisch, heißes Essen dampft, die Mutter@Bild 1 legt dem Kind@Bild 4 Essen auf den Teller, warmes gelbes Licht, feste Kameraposition, (beginnende warme Folk-Musik) <leichtes Klirren von Geschirr und Besteck>.
+Einstellung 2: Halbnahe, der Vater@Bild 2 schenkt der Mutter@Bild 1 lächelnd Suppe ein, sie lächeln sich an, langsames Heranzoomen, <Klirren des Suppenlöffels>.
+Einstellung 3: Großaufnahme, das Kind@Bild 4 kaut mit vollen Backen, schaut auf und grinst breit, warmes Licht fällt auf sein Gesicht, Schnitt zu dieser Einstellung.
+Einstellung 4: Halbtotale, die Mutter@Bild 1 streckt die Hand aus und wischt dem Vater@Bild 2 etwas vom Mundwinkel, der Vater ist kurz überrascht, hält dann ihre Hand, sanfte seitliche Kamerafahrt, (Folk-Musik wird wärmer).
+Einstellung 5: Langsame Kamerafahrt nach oben, die Kamera fährt hoch und blickt auf den gedeckten Tisch und die eng beieinander sitzende Familie, warmgelber abschließender Moment, (Musik klingt aus).
+Einschränkungen: Die Gesichter der drei Personen müssen strikt den entsprechenden Referenzbildern entsprechen, die Körperstatur und das Alter von Mutter/Vater/Kind müssen deutlich unterscheidbar sein; Verdopplungen, Zwillingserscheinungen oder Gesichtsverwechslungen sind verboten; Die Gerichte auf dem Tisch und die warme, häusliche Szenerie müssen durchgängig konsistent sein.
+Allgemeine Einschränkungen: Ohne Untertitel belassen; Kein Logo generieren; Kein Wasserzeichen generieren; Jede Einstellung verwendet nur eine Kamerabewegung; Personen müssen sich natürlich und leicht bewegen, nicht wie Statuen.
 ```
 
-### No. 4: Farewell at the Station
+### No. 4: Abschied am Bahnhof
 
 - **Category:** `Kurzserien Und Emotionale Geschichten`
 - **Source:** `community`
@@ -1842,22 +1856,22 @@ General constraints: Keep without subtitles; do not generate Logo; do not genera
 
 #### Description
 
-Refer to the female lead from Image 1 and the male lead from Image 3 (their facial makeup/hairstyles should match the respective images), horizontal 16:9, cinematic realism, cool-toned platform with slightly warm backlight, generate a 30-second farewell emotional short film.
+Bezugnehmend auf die weibliche Hauptfigur aus Bild 1 und den männlichen Hauptdarsteller aus Bild 3 (jeweils mit dem Gesichts-Make-up/Stil des entsprechenden Bildes), Querformat 16:9, filmisch-realistisch, kühle Bahnhofsplattform mit warmem Gegenlicht, generiere einen 30-Sekunden-Kurzfilm über Abschiedsgefühle.
 
 #### Prompt
 
 ```text
-Refer to the female lead from Image 1 and the male lead from Image 3 (their facial makeup/hairstyles should match the respective images), horizontal 16:9, cinematic realism, cool-toned platform with slightly warm backlight, generate a 30-second farewell emotional short film.
-Shot 1: Wide shot, the platform is bustling with people, the female lead @Image 1 and the male lead @Image 3 stand facing each other, hands tightly clasped, train beside them, cool tone backlight, slow push-in, (low strings start) <train arrival announcement>.
-Shot 2: Close-up, their tightly interlocked fingers slowly tighten then reluctantly loosen, warm backlight outlines them, fixed camera.
-Shot 3: Medium close-up, the male lead @Image 3 reaches up to tuck a wind-blown strand of hair behind the female lead's @Image 1 ear, hesitates to speak, slow push-in, {When you arrive... remember to let me know you're safe}.
-Shot 4: Medium shot, the male lead @Image 3 turns and boards the train, the female lead @Image 1 stands still, shoulders trembling slightly, holding back tears, smooth pan, (strings swell) <door closing warning sound>.
-Shot 5: Slow pull-out, the train departs, the female lead @Image 1 stands alone on the empty platform, a backlit silhouette, cool tone freeze frame, (music resolves).
-Constraints: The faces of the male and female leads must remain consistent with the corresponding images throughout; farewell emotions are externalized through tightening fingers and trembling shoulders, avoid direct crying or shouting; the station setting and cool/warm backlight remain consistent throughout; do not generate doppelgangers/twins.
-General constraints: Keep without subtitles; do not generate Logo; do not generate watermarks; use only one camera movement per shot; characters should have natural, subtle movements, not be statues.
+Bezugnehmend auf die weibliche Hauptfigur aus Bild 1 und den männlichen Hauptdarsteller aus Bild 3 (jeweils mit dem Gesichts-Make-up/Stil des entsprechenden Bildes), Querformat 16:9, filmisch-realistisch, kühle Bahnhofsplattform mit warmem Gegenlicht, generiere einen 30-Sekunden-Kurzfilm über Abschiedsgefühle.
+Einstellung 1: Totale, Menschengewimmel auf dem Bahnsteig, die weibliche Hauptfigur @Bild 1 und der männliche Hauptdarsteller @Bild 3 stehen sich gegenüber und halten sich fest an den Händen, Zug daneben, kühles Gegenlicht, langsames Heranfahren, (leise einsetzende Streichermusik) <Durchsage der Zugankunft>.
+Einstellung 2: Großaufnahme, ihre ineinander verschränkten Finger, die sich langsam fester schließen und sich dann widerwillig lösen, warmes Gegenlicht umrandet sie, feste Kameraposition.
+Einstellung 3: Halbnahe, der männliche Hauptdarsteller @Bild 3 hebt die Hand und streicht der weiblichen Hauptfigur @Bild 1 eine vom Wind verwirrte Haarsträhne aus dem Gesicht, er möchte etwas sagen, hält aber inne, langsames Heranfahren, {Schreib... wenn du angekommen bist}.
+Einstellung 4: Halbtotale, der männliche Hauptdarsteller @Bild 3 dreht sich um und steigt in den Zug, die weibliche Hauptfigur @Bild 1 bleibt stehen, ihre Schultern zittern leicht, sie hält die Tränen zurück, gleichmäßige Schwenkbewegung, (Streichermusik wird intensiver) <Geräusch der schließenden Zugtüren>.
+Einstellung 5: Langsames Herauszoomen, der Zug fährt ab, die weibliche Hauptfigur @Bild 1 steht allein auf dem leeren Bahnsteig als Silhouette im Gegenlicht, kühler Farbton, Einfrieren des Bildes, (Musik klingt aus).
+Einschränkungen: Die Gesichter der Hauptfiguren müssen während der gesamten Szene mit den entsprechenden Bildern übereinstimmen; Abschiedsgefühle werden durch das feste Händedrücken und die zitternden Schultern ausgedrückt, offenes Weinen oder Rufen ist verboten; Die Bahnhofsszenerie und das kalte/warme Gegenlicht müssen durchgängig konsistent sein; Doppelgänger oder Zwillinge sind verboten.
+Allgemeine Einschränkungen: Ohne Untertitel; Kein Logo generieren; Kein Wasserzeichen generieren; Jede Einstellung verwendet nur eine Kamerabewegung; Die Personen müssen sich natürlich und leicht bewegen, nicht wie Statuen.
 ```
 
-### No. 5: Workplace Highlight
+### No. 5: Karriere-Höhepunkt
 
 - **Category:** `Kurzserien Und Emotionale Geschichten`
 - **Source:** `community`
@@ -1866,22 +1880,22 @@ General constraints: Keep without subtitles; do not generate Logo; do not genera
 
 #### Description
 
-Protagonist bound to @Image 2 (facial makeup/hairstyle should match the corresponding image), horizontal 16:9, business-inspired motivational realism, cold blue steel/glass texture transitioning to golden light, generate a 30-second workplace motivational short film.
+Die Hauptfigur ist an @Bild2 gebunden (Gesichts-Make-up entsprechend dem Referenzbild), Querformat 16:9, Business-Energie-Realismus, kalte stahlblaue Glasoptik wechselt zu goldenem Licht, generiere einen 30-sekündigen motivierenden Karriere-Kurzfilm.
 
 #### Prompt
 
 ```text
-Protagonist bound to @Image 2 (facial makeup/hairstyle should match the corresponding image), horizontal 16:9, business-inspired motivational realism, cold blue steel/glass texture transitioning to golden light, generate a 30-second workplace motivational short film.
-Shot 1: Medium close-up, the protagonist @Image 2 sits alone in a late-night office, frowning at a screen full of data, cold blue screen light illuminates the face, fixed camera, (low drumbeat starts) <intense keyboard typing>.
-Shot 2: Slow push-in, the protagonist @Image 2 suddenly looks up, eyes light up, grabs a pen and circles a key point, screen light brightens sharply, <inspiration strikes sound effect>.
-Shot 3: Follow shot, the protagonist @Image 2 stands up and strides through the hallway, pushing open the conference room door, camera follows closely behind, (drumbeat intensifies).
-Shot 4: Low-angle shot, the protagonist @Image 2 stands before a floor-to-ceiling window, confidently presenting to the group, city skyline in the background, backlit with gold, {This is our answer}.
-Shot 5: Slow orbit, the entire room stands up applauding, the protagonist @Image 2 relaxes and reveals a smile, golden light freeze frame, (music climax resolves) <thunderous applause>.
-Constraints: The protagonist's face must remain consistent with Image 2 throughout; emotional arc is externalized from frowning to relaxing, cold blue to golden light corresponds to low point to highlight; the office setting is coherent and consistent.
-General constraints: Keep without subtitles; do not generate Logo; do not generate watermarks; use only one camera movement per shot; characters should have natural, subtle movements, not be statues.
+Die Hauptfigur ist an @Bild2 gebunden (Gesichts-Make-up entsprechend dem Referenzbild), Querformat 16:9, Business-Energie-Realismus, kalte stahlblaue Glasoptik wechselt zu goldenem Licht, generiere einen 30-sekündigen motivierenden Karriere-Kurzfilm.
+Einstellung 1: Halbnahe, Hauptfigur @Bild2 sitzt allein im tiefen Nachtbüro und runzelt über einen Bildschirm voller Daten, kaltes blaues Bildschirmlicht spiegelt sich im Gesicht, feste Kameraposition, (tiefe Trommelschläge setzen ein) <intensives Tastaturklappern>.
+Einstellung 2: Langsames Heranzoomen, Hauptfigur @Bild2 blickt plötzlich auf, Augen leuchten auf, greift einen Stift und kreist etwas Wichtiges ein, Bildschirmlicht wird plötzlich hell, <Geräusch eines Geistesblitzes>.
+Einstellung 3: Verfolgung, Hauptfigur @Bild2 steht auf, geht mit großen Schritten durch den Flur und öffnet die Besprechungsraumtür, Kamera folgt dicht hinter der Rückenansicht, (Trommelschläge werden allmählich stärker).
+Einstellung 4: Untersicht, Hauptfigur @Bild2 steht vor einer bodentiefen Fensterfront und präsentiert selbstbewusst vor dem Team, Stadtsilhouette im Hintergrund, Gegenlicht verleiht goldene Kontur, {Das ist unsere Antwort}.
+Einstellung 5: Langsame Umkreisung, alle im Raum stehen auf und applaudieren, Hauptfigur @Bild2 atmet erleichtert auf und lächelt, goldenes Licht friert das Bild ein, (Musik erreicht Höhepunkt und endet) <stürmischer Applaus>.
+Einschränkungen: Das Gesicht der Hauptfigur muss durchgehend konsistent mit Bild2 sein; emotionale Entwicklung von Stirnrunzeln zu Entspannung nach außen sichtbar, Wechsel von kaltem Blau zu goldenem Licht entspricht Tiefpunkt zu Höhepunkt; Büroszenen müssen zusammenhängend und konsistent sein.
+Allgemeine Einschränkungen: Keine Untertitel; kein Logo generieren; kein Wasserzeichen generieren; jede Einstellung verwendet nur eine Kamerabewegung; Figuren müssen sich natürlich und leicht bewegen, nicht wie Statuen.
 ```
 
-### No. 6: Campus Youth
+### No. 6: Campusjugend
 
 - **Category:** `Kurzserien Und Emotionale Geschichten`
 - **Source:** `community`
@@ -1890,22 +1904,22 @@ General constraints: Keep without subtitles; do not generate Logo; do not genera
 
 #### Description
 
-Refer to the girl from Image 4 and the boy from Image 5 (their facial makeup/hairstyles should match the respective images), vertical 9:16, youthful fresh realism, bright warm sunlight with high translucency, generate a 30-second campus youth short film.
+Bezugnehmend auf das Mädchen in Bild 4 und den Jungen in Bild 5 (jeweils mit dem Gesichts-Make-up/Stil des entsprechenden Bildes), Hochformat 9:16, jugendlich-frischer Realismus, helles, warmes Sonnenlicht mit hoher Lichtdurchlässigkeit. Generiere einen 30-Sekunden-Kurzfilm zum Thema Campusjugend.
 
 #### Prompt
 
 ```text
-Refer to the girl from Image 4 and the boy from Image 5 (their facial makeup/hairstyles should match the respective images), vertical 9:16, youthful fresh realism, bright warm sunlight with high translucency, generate a 30-second campus youth short film.
-Shot 1: Wide shot, warm afternoon sun slants across the sports field, the girl @Image 4 walks quickly along the track holding books, wind lifts her skirt, slow push-in, (fresh guitar starts) <light cicada chirping>.
-Shot 2: Medium close-up, the boy @Image 5 rides past on a bike, brakes suddenly and looks back, their gazes meet, both momentarily stunned, fixed camera, <bicycle brake sound>.
-Shot 3: Close-up, the girl's @Image 4 cheeks flush, she lowers her head and smiles with pursed lips, scattered books are picked up by the boy @Image 5 as he bends down, warm sunlight, cut to this shot.
-Shot 4: Medium shot, the two walk side by side along a tree-lined path talking and laughing, light spots dance on their faces, follow shot accompanying them, (guitar becomes more cheerful).
-Shot 5: Slow crane up, the camera rises to look down on their receding figures and the campus bathed in golden light, warm sunlight freeze frame, (music resolves).
-Constraints: The faces of the girl and boy must remain consistent with the corresponding images throughout, their body types should be distinctly male/female, do not generate doppelgangers/twins causing confusion; the campus warm sunlight high translucency setting remains consistent throughout; youthful emotions are externalized through flushed cheeks and pursed-lip smiles.
-General constraints: Keep without subtitles; do not generate Logo; do not generate watermarks; use only one camera movement per shot; characters should have natural, subtle movements, not be statues.
+Bezugnehmend auf das Mädchen in Bild 4 und den Jungen in Bild 5 (jeweils mit dem Gesichts-Make-up/Stil des entsprechenden Bildes), Hochformat 9:16, jugendlich-frischer Realismus, helles, warmes Sonnenlicht mit hoher Lichtdurchlässigkeit. Generiere einen 30-Sekunden-Kurzfilm zum Thema Campusjugend.
+Einstellung 1: Totale, Sportplatz am späten Nachmittag, schräg einfallendes warmes Sonnenlicht. Das Mädchen @Bild 4 läuft mit Büchern im Arm schnell über die Laufbahn, der Wind weht ihren Rock. Langsame Fahrt heran. (Frische Gitarrenmusik setzt ein) <Leises Zirpen von Zikaden>.
+Einstellung 2: Amerikanische, der Junge @Bild 5 fährt mit dem Fahrrad vorbei, bremst abrupt und blickt sich um. Ihre Blicke treffen sich, beide sind einen Moment lang überrascht. Feste Kameraposition. <Fahrrad-Bremsgeräusch>.
+Einstellung 3: Großaufnahme, die Wangen des Mädchens @Bild 4 erröten, sie senkt den Kopf und unterdrückt ein Lächeln. Die verstreuten Bücher werden vom Jungen @Bild 5 aufgehoben, der sich bückt. Schnitt zu einer Aufnahme mit warmem Sonnenlicht.
+Einstellung 4: Halbtotale, beide laufen nebeneinander auf einem von Bäumen gesäumten Weg und lachen. Lichtflecken tanzen auf ihren Gesichtern. Mitgehende Kameraführung. (Gitarrenmusik wird fröhlicher).
+Einstellung 5: Langsame Kamerafahrt nach oben, die Kamera schwenkt nach oben und blickt auf die sich entfernenden Rücken der beiden und den von goldenem Licht durchfluteten Campus. Das warme Sonnenlicht bleibt im Bild stehen. (Musik klingt aus).
+Einschränkungen: Die Gesichter von Junge und Mädchen müssen während des gesamten Videos entsprechend der Referenzbilder konsistent sein. Die Körpermerkmale von Mann und Frau müssen deutlich unterscheidbar sein, Verwechslung wie bei Zwillingen ist zu vermeiden. Die Szenerie des Campus mit warmem, hochdurchlässigem Sonnenlicht muss durchgängig konsistent sein. Schüchterne Emotionen werden durch errötende Wangen und unterdrücktes Lächeln externalisiert.
+Allgemeine Einschränkungen: Keine Untertitel. Kein Logo generieren. Kein Wasserzeichen generieren. Jede Einstellung verwendet nur eine Kamerabewegung. Personen müssen sich natürlich und leicht bewegen, nicht wie Statuen.
 ```
 
-### No. 7: Suspenseful Corridor
+### No. 7: Suspense-Korridor
 
 - **Category:** `Kurzserien Und Emotionale Geschichten`
 - **Source:** `community`
@@ -1914,22 +1928,22 @@ General constraints: Keep without subtitles; do not generate Logo; do not genera
 
 #### Description
 
-The protagonist is bound to @Image 2 (facial makeup and styling as per the corresponding image), vertical 9:16, thriller/suspense realistic style, dark cold green with high-contrast shadows. Generate a 30-second suspense short film.
+Hauptfigur gebunden an @Image 2 (Gesichtsschminke entsprechend dem Referenzbild), Hochformat 9:16, gruseliger Suspense-Realismus, düsteres kaltes Grün mit hohem Kontrast und Schatten, generiere einen 30-Sekunden-Suspense-Kurzfilm.
 
 #### Prompt
 
 ```text
-The protagonist is bound to @Image 2 (facial makeup and styling as per the corresponding image), vertical 9:16, thriller/suspense realistic style, dark cold green with high-contrast shadows. Generate a 30-second suspense short film.
-Shot 1: Close-up, a corridor light flickers on and off, the protagonist's @Image 2 flashlight beam pierces the darkness, dark cold green, fixed camera, <buzzing sound of the light tube> (low-frequency hum begins).
-Shot 2: Follow shot, camera closely follows behind the protagonist @Image 2 as they slowly walk deeper into the long corridor, hesitant footsteps, elongated shadows, <echoing footsteps>.
-Shot 3: Slow push-in, the protagonist @Image 2 suddenly stops, holds their breath, and looks back, pupils constricting, sweat beading, cold green light illuminates their face, <strange clicking sound from behind>.
-Shot 4: Cut to, a sliver of light seeps from a door slowly opening at the end of the corridor, the protagonist @Image 2 raises their light and steps back cautiously, (sharp strings rise).
-Shot 5: Slow pull-out, the protagonist @Image 2 stands alone in the center of the long, dark corridor, shadows closing in from all sides, cold green freeze-frame, <sudden silence> (music cuts off abruptly).
-Constraints: The protagonist's face must remain consistent with Image 2 throughout; tense emotions externalized through holding breath, looking back, and sweating with constricted pupils; dark cold green high-contrast lighting and corridor setting consistent throughout; use silence at the end to create a suspenseful open ending.
-General constraints: Keep without subtitles; do not generate Logo; do not generate watermarks; use only one camera movement per shot; characters should have natural, slight movements, not be statues.
+Hauptfigur gebunden an @Image 2 (Gesichtsschminke entsprechend dem Referenzbild), Hochformat 9:16, gruseliger Suspense-Realismus, düsteres kaltes Grün mit hohem Kontrast und Schatten, generiere einen 30-Sekunden-Suspense-Kurzfilm.
+Bild 1: Nahaufnahme, ein Flurlicht flackert unregelmäßig, der Taschenlampenstrahl der Hauptfigur @Image 2 durchdringt die Dunkelheit, düsteres kaltes Grün, feste Kameraposition, <summendes Geräusch der Leuchtstoffröhre> (tiefes Brummen beginnt).
+Bild 2: Verfolgungsaufnahme, die Kamera folgt dicht hinter der Hauptfigur @Image 2, während sie langsam den langen Korridor hinuntergeht, zögernde Schritte, sich verlängernde Schatten, <Hall der Schritte>.
+Bild 3: Langsame Schwenkung nach vorn, die Hauptfigur @Image 2 hält plötzlich inne, hält den Atem an und blickt sich um, Pupillen verengen sich, Schweiß tritt aus, kaltes Grün beleuchtet das Gesicht, <seltsames Klicken hinter ihr>.
+Bild 4: Schnitt zu: Aus dem Spalt einer Tür am Ende des Korridors sickert ein schwaches Licht, die Tür öffnet sich langsam, Hauptfigur @Image 2 hebt die Lampe und weicht wachsam zurück, (scharfer Anstieg der Streicher).
+Bild 5: Langsamer Zoom heraus, die Hauptfigur @Image 2 steht allein in der Mitte des langen, düsteren Korridors, Schatten nähern sich von allen Seiten, kaltes Grün einfrierend, <plötzliche Stille> (Musik bricht abrupt ab).
+Einschränkungen: Das Gesicht der Hauptfigur muss durchgehend mit Image 2 übereinstimmen; Anspannung wird durch Anhalten des Atems, Zurückblicken sowie Schweiß und Pupillenverengung externalisiert; düsteres kaltes Grün mit hohem Kontrast und Licht-Schatten-Spiel sowie die Korridorszene müssen durchgehend konsistent sein; das Ende nutzt Stille, um gruselige Leerstelle zu erzeugen.
+Allgemeine Einschränkungen: Ohne Untertitel halten; kein Logo generieren; kein Wasserzeichen generieren; jede Einstellung verwendet nur eine Kamerabewegung; Figuren müssen sich natürlich leicht bewegen, nicht wie Statuen.
 ```
 
-### No. 8: Reconciliation (Using Editing Task for Contrasting Derivative)
+### No. 8: Wiedervereinigung nach dem Bruch (Kontrastableitung durch Bearbeitungsaufgaben)
 
 - **Category:** `Kurzserien Und Emotionale Geschichten`
 - **Source:** `community`
@@ -1938,26 +1952,26 @@ General constraints: Keep without subtitles; do not generate Logo; do not genera
 
 #### Description
 
-Refer to the female lead from Image 1 and the male lead from Image 3 (respective facial makeup and styling as per the corresponding images), vertical 9:16, cinematic realism, transitioning from cold grey rainy to warm golden sunlight. Generate a 30-second emotional short film about reconciliation.
+Referenz: Hauptdarstellerin aus Bild 1, Hauptdarsteller aus Bild 3 (Gesichtsstyling entsprechend der jeweiligen Referenzbilder), Hochformat 9:16, filmisch-realistisch, Übergang von kalt-grauem Regenwetter zu warm-goldenem Sonnenlicht, 30-sekündiger emotionaler Kurzfilm über eine Wiedervereinigung.
 
 #### Prompt
 
 ```text
-Refer to the female lead from Image 1 and the male lead from Image 3 (respective facial makeup and styling as per the corresponding images), vertical 9:16, cinematic realism, transitioning from cold grey rainy to warm golden sunlight. Generate a 30-second emotional short film about reconciliation.
-Shot 1: Medium close-up, the female lead @Image 1 and the male lead @Image 3 stand back-to-back in the cold grey rain, heads bowed, distance between them, fixed camera, (oppressive piano begins) <cold, desolate sound of rain>.
-Shot 2: Close-up, an old photo lies spread out in a puddle, getting wet from the rain, their reflections in the water surface grow distant, slow push-in.
-Shot 3: Cut to, the sky clears, warm golden light falls, the male lead @Image 3 turns and reaches out a hand, the female lead @Image 1 slowly looks back, eyes welling with tears, smooth pan, (piano transitions to warm and intensifies).
-Shot 4: Medium shot, the two embrace, the female lead @Image 1 buries her head in the male lead's @Image 3 shoulder, the male lead gently strokes her hair, warm golden backlight outlines them, slow orbit, {I'm sorry, I'm back}.
-Shot 5: Slow pull-out, their figures merge into one under the warm golden sunlight, freeze-frame, (music concludes satisfactorily).
-Constraints: Editing task approach—first generate shots 1 to 2 as the "cold grey rainy estrangement version" master, then use the editing instruction "keep the characters' @Image1/@Image3 faces and camera composition unchanged, only change the weather to warm golden sunlight, and the posture from back-to-back to embracing" to derive the contrasting version shots 3 to 5, achieving a warm/cold reversal in the same scene; the faces of the male and female leads must remain consistent throughout, no doppelgangers/twins; reconciliation emotions externalized through looking back with tears and embracing/burying head.
-General constraints: Keep without subtitles; do not generate Logo; do not generate watermarks; use only one camera movement per shot; characters should have natural, slight movements, not be statues.
+Referenz: Hauptdarstellerin aus Bild 1, Hauptdarsteller aus Bild 3 (Gesichtsstyling entsprechend der jeweiligen Referenzbilder), Hochformat 9:16, filmisch-realistisch, Übergang von kalt-grauem Regenwetter zu warm-goldenem Sonnenlicht, 30-sekündiger emotionaler Kurzfilm über eine Wiedervereinigung.
+Einstellung 1: Halbnahe, Hauptdarstellerin @Bild 1 und Hauptdarsteller @Bild 3 stehen Rücken an Rücken im kalt-grauen Regen, beide mit gesenktem Kopf, Distanz zwischen ihnen vergrößernd, feste Kameraposition, (unterdrückendes Klavier setzt ein) <kühle, einsame Regengeräusche>.
+Einstellung 2: Großaufnahme, ein altes gemeinsames Foto liegt in einer Regenpfütze und wird nass, in der Spiegelung im Wasser entfernen sich die beiden allmählich, langsame Kamerafahrt nach vorne.
+Einstellung 3: Schnitt zu, Himmel klart auf, warm-goldenes Licht fällt ein, Hauptdarsteller @Bild 3 dreht sich um und streckt die Hand aus, Hauptdarstellerin @Bild 1 blickt langsam zurück, Tränen in den Augen, sanfte seitliche Kamerafahrt, (Klavier wird wärmer und intensiver).
+Einstellung 4: Halbtotale, die beiden stehen umarmend da, Hauptdarstellerin @Bild 1 vergräbt ihr Gesicht an der Schulter des Hauptdarstellers @Bild 3, Hauptdarsteller streichelt sanft ihr Haar, warm-goldenes Gegenlicht zeichnet ihre Silhouetten nach, langsame umkreisende Kamerabewegung, {Es tut mir leid, ich bin zurückgekommen}.
+Einstellung 5: Langsame Kamerafahrt nach hinten, die sich aneinander lehnenden Figuren der beiden verschmelzen im warm-goldenen Sonnenlicht, Einfrieren des Bildes, (Musik klingt erfüllt aus).
+Einschränkungen: Bearbeitungsansatz – Zuerst die "kalt-graue Regen-Distanz-Version" der Einstellungen 1 bis 2 als Master generieren, dann mit dem Bearbeitungsbefehl "Behalte die Gesichter von @Bild 1/@Bild 3 und die Kamerakomposition bei, ändere nur das Wetter zu warm-goldenem Sonnenlicht und die Haltung von Rücken-an-Rücken zu Umarmung" die kontrastierende Version der Einstellungen 3 bis 5 ableiten, um die Umkehrung von kalt zu warm in derselben Szene zu erreichen; Gesichter der Hauptdarsteller müssen durchgehend konsistent sein, Doppelgänger/Zwillinge verboten; Versöhnungsemotionen durch den zurückgeworfenen Blick mit Tränen und die vergrabene Umarmung externalisieren.
+Allgemeine Einschränkungen: Ohne Untertitel belassen; Kein Logo generieren; Kein Wasserzeichen generieren; Jede Einstellung verwendet nur eine Kamerabewegung; Figuren müssen sich natürlich leicht bewegen, nicht wie Statuen.
 ```
 
 <a id="category-17"></a>
 
 ### Markenwerbung Und TV-Spots (6)
 
-### No. 1: Fragrance Brand One-Take
+### No. 1: Duftmarke in einer Einstellung
 
 - **Category:** `Markenwerbung Und TV-Spots`
 - **Source:** `community`
@@ -1966,22 +1980,22 @@ General constraints: Keep without subtitles; do not generate Logo; do not genera
 
 #### Description
 
-Refer to the perfume bottle from Image 1 as the main subject, widescreen 2.35:1, high-end cinematic feel, twilight golden tone. Generate a 30-second brand atmosphere film, one continuous shot.
+Referenz: Parfümflasche aus Bild 1 als Hauptmotiv, Breitbildformat 2.35:1, hochwertiges Filmgefühl, Twilight-Goldton. Generiere einen 30-sekündigen Markenatmosphärenfilm in einer Einstellung.
 
 #### Prompt
 
 ```text
-Refer to the perfume bottle from Image 1 as the main subject, widescreen 2.35:1, high-end cinematic feel, twilight golden tone. Generate a 30-second brand atmosphere film, one continuous shot.
-Shot 1: Extreme macro starts from a water droplet condensing on the surface of the bottle @Image 1, camera slowly pulls out, the droplet slides down refracting warm light, (low ambient strings gradually rise).
-Shot 2: Camera continues rising and panning, the perfume bottle @Image 1 stands slowly on a damp marble surface, side/backlight outlines the bottle's contour, <sound of water droplet lightly falling>.
-Shot 3: Camera smoothly orbits halfway around the bottle, showing the refraction of twilight light through the faceted glass, light spots moving on the surface.
-Shot 4: Camera naturally rises to a high angle, looking down on the entire set, silk and petals scattered on the surface, twilight golden light fills the frame, 【Scent like light, lingering in this moment】.
-Shot 5: Camera slowly pulls back to the macro water droplet, image blurs and freezes on the brand's twilight golden tone, (strings conclude with a long note).
-Constraints: Entirely one continuous shot, no cuts; bottle appearance as per Image 1; twilight golden tone and moist texture consistent throughout.
-General constraints: Keep without subtitles; do not generate Logo; do not generate watermarks; use only one camera movement per shot; characters should have natural, slight movements, not be statues.
+Referenz: Parfümflasche aus Bild 1 als Hauptmotiv, Breitbildformat 2.35:1, hochwertiges Filmgefühl, Twilight-Goldton. Generiere einen 30-sekündigen Markenatmosphärenfilm in einer Einstellung.
+Einstellung 1: Extremes Makro beginnend mit einem Wassertropfen, der auf der Oberfläche der Flasche@Bild 1 kondensiert. Die Kamera zoomt langsam heraus, der Tropfen gleitet ab und bricht warmes Licht (leise, ansteigende Umgebungs-Streichmusik).
+Einstellung 2: Kamera fährt weiter nach oben und schwenkt, die Parfümflasche@Bild 1 steht langsam auf einer feuchten Marmorplatte, Gegenlicht zeichnet die Flaschenkontur nach, <Geräusch eines leichten Tropfenfalls>.
+Einstellung 3: Kamera umkreist die Flasche ruhig eine halbe Umdrehung, zeigt durch facettiertes Glas die Brechung des goldenen Liquids im Twilight-Licht, Lichtreflexe wandern über die Platte.
+Einstellung 4: Kamera steigt folgerichtig und filmt die gesamte Komposition von oben, Seidenstoff und Blütenblätter liegen verstreut auf der Platte, Twilight-Gold füllt das Bild, 【Der Duft wie Licht verweilt im Augenblick】.
+Einstellung 5: Kamera zoomt langsam zurück zum Makro-Wassertropfen, Bild verschwimmt und friert im Marken-Twilight-Gold ein (Streichinstrumente klingen mit einem langen Ton aus).
+Einschränkungen: Durchgehend eine Einstellung ohne Schnitt; Flasche gemäß Bild 1; Twilight-Goldton und feuchte Textur durchgehend beibehalten.
+Allgemeine Einschränkungen: Ohne Untertitel halten; Kein Logo generieren; Kein Wasserzeichen generieren; Nur eine Kamerabewegung pro Einstellung; Personen müssen sich natürlich, leicht bewegen, nicht wie Statuen.
 ```
 
-### No. 2: Sportswear Brand Energetic
+### No. 2: Sportmarken-Kampagne: Adrenalin
 
 - **Category:** `Markenwerbung Und TV-Spots`
 - **Source:** `community`
@@ -1990,22 +2004,24 @@ General constraints: Keep without subtitles; do not generate Logo; do not genera
 
 #### Description
 
-Refer to the athlete from Image 2 as the main subject, vertical 9:16, high-contrast, hard-edged cool tone, grainy street style. Generate a 30-second energetic sportswear brand advertisement.
+Referenzieren Sie den Athleten aus Bild 2 als Hauptmotiv, Hochformat 9:16, hoher Kontrast, harte kühle Farbgebung, körniger Street-Style. Generieren Sie einen 30-Sekunden-Werbespot für eine Sportmarke im energiereichen Stil.
 
 #### Prompt
 
 ```text
-Refer to the athlete from Image 2 as the main subject, vertical 9:16, high-contrast, hard-edged cool tone, grainy street style. Generate a 30-second energetic sportswear brand advertisement.
-Shot 1: Extreme close-up of the athlete's @Image 2 eyes suddenly opening in the shadows, low-angle shot, <rapid breathing>, (low-frequency drumbeat hits).
-Shot 2: Camera quickly follows the athlete @Image 2 as they sprint out of a dark alley, water splashing underfoot, cold blue streetlights create light trails, <sound of shoe soles scraping>.
-Shot 3: Low-angle shot looking up as they leap over an obstacle, backlit silhouette fills the frame, (drumbeat intensifies and accelerates).
-Shot 4: Camera smoothly pans following their sprinting side profile, sweat beads flying in the hard light, muscles tensed, <heartbeat thundering>.
-Shot 5: Camera slowly pushes in on their roaring face before the finish line, cool tone high-contrast freeze-frame, 【Beyond, there is no finish line】, (drumbeat cuts off abruptly).
-Constraints: Consistent cool blue hard light high-contrast throughout; athlete as per Image 2; rhythm progresses from slow tension to explosive release.
-General constraints: Keep without subtitles; do not generate Logo; do not generate watermarks; use only one camera movement per shot; characters should have natural, slight movements, not be statues.
+Referenzieren Sie den Athleten aus Bild 2 als Hauptmotiv, Hochformat 9:16, hoher Kontrast, harte kühle Farbgebung, körniger Street-Style. Generieren Sie einen 30-Sekunden-Werbespot für eine Sportmarke im energiereichen Stil.
+
+Einstellung 1: Extreme Nahaufnahme der Augen des Athleten @Bild 2, die sich plötzlich im Schatten öffnen, Untersicht, <schnelles, keuchendes Atmen>, (tiefer Bassdrum-Einschlag).
+Einstellung 2: Kamera folgt schnell dem Athleten @Bild 2, der aus einer dunklen Gasse sprintet, spritzende Wasserfontänen unter den Füßen, kaltblaue Straßenlaternen ziehen Lichtspuren, <Geräusch von Schuhsohlen auf Asphalt>.
+Einstellung 3: Kamera in niedrigem Winkel (Untersicht) filmt ihn im Sprung über ein Hindernis, Silhouette vor Gegenlicht füllt das Bild, (Trommelschläge werden schneller und dichter).
+Einstellung 4: Kamera schwenkt gleichmäßig seitlich mit dem sprintenden Athleten mit, Schweißtropfen explodieren im harten Licht, Muskelstränge sind angespannt, <dröhnender Herzschlag>.
+Einstellung 5: Kamera fährt langsam auf sein brüllendes Gesicht kurz vor dem Ziel zu, kühle Farben, hoher Kontrast, Freezeframe, 【Übertreffen kennt keine Grenze】, (Trommelschläge brechen abrupt ab).
+
+Einschränkungen: Durchgehend kaltblaues, hartes Licht mit hohem Kontrast; Athlet muss genau wie in Bild 2 aussehen; Rhythmus entwickelt sich von langsam und angespannt bis hin zum explosiven Ausbruch.
+Allgemeine Einschränkungen: Keine Untertitel einfügen; Kein Logo generieren; Kein Wasserzeichen generieren; Jede Einstellung verwendet nur eine Kamerabewegung; Die Person muss sich natürlich und leicht bewegen, nicht wie eine Statue.
 ```
 
-### No. 3: Public Service Warmth
+### No. 3: 公益温情
 
 - **Category:** `Markenwerbung Und TV-Spots`
 - **Source:** `community`
@@ -2014,22 +2030,22 @@ General constraints: Keep without subtitles; do not generate Logo; do not genera
 
 #### Description
 
-Vertical 9:16, soft natural light, documentary warm tone, shallow depth of field. Generate a 30-second public service warmth short film, emotion transitioning from loneliness to acceptance.
+Hochformat 9:16, weiches natürliches Licht, dokumentarischer Warmton, geringe Schärfentiefe. Generiere einen 30-sekündigen, herzerwärmenden Werbespot. Die emotionale Entwicklung geht von Einsamkeit hin zu Akzeptanz.
 
 #### Prompt
 
 ```text
-Vertical 9:16, soft natural light, documentary warm tone, shallow depth of field. Generate a 30-second public service warmth short film, emotion transitioning from loneliness to acceptance.
-Shot 1: Fixed camera close-up of small hands tightly clutching a faded cloth doll, morning light slants in, dust motes floating, (single piano note softly begins).
-Shot 2: Camera slowly pulls out, a lone girl sits in the corner of a rural classroom, soft backlight from the window, <sound of children playing in the distance>.
-Shot 3: Camera smoothly pans, a large hand offers a pencil, the girl hesitantly looks up, warm light spreads across her face.
-Shot 4: Camera follows the girl being led by the hand towards the center of the classroom, classmates gather around, shallow depth of field blurs the background, (warm strings spread out).
-Shot 5: Camera slowly rises to a high angle looking down on the whole class sitting together reading, warm sunlight fills the floor, 【Every child deserves to be seen】, (piano and strings conclude).
-Constraints: Consistent soft natural warm light throughout; emotional arc from loneliness to acceptance; shallow depth of field highlights characters.
-General constraints: Keep without subtitles; do not generate Logo; do not generate watermarks; use only one camera movement per shot; characters should have natural, slight movements, not be statues.
+Hochformat 9:16, weiches natürliches Licht, dokumentarischer Warmton, geringe Schärfentiefe. Generiere einen 30-sekündigen, herzerwärmenden Werbespot. Die emotionale Entwicklung geht von Einsamkeit hin zu Akzeptanz.
+Einstellung 1: Feste Kameraposition, Nahaufnahme kleiner Hände, die ein verblasstes Stofftier umklammern. Morgenlicht scheint schräg herein, Staubpartikel schweben im Licht (einzelner, leichter Klavierton setzt ein).
+Einstellung 2: Die Kamera zoomt langsam heraus, ein einsames Mädchen sitzt allein in der Ecke eines Klassenzimmers auf dem Land. Sanftes Gegenlicht fällt durch das Fenster, <Kinderlachen und Spielgeräusche in der Ferne>.
+Einstellung 3: Die Kamera schwenkt gleichmäßig horizontal, eine große Hand reicht einen Bleistift. Das Mädchen blickt zögernd auf, warmes Licht erhellt langsam ihr Gesicht.
+Einstellung 4: Die Kamera folgt dem Mädchen, dessen Hand genommen wird, während es zur Mitte des Klassenzimmers geführt wird. Mitschüler versammeln sich um sie, der Hintergrund ist durch die geringe Schärfentiefe unscharf (warme Streichermusik setzt ein und breitet sich aus).
+Einstellung 5: Die Kamera steigt langsam auf und zeigt eine Vogelperspektive auf die gesamte Klasse, die im Kreis sitzend gemeinsam liest. Warmes Sonnenlicht füllt den Boden, 【Jedes Kind verdient es, gesehen zu werden】, (Klavier- und Streichermusik klingt aus).
+Einschränkungen: Durchgehend weiches, natürliches Licht im Warmton; emotionale Entwicklung von Einsamkeit hin zu Akzeptanz; geringe Schärfentiefe, um die Personen hervorzuheben.
+Allgemeine Einschränkungen: Keine Untertitel verwenden; kein Logo generieren; kein Wasserzeichen generieren; jede Einstellung verwendet nur eine Kamerabewegung; Personen zeigen natürliche, leichte Bewegungen, sind keine Statuen.
 ```
 
-### No. 4: Fintech Futuristic
+### No. 4: Fintech-Gefühl
 
 - **Category:** `Markenwerbung Und TV-Spots`
 - **Source:** `community`
@@ -2038,19 +2054,19 @@ General constraints: Keep without subtitles; do not generate Logo; do not genera
 
 #### Description
 
-Refer to the credit card from Image 3 as the main subject, horizontal 16:9, calm deep blue tech tone, minimalist high-end texture. Generate a 30-second fintech brand film.
+Referenzbild 3 mit Kreditkarte als Hauptelement, Querformat 16:9, kühler tiefblauer Technologie-Look, minimalistisches High-End-Feeling, generiere einen 30-Sekunden Fintech-Brandfilm.
 
 #### Prompt
 
 ```text
-Refer to the credit card from Image 3 as the main subject, horizontal 16:9, calm deep blue tech tone, minimalist high-end texture. Generate a 30-second fintech brand film.
-Shot 1: Extreme macro close to the metal chip texture of the credit card @Image 3, blue data light streams flow across its surface, (low-frequency synthesizer pulses begin).
-Shot 2: Camera slowly pulls out, the credit card @Image 3 floats in pure black space, semi-transparent data rings appear around it, <electronic scanning sound>.
-Shot 3: Camera smoothly orbits the card once, blue light grids flow with the perspective, light and shadow play on the metal edges.
-Shot 4: High-angle shot looking down as a city data skyline grows beneath the card, cold blue light points connect into a network, (pulse rhythm advances).
-Shot 5: Camera slowly pushes in on the card, freezing on the brand logo, deep blue fades to dark, 【Security, seen in every act of trust】, (synthesizer concludes with a long note).
-Constraints: Consistent calm deep blue tech tone throughout; card as per Image 3; data light stream texture consistent.
-General constraints: Keep without subtitles; do not generate Logo; do not generate watermarks; use only one camera movement per shot; characters should have natural, slight movements, not be statues.
+Referenzbild 3 mit Kreditkarte als Hauptelement, Querformat 16:9, kühler tiefblauer Technologie-Look, minimalistisches High-End-Feeling, generiere einen 30-Sekunden Fintech-Brandfilm.
+Einstellung 1: Extremes Makro nahe an der Kreditkarte@Image 3 Metall-Chip-Textur, blaue Datenlichtströme gleiten über ihre Oberfläche, (niederfrequenter Synthesizer-Puls beginnt).
+Einstellung 2: Kamera zieht sich langsam zurück, Kreditkarte@Image 3 schwebt in rein schwarzem Raum, durchscheinende Datenringe erscheinen um sie herum, <elektronischer Scansound>.
+Einstellung 3: Kamera umkreist die Karte ruhig einmal, blaues Lichtgitter fließt mit der Perspektive, Licht und Schatten spielen an den Metallkanten.
+Einstellung 4: Kamera blickt von oben, unter der Karte wächst eine städtische Daten-Skyline, kalte blaue Lichtpunkte verbinden sich zum Netzwerk, (Pulsrhythmus beschleunigt).
+Einstellung 5: Kamera fährt langsam auf die Karte zu, stoppt beim Markenlogo, Tiefblau verblasst langsam, 【Sicherheit sichtbar in jedem Vertrauen】, (Synthesizer-Langton endet).
+Einschränkungen: Durchgehend kühler tiefblauer Technologie-Look; Karte gemäß Image 3; Qualität der Datenlichtströme durchgehend beibehalten.
+Allgemeine Einschränkungen: Keine Untertitel; Kein Logo generieren; Kein Wasserzeichen generieren; Jede Einstellung verwendet nur eine Kamerabewegung; Personen benötigen natürliche, leichte Bewegung, keine Statuen.
 ```
 
 ### No. 5: Erfrischendes Getränk
@@ -2319,7 +2335,7 @@ Constraints: Die orange-weiße Streifung des Clownfischs und die Farbgebung der 
 Allgemeine Constraints: Keine Untertitel; Kein Logo generieren; Kein Wasserzeichen generieren; Jede Einstellung verwendet nur eine Kamerabewegung; Personen müssen sich natürlich und leicht bewegen, nicht wie Statuen.
 ```
 
-### No. 4: 鸟类微距
+### No. 4: Vogel-Makroaufnahmen
 
 - **Category:** `Haustiere Und Tiere`
 - **Source:** `community`
@@ -2328,19 +2344,19 @@ Allgemeine Constraints: Keine Untertitel; Kein Logo generieren; Kein Wasserzeich
 
 #### Description
 
-以蜂鸟@Image 1为主体，竖屏9:16，超微距高速摄影、晨露花丛+虚化奶油背景，生成30秒生态微观片。
+Mit dem Kolibri @Image 1 als Hauptmotiv, Hochformat 9:16, Ultra-Makro-Hochgeschwindigkeitsfotografie, Morgentau-Blumenfeld + unscharfer cremiger Hintergrund, erzeuge einen 30-Sekunden-ökologischen Mikrofilm.
 
 #### Prompt
 
 ```text
-以蜂鸟@Image 1为主体，竖屏9:16，超微距高速摄影、晨露花丛+虚化奶油背景，生成30秒生态微观片。
-Shot 1：微距特写，蜂鸟@Image 1 悬停振翅化为透明弧影，固定机位，（竖琴泛音起）<高频振翅嗡响>。
-Shot 2：特写，蜂鸟@Image 1 细长喙探入花蕊吸蜜，镜头缓慢推近，<花瓣轻颤>。
-Shot 3：微距，蜂鸟@Image 1 喉部虹彩羽毛随角度变色，镜头缓慢环绕，（竖琴滑音）。
-Shot 4：中景，蜂鸟@Image 1 抖落身上晨露珠，镜头平稳横移升格慢动作，<水珠坠落>。
-Shot 5：全景，蜂鸟@Image 1 骤然弹射飞离画面，镜头缓慢拉远定格空枝，（音乐收束）。
-约束：蜂鸟虹彩羽色与喙形以Image 1为准，振翅呈现真实高速虚化残影，禁止翅膀定格僵硬。
-通用约束：保持无字幕；不要生成 Logo；不要生成水印；每个镜头只用一种运镜；人物需自然微动非石像。
+Mit dem Kolibri @Image 1 als Hauptmotiv, Hochformat 9:16, Ultra-Makro-Hochgeschwindigkeitsfotografie, Morgentau-Blumenfeld + unscharfer cremiger Hintergrund, erzeuge einen 30-Sekunden-ökologischen Mikrofilm.
+Shot 1: Makro-Nahaufnahme, Kolibri @Image 1 schwebt, schlagende Flügel werden zu transparenten Lichtbögen, feste Kameraposition, (Harfen-Obertöne beginnen) <hochfrequentes Flügelschlag-Summen>.
+Shot 2: Nahaufnahme, Kolibri @Image 1 führt seinen langen, dünnen Schnabel in die Blütennarbe ein, um Nektar zu trinken, Kamera fährt langsam näher, <Blütenblätter zittern leicht>.
+Shot 3: Makro, irisierende Kehlfedern des Kolibris @Image 1 ändern je nach Blickwinkel die Farbe, Kamera umkreist langsam, (Harfen-Glissando).
+Shot 4: Halbtotale, Kolibri @Image 1 schüttelt Morgentautropfen von seinem Körper, Kamera schwenkt ruhig horizontal, Zeitlupenaufnahme, <Wassertropfen fallen>.
+Shot 5: Totale, Kolibri @Image 1 schießt plötzlich aus dem Bild, Kamera zoomt langsam heraus und hält auf einen leeren Zweig, (Musik klingt aus).
+Constraints: Irisierende Gefiederfarbe und Schnabelform des Kolibris müssen mit Image 1 übereinstimmen, Flügelschlag muss realistische Hochgeschwindigkeits-Unschärfe und Nachbilder zeigen, starre, erstarrte Flügel sind verboten.
+Allgemeine Constraints: Ohne Untertitel bleiben; kein Logo generieren; kein Wasserzeichen generieren; jede Einstellung verwendet nur eine Kamerabewegung; Personen müssen sich natürlich leicht bewegen, nicht wie Statuen.
 ```
 
 ### No. 5: Personifiziertes Haustier
@@ -2597,7 +2613,7 @@ Einschränkungen: Die Topographie des Kontinents und die Anordnung der schwebend
 Allgemeine Einschränkungen: Keine Untertitel; Generiere kein Logo; Generiere kein Wasserzeichen; Jede Einstellung verwendet nur eine Kamerabewegung; Figuren müssen sich natürlich leicht bewegen, nicht wie Statuen.
 ```
 
-### No. 5: Clay Render Demo
+### No. 5: Weißmodell-Rendering-Demonstration
 
 - **Category:** `Spiele, CG Und Fantasy`
 - **Source:** `community`
@@ -2606,19 +2622,19 @@ Allgemeine Einschränkungen: Keine Untertitel; Generiere kein Logo; Generiere ke
 
 #### Description
 
-Using the scene clay model @Image 1 as the main subject, with materials taken from reference image 2, landscape 16:9, a real-time rendering breakdown demo, starting from a matte gray-white base model, generating a 30-second evolution reel from clay render to final piece.
+Mit der Szenen-Weißmodell@Bild 1 als Hauptelement und Materialien aus Referenzbild 2, Querformat 16:9, Echtzeit-Rendering-Breakdown-Demonstration, beginnend mit einem grau-weißen, matten Grundmodell, erzeugen Sie einen 30-Sekunden-Rendering-Evolutionsfilm vom Weißmodell zum fertigen Bild.
 
 #### Prompt
 
 ```text
-Using the scene clay model @Image 1 as the main subject, with materials taken from reference image 2, landscape 16:9, a real-time rendering breakdown demo, starting from a matte gray-white base model, generating a 30-second evolution reel from clay render to final piece.
-Shot 1: Wide shot, the clay model @Image 1, a gray-white scene without materials, slowly rotates to showcase the massing, the camera slowly orbits, (futuristic electronic music starts) 【Blockout·Clay Model】.
-Shot 2: Medium shot, the surface of the clay model @Image 1 is brushed with materials from @Image 2, covering stone and wood textures face by face, the camera pans smoothly, <material loading ticks>.
-Shot 3: Close-up, the scene @Image 1 reveals normal and roughness details, showing bumpy texture, the camera slowly pushes in, 【PBR Material·Coloring】.
-Shot 4: Wide shot, the scene @Image 1 has lights turned on one by one, casting shadows and reflections, the camera slowly rises, (music builds up in layers) 【Lighting·Illumination】.
-Shot 5: Wide shot, the scene @Image 1 incorporates post-processing color grading and volumetric light to become the final frame, the camera slowly pulls back and holds, (music concludes) 【Final Render】.
-Constraints: The scene massing and structure must remain consistent with Image 1 throughout, material textures are taken from Image 2 and applied progressively, the transition from clay model to final piece only changes shading, not geometric layout, prohibit model deformation or visual errors.
-General constraints: Keep it without subtitles; do not generate a Logo; do not generate watermarks; use only one camera movement per shot; characters should have natural, subtle movements, not be statue-like.
+Mit der Szenen-Weißmodell@Bild 1 als Hauptelement und Materialien aus Referenzbild 2, Querformat 16:9, Echtzeit-Rendering-Breakdown-Demonstration, beginnend mit einem grau-weißen, matten Grundmodell, erzeugen Sie einen 30-Sekunden-Rendering-Evolutionsfilm vom Weißmodell zum fertigen Bild.
+Einstellung 1: Totale, Weißmodell@Bild 1, grau-weiße, materiallose Szene dreht sich langsam und zeigt Volumen, Kamera schwenkt langsam umher, (techno-elektronische Musik setzt ein) 【Blockout·Weißmodell】.
+Einstellung 2: Halbtotale, Weißmodell@Bild 1, Oberfläche wird mit Materialien@Bild 2 bedeckt, Stein- und Holzmaserungen werden flächenweise aufgetragen, Kamera schwenkt gleichmäßig horizontal, <Materiallade-Ticken>.
+Einstellung 3: Großaufnahme, Szene@Bild 1, Normal- und Rauheitsdetails zeigen sich und erzeugen eine reliefartige Textur, Kamera fährt langsam vor, 【PBR-Material·Kolorierung】.
+Einstellung 4: Totale, Szene@Bild 1, Lichter werden nacheinander eingeschaltet und werfen Schatten und Reflexionen, Kamera hebt sich langsam, (Musik steigert sich schichtweise) 【Lighting·Beleuchtung】.
+Einstellung 5: Totale, Szene@Bild 1, Nachbearbeitungs-Farbkorrektur und volumetrisches Licht werden hinzugefügt, um das Endbild zu erzeugen, Kamera zoomt langsam heraus und verharrt im Standbild, (Musik klingt aus) 【Final Render】.
+Einschränkungen: Die Szenenvolumen und -struktur müssen durchgehend mit Bild 1 übereinstimmen, Materialtexturen werden aus Bild 2 entnommen und schrittweise überlagert, vom Weißmodell zum fertigen Bild ändert sich nur die Schattierung, nicht die geometrische Anordnung, Modellverformungen oder Kontinuitätsfehler sind verboten.
+Allgemeine Einschränkungen: Untertitel vermeiden; Kein Logo generieren; Kein Wasserzeichen generieren; Jede Einstellung verwendet nur eine Kamerabewegung; Personen müssen sich natürlich und leicht bewegen, nicht wie Statuen.
 ```
 
 <a id="category-22"></a>
@@ -2797,7 +2813,7 @@ Einschränkungen: Person und Streetball-Spielfeld gemäß Bild 1; warmes orangef
 Allgemeine Einschränkungen: Keine Untertitel; Kein Logo generieren; Kein Wasserzeichen generieren; Jede Einstellung verwendet nur eine Kamerabewegung; Figuren müssen sich natürlich leicht bewegen, nicht wie Statuen.
 ```
 
-### No. 4: Running Silhouette
+### No. 4: Laufsilhouette
 
 - **Category:** `Sport Und Fitness`
 - **Source:** `community`
@@ -2806,19 +2822,19 @@ Allgemeine Einschränkungen: Keine Untertitel; Kein Logo generieren; Kein Wasser
 
 #### Description
 
-Reference the morning runner and coastal road from Image 1 as the main motif (person silhouette and environment according to Image 1), landscape 16:9, style of an inspiring sports brand film, sunrise backlight in gold-orange tones, generate a 30-second film about perseverance during a morning run.
+Referenzieren Sie den Morgenläufer und die Küstenstraße aus Bild 1 als Hauptmotiv (Personensilhouette und Umgebung wie in Bild 1), Querformat 16:9, Stil eines motivierenden Sportmarkenfilms, Sonnenaufgangs-Gegenlicht in Gold-Orange-Tönen, generieren Sie einen 30-Sekunden-Film über Durchhaltevermögen beim Morgenlauf.
 
 #### Prompt
 
 ```text
-Reference the morning runner and coastal road from Image 1 as the main motif (person silhouette and environment according to Image 1), landscape 16:9, style of an inspiring sports brand film, sunrise backlight in gold-orange tones, generate a 30-second film about perseverance during a morning run.
-Shot 1: Extreme close-up, running shoe steps on wet asphalt and splashes fine water droplets, fixed slightly tilted from above camera, <sound of the sole hitting the ground>, (motivational strings set the foundation).
-Shot 2: Medium long shot, runner backlight silhouette strides evenly, sweat drips along the chin, camera follows, <steady, powerful breathing rhythm>.
-Shot 3: Long shot, coastline stretches, sun jumps over the sea and colors the sky red, camera rises and falls slowly, (strings enter with drum beats).
-Shot 4: Close-up, swinging arm, watch shows jumping numbers, heart rate rises, camera pans slowly, <ticking/sound of the watch>.
-Shot 5: Wide shot, runner silhouette reaches hill ridge, spreads arms and embraces the morning sun, camera zooms out slowly, (strings and drum beats reach climax and fade out).
-Constraints: Person silhouette and coastal road according to Image 1; sunrise backlight in gold-orange tones throughout; running posture and stride frequency steady and fluid, no jerky movements.
-General constraints: Without subtitles; Do not generate logo; Do not generate watermark; Each shot uses only one camera movement; People must move naturally and lightly, not like statues.
+Referenzieren Sie den Morgenläufer und die Küstenstraße aus Bild 1 als Hauptmotiv (Personensilhouette und Umgebung wie in Bild 1), Querformat 16:9, Stil eines motivierenden Sportmarkenfilms, Sonnenaufgangs-Gegenlicht in Gold-Orange-Tönen, generieren Sie einen 30-Sekunden-Film über Durchhaltevermögen beim Morgenlauf.
+Einstellung 1: Extreme Nahaufnahme, Laufschuh tritt auf nassen Asphalt und spritzt feine Wassertropfen, feste leicht schräge Kameraposition von oben, <Geräusch des Schuhs, der auf den Boden trifft>, (motivierende Streichermusik beginnt leise im Hintergrund).
+Einstellung 2: Halbtotale, Läufer als Silhouette im Gegenlicht mit gleichmäßigen Schritten, Schweißtropfen fallen vom Kinn, Kamera folgt der Bewegung, <ruhiger, kraftvoller Atemrhythmus>.
+Einstellung 3: Totale, sich erstreckende Küstenlinie, Sonne springt über das Meer und färbt den Himmel rot, Kamera fährt langsam nach oben und unten, (Streicher werden durch Trommelschläge vorangetrieben).
+Einstellung 4: Nahaufnahme, schwingender Arm, Uhr zeigt springende Zahlen und steigende Herzfrequenz, Kamera schwenkt langsam, <Ticken/Piepen der Uhr>.
+Einstellung 5: Weitwinkel, Silhouette des Läufers erreicht Hügelkamm und breitet Arme aus, umarmt die Morgensonne, Kamera zoomt langsam heraus, (Streicher und Trommeln erreichen gemeinsam einen Höhepunkt und klingen aus).
+Einschränkungen: Personensilhouette und Küstenstraße wie in Bild 1; Sonnenaufgangs-Gegenlicht in Gold-Orange-Tönen durchgehend beibehalten; Laufstil und Schrittfrequenz gleichmäßig und fließend, ohne Ruckeln.
+Allgemeine Einschränkungen: Ohne Untertitel; Kein Logo generieren; Kein Wasserzeichen generieren; Jede Einstellung verwendet nur eine Kamerabewegung; Personen müssen sich natürlich und leicht bewegen, nicht wie Statuen.
 ```
 
 <a id="category-24"></a>
@@ -2840,16 +2856,16 @@ Referenzieren Sie den modernen Tänzer und den Industriestil-Raum aus Bild 1 als
 
 ```text
 Referenzieren Sie den modernen Tänzer und den Industriestil-Raum aus Bild 1 als Hauptmotiv (Person und Szene entsprechend Bild 1), Hochformat 9:16, Städtischer MV-Followshot-Stil, kalte Blau-Neon-Lichtstimmung, generieren Sie einen 30-Sekunden-Rhythmus-Tanzfilm.
-Shot 1: Extreme Nahaufnahme, Tänzer-Fingerspitzen schnellen mit dem ersten Beat plötzlich auseinander, feste Kamera, <knackendes Fingerschnippen>, (rhythmisches elektronisches Beat-Set beginnt).
-Shot 2: Totale, Körper schwingt weit aus, Tanzschritte entfalten sich und folgen dem Beat, Kamera folgt, <Rascheln/Schwappen von Kleidungsstoff>.
-Shot 3: Halbtotale, Drehung und Sprung, Rock/Rockzipfel zeichnet einen Bogen mit Neon-Nachleuchten, Kamera umkreist langsam, (Beat verdichtet sich, Bass setzt ein).
-Shot 4: Nahaufnahme, Fußspitzen treten hastig auf den Boden, Reflexionen wackeln, Kamera schwenkt langsam, <Geräusch aufeinanderfolgender Hacken-Aufschläge>.
-Shot 5: Totale, Pose einfrieren, Neon-Licht blinkt und beleuchtet die gesamte Kontur, Kamera zoomt langsam heraus, (Beat endet auf einem Downbeat).
-约束：Person und Industriestil-Raum entsprechend Bild 1; Kalte Blau-Neon-Lichtstimmung durchgehend; Kamerabewegungsrhythmus muss streng mit den musikalischen Downbeats synchronisiert sein.
-通用约束：Ohne Untertitel; Kein Logo generieren; Kein Wasserzeichen generieren; Jede Einstellung verwendet nur eine Kamerabewegung; Personen müssen sich natürlich und leicht bewegen, nicht wie Statuen.
+Einstellung 1: Extreme Nahaufnahme, Tänzer-Fingerspitzen schnellen mit dem ersten Beat plötzlich auseinander, feste Kamera, <knackendes Fingerschnippen>, (rhythmisches elektronisches Beat-Set beginnt).
+Einstellung 2: Totale, Körper schwingt weit aus, Tanzschritte entfalten sich und folgen dem Beat, Kamera folgt, <Rascheln/Schwappen von Kleidungsstoff>.
+Einstellung 3: Halbtotale, Drehung und Sprung, Rock/Rockzipfel zeichnet einen Bogen mit Neon-Nachleuchten, Kamera umkreist langsam, (Beat verdichtet sich, Bass setzt ein).
+Einstellung 4: Nahaufnahme, Fußspitzen treten hastig auf den Boden, Reflexionen wackeln, Kamera schwenkt langsam, <Geräusch aufeinanderfolgender Hacken-Aufschläge>.
+Einstellung 5: Totale, Pose einfrieren, Neon-Licht blinkt und beleuchtet die gesamte Kontur, Kamera zoomt langsam heraus, (Beat endet auf einem Downbeat).
+Constraints: Person und Industriestil-Raum entsprechend Bild 1; Kalte Blau-Neon-Lichtstimmung durchgehend; Kamerabewegungsrhythmus muss streng mit den musikalischen Downbeats synchronisiert sein.
+Allgemeine Constraints: Ohne Untertitel; Kein Logo generieren; Kein Wasserzeichen generieren; Jede Einstellung verwendet nur eine Kamerabewegung; Personen müssen sich natürlich und leicht bewegen, nicht wie Statuen.
 ```
 
-### No. 2: Piano Solo
+### No. 2: Klaviersolo
 
 - **Category:** `Musik, Tanz Und Musikvideos`
 - **Source:** `community`
@@ -2858,19 +2874,19 @@ Shot 5: Totale, Pose einfrieren, Neon-Licht blinkt und beleuchtet die gesamte Ko
 
 #### Description
 
-Reference the pianist and the old theater stage from Image 1 as the main motif (person and piano according to Image 1), landscape 16:9, style of classic concert film aesthetics, warm golden spotlights on a dark background, generate a 30-second passionate solo film.
+Beziehe dich auf den Pianisten und die Bühne des alten Theaters aus Bild 1 als Hauptmotiv (Person und Klavier entsprechen Bild 1), Querformat 16:9, klassisches Konzertfilm-Feeling, warm-goldene Spotlight-Dunkelfeld-Stimmung, erzeuge einen 30-sekündigen, gefühlvollen Solostück-Film.
 
 #### Prompt
 
 ```text
-Reference the pianist and the old theater stage from Image 1 as the main motif (person and piano according to Image 1), landscape 16:9, style of classic concert film aesthetics, warm golden spotlights on a dark background, generate a 30-second passionate solo film.
-Shot 1: Extreme close-up, fingertips hover over the keys and gently descend to play the first note, fixed camera, (clear, high sound of a single piano note resonates).
-Shot 2: Close-up, hands glide fluidly over the black and white keys, hammers rise and fall, camera pans slowly, <clattering sound of the striking keys/strings>.
-Shot 3: Medium shot, pianist closes eyes, immersed, body sways slightly with the melody, camera slowly dollies in, (melody builds to a climax).
-Shot 4: Wide shot, piano stands alone in the spotlight on the empty stage, dust particles float in the light, camera slowly tilts up and down, (chords layer).
-Shot 5: Extreme close-up, final key is pressed, fingers linger, resonance vibrates, camera slowly zooms out, <resonance of the strings gradually fades>, (melody quietly fades out).
-Constraints: Person and piano according to Image 1; Warm golden spotlights on a dark background throughout; Hand and key movements must strictly correspond with the start and end of the notes.
-General constraints: No subtitles; Do not generate a logo; Do not generate a watermark; Each shot uses only one camera movement; People must move naturally and lightly, not like statues.
+Beziehe dich auf den Pianisten und die Bühne des alten Theaters aus Bild 1 als Hauptmotiv (Person und Klavier entsprechen Bild 1), Querformat 16:9, klassisches Konzertfilm-Feeling, warm-goldene Spotlight-Dunkelfeld-Stimmung, erzeuge einen 30-sekündigen, gefühlvollen Solostück-Film.
+Einstellung 1: Extreme Nahaufnahme, Finger schweben über den Tasten und senken sich sanft, um den ersten Ton anzuschlagen, feste Kameraposition, (ein einzelner, klarer Klavierton erklingt).
+Einstellung 2: Nahaufnahme, Hände gleiten flüssig über die schwarz-weißen Tasten, Hämmer heben und senken sich, Kamera schwenkt langsam, <das klare Geräusch der anschlagenden Tasten>.
+Einstellung 3: Halbtotale, der Pianist spielt mit geschlossenen Augen, vertieft, der Körper wiegt sich leicht mit der Melodie, Kamera fährt langsam näher, (die Melodie baut sich zum Höhepunkt auf).
+Einstellung 4: Totale, das Klavier isoliert im Scheinwerferlicht auf der leeren Bühne, Staubkörner tanzen im Licht, Kamera fährt langsam auf und ab, (Akkorde schichten sich auf).
+Einstellung 5: Extreme Nahaufnahme, letzte Taste wird gedrückt, Finger verharren, Nachschwingen der Saiten, Kamera zoomt langsam heraus, <der Nachklang der Saiten verklingt allmählich>, (die Melodie klingt leise aus).
+Einschränkungen: Person und Klavier entsprechen Bild 1; die warm-goldene Spotlight-Dunkelfeld-Stimmung durchgehend beibehalten; die Hand- und Fingerbewegungen müssen genau mit dem Beginn und Ende der Noten übereinstimmen.
+Allgemeine Einschränkungen: Keine Untertitel; kein Logo generieren; kein Wasserzeichen generieren; jede Einstellung verwendet nur eine Kamerabewegung; die Person muss sich natürlich, leicht bewegen, nicht wie eine Statue.
 ```
 
 ### No. 3: Streetdance-Battle
@@ -2882,19 +2898,19 @@ General constraints: No subtitles; Do not generate a logo; Do not generate a wat
 
 #### Description
 
-Referenzieren Sie die beiden Streetdance-Tänzer und den Underground-Ort aus Bild 1 als Hauptmotiv (Personen und Ort entsprechend Bild 1), Hochformat 9:16, Dokumentarstil des Underground-Streetdance, hoher Kontrast mit warm-kalt gemischtem Licht, generieren Sie einen 30-Sekunden-Duell-Battle-Film.
+Verweise auf die beiden Streetdance-Tänzer und den Underground-Ort aus Bild 1 als Hauptmotiv (Personen und Ort entsprechend Bild 1), Hochformat 9:16, Dokumentarstil des Underground-Streetdance, hoher Kontrast mit warm-kalt gemischtem Licht, generiere einen 30-Sekunden-Duell-Battle-Film.
 
 #### Prompt
 
 ```text
-Referenzieren Sie die beiden Streetdance-Tänzer und den Underground-Ort aus Bild 1 als Hauptmotiv (Personen und Ort entsprechend Bild 1), Hochformat 9:16, Dokumentarstil des Underground-Streetdance, hoher Kontrast mit warm-kalt gemischtem Licht, generieren Sie einen 30-Sekunden-Duell-Battle-Film.
-Shot 1: Extreme Nahaufnahme, ein Tänzer zieht den Hutrand nach unten und blickt herausfordernd direkt in die Kamera, feste Kamera, <Geräusch der aufgeregten/unruhigen Menge>, (Hip-Hop-Beat setzt ein).
-Shot 2: Totale, erster Tänzer stürmt in die Mitte, explosive Bodenelemente, Zuschauerkreis weicht zurück, Kamera folgt, <Geräusch der auf den Boden klatschenden Handfläche>.
-Shot 3: Halbtotale, Thomas-Flare/Windmill-Bewegung, Beine zeichnen Kreise, Kamera umkreist langsam, (Jubel der Menge mischt sich in den Beat).
-Shot 4: Nahaufnahme, Gegner übernimmt, Hüftstoß, Pose einfrieren, Hutrand schleudert Schweiß, Kamera fährt langsam näher, <schnelles Atmen und Stampfen>.
-Shot 5: Totale, beide frieren gleichzeitig in einer Konfrontationspose ein, Zuschauer brechen gemeinsam in Jubel aus, Kamera zoomt langsam heraus, {(Zuschauer) "Ooooh——!"}, (Beat endet auf einem Downbeat).
-约束：Beide Tänzer und Underground-Ort entsprechend Bild 1; Warm-kalt gemischtes Licht mit hohem Kontrast durchgehend; Bodenelemente und Drehungen müssen den realen physikalischen Gesetzen entsprechen, fließend ohne Stocken.
-通用约束：Ohne Untertitel; Kein Logo generieren; Kein Wasserzeichen generieren; Jede Einstellung verwendet nur eine Kamerabewegung; Personen müssen sich natürlich und leicht bewegen, nicht wie Statuen.
+Verweise auf die beiden Streetdance-Tänzer und den Underground-Ort aus Bild 1 als Hauptmotiv (Personen und Ort entsprechend Bild 1), Hochformat 9:16, Dokumentarstil des Underground-Streetdance, hoher Kontrast mit warm-kalt gemischtem Licht, generiere einen 30-Sekunden-Duell-Battle-Film.
+Einstellung 1: Extreme Nahaufnahme, ein Tänzer zieht den Hutrand nach unten und blickt herausfordernd direkt in die Kamera, feste Kamera, <Geräusch der aufgeregten/unruhigen Menge>, (Hip-Hop-Beat setzt ein).
+Einstellung 2: Totale, erster Tänzer stürmt in die Mitte, explosive Bodenelemente, Zuschauerkreis weicht zurück, Kamera folgt, <Geräusch der auf den Boden klatschenden Handfläche>.
+Einstellung 3: Halbtotale, Thomas-Flare/Windmill-Bewegung, Beine zeichnen Kreise, Kamera umkreist langsam, (Jubel der Menge mischt sich in den Beat).
+Einstellung 4: Nahaufnahme, Gegner übernimmt, Hüftstoß, Pose einfrieren, Hutrand schleudert Schweiß, Kamera fährt langsam näher, <schnelles Atmen und Stampfen>.
+Einstellung 5: Totale, beide frieren gleichzeitig in einer Konfrontationspose ein, Zuschauer brechen gemeinsam in Jubel aus, Kamera zoomt langsam heraus, {(Zuschauer) "Ooooh——!"}, (Beat endet auf einem Downbeat).
+Constraints: Beide Tänzer und Underground-Ort entsprechend Bild 1; Warm-kalt gemischtes Licht mit hohem Kontrast durchgehend; Bodenelemente und Drehungen müssen den realen physikalischen Gesetzen entsprechen, fließend ohne Stocken.
+Generelle Constraints: Ohne Untertitel; Kein Logo generieren; Kein Wasserzeichen generieren; Jede Einstellung verwendet nur eine Kamerabewegung; Personen müssen sich natürlich und leicht bewegen, nicht wie Statuen.
 ```
 
 ### No. 4: Konzertatmosphäre
@@ -2912,20 +2928,20 @@ Referenzieren Sie den Sänger und die Stadionbühne aus Bild 1 als Hauptmotiv (P
 
 ```text
 Referenzieren Sie den Sänger und die Stadionbühne aus Bild 1 als Hauptmotiv (Person und Bühne entsprechend Bild 1), Querformat 16:9, Stil einer großen Live-Konzertaufnahme, farbige Spotlights und Leuchtstäbemeer, generieren Sie einen 30-Sekunden-hochbrisanten Film mit tausendstimmigem Gesang.
-Shot 1: Extreme Nahaufnahme, Sänger-Lippen nahe am Mikrofon, öffnet die Augen und singt die erste Zeile, feste Kamera, {(Sänger) "Diese Nacht gehört euch!"}, (Rock-Intro setzt donnernd ein).
-Shot 2: Totale, Spotlight streift über die Bühne, Sänger breitet Arme aus und entfacht das Publikum, Kamera hebt und senkt sich langsam, <jubelnder Applaus des Publikums>.
-Shot 3: Weit, Tribünen, Leuchtstäbe verbinden sich zu einem wogenden Lichtermeer, das im Takt schwingt, Kamera schwenkt langsam, (Refrain, Schlagzeug setzt voll ein).
-Shot 4: Halbtotale, Sänger geht zur Vorderbühne, streckt Hand aus, Publikum streckt Arme entgegen, Kamera folgt, <tausendstimmiger Gesang>.
-Shot 5: Totale, Feuerwerk und Laser brechen gleichzeitig aus, Sänger hebt das Mikrofon hoch, Silhouette, Kamera zoomt langsam heraus, 【Volles Stadion singt gemeinsam】, (Refrain-Höhepunkt endet mit Wucht).
-约束：Person und Stadionbühne entsprechend Bild 1; Farbige Spotlights und Leuchtstäbemeer durchgehend; Lichtblitze und Feuerwerk müssen mit den Downbeats des Beats synchronisiert sein.
-通用约束：Ohne Untertitel; Kein Logo generieren; Kein Wasserzeichen generieren; Jede Einstellung verwendet nur eine Kamerabewegung; Personen müssen sich natürlich und leicht bewegen, nicht wie Statuen.
+Einstellung 1: Extreme Nahaufnahme, Sänger-Lippen nahe am Mikrofon, öffnet die Augen und singt die erste Zeile, feste Kamera, {(Sänger) "Diese Nacht gehört euch!"}, (Rock-Intro setzt donnernd ein).
+Einstellung 2: Totale, Spotlight streift über die Bühne, Sänger breitet Arme aus und entfacht das Publikum, Kamera hebt und senkt sich langsam, <jubelnder Applaus des Publikums>.
+Einstellung 3: Weit, Tribünen, Leuchtstäbe verbinden sich zu einem wogenden Lichtermeer, das im Takt schwingt, Kamera schwenkt langsam, (Refrain, Schlagzeug setzt voll ein).
+Einstellung 4: Halbtotale, Sänger geht zur Vorderbühne, streckt Hand aus, Publikum streckt Arme entgegen, Kamera folgt, <tausendstimmiger Gesang>.
+Einstellung 5: Totale, Feuerwerk und Laser brechen gleichzeitig aus, Sänger hebt das Mikrofon hoch, Silhouette, Kamera zoomt langsam heraus, 【Volles Stadion singt gemeinsam】, (Refrain-Höhepunkt endet mit Wucht).
+Constraints: Person und Stadionbühne entsprechend Bild 1; Farbige Spotlights und Leuchtstäbemeer durchgehend; Lichtblitze und Feuerwerk müssen mit den Downbeats des Beats synchronisiert sein.
+Allgemeine Constraints: Ohne Untertitel; Kein Logo generieren; Kein Wasserzeichen generieren; Jede Einstellung verwendet nur eine Kamerabewegung; Personen müssen sich natürlich und leicht bewegen, nicht wie Statuen.
 ```
 
 <a id="category-25"></a>
 
 ### Feste Und Jahreszeiten (5)
 
-### No. 1: Spring Festival Family Reunion
+### No. 1: Frühlingsfest-Familienzusammenkunft
 
 - **Category:** `Feste Und Jahreszeiten`
 - **Source:** `community`
@@ -2934,20 +2950,20 @@ Shot 5: Totale, Feuerwerk und Laser brechen gleichzeitig aus, Sänger hebt das M
 
 #### Description
 
-Reference the family members from Image 1, Image 2, and Image 3 as the main subjects (each according to their respective reference images), landscape 16:9, festive-heartwarming realism, warm red lantern atmosphere, generate a 30-second Spring Festival short film.
+Referenzieren Sie die Familienmitglieder in Bild 1, Bild 2 und Bild 3 als Hauptsubjekte (jeweils gemäß dem entsprechenden Bild). Querformat 16:9. Erzeugen Sie einen 30-Sekunden-Frühlingsfest-Kurzfilm im Stil eines festlichen, herzlichen Realismus mit warmen roten Laternenfarbtönen.
 
 #### Prompt
 
 ```text
-Reference the family members from Image 1, Image 2, and Image 3 as the main subjects (each according to their respective reference images), landscape 16:9, festive-heartwarming realism, warm red lantern atmosphere, generate a 30-second Spring Festival short film.
-Shot 1: Slow push-in, fireworks explode outside illuminating the window lattice with the attached fortune character, warm red lanterns sway inside, (distant Chinese bell sounds and festive music gradually begin).
-Shot 2: Orbiting shot, family sits around the New Year's Eve dinner table, raising their glasses, rising steam and warm light, <soft clinking of dishes and chopsticks>.
-Shot 3: Static camera, elderly person @Image 1 serves food to grandchildren, loving smile, close-up of delicious dishes on the table, background blurred.
-Shot 4: Gentle tracking shot, child @Image 3 hops in the courtyard with a red envelope, strings of red lanterns extend, <bright, cheerful laughter>.
-Shot 5: Low-angle shot, entire family @Image 2 looks up in awe at the fireworks-filled sky, light and shadow cover the smiling faces.
-Shot 6: Slow zoom-out, entire family stands in front of the door, glasses raised, frozen under the large red lanterns, the text 【Happy New Year, joyful family reunion】 appears, (festive music fades out).
-Constraints: Each person according to their respective reference image, doppelgangers/twins with identical appearance forbidden, only one person per image; Red lanterns, warm atmosphere consistent throughout the entire film.
-General constraints: No subtitles; Do not generate logo; Do not generate watermark; Each shot uses only one camera movement; People must move naturally and lightly, not like statues.
+Referenzieren Sie die Familienmitglieder in Bild 1, Bild 2 und Bild 3 als Hauptsubjekte (jeweils gemäß dem entsprechenden Bild). Querformat 16:9. Erzeugen Sie einen 30-Sekunden-Frühlingsfest-Kurzfilm im Stil eines festlichen, herzlichen Realismus mit warmen roten Laternenfarbtönen.
+Einstellung 1: Langsames Heranzoomen. Draußen blühen Feuerwerkskörper auf und erhellen den Fensterrahmen mit dem angebrachten Glückszeichen. Drinnen schwingen warme rote Laternen. (Fernes chinesisches Glockengeläut und fröhliche Musik setzen allmählich ein).
+Einstellung 2: Umkreisende Bewegung. Die Familie sitzt um den Neujahrsabendtisch und stößt an. Aufsteigender Dampf und warmes Licht. <Geräusch von leise klirrendem Geschirr und Stäbchen>.
+Einstellung 3: Feste Kameraposition. Die ältere Person @Bild 1 gibt den Enkelkindern liebevoll lächelnd Essen in die Schüssel. Nahaufnahme der köstlichen Speisen auf dem Tisch mit unscharfem Hintergrund.
+Einstellung 4: Sanfte Verfolgungsaufnahme. Das Kind @Bild 3 hüpft mit einem roten Geldumschlag im Hof herum. Eine Reihe roter Laternen erstreckt sich entlang des Weges. <Helles, fröhliches Lachen>.
+Einstellung 5: Untersicht. Die ganze Familie @Bild 2 blickt staunend zum mit Feuerwerk gefüllten Himmel auf. Licht und Schatten überfluten die lächelnden Gesichter.
+Einstellung 6: Langsames Herauszoomen. Die ganze Familie steht vor der Haustür, hält die Gläser hoch und erstarrt unter einer großen roten Laterne. Untertitel erscheinen: 【Frohes neues Jahr und eine glückliche Familienzusammenkunft】. (Die fröhliche Musik klingt aus).
+Einschränkungen: Jede Person entspricht dem jeweiligen Referenzbild. Doppelgänger oder Zwillingscharaktere mit identischem Aussehen sind verboten; pro Einstellung nur eine Person von jedem Typ im Bild. Der warme Rotton der Laternen zieht sich durch den gesamten Film.
+Allgemeine Einschränkungen: Halten Sie den Film frei von Untertiteln (außer dem finalen). Generieren Sie kein Logo. Generieren Sie kein Wasserzeichen. Verwenden Sie pro Einstellung nur eine Kamerabewegungsart. Personen sollten sich natürlich und leicht bewegen, nicht wie Statuen.
 ```
 
 ### No. 2: Valentinstag Romantik

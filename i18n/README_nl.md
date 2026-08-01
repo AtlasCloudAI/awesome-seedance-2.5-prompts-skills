@@ -1124,7 +1124,7 @@ Algemene beperkingen: Houd het zonder ondertitels; genereer geen logo; genereer 
 
 ### Beauty & Mode (6)
 
-### No. 1: Lipstick Swatch
+### No. 1: Lippenstift Swatch
 
 - **Category:** `Beauty & Mode`
 - **Source:** `community`
@@ -1133,19 +1133,19 @@ Algemene beperkingen: Houd het zonder ondertitels; genereer geen logo; genereer 
 
 #### Description
 
-Using the lipstick from Image 1 (the bullet shade and tube logo should match Image 1) as the main subject, create a 30-second swatch video in vertical 9:16 format with high-saturation, beauty-quality aesthetics.
+Neem de lippenstift uit Afbeelding 1 (de kleur van de stift en het logo op de verpakking moeten overeenkomen met Afbeelding 1) als hoofdonderwerp, staand formaat 9:16, hoog verzadigde make-up esthetiek, genereer een 30 seconden durende swatch video.
 
 #### Prompt
 
 ```text
-Using the lipstick from Image 1 (the bullet shade and tube logo should match Image 1) as the main subject, create a 30-second swatch video in vertical 9:16 format with high-saturation, beauty-quality aesthetics.
-Shot 1: Extreme close-up, the lipstick bullet @Image 1 slowly twists up, with a velvety sheen shimmering, the camera slowly pushes in, (crisp electronic music starts) <light clicking sound of the cap>.
-Shot 2: Close-up, the camera smoothly pans horizontally across the lips, the bullet glides across leaving a full, rich color.
-Shot 3: Medium close-up, low-angle shot of the model smiling with pursed lips, the lip color showing under soft light, 【Today's Shade · True Red】.
-Shot 4: Close-up, the camera circles around the model's profile, the lip highlight glides as she turns her head.
-Shot 5: Medium shot, the model holds the lipstick @Image 1 and poses towards the mirror, the camera slowly pulls back, (music fades out).
-Constraints: The bullet shade and tube logo must match Image 1 and cannot be changed; the lip color must match the bullet shade.
-General Constraints: Keep it without subtitles; do not generate a Logo; do not generate watermarks; use only one camera movement per shot; the person should have natural, subtle movements, not be statue-like.
+Neem de lippenstift uit Afbeelding 1 (de kleur van de stift en het logo op de verpakking moeten overeenkomen met Afbeelding 1) als hoofdonderwerp, staand formaat 9:16, hoog verzadigde make-up esthetiek, genereer een 30 seconden durende swatch video.
+Shot 1: Extreem close-up, de lippenstift@Afbeelding 1 wordt langzaam uitgedraaid, fluwelen reflecties glinsteren, de camera zoomt langzaam in, (helder elektronische muziek begint) <licht klikgeluid van het draaien>.
+Shot 2: Close-up, de camera beweegt vloeiend horizontaal langs de lippen, de stift strijkt in één beweging over de lippen en laat een volle kleur achter.
+Shot 3: Medium close-up, laaghoek shot van model dat glimlachend de lippen op elkaar drukt, de lippenkleur komt tot zijn recht in zacht licht, 【Kleur van de dag · Echt rood】.
+Shot 4: Close-up, de camera cirkelt rond het zijaanzicht van het model, de lipglans stroomt mee met het draaien van het hoofd.
+Shot 5: Medium shot, model houdt de lippenstift@Afbeelding 1 vast en poseert voor de spiegel, de camera zoomt langzaam uit, (muziek eindigt).
+Beperkingen: De kleur van de stift en het logo op de verpakking moeten overeenkomen met Afbeelding 1 en mogen niet worden gewijzigd; de lippenkleur moet identiek zijn aan de kleur van de stift.
+Algemene beperkingen: Houd het zonder ondertitels; genereer geen Logo; genereer geen watermerk; gebruik slechts één camerabeweging per shot; de persoon moet natuurlijk en licht bewegen, niet als een standbeeld.
 ```
 
 ### No. 2: Foundation Aanbrengen
@@ -1468,7 +1468,7 @@ Beperkingen: Model en lakkleur zoals in Afbeelding 1; snelle cuts, elk shot focu
 Algemene beperkingen: Houd het ondertitelloos; genereer geen Logo; genereer geen watermerk; gebruik slechts één camerabeweging per shot; personen moeten natuurlijke, subtiele bewegingen hebben, niet als standbeelden.
 ```
 
-### No. 3: Off-road Scene
+### No. 3: Off-Road Scenario
 
 - **Category:** `Auto's`
 - **Source:** `community`
@@ -1477,22 +1477,22 @@ Algemene beperkingen: Houd het ondertitelloos; genereer geen Logo; genereer geen
 
 #### Description
 
-Using the off-road vehicle from Image 1 (model and paint color as per Image 1) as the main subject, landscape 16:9, rough wilderness documentary feel, generate a 30-second off-road short film.
+Verwijzend naar de terreinwagen in Afbeelding 1 (model en lakkleur zoals in Afbeelding 1) als hoofdonderwerp, liggend formaat 16:9, ruw wildernis documentaire stijl, genereer een 30 seconden durende off-road korte film.
 
 #### Prompt
 
 ```text
-Using the off-road vehicle from Image 1 (model and paint color as per Image 1) as the main subject, landscape 16:9, rough wilderness documentary feel, generate a 30-second off-road short film.
-Shot 1: Medium shot, the off-road vehicle @Image 1 charges up a sand dune, kicking up a wave of dust, camera follows, <sound of tires grinding on sand> (rousing drum music begins).
-Shot 2: Close-up, low-angle shot of wheels rolling over gravel, mud and sand splattering on the lens.
-Shot 3: Full shot, smooth lateral tracking shot following the vehicle wading through a shallow stream, water splashing.
-Shot 4: Extreme long shot, aerial shot looking down on the off-road vehicle traversing a trail in the wilderness, a long trail of dust behind it.
-Shot 5: Medium shot, the off-road vehicle @Image 1 reaches the top of a ridge and stops for a final frame, camera slowly rises and pulls back, (drum music concludes).
-Constraints: Vehicle model and paint color must match Image 1; off-road dynamics must conform to real terrain physics, no floating, skidding, or distortion.
-General constraints: Keep without subtitles; do not generate a Logo; do not generate a watermark; use only one camera movement per shot; people should have natural, slight movements, not be like statues.
+Verwijzend naar de terreinwagen in Afbeelding 1 (model en lakkleur zoals in Afbeelding 1) als hoofdonderwerp, liggend formaat 16:9, ruw wildernis documentaire stijl, genereer een 30 seconden durende off-road korte film.
+Shot 1: Medium shot, terreinwagen@Afbeelding 1 rijdt een zandduin op en werpt een stofwolk op, camera volgt, <geluid van banden die over zand knarsen> (opzwepende drummuziek begint).
+Shot 2: Close-up, laaghoekopname van wiel dat over steentjes rijdt, modder en zand spat op de lens.
+Shot 3: Wide shot, zijwaartse vloeiende pan om het voertuig te volgen dat door een ondiepe beek rijdt, water spat op.
+Shot 4: Extreme wide shot, vogelvluchtperspectief van terreinwagen die door sporen in de wildernis rijdt, een lange stofpluim achterlatend.
+Shot 5: Medium shot, terreinwagen@Afbeelding 1 bereikt de top van een bergkam en stopt in een gefixeerd beeld, camera tilt langzaam omhoog en trekt terug, (drummuziek eindigt).
+Beperkingen: Model en lakkleur zoals in Afbeelding 1; off-road dynamiek moet realistisch terreinfysica volgen, niet zweven, slippen of vervormd zijn.
+Algemene beperkingen: Houd het ondertitelvrij; genereer geen logo; genereer geen watermerk; gebruik slechts één camerabeweging per shot; personen moeten natuurlijke, subtiele beweging hebben, niet als standbeelden.
 ```
 
-### No. 4: Interior Showcase
+### No. 4: Interieurpresentatie
 
 - **Category:** `Auto's`
 - **Source:** `community`
@@ -1501,26 +1501,26 @@ General constraints: Keep without subtitles; do not generate a Logo; do not gene
 
 #### Description
 
-Using the car interior from Image 1 (materials and color scheme as per Image 1) as the main subject, landscape 16:9, warm, premium cabin lighting feel, generate a 30-second interior short film.
+Verwijzend naar de auto-interieur van Afbeelding 1 (materialen en kleurschema zoals in Afbeelding 1) als hoofdonderwerp, liggend formaat 16:9, warm en hoogwaardige cabine-lichtuitstraling, genereer een 30 seconden durende interieurfilm.
 
 #### Prompt
 
 ```text
-Using the car interior from Image 1 (materials and color scheme as per Image 1) as the main subject, landscape 16:9, warm, premium cabin lighting feel, generate a 30-second interior short film.
-Shot 1: Extreme close-up, the stitching on the leather seat @Image 1 undulates under warm light, camera slowly pans, (relaxed ambient music begins).
-Shot 2: Medium close-up, camera slowly pushes in on the central control screen, ambient lighting gradually illuminates.
-Shot 3: Close-up, orbiting around the steering wheel and paddle shifters, reflections flow on the metal trim.
-Shot 4: Medium shot, overhead shot of the full cabin, light from the sunroof pours down from above.
-Shot 5: Medium close-up, camera slowly rises to end on a final frame of the cabin, warm light suffuses, (music fades out) 【Tranquil Cabin】.
-Constraints: Materials and color scheme must match Image 1, do not change; do not fabricate specific UI content for the central control screen; warm cabin lighting tone must be consistent throughout.
-General constraints: Keep without subtitles; do not generate a Logo; do not generate a watermark; use only one camera movement per shot; people should have natural, slight movements, not be like statues.
+Verwijzend naar de auto-interieur van Afbeelding 1 (materialen en kleurschema zoals in Afbeelding 1) als hoofdonderwerp, liggend formaat 16:9, warm en hoogwaardige cabine-lichtuitstraling, genereer een 30 seconden durende interieurfilm.
+Shot 1: Extreme close-up, de stiknaad van het @Afbeelding 1 leren zitvlak golft onder warm licht, de camera beweegt langzaam zijwaarts, (ontspannende sfeermuziek begint).
+Shot 2: Medium close-up, de camera beweegt langzaam naar voren richting het centrale bedieningsscherm, sfeerverlichting licht geleidelijk op.
+Shot 3: Close-up, rondom het stuurwiel en de paddle shifters, reflecterende glans op de metalen accenten stroomt.
+Shot 4: Medium shot, vogelperspectief van de volledige cabine, licht van het panoramadak stroomt van bovenaf naar binnen.
+Shot 5: Medium close-up, de camera rijst langzaam op en eindigt met een gefixeerd beeld van de cabine, warm licht verspreidt zich, (muziek zwakt af)【Stille Cabine】.
+Beperkingen: Materialen en kleurschema zoals in Afbeelding 1, niet wijzigen; specifieke UI-inhoud van het centrale bedieningsscherm niet verzinnen; warme cabineverlichting gedurende de hele scène behouden.
+Algemene beperkingen: Geen ondertiteling behouden; geen Logo genereren; geen watermerk genereren; elk shot gebruikt slechts één camerabeweging; personen moeten natuurlijke, subtiele bewegingen hebben, geen standbeelden.
 ```
 
 <a id="category-14"></a>
 
 ### Vastgoed & Wonen (4)
 
-### No. 1: Living Room Space Walkthrough
+### No. 1: Woonkamerruimtewandeling
 
 - **Category:** `Vastgoed & Wonen`
 - **Source:** `community`
@@ -1529,22 +1529,22 @@ General constraints: Keep without subtitles; do not generate a Logo; do not gene
 
 #### Description
 
-Vertical 9:16, real estate quality promotional film, bright, airy, warm white tone, generate a 30-second living room space walkthrough short film.
+Verticaal formaat 9:16, promotiefilm voor woningkwaliteit, helder en transparant warm wit, genereer een 30 seconden durende korte film van een woonkamerruimtewandeling.
 
 #### Prompt
 
 ```text
-Vertical 9:16, real estate quality promotional film, bright, airy, warm white tone, generate a 30-second living room space walkthrough short film.
-Shot 1: Fixed camera position, morning light slants into the empty living room from floor-to-ceiling windows, dust floats in the light beams, (gentle piano music begins).
-Shot 2: Smooth pan, camera glides close to the ground past wooden flooring and a beige fabric sofa, pillow textures are clear, <soft sound of footsteps>.
-Shot 3: Slow push-in, focus on a cup of steaming coffee and an open book on the coffee table, warm light falls on them, (strings layer in).
-Shot 4: Crane up, camera position slowly lifts from the ground, revealing the open layout connecting the living room and open-plan kitchen/dining area, 【Floor area 98㎡, North-South orientation, well-ventilated】.
-Shot 5: Slow pull-back, retreats to the entrance hall looking back at the depth of the entire living room, warm white final frame, (music concludes).
-Constraints: No people appear throughout; furniture and decor style must be unified as modern minimalist with wood accents; lighting must maintain consistent morning warm white.
-General constraints: Keep without subtitles; do not generate a Logo; do not generate a watermark; use only one camera movement per shot; people should have natural, slight movements, not be like statues.
+Verticaal formaat 9:16, promotiefilm voor woningkwaliteit, helder en transparant warm wit, genereer een 30 seconden durende korte film van een woonkamerruimtewandeling.
+Beeld 1: Vaste camerapositie, ochtendlicht valt schuin binnen door het vloer-tot-plafondraam in de lege woonkamer, stofdeeltjes zweven in de lichtbundel, (zachte piano begint).
+Beeld 2: Vloeiende zijwaartse beweging, de camera glijdt dicht over de houten vloer en de beige stoffen bank, de textuur van de kussens is duidelijk, <zacht voetstapgeluid>.
+Beeld 3: Langzaam inzoomen, focus op een kop dampende koffie en een open boek op de salontafel, warm licht valt erop, (strijkers komen erbij).
+Beeld 4: Omhoog/omlaag beweging, camerapositie komt langzaam omhoog vanaf de vloer, toont de transparante indeling van de woonkamer en de open keuken/eethoek, 【Woonoppervlakte 98㎡, doorstroom noord-zuid】.
+Beeld 5: Langzaam uitzoomen, terugtrekken naar de hal en terugkijkend over de diepte van de hele woonkamer, warm wit bevriest het beeld, (muziek eindigt).
+Beperkingen: Geen personen in beeld gedurende de hele film; meubels en inrichting hebben een uniforme stijl van modern minimalistisch hout; het licht blijft consistent warm wit ochtendlicht.
+Algemene beperkingen: Geen ondertiteling; geen logo genereren; geen watermerk genereren; elke scène gebruikt slechts één camerabeweging; personen moeten natuurlijke, subtiele bewegingen hebben, geen standbeelden.
 ```
 
-### No. 2: Kitchen Details
+### No. 2: Keukendetails
 
 - **Category:** `Vastgoed & Wonen`
 - **Source:** `community`
@@ -1553,22 +1553,22 @@ General constraints: Keep without subtitles; do not generate a Logo; do not gene
 
 #### Description
 
-Vertical 9:16, high-end appliance texture advertisement, cool metallic gray paired with warm wood tones, generate a 30-second kitchen details short film.
+Verticaal formaat 9:16, hoogwaardige huishoudelijke apparaten textuur advertentie, koele metaalgrijs gecombineerd met warm houttint, genereer een 30 seconden korte film over keukendetails.
 
 #### Prompt
 
 ```text
-Vertical 9:16, high-end appliance texture advertisement, cool metallic gray paired with warm wood tones, generate a 30-second kitchen details short film.
-Shot 1: Close-up, water pours from a faucet into a stainless steel sink, water droplets splash in slow motion, <sound of rushing water>.
-Shot 2: Smooth pan, camera slides along a quartz countertop past knives, a cutting board, and fresh fruits/vegetables, cool light highlights them, (lively rhythm begins).
-Shot 3: Slow push-in, a drawer automatically slides out to reveal compartmentalized storage and matte handles, warm wood tones, <sound of smooth drawer gliding>.
-Shot 4: Overhead shot, blue gas flame ignites on the stove, oil sizzles in a pan, steam rises, <click of ignition><sizzle of oil>.
-Shot 5: Low-angle shot, camera looks up from the stove towards the range hood and integrated light strip above, metallic reflections, 【Integrated Built-in Kitchen Appliances】, (music concludes).
-Constraints: No people appear throughout; countertops must remain tidy and clutter-free; texture of metal and wood materials must be consistent throughout.
-General constraints: Keep without subtitles; do not generate a Logo; do not generate a watermark; use only one camera movement per shot; people should have natural, slight movements, not be like statues.
+Verticaal formaat 9:16, hoogwaardige huishoudelijke apparaten textuur advertentie, koele metaalgrijs gecombineerd met warm houttint, genereer een 30 seconden korte film over keukendetails.
+Beeld 1: Close-up, water stroomt uit de kraan in een roestvrijstalen gootsteen, waterdruppels spatten in slow motion, <water stroomt ruisend>.
+Beeld 2: Vloeiende zijwaartse beweging, de camera glijdt langs het kwartsstenen aanrecht over messen, snijplanken en verse groenten, koud licht verheldert, (licht ritme begint).
+Beeld 3: Langzaam inzoomen, een lade schuift automatisch uit om opbergvakken en matte handgrepen te tonen, warme houttinten, <gladde railsgeluid van de lade>.
+Beeld 4: Vogelperspectief, blauwe vlam van het gasfornuis ontsteekt, olie spettert in de pan, stoom stijgt op, <klikgeluid van ontsteking><sissend geluid van spetterende olie>.
+Beeld 5: Kikkerperspectief, camerapositie kijkt vanaf het fornuis omhoog naar de afzuigkap en geïntegreerde lichtstrook, metaalreflectie, 【Geïntegreerde inbouwkeukenapparatuur】, (muziek eindigt).
+Beperkingen: Gedurende de hele scène verschijnen er geen personen; het aanrecht blijft altijd opgeruimd en zonder rommel; de textuur van metaal en hout moet consistent zijn.
+Algemene beperkingen: Houd het ondertitelvrij; genereer geen logo; genereer geen watermerk; gebruik per beeld slechts één camerabeweging; personen moeten natuurlijke, subtiele bewegingen hebben, niet als standbeelden.
 ```
 
-### No. 3: Floor Plan Overhead View (Schematic)
+### No. 3: Vogelvlucht op plattegrond (schematisch)
 
 - **Category:** `Vastgoed & Wonen`
 - **Source:** `community`
@@ -1577,22 +1577,22 @@ General constraints: Keep without subtitles; do not generate a Logo; do not gene
 
 #### Description
 
-Landscape 16:9, architectural visualization schematic style, clean white model with soft skylight, generate a 30-second floor plan overhead schematic short film.
+Liggend formaat 16:9, architectuurvisualisatie stijl, schoon wit model met zacht hemellicht, genereer een 30 seconden durende korte film met een schematische vogelvlucht op de plattegrond.
 
 #### Prompt
 
 ```text
-Landscape 16:9, architectural visualization schematic style, clean white model with soft skylight, generate a 30-second floor plan overhead schematic short film.
-Shot 1: Overhead shot, directly vertical top-down view of the complete floor plan white model, partition lines are clear, (minimal electronic sound begins).
-Shot 2: Slow push-in, camera descends through the "vanished ceiling" into the schematic living room area, furniture appears semi-transparent, <space transition sound effect>.
-Shot 3: Orbit, rotates once around the schematic master bedroom area, showing the bay window and walk-in closet circulation, soft light gradually brightens, (rhythm intensifies).
-Shot 4: Smooth pan, glides along the schematic corridor circulation towards the secondary bedroom and bathroom, annotations appear, 【Three bedrooms, two living rooms, dynamic and static zones separated】.
-Shot 5: Crane up, camera position rises back to the global overhead view and overlays area data, skylight final frame, (music concludes).
-Constraints: Entire video must be a schematic white model, not a real scene, must include the annotation "Schematic for reference only"; floor plan proportions and structure must be consistent throughout; no real people or furniture.
-General constraints: Keep without subtitles; do not generate a Logo; do not generate a watermark; use only one camera movement per shot; people should have natural, slight movements, not be like statues.
+Liggend formaat 16:9, architectuurvisualisatie stijl, schoon wit model met zacht hemellicht, genereer een 30 seconden durende korte film met een schematische vogelvlucht op de plattegrond.
+Shot 1: Bovenaanzicht, recht van boven verticaal neerkijkend op het volledige witte model van de plattegrond, scheidingslijnen duidelijk, (minimalistisch elektronisch geluid begint).
+Shot 2: Langzaam inzoomen, camera daalt af door het 'verdwenen plafond' de woonkamer schematische zone in, meubels halfdoorzichtig weergegeven, <geluidseffect van ruimtewisseling>.
+Shot 3: Omcirkelend, een volledige rotatie rond de schematische zone van de hoofdslaapkamer, toont erker en looproute naar de kleedkamer, zacht licht wordt geleidelijk helderder, (ritme wordt geleidelijk intenser).
+Shot 4: Gelijkmatige zijwaartse beweging, glijdend langs de schematische looproute van de gang naar de extra slaapkamer en badkamer, labels verschijnen, 【drie slaapkamers twee woonkamers  rustige en levendige zones gescheiden】.
+Shot 5: Opstijgend, camerapositie gaat omhoog terug naar het globale bovenaanzicht en voegt oppervlaktegegevens toe, hemellicht bevriest, (muziek eindigt).
+Beperkingen: Geheel een schematisch wit model, geen echte opnames, moet de tekst 'Schematische weergave, alleen ter referentie' bevatten; verhoudingen en structuur van de plattegrond consistent door de hele video; geen echte personen of meubels.
+Algemene beperkingen: Houd het ondertitelloos; genereer geen logo; genereer geen watermerk; gebruik per shot slechts één type camerabeweging; personen moeten natuurlijke, subtiele bewegingen hebben, niet als standbeelden.
 ```
 
-### No. 4: Bedroom Ambiance
+### No. 4: Slaapkamer sfeer
 
 - **Category:** `Vastgoed & Wonen`
 - **Source:** `community`
@@ -1601,19 +1601,19 @@ General constraints: Keep without subtitles; do not generate a Logo; do not gene
 
 #### Description
 
-Vertical 9:16, slow living ambiance advertisement, warm orange night light soft tone, generate a 30-second bedroom ambiance short film.
+Portret 9:16, slow-life sfeerreclame, warm oranje nachtlamp zacht licht, genereer een 30 seconden durende sfeerfilm van een slaapkamer.
 
 #### Prompt
 
 ```text
-Vertical 9:16, slow living ambiance advertisement, warm orange night light soft tone, generate a 30-second bedroom ambiance short film.
-Shot 1: Fixed camera position, bedside warm light turns on instantly, illuminating plain bedding and half-drawn curtains, (ambient music begins).
-Shot 2: Slow push-in, camera moves close to the pillow, gliding past soft bedding folds and an open book, light and shadow gradually warm, <sound of light rain outside the window>.
-Shot 3: Smooth pan, glides along the foot of the bed past plants and a diffuser on the bay window, warm orange light glow flows, (gentle piano notes).
-Shot 4: Crane up, camera position slowly lifts to look down on the entire bed and the soft light from the pendant lamp, creating a sense of enveloping sleep comfort, 【Bedroom with excellent natural light and ventilation】.
-Shot 5: Slow pull-back, retreats to the doorway looking back at the full view of the bedroom under the warm light, soft tone final frame, (music concludes).
-Constraints: No people appear throughout; lighting must maintain consistent warm orange night tone; bedding and decor must maintain a unified simple and elegant style.
-General constraints: Keep without subtitles; do not generate a Logo; do not generate a watermark; use only one camera movement per shot; people should have natural, slight movements, not be like statues.
+Portret 9:16, slow-life sfeerreclame, warm oranje nachtlamp zacht licht, genereer een 30 seconden durende sfeerfilm van een slaapkamer.
+Shot 1: Vaste camerapositie, het aangaan van het warme nachtlampje op het nachtkastje verlicht direct het effen beddengoed en de half gesloten gordijnen, (sfeermuziek begint).
+Shot 2: Langzaam inzoomen, de lens komt dicht bij het kussen, glijdt langs de zachte plooien van het dekbed en een openliggend boek, het licht en schaduw worden geleidelijk warmer, <geluid van zachte regen buiten het raam>.
+Shot 3: Gelijkmatige zijwaartse beweging, glijd langs het voeteneinde van het bed over de kamerplant en geurkaars op de erker, warm oranje lichtgloed stroomt, (lichte pianotonen).
+Shot 4: Verticaal bewegen, camerapositie tilt langzaam op voor een bovenaanzicht van het hele bed en het zachte licht van het hanglampje, creëert een gevoel van omslotenheid voor de slaap, 【de slaapkamer heeft uitstekend daglicht en ventilatie】.
+Shot 5: Langzaam uitzoomen, terugtrekken naar de deuropening voor een laatste blik op het panoramabeeld van de slaapkamer in het warme licht, zachte belichting bevriest het beeld, (muziek eindigt).
+Beperkingen: Geen personen in beeld gedurende de hele video; verlichting behoudt een consistente warme oranje nachtelijke sfeer; beddengoed en inrichting behouden een verenigde stijl van eenvoudige elegantie.
+Algemene beperkingen: Houd het ondertitelloos; genereer geen logo; genereer geen watermerk; gebruik slechts één type camerabeweging per shot; personen moeten natuurlijke, subtiele bewegingen hebben, niet als standbeelden.
 ```
 
 <a id="category-15"></a>
@@ -1768,7 +1768,7 @@ Algemene beperkingen: Houd het zonder ondertitels; genereer geen Logo; genereer 
 
 ### Korte Series / Emotionele Verhalen (8)
 
-### No. 1: Convenience Store Reunion (Emotional Reversal)
+### No. 1: Wederzien in de buurtwinkel (emotionele omslag)
 
 - **Category:** `Korte Series / Emotionele Verhalen`
 - **Source:** `community`
@@ -1777,21 +1777,21 @@ Algemene beperkingen: Houd het zonder ondertitels; genereer geen Logo; genereer 
 
 #### Description
 
-Refer to the female lead in Image 1 and the male lead in Image 3 (their facial makeup/hairstyles should match the corresponding images), vertical 9:16, cinematic realism, cold blue transitioning to warm orange, generate a 30-second emotional short drama.
+Verwijs naar de vrouwelijke hoofdpersoon in Afbeelding 1 en de mannelijke hoofdpersoon in Afbeelding 3 (hun gezichtsstyling moet overeenkomen met de respectievelijke afbeeldingen), staand formaat 9:16, filmisch realisme, koud blauw verandert in warm oranje, genereer een 30 seconden durend emotioneel kortdrama.
 
 #### Prompt
 
 ```text
-Refer to the female lead in Image 1 and the male lead in Image 3 (their facial makeup/hairstyles should match the corresponding images), vertical 9:16, cinematic realism, cold blue transitioning to warm orange, generate a 30-second emotional short drama.
-Shot 1: Wide shot, female lead @Image 1 leans against the window alone, head down stirring coffee, cold blue night tone, camera slowly pushes in, (piano starts softly).
-Shot 2: Medium close-up, male lead @Image 3 pushes the door into frame, female lead @Image 1 looks up stunned, fixed camera with breathing sensation, <doorbell dings>.
-Shot 3: Close-up, cut to alternating shots between the two, color tone gradually warms, male lead @Image 3 says softly {I'm here to pick you up}, (piano intensifies).
-Shot 4: Close-up, female lead @Image 1 eyes redden, corners of mouth turn up, camera slowly pulls out, warm orange freeze frame, (music resolves).
-Constraints: Male and female lead faces must remain consistent with corresponding images throughout; convenience store scene is fixed; emotional reversal externalized through reddening eyes and trembling lips; doppelgangers/twins prohibited.
-General constraints: Keep no subtitles; do not generate Logo; do not generate watermarks; use only one camera movement per shot; characters need natural slight movement, not statues.
+Verwijs naar de vrouwelijke hoofdpersoon in Afbeelding 1 en de mannelijke hoofdpersoon in Afbeelding 3 (hun gezichtsstyling moet overeenkomen met de respectievelijke afbeeldingen), staand formaat 9:16, filmisch realisme, koud blauw verandert in warm oranje, genereer een 30 seconden durend emotioneel kortdrama.
+Shot 1: Totaalshot, vrouwelijke hoofdpersoon @Afbeelding 1 leunt alleen tegen het raam, hoofd gebogen, roert in haar koffie, koud blauwe nachttoon, camera beweegt langzaam naar voren, (piano begint zacht).
+Shot 2: Middelgroot close-up shot, mannelijke hoofdpersoon @Afbeelding 3 komt in beeld door de deur te openen, vrouwelijke hoofdpersoon @Afbeelding 1 kijkt op en bevriest, vaste camerapositie met ademhalingsgevoel, <deurbel rinkelt>.
+Shot 3: Close-up, camera snijdt heen en weer tussen de twee personen, kleurtemperatuur wordt geleidelijk warmer, mannelijke hoofdpersoon @Afbeelding 3 zegt zacht {Ik ben je komen halen}, (piano wordt geleidelijk sterker).
+Shot 4: Close-up, vrouwelijke hoofdpersoon @Afbeelding 1 krijgt vochtige ogen en de mondhoeken krullen omhoog, camera trekt langzaam terug, warm oranje bevriest het beeld, (muziek sterft weg).
+Beperkingen: De gezichten van de mannelijke en vrouwelijke hoofdpersoon moeten gedurende de hele scène consistent zijn met de overeenkomstige afbeeldingen; de buurtwinkelsetting is vast; de emotionele omslag wordt geuit door vochtige ogen en trillende mondhoeken; verboden om dubbelgangers of tweelingen te genereren.
+Algemene beperkingen: Houd het ondertitelvrij; genereer geen logo; genereer geen watermerk; gebruik per shot slechts één type camerabeweging; personages moeten natuurlijke, subtiele bewegingen hebben en niet op standbeelden lijken.
 ```
 
-### No. 2: Rainy Night Monologue
+### No. 2: Monoloog op een regenachtige avond
 
 - **Category:** `Korte Series / Emotionele Verhalen`
 - **Source:** `community`
@@ -1800,22 +1800,22 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 
 #### Description
 
-Protagonist bound to @Image 2 (facial makeup/hairstyle should match the corresponding image), vertical 9:16, cool-toned literary realism, bluish-grey rainy night low saturation, generate a 30-second emotional monologue short film.
+Hoofdrol gebonden aan @Image 2 (gezichtsmake-up volgens de overeenkomstige afbeelding), verticaal formaat 9:16, koel getinte literaire realistische stijl, grijsblauwe regenachtige nacht met lage verzadiging, genereer een 30 seconden durende emotionele monoloog korte film.
 
 #### Prompt
 
 ```text
-Protagonist bound to @Image 2 (facial makeup/hairstyle should match the corresponding image), vertical 9:16, cool-toned literary realism, bluish-grey rainy night low saturation, generate a 30-second emotional monologue short film.
-Shot 1: Close-up, rainwater trickles down the glass window, protagonist's @Image 2 blurred reflection appears behind the glass, fixed camera, <sound of light rain> (low cello starts).
-Shot 2: Slowly push in, protagonist @Image 2 presses against the window gazing at the rainy night streetlights, fingertips touching the cold glass, bluish-grey cold light, {Some words can only be told to the rain}.
-Shot 3: Smooth pan, camera glides past a phone with screen off and half-cooled tea on the table, protagonist's @Image 2 profile enters frame, (cello intensifies).
-Shot 4: Medium close-up, protagonist @Image 2 takes a deep breath and closes eyes, a tear traces cheek overlapping with raindrop on window, slowly push in, <rain intensifies>.
-Shot 5: Slowly pull out, protagonist @Image 2 opens eyes, pulls a relieved faint smile and turns away from the window, bluish-grey freeze frame, (music resolves).
-Constraints: Protagonist's face must remain consistent with Image 2 throughout; emotion externalized through fingertips against window and tear trace, prohibit explicit dialogue saying "I'm very sad"; rainy night bluish-grey tone and scene consistent throughout.
-General constraints: Keep no subtitles; do not generate Logo; do not generate watermarks; use only one camera movement per shot; characters need natural slight movement, not statues.
+Hoofdrol gebonden aan @Image 2 (gezichtsmake-up volgens de overeenkomstige afbeelding), verticaal formaat 9:16, koel getinte literaire realistische stijl, grijsblauwe regenachtige nacht met lage verzadiging, genereer een 30 seconden durende emotionele monoloog korte film.
+Shot 1: Close-up, regenwater kronkelt langs het raam naar beneden, een wazige reflectie van de hoofdrol @Image 2 verschijnt achter het raam, vaste camerapositie, <geluid van zacht ruisende regen> (lage cello begint).
+Shot 2: Langzaam inzoomen, hoofdrol @Image 2 kijkt tegen het raam aan en staart naar de straatlantaarns in de regenachtige nacht, vingertop drukt tegen het koude glas, grijsblauw koel licht, {sommige dingen kan je alleen aan de regen vertellen}.
+Shot 3: Vloeiende zijwaartse beweging, de camera glijdt langs een uitgeschakelde telefoon en lauwe thee op tafel, hoofdrol @Image 2 komt in beeld met zijaanzicht, (cello wordt geleidelijk sterker).
+Shot 4: Medium close-up, hoofdrol @Image 2 haalt diep adem en sluit de ogen, een traan glijdt over de wang en overlapt met een regenspoor op het raam, langzaam inzoomen, <de regen wordt heviger>.
+Shot 5: Langzaam uitzoomen, hoofdrol @Image 2 opent de ogen, toont een verlichte lichte glimlach en draait zich weg van het raam, grijsblauwe freeze-frame, (muziek eindigt).
+Beperkingen: Het gezicht van de hoofdrol moet gedurende de hele scène consistent zijn met Image 2; emoties worden geuit via de vingertop tegen het raam en de tranenspoor, expliciete dialoog zoals "ik ben verdrietig" is verboden; het grijsblauwe regenachtige nachtkleurenschema en de setting moeten gedurende de hele scène consistent zijn.
+Algemene beperkingen: Houd het ondertitelvrij; genereer geen logo; genereer geen watermerk; gebruik slechts één type camerabeweging per shot; personages moeten natuurlijke, subtiele bewegingen hebben en niet op standbeelden lijken.
 ```
 
-### No. 3: Family Dining Table
+### No. 3: Familie aan tafel
 
 - **Category:** `Korte Series / Emotionele Verhalen`
 - **Source:** `community`
@@ -1824,22 +1824,22 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 
 #### Description
 
-Refer to the mother in Image 1, the father in Image 2, and the child in Image 4 (their facial makeup/hairstyles should match the corresponding images), horizontal 16:9, warm life realism, warm yellow home tone, generate a 30-second family emotional short film.
+Verwijs naar de moeder in Afbeelding 1, de vader in Afbeelding 2 en het kind in Afbeelding 4 (gezichtsstyling volgens de respectievelijke afbeeldingen), liggend formaat 16:9, warme en realistische huiselijke sfeer met een warm geel tint, genereer een 30 seconden durende familiale emotionele korte film.
 
 #### Prompt
 
 ```text
-Refer to the mother in Image 1, the father in Image 2, and the child in Image 4 (their facial makeup/hairstyles should match the corresponding images), horizontal 16:9, warm life realism, warm yellow home tone, generate a 30-second family emotional short film.
-Shot 1: Wide shot, family of three sits around dining table, steam rises from hot dishes, mother @Image 1 is serving food to child @Image 4, warm yellow lighting, fixed camera, (warm folk song starts) <clinking of bowls and chopsticks>.
-Shot 2: Medium close-up, father @Image 2 smilingly serves soup to mother @Image 1, they exchange a smile, slowly push in, <spoon clinks>.
-Shot 3: Close-up, child @Image 4 puffs cheeks eating heartily, looks up with a wide grin, warm light falls on face, cut to this shot.
-Shot 4: Medium shot, mother @Image 1 reaches out to wipe corner of father's @Image 2 mouth, father pauses then holds her hand, smooth pan, (folk song warms up).
-Shot 5: Slowly crane up, camera rises to look down on the table full of food and the family leaning together, warm yellow freeze frame, (music resolves).
-Constraints: Three characters' faces strictly match corresponding images, mother/father/child body/age distinctions clear, prohibit doppelgangers/twins or facial confusion; table dishes and warm yellow home scene consistent throughout.
-General constraints: Keep no subtitles; do not generate Logo; do not generate watermarks; use only one camera movement per shot; characters need natural slight movement, not statues.
+Verwijs naar de moeder in Afbeelding 1, de vader in Afbeelding 2 en het kind in Afbeelding 4 (gezichtsstyling volgens de respectievelijke afbeeldingen), liggend formaat 16:9, warme en realistische huiselijke sfeer met een warm geel tint, genereer een 30 seconden durende familiale emotionele korte film.
+Shot 1: Totaalshot, een gezin van drie zit rond de eettafel, warme gerechten stijgen op met witte damp, moeder@Afbeelding 1 geeft het kind@Afbeelding 4 eten, warm geel licht, vaste camerapositie, (warme folk muziek begint) <geluid van bestek>.
+Shot 2: Medium close-up, vader@Afbeelding 2 lacht terwijl hij soep voor moeder@Afbeelding 1 opschept, ze kijken elkaar aan en glimlachen, langzaam inzoomen, <geluid van soeplepel>.
+Shot 3: Close-up, kind@Afbeelding 4 met volle wangen eet gulzig, kijkt op en grijnst breed, warm licht valt op het gezicht, cut naar dit shot.
+Shot 4: Medium shot, moeder@Afbeelding 1 reikt uit om de hoek van de mond van vader@Afbeelding 2 schoon te vegen, vader schrikt even en houdt dan haar hand vast, vloeiende zijwaartse beweging, (folk muziek wordt warmer).
+Shot 5: Langzame tilt, camera tilt omhoog voor een bovenaanzicht op het volle tafelblad en het samenzittende gezin, warm geel bevriest het beeld, (muziek eindigt).
+Beperkingen: De gezichten van de drie personages moeten strikt overeenkomen met de respectievelijke afbeeldingen, het lichaam en de leeftijd van moeder/vader/kind moeten duidelijk onderscheidbaar zijn; verboden om dubbelgangers, tweelingen of verwarde gezichten te genereren; de gerechten op tafel en de warme huiselijke setting moeten consistent zijn door de hele scène.
+Algemene beperkingen: Houd het ondertitelloos; genereer geen logo; genereer geen watermerk; gebruik slechts één camerabeweging per shot; personages moeten natuurlijke, subtiele bewegingen hebben en niet op standbeelden lijken.
 ```
 
-### No. 4: Farewell at the Station
+### No. 4: Afscheidsstation
 
 - **Category:** `Korte Series / Emotionele Verhalen`
 - **Source:** `community`
@@ -1848,22 +1848,22 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 
 #### Description
 
-Refer to the female lead in Image 1 and the male lead in Image 3 (their facial makeup/hairstyles should match the corresponding images), horizontal 16:9, cinematic realism, cool-toned platform with slightly warm backlight, generate a 30-second farewell emotional short film.
+Verwijs naar de vrouwelijke hoofdpersoon in Afbeelding 1 en de mannelijke hoofdpersoon in Afbeelding 3 (hun gezichtsstyling volgens de respectievelijke afbeeldingen), liggend formaat 16:9, filmisch realisme, koud kleurenpalet perron met warm tegenlicht, genereer een 30 seconden durende emotionele korte film over afscheid.
 
 #### Prompt
 
 ```text
-Refer to the female lead in Image 1 and the male lead in Image 3 (their facial makeup/hairstyles should match the corresponding images), horizontal 16:9, cinematic realism, cool-toned platform with slightly warm backlight, generate a 30-second farewell emotional short film.
-Shot 1: Wide shot, platform bustling with people, female lead @Image 1 and male lead @Image 3 stand facing each other holding hands tightly, train beside them, cool tone backlight, slowly push in, (strings play low) <train arrival announcement>.
-Shot 2: Close-up, their tightly clasped fingers slowly tighten then reluctantly loosen, warm backlight outlines them, fixed camera.
-Shot 3: Medium close-up, male lead @Image 3 raises hand to tuck female lead's @Image 1 wind-blown hair behind ear, hesitates to speak, slowly push in, {When you arrive... remember to let me know you're safe}.
-Shot 4: Medium shot, male lead @Image 3 turns and boards train, female lead @Image 1 stands still, shoulders trembling slightly holding back tears, smooth pan, (strings rise) <door closing warning sound>.
-Shot 5: Slowly pull out, train departs, female lead @Image 1 stands alone on empty platform, backlit silhouette, cool tone freeze frame, (music resolves).
-Constraints: Male and female lead faces must remain consistent with corresponding images throughout; farewell emotion externalized through tightening fingers and trembling shoulders, prohibit explicit crying/yelling; station scene and cool/warm backlight consistent throughout; doppelgangers/twins prohibited.
-General constraints: Keep no subtitles; do not generate Logo; do not generate watermarks; use only one camera movement per shot; characters need natural slight movement, not statues.
+Verwijs naar de vrouwelijke hoofdpersoon in Afbeelding 1 en de mannelijke hoofdpersoon in Afbeelding 3 (hun gezichtsstyling volgens de respectievelijke afbeeldingen), liggend formaat 16:9, filmisch realisme, koud kleurenpalet perron met warm tegenlicht, genereer een 30 seconden durende emotionele korte film over afscheid.
+Shot 1: Totaalshot, perron vol mensen, vrouwelijke hoofdpersoon @Afbeelding 1 en mannelijke hoofdpersoon @Afbeelding 3 staan tegenover elkaar en houden elkaars handen stevig vast, trein op de achtergrond, koud kleurenpalet tegenlicht, langzaam inzoomen, (lage strijkers beginnen) <Omroep aankomende trein>.
+Shot 2: Close-up, hun ineengestrengelde vingers knijpen langzaam steviger en laten dan aarzelend los, warm tegenlicht tekent contouren, vaste camerapositie.
+Shot 3: Medium close-up, mannelijke hoofdpersoon @Afbeelding 3 brengt zijn hand omhoog en strijkt een losse haar van de vrouwelijke hoofdpersoon @Afbeelding 1 achter haar oor, hij lijkt iets te willen zeggen maar zwijgt, langzaam inzoomen, {Zorg dat je… laat even weten dat je veilig bent aangekomen}.
+Shot 4: Medium shot, mannelijke hoofdpersoon @Afbeelding 3 draait zich om en stapt in de trein, vrouwelijke hoofdpersoon @Afbeelding 1 staat op haar plaats, haar schouders trillen lichtjes terwijl ze haar tranen inhoudt, vloeiende zijwaartse beweging, (strijkers worden intenser) <Geluidssignaal sluitende deuren>.
+Shot 5: Langzaam uitzoomen, de trein vertrekt, vrouwelijke hoofdpersoon @Afbeelding 1 staat alleen op het lege perron als een silhouet tegen het licht, koud kleurenpalet bevriest het beeld, (muziek sterft weg).
+Beperkingen: Gezichten van de hoofdpersonen moeten gedurende de hele scène consistent zijn met de overeenkomstige afbeeldingen; afscheidsemotie uitgedrukt door samengeknepen vingers en trillende schouders, expliciet huilen of schreeuwen is verboden; perronscène en koud/warm tegenlicht moeten gedurende de hele scène consistent zijn; verboden om dubbelgangers of tweelingen te genereren.
+Algemene beperkingen: Houd het vrij van ondertitels; genereer geen logo; genereer geen watermerk; gebruik slechts één type camerabeweging per shot; personages moeten natuurlijke, subtiele bewegingen hebben, niet als standbeelden.
 ```
 
-### No. 5: Workplace Highlight
+### No. 5: Hoogtepunt op de Werkplek
 
 - **Category:** `Korte Series / Emotionele Verhalen`
 - **Source:** `community`
@@ -1872,22 +1872,22 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 
 #### Description
 
-Protagonist bound to @Image 2 (facial makeup/hairstyle should match the corresponding image), horizontal 16:9, business motivational realism, cold blue steel/glass texture transitioning to golden light, generate a 30-second workplace inspirational short film.
+Hoofdpersoon gebonden aan @Afbeelding 2 (gezichtsmake-up en styling volgens de referentieafbeelding), liggend formaat 16:9, zakelijke, motiverende realistische stijl, koude blauwe staalglas textuur verandert in gouden gloed, genereer een 30 seconden durende inspirerende korte film over carrière.
 
 #### Prompt
 
 ```text
-Protagonist bound to @Image 2 (facial makeup/hairstyle should match the corresponding image), horizontal 16:9, business motivational realism, cold blue steel/glass texture transitioning to golden light, generate a 30-second workplace inspirational short film.
-Shot 1: Medium close-up, protagonist @Image 2 sits alone in late-night office frowning at screen full of data, cold blue screen light reflects on face, fixed camera, (low drumbeat starts) <intense keyboard typing>.
-Shot 2: Slowly push in, protagonist @Image 2 suddenly looks up, eyes light up, grabs pen to circle key point, screen light brightens abruptly, <inspiration strike sound effect>.
-Shot 3: Follow shot, protagonist @Image 2 stands up, strides through hallway pushing open conference room door, camera follows from behind, (drumbeat intensifies).
-Shot 4: Low angle shot, protagonist @Image 2 stands before floor-to-ceiling window confidently presenting to the group, city skyline as background, backlit gilded, {This is our answer}.
-Shot 5: Slowly orbit, entire room stands applauding, protagonist @Image 2 relaxes and reveals a smile, golden light freeze frame, (music climax resolves) <thunderous applause>.
-Constraints: Protagonist's face must remain consistent with Image 2 throughout; emotional arc externalized from frowning to relaxing, cold blue to golden light corresponds to low point to highlight; office scene coherent and consistent.
-General constraints: Keep no subtitles; do not generate Logo; do not generate watermarks; use only one camera movement per shot; characters need natural slight movement, not statues.
+Hoofdpersoon gebonden aan @Afbeelding 2 (gezichtsmake-up en styling volgens de referentieafbeelding), liggend formaat 16:9, zakelijke, motiverende realistische stijl, koude blauwe staalglas textuur verandert in gouden gloed, genereer een 30 seconden durende inspirerende korte film over carrière.
+Shot 1: Medium close-up, hoofdpersoon @Afbeelding 2 zit alleen 's nachts op kantoor en fronst naar een scherm vol data, koud blauw schermlicht weerkaatst op het gezicht, vaste camerapositie, (lage drumbeat begint) <dicht toetsaanslaggeluid>.
+Shot 2: Langzaam inzoomen, hoofdpersoon @Afbeelding 2 kijkt plotseling op, ogen lichtten op, pakt een pen en omcirkelt het cruciale punt, schermlicht flitst helder op, <geluid van een ingeving>.
+Shot 3: Volgshot, hoofdpersoon @Afbeelding 2 staat op en loopt met grote passen door de gang, duwt de vergaderkamerdeur open, camera volgt van dichtbij het achterhoofd, (drumbeat wordt geleidelijk sterker).
+Shot 4: Laaghoekshot, hoofdpersoon @Afbeelding 2 staat voor het raam met uitzicht op de stad, presenteert vol vertrouwen aan het publiek, stedelijke skyline op de achtergrond, tegenlicht creëert gouden rand, {Dit is ons antwoord}.
+Shot 5: Langzame ronddraaiende beweging, iedereen staat op en applaudisseert, hoofdpersoon @Afbeelding 2 haalt opgelucht adem en glimlacht, gouden gloed bevriest het beeld, (muziek bereikt een hoogtepunt en ebt weg) <luid applaus>.
+Beperkingen: Het gezicht van de hoofdpersoon moet gedurende de hele scène consistent zijn met Afbeelding 2; emotionele boog van fronsen naar ontspanning wordt naar buiten gebracht, overgang van koud blauw naar gouden gloed correspondeert met dieptepunt naar hoogtepunt; kantooromgeving moet consistent en samenhangend zijn.
+Algemene beperkingen: Houd het ondertitelloos; genereer geen logo; genereer geen watermerk; gebruik slechts één camerabeweging per shot; personages moeten natuurlijke, subtiele bewegingen hebben, niet als standbeelden.
 ```
 
-### No. 6: Campus Youth
+### No. 6: Campus Jeugd
 
 - **Category:** `Korte Series / Emotionele Verhalen`
 - **Source:** `community`
@@ -1896,19 +1896,19 @@ General constraints: Keep no subtitles; do not generate Logo; do not generate wa
 
 #### Description
 
-Refer to the girl in Image 4 and the boy in Image 5 (their facial makeup/hairstyles should match the corresponding images), vertical 9:16, youthful fresh realism, bright warm sunlight high transparency, generate a 30-second campus youth short film.
+Verwijs naar het meisje in Afbeelding 4 en de jongen in Afbeelding 5 (hun gezichtsstyling volgens de respectievelijke afbeeldingen), staand formaat 9:16, jeugdig fris realisme, helder warm zonlicht met hoge lichtdoorval, genereer een 30 seconden durende campus jeugd korte film.
 
 #### Prompt
 
 ```text
-Refer to the girl in Image 4 and the boy in Image 5 (their facial makeup/hairstyles should match the corresponding images), vertical 9:16, youthful fresh realism, bright warm sunlight high transparency, generate a 30-second campus youth short film.
-Shot 1: Wide shot, afternoon playground with warm sunlight slanting, girl @Image 4 walks quickly across the track holding books, wind lifts her skirt, slowly push in, (fresh guitar starts) <light cicada chirping>.
-Shot 2: Medium close-up, boy @Image 5 rides bike past, brakes suddenly and looks back, their gazes meet, both startled, fixed camera, <bicycle brake sound>.
-Shot 3: Close-up, girl @Image 4 cheeks blush, lowers head with a suppressed smile, dropped books picked up by boy @Image 5 bending down, warm sunlight, cut to this shot.
-Shot 4: Medium shot, two walk side by side on tree-lined path talking and laughing, light spots dance on their faces, follow shot walking alongside, (guitar becomes more cheerful).
-Shot 5: Slowly crane up, camera rises to look down on their receding backs and campus bathed in golden light, warm sunlight freeze frame, (music resolves).
-Constraints: Girl and boy faces must remain consistent with corresponding images throughout, male/female body distinctions clear, prohibit doppelgangers/twins or confusion; campus warm sunlight high transparency scene consistent throughout; youthful emotion externalized through blushing cheeks and suppressed smile.
-General constraints: Keep no subtitles; do not generate Logo; do not generate watermarks; use only one camera movement per shot; characters need natural slight movement, not statues.
+Verwijs naar het meisje in Afbeelding 4 en de jongen in Afbeelding 5 (hun gezichtsstyling volgens de respectievelijke afbeeldingen), staand formaat 9:16, jeugdig fris realisme, helder warm zonlicht met hoge lichtdoorval, genereer een 30 seconden durende campus jeugd korte film.
+Shot 1: Totaalshot, late middag op het sportveld, warme zon schijnt schuin, meisje @Afbeelding 4 loopt snel met boeken over de atletiekbaan, wind laat haar rok wapperen, langzaam inzoomen, (frisse gitaar begint) <licht gezoem van cicaden>.
+Shot 2: Medium close-up, jongen @Afbeelding 5 fietst voorbij en remt abrupt af terwijl hij omkijkt, hun blikken kruisen elkaar en ze schrikken allebei even, vaste camerapositie, <remgeluid van fiets>.
+Shot 3: Close-up, wangen van meisje @Afbeelding 4 kleuren rood, ze kijkt naar beneden en glimlacht met samengeknepen lippen, gevallen boeken worden opgeraapt door jongen @Afbeelding 5 die voorover buigt, cut naar shot met warm zonlicht.
+Shot 4: Medium shot, twee personen lopen naast elkaar pratend en lachend over een met bomen omzoomd pad, lichtvlekken dansen op hun gezichten, volgshot die meebeweegt, (gitaar wordt geleidelijk vrolijker).
+Shot 5: Langzame tilt, camerapositie tilt op om neer te kijken op hun zich verwijderende ruggen en de campus bedekt met gouden licht, warm zonlicht bevriest het beeld, (muziek loopt af).
+Beperkingen: Gezichten van jongen en meisje moeten gedurende de hele video consistent zijn volgens de corresponderende afbeeldingen, fysieke kenmerken van man en vrouw duidelijk onderscheiden, geen verwarring als tweeling; campusscène met helder warm zonlicht en hoge lichtdoorval moet gedurende de hele video consistent zijn; verlegen emotie geuit door rode wangen en samengeknepen lippen glimlach.
+Algemene beperkingen: Houd het ondertitelvrij; Genereer geen logo; Genereer geen watermerk; Gebruik slechts één camerabeweging per shot; Personen moeten natuurlijke, subtiele bewegingen hebben, geen standbeelden.
 ```
 
 ### No. 7: Suspensevolle Gang
