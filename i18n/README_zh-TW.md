@@ -138,7 +138,7 @@ npx skills add AtlasCloudAI/atlas-cloud-skills --skill atlas-cloud
 | 提示詞總數 | **150** |
 | 分類數 | **33** |
 | 預覽影片數 | **50** |
-| 最後更新 | **2026-08-01** |
+| 最後更新 | **2026-08-03** |
 
 <a id="featured-prompts"></a>
 
@@ -4421,4 +4421,4 @@ npx tsc --noEmit
 
 > 所有提示詞僅用於學習、整理與檢索。如有內容需要移除，請提交 issue。
 
-> 此 README 為自動生成。 2026-08-01.
+> 此 README 為自動生成。 2026-08-03.
