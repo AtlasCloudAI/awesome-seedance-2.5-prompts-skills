@@ -30,9 +30,18 @@ route first, then enable only the preparation modules the job needs.
 | A clip controlled by people, product, scene, or style assets | R2V asset references | A small role-specific asset pack | One clip built from those references |
 | A shot with an exact beginning and ending | I2V shot pair | Start and end keyframes | One independently reviewable shot |
 | An uninterrupted action exceeding the supported duration | Extend / chain | Previous generated tail frame and next prompt | Continuation of the same shot |
+| One continuous piece carrying several events | Staged whole-short | Text plus optional references | One request covering ordered stages, each landing on a stated end state |
+| A scoped change to an existing video | Editing | Source video plus target references | The source with only the named region or element changed |
+| A bridge between two finished clips | Seamless transition | Two videos | Generated bridge content between them |
+| Motion, blocking, and camera taken from a 3D preview | Blockout reference | Coarse or fine blockout video plus look references | Final render following the blockout's timing and staging |
 
 Use Seedance 2.0 as the executable default. Offer a Seedance 2.5 whole-short
 route only when the selected provider exposes that model and its actual limits.
+
+The last four routes depend on capabilities that differ per model and per
+provider. Verify availability before offering one; see
+[capabilities](references/capabilities.md) for the 2.0/2.5 comparison and for
+which published capabilities are platform features rather than API parameters.
 
 ### Storyboard or individual keyframes
 
@@ -106,6 +115,29 @@ not rely on a cross-dissolve to repair unrelated shots.
 
 ## 4. Write the video prompt
 
+### Scope: put each instruction where it applies
+
+Before writing blocks, sort what you know by **what it governs**. Instructions in
+the wrong place are the most common cause of drift — a global rule written inside
+beat 1 stops applying at beat 4.
+
+| Scope | Governs | Contents |
+|---|---|---|
+| Global | The whole piece | Film type, scene, style, one-sentence premise, camera principle |
+| Locks | Anything that must not drift | Identity, reference roles, audio source, continuity, negatives |
+| Time | One beat or stage | Stage events and their end states |
+
+Restate the two or three most expensive locks at the **physical end** of the
+prompt; recency helps. That is a placement convention, not a fourth scope — the
+content still belongs to Locks and appears there first.
+
+This mirrors the model-agnostic spec format in
+[the Universal Video Prompt Skill](../universal-video-prompt-skill/SKILL.md). Use
+that skill when one brief has to run on more than one model; use this file for
+Seedance-specific writing.
+
+### Blocks
+
 Use only the blocks that affect the shot:
 
 ```text
@@ -115,8 +147,47 @@ Use only the blocks that affect the shot:
 + [one primary camera move, coherent composite move, or a cut]
 + [light/style when it matters]
 + [audio or dialogue when enabled]
++ [end state, for any stage that must land somewhere specific]
 + [must-preserve constraints]
 ```
+
+### End states carry multi-event work
+
+For anything with more than one event, state what is **visibly true** when each
+stage ends. This is the highest-leverage single addition to a multi-stage prompt:
+it converts "keep it consistent" into something the model can target and you can
+check.
+
+```text
+weak:   the two of them keep working on the bouquet
+strong: end state: the florist holds the bouquet in the left hand;
+        the scissors are back on the right side of the bench
+```
+
+An end state must be visible. "She feels relieved" is not one; "her shoulders
+drop and the frown clears" is. Read [long video](references/long-video.md) for the
+staged structure in full.
+
+### Time granularity: decide before writing beats
+
+Granularity is a prior decision. Writing beats at second precision and then
+downgrading means rewriting them.
+
+| Granularity | Use when |
+|---|---|
+| None — event order only | One continuous action, mood pieces, single shots. Timestamps here fragment the shot |
+| **Stages + end states** | Most narrative work. **Default** |
+| Second-level | Only under an external hard constraint: music, lip sync, reference handoff, a beat that must land at a fixed time |
+
+Infer it when the input settles it — a supplied music or voiceover track means
+second-level, a stated mood piece means none, an explicit fixed beat means
+second-level. When the request is a multi-event narrative with no external
+constraint, **ask, and recommend with a reason** rather than presenting a bare
+menu.
+
+Timestamps allocate a time budget; they are not frame-accurate edit points, and
+actions may land slightly before or after a boundary. Do not demand impossible
+density such as three distinct actions inside one second.
 
 - Name reference roles explicitly, for example `Image 1: person`, `Image 2:
   product`, `Image 3: kitchen setting`.
@@ -128,10 +199,22 @@ Use only the blocks that affect the shot:
   `{}` for dialogue, and `【】` for on-screen captions.
 - State only constraints that are costly to redo.
 
-Read [prompt templates](references/prompt-templates.md) for route-specific
-templates, [prompt blocks](references/prompt-blocks.md) for reusable camera,
-audio, and constraint patterns, and [cinematography](references/cinematography.md)
-only for detailed visual decisions.
+Read the reference matching the job:
+
+| File | Read it for |
+|---|---|
+| [prompt templates](references/prompt-templates.md) | Route-specific templates |
+| [prompt blocks](references/prompt-blocks.md) | Reusable camera, audio, constraint patterns |
+| [long video](references/long-video.md) | Staged structure, end states, timestamp rules |
+| [multi reference](references/multi-reference.md) | Binding many assets without confusing them |
+| [real person](references/real-person.md) | Believable human subjects, and when to omit the detail |
+| [transitions](references/transitions.md) | Which transitions to generate and which to edit |
+| [editing and extension](references/editing-and-extension.md) | Changing or continuing existing video |
+| [capabilities](references/capabilities.md) | 2.0 vs 2.5 limits; platform features vs API parameters |
+| [model profile](references/model-profile.md) | Measured per-model behaviour and compile notes |
+| [cinematography](references/cinematography.md) | Detailed visual decisions |
+| [troubleshooting](references/troubleshooting.md) | Fault-specific fixes |
+| [execution adapters](references/execution-adapters.md) | Runner and adapter configuration |
 
 ## 5. Generate, review, and finish
 
@@ -141,8 +224,9 @@ only for detailed visual decisions.
    then verify it fits the chosen route.
 3. If the board passes review, generate one representative video pass without
    waiting for approval. Otherwise refine or regenerate the board first.
-4. Review identity, composition, motion, endpoint, seam, and audio in that
-   order. Regenerate only the failed shot or segment.
+4. Review identity, locks, stage end states, composition, motion, seam, and audio
+   in that order, and stop at the first failure — later checks are wasted effort
+   on a wrong identity. Regenerate only the failed shot or segment.
 5. Generate chains in order because the next segment needs the real prior tail.
    Generate cut-based clips independently and edit the planned transition.
 

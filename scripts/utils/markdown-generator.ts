@@ -88,6 +88,8 @@ interface HomeCopy {
   faqPromptAnswer: string;
   resources: string;
   development: string;
+  universalSkillDescription: string;
+  universalSkillWhich: string;
 }
 
 const homeCopyEn: HomeCopy = {
@@ -167,6 +169,10 @@ const homeCopyEn: HomeCopy = {
     "Yes. Browse and copy any prompt directly. Install the Skill when you want prompt adaptation, storyboard handling, execution, polling, and automated review.",
   resources: "Resources",
   development: "Repository development",
+  universalSkillDescription:
+    "**Universal Video Prompt Skill** writes one model-agnostic prompt spec and compiles it to whichever video model you can actually call. A spec records the decisions a prompt encodes — scope, locks, staging, end states — separately from the dialect that expresses them, so the same brief survives a change of model instead of being rewritten. Each model gets a measured profile covering reference syntax, limits, timing adherence, and default-bias behaviour; the Skill probes what it does not know, degrades the spec to what the model supports, and reports every degrade.",
+  universalSkillWhich:
+    "**Which one to use:** use Seedance 2.5 Skill for Seedance-specific writing and execution. Use Universal Video Prompt Skill when one brief has to run across several models, when you are comparing models, or when the model you want is not available yet and the work has to proceed on another one.",
 };
 
 const homeCopyZh: HomeCopy = {
@@ -247,6 +253,10 @@ const homeCopyZh: HomeCopy = {
     "可以。你可以直接浏览和复制任意提示词；需要提示词优化、Storyboard 处理、任务执行、轮询和自动复查时，再安装 Skill。",
   resources: "相关资源",
   development: "仓库开发",
+  universalSkillDescription:
+    "**Universal Video Prompt Skill** 先写一份与模型无关的提示词 spec，再把它编译到你当前真正调得通的视频模型上。spec 记录的是一条提示词背后的决策——作用域、锁、分阶段、末态——并把它和表达这些决策的\"方言\"分开，所以换模型时同一份需求不用重写。每个模型对应一份实测档案，覆盖素材引用语法、各项上限、时序遵循度和默认审美偏置；未知的项目由 Skill 主动探测，能力不足时把 spec 降级到该模型支持的范围，并且每次降级都会明确报告。",
+  universalSkillWhich:
+    "**两个 Skill 怎么选：** 只做 Seedance 的提示词与执行，用 Seedance 2.5 Skill。同一份需求要跑多个模型、要做模型横向对比、或者想用的模型还没开放而工作必须先在别的模型上推进，用 Universal Video Prompt Skill。",
 };
 
 const homeCopyZhTw: HomeCopy = {
@@ -327,6 +337,10 @@ const homeCopyZhTw: HomeCopy = {
     "可以。你可以直接瀏覽和複製任意提示詞；需要提示詞最佳化、Storyboard 處理、任務執行、輪詢和自動複查時，再安裝 Skill。",
   resources: "相關資源",
   development: "倉庫開發",
+  universalSkillDescription:
+    "**Universal Video Prompt Skill** 先寫一份與模型無關的提示詞 spec，再把它編譯到你目前真正呼叫得到的影片模型上。spec 記錄的是一條提示詞背後的決策——作用域、鎖、分階段、末態——並把它和表達這些決策的「方言」分開，因此換模型時同一份需求不必重寫。每個模型對應一份實測檔案，涵蓋素材引用語法、各項上限、時序遵循度與預設審美偏誤；未知的項目由 Skill 主動探測，能力不足時把 spec 降級到該模型支援的範圍，且每次降級都會明確回報。",
+  universalSkillWhich:
+    "**兩個 Skill 怎麼選：** 只做 Seedance 的提示詞與執行，用 Seedance 2.5 Skill。同一份需求要跑多個模型、要做模型橫向比較、或想用的模型尚未開放而工作必須先在別的模型上推進，用 Universal Video Prompt Skill。",
 };
 
 function getHomeCopy(locale: string): HomeCopy {
@@ -394,12 +408,50 @@ function renderSkill(locale: string): string {
     "",
     `- [\`SKILL.md\`](${base}/SKILL.md)`,
     `- [\`references/workflow.zh-CN.md\`](${base}/references/workflow.zh-CN.md)`,
+    `- [\`references/long-video.md\`](${base}/references/long-video.md)`,
+    `- [\`references/multi-reference.md\`](${base}/references/multi-reference.md)`,
+    `- [\`references/real-person.md\`](${base}/references/real-person.md)`,
+    `- [\`references/transitions.md\`](${base}/references/transitions.md)`,
+    `- [\`references/editing-and-extension.md\`](${base}/references/editing-and-extension.md)`,
+    `- [\`references/capabilities.md\`](${base}/references/capabilities.md)`,
+    `- [\`references/model-profile.md\`](${base}/references/model-profile.md)`,
     `- [\`references/cinematography.md\`](${base}/references/cinematography.md)`,
     `- [\`references/prompt-blocks.md\`](${base}/references/prompt-blocks.md)`,
     `- [\`references/prompt-templates.md\`](${base}/references/prompt-templates.md)`,
     `- [\`references/execution-adapters.md\`](${base}/references/execution-adapters.md)`,
     `- [\`references/troubleshooting.md\`](${base}/references/troubleshooting.md)`,
     `- [\`scripts/generate.mjs\`](${base}/scripts/generate.mjs)`,
+    "",
+    "</details>",
+    "",
+  ].join("\n");
+}
+
+function renderUniversalSkill(locale: string): string {
+  const copy = getHomeCopy(locale);
+  const base = `${REPO_URL}/blob/main/skills/universal-video-prompt-skill`;
+  return [
+    renderHeading("universal-video-prompt-skill", "🌐 Universal Video Prompt Skill"),
+    copy.universalSkillDescription,
+    "",
+    copy.universalSkillWhich,
+    "",
+    `### ${copy.install}`,
+    "",
+    "```bash",
+    `npx skills add AtlasCloudAI/${REPO} --skill universal-video-prompt-skill`,
+    "```",
+    "",
+    `<details><summary>${copy.skillFiles}</summary>`,
+    "",
+    `- [\`SKILL.md\`](${base}/SKILL.md)`,
+    `- [\`references/spec-format.md\`](${base}/references/spec-format.md)`,
+    `- [\`references/verifiability.md\`](${base}/references/verifiability.md)`,
+    `- [\`references/portability.md\`](${base}/references/portability.md)`,
+    `- [\`references/film-type-dna.md\`](${base}/references/film-type-dna.md)`,
+    `- [\`references/model-profile-schema.md\`](${base}/references/model-profile-schema.md)`,
+    `- [\`references/execution.md\`](${base}/references/execution.md)`,
+    `- [\`references/checklist.md\`](${base}/references/checklist.md)`,
     "",
     "</details>",
     "",
@@ -464,6 +516,7 @@ function renderContents(locale: string): string {
     `- [🤔 ${copy.modelIntro}](#model-overview)`,
     `- [🧩 ${copy.promptGuide}](#prompt-guide)`,
     "- [🧠 Seedance 2.5 Skill](#seedance-2-5-skill)",
+    "- [🌐 Universal Video Prompt Skill](#universal-video-prompt-skill)",
     `- [🚀 ${copy.howToUse}](#how-to-use)`,
     `- [⚙️ ${copy.execution}](#model-and-execution-defaults)`,
     `- [🔎 ${copy.curation}](#curation-and-provenance)`,
@@ -615,6 +668,7 @@ export function generateMarkdown(data: SortedPromptData, locale: string): string
   lines.push(renderModelOverview(locale));
   lines.push(renderPromptGuide(locale));
   lines.push(renderSkill(locale));
+  lines.push(renderUniversalSkill(locale));
   lines.push(renderHowToUse(locale));
   lines.push(renderExecution(locale));
   lines.push(renderCuration(locale));

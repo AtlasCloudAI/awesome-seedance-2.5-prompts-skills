@@ -13,6 +13,38 @@ not an API parameter list or an outcome guarantee.
    framing or a planned cut.
 4. Choose the frame ratio and safe areas for the user's actual delivery context.
 
+## Uncommon terms: keep the term, add the description
+
+Terms whose recognition varies — niche vocabulary, terms with inconsistent
+industry usage, anything named after a film, director, or platform trend — get
+written twice:
+
+```text
+<term> + <target subject> + <visible change> + <foreground/background relation>
+      + <direction or speed>
+```
+
+```text
+rack focus: shift focus from the foreground leaves to the person behind them.
+  The leaves go soft while the face resolves from soft to sharp.
+
+bullet time: freeze the moment bat meets ball; the camera orbits clockwise
+  around the contact point while debris hangs in the air.
+```
+
+A model that knows the term takes the shortcut; one that does not follows the
+description. The same prompt then works on both, which is why this is preferable
+to maintaining a per-model vocabulary list.
+
+**Usually safe unqualified:** shot scales, the basic moves in the table below,
+basic positions (low angle, overhead, first-person).
+
+**Usually needs the description:** dolly zoom, bullet time, speed ramp, bounce
+ramp, rack focus, whip-pan transition, match cut.
+
+Aperture, focal length, and shutter values are allowed, but the intended visible
+result controls more reliably than a number alone.
+
 ## Camera
 
 ### Shot scale

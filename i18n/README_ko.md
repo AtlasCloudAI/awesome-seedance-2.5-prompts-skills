@@ -22,6 +22,7 @@ A curated library of Seedance 2.5 video prompts plus **Seedance 2.5 Skill**, an 
 - [🤔 What is Seedance 2.5?](#model-overview)
 - [🧩 Seedance 2.5 prompt guide](#prompt-guide)
 - [🧠 Seedance 2.5 Skill](#seedance-2-5-skill)
+- [🌐 Universal Video Prompt Skill](#universal-video-prompt-skill)
 - [🚀 How to use this repository](#how-to-use)
 - [⚙️ Model and execution defaults](#model-and-execution-defaults)
 - [🔎 Curation and provenance](#curation-and-provenance)
@@ -84,12 +85,46 @@ npx skills add AtlasCloudAI/atlas-cloud-skills --skill atlas-cloud
 
 - [`SKILL.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/SKILL.md)
 - [`references/workflow.zh-CN.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/workflow.zh-CN.md)
+- [`references/long-video.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/long-video.md)
+- [`references/multi-reference.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/multi-reference.md)
+- [`references/real-person.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/real-person.md)
+- [`references/transitions.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/transitions.md)
+- [`references/editing-and-extension.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/editing-and-extension.md)
+- [`references/capabilities.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/capabilities.md)
+- [`references/model-profile.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/model-profile.md)
 - [`references/cinematography.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/cinematography.md)
 - [`references/prompt-blocks.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/prompt-blocks.md)
 - [`references/prompt-templates.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/prompt-templates.md)
 - [`references/execution-adapters.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/execution-adapters.md)
 - [`references/troubleshooting.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/troubleshooting.md)
 - [`scripts/generate.mjs`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/scripts/generate.mjs)
+
+</details>
+
+<a id="universal-video-prompt-skill"></a>
+
+## 🌐 Universal Video Prompt Skill
+
+**Universal Video Prompt Skill** writes one model-agnostic prompt spec and compiles it to whichever video model you can actually call. A spec records the decisions a prompt encodes — scope, locks, staging, end states — separately from the dialect that expresses them, so the same brief survives a change of model instead of being rewritten. Each model gets a measured profile covering reference syntax, limits, timing adherence, and default-bias behaviour; the Skill probes what it does not know, degrades the spec to what the model supports, and reports every degrade.
+
+**Which one to use:** use Seedance 2.5 Skill for Seedance-specific writing and execution. Use Universal Video Prompt Skill when one brief has to run across several models, when you are comparing models, or when the model you want is not available yet and the work has to proceed on another one.
+
+### Install
+
+```bash
+npx skills add AtlasCloudAI/awesome-seedance-2.5-prompts-skills --skill universal-video-prompt-skill
+```
+
+<details><summary>Skill files and references</summary>
+
+- [`SKILL.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/universal-video-prompt-skill/SKILL.md)
+- [`references/spec-format.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/universal-video-prompt-skill/references/spec-format.md)
+- [`references/verifiability.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/universal-video-prompt-skill/references/verifiability.md)
+- [`references/portability.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/universal-video-prompt-skill/references/portability.md)
+- [`references/film-type-dna.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/universal-video-prompt-skill/references/film-type-dna.md)
+- [`references/model-profile-schema.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/universal-video-prompt-skill/references/model-profile-schema.md)
+- [`references/execution.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/universal-video-prompt-skill/references/execution.md)
+- [`references/checklist.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/universal-video-prompt-skill/references/checklist.md)
 
 </details>
 
@@ -138,7 +173,7 @@ Every prompt record keeps its category, source platform, author, source link, in
 | Total Prompts | **150** |
 | Categories | **33** |
 | Preview Videos | **50** |
-| Last Updated | **2026-08-01** |
+| Last Updated | **2026-08-03** |
 
 <a id="featured-prompts"></a>
 
@@ -4419,4 +4454,4 @@ npx tsc --noEmit
 
 > All prompts are shared for learning, organization, and discovery. Open an issue if anything should be removed.
 
-> This README is auto-generated. 2026-08-01.
+> This README is auto-generated. 2026-08-03.

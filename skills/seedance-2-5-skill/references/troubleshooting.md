@@ -31,7 +31,35 @@ Fix the failed shot or seam rather than restarting a complete sequence.
 | Output audio fails after retries | Seedance returned no audio stream or reported audio-generation failure | Inspect the request and rerun that segment with `generate_audio:true` rather than silently falling back to silent video |
 | Native audio ends with a click | Generated clip audio is truncated | Regenerate the segment with native audio; add a short fade only after the new generation is acceptable |
 
+## Multi-reference problems
+
+| Symptom | Likely cause | Targeted fix |
+|---|---|---|
+| Wrong reference applied to a subject | Bound as a group (`images 1–4 define four characters`) | One binding line per subject, each naming its own reference |
+| One object appears twice | Multi-view references read as several objects | State the output count: `all three images define one lamp; exactly one appears throughout` |
+| Props migrate between characters | Ownership never stated | Add `belongs only to <subject>` |
+| Every reference crowds into every shot | No per-scene selection | List which references each scene uses |
+| Reference background leaks in | Role stated one-sided | Add the `do not use` half |
+| Re-described motion conflicts with a motion reference | Text competes with the video | State only which attributes to inherit |
+
+## Stage and timing problems
+
+| Symptom | Likely cause | Targeted fix |
+|---|---|---|
+| Stage ends in the wrong state | No end state written | State what is visibly true when the stage ends |
+| Piece trails off | Final stage has no end state | Add one — the most common omission |
+| Model invents pauses or extra cuts | Second-level granularity on a continuous action | Drop to stages, or to event order only |
+| Beats land consistently late | Model timing drift | Check the profile; write beats earlier, or drop to stages |
+| Events dropped inside a range | Too much content in one time range | Split into more stages |
+| Style holds early then drifts | A global rule was written inside stage 1 | Move it to the global block |
+| Later characters appear too early in a backward extension | Source's first frame not stated as an end state | State it explicitly, and name what must not appear early |
+
 ## Review order
 
-Review identity, composition, motion, endpoint, seam, then sound. Correct the
-earliest failed item first; later polish cannot repair wrong identity or endpoint.
+Review identity, locks, stage end states, composition, motion, seam, then sound.
+**Stop at the first failure** — later polish cannot repair wrong identity or a
+missed endpoint, so checking past the first break wastes the pass.
+
+When the same lock breaks repeatedly on one model, that is a profile finding, not
+a prompt problem. Record it in [model profile](model-profile.md) instead of
+rewriting the prompt again.

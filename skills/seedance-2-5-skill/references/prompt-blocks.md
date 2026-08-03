@@ -10,10 +10,37 @@ Use only the blocks that affect the shot.
 | Camera | State framing and camera intent | `Medium close-up; smooth rightward move while tracking the cup` |
 | Light/style | Unify the look when needed | `Warm practical light; hand-drawn food-animation texture` |
 | Audio | Add only when native audio is enabled | `（upbeat jazz）<oil sizzling>` |
+| End state | Land a stage on a checkable state | `End state: the cup sits centred on the shelf; both hands have left frame` |
 | Constraint | Preserve expensive-to-redo details | `Keep the label readable; no subtitles` |
 
 For whole-storyboard R2V, order events as `Shot 1 / Shot 2 / Shot 3`. For I2V,
 write one shot and its start-to-end change.
+
+## End states
+
+Any stage that must land somewhere specific gets one. This is the block that
+carries multi-event work — it converts "keep it consistent" into something the
+model can target and you can check on a still frame.
+
+```text
+weak:   they keep working on the bouquet
+strong: End state: the florist holds the bouquet in the left hand; the scissors
+        are back on the right side of the bench
+```
+
+Rules:
+
+- It must be **visible**. `she feels relieved` is not an end state;
+  `her shoulders drop and the frown clears` is.
+- Positions, who holds what, what is open or closed, what has left frame.
+- The **final** stage needs one too — the most common omission, and the reason
+  pieces trail off instead of landing.
+- One primary change per stage. Two changes means the model picks one.
+
+The same device has an image form (a keyframe sequence, where each image *is* one
+stage's end state) and a video form (the boundary frame of an extension). See
+[long video](long-video.md) and
+[editing and extension](editing-and-extension.md).
 
 ## Camera
 

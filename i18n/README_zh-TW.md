@@ -22,6 +22,7 @@
 - [🤔 Seedance 2.5 是什麼？](#model-overview)
 - [🧩 Seedance 2.5 提示詞指南](#prompt-guide)
 - [🧠 Seedance 2.5 Skill](#seedance-2-5-skill)
+- [🌐 Universal Video Prompt Skill](#universal-video-prompt-skill)
 - [🚀 如何使用這個倉庫](#how-to-use)
 - [⚙️ 預設模型與執行方式](#model-and-execution-defaults)
 - [🔎 收錄標準與來源說明](#curation-and-provenance)
@@ -84,12 +85,46 @@ npx skills add AtlasCloudAI/atlas-cloud-skills --skill atlas-cloud
 
 - [`SKILL.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/SKILL.md)
 - [`references/workflow.zh-CN.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/workflow.zh-CN.md)
+- [`references/long-video.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/long-video.md)
+- [`references/multi-reference.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/multi-reference.md)
+- [`references/real-person.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/real-person.md)
+- [`references/transitions.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/transitions.md)
+- [`references/editing-and-extension.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/editing-and-extension.md)
+- [`references/capabilities.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/capabilities.md)
+- [`references/model-profile.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/model-profile.md)
 - [`references/cinematography.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/cinematography.md)
 - [`references/prompt-blocks.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/prompt-blocks.md)
 - [`references/prompt-templates.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/prompt-templates.md)
 - [`references/execution-adapters.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/execution-adapters.md)
 - [`references/troubleshooting.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/references/troubleshooting.md)
 - [`scripts/generate.mjs`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/seedance-2-5-skill/scripts/generate.mjs)
+
+</details>
+
+<a id="universal-video-prompt-skill"></a>
+
+## 🌐 Universal Video Prompt Skill
+
+**Universal Video Prompt Skill** 先寫一份與模型無關的提示詞 spec，再把它編譯到你目前真正呼叫得到的影片模型上。spec 記錄的是一條提示詞背後的決策——作用域、鎖、分階段、末態——並把它和表達這些決策的「方言」分開，因此換模型時同一份需求不必重寫。每個模型對應一份實測檔案，涵蓋素材引用語法、各項上限、時序遵循度與預設審美偏誤；未知的項目由 Skill 主動探測，能力不足時把 spec 降級到該模型支援的範圍，且每次降級都會明確回報。
+
+**兩個 Skill 怎麼選：** 只做 Seedance 的提示詞與執行，用 Seedance 2.5 Skill。同一份需求要跑多個模型、要做模型橫向比較、或想用的模型尚未開放而工作必須先在別的模型上推進，用 Universal Video Prompt Skill。
+
+### 安裝
+
+```bash
+npx skills add AtlasCloudAI/awesome-seedance-2.5-prompts-skills --skill universal-video-prompt-skill
+```
+
+<details><summary>Skill 檔案與參考資料</summary>
+
+- [`SKILL.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/universal-video-prompt-skill/SKILL.md)
+- [`references/spec-format.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/universal-video-prompt-skill/references/spec-format.md)
+- [`references/verifiability.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/universal-video-prompt-skill/references/verifiability.md)
+- [`references/portability.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/universal-video-prompt-skill/references/portability.md)
+- [`references/film-type-dna.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/universal-video-prompt-skill/references/film-type-dna.md)
+- [`references/model-profile-schema.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/universal-video-prompt-skill/references/model-profile-schema.md)
+- [`references/execution.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/universal-video-prompt-skill/references/execution.md)
+- [`references/checklist.md`](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/skills/universal-video-prompt-skill/references/checklist.md)
 
 </details>
 
@@ -138,7 +173,7 @@ npx skills add AtlasCloudAI/atlas-cloud-skills --skill atlas-cloud
 | 提示詞總數 | **150** |
 | 分類數 | **33** |
 | 預覽影片數 | **50** |
-| 最後更新 | **2026-08-01** |
+| 最後更新 | **2026-08-03** |
 
 <a id="featured-prompts"></a>
 
@@ -4421,4 +4456,4 @@ npx tsc --noEmit
 
 > 所有提示詞僅用於學習、整理與檢索。如有內容需要移除，請提交 issue。
 
-> 此 README 為自動生成。 2026-08-01.
+> 此 README 為自動生成。 2026-08-03.
