@@ -174,7 +174,7 @@ const homeCopyEn: HomeCopy = {
   universalSkillDescription:
     "**Universal Video Prompt Skill** writes one model-agnostic prompt spec and compiles it to whichever video model you can actually call. A spec records the decisions a prompt encodes — scope, locks, staging, end states — separately from the dialect that expresses them, so the same brief survives a change of model instead of being rewritten. Each model gets a measured profile covering reference syntax, limits, timing adherence, and default-bias behaviour; the Skill probes what it does not know, degrades the spec to what the model supports, and reports every degrade.",
   universalSkillStandalone:
-    "This Skill is self-contained — installing it alone is enough. The Seedance 2.5 Skill references it, so install both when you use that one.",
+    "This Skill can be installed on its own for standalone cross-model work. A complete Seedance 2.5 Skill setup installs all three Skills shown above.",
   universalSkillWhich:
     "**Which one to use:** use Seedance 2.5 Skill for Seedance-specific writing and execution. Use Universal Video Prompt Skill when one brief has to run across several models, when you are comparing models, or when the model you want is not available yet and the work has to proceed on another one.",
 };
@@ -260,7 +260,7 @@ const homeCopyZh: HomeCopy = {
   universalSkillDescription:
     "**Universal Video Prompt Skill** —— 一份提示词 spec，**通吃所有调得通的视频模型**。spec 记录的是一条提示词背后的决策——作用域、锁、分阶段、末态——并把它和表达这些决策的\"方言\"分开，换模型时不必重写。每个模型配一份实测档案（素材引用语法、各项上限、时序遵循度、默认审美偏置）；未知项由 Skill 主动探测，能力不足时把 spec 降级到该模型支持的范围，并明确报告每次降级。",
   universalSkillStandalone:
-    "本 Skill 自包含，单独安装即可使用。Seedance 2.5 Skill 会引用它，所以用那个时两个一起装。",
+    "本 Skill 可单独安装，用于独立的跨模型工作。完整使用 Seedance 2.5 Skill 时，需要安装上方列出的三个 Skill。",
   universalSkillWhich:
     "**两个 Skill 怎么选：** 只做 Seedance 的提示词与执行，用 Seedance 2.5 Skill。同一份需求要跑多个模型、要做模型横向对比、或者目标模型暂时调不通、工作必须先在别的模型上推进，用 Universal Video Prompt Skill。",
 };
@@ -346,7 +346,7 @@ const homeCopyZhTw: HomeCopy = {
   universalSkillDescription:
     "**Universal Video Prompt Skill** —— 一份提示詞 spec，**通吃所有呼叫得到的影片模型**。spec 記錄的是一條提示詞背後的決策——作用域、鎖、分階段、末態——並把它和表達這些決策的「方言」分開，換模型時不必重寫。每個模型配一份實測檔案（素材引用語法、各項上限、時序遵循度、預設審美偏誤）；未知項由 Skill 主動探測，能力不足時把 spec 降級到該模型支援的範圍，並明確回報每次降級。",
   universalSkillStandalone:
-    "本 Skill 自包含，單獨安裝即可使用。Seedance 2.5 Skill 會引用它，所以用那個時兩個一起裝。",
+    "本 Skill 可單獨安裝，用於獨立的跨模型工作。完整使用 Seedance 2.5 Skill 時，需要安裝上方列出的三個 Skill。",
   universalSkillWhich:
     "**兩個 Skill 怎麼選：** 只做 Seedance 的提示詞與執行，用 Seedance 2.5 Skill。同一份需求要跑多個模型、要做模型橫向比較、或目標模型暫時呼叫不通、工作必須先在別的模型上推進，用 Universal Video Prompt Skill。",
 };

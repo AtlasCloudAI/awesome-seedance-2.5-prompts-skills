@@ -116,7 +116,7 @@ npx skills add AtlasCloudAI/atlas-cloud-skills --skill atlas-cloud
 npx skills add AtlasCloudAI/awesome-seedance-2.5-prompts-skills --skill universal-video-prompt-skill
 ```
 
-This Skill is self-contained — installing it alone is enough. The Seedance 2.5 Skill references it, so install both when you use that one.
+This Skill can be installed on its own for standalone cross-model work. A complete Seedance 2.5 Skill setup installs all three Skills shown above.
 
 <details><summary>Skill files and references</summary>
 

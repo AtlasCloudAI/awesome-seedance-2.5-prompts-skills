@@ -116,7 +116,7 @@ npx skills add AtlasCloudAI/atlas-cloud-skills --skill atlas-cloud
 npx skills add AtlasCloudAI/awesome-seedance-2.5-prompts-skills --skill universal-video-prompt-skill
 ```
 
-本 Skill 自包含，單獨安裝即可使用。Seedance 2.5 Skill 會引用它，所以用那個時兩個一起裝。
+本 Skill 可單獨安裝，用於獨立的跨模型工作。完整使用 Seedance 2.5 Skill 時，需要安裝上方列出的三個 Skill。
 
 <details><summary>Skill 檔案與參考資料</summary>
 
