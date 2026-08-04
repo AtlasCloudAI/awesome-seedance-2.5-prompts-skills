@@ -3,6 +3,7 @@
 记实测行为，不记文档行为。编译器读这些字段来决定输出什么、降级什么。
 
 字段定义与空白模板在[通用视频提示词 Skill](../../universal-video-prompt-skill/references/model-profile-schema.zh-CN.md)。
+若此链接不可达，说明 Seedance 2.5 Skill 安装不完整。继续前先协助用户安装 `universal-video-prompt-skill`，并且**不要自行编造字段定义**。
 
 **「未知」是合法值。** 空字段会触发一次探测；猜出来的字段会静默污染每一次基于它的运行。
 

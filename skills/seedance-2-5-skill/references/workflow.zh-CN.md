@@ -76,7 +76,7 @@
 
 把两三条最贵的锁在提示词的**物理结尾**复述一次（近因效应有用）。这是放置约定，不是第四个作用域——内容仍属「锁」，并且先在那里出现过。
 
-这与[通用视频提示词 Skill](../../universal-video-prompt-skill/references/workflow.zh-CN.md) 的模型无关 spec 格式一致。同一份需求要跑多个模型时用那个 skill；本文件用于 Seedance 专属的写法。
+这与[通用视频提示词 Skill](../../universal-video-prompt-skill/references/workflow.zh-CN.md) 的模型无关 spec 格式一致。同一份需求要跑多个模型时用那个 Skill；本文件用于 Seedance 专属的写法。若此链接不可达，说明安装不完整；继续前先协助用户安装 `universal-video-prompt-skill`，不要自行编造缺失的共享规则。
 
 ### 模块
 

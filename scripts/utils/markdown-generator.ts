@@ -90,6 +90,7 @@ interface HomeCopy {
   development: string;
   universalSkillDescription: string;
   universalSkillWhich: string;
+  universalSkillStandalone: string;
 }
 
 const homeCopyEn: HomeCopy = {
@@ -100,7 +101,8 @@ const homeCopyEn: HomeCopy = {
   skillDescription:
     "**Seedance 2.5 Skill** is the name of the installable Agent Skill in this repository. It turns a creative brief, existing prompt, references, or a storyboard into a production-ready prompt, the necessary intermediate assets, an execution request, and a review loop.",
   install: "Install",
-  installBoth: "Install the workflow Skill and its default Atlas Cloud execution Skill:",
+  installBoth:
+    "Install the workflow Skill, the Universal Video Prompt Skill it references, and the default Atlas Cloud execution Skill:",
   whatItDoes: "What it does",
   capabilityPrompt:
     "**Improve prompts:** turn an idea, an existing prompt, or reference assets into a clearer production-ready Seedance prompt.",
@@ -171,6 +173,8 @@ const homeCopyEn: HomeCopy = {
   development: "Repository development",
   universalSkillDescription:
     "**Universal Video Prompt Skill** writes one model-agnostic prompt spec and compiles it to whichever video model you can actually call. A spec records the decisions a prompt encodes — scope, locks, staging, end states — separately from the dialect that expresses them, so the same brief survives a change of model instead of being rewritten. Each model gets a measured profile covering reference syntax, limits, timing adherence, and default-bias behaviour; the Skill probes what it does not know, degrades the spec to what the model supports, and reports every degrade.",
+  universalSkillStandalone:
+    "This Skill can be installed on its own for standalone cross-model work. A complete Seedance 2.5 Skill setup installs all three Skills shown above.",
   universalSkillWhich:
     "**Which one to use:** use Seedance 2.5 Skill for Seedance-specific writing and execution. Use Universal Video Prompt Skill when one brief has to run across several models, when you are comparing models, or when the model you want is not available yet and the work has to proceed on another one.",
 };
@@ -184,7 +188,7 @@ const homeCopyZh: HomeCopy = {
   skillDescription:
     "**Seedance 2.5 Skill** 是本仓库内可安装 Agent Skill 的正式名称。它会把创意需求、已有提示词、参考素材或 Storyboard 转换成可以直接生产的提示词、必要的中间素材、执行请求和质量复查流程。",
   install: "安装",
-  installBoth: "安装工作流 Skill，以及默认用于执行生成的 Atlas Cloud Skill：",
+  installBoth: "安装工作流 Skill、它引用的 Universal Video Prompt Skill，以及默认用于执行生成的 Atlas Cloud Skill：",
   whatItDoes: "它会做什么",
   capabilityPrompt:
     "**优化提示词：** 把一个创意、已有提示词或参考素材，整理成更清晰、可以直接用于生产的 Seedance 提示词。",
@@ -255,6 +259,8 @@ const homeCopyZh: HomeCopy = {
   development: "仓库开发",
   universalSkillDescription:
     "**Universal Video Prompt Skill** —— 一份提示词 spec，**通吃所有调得通的视频模型**。spec 记录的是一条提示词背后的决策——作用域、锁、分阶段、末态——并把它和表达这些决策的\"方言\"分开，换模型时不必重写。每个模型配一份实测档案（素材引用语法、各项上限、时序遵循度、默认审美偏置）；未知项由 Skill 主动探测，能力不足时把 spec 降级到该模型支持的范围，并明确报告每次降级。",
+  universalSkillStandalone:
+    "本 Skill 可单独安装，用于独立的跨模型工作。完整使用 Seedance 2.5 Skill 时，需要安装上方列出的三个 Skill。",
   universalSkillWhich:
     "**两个 Skill 怎么选：** 只做 Seedance 的提示词与执行，用 Seedance 2.5 Skill。同一份需求要跑多个模型、要做模型横向对比、或者目标模型暂时调不通、工作必须先在别的模型上推进，用 Universal Video Prompt Skill。",
 };
@@ -268,7 +274,7 @@ const homeCopyZhTw: HomeCopy = {
   skillDescription:
     "**Seedance 2.5 Skill** 是本倉庫內可安裝 Agent Skill 的正式名稱。它會把創意需求、現有提示詞、參考素材或 Storyboard 轉換成可以直接製作的提示詞、必要的中間素材、執行請求和品質複查流程。",
   install: "安裝",
-  installBoth: "安裝工作流 Skill，以及預設用於執行生成的 Atlas Cloud Skill：",
+  installBoth: "安裝工作流 Skill、它引用的 Universal Video Prompt Skill，以及預設用於執行生成的 Atlas Cloud Skill：",
   whatItDoes: "它會做什麼",
   capabilityPrompt:
     "**最佳化提示詞：** 把一個創意、現有提示詞或參考素材，整理成更清楚、可以直接用於製作的 Seedance 提示詞。",
@@ -339,6 +345,8 @@ const homeCopyZhTw: HomeCopy = {
   development: "倉庫開發",
   universalSkillDescription:
     "**Universal Video Prompt Skill** —— 一份提示詞 spec，**通吃所有呼叫得到的影片模型**。spec 記錄的是一條提示詞背後的決策——作用域、鎖、分階段、末態——並把它和表達這些決策的「方言」分開，換模型時不必重寫。每個模型配一份實測檔案（素材引用語法、各項上限、時序遵循度、預設審美偏誤）；未知項由 Skill 主動探測，能力不足時把 spec 降級到該模型支援的範圍，並明確回報每次降級。",
+  universalSkillStandalone:
+    "本 Skill 可單獨安裝，用於獨立的跨模型工作。完整使用 Seedance 2.5 Skill 時，需要安裝上方列出的三個 Skill。",
   universalSkillWhich:
     "**兩個 Skill 怎麼選：** 只做 Seedance 的提示詞與執行，用 Seedance 2.5 Skill。同一份需求要跑多個模型、要做模型橫向比較、或目標模型暫時呼叫不通、工作必須先在別的模型上推進，用 Universal Video Prompt Skill。",
 };
@@ -395,6 +403,7 @@ function renderSkill(locale: string): string {
     "",
     "```bash",
     `npx skills add AtlasCloudAI/${REPO} --skill seedance-2-5-skill`,
+    `npx skills add AtlasCloudAI/${REPO} --skill universal-video-prompt-skill`,
     "npx skills add AtlasCloudAI/atlas-cloud-skills --skill atlas-cloud",
     "```",
     "",
@@ -441,6 +450,8 @@ function renderUniversalSkill(locale: string): string {
     "```bash",
     `npx skills add AtlasCloudAI/${REPO} --skill universal-video-prompt-skill`,
     "```",
+    "",
+    copy.universalSkillStandalone,
     "",
     `<details><summary>${copy.skillFiles}</summary>`,
     "",

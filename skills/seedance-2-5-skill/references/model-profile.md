@@ -5,6 +5,9 @@ decide what to emit and what to degrade.
 
 Field definitions and the blank template live in
 [the Universal Video Prompt Skill](../../universal-video-prompt-skill/references/model-profile-schema.md).
+If that link does not resolve, the Seedance 2.5 Skill installation is incomplete.
+Help the user install `universal-video-prompt-skill` before continuing and **do not
+invent a schema**.
 
 **Unknown is a valid value.** An empty field prompts a probe; a guessed field
 silently corrupts every run built on it.
