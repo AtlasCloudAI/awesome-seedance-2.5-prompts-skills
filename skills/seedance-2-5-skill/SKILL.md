@@ -134,7 +134,8 @@ content still belongs to Locks and appears there first.
 This mirrors the model-agnostic spec format in
 [the Universal Video Prompt Skill](../universal-video-prompt-skill/SKILL.md). Use
 that skill when one brief has to run on more than one model; use this file for
-Seedance-specific writing.
+Seedance-specific writing. If it is not installed that link will not resolve, which
+is expected — this file stands on its own.
 
 ### Blocks
 

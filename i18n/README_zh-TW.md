@@ -68,10 +68,11 @@ Seedance 2.5 是字節跳動繼 Seedance 2.0 之後推出的下一代多模態�
 
 ### 安裝
 
-安裝工作流 Skill，以及預設用於執行生成的 Atlas Cloud Skill：
+安裝工作流 Skill、它引用的 Universal Video Prompt Skill，以及預設用於執行生成的 Atlas Cloud Skill：
 
 ```bash
 npx skills add AtlasCloudAI/awesome-seedance-2.5-prompts-skills --skill seedance-2-5-skill
+npx skills add AtlasCloudAI/awesome-seedance-2.5-prompts-skills --skill universal-video-prompt-skill
 npx skills add AtlasCloudAI/atlas-cloud-skills --skill atlas-cloud
 ```
 
@@ -114,6 +115,8 @@ npx skills add AtlasCloudAI/atlas-cloud-skills --skill atlas-cloud
 ```bash
 npx skills add AtlasCloudAI/awesome-seedance-2.5-prompts-skills --skill universal-video-prompt-skill
 ```
+
+本 Skill 自包含，單獨安裝即可使用。Seedance 2.5 Skill 會引用它，所以用那個時兩個一起裝。
 
 <details><summary>Skill 檔案與參考資料</summary>
 

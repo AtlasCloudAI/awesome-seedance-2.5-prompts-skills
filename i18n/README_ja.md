@@ -68,10 +68,11 @@ Published Seedance 2.5 launch material describes up to 30-second generation, nat
 
 ### Install
 
-Install the workflow Skill and its default Atlas Cloud execution Skill:
+Install the workflow Skill, the Universal Video Prompt Skill it references, and the default Atlas Cloud execution Skill:
 
 ```bash
 npx skills add AtlasCloudAI/awesome-seedance-2.5-prompts-skills --skill seedance-2-5-skill
+npx skills add AtlasCloudAI/awesome-seedance-2.5-prompts-skills --skill universal-video-prompt-skill
 npx skills add AtlasCloudAI/atlas-cloud-skills --skill atlas-cloud
 ```
 
@@ -114,6 +115,8 @@ npx skills add AtlasCloudAI/atlas-cloud-skills --skill atlas-cloud
 ```bash
 npx skills add AtlasCloudAI/awesome-seedance-2.5-prompts-skills --skill universal-video-prompt-skill
 ```
+
+This Skill is self-contained — installing it alone is enough. The Seedance 2.5 Skill references it, so install both when you use that one.
 
 <details><summary>Skill files and references</summary>
 

@@ -5,6 +5,9 @@ decide what to emit and what to degrade.
 
 Field definitions and the blank template live in
 [the Universal Video Prompt Skill](../../universal-video-prompt-skill/references/model-profile-schema.md).
+If that Skill is not installed the link will not resolve. That is expected, not an
+error — use the filled profiles below as the format reference and **do not invent a
+schema**.
 
 **Unknown is a valid value.** An empty field prompts a probe; a guessed field
 silently corrupts every run built on it.
