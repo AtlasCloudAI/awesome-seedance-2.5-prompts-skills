@@ -173,7 +173,7 @@ Every prompt record keeps its category, source platform, author, source link, in
 | Total Prompts | **150** |
 | Categories | **33** |
 | Preview Videos | **50** |
-| Last Updated | **2026-08-03** |
+| Last Updated | **2026-08-04** |
 
 <a id="featured-prompts"></a>
 
@@ -4427,4 +4427,4 @@ npx tsc --noEmit
 
 > All prompts are shared for learning, organization, and discovery. Open an issue if anything should be removed.
 
-> This README is auto-generated. 2026-08-03.
+> This README is auto-generated. 2026-08-04.

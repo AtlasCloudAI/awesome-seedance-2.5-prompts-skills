@@ -105,9 +105,9 @@ npx skills add AtlasCloudAI/atlas-cloud-skills --skill atlas-cloud
 
 ## 🌐 Universal Video Prompt Skill
 
-**Universal Video Prompt Skill** 先寫一份與模型無關的提示詞 spec，再把它編譯到你目前真正呼叫得到的影片模型上。spec 記錄的是一條提示詞背後的決策——作用域、鎖、分階段、末態——並把它和表達這些決策的「方言」分開，因此換模型時同一份需求不必重寫。每個模型對應一份實測檔案，涵蓋素材引用語法、各項上限、時序遵循度與預設審美偏誤；未知的項目由 Skill 主動探測，能力不足時把 spec 降級到該模型支援的範圍，且每次降級都會明確回報。
+**Universal Video Prompt Skill** —— 一份提示詞 spec，**通吃所有呼叫得到的影片模型**。spec 記錄的是一條提示詞背後的決策——作用域、鎖、分階段、末態——並把它和表達這些決策的「方言」分開，換模型時不必重寫。每個模型配一份實測檔案（素材引用語法、各項上限、時序遵循度、預設審美偏誤）；未知項由 Skill 主動探測，能力不足時把 spec 降級到該模型支援的範圍，並明確回報每次降級。
 
-**兩個 Skill 怎麼選：** 只做 Seedance 的提示詞與執行，用 Seedance 2.5 Skill。同一份需求要跑多個模型、要做模型橫向比較、或想用的模型尚未開放而工作必須先在別的模型上推進，用 Universal Video Prompt Skill。
+**兩個 Skill 怎麼選：** 只做 Seedance 的提示詞與執行，用 Seedance 2.5 Skill。同一份需求要跑多個模型、要做模型橫向比較、或目標模型暫時呼叫不通、工作必須先在別的模型上推進，用 Universal Video Prompt Skill。
 
 ### 安裝
 
@@ -173,7 +173,7 @@ npx skills add AtlasCloudAI/awesome-seedance-2.5-prompts-skills --skill universa
 | 提示詞總數 | **150** |
 | 分類數 | **33** |
 | 預覽影片數 | **50** |
-| 最後更新 | **2026-08-03** |
+| 最後更新 | **2026-08-04** |
 
 <a id="featured-prompts"></a>
 
@@ -4456,4 +4456,4 @@ npx tsc --noEmit
 
 > 所有提示詞僅用於學習、整理與檢索。如有內容需要移除，請提交 issue。
 
-> 此 README 為自動生成。 2026-08-03.
+> 此 README 為自動生成。 2026-08-04.
