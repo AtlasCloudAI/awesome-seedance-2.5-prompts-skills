@@ -22579,5 +22579,125 @@
       "confidence": "low",
       "needs_preview": true
     }
+  },
+  {
+    "id": "x_2089906950192722017",
+    "sort_order": 3028,
+    "title": "Macro Rescue in a Water Droplet",
+    "description": "A prompt for creating a video of a tiny rescue boat and diver inside a giant water droplet with realistic ocean effects.",
+    "prompt": "Create a cinematic macro video of a tiny rescue boat and diver floating inside a giant water droplet, with realistic bubbles, ocean waves, dramatic lighting, and smooth camera",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/seedance-2-5/x_2089906950192722017.mp4",
+    "author_name": "Zarnab Ai",
+    "source_platform": "x",
+    "source_link": "https://x.com/Zarnab_with_Ai/status/2089906950192722017",
+    "language": "en",
+    "featured": false,
+    "source_meta": {
+      "original_id": "2089906950192722017",
+      "x_author_handle": "Zarnab_with_Ai",
+      "confidence": "low",
+      "needs_preview": true
+    },
+    "local_media": {
+      "images": [],
+      "video": "media/seedance-2-5/x_2089906950192722017.mp4"
+    }
+  },
+  {
+    "id": "x_2089899950134153457",
+    "sort_order": 3029,
+    "title": "Motorcyclist vs. Giant Octopus on Bridge",
+    "description": "A cinematic action sequence of a lone motorcyclist trapped on a bridge as a giant octopus erupts from the water.",
+    "prompt": "Generate a 30-second cinematic action sequence, one continuous visual narrative following KAITO, a lone motorcyclist, trapped on a busy two-way bridge when KYODAKO, a colossal octopus, suddenly erupts from the water and destroys the bridge.",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/seedance-2-5/x_2089899950134153457.mp4",
+    "author_name": "harryskomi",
+    "source_platform": "x",
+    "source_link": "https://x.com/HarrysKomi/status/2089899950134153457",
+    "language": "en",
+    "featured": false,
+    "source_meta": {
+      "original_id": "2089899950134153457",
+      "x_author_handle": "HarrysKomi",
+      "confidence": "low",
+      "needs_preview": true
+    },
+    "local_media": {
+      "images": [],
+      "video": "media/seedance-2-5/x_2089899950134153457.mp4"
+    }
+  },
+  {
+    "id": "x_2089899904252747793",
+    "sort_order": 3030,
+    "title": "Continuous Shot of Speeding Motorcycle",
+    "description": "A video prompt for a single continuous shot following a speeding motorcycle along a coastal road with dunes and surf.",
+    "prompt": "ONE CONTINUOUS SHOT, NO CUTS. The camera stays locked to the speeding motorcycle for the whole fifteen seconds, hard engine vibration and wind buffeting throughout. The coast road, dunes and breaking surf streak past",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/seedance-2-5/x_2089899904252747793.mp4",
+    "author_name": "Camille",
+    "source_platform": "x",
+    "source_link": "https://x.com/justcamilleing/status/2089899904252747793",
+    "language": "en",
+    "featured": false,
+    "source_meta": {
+      "original_id": "2089899904252747793",
+      "x_author_handle": "justcamilleing",
+      "confidence": "medium",
+      "needs_preview": true
+    },
+    "local_media": {
+      "images": [],
+      "video": "media/seedance-2-5/x_2089899904252747793.mp4"
+    }
+  },
+  {
+    "id": "x_2089892996036927746",
+    "sort_order": 3032,
+    "title": "Night Rain City Cinematic Confrontation",
+    "description": "A prompt for creating a 30-second cinematic movie scene in a modern city at night after rain, starting with an emotional confrontation.",
+    "prompt": "Create a 30-second ultra-realistic cinematic movie scene set in a modern city at night after rain.\n\nScene 1 — Emotional confrontation (0–7 sec):\nOutside a",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/seedance-2-5/x_2089892996036927746.mp4",
+    "author_name": "shah_zadii",
+    "source_platform": "x",
+    "source_link": "https://x.com/sha_zdiii/status/2089892996036927746",
+    "language": "en",
+    "featured": false,
+    "source_meta": {
+      "original_id": "2089892996036927746",
+      "x_author_handle": "sha_zdiii",
+      "confidence": "medium",
+      "needs_preview": true
+    },
+    "local_media": {
+      "images": [],
+      "video": "media/seedance-2-5/x_2089892996036927746.mp4"
+    }
+  },
+  {
+    "id": "x_2089872722000269726",
+    "sort_order": 3035,
+    "title": "Photorealistic Fitness Girl Vlog",
+    "description": "A prompt for creating a 12-second, 9:16 vertical, photorealistic fitness vlog video with beat-synced rapid cuts and detailed physical textures.",
+    "prompt": "健身girl vlog视频\n\n【风格】真人写实健身房训练短片（Photorealistic Fitness Video），高密度卡点剪辑（Beat-synced Rapid Cuts），运动广告质感，真实力量与器械物理反馈，4K高清，自然皮肤、汗水与布料纹理\n【时长】12秒\n【比例】9:16竖屏",
+    "category": "Twitter Community",
+    "video_url": "https://static.atlascloud.ai/prompt/seedance-2-5/x_2089872722000269726.mp4",
+    "author_name": "Modengsir AI",
+    "source_platform": "x",
+    "source_link": "https://x.com/ModengSir/status/2089872722000269726",
+    "language": "en",
+    "featured": false,
+    "source_meta": {
+      "original_id": "2089872722000269726",
+      "x_author_handle": "ModengSir",
+      "confidence": "low",
+      "needs_preview": true
+    },
+    "local_media": {
+      "images": [],
+      "video": "media/seedance-2-5/x_2089872722000269726.mp4"
+    }
   }
 ]
