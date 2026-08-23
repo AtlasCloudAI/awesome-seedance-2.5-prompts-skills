@@ -176,7 +176,7 @@ npx skills add AtlasCloudAI/awesome-seedance-2.5-prompts-skills --skill universa
 | 提示詞總數 | **150** |
 | 分類數 | **33** |
 | 預覽影片數 | **50** |
-| 最後更新 | **2026-08-22** |
+| 最後更新 | **2026-08-23** |
 
 <a id="featured-prompts"></a>
 
@@ -4459,4 +4459,4 @@ npx tsc --noEmit
 
 > 所有提示詞僅用於學習、整理與檢索。如有內容需要移除，請提交 issue。
 
-> 此 README 為自動生成。 2026-08-22.
+> 此 README 為自動生成。 2026-08-23.
